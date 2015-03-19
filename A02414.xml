@@ -1,0 +1,462 @@
+
+   
+      
+         
+            Pieties pillar: or, A sermon preached at the funerall of mistresse Elizabeth Gouge, late wife of Mr. William Gouge, of Black-friers, London With a true narration of her life and death. By Nicholas Guy, pastor of the church at Edge-ware in Middlesex.
+            Guy, Nicholas, b. 1587 or 8.
+         
+         
+            
+               1626
+            
+         
+         Approx. 62 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2009-03 (EEBO-TCP Phase 1).
+            A02414
+            STC 12543
+            ESTC S103587
+            99835786
+            99835786
+            6
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A02414)
+            Transcribed from: (Early English Books Online ; image set 6)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 1025:06)
+         
+         
+            
+               
+                  Pieties pillar: or, A sermon preached at the funerall of mistresse Elizabeth Gouge, late wife of Mr. William Gouge, of Black-friers, London With a true narration of her life and death. By Nicholas Guy, pastor of the church at Edge-ware in Middlesex.
+                  Guy, Nicholas, b. 1587 or 8.
+               
+               [8], 52 p.   
+               
+                  Printed by George Millar [sic], dwelling in Black-Friers,
+                  London :
+                  1626.
+               
+               
+                  Reproduction of the original in the British Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Gouge, Elizabeth, d. 1625.
+               Funeral sermons.
+            
+         
+      
+      
+         
+            2007-11
+            TCPAssigned for keying and markup
+         
+            2008-01
+            SPi GlobalKeyed and coded from ProQuest page images
+         
+            2008-02
+            Elspeth HealeySampled and proofread
+         
+            2008-02
+            Elspeth HealeyText and markup reviewed and edited
+         
+            2008-09
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            Pieties Pillar: OR, A SERMON PREACHED AT the Funerall of Miſtreſſe ELIZABETH GOVGE, late Wife of Mr. WILLIAM GOVGE, of Black-friers, London.
+With a true Narration of her Life and Death.
+            
+            By Nicolas Guy, Paſtor of the Church at Edge-ware in Middleſex.
+            
+            
+               PROV. 31 30.
+               A Woman that feareth the Lord, ſhe ſhall be praiſed.
+            
+            LONDON, Printed by George Millar, dwelling in Black-Friers. 1626.
+         
+         
+            
+            
+            TO THE RIGHT HONOVRABLE, SIR THOMAS LAKE, Knight, of CANONS, in Middleſex.
+            
+               SIR,
+            
+            
+               THe Parable of our Sauiour in the Goſpel muſt bee my Apologie for the publication of this Sermon to the eye and cenſure of the world,Luke 11.
+                the which at the firſt when I preach't it, I thought not worthy your iudicious eares in my priuate Church: but being ouercome by the importunity of the reuerend Diuine, Maſter Gouge, I condeſcended (though ſore againſt my will) to giue way to his deſire: thus haue I made
+
+a Vertue of Neceſſity, and as it is in the Prouerbe, Vnica fidelia duos dealbaut parietes: I haue both ſatisfied his pious deſire for the preſeruation of the memory of his vertuous and religious Wife: and alſo (hauing no better to preſent your Honor withal) I am bold to offer this, as the poore man brought water in his hands to Artaxerxes: only as a teſtimony of my willingneſſe to returne ſomething to your Honors hands, from whom I haue receiued ſo much (euen all the maintenance that now I haue) either immediately from your Honour, or mediately by your Honours procurement. It was my happineſſe to be trained vp by that Illuminate Doctor, Prelate &amp; Pillar of our Church, your Brother, and the now moſt reuerend and religious, Lord Biſhop of Bath and Wells; and ſince to be ſuſtained by your Honour. So that I may iuſtly ſay with the Pſalmiſt,Pſal 27.10 When my Father and my Mother forſooke mee, the Lord
+
+tooke me vp, and committed mee to the charge of one Brother, of prime place in the Church, for my ſpirituall eſtate; and to your Honour, the other Brother, of principall place in the common wealth for my temporall. Now beſides your Honours fauours to me in particular; your many reall fauours and great affection to the Church and Churchmen, both when you were in publike place of Honourable imployment to our lately gracious Soueraigne, King Iames, of euer famous and happy memory; and alſo ſince your priuate retiredneſſe, may iuſtly challenge the beſt of our Labours to be conſecrated to ſo learned and noble a Patron of Learning. Beſides theſe former reſpects, your Honour hath yet another intereſt in theſe my weake endeuours: becauſe you went chiefe amongſt many worthy and worſhipfull Auditors, which honoured the Funerall with your preſence. In all theſe reſpects, I
+
+hope your Honour will fauourably be pleaſed to accept that of mee, which Almighty God doth of vs all, a willing heart and deſire. Saint Paul tells vs,2 Cor. 8.12. in his ſecond Epiſtle to the Corinthians, that God accepts vs according to that which wee haue, not according to that which wee haue not. If in this your Honour pardon my ouer-great preſumption, you ſhall more and more make me
+            
+               Obliged in all the bonds of reſpect and ſeruice to your Honour, Nicolas Guy.
+               
+            
+         
+         
+            
+            To the Reader.
+            
+               Good Reader:
+            
+            
+               IT fell out with the Gentlewoman, at whoſe Funerall this Sermon was preached, as it did with Iaakobs beloued Rachel. In a Miſtreſſe GOVGE brought forth her laſt Childe into this world, and went her ſelfe out of this world, in the Country houſe of Maſter Simon and Miſtreſſe Anne Geering: who inhabiting the greateſt part of the yeere in Black friers Londo, were deſirous to ſhew to their Paſtor there, ſuch reſpect as the Sunemite and her huſband did to Eliſha, &amp; Oneſiphorus to Paul.
+                ſtrange place they both fell in trauell, and in the time of their child-bed they both departed this life. Anſwerably as Iaakob would not haue his Rachels memory periſh with her corps, but for better preſeruation thereof, erected a Pillar vpon her graue, ſo to the ſame end it is deſired, that this Funerall Sermon may be publiſhed. Rachel could not be more deare to her Iaakob, then this Elizabeth was to her William. In her life time ſhe carried her ſelfe worthy of all honour: and at her Funerall ſhe was honoured with all the honour that on ſuch a ſudden the Country where ſhe departed
+
+could afford. Her ſweet ſoule left her body about one of the clocke in the afternoone of the 26. of October, 1625. being Wedneſday, whereupon her Corps being infected with the Dropſie, and all the Pores of it open, by reaſon of her late trauell and weakeneſſe in Child-bed, could not bee long kept, but on the Fryday following, which was Simon and Iudes day, was buried vnder the Communion Table in the Church, at Edgeware, in the County of Middleſex, being accompanied with a great multitude of ſundry ſorts of perſons, Honourable, Worſhipfull, and others. For beſides that, two whole Pariſhes there met together, Knights, Ladies, Iuſtices of Peace, Miniſters and other good Chriſtians round about that place, came farre and neere to the ſolemnization of that Funerall. That the due honour done to her may be more then the honour of one day, this Pillar of Pietie is now erected for encouragement to others in their life time to walke worthy of honour.
+         
+      
+      
+         
+            
+            A SERMON Preached at the Funeral of Miſtreſſe Elizabeth Gouge, late Wife of Maſter William Gouge of Black-Fryers, London.
+            
+               
+                  IOHN 11.26.
+                  Whoſoeuer liueth, and beleeueth in me, ſhall neuer dye.
+               
+            
+            
+               THE Embleme of the Euangeliſt Saint Iohn was the Eagle, which being King of all the Fowles of the Heauen, ſoares the higheſt of all other Birds; ſo may Saint Iohn in his Goſpell claime precedency before the other Euangeliſts: hee was the Diſciple of our Sauiours loue, his Fauorite, on
+
+Chriſts boſome he leaned at Supper,
+                  Ioh 13.23. and to him Chriſt at his death commended his Mother, ſo that wee may thinke that Chriſt did impart more to him then to the reſt: therefore ſhall wee finde in his Goſpell higher myſteries of the nature and workes of Chriſt then in the other: and in him alone we finde this myracle of raiſing Lazarus: which (if it bee lawfull to compare) may ſeeme to be the greateſt of all that Chriſt did whilſt hee was in this world. It is a ſtory not altogether vnbefitting this preſent occaſion, if it were not for the diſparity of the ſexe. Both of them treat of Funeralls. I will firſt tell you what this was in the Goſpell, and after I haue done with that, this preſent occaſion ſhall bee preſented vnto you. I muſt not (in the relation of this Story) ſpend time vpon the ſeuerall circumſtances, wherein the Euangeliſt is ſo exact; thats done at large in the Chapter: onely for introduction
+
+of this particular which wee haue in hand, ſome paſſages I will point out vnto you. Firſt, of the Perſon that was ſicke and dyed. Secondly, of the meanes his friends vſed for his recouery. Thirdly, of Chriſts comfortable ſpeech which he gaue vnto them.
+            Firſt, for the Perſon, it was Lazarus, brother to Martha and Mary Magdalene, which waſhed Chriſts feet with her teares, and wiped them with her Haires, and anointed them with Ointment; this was his Kindred by nature; and by grace hee was honoured with the title, to be a friend of Chriſts, whom Chriſt more eſpecially loued. Thus euen they who are the moſt dearely beloued of Chriſt must looke for afflictions, and infirmities, and ſickneſſe, and death in this world. Lazarus whom Chriſt loued was ſicke. 2. His Siſters therefore vſe the beſt meanes they can whilſt hee was ſicke. For his recouery they ſend to Chriſt, to teach vs that we can ſue and ſeeke to
+
+none in compariſon of Chriſt in all our troubles. For as hee was reputed in thoſe dayes a great Phycitian for the body, who cured all diſeaſes: ſo is he for the ſoule too, to heale all our miſeries. 3. For Chriſts part, though he loued Lazarus, yet hee doth not preſently come to cure him, but ſuffers him to dye. Hee abode two dayes in the place where hee was, till Lazarus was dead: from whence wee may note, that Chriſt ſuffers the euill of affliction to come vpon his ſeruants whom hee loues, rather then preuents it with grace; and then alſo he doth not preſently relieue them, but ſuffers them to ſend and pray, as theſe Siſters did here: and as Iacob wreſtled with God, and Saint Paul prayed thrice. And this he doth for diuers cauſes, both to manifeſt our grace and his glory. Our faith and loue to him by this meanes will expreſſe themſelues the more: and this alſo will more manifeſt his glory in bringing downe to Hell and
+
+the graue, and then bringing againe to life. If Chriſt had come at the firſt and healed his ſickneſſe, an ordinary Phyſitian haply could haue done as much: but though he tarry long, yet at laſt hee comes and ſhewes the gracious light of his countenance vpon vs▪ ſo that now you ſhall heare him with comfortable words, ſpeaking both to his Apoſtles in priuate, and afterward to the Siſters when they come to meet him: to his Apoſtles he ſaith, Our friend Lazarus ſleepeth: ſo that if wee can get friendſhip with Chriſt, our death ſhall bee but a ſleepe, and Chriſt will certainely awake vs from it at the reſurrection of the iuſt. So Chriſt goes forward to the houſe of mourning, where the Iewes were comforting the Siſters for the death of their brother Lazarus. But they were like Rachel mourning for her children, they refuſed to bee comforted becauſe their brother Lazarus was not. When Martha heard that Chriſt
+
+was comming on the way, ſhe went forth to meete him: few ſuch Marthaes who meet Chriſt comming toward them, we rather flye from him. When ſhee was come to Chriſt, ſhee tells him with a heauy heart of the death of her brother Lazarus, which his preſence might haue preuented. Chriſt therefore, in the words I haue read vnto you preacheth a comfortable Sermon, to pacifie the friends of the deceaſed, that they ſhould not ſorrow as thoſe without hope; and tells Martha that her brother Lazarus (though he be dead) ſhall riſe againe. And that ſhe may not doubt of it, hee addes, That he will bring it to paſſe, not onely for Lazarus, but for all other deceaſed in the faith: and therefore he ſayes, I am the reſurrection and the life, he that beleeueth in me, though he were dead, yet ſhall he liue; and whoſoeuer liueth and beleeueth in mee ſhall neuer dye. So that the words of the Text which I haue read vnto you are
+
+a gracious and a large Charter or promiſe of Chriſts, wherwith he comforts Martha for her particular, and grants the ſame in generall to euery one of vs: In which is comprehended no leſſe then the ſumme or Epitome of the Goſpell, which is, To beleeue in Chriſt, and we ſhall be ſaued.So it is ſaid,
+                  Ioh. 3.16. 
+               God ſo loued the world that hee gaue his onely begotten Sonne, that whoſoeuer beleeueth in him ſhould not periſh but haue euerlaſting life. All the Goſpell can ſay no more, and ſo much is ſaid in theſe words that I haue read vnto you, whoſoeuer liueth, &amp;c.
+            
+            The Law and the Goſpell are as two lines tending to the ſame Center, or as diuers Riuers leading to the ſame Ocean, or as the Cherubins on each ſide of the Throne: though they ſeemed oppoſite one to the other, yet both of them looked with their faces towards the mercies Seat: ſo the Law and the Goſpell intend and aime at one and the ſame end, which is to
+
+bring men to life; but the difference is in the Author and in the tenure of the one and the other: the Author of the Law was Moſes; Chriſt of the Goſpell.
+                  
+                     〈◊〉
+                  . 1 17. 
+               The Law was giuen by Moſes, but grace and truth came by Ieſus Chriſt. The tenure of the Law runnes thus: Hoc fac &amp; viues: Doe this and thou ſhalt liue. But the Goſpell goes another way: Crede &amp; viues: Beleeue and thou ſhalt liue. And thus in this Text, whoſoeuer liueth and beleeueth in mee ſhall neuer dye.
+            
+            In the words we will conſider theſe foure particulars:
+            Firſt, the Author or Donour of this Charter, Christ.
+            
+            Secondly, the large extent of it, next onely to ſome particular Nation or people, but whoſoeuer liueth.
+            
+            Thirdly, the Condition requiſite on their parts, which is faith; Beleeueth in me.
+            
+            Fourthly, the Priuiledge it ſelfe, exemption from death; ſhall neuer dye.
+            
+            
+               Firſt, of the Author or Donour. Hee that promiſeth and intendeth to performe, muſt haue both will and power to performe what hee promiſeth: or elſe wee cannot exſpect that it will euercome to paſſe. The willingneſſe of the minde muſt bee firſt procured, as the originall from whence hee muſt be moued to good: but this ready minde or deſire is not ſufficient without power and ability to performe what the will deſires. From men ſometime God accepts the will for the deed: as hee did Abrahams intention to ſacrifice his ſonne as well as the action; as if he had really ſacrificed his ſonne. The reaſon is, becauſe God ſtands in need of nothing that is ours, and all that hee exacts of vs is no more but the heart: if there be not further ſtrength to expreſſe a good deſire by a good deede;2 Cor 8.12. 
+               a man ſhall bee accepted according to that which hee hath, not according to that which he hath not: but
+
+when there is want and neceſſity (and euen ſuch is our want and neceſſity in reſpect of God) there onely a willing minde or compaſſionate heart or good words (Vox &amp; preterea nihil) are ſufficient for vs. Many promiſe more then they can performe. Thus the Deuil in his temptation of Chriſt ſaith,
+                  Mat. 4. 
+               All theſe will I giue thee if thou wilt fall downe and worſhip me, as if all the Kingdomes in the world, and the glory of them, had beene his to giue. In like manner the Pope freely diſpoſeth Kings and their Kingdomes, as hee dealt with Henry the fourth, the Emperour, and Childerick of France. But this is (as we ſay) to be free of another mans purſe, which is not in his power to giue. Thus it were eaſie to giue large gifts, to promiſe much and performe nothing: ſo that both will and power in matter of grant or promiſe are as the two legs to ſupport the body: either without the other, will goe lame or limping home: but
+
+this is our comfort, that in Chriſt there are both theſe, Will and Power. Firſt, for his Will: the Apoſtle tells vs,1 Tim. 2.4. that he would haue all men come to the knowledge of the truth, that they may be ſaued. And if we will not take him on his bare word wee haue his oath for it.
+                  Ezek. 33.11. 
+               As I liue (ſaith the Lord) I haue no pleaſure in the death of the wicked, but that the wicked tuane from his way and liue. So that we may bee ſure for his willingneſſe to doe: hee would not that any man ſhould dye: then if we may ſee his power to doe it, there remaines nothing more to adde to our comfort: and for this wee ſhall eaſily be aſſured: for hee is ſaid to haue the keyes of hell and of death;
+                  Reu. 1.18. ſo that though a man ſhould be lockt vp priſoner there, hee hath the Keyes to open the doore and ſet vs free againe.
+                  Mat. 28.18. 
+               To him all power is giuen both in Heauen and in earth. Power then hee hath ſufficient, as much as we can deſire: the power of the greateſt Monarches
+
+and Emperours, and wiſeſt Artiſts in the world doth not extend thus farre, to giue life to the ſillieſt creature, to the leaſt Gnat or Emmot. They that are ſtiled Gods in the world, and ſit in the ſeat of Iudgement, as Pilate did, haue power ouer life, but onely priuitiuely, not poſſitiuely; onely to take away life, but not to giue life, vnleſſe it be onely by way of ſauing aliue; they cannot make aliue or reſtore to life: and therefore it was that the King of Iſrael anſwered Naaman with indignation,
+                  2 King. 5.7.
+                
+               Am I God, to kill and make aliue? This is a worke of God alone. But this power is giuen to Chriſt; who is therefore called,
+                  Joh. 1.1, 4. 
+               Verbum Vitae, Fountaine of Life.Pſal. 36.9.
+                From whence the diuers ſtreames of all kinds of life doe flow, both naturall, ſpirituall, and eternall: in regard of the naturall life, he is called,Gen. 2.7.
+                The life who breathed the breath of life into vs: and man became a liuing ſoule.
+                  Act. 17.28. 
+               In whom wee ſtill liue,
+
+moue, and haue our being. In regard of our ſpirituall life, he is our life:
+                  Gal. 2.20. 1 Ioh. 5.12. 
+               So Chriſt liues in vs, and hee which hath Christ hath life, but hee which is without Chriſt hath not life. In regard of our eternall life he is the life, as appeares by the Verſe immediately going before my Text, I am the reſurrection and the life. Thus to his will he hath alſo power; to both theſe what more can be added? It may bee you will deſire that he ſhould bee as conſtant in his promiſe, as he is ready and willing, and hath power and ability. Of this alſo wee may bee aſcertained,
+                  Iam. 1.17. for euery good and perfect gift commeth from aboue from the Father of lights, with whom is no variableneſſe, nor ſhadow of change.
+               1 Sam. 15 29 
+               The ſtrength of Iſrael will not lye, nor repent: for he is not man that hee ſhould repent. So that if hee hath once promiſed, wee need not feare he will goe back from his word. Hath he ſaid it, and ſhall it not come to paſſe? Let him be true, and euery man
+
+a Lyar. So then, you ſee in reſpect of the Author or Donour, the Charter is as full and ſure as we can deſire it.
+            I come to the ſecond particular, the large extent of it: whoſoeuer liueth. It is without limitation of time or place or condition of men. It is not bounded within the compaſſe of ſome particular men liuing in ſuch an age of the world, nor vnto a certaine people inhabiting ſuch a City or Land; nor to particular eſtates or profeſſions and conditions liuing in this world. If we partake not of it, the fault is ours, becauſe we doe not apply it nor lay hold on it: it is promiſed and proffered to all men liuing: whoſoeuer liueth. In what age of the world ſoeuer hee liueth, in what place ſoeuer he liueth, from what ſtocke ſoeuer hee is deriued, and in what condition of life ſoeuer he liueth,Prov. 
+                     
+                        •
+                     2.
+                        •
+                     .
+                
+               the rich and the poore (ſaith Salomon) meete together, and God is the maker of them both: ſo is Chriſt the Sauiour of both. Of a truth
+               
+(ſaith Saint Peter) I perceiue that God is no reſpecter of perſons.
+               
+                  Acts 10.34. Not of the rich before the poore, nor of the wiſe, and Scribe, and learned, before the weake and vnlearned. But in euery Nation, hee that feareth him and worketh righteouſneſſe, is accepted with him. Scythian and Barbarian, as well as Iew or Grecian: bee hee of noble or baſe deſcent. This is the large extent; Whoſoeuer. I willingly paſſe by the ſecret purpoſe and preſcience of God, who ſees all things at once, omnia ſimul, and ſo knowes who will embrace it and who refuſe it. I will not here diſpute whether in thoſe generall promiſes made vnto man in the Scripture by this forme, in theſe words, Whoſoeuer liueth and beleeueth, whether (I ſay) God intendeth them alike to euery one: this is a ſecret lockt vp in the boſome of God, of which wee may ſay as the Prophet, 
+                  〈 in non-Latin alphabet 〉
+               :
+                  Iſa. 24.16. this is a ſecret reſerued to God alone, which ſome interpret,
+
+               Secretum meum mihi, Secretum meum mihi. This is a profundity, at which we muſt ſtand amazed with the Apoſtle,
+                  Rom. 11.29. and cry, Oaltitudo; O the depth, his wayes are paſt finding out. But laying that aſide for the Schooles, this is that which is more fit to exhort and perſwade withall in our Pulpits,Article 7. and which our Church hath taught vs, that we ſhould content ourſelues with this, we muſt receiue Gods promiſes in ſuch wiſe as they he generally ſet forth vnto vs in holy Scripture; not reſtraining them or determining them in particular to this or that man. It is fit that we ſhould ſo conceiue of God, as delighting in no mans deſtruction, nor deſiring the death of any, but that all ſhould come to the knowledge of the truth, that they may bee ſaued; and if wee are not ſaued, wee muſt not charge God with any ineuitable decree to the contrary, as if wee periſh vpon neceſſity: but ſeeing hee hath ſet forth his gracious promiſe in
+
+Chriſt to all men whoſoeuer liueth and beleeueth: wee muſt aſcribe the cauſe of our periſhing to our ſelues. Perditio tua ex te, O Iſrael, O Iſrael,
+               
+                  Hoſ. 13.9. 
+               thou haſt deſtroyed thy ſelfe, becauſe they wanted faith to beleeue as others that were ſaued; or elſe they might haue beene ſaued as well as others. It was a fauourable opinion of ſome, which ſaid, That all mankind ſhould bee ſaued effectually, to which, although we muſt not giue aſſent, ſeeing ſuch pregnant proofe to the contrary: yet we doubt not but the reuealed Will of God would haue his Grace offered to all, and therefore his charge to his Apoſtles was,
+                  Mat. 28.19. Mar. 16.15. 
+               Goe and teach all Nations, and preach the Goſpell to euery creature: the which, as it ſeemes, to vindicate God from all iniuſtice, in the behalfe of thoſe that dye, and are damned eternally: ſo it is a point of exceeding comfort to whomſoeuer this priuiledge ſhall bee offered. At the hearing of it, none
+
+ſhould doubt or ſuppoſe that hee is exempted: but ſhould beleeue himſelf to be one of that number comprehended in whoſoeuer liueth. The Iew cannot challenge this priuiledge more then the Gentile, for he is the Sauior of the Gentiles as wel as of the Iewes. The Goſpell is the power of God vnto ſaluation to euery one that beleeueth:
+               
+                  Rom. 1.16. 
+               to the Iew firſt, and alſo to the Grecian: neither is there any reſpect or difference in Sex or degree, male or female, bond or free, noble or ignoble, wiſe or vnwiſe.
+                  Rom. 10.11, 12. 
+               There is no difference, but he that is Lord of all is rich vnto all that call vpon him: ſo that here alſo we ſee a difference betweene the Law and the Goſpell. The Law was giuen to a certaine people confined to Ieruſalem, Iury, and Iſrael. Few other people of the world had any knowledge of it, or meanes to know it.
+            
+               In Iuda is God knowne,Pſal. 76.1.
+                   his Name is great in Iſrael. Hee dealt not ſo with any Nation, neither had the Heathen
+
+knowledge of his Lawes. But the Goſpell was preached to all;
+                  Pſal. 147.20 the ſound of the Apoſtles went forth to all people: euen to the vttermoſt end of the earth. Hence in the Church Cathotique, the company of beleeuers are of all people, and kinds, and kindreds that liued in the world: ſo that the Law was like a Torch or Candle, but the Goſpell as the Sunne. The Law (ſaid Dauid) was a Lantherne to his feet,
+               
+                  Pſal. 119.105. but the Goſpell is as the beames of the Sunne, which commeth out of his chamber and goeth to the ends of the earth, giuing light vnto all people. Thus is the light of Chriſt the Sunne of righteouſneſſe, as the beames of the Sunne which ſhineth to all; and if any one doe not partake of that light, it is becauſe they ſhut their eyes againſt it: ſo ſeeing they doe not perceiue nor vnderſtand, leaſt they ſhould ſee, beleeue and bee ſaued. Thus much for the vniuerſality of this Charter or priuiledge, excluding
+
+none, comprehending all, whoſoeuer liueth; vpon condition that he beleeueth. By faith he partakes of the priuiledge. This is the onely limitation of Gods mercy and promiſe in Chriſt. Faith is the Chanell by which it is drawne and diſperſed ouer all the world, and makes the earth to bee fruitfull as Eden, the Garden of God. The eternall fauour and goodneſſe of God is as the Fountaine, Chriſt is the Wel or Ceſterne, and Faith is the Bucket whereby we draw from Chriſt liuing waters. He that beleeues in him ſhall neuer dye: So that when wee ſay, Faith is the condition of life and ſaluation, you muſt note that it is not ſuch a condition, as we vſually make in Bonds and Obligations, and bargaine and ſale, which runnes in this tenure, Vpon conſideration of ſomething of equall value, wee become bound for the performance of ſuch Couenants: as if the condition of faith ſhould bee worth Heauen.
+            
+               It is not for the worth of our faith, put for the merit of Chriſt, that the faithfull ſhall never dye eternally. And therefore the Scripture phraſe runnes thus; By faith, and through faith wee are iuſtified. Not for faith, but for Chriſt apprehended by faith. So that it is not faith as an habite, or worke in the ſoule, as other graces, loue and patience, &amp;c. which is of equall worth and vertue to preſerue vs that we periſh not, but it is Chriſt alone, who yet hath no vertue or operation in our ſalvation, and redemption without beleeving on our parts, to apply him to vs: no more then phyſicke can cure a deadly diſeaſe, or cloth affoord any warmth to our bodies, if they be not both applyed vnto vs: ſo that the Charter runneth betweene God and man, like as if a King ſhould grant a great priuiledge to his ſubiects, which they ſhould not purchaſe at a hard price, or with a great ſumme, but onely vpon condition to acknowledge
+
+him their ſoueraign Lord from whom they had receiued ſuch great immunities: which is a point of great comfort to the Chriſtian weake in faith: becauſe it is not for the worth or excellencie of our faith that we muſt thinke to ſtand. Though a ſtrong faith is an excellent grace, which will make vs as a Rocke, or as houſes built vpon the ſure Rocke Chriſt: the ſtormes and ſea and windes of temptation and affliction may beat, but they ſhall not be able to ouerthrow vs, becauſe wee are built vpon a Rocke: yet a little and feeble faith, which with feare &amp; trembling layes hold vpon Chriſt ſhall neuer periſh, becauſe it is not the dignitie of faith, which conueyes the benefit vnto vs: but the worth, excellency &amp; ſufficiencie of Chriſt, which is apprehended by faith. It was not for the vertue of the eye which looked vp to the brazen ſerpent that men were healed, that had been ſtung with fierie Serpents; the weakeſt eyes
+
+as well as the moſt ſharpe ſighted, if they could but look vp to it, were healed: and the begger which receiues a gift may be fully poſſeſſed of it, euen with a trembling and ſhaking hand, as well as he that hath the moſt ſtedfaſt hand. But though a weake faith, beleeving in him, may ſerue the turne, yet faith there muſt bee, or elſe no hope for this priviledge.
+                  Heb. 11.6. For without faith it is impoſsible to pleaſe God. So that this is that which puts a difference betweene the ſheepe and the goats, the wiſe &amp; the fooliſh virgins, the faithfull, and vnbeleevers. Some ſay, that beleeving onely without other good works, wil neuer bring vs to life: the which though in ſome ſence we deny not: yet this is moſt certaine that all other vertues, without faith to beleeue in Chriſt, are nothing worth. This is that vnum neceſſarium, which the Goſpell requires of vs, to beleeue in Chriſt; and for want of this, how many Infidels, Iewes and Turks periſh
+
+euerlaſtingly? euen all thoſe morall vertues of the Heathen, their chaſtity, iuſtice, temperance, &amp;c. wherewith diuers of them did abound and exceed many Chriſtians in them, were all but ſplendida peccata;
+                  
+                     〈◊〉
+                   115. becauſe to the Infidell and vnbeleeuing, all things are impure: ſo that notwithſtanding all theſe, if they remaine without faith in Chriſt, they ſhall dye. For as there is but one name giuen vnder Heauen, by which we muſt be ſaued; which is the bleſſed and ſweet name of Ieſus: ſo is there no way to attaine vnto ſaluation by that name, but by beleeuing in him. But as I haue ſhewed you that this faith to beleeue is neceſſary, and a weake faith may be accepted with God: before I leaue the point, it will not be amiſſe ſomething more fully to ſhew you the nature of true and ſauing faith: which conſiſteth not onely in beleeuing in Chriſt in the Hiſtory, for there is Credere de Chriſto, credere Chriſto, credere in
+
+Chriſtum. The firſt is to beleeue all is true which the Scriptures report, concerning the Nature, Offices, and Merits of Chriſt: this a man may do, and finde no vertue or fruit of it in his owne ſoule. The ſecond is to beleeue Chriſt as wee would a man of his word, giue credit to whatſoeuer hee hath ſaid: this wee may doe to the Prophets and Apoſtles: but we muſt come neerer him then ſo, which is the third, to beleeue in him: which implies a dependency and reſolution to cleaue vnto him. As wee apprehend Chriſt,Phil. 3.12.
+                ſo muſt wee likewiſe be apprehended of Christ: for Faith hath (as it were) two hands, one receiuing Chriſt from God, the other giuing the Beleeuer to God; and both theſe hands 
+                  •…
+               t vſeth at one and the ſelfe ſame time. At the ſame time that the Beleeuer applies Chriſt to his owne heart, he applies his heart to Chriſt, and cleaues to him with full purpoſe of 
+                  •
+               oule. This was notably ſhadowed
+
+out vnder the Ceremoniall Law, in the coniunction of the ſin-offering which pointed out Chriſt, and the burnt-offering, which (as Saint Paul hath interpreted it) more eſpecially ſignifieth the ſacrificing of the fleſh, the crucifying of the old Adam. I beſeech you therefore brethren,
+               
+                  Rom. 12.1. 
+               by the mercies of God, that yee preſent your bodies a liuing Sacrifice, holy, acceptable vnto God, which is your reaſonable ſeruice. True faith offers both theſe at once. But too many mens faith is lame on that hand which ſhould offer the burnt Offering; they onely take Chriſt, but they giue not themſelues to Chriſt: they offer the Sinne-offering without the burnt Offering, and therefore applying Chriſt to themſelues, and not themſelues to Chriſt, they miſapply. It is therefore, as St. Bernard calls it, Infidelis fiducia, a faithleſſe confidence for any man to perſwade himſelfe, or preſume that Chriſt Ieſus is his Sauiour, or that he
+
+hath any part, either in the life or death of Chriſt, albeit hee continue vnder the power of ſinne and Satan. Such a faith, to ſpeake in the words of the Poet, is fallax fiducia, a confidence whereby men couſen and deceiue themſelues, in hoping to attaine vnto Heauen, though they hold on in the high way that leadeth vnto Hell. Nay, it is indeed in effect, to blaſpheme and diſhonour Chriſt, by denying (though not in word, yet indeed) that there is any power in his death, any vertue in his reſurrection, any renewing grace receiued from him, to ſanctifie thoſe who truly beleeue in him. Turkes and Pagans who plainely deny him, doe not derogate ſo much from the glory of Chriſt, as doe prophane profeſſors of his name: tolerabilius enim lingua quam vita mentitur. The lye (ſaith Saint Auguſtine) which is made by the lippe, is more tolerable then that which is made by the life. Can Chriſt dwell
+
+                  
+                     〈1 page duplicate〉
+                  
+                  
+                  
+                     〈1 page duplicate〉
+                  
+                  
+in their hearts by faith (as Saint Paul ſpeaketh) and not liue in them.
+               
+                  Eph 3 17. Gal. 2.20. In whoſe heart ſoeuer Chriſt is reſident by faith, there hee reignes, and diſpoſeth him as it ſeemeth beſt to his godly wiſdome.Rom, 6.4.
+                
+               By Baptiſme we are buried with him into death, that like as Chriſt was raiſed vp from the dead, by the glory of the Father, euen ſo wee alſo ſhould walke in newneſſe of life.
+               
+                  Col. 3.1. 
+               If we be riſen through faith with Chriſt, we muſt ſeek thoſe things which are aboue, where Chriſt ſitteth at the right hand of God. Whoſoeuer truly beleeueth in Chriſt conquereth this world. who is he (ſaith Saint Iohn) that ouercommeth the world,
+               1 Joh. 5 5. 
+               but hee that beleeueth that Ieſus is the Sonne of God. They that by faith are Chriſts,
+               
+                  Gal. 5.24. 
+               haue crucified the fleſh, with the affections and luſts. Whereſoeuer there is a Chriſtian beliefe, there will alſo be a Chriſtian life. Credere in Criſtum (ſaith Saint Auguſtine) eſt credendo amare, &amp;c. To belieue in Chriſt is through faith heartily to affect
+
+him, and to be really incorporated into him: ſo that beleeuing in Chriſt is more then to comprehend him in the vnderſtanding; it is alſo to imbrace him in our hearts and affections. As Chriſt naked without reſpect of his merits is not the obiect of our faith; ſo our faith, naked without our affectionate deſire to bee ioyned to him, is not the true meanes to apprehend Chriſt, and conueigh his merits vnto vs. This is that which is required on their parts, who partake of the priuiledge here promiſed. The taske is not hard: it is not to giue a great ranſome for our ſoules; ſo the poore could not enioy it: or to diſcourſe accuratly, ſo the ſimple and vnlearned could not attaine vnto it; or to goe a great iourney to finde Chriſt, ſo the lame and impotent might miſſe of it, but only to beleeue in him, which is a matter poſſible with euery man. whoſoeuer beleeueth in him ſhall neuer dye, and ſo I come to the laſt part of my Text,
+
+the priuiledge here granted. Exemption from Death. Death hath a threefold: acception. It is either naturall, ſpirituall, or eternall. Whoſoeuer beleeueth in Chriſt is exempted from all theſe. The two later onely haue properly the name of Death. For Death, to ſpeake properly, is either a ſeparation from God here in his Kingdome of grace, or a ſeparation from him hereafter in his Kingdome of glory. Not to partake of his ſauing grace here in this world, is to bee ſpiritually dead; and not to be crowned with his glory in the world to come, is to be eternally dead. They who haue onely vitam naturae, the life of nature here in this world, and haue not vitam gratiae, the life of grace, are ſpiritually dead, according to that of the Apoſtle,1 Tim. 5.6. 
+               She that liueth in pleaſure is dead while ſhe liueth, and according to that of our Sauiour,
+                  Mat. 8.22. 
+               Let the dead bury the dead. It may bee ſaid of ſuch as it was of the Angell of the Church of
+
+Sardis, They haue a name that they liue,
+               
+                  Reu. 3.1. 
+               but are dead. So they who in the next world haue onely vitam naturae, the life of nature, and haue not vitam gloriae, the life of glory, are eternally dead. From both theſe deaths, all true Beleeuers in Chriſt Ieſus are exempted, for they liue ſpiritually, and eternally.
+            That the true beleeuers in Chriſt Ieſus enioy a ſpirituall life is euident, according to that of S. Iohn 1.12, 13. They that beleeue on his Name, are borne not of blood, nor of the will of the fleſh, nor of the will of man, but of God. Beſides their naturall birth they haue a ſpirituall. As many as by faith are in Chriſt Ieſus, they are new creatures, they receiue a new life: ſo likewiſe doe they enioy eternall life, according to that of our Sauiour: This is life eternall, by faith,
+                  Iohn 17.3. 
+               to know the Father to be the onely True God, and whom he hath ſent Ieſus Chriſt. All the queſtion ſeemes to be concerning their exemption from the naturall
+
+death: but if we diligently obſerue their condition, it will eaſily appeare that they are exempted frō that death alſo. For as they who enioy natural life are ſaid to bee dead, becauſe they are depriued of the ſpirituall life: ſo they who are naturally dead may be ſaid to be aliue, becauſe they enioy the life of glory. The naturall death to them eſpecially is changed into a ſleepe. Death to them is not exitus, but tranſitus: not obitus, but abitus: not a dying, but a departing. A tranſmigration and exodus out of our earthly pilgrimage, vnto our heauenly home. Fratres mortui (ſaith Saint Auguſtine) non ſunt amiſsi, ſed praemiſsi. Profectio eſt (ſaith Tertullian) quam putas mortem. A paſſage from the valley of death to the land of the liuing. That all true Beleeuers departing hence are ſtill aliue,
+                  Math. 22 32. is euident by the words of our Sauiour, that God who is the God of Abraham, Iſaac and Iacob, is not the God of the dead, but of the liuing. If the
+
+father of the faithfull be ſtill aliue, no doubt but ſo are all his children, who departed hence, in the faith of their father. Death to them is but a ſleepe. So is it ſaid of Dauid, of Salomon,
+               1. Kin 2.10. — 11.43. and of other Kings of Iſrael, and of Iuda, that they ſlept with their fathers. So in the New Teſtament, ſuch as are dead in the Lord, are ſaid to ſleepe in Chriſt.
+               1. Cor. 11.30 —15.18. Iob. 11.11. So great a reſemblance is there between ſleepe and death, that ſleepe is called by Ouid, mortis imago, by Virgil, conſanguineus Lethi▪ Seneca cals it the brother, &amp; Heſiode, the Siſter of death. Sleepe is a kinde of death, and death a kinde of ſleepe.1. Theſ. 4.13, 14. 
+               I would not haue you to bee ignorant (ſaith the Apoſtle) brethren, concerning them which are aſleepe, that yee ſorrow not, euen as others which haue no hope. For if wee beleeue that Ieſus died, and roſe againe, euen ſo them alſo which ſleepe in Ieſus will God bring with him. The Apoſtle ſaith that the Chriſt, the Lord (who giues life to all things) is dead: and mortall man (ſaith he) ſleepeth
+               ▪
+               
+which manner of ſpeech at the firſt ſight may ſeeme ſtrange, but there is good reaſon for it. For wee therefore ſleepe, becauſe Chriſt died. His death made our death but a ſleepe. Chriſt by his bitter death, made death ſweet vnto vs, made it, I ſay, but the very ſhadow of death: ſo that death cannot hurt vs, becauſe Chriſt hath taken away ſinne the ſting thereof. O death where is thy ſting?1. Cor. 15.55. Laſtly, though their bodies ſleepe in the graue, yet their ſoules liue a glorified life in heauen. So that the Saints departed are dead in their worſt part onely, but liuing in their beſt, euen in that wherein they deſire to liue moſt, as Martial an Heathen Poet diuinely,
+
+                  Sed lugere nefas: nam quite (Priſce) reliquit
+                  
+                     Ʋiuit qua voluit viuere parte magis.
+               
+            
+            Sith death then to the true Beleeuers in Chriſt is but a ſleepe, a paſſage from miſery to eternall happineſſe, Let vs ſing with old Simeon a nunc Dimittis, and reioyce that our warfare, all our
+
+combates and conflicts with the world the fleſh and the diuell are ended. So long as we are in this world, wee muſt continually fight againſt thoſe luſts which fight againſt our ſoules. When we haue conquered couetouſneſſe, luſt riſeth vp againſt vs; when carnall concupiſcence is ſuppreſſed, ambition takes place; when ambition and pride are foyled, drunkenneſſe endeuours to draw vs on to eternall deſtruction. I know that the men of this world count it their bliſſe, to be caried away by the world, the fleſh and the Diuell, and to doe ſeruice vnto them. But the children of God account it their bane, to bee in any the leaſt ſubiection vnto them, and therefore doe they continually band themſelues againſt them. Blame them not therefore, though they reioyce when the combate is ended, and all their enemies conquered, and crowned. What Souldier is not glad when the combate is ended, and his enemie conquered? who in a great
+
+tempeſt at Sea, would not gladly be in a quiet and calme harbour? and who in the ſea of this tempeſtuous world, would not giue this world to arriue at the hauen of eternall happineſſe: here is nothing but wailing and weeping:
+                  Ioh. 16.20. Who would not bee there where all teares are wiped away? Our Sauiour told his Apoſtles, being ſorrowfull for his departure. If yee loued me, yee would reioyce,
+               
+                  Ioh. 14.24. 
+               becauſe I goe to my Father. To me (ſaith S. Paul) to liue is Chriſt, &amp; to dye is gaine.
+               Phil. 1.21.
+                Let him therefore dread death, who is not borne againe of water and of the Holy Ghoſt, but remaines enthralled to the flames of hell fire. Let him feare to die, who ſhall paſſe from the naturall death, to eternall. Let him I ſay, be daunted, when death drawes nigh, who, when hee ſhall paſſe out of this world, ſhall eternally be tormented in the flames of hell fire: but let all true Beleeuers in Chriſt Ieſus (whoſe home is heauen) with the Traueller thinke the time long till they returne
+
+home to their owne countrey, where after the weariſome trauell of this life, they ſhall liue eternally in all reſt and happineſſe.
+            
+               Thus much of my Text.
+            
+            
+               GIue mee leaue to adde a few words about the particular occaſion of this our meeting, which is euident by the obiect here before our eyes, and maketh vnto vs a viſible Sermon of our mortalitie. For it is a dead corps, which was within theſe few dayes the receptacle of the euer-liuing ſoule of Miſtris Elizabeth Gouge. A ſoule which while it remained in that receptacle, enabled the ſame, thorow the good grace of God infuſed into it, to doe much honour to God, and good to man. Which that I may the better demonſtrate vnto you, I will make bold to ſet before you a briefe, iuſt, and true view of the whole courſe of her life: that, though the
+
+ſubſtance of her ſoule bee now taken from among vs to be among thoſe i
+                        •…
+                      ſpirits which are made perfect in heauen and her bodie to be couered from ou
+                     •
+                   ſight in the earth, in aſſured hope o
+                     •
+                   the Reſurrection thereof to eternal life yet her graces may remaine freſh among vs for the greater conſolation of her friends, and imitation of vs all.
+               Shee was the daughter of ſuch Parents as while they liued were of very good note and name. Her father Mr 
+                  Henry Calton, was a Mercer and Citizen in London of good worth. Her mother was of a good Gentlemans houſe, Mr 
+                  Cois of Stubbers in Eſſex.
+               
+               Both her Parents died while ſhe was yong, and had not her Mothers owne brother Maſter William Coys, taken vpon him the tuition of his Siſters children, they had beene made a prey. But he like a good Mordecai brought vp his ſaid Siſters children, which were three in number, a ſonne, who was drowned in ſwimming while he was a
+
+youth, and two daughters; the eldeſt whereof was this Gentlewoman, whoſe Funerall wee now ſolemnize. The yonger ſtill liueth being maried to the yonger brother of this Gentlewomans husband. Such was the ſaid Guardians care ouer theſe Orphanes, as, after he had trained them vp ſome while in his owne houſe, for their better education, hee put them forth to board in a pious, painfull, faithfull Miniſters houſe, Maſter Huckles by name, of Hatfield-Broad-oake in Eſſex, whoſe wife had a great name, and that not without iuſt deſert, for skill, and faithfull care in training vp yong Gentlewomen. There were the two ſuruiuing foreſaid Orphanes, Elizabeth and Mary Calton educated ſixe yeares together, and there were they well inſtructed in pietie, in modeſtie, in good houſe-wifery, and much skill in all ſuch workes, as appertained to ſuch perſons.
+               From the ſaid Miniſters houſe the
+
+ſaid two Orphanes were brought to Stratford Bow in Middleſex, the elder being about ſeuenteene yeere old, and the yonger ſcarce fifteene.
+               In the ſaid Stratford Bow there dwelt an ancient Gentleman Maſter Thomas Gouge by name, who well liking the perſon, grace, and cariage of the ſaid elder Orphane, ſent for his eldeſt ſonne Maſter William Gouge, then fellow of Kings Colledge in Cambridge, now Miniſter and Preacher of Gods Word in Blacke-Friers London, who being brought to the ſaid Gentlewoman, after ſome mutual conferences one with another, they tooke ſuch liking one of another, as on the 11 of February in the firſt yeare of King Iames they were with full conſent of all friends on both parts maried together, and continued like Iſaak and Rebekah faithfull, and louing yoake-fellowes till the 26 of this preſent October, in the 1 yeare of our now Royall Soueraigne King Charles, on which diſmall day irreſiſtable
+
+death, made an irrecouerable diremption betwixt them. Such reſpect did this Gentlewoman beare to the Miniſterie of Gods Word, that when it was told her that her ſuter had diuerted his ſtudies to Diuinitie, and intended to bee a Preacher, ſhee anſwered, I am ſo farre from diſliking a man of that profeſsion, as of all other callings, I moſt deſire an Husband, being otherwiſe well qualified, of that function. A pious minde in a maiden ſo yong, and in a Gentlewoman of ſo good meanes as ſhee was! To her eternall comfort ſhee had her deſire accompliſhed. And anſwerably did ſhee carie herſelfe, A pious, prudent, prouident, painfull, carefull, faithfull, helpfull, graue, modeſt, ſober, tender, louing Wife, Mother, Miſtris, Neighbour. Many were the graces which made her acceptable in Gods ſight, amiable in her Husbands eyes, &amp; commendable among all that well knew
+
+her. But that I may keepe my ſelfe within ſome bounds, I will eſpecially inſiſt on foure, wherein ſhee made her ſelfe a patterne worthy of admiration and imitation; Theſe were Sobrietie, Sedulitie, Charitie, Piety.
+               
+               1. Her countenance, her conference, her carriage, her apparell did all giue euidence of her Graue, Gracious, Sober, Matron-like minde, whereby ſhe did much grace her Husbands Vocation.
+               2. Shee hath left behinde her many euidences of her indefatigable ſedulity,
+                  
+                     Pro. 31.
+                        •
+                     0.
+                        •
+                     
+                   euen ſuch as the Wiſeman commendeth in a vertuous Woman, Vallances, Cup bord-cloathes, Quiſsions, and many ſuch like vſefull thing, artificially wrought with her owne fingers, beſides all her owne, huſbands, and childrens wearing linnen wrought by her ſelfe and maidens, whom by her owne example ſhe made diligent. The ſhortneſſe of day-light, ſhe much helped by candle light. She carefully kept
+
+Saint Pauls precept to keepe at home.
+                  Tit. 2.5.
+                   She was not like thoſe whom he ſharply reproueth for wandring about from houſe to houſe, and for being not only idle,
+                  1. Tim. 5.13. 
+                  but tatlers alſo and buſie-bodies. Shee vtterly diſliked ſuch: ſhe cared not for their company. Theſe commendable vertues of keeping at home, &amp; keeping ſilence; retiredneſſe, &amp; taciturnitie, made many miſ-cenſure her of too much ſtatelineſſe.
+               3. Her charitie exerciſed it ſelfe at home and abroad. At home, towards the head and members of her Family. Abroad, towards her neighbours and ſtrangers. Shee was truely 
+                     〈 in non-Latin alphabet 〉
+                   and 
+                     〈 in non-Latin alphabet 〉
+                  , an entire louer of her husband, and children. Her loue to her Husband made her to yeeld all dutifull reſpect to him, and to bee very carefull ouer him, and that both well to nouriſh and cheriſh him, and alſo to free him from the trouble of all thoſe things which ſhee in her place could manage: For ſhee moſt prudently and
+
+prouidently ordered the affaires of her houſe, whereby hee had the more leaſure to attend his publike function. Her loue to her Husband was further manifeſt by that delight ſhee tooke in his company: It was grieuous to her to be where he was not, except vrgent &amp; neceſſary imployments required as much: neither did ſhe care her ſelfe to goe abroad vnleſſe her Husband went with her. And when they were abſent one from another, they made a ſupply of that bodily abſenee by continuall entercourſe of Letters one to another, in which Letters ſhee teſtified much pietie, wiſdome and loue. If at any time he had beene ſicke, ſhee was very tender ouer him, and very carefull to prouide all things needfull for him in that caſe. Her entire loue to him was many wayes teſtified to the very laſt act of her life. The longer they liued together, the more did this loue ſhew it ſelfe.
+               Her care ouer her children did
+
+alſo declare her true loue of them. She did not onely beare them, and bring them forth into the world, which neceſſitie forceth all mothers to doe, but with her owne milke ſhe nurſed ſeuen, as many as poſſibly ſhee could, which too many mothers doe too much neglect. It was not ſore nipples or breſts, nor an Infants wrangling, nor breaking her ſleepe in the night, nor any other diſturbance that could make her neglect this bounden dutie. Her tenderneſſe ouer her children was not diminiſhed by their growth in yeares: yet as they encreaſed in vnderſtanding, ſo wiſely ſhee ordered her authoritie ouer them, as with a child-like feare they much reuerenced her. For well ſhe knew how to keepe both children and ſeruants in dutifull awe. As ſhee was carefull well to nouriſh, ſo alſo well to nurture her children. In nurturing them, though ſhe were not negligent of their ciuill behauiour, &amp; good manners, yet her greateſt care and
+
+paines was like Eunice,
+                  2 Tim. 1.5. &amp; 3.15. Eph. 6.4. to bring them vp in the nurture and admonition of the Lord, teaching them, ſo ſoone as they were capable, the Principles of Religion, wherein ſome of them ſo profited, as before they were three yeares old, they were able diſtinctly to anſwer all the queſtions of a Catechiſme which her Husband publiſhed. Many good inſtructiōs alſo from time to time they receiued from her after they were put forth,Prou 31.1.
+                   wherein ſhee ſhewed her ſelfe like the good mother of Lemuel.
+               
+               Her poore Neigbours alſo, as ſhee had notice of their need, taſted of her charity: for very ready ſhee was and forward to viſite the ſicke, and to ſend them ſuccour. It was her vſuall practiſe, on the Lords dayes ſpecially, to ſend ſome hot, wholſome refreſhing to ſuch as needed it.
+               This her charity extended it ſelfe alſo to ſtrangers. For where ſhe had a quarterly allowance of her Husband for her owne proper vſe, ſhe ſet a part
+
+a good part therof for charitable vſes, and ſo dedicated it to that purpoſe, as ſhe accounted it ſacriledge to imploy any part thereof to any other vſe. Out of this ſacred ſtocke ſhe was ready to contribute to all charitable motions made in the Church: to all priuate Collections made knowne vnto her; and to many, that time after time came to her Husband for reliefe, beſides thoſe, whom ſhe her ſelfe, with her owne hands, of her owne motion relieued. So as herein alſo ſhee was like to that good woman whom the wiſeman thus commendeth,
+                     Prou. 31. 20. 
+                  She ſtretcheth out her hands to the poore.
+               
+               4. Her Piety, as it was the beſt of her graces, whereby all the reſt were ſeaſoned, ſo was it not leſſe eminent then the reſt. For ſhe was a conſcionable obſeruer of the Lords Day, and a conſtant frequenter of the weeke day Lectures where ſhe inhabited. Shee did both her ſelfe diligently and reuerendly attend to the dayly exerciſes
+
+of piety in her houſe, and alſo cauſed her children and ſeruants to do the like. She had alſo her ſet houres euery day, which ſecretly betwixt God and her ſelfe ſhee ſpent in holy Deuotions. With her owne hand ſhee penned ſundry deuout Prayers, whereof ſome being for helps to humble her ſoule the more before God, were very large. She hath alſo left written by her ſelfe many diuine directions for Deuotions. She further tyed her ſelfe by a ſet dayly taske to reade the holy Scriptures, whereby ſhe was able readily to anſwer any queſtion propounded about the Hiſtory and Doctrin of the Scriptures. Shee did alſo ſpend much time in reading Engliſh books of diuinity, whereof ſhee had a pretty Library. She carefully put in practiſe this precept of the Apoſtle to wiues, Let them aske their Husbands at home.
+                  1 Cor. 14 35. Her piety left her not till her breath left her. For (to come to the time of her ſickneſſe and departure) being long
+
+weake before her departure, and great with Childe, ſhee was diſabled from doing ſo much worke as in her health ſhe vſed to do, yet was ſhee not idle, but ſpent the more time in reading &amp; conferring with her Husband, and that eſpecially, about euidences of true grace, and aſſurances of ſaluation. It pleaſed the Diuine prouidence about a yeere and a quarter before, when ſhee was great with Childe, to viſit her with a Dropſie, though ſhee was very temperate in her diet, no Wine bibber. Of her Liuer ſhe complained from her youth, ſo as queſtionleſſe her ill-diſpoſed Liuer was the cauſe of her diſeaſe. After her deliuery of that Childe, thorow Gods bleſſing on the meanes, which her good Neighbour, Maſter Doctor Argent, an ancient, experienced, and skilfull Phyſician preſcribed, ſhe was recouered: and continued very well from September, 1624 till Febr following, when conceiuing againe with Child,
+
+the Dropſie returned againe. Notwithſtanding the returne of that Diſeaſe, ſhe was on the ſixt of October 1625 deliuered of her thirteenth and laſt Childe, which was a ſonne, and retained ſuch ſtrength as ordinarily ſhee was wont to doe in the time of her Childbed, ſo as on the baptizing day ſhe ſate vp, as women in that time vſe to doe. But before ſhee gathered ſuch ſtrength as might enable her to take Phyſicke for her Diſeaſe, death began to ſeaze vpon her. For on the very day wherein the foreſaid Doctor Argent had preſcribed ſuch Phyſicke as was fit for one in her caſe, which was the fourteenth day after her deliuery, the violence of her Diſeaſe was ſuch, as accuſtomed reſt, and vſe of vnderſtanding was taken from her. This made her talke much: but in all her talke not an impious word came from her. (Her tongue was neuer accuſtomed thereto) But that it might appeare how faſt fixed, and
+
+deeply rooted piety was in her, in her greateſt weakneſſe and extremity, if any Broth, Drinke, or other ſuſtenance were offered her, ſhe would lift vp her eyes to Heauen, and craue a bleſſing of him whom ſhe knew to be aboue. In that her reſtleſſe time, ſhe was much perſwaded by her Husband to doe what he aduiſed. To ſhort queſtions, eſpecially about her Chriſtian faith &amp; hope, ſhe would giue ſhort, but very pithy and comfortable anſwers. After ſhe had thus remained two whole dayes, it pleaſed the Lord to giue ſome reſt, whereby for two dayes ſhe recouered good vſe of her vnderſtanding, and made good vſe thereof, by giuing many good euidences of her ſted faith in Ieſus Chriſt. Which after ſhe had done, the former violence of her Diſeaſe returned vpon her, and ſoone depriued her of her ſweet breath. Thus would God take her away euen in her calling, in the time of her Child-bed, wherein for a woman to dye, is as for
+
+a Souldier to dye in battell; yea, as for a Preacher to dye in the Pulpet▪ They that in Scripture are recorded to dye in that time, are recorded to dye as Saints, as the Wiues of Iaakob and Phinehas: and ſo vndoubtedly did this pious Matron; whoſe ſoule, euer in that moment wherein by Prayer it was commended to God, aſcended to God, with whom ſhe now, as we haue great and iuſt cauſe to hope, raigneth in euerlaſting glory: whether God bring vs alſo in our time, thorow Ieſus Chriſt our Lord, to whom with the Father and the holy Ghoſt bee all honour and glory, now and for euer. Amen.
+               
+               The memory of the iuſt is bleſſed.
+            
+            FINIS.
+         
+      
+   
+

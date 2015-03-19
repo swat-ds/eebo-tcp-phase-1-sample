@@ -1,0 +1,913 @@
+
+   
+      
+         
+            A sermon preached before the Kings Most Excellent Maiestie in the Church of Beauly in Hampshire, the thirtieth of Iuly. M.DC.IX. By Christopher Hampton, Doctor in Diuinitie, and one of his Ma[jes]ties chapleines.
+            Hampton, Christopher, 1552-1625.
+         
+         
+            
+               1620
+            
+         
+         Approx. 103 KB of XML-encoded text transcribed from 58 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2009-10 (EEBO-TCP Phase 1).
+            A02608
+            STC 12738
+            ESTC S120498
+            99855694
+            99855694
+            21196
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A02608)
+            Transcribed from: (Early English Books Online ; image set 21196)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 1025:11)
+         
+         
+            
+               
+                  A sermon preached before the Kings Most Excellent Maiestie in the Church of Beauly in Hampshire, the thirtieth of Iuly. M.DC.IX. By Christopher Hampton, Doctor in Diuinitie, and one of his Ma[jes]ties chapleines.
+                  Hampton, Christopher, 1552-1625.
+               
+               [4], 54, [4], 55-104 p.   
+               
+                  Printed by the Societie of Stationers, printers to the Kings most excellent Maiestie,
+                  Dublin :
+                  Ann. 1620.
+               
+               
+                  "An addition to the former treatise of soueraignetie" has separate, undated, title page.
+                  Reproduction of the original in Dr. Williams's Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Sermons, English --  17th century.
+            
+         
+      
+      
+         
+            2008-04
+            TCPAssigned for keying and markup
+         
+            2008-08
+            SPi GlobalKeyed and coded from ProQuest page images
+         
+            2008-10
+            John PasSampled and proofread
+         
+            2008-10
+            John PasText and markup reviewed and edited
+         
+            2009-02
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+               
+                  
+                  
+                     A SERMON PREACHED BEFORE THE KINGS MOST EXCELLENT MAieſtie, in the Church of Beauly in Hampſhire, the thirtieth of July. M.DC.IX.
+                  BY CHRISTOPHER HAMPTON, Doctor in Diuinitie, and one of his Maties Chapleines.
+                  
+                  DVBLIN, Printed by the Societie of Stationers, Printers to the Kings most excell
+                           •••
+                         Maiestie. Ann 1620
+               
+               
+                  
+                  
+                  TO THE MOST HIGH and mightie Prince IAMES by the Grace of God King of Great Britaine, Fraunce and Ireland, Defendor of the Faith &amp;c.
+                  
+                     Moſt Renowned, most Dread, and moſt Gracious Soueraigne,
+                  
+                  
+                     IT is not long ſince I heard a Recuſant of vnderstanding and qualitie profeſſe, that the Spiritual preſence of our Sauiour Ieſus Christ in the holy Sacrament of the Lords Supper, contented him ſufficiently. But he deſired ſatisfaction, at the ſame time, in the matter of Supremacie, and to haue reaſons why Chriſtian Princes ſhould challenge it. I promiſed to reſolue him in that point too; and had not any thing ſo readie to do it withall, as certain collections which I gathered for a Sermon preached before your most Excellent Matie. Thoſe I haue
+
+now publiſhed, that all of my charge may take cōmoditie to reade them for their ſatisfaction or vſe. And that they are like to do with more cheerefulneſſe, if your Matie wil be Gratiouſly pleaſed to let them paſſe vnder your Royall protection, with the ſame Clemency now which you vouchſafed to countenāce them withall, when they were pronounced in your Sacred preſence. The Lord that hath giuē your Matie both this great power, to be his Lieutenāt, &amp; a prudent heart to exerciſe it, continue your happy Gouernement, to the aduancemēt of his glory, the comfort of theſe Churches, and your owne Eternall honour. Euen ſo prostrating my ſelfe to kiſſe your bleſſed hands, I remaine
+                  
+                     Your Maieſties moſt humble and obliged Seruant and Almoſner, ARMAGH.
+                     
+                  
+               
+            
+            
+               
+                  
+                  
+                     A TREATISE OF SOVERAIGNETIE.
+                  
+                  
+                     
+                        
+                           LVC. 22.24, 25.
+                        
+                        And there aroſe alſo a ſtrife among them, which of them ſhould bee the greatest. But he ſaid vnto them, The Kings of the Gentiles raigne ouer them, &amp; they that rule ouer them are called gracious Lords. But you ſhall not bee ſo, &amp;c.
+                     
+                  
+                  
+                     THE Text deuideth it ſelfe into two principall parts.
+                  In the former you ſee a Contention betweene the Apoſtles for SVPERIORITIE.
+                  
+                     〈2 pages missing〉
+                  
+                  
+                     Their example ſerues to admoniſh vs, that the Saints themſelues are obnoxious to humane affections, and neede the grace of God.
+                  To this purpoſe the holy Ghoſt recordeth not only the examples of their vertues, that thereby we might behold the richnes of Gods mercy towards his ſeruants; but hee mentioneth their infirmities, &amp; errors too. Paul deſcribes his owne Phariſaiſme; noteth Peters halting in the vſe of things indifferēt: John rehearſeth his miſtaking in the worſhipping of Angels. Things regiſtred of purpoſe, not for contumely vnto them, but for inſtruction vnto vs.
+                  
+                      That by theſe monitions we ſhould watch ouer ourſelues more attētiuely; if Saints fall from their vertues, what may befall vs in the midſt of our ſins?
+                  
+                      From hence alſo wee receaue hope
+
+&amp; comfort in the ſorrowes of our fals. Audiant qui non ceciderunt ne cadant. Audiant qui ceciderunt vt reſurgant. Let them that haue not fallen, heare theſe things prouiſionally, that they doe not fall. And let thē that haue fallen, heare them exemplarily, that they may riſe againe.
+                  
+                  Laſtly, this may teach vs to admire  no man with ſuperſtition; but to make the word of God our guide in the imitation of Saints: we liue by lawes, and not by examples. And if wee deſire to treade in the ſteps of holy men, the Word will direct vs ſafely, to followe them no further then they followe Chriſt. I confeſſe that if any men were to bee followed, this glorious Companie of the Apoſtles is moſt worthy of imitation: But then let vs follow them in their Sanctimonie, not in their Schiſme: in their vnanimitie and concord,
+
+which they exerciſed in the Acts, when they had receiued the holy Ghoſt, not in their carnall ſtrife &amp; Contention, which of them ſhould be the greateſt. Therefore let no man reioyce in men, but if any will reioyce let him reioyce in God. Securus gloriatur qui gloriatur in Domino. The ſtorie of this ſaid Contention is frequent amongſt the Euangeliſts, and rehearſed often.
+                        Marc. 10.25 Matt. 20.20. Heere Marc. 10. Matth. 20. and a Contention of the ſame nature is ſet downe Matth. 18.
+                        Matth. 18.1. And wherevnto tends the ingemination of a thing that is not ſo memorable in it ſelfe? Doubtleſſe for the prevention &amp; premonition to the Church; that it ſhould not bee ſwayed with ſuch ambitious prehenſations and vaſt deſires, though they bee guilded ouer with Apoſtolicall ſtiles &amp; titles. Apothecaries boxes
+
+ſometimes haue the inſcriptions of reſtoratiues, when they be full of poiſon. Affectation of greatneſſe is repreſſed in the Apoſtles themſelues: in the rampant Bell-weathers of the Chriſtian flocke, and then how ſhould it bee allowable in their ſucceſſors, or Apoſtolicall men? It is not improbable, that ſome ſuch windie affection did thruſt the Apoſtles into this ſtrife: but moſt certaine, that thoſe that vaunt themſelues to be ſucceſſors of the Apoſtles, haue intertained quarrells with all the world, by reaſon of ſome peculiar fauours and indulgences that CHRIST ſhewed to ſome of the Apoſtles aboue the reſt. Thou art Peter and vpon this rocke will I build my Church, are thought to be very ſignificant words that way. But Paule telleth vs, Petra erat Chriſtus, that Chriſt was that rocke, and not
+
+                     Peter. So ſaith God himſelfe by Eſay: J lay in Sion a low corner ſtone,
+                     
+                        Eſay. 28.16. 
+                     elect, and precious;
+                     1. Cor. 3.11. 
+                     whoſoeuer beleeueth and reſteth on it, ſhall not be cōfounded. And, no man can lay another foundation then that which is layd already, which is Ieſus Chriſt. For, Quis eſt Deus praeter Dominum? Et quis eſt Petra praeter Deum nostrum? Who is God, but the Lord? and who is the Rock (ſaith Dauid) except our God?
+                     
+                        Pſal. 18.31. Again, Vnto thee wil I giue the Keyes of the kingdome of Heauen, are vſed to the like purpoſe. But this ſtrife proues directly that the Apoſtles made no cōſtruction out of theſe wordes, for Peters prerogatiue: Had they conceiued any meaning that way, it had ended the ſtrife, and Peter muſt haue beene the greateſt. But they renew their quarrell; after theſe wordes, they argued it againe and againe: they inſiſted vpon it at the
+
+laſt Supper that euer they had with their Maſter. Pregnant arguments that the Apoſtles vnderſtood nothing of this graunt that is vrged.
+                  What doe they thinke of Chriſt, that knew the meaning of his owne wordes? was he not willing to informe his Diſciples, to leaue quietneſſe amongſt them? might he not haue done it with one word, that Peter ſhould be greateſt? or would hee reproue their Contention with an abſolute non ſic, if he had concluded any thing for Peter formerly? Multa coguntur male interpretari, qui nolunt vnum rectè intelligere, They are forced to interprete many things wrongfully, that will not vnderſtand one rightly.
+                  
+                  It is euident in the 2. Gal.
+                     
+                        Galat. 2.8. that Peter and Paul were allotted to ſeueral portions: Peter to the Jewes, Paul to the
+
+                     Gentiles; &amp; neither had Primacy, or vniverſall charge of the whole Church. What ſhall wee ſay of the Primatiue times?Aeneas Syluius Epiſt. 280.
+                      
+                     Then euery Church was gouerned by their owne Canons, &amp; little reſpect was had of the Church of Rome; to the great Councell of Nyce, that appointed three other Patriarckes beſides the B. of Rome, to gouerne the Churches that were contiguous? to the firſt Councell of Constantinople, that gaue the B. of that See equall priuiledges with the B. of Rome? to the Councell of Calcedon, that confirmed them? to the learned Fathers, that vnderſtood nothing of this Primacie for diuers hundreth yeares after CHRIST, vntill the Church of Rome began to ſwell with the Dropſie of this Contention? Then indeede men that were willing to ſerue ſuch turnes, found this liquor
+
+out of the places, that I haue alledged, to quench their mothers thirſt.
+                  But they beare witneſſe to themſelues, and are not to be heard in their own cauſe, vnleſſe they compaſſe ſuch a Decree, as Stratocles did for Demetrius, 
+                     
+                        〈 in non-Latin alphabet 〉
+                     , whatſoeuer Demetrius will commaund ſhall bee holy before God, and iuſt amongst men. Therefore leauing Stratocles and his Biſhop together, to court the World for this Decree, I returne to the occaſion of the Apoſtles ſtrife.
+                  The neereſt occaſion of this Text ſeemes to bee taken from the death of CHRIST, mentioned in the wordes precedent. After his death they imagined he would ſet vp an earthly kingdome, and ſo conſequently enter in ſtrife, which of them ſhould haue adminiſtration of it. When Mariners
+
+fall out in a tempeſt at Sea, which of them ſhall firſt caſt himſelfe ouerboard, euerie one findeth their Contention abſurd &amp; dangerous, becauſe an agreement in their ſeruice is moſt neceſſarie at ſuch a time, for preſeruation of the Ship: euen ſo is this difference of the Apoſtles. What was the affectation of a Maſterie, but a renunciation to their Miniſterie? And that could neuer haue beene at a more vnſeaſonable time, by reaſon of CHRIST his death being then imminent.
+                  
+                     When the Sheepheard was to bee ſmitten, the ſheepe had occaſion to runne together into an holy Concord, either to preuent, or to adiourne the ſcattering and diſsipation to come. When the Bridegrome was readie to be taken away, teares and lamentations would haue ſuted well with the Children of the
+
+marriage chamber. To haue no apprehenſion of ſorrow at his death, by whoſe life they had receiued the ſweetnes of Comfort; no concuſsion of feare, when their Maſter ſhould be taken from their heads: but euen then to deuiſe of their owne affaires, to attend and to meditate of their future power, was certainely an vntimely fruite of ambition; which is like the Bitch (if I may ſpeake it with your reuerence) that for haſt throwes out her puppies blinde.
+                  Is this the kindneſſe that they ſhew to their Maſter? O worthy Elizeus, how affectionat were thine obſequies in the like caſe! you may remember, That hee could neither be perſwaded, nor beguiled, nor forced from Elijah when he ſhould haue beene taken from him: but left all other thoughts &amp; did cleaue to his
+
+Maſters ſide, with an inſeparable reſolution: As the Lord liueth, and as thy ſoule liueth I will not leaue thee. And did the ſonne of God deſerue leſſe reſpect from his Apoſtles, then the Tiſhbite had from the ſonne of Shaphat? verily no. Where then is their zeale? where is their retaliation? where is the deſire of Peters deuoted affection? Lord to whom ſhall wee goe, thou haſt the words of eternall life? Forſooth a ſtrong imagination of a kingdome hath ſuppreſſed them all. Graunt all that they expected, that CHRIST would leaue them an earthly kingdome; Yet pretenders ſhould ſtay till things were readie, and not burie their predeceſſors aliue. But their hopes of ſuch a kingdome were verie fantaſies, and great thoughts of heart. How ſhould he leaue that to them which hee had not
+
+himſelfe? The confeſsion he made before Pontius Pilate is an indefeſible euidence, That his kingdome is not of this World: therefore hee could not leaue them an earthly kingdome. They had promiſe of an eternall kingdome, and there can bee no eternitie but in that which is ſpirituall. All corporal things haue their fatall periods, and ſpirituall things onely are permanent in eternitie.
+                  The Prophets deſcribe the kingdome of Chriſt with wordes of externall Maieſtie; but then they adde the doctrine of his Paſsion, and imply an other kind of Maieſtie then the world affordeth. Heere Kings muſt be ſuffered; they muſt not ſuffer. To be ſhort, Chriſt left not his glorification, and kingdome vnmentioned; &amp; yet confeſſeth plainely enough, by waſhing
+
+his Diſciples feete, that his kingdome conſiſteth in a Miniſterie, not in any outward Soueraignetie &amp; command; The Sonne of man came not to bee miniſtred vnto, but to miniſter.
+                     
+                        Mat. 20.28.
+                  
+                  Marke therefore the vanitie of this Contention; they ſtriue for precedencie in Chriſts corporall kingdome: but ſeeing there is no ſuch corporall kingdome (as I haue alreadie proued) neither can there bee any ſuch greatneſſe as they imagine; ſo their Contention comes to a matter of nothing, conceaued of winde, and ends with winde. Indeede, Contentions, Kingdomes, greatneſſe in ſuch great places, are nothing belonging to the Apoſtles, and Miniſters of Chriſt, as appeareth in his Cenſure following.
+                  
+                     2. Part.
+                     
+                     But he ſaid vnto them, the kings of the Gentiles raigne ouer them, &amp;c.
+                  
+                  
+                     I doubt not but you ſee that the Apoſtles came into a iuſt reprehenſion, and deſerued ſharpe reproofe, yet becauſe they offended not of malice, but of ignorance, and were carried along with the current of that time, which reduced all the promiſes of Chriſt his gouernment to an earthly kingdome: therefore their ſweete and milde Maſter inſtructeth them friendly, without bitterneſſe, &amp; reſerueth the thunderboults of his ſeueritie for the obſtinate and incorrigible. Hee exhibiteth the diſpoſition that Eſay foretold; Heere is no Contention, no Clamour,
+                     
+                        Eſay. 42.2.
+                      
+                     no contumelius inſultation; but a graue and quiet inſtructiō. He breaketh not a bruſed Reed, he quencheth not ſmoking flaxe:
+                     
+                        Matt. 12.20. For hee conſidereth whereof we be made;
+                     
+                        Pſalm. 103.14. 
+                     he remembreth that we are but dust.
+                  
+                  I can compare the kindneſſe of his
+
+facilitie to nothing more aptly, then to the bowells of the Euangelicall ſheepheards; how affectionately did they yearne after the loſt Sheepe? He contemned it not, though it were but one: Hee neglected it not through ſlouth; giues not ouer his loue when it was gone: he ſeeketh it, &amp; finding it, deales not roughly, nor frowardly, but fairely and tenderly with it; leaues it not when it was wearie, but layes it vpon his ſhouldiers: O good Sheepeheard, that paines himſelfe to giue eaſe to a poore wearie ſheepe!
+                  Can ye tell me whether was greater, his care and endeuour when the ſheepe was loſt, or his compaſsionate intreaty, &amp; ſweet indulgence when it was found againe? was he more carefull in the former, or gracious in the latter, or incomparable in both? Such
+
+are the bowells of our Sheepeheard: I ſerue him for the one, loue him for the other. And though he be infinite in all his works, Mirabilior tamē eſſe creditur in exercitio pietatis. Thus he hath done, and left vs an example to follow, that followe him in his Paſtorall function. Wee which are ſtrong, ought to beare the infirmities of the weake,
+                     
+                        Rom. 15.1. 
+                     and not to pleaſe our ſelues, leaſt paſsion tranſport vs, &amp; we loſe that through rigor, that might be ſaued with placabilitie. And thus much for the manner of the Cenſure.
+                  The next thing obſeruable in the Cenſure, is the matter thereof, &amp; that is Soueraignetie, or ſupreame iuriſdiction, giuen heere vnto Kings; which appeareth by the plaine ioyntes &amp; neceſſarie coherence of my Text. The Apoſtles quarell was for Supremacie: CHRIST adiudgeth the matter vnto
+
+Kings. What matter? none certainly, but that which was in debate, &amp; queſtion; for I make it a matter of Religion, to thinke that the Wiſedome of God would wander &amp; leaue the queſtion.
+                  The Apoſtles contend, Which of them ſhould bee the greateſt: Is not the Contention for Supremacie? CHRIST in his Cenſure ſaith, That the Kings of the Gentiles raigne ouer them. Is there any greater then he that raigneth and beareth rule? Kings therefore are here inueſted with ſupreame Authoritie, by the ſentence, and Cenſure of the Sonne of God. This is no ſtrained inference; it containeth nothing but the conſtant &amp; perpetuall meaning of the Sonne of God,Mark. 12.17 
+                     Giue vnto Caeſar the things that are Caeſars, and vnto God the things that are Gods. Heere is no interpoſition
+
+of any perſon, betweene God &amp; Caeſar, but next vnder God Caeſar hath the higheſt right. Wee reſerue our Conſciences for God; wee ſubmit our bodies and goods to Caeſar: That which remaineth is matter for Politans and Papians to diſcourſe of.
+                  Tell vs John the meaning of Chriſt his ſtile, that is written vpon his thigh,Reuel. 19.16 
+                     The King of kings; is it not a title of his greatneſſe? yes verily; for ſo he is implyed to be, higher then the higheſt. And who would imagine that the Sauiour of the World would call himſelfe King of kings, in his greateſt greatneſſe, vnleſſe hee had ment, that Kings ſhould haue the precedence of all mortall men? or who knowing this to bee CHRIST his ſtile, would thruſt himſelfe aboue Kings in preiudice of the ſonne of God? Chriſt hath a poore
+
+aduancement of it, to be King of kings, if another bee aboue them aſwell as he. If the Seruant of ſeruants bee aboue the King of kings and Lord of lords, then where is Chriſt his prerogatiue?
+                        Numb. 16.7 
+                     Yee take too much vpon you yee ſonnes of Leuie.
+                        Rom. 13.1. Paul ſubjecteth euerie ſoule to the Ciuill power, and excepteth none. Etiamſi ſis Apoſtolus, Though thou be an Apostle, an Euangeliſt, a Prophet, or what elſe-ſoeuer thou bee, thou muſt be ſubiect to Ciuil power. For this ſubiection, ſaith Chryſoſtome,
+                     Chryſoſtom. in Epiſt. ad Rom. Homil. 28.
+                      
+                     is no hinderance to godlineſſe: And then it can not bee againſt the faith. The Apoſtle perſwades this ſubiection, not for humilitie, nor by way of courteſie, but enioynes it of neceſsitie: we muſt needs be ſubiect, Jdque propter conſcientiam; and that which is done of Conſcience, is ſo neceſſarie to bee done, that it cannot bee
+
+omitted without haynous ſinne. Neceſsitie and Conſcience bee ſtrong obligations for Ciuill obedience.
+                  Giue me leaue on the other ſide, to let you ſee the ſtrength and ſinews of Eccleſiaſticall power: then looke on the Decrees of the Church ſingle as they are in themſelues, &amp; ſeuered from the Princes countenance.
+                        Act. 15.29. 
+                     The Decree that the Gentiles ſhould abſtaine from things offered vnto Jdols, is of that nature: and is it not limitted by the Apoſtle of the Gentiles?1. Cor. 10.25. 
+                     Whatſoeuer is ſold in the ſhambles, eate, and aske no queſtion for Conſcience ſake: but if any man ſay vnto you, this is ſacrificed vnto Idols, eate it not, becauſe of him that ſhewed it, and for the Conſcience. The conſcience I ſay, not thine, but of that other. Compare Paul with Paul, Power with power, Bond with bond, Law with law; Ciuill authoritie
+
+requireth a neceſsitie of obedience; Eccleſiaſticall giueth libertie to the Conſcience: The Ciuill Magiſtrate muſt be obeyed ſimply; the Eccleſiaſticall admits Caution &amp; reſpect. This bindes me onely in Caſe of ſcandall; the other as well out of offence, as in offence. Though I liued without controlment of any eye; yet I am bound in Conſcience to obey the Poſitiue lawes. I am bound to obey both powers, but with diſparitie: the Ciuill ordinances for clearing mine own Conſcience from ſinne; and Eccleſiaſticall Decrees for comelineſſe, for order, for ſauing my Brother from ſtumbling &amp; offence. Iudge whether authoritie is greater, the Mytre or the Scepter? Primae Eccleſiae Patres, non leges, aut iura vt Reges, ſed modeſtiâ vocabuli abijs traditiones ſuas diſtinxerunt. Poſteriores
+
+Pontifices, vt neceſsitatem parendi vſurparent vſuque acquirerent, iuris verbum adiecerunt, Jus Canonicum &amp; Canones appellarunt. Both theſe Offices are now conioyned together in CHRIST: and is he not greater in his kingdome? hee ſtands at the right hand of God, as an Aduocate and Prieſt; hee ſitteth as a King. This puts a Scepter, the other giueth a Cenſer into his hand. His Prieſthood reacheth but to the Elect, his kingdome iudgeth quicke &amp; dead. He is ſweete in his Prieſthood; but in his kingdome High, Potent, Magnificall, Glorious, &amp; Triumphant. Why muſt praiers be made for Kings? That wee may leade a quiet and peaceable life vnder them in all godlineſſe and honeſtie;
+                     1. Tim. 2.2. 
+                     Godlineſſe and honestie makes them Guardians of both Tables, as well of the Firſt, which containeth the
+
+worſhip of God; as of the Second, which is the fountaine of publike honeſtie. And what lackes hee of Supremacie, that hath the care and ſuperintendance of all things that belong to God and man? Stateſmen tell vs that fiue things muſt concurre together, &amp; meete, to make a Soueraignetie. Firſt, to giue Lawes: Secondly, to make Warre &amp; Peace: Thirdly, to appoint the principall Officers of eſtate: Fourthly, to receiue appeales: Fiftly, to graunt Pardon.
+                  
+                  
+                      As to the firſt; it is aboue three thouſand and foure hundred yeares agoe ſince Iacob ſaid, The Scepter ſhall not depart from Juda,
+                     
+                        Gent. 49.10. 
+                     nor a Law-giuer from between his knees, vntill Shilo come. Marke Antiquaries &amp; Noueliſts too, how anciently law-giuing hath beene an accedent &amp; adiunct to the Scepter.
+                        Auguſt. in Io. tract. 6. 
+                     Iura humana iura Imperatorum ſunt: quare?
+
+quia ipſa iura humana per Imperatores, &amp; Reges ſaeculi Deus diſtribuit generi humano. Jn hoc Reges ſeruiunt Deo,
+                     Aug. contra Creſcon.
+                     ſicut eis diuinitus praecipitur in quantum ſunt Reges. Si in ſuo regno bona iubeant, mala prohibeant, non ſolum quae pertinent ad humanam ſocietatem, verum etiam quae ad Diuinam Religionem: Heerein Kings ſerue God, as they are commaunded by holy Writt, in reſpect that they are Kings, if in their kingdomes they commaund that which is good, and forbid that which is euill, not only in matters of humane ſocietie, but of Diuine Religion too.
+                  
+                  
+                     Abigail could tell that King Dauid  muſt fight the Lords battells:
+                     1. Sam. 25.28 And it followeth in the ſtorie, that at length hee made peace with all the nations round about.
+                  
+                  Concerning Officers,
+                        Eſter. 3.1. 
+                     Rex Aſſuerus  Aman quamuis alienigenam ad id honoris
+
+euexit, vt cunctis Perſarum &amp; Medorum Principibus anteferretur, Et Mordechaium totius honoris &amp; dignitatis eius ſucceſſorē conſtituit. The Book of Kings, and Chronicles yeeld cleere teſtimonies, that theſe Offices were in the Kings diſpoſe: hee placed and diſplaced them all, euen the high-Prieſts too. Pope Boniface the 8. would haue put himſelfe into theſe rights in Frāce; But he got a Great fooliſhip for this attempt; Sciat maxima tua fatuetas, &amp;c. and then was quiet.
+                  
+                      Who can doubt of the matter of appeale, that reads Pauls prouocation vnto Ceſar,
+                     
+                        Act. 25.10. 
+                     I ſtand at Ceſars iudgement ſeate, where I ought to be iudged; not only in reſpect of himſelfe, becauſe hee could not decline that iuriſdiction, but of all others beſides; for none could exempt him, becauſe Ceſar had the laſt
+
+reſort and ſupreame Iudicature.
+                  Laſt of all, the grace of deliuerance  and pardoning criminalls was in the King; elſe Ioab was miſtaken in the middeſt of his ſubtilitie, when he ſent the woman of Tekoah to Dauid.
+                     2. Sam. 14.2. 
+                     Dauid &amp; Salomon were miſtaken too: the one, when hee pardoned Abſolon and Shemey; the other, when he gaue to Abiathar the high prieſt his life.1. Ring 12.26▪
+                      
+                     Thou art worthy of death, but I will not kill thee; goe to Anathoth to thine owne fields: Hee did confine him. Now who can denie the Kings Supremacie, ſeeing all the particulars of Soueraignetie meete together in his perſon? Peter graunts it: Submit yourſelues to all maner ordinance of man,
+                     1. Pet. 2.13. 
+                     for the Lords ſake, whether it bee to the King, as hauing more then all; that is the force of the word 
+                        〈 in non-Latin alphabet 〉
+                     . And in my poor vnderſtāding, he that hath power
+
+boue all muſt needes bee Supreame.
+                  
+                  But why doth Peter call it a humane ordinance? The Kings power is like to Pearles, that are found heere below, but carrie a reſemblance of Heauen in their brightneſſe, and Orient colours: Such is the authority that I treat of: S. Peter calls it a humane ordinance, becauſe it is conuerſant here vpon earth, and exerciſed amongſt men. But it may iuſtly challenge an higher parentage, when the beautie therof is marked, and the emoluments conſidered: Then it is like to Daniels goodly Tree,
+                     
+                        Dan. 4.18. 
+                     of whoſe fruite all mortall men doe taſt and eat, &amp; vnder whoſe ſhadow they alſo take reſt and comfort. How often haue thoſe holy Fathers run to the defence, and ſuccour of this Tree in ſtormes, which now in their faire Sunne-ſhine goe about to ſhroude &amp; lopp the branches!
+
+O vnthankefull remembrancers! But to the point: If this power be of men, how is it ſacred? and if it be from heauen, why ſhould it not be Soueraigne?
+                  
+                  The Royall Law is this, Thou ſhalt make him King ouer thee whom the Lord thy God ſhall chooſe.
+                     
+                        Deut. 17.15. The people haue no authoritie to make a King, no voyces, nor intereſt in the buſineſſe: when they deſire a King, God reſerueth that power to himſelfe. You know who ſaith it,
+                        Act. 13.21. 
+                     Acts 13. When the people of Jſrael deſired a King, God gaue vnto them Saul the Sonne of Cys. Samuel did not appoint him, the people did not chuſe him, but God: To morrow about this time I will ſend thee a Man, him ſhalt thou annoynt. There is Samuels warrant:1. Sam. 10.20 21. And will you ſee what part the people had? Samuel aſſembled the people, &amp; the tribe of Benjamin was taken. So Saul the ſonne
+
+of Cys was taken.
+                     1. Sam. 10.24. 
+                     And Samuel ſaid, ſee you not him whom the Lord hath choſen? Nor Prieſt, nor Prophet, nor people had Nomination, Election or Approbation of the King, but God did all according to the reſeruation of his own Law. The people were beholders, no actors: they did take Conditions, they could make none. Hoc erit ius Regis, This ſhall bee (whether you tranſlate it) the Kings right or his manner: It is an Item to Subiects, that they can neuer Capitulate with their Prince: If you tranſlate it, the Kings right, then that may not be inuaded: If you tranſlate it, His manner, or cuſtome, that creates an other right, and cannot handſomely be auoyded. Heere is the difference between a Law, that giueth right, &amp; a Cuſtome, that maks a manner: in the former there is an expreſſe
+
+allowance; in the ſecond, a ſecret conſent.
+                  The appointment of the ſecond King was like vnto the firſt: and the third alſo was aſsigned to Dauid by God. The greateſt diffrence was, that Gods Election began then to be hereditarie, and to bee declared by ſucceſſion. But mens inheritances take not away Gods right: they confirme it rather, becauſe he appointeth heires.
+                  
+                     Ego dixi dij eſtis, He calleth them Gods to whom the Word of God came.
+                     
+                        Pſalm. 82.6. Ioh. 10.34. Which ſpeech of Chriſt is an Hebraiſme, ſignifying that Kingdomes &amp; Gouernments come not by authority, or practiſe of men: but by Gods holy Ordinance and Commiſsion. The Word of God muſt come vnto them before they can be called Gods. And ſo I will ſhut vp this point with that which
+
+they ſay Peter ſpake to Birthwould a Moncke of Glaſſenburie, when hee was anoynting Edward the Confeſſor (as I remember): The Moncke was inquiſitiue who ſhould ſucceed him in the kingdome: And Peter anſwered, Ne talia cures; Sir Moncke, trouble not your head with ſuch cares: Regnum enim Angliae Dei regnum eſt; For the Kingdome of England is Gods kingdome. Euen ſo Lord IESVS let it euer continue, that it may bee ſafe vnder the ſhadow of thy wings. If the Monckes viſion were true, it brings our Superuiſors of kingdomes a Superſedeas from Peter; &amp; that ſhould be of ſome force amongſt thoſe that crie nothing but Peter, Peter: If it be not true, yet it ſhews what the opinion of the world was then, namely, That the diſpoſition of kingdomes belongeth to God alone: And that the Care
+
+of Titles and Succeſsions was no fit Meditation for Monckes, and Parſons of that rancke. Thus much for the Supremacie of the Kings power.
+                  Now the ſtile of Kings followeth, which our SAVIOVR, in this place, would haue proportionable to the Maieſtie of their places. wee are commanded,
+                        Rom. 13.7. 
+                     To giue honour to whom honour belongeth; Surely none hath ſuch right vnto it as the King: And the firſt part of honour conſiſteth in Tearmes and Titles of reſpect.
+                  
+                     My ſonne,
+                     
+                        Prou. 24.21. 
+                     feare the Lord and the King, and meddle not with them that are ſeditious. God and the King are propoſed ioyntly, and made the Obiects of our feare: therefore the Holy Ghoſt inioyneth vs to performe no perfunctorie or vulgar reuerence to Kings, but that which is Sacred &amp; Cordiall:
+
+Bring ſuch reuerence, &amp; all Complements of Honour will follow to content Chriſtian Princes. And remember, that as they haue Gods Chaire, and repreſent Gods image: ſo hee hath communicated his Name vnto them, which containeth the amplitude of all Honour. Heere the Sonne of God calleth them Benefactors, or gracious Lords; a Title anciently giuen to Kings, and none ſorteth better with the intent &amp; end of their office, which is as Ariſtotle admoniſheth king Alexander, 
+                     
+                        〈 in non-Latin alphabet 〉
+                     . Paul expreſſeth it in good Engliſh:
+                        Rom. 13.4. 
+                     Hee is the Miniſter of God for thy good.
+                  
+                  Tu regem patremque geras, tu conſule cunctis.
+                  You haue heard how the Lord that is annoynted, honoureth the Lords annoynted, with Supremacie in his Iuriſdiction, with Maieſtie in his Stile, and
+
+Titles. It is our dueties to wiſh him good lucke with his Honour,
+                        Pſalm. 122.7.8 9. 
+                     Peace be within his Wals, &amp; plenteouſneſſe within his Palaces: for my Brethren &amp; Companions ſake, I will wiſh him proſperitie; yea becauſe of the houſe of the Lord J will pray for his good.
+                  
+                  Now let vs ſee the laſt paſſage what intereſt the Apoſtles and their ſucceſſors haue in this matter of Supremacie, and Titles of Maieſtie. Our Sauiour takes it from them Poſitiuely: Vos autem non ſic, You that are Apostles ſhall haue no ſuch power. Our Maſters of the Church of Rome drawes it to them crookedly: whether will ye beleeue, him that was indifferent and without reſpect of perſons, or theſe that are partiall? him in the trueth, or theſe in their pride? the Sonne of God, or the Brethren of the Conclaue?
+                  
+                     Amongſt many differences that be betweene them, this may be reckoned for one; That we beleeue the Sauiour of mankinde vpon his word: Jpſe dixit is ſufficient. But the other muſt attend for no further credit from vs, then they can winne by the euidence of their proofes. And theſe are either Blaſphemous or Triuiall.
+                  They now ſay that wee muſt conceiue a ſecret &amp; implyed Oath in our Baptiſme, to yeelde obedience to the Pope. A proofe full of horrible blaſphemie: true Chriſtians will deteſt to ſweare into the Popes wordes, and to ioyne him in their Baptiſme, as a Conſort with the three Perſons of the holy and vndiuided Trinitie. Heareſt thou not this, O Chriſt, at the right hand of God; How the Aduerſaries, for their owne greatneſſe, would euacuate and
+
+violate thy holy Baptiſme?
+                  The other proofes, Feede my ſheepe,
+                     
+                        Ioh. 21.16. Matt. 16.19. and, Vnto thee will I giue the keyes (for I reade no more in the writhen Diuine) are ouerworne &amp; triuiall proofes, vnbeſeeming the cauſe, which is now made one of the principall Articles of Faith, as if none could be faithfull vnleſſe he beleeue in the Pope: vnfitting the perſon that alleageth them, from whom the world did looke for Oracles; and behold nothing but that which euery triobolour Papiſt can tel.
+                  As to the former, Paul in his farewell, tould the Elders of Epheſus, that The holy Ghoſt had made them ouerſeers,
+                     
+                        Act. 20.28. 
+                     to feed the Church of God. Wherein I note two things: Firſt, the Office of Elders did conſiſt in feeding: Secondly, that the Church of God which they muſt feede, is of equipollent and
+
+of as large compaſſe as the ſheepe of CHRIST. Therefore if there bee any force in the words of our Sauiour vnto Peter for feeding his ſheepe, becauſe they are indefinite: There muſt needs bee the ſame in theſe of Paul, to the Prieſts of Epheſus, becauſe they are equiualent. And ſo euerie inferior Miniſter ſhould hould a kinde of Soueraignetie in their places, which peraduenture our Aduerſaries may intend, though it bee not expreſſed, for they conceale many things, till opportunitie ſerue. But, if the Pope by feeding of Chriſts ſheepe, may exerciſe authoritie ouer Kings; be well aſſured that his inferior Miniſters which haue the ſame power of feeding, may and will practiſe the like vpon you that are Subiects. Is it poſsible that any Subiects ſhould bee in better Condition
+
+then their Soueraigne? Doe not deceiue your ſelues, my good Brethren &amp; friends,
+                        Mat. 10.24. 
+                     the ſeruant is no better then his Maſter. That which is good in the head of the Church againſt the heads of Kingdomes, will alwayes be of validitie in the Members of the Church againſt the Subiects of kingdomes. Therefore beware of them beloued: They that dare attempt againſt the Maieſtie and Perſons of Kingdomes, will much ſooner attempt againſt your lands, and liues, &amp; goods. Nothing ſhall be left vnviolable, nothing remaine free in any part of the Common-wealth; all muſt bee at the pleaſure and mercie of the Pope &amp; his Prieſts: You ſee how he is not content to ſheare, but will skin his ſheepe; ſo as no man hath cauſe to be ſorie that hee is not of his fould.
+                  
+                     Now looke vpon his Keyes, if they bee as powerfull as the feeding of ſheepe.
+                  The keyes of the kingdome of heauen, is a perſpicuous expoſition of the Goſpel, teaching men what way they may goe to Heauen, and how to be ſaued. This Key was not cōmitted to Peter alone, but vnto all the reſt of the Apoſtles. Hoc dictum, Tibi dabo Claves regni Coelorum,
+                     Orig. in Mat. 16. tract. 1.
+                      
+                     caeteris quoque commune eſt; Et quae ſequuntur velut ad Petrum dicta, ſunt omnium cōmunia: This ſentence of Christ, Vnto thee will I giue the keyes of the kingdome of Heauen, is ſpoken to the other Apoſtles too: and the wordes that follow, which ſeeme to bee deliuered vnto Peter, are common to all the reſt. Then if wee maruaile that they which are deſigned to the charge of expounding of the Goſpel, and opening Heauen, vndertake
+
+other things by the power of their keyes, as Kingdomes and Gouernments of the Earth; wee doe it not without the warrant of Scripture. Heere is a Patterne that our Sauiour leaueth to his Apoſtles in my Text: Soueraignetie is interdicted, and a Miniſterie is enioyned them.
+                     Di Conſider. ad Eugen. 
+                     Bernard writ to as great a Pope as Paul the fift, Quid vos alienos fines invaditis? What doe you meane to enter vpon other mens rights? Diſce tibi Sarculo opus eſſe nō Sceptro, vt opus Prophetae facias; Vnderstand that an Hooke to weede withall, is fitter for you then a Scepter, to doe the office of a Prophet. Esto vt quacun
+                           
+                              
+                           
+                           que
+                         alia ratione hoc tibi vendices, non tamen Apostolico iure; By what other right ſoeuer you can challenge this thing, it is certaine you may not doe it by any right deriued from the Apoſtles: Nec illud tibi dare Petrus potuit quod
+
+non habuit; For, that which Peter had not himſelf he could neuer conuey to the Pope: And ſo hee concludeth. I ergo tu, &amp; tibi vſurpare aude, aut dominans Apoſtolatum, aut Apoſtolicus dominatum, Goe too then, &amp; vſurpe if you dare, either a Lordlike Apoſtleſhip, or an Apoſtolicall Lordſhip. Planè ab alterutro prohiberis, You are cleerely forbidden the one of the two. Si vtrum
+                           
+                              
+                           
+                           que
+                         ſimiliter habere voles, vtrumque perdes, If you will needes haue them both together, you muſt needes looſe them both. Well then; are not the Keyes ſometimes a Cogniſance of abſolute Authoritie? yes verily: but that is Dauids Keye, not Peters. I; but CHRIST had that keye too. It is true, but he did not communicate it to Peter, or to any of the Apoſtles.
+                        Reuelat. 3.7. 
+                     This ſaith he that hath the keye of Dauid, then he had it, he hath it ſtill, hee will haue it euer, hee will neuer
+
+reſigne it to any of his Apoſtles:
+                     
+                        Ioh. 20.21 
+                     Hee ſent them, but as his Father ſent him into the World, &amp; that was without any Royaltie or Kingly power: But after his Reſurrection he ſaith, All power is giuen mee, both in Heauen, and in Earth:
+                     
+                        Mat. 28.18. and addeth, Go therefore vnto his Apoſtle: By that power which was giuen him both in Heauen &amp; in Earth, he ſheweth that hee hath authoritie to ſend forth his Apoſtles; ſo he addeth rightly, Goe ye therfore. But how ſhall they goe? Suerly, not with that fulneſſe of Power ouer Heauen &amp; Earth, which hee mentioned inſtantly before (and then was the fitteſt time to haue giuen it) But, Goe teach all nations,
+                     
+                        Matt. 28.19.20. 
+                     baptizing them in the Name of the Father, and of the Sonne, and of the Holy Ghoſt, teaching them to obſerue all things that J haue commaunded you.
+                  
+                  
+                  
+                     〈1 page duplicate〉
+                  
+                  
+                  
+                     〈1 page duplicate〉
+                  
+                  
+                     This is their Charter, their Commiſsion, their Letters Patents, and it containeth all the notes and markes of the Church. Thoſe things bee within their charge; the preaching of the Goſpell, the adminiſtration of the Sacraments, the ſetling, not of any one modell, but of that diſcipline that may bring men to the obedience &amp; obſeruation of CHRIST his Commaundements: For planting or tranſplanting of kingdomes 
+                        〈 in non-Latin alphabet 〉
+                     , there is no Title in all their Commiſsion.
+                  
+                     Bellarmine makes much adoe about the tranſlation of the Romane Empire, from the Greekes to Charlemaine, by the B. of Rome; and pleaſeth himſelfe with coniecture more then his Iudicious Reader with ſoliditie of reaſon. The verie trueth of that ſtorie is, that Charles the great had it not by the authoritie
+
+of the Pope, but by Conqueſt and Tranſaction with Nicephorus the Greeke Emperor, when he could hold it no longer. But allow the Cardinall, that which he cannot proue; that Charles obtained the Empire by the Popes authoritie, then he may call to minde, That the reſtitution of the Romane Monarchie must be done by Antichriſt, as it is in the 13. Chap. of the Reuelation.
+                     
+                        Reuel. 13.1. But Bellarmine tells vs, that the B. of Rome effected the reſtitution of the Romane Empire: therefore Bellarmine makes the Biſhop of Rome to be Antichriſt, which I will not confute.
+                  You haue heard, how CHRIST his Cenſure doth deiect the Pope from his vſurped Monarchie, Vos autem non ſic: You that be Miniſters of the Goſpel may not raigne like Kings. And ſome of our Brethren alleage the ſame words
+
+alſo to diſpoſſeſſe the Reuerend Biſhops of this Church from their Superioritie: But they ſet CHRISTS wordes vpon the tentar-hookes, and ſtretch them too farre. His meaning is not to make an equalitie amongſt the Miniſters, but to ſet a difference betweene Kings, &amp; the Miniſters of the Word, that none ſhould inuade the right of Princes, vnder the pretence of their Miniſterie.
+                  As for Aequalitie, when one aduiſed Lycurgus to eſtabliſh it amongſt the Lacedaemonians, whereby the leaſt &amp; meaneſt might beare like ſway, and rule with the greateſt; The wiſe man anſwered, that he which calleth for that, ſhould begin it firſt at home in his owne houſe. And if all men be carefull to exclude Paritie out of their priuate families: if men experienced in Policie
+
+and Gouernement, will not admit it into the Common-wealth, becauſe that cannot bee preſerued with equalitie, but by authoritie and rule: Why are not men as ſenſible of the Houſe of God, as of their own houſes? why ſhould Aequalitie, that is found intollerable in other Societies, be obtruded to the Church? Becauſe diſtinctions, and inequalitie of Paſtors cannot bee proued by Scripture. That is not ſo. There were diuers Paſtors vnder the Law (ſo I thinke I may call the Prieſts) but they were not equall: for there was one High Prieſt, as it were a Tranſcendent aboue them all. But his eminencie was to expreſſe the Soueraignetie of IESVS CHRIST. But then there were Captaines of euerie family of the Leuites, and that proues an inequalitie. Laſt of all, there were two
+
+                     ioyned with the high Prieſt, which are called Rulers in the Houſe of God, in the firſt Paralip. Chap. 24. Verſ. 5.1. Chron. 24.5.
+                  
+                  In the New Teſtament there was diſtinction, and inequalitie betweene the Apoſtles themſelues; or elſe Paul would neuer haue called Peter, &amp; Iames,
+                     
+                        Galat. 2.9. 
+                     &amp; Iohn, cheife &amp; pillars of the Apoſtles. There was diſtinction &amp; inequalitie betweene the twelue Apoſtles, &amp; the ſeuentie Diſciples.1. Cor. 3.10. 
+                     Paulus Appellat ſeipſum Architectum.
+                  
+                  Wee reade of many Pastors at Epheſus,
+                     
+                        Act. 20.17. &amp;c. Reuelat. 2.1. 
+                     Act. 20. &amp; in the Reuelat. John writeth, To the Angel of the Church of Epheſus; which euicteth neceſſarily that there was one greater then the reſt. Par in partem non habet Imperium, One equall hath no power ouer another. But, Paul gaue Timothy authoritie ouer Paſtors:
+                     1. Tim. 1.3. Therefore he intended &amp; ordained
+
+an inequalitie, &amp; no paritie, amongſt the Paſtors of the Church. The reaſōs of thoſe that call for equalitie in the Miniſters of the Church, are not made to build vp, and they are too weake to pull doune. Zeale is good, &amp; a ſweet thing: it is to vow your hearts vnto God; but euery Sacrifice muſt be ſeaſoned with Salt, leaſt yee goe about to reform the Church with one hand, &amp; to ſubuert the ſtate with the other. Abraham ſayes grauely vnto Lot,
+                     
+                        Geneſ. 13.8. 
+                     Let there be no Contentions betweene mee and thee, for wee are Brethren: That is one reaſon;
+                        Pſal. 133.1. 
+                     And it is both good &amp; pleaſant for Brethren to dwell together. Againe, The Chananite, &amp; the Peryzite are yet in the land, that is another motiue.
+                        Geneſ. 13.7. In which caſe, who knows not that the aduerſaries of our doctrin wil ſooner be ouercom with vnited, thē diſtracted forces?
+
+And ſo we that fight the Lords battels cannot diſ-joyne our ſelues without preuarication &amp; bootie. Away then with all ſingularitie, and admiring our owne opinions; know ye not that it is the Seminary of inward Contention? The ſpirit of the Prophets muſt be ſubiect vnto the Prophets.
+                     1. Cor. 14.31 Let vs haue but one heart, &amp; one way, that we may fill the Lords Houſe with Garlands of victories: that wee may beat our Aduerſaries from humane merits, and bring them to the diuine mercies; from Freewill, and the poſsibilities of Nature, to the Grace of God; from Traditions, to the written Word; from Eleuation, Adoration, Circumgeſtation, Tranſubſtantiation of the Sacrament, to the Commemoration of Chriſts death, &amp; a ſweet fruition thereof by Faith; from their Hierarchy &amp; viſible Monarchy,
+
+to the Headſhip of our Lord IESVS CHRIST; from ſuperſtition to the true worſhip of God. Oh how glorious are theſe holy triumphes! how inſtantly doe they call vpon vs to combine our ſelues together, that the Conuerſion &amp; Offering vp of the Papiſts may be acceptable and ſanctified? And thus much for Concord to my Brethren of the Miniſterie.
+                  I would not diſmiſs you of the Laity, after this long diſcourſe of contention, without ſom ſhort exhortatiō to peace. The very name of Peace is a ſweete word, but the worke is ſweeter. I cannot alwayes ſpeak of it; but that which I cannot ſpeake of alwayes, you may keepe alwaies: as for example, he that prayſeth God with his tongue cannot do it euer, that member muſt haue reſt as well as the other parts of the bodie:
+
+but hee that praiſeth God with his life &amp; conuerſation, may euer do it. Euen ſo do I commend the words &amp; works of peace vnto you: or if you think me vnworthie to commend ſuch a diuine bleſsing; looke if it be not the word of a Great &amp; mighty King that is far aboue all exception:
+                     
+                        Matth. 5.9. He cōmandeth it vnto vs from the Author of peace, Beati pacifici, not pacidici; but pacifici: bleſſed are not the prayſors, but, the practiſers of peace. Let the Mountaines bring peace, &amp; the little Hills righteouſneſſe vnto thy people, O thou Prince of peace.
+                     
+                        Hebr. 20.21 And ſo The God of peace, that brought again from the dead our Lord Ieſus, the great ſhepheard of the ſheep thorough the blood of the euerlaſting Couenant, make you perfect in all good workes, working in you that which is pleaſant in his ſight, through Jeſus Chriſt, to whom be praiſe for euer &amp; euer. Amen.
+                  
+                  FINIS.
+               
+            
+         
+         
+            
+               
+                  
+                  AN ADDITION To the former Treatiſe of SOVERAIGNETIE: SHEWING THAT THE POSSESSION THEREOF HATH NOT beene in Popes, ſaue by Vſurpation and Practiſes; but in Emperours and Kings by a continued or perpetuall Deſcent.
+                  
+                  
+                     DVBLIN, Printed by the Societie of Stationers.
+               
+               
+                  
+                  
+                     1. Cor. Chap. 3. Verſ. 21.22.23.
+                  
+                  Therefore let no man glorie in men, for all things are yours. Whether Paul, or Apollo, or Cephas, or the World, or life, or death, or things preſent, or things to come, all are yours. And yee are Chriſts, and Chriſt is Gods.
+               
+               
+                  
+                  TO THE RIGHT HONOVRABLE, GERALD Earle of KILDARE, and the rest of the Nobles, or Gentrie in Jreland: CHRISTOPHER by the mercie of God, Archbiſhop of Armagh, and Primate of all IRELAND, wiſheth much happineſſe heere, and full in the world to come.
+                  
+                  
+                     HOnoured Lords, and eſteemed Gentlemen, I haue publiſhed aſwell the former Treatiſe, as this addition of Soueraignetie, for your ſakes, whom J am bound to informe by the dutie of my place, and in retribution of the reſpects you giue vnto me otherwayes: that ſince the ſound of my voice cannot reach to the eares of euerie one, now it is grown low with yeares and infirmities; the Meditations of my
+
+heart may neuertheleſſe be offered to the eyes and iudgement, of all which J deſire you to peruſe and examine by the weights or ſtandard of Truth, without preiudice or foreſtalled opinion. (⸫)(⸫)
+               
+            
+            
+               
+                  
+                  AN ADDITION To the former Treatiſe of SOVRAIGNETIE.
+                  
+                     AT the firſt inſtitution of the Ciuill, and Eccleſiaſticall authoritie in the Church,
+                        Exodchan. 4. verſ. 15. &amp; 16. God ſaith to Moſes: Thou ſhalt ſpeake to Aaron and put the wordes in his mouth, and J will bee with thy mouth, and with his mouth, and will teach you what you ought to doe. And hee ſhall be thy ſpokeſman vnto the people: and he ſhall be, euen he ſhall be as the mouth, and thou ſhalt bee to him as God.
+                  
+                  
+                     Aaron obeyed Moſes:
+                     
+                        Exod. 32. and Moſes called for an account of Aaron.
+                  
+                  
+                     Salomon being King according to his Fathers appointment,2. Chron. c. 8 verſ. 14.15. 
+                     ordained the Offices of Prieſts in their Miniſteries,
+
+&amp; Leuits in their orders, that they might giue thankes, and miniſter before the Prieſt after the order of euery day: For ſo commanded Dauid the man of God; neither did the Prieſts, or Leuits omit any thing of all that hee had commanded.
+                  
+                     2. Chron. 19. verſ. 8.So it is written of King Iehoſaphat, that hee appointed the Leuites and Prieſts.
+                  
+                  
+                     2. Chro. 35.2.And of King Ioſias likewiſe, that he appointed Prieſts to miniſter in their ſeuerall Offices.
+                  
+                     Luc. c. 2. v. 7.
+                     In the New Teſtament, our Sauiour Chriſt at his birth acknowledged ſubiection to Auguſtus the Emperor being borne vnder his tribute; and ſetting the example of his owne ſubiection before his Diſciples, asketh, Who is Superior, hee that ſitteth at the Table, or hee that ſerueth? Js not he Superior that ſitteth? but J am among
+
+you as hee that ministreth and ſerueth.
+                  
+                  Before Pilate he diſauowed to haue any earthly kingdome,
+                        Ioh. 18.36. and acknowledged that the Roman Empire had authoritie ouer his body &amp; life; for both were then in queſtion, and for blaſphemy too, which is a ſpiritual crime.
+                  After the death of Chriſt,
+                     
+                        Act. 25.11. his Apoſtle Paul appealed from the Iewes to Ceſars iudgement, and ſaith in expreſſe termes, That there he ought to be iudged; And his cauſe was for preaching the Goſpel.
+                  
+                  
+                     Peter likewiſe patiently endured Nero his Swoord, for teaching the truth. This was the condition of Chriſt and his Apoſtles, they profeſſed themſelues ſubiects to the Romane Emperour.
+                     About the yeare of our Lord. 150.
+                     
+                  
+                  
+                     Eleutherius B. of Rome did write vnto Lucius then king of the Britans to take
+
+Lawes for the Gouernement of his kingdome out of the Olde Teſtament and the New, which were then in the Kings hands, &amp; giueth this reaſon of his aduiſe: Yee are Gods Vicar within your owne kingdome.
+                  
+                  
+                     
+                        A.D. 220 
+                     Ad Scapul. About the yeare of our Lord. 220.
+                     
+                     Tertullian: Wee Chriſtians worſhip the Emperour as man next vnto God, &amp; inferior onely to God. For ſo is the Emperour greater then all men, when hee is leſſe then the onely true God.
+                  
+                  
+                     
+                        A.D. 225 
+                     
+                        Cyprian libr. 1. Epiſt. 3.
+                     Cyprian would not giue way to Cornelius Biſhop of Rome, to abſolue any of Africk excommunicated there.
+                  
+                     
+                        A.D. 340 Before the Councell of Nice, there was ſmall or no regard had of the Church of Rome; but euery Church was ruled by their owne Canons, or by the common aduiſe of Biſhops, vntill the Emperors became Chriſtians:Lib. 5. in pro
+                        
+                           ••
+                        mio. Then Socrates teſtifieth in his Eccleſiaſticall
+
+Historie in this wiſe: We haue alſo herein compriſed the Emperours liues; for that ſince the Emperours were first Chriſtened, the affaires of the Church hath hanged on them, and the greateſt Councells both haue bin, &amp; are kept by their aduiſe.
+                  
+                  
+                     Euſebius writeth:In vita Conſtant. orat. 1.
+                      
+                     Conſtantine the Emperour appointed Councells of Biſhops to aſſemble together, &amp; diſdained not to ſit in the middeſt amongſt them, &amp; to be pertaker of their doings. This great Conſtantine about the yeare of our Lord, 340. called a generall Councell at Nice.
+                  
+                  So Theodoret writeth:
+                        Lib. 1. cap. 9. 
+                     A great and holy Councell was gathered to Nice by the grace of God, &amp; by the godly Emperor.
+                  
+                  So Euſebius alſo teſtifieth,De vita Constant. orat. 3.
+                      
+                     that Conſtantine gathered a generall Councell, and by honourable Writs called the Biſhops of all Countries to repaire together. And the ſame Author witneſſeth, that the Emperor
+
+                     Conſtantine confirmed the determinations of the Councell of Nice.
+                  
+                  More alſo,
+                  
+                     De vita Conſtant. libr. 3. cap. 10.
+                     
+                     The whole Councell ſate in Reuerend &amp; comely order, quietly &amp; in ſilence, looking for the Princes comming; and when the watchword was giuen that the Emperor was come, the Biſhops ſtood vp from their places, and his Maieſtie paſſed a long through the middeſt of them, as if hee had beene an Angel of God.
+                  
+                  In that Councell of Nice, the whole bodie of Chriſtendome was deuided into foure Patriarcheſhips: whereof the firſt place was giuen to the Biſhop of Rome; the ſecond to the Biſhop of Alexandria; the third to the Biſhop of Antioch; the fourth to the Biſhop of Ieruſalem; afterward came in the B. of Conſtantinople in the place of the B. of Antioch: theſe foure Patriarches had
+
+their peculiar Circuites &amp; Precincts appointed in ſuch ſort, as one of them ſhould not meddle within anothers Iuriſdiction, to confound their authorities. The cauſe why the Fathers, aſſembled in Councell, gaue the firſt place to the See of olde Rome, was not for that either Chriſt, or his Apoſtle Peter had ſo appointed: but that the Citie of Rome was the moſt noble Citie, and of greateſt renowne in all the World; as appeareth in the Councell of Calcedon, which writeth, That the Fathers in the Councell of Nice did worthily giue the chiefetie to the See of olde Rome, becauſe that Citie had the Soueraignetie ouer others.
+                  
+                  Saint Ambroſe, ſpeaking of himſelfe and other Biſhops, which were at the Councell of Aquileia, ſaith thus: Wee are met together at Aquileia by the
+
+commaundement of the Emperour.
+                  
+                  
+                     
+                        About the yeare of our Lord. 383 In the Councell of Conſtantinople, the Biſhops wrote thus vnto Theodoſius the Emperour: Wee are come to Conſtantinople by your Maieſties Commiſsion.
+                  
+                  And afterward at the end of that Councell: We beſeech your Maieſtie, that as you haue honoured the Church by your Letters, wherewith you haue called vs together; ſo it may pleaſe you to Confirme the finall Concluſion of our Decrees with your ſentence and with your Seale.
+                  
+                  
+                     
+                        About. 420 To the Councell of Carthage, where S. Augustine was preſent, Sozimus B. of Rome ſendeth Legats, Fauſtinus, Philippus, and Aſellus, in fauour of Apiarius a Prieſt, that fled to Rome for ayde againſt Vrbanus his Dioceſan, who had depriued him both of his function, &amp; the Cōmunion for his lewdneſſe: To theſe Legates the Pope gaue charge,
+
+to claime this Priuiledge for him &amp; his See; That if anie Biſhoppes were accuſed, or depoſed, which appealed to Rome, the Biſhoppe of Rome might eyther write to the next Prouince to determine the matter, or ſend ſome to repreſent his Perſon, and to ſit in iudgement with the Biſhoppes. And to proue his deſire lawfull, he alleaged in writing vnder his hand, a Canon of the Councell of Nice, tending to that purpoſe. The godly Fathers aſſembling themſelues out of all Affricke, to the number of 217, &amp; finding no ſuch Canon in their Bookes, either Greeke or Latin, writ to the Patriaches of Alexandria, Conſtantinople, &amp; Antioch, for true and authenticke Copies of the Nicene Councell: &amp; finding their owne Copies agree word for word with thoſe that were brought, and no ſuch
+
+prerogatiue to bee ſeene in anie Canon there; Firſt, by their Decree they cut off all appeales to Rome, viz. That Prieſts,
+                     African. Concil. c. 92.
+                      
+                     Deacons and inferior Clerkes, if they complained of the iudgement of their Dioceſians, ſhould be heard by the Biſhops adioyning; and if they thinke to appeale from them alſo, let them not appeale but to the Councells of Africa, or to the Primates of their owne Prouince: and hee that aduentureth to appeale ouer the Sea, let him be receiued of no man within Africa vnto the Communion.
+                  
+                  After this Decree, with which they had withſtood three Biſhops of Rome, Sozimus, Boniface, and Celeſtinus; to the laſt, when the Biſhops of Affrica had gotten Copies of the Nicene Councell, they writ on this wiſe: Wee writ &amp; earneſtly prayed you that hereafter you would not lightly giue audience to
+
+thoſe that come from hence to you, neither any more receiue ſuch to the Communion, as wee haue excommunicated; becauſe your Reuerence ſhall eaſily perceiue the order taken by the Nicene Councell: For if there appeare a prouiſo for inferior Clerks or Laymen, how much more would the Synode haue the ſame obſerued in Biſhops, that being excommunicated in their owne Prouince, they ſhould not ſodainely, haſtily, or vnduly be reſtored to the Communion by your holineſſe? And likewiſe your holyneſſe muſt repell theſe wicked refuges of Prieſts and other Cleargie men, as becommeth you; for that by no determination of the Fathers this is derogated from the Church of Africa: and the Nicene Canons doe moſt euidently commit both inferior Clergie men and the Biſhops themſelues, to their owne Metropolitans. No doubt they moſt wiſely and rightly prouided that
+
+all matters ſhould bee ended in the places where they did firſt ariſe. Neither will the graces of the Holy Ghoſt bee wanting to any Prouince; by which equitie may bee grauely weighed, and ſtoutly followed by the Prieſts of Christ; eſpecially where euerie man hath libertie, if he miſlike the iudgement of thoſe that heare his cauſe, to appeale to the iudgement of his own Prouince, or to a generall Councell. Or how can the iudgements ouer Seas bee good, whereto the neceſſary perſons of witneſſes, either for ſexe, or for age, or ſundrie other impediments, cannot be brought? For that any ſhould bee ſent from your Holineſſe ſide, wee finde decreed by no Synod of the Fathers. That which you ſent vs hither by Fauſtinus as a part of the Nicene Councell; in the truer Copies which wee haue receiued from holy Cirill B. of Alexandria, and Reuerend Atticus Biſhop of
+                     
+Conſtantinople, taken out of the Originalls, which alſo we ſent to Boniface your predeceſſor; Jn them, we ſay, we could finde no ſuch thing. As for your Agents or Meſſengers, ſend them not at euery mans requeſt, leaſt wee ſeeme to bring the ſmokie pride of the world into the Church of Chriſt, &amp;c.
+                  
+                  Marke how many wayes the Biſhops of Affrica withſtood the Biſhop of Rome: Appeales to Rome, which Sozimus claimed by the Councell of Nice, they cōfute by the ſame Councell, &amp; impugne them by other graue &amp; pithie reaſons; Legates à latere they reiect as neuer ſpoken of in any Coū
+                     cell, though hee claimed them; Running to Rome they call a wicked refuge, and ſending Meſſengers from Rome a ſmokie pride of the World; The corrupting of the Nicene Canons
+
+by Sozimus, they diſproue by Copies that were true &amp; authenticke. Appiarius, whom the B. of Rome had harboured to the Church the ſecond time, they baniſhed from the Church of Chriſt. What would thoſe men haue done if Sozimus had claimed to be head of the Church, or Vice-God vpon Earth by Chriſts appointment? If any Scripture had ſounded that way, neither the B. of Rome would haue left that certaine proofe, &amp; truſted only to the teſtimonie of a Canon in a Councell, which could not bee found but in his owne Librarie; nor yet Auguſtine with his holy &amp; learned companie, would haue reſiſted this demaund; if it had either been grounded vpon Scripture, or determined in the Nicene or other Councell, or had ſtood with equitie, good order, or reaſon.
+
+So the Church of Affrica continued vntill Boniface the ſecond came to bee Biſhop of Rome. Hee by communications, threatnings, and allurements brought Eulalius the. Metropolitane of Carthage,
+                     About the yeare. 534.
+                      &amp; certaine other Biſhops of Affrica, to ſubmit themſelues to the Biſhop of Rome, and to anathematiſe the ſixt Councell of Carthage where S. Auguſtine was preſent.
+                  
+                     
+                        A.D. 440 
+                     Polychronius Biſhop of Jeruſalem would haue had his See firſt &amp; greateſt, becauſe it was the holy Citie which God had choſen of olde; becauſe Chriſt taught there, ſuffered there, roſe againe there, gaue the Holy Ghoſt there, Peter, James, and John taught there who were pillars of the Church. The B. of Rome, Sixtus III. not brooking this well, gathereth a Synod at Rome, queſtioneth Polychronius
+                     
+for violating the Canons, ſuborneth Euphemius a Prieſt of Jeruſalem, to accuſe Polychronius. Accuſers were ſent to Ieruſalem with the Emperour 
+                        Ʋalentinianus Letters, and he was depoſed; but afterward was reſtored againe by the ſame Emperour, when his innocencie was knowen, and Euphemius his accuſer had ſentence of perpetuall condemnation.
+                  
+                     
+                        A.D. 450 
+                     Hilarius Viennenſ. did vſually diſcourſe, that Peter himſelfe was not prince of the Apoſtles, or had any authoritie ouer them; neither ought the Pope to haue any power or right ouer the Churches in France.
+                  
+                  
+                     
+                        A.D. 460 Pope Leo writeth thus to the Emperor Theodoſius:
+                     
+                        Epiſt. 24. 
+                     All our Churches, &amp; all our Prieſts moſt humbly beſeech your Maieſtie with ſobbs and teares, that yee will commaund a generall Councell to bee
+
+holden within Italie. This notwithſtanding, the Emperour, contrarie to the Popes humble petition, kept the Coū
+                     cell at Chalcedon, not in Italie;
+                     Concil. Calce. Act. 1.
+                      &amp; thither Pope Leo was ſummoned to appeare by the Emperours commaundement, with other Biſhops: So that the Emperor commanded Councells when, and where hee pleaſed, whether the Pope would or no. And when that Councell of Chalcedon had made the Biſhop of Conſtantinople equall in priuiledges and reſpects with the Biſhop of Rome, Lucentius (Pope Leo his Legat) intreated to haue that blotted out but the honourable Iudges made him anſwere negatiuely. At the end of that Councell, the Emperor Martion ſaith, Wee confirme the Reuerend Councell by the holy edict of Our Maieſtie.
+                  
+                  
+                     
+                        A.D. 583 
+                     Iohn Biſhop of Conſtantinople went
+
+about to illuſtrate his See by conſent of the Emperour &amp; Councell of Conſtantinople, wherein the ſaid B. was ſtiled Oecumenicall Patriarch, before any ſuch Title was in the Citie of Rome; and in Conſtantinople it was brought in not by any Law of God, but by the fauour and graunt of the Emperours. Pelagius Biſhop of Rome withſtood it firſt, &amp; would haue no Biſhop or Patriarch to bee vniuerſall, becauſe that if any one man bee called vniuerſall, the name of Patriarch or Biſhop is derogated from all others; but let this be farre from all faithfull men, to take that vpon him, whereby the honour of his brethren is diminiſhed.
+                  
+                     Gregorie the great, Biſhop of Rome alſo oppoſed that Title with more vehemencie, prouing that no man ought to bee called vniuerſall Biſhop, which
+
+hee tearmeth a new, fooliſh, proud, peruerſe, wicked and prophane name: and to conſent vnto it, is as much as to denie the Faith. Hee addeth further, Whoſoeuer goeth about to extoll himſelfe aboue other Biſhops, therein followeth Sathan, who was not content to bee equall or like vnto other Angels. Gregorie alſo affirmeth, That none of his Predeceſſors did euer vſurpe to himſelfe that Title, concluding, That whoſoeuer doth ſo, declareth himſelfe to bee a forerunner of Antichrist. When Iohn, before mentioned, was preferred from the degree of a Moncke, and made Patriarch of Conſtantinople, and obtayned of Mauritius the Emperor alſo to be extolled aboue all other Biſhops with the name of Vniuerſall Patriarch; hee requeſted Mauritius likewiſe to write vnto Gregorie then Biſhop of Rome for his conſent
+
+thereunto:It appeares by the ſtorie of thoſe times and by his own Epiſtles, that hee was willing enough to haue to doe with other Churches. but Gregorie, whether in deteſtation of that Title, or for affectation to the thing it ſelfe, I cannot tell; would not agree. And vnderſtanding that he was in the Emperors diſpleaſure for diſſenting from it, he writ to Constantina the Empreſſe, declaring Iohn his preſumption &amp; pride therein, to bee both againſt the rule of the Goſpel, &amp; the Decrees of the Canons, namely, the ſixt Canon of the Nicene Councell; and that the noueltie of that new found Title did declare nothing elſe, but that the time of Antichriſt was neere at hand.
+                  In the ambitious purſuites for this Supremacie, as well by Iohn Patriarch at Conſtantinople, as alſo in thoſe which Boniface 3. Biſhop of Rome vſed afterward, it is worthie to be obſerued, that neither of the pretenders inſiſted vpon
+
+anie right in Scripture; but both made their addreſſes to ſeuerall Emperours: Iohn to Mauritius, Boniface to Phocas; both implying thereby, that it was in the Emperours power, and did belong to him in right, to tranſlate or conferre the Primacie of the Church. It is certaine that in Pelagius, and Gregories time before mentioned; there was no challenge of Supremacie openly made for the Biſhop of Rome, but a conteſtation to the contrarie:Gregor. Epiſt. 32. &amp; 30.
+                      
+                     None of my Predeceſſors Biſhops of Rome euer conſented to vſe this vngodly name, no B. of Rome euer tooke vpon him this name of ſingularitie, Wee the Biſhop of Rome will not receiue this honour offered vnto vs. And it is not credible, that the holy Fathers in the Councell of Nice could or would haue Decreed that three other Patriarchs ſhould bee
+
+equall, or haue like authority with the B. of Rome: neither might they haue reſtrained the B. of Rome his authoritie to a certaine limit, with this Prouiſo, that he ſhould not inuade the Dioceſſe of other Biſhops; but content himſelfe with the authoritie of his owne circuite, if Chriſt had giuen vnto him the vniuerſall gouernement of the Church or world. As to the words of our Sauiour Chriſt: Thou art Peter, &amp; vpon this rocke will I build my Church. Origen writeth:About the yeare. 233. In Matth. tract. 1.
+                      
+                     Jf wee ſpeake the ſame that Peter ſpake, wee are made Peter, &amp; vnto vs it ſhall be ſaid, Thou art Peter: For hee is the Rocke that is the Diſciple of Chriſt.
+                  
+                  Cyprian: when Paul had reproued Peter,
+                        250. Ad Quiri
+                           •
+                        . 2. Gal. Peter neither reuenged himſelf, nor tooke any thing proudly vpō him; as to ſay that he had the Primacie, Or that
+
+others that were but nouices and after cō
+                        mers (as Paul was) ought to bee obedient vnto him.
+                  
+                  
+                     
+                        A.D. 350 Hilarius: This is that onely bleſſed Rocke of faith that Peter confeſſed with his mouth. 
+                     
+                        De Trinit. l. 2.
+                  
+                  
+                     
+                        A.D. 380 Ciril: The rocke is nothing elſe but the ſtrong and aſſured faith of the diſciple. 
+                     De Trinit. in dialog 
+                           〈◊〉
+                         
+                        4
+                     
+                  
+                  
+                     
+                        A.D. 5__. Ambroſe: Of Peter and Paul; who ought to be preferred is not known. 
+                     
+                        Serm. 66. If you ſay that the charge &amp;c principalitie of the whole Church was cōmitted vnto Peter, Chryſoſt anſwereth, Vnto Paul the whole world was committed, Paul gouerneth the Church of the world, Paul ruleth the whole world.
+                  
+                  The ſame Father writeth: Not vpon the perſon of Peter,16. Ser. fest Pontecoſt.
+                      
+                     but vpon the faith of Peter Christ hath builded his Church: and what is the faith? Thou art Chriſt the Sonne of the liuing God. What is
+
+it to ſay, Vpon this Rocke? that is, Vpon the confeſsion of Peter: for if wee ſhould ſay the Church is builded vpon the perſon of Peter, we ſhould haue another foundation of the Church then Christ; which is directly against S. Paul:1. Cor. 3.11. 
+                     No man can lay anie other foundatiō but that which is laid alreadie, which is Ieſus Christ.
+                  
+                  
+                     
+                        A.D. __0. 
+                     Augustine, who died about the yere 432. at which time S. Patrick liued in great reſpect,De verb. Domini ſed Matth. Serm. 13.
+                      
+                     August. I ſay, doth write; Christ was the rocke, vpon which foundation Peter himſelfe was built alſo: &amp; addeth, Christ ſaith to Peter, I wil not build my ſelfe vpon thee, but I will build thee vpon mee.
+                  
+                  
+                     Aſia and Affrica, profeſsing Chriſt as well as wee, did not conſent to the Biſhop of Rome his Supremacie.
+                  I confeſſe that the Eaſtern churches and Biſhops, for debates of matters of
+
+faith amongſt themſelues, made ſuites to the Biſhops of Rome: but that was not for the ſuperioritie of Iuriſdiction that the See of Rome had ouer them, but for the diuiſion that was within themſelues; by reaſon that the whole Eaſterne countries, as well Biſhops as others, were much infected with the hereſies of Arrius, whereof the Weſt was in a manner cleere. So as amongſt the Orients none were counted indifferent to decide thoſe debates; but all were ſuſpect of affection for one cauſe or other: wherefore they deſired the opinions of the Biſhops of the weſt as indifferēt, &amp; not intangled with affections of anie of thoſe parts, &amp; vncorrupted of the Arrians. Which appeareth by the Epiſtles of S. Baſile, written in all their names for that purpoſe: wherein it is eſpecially to be noted,
+
+that their ſuit was not to the Biſhop of Rome ſingularly by name, but, as the titles doe ſhew, to the whole congregation of the BB. of Italy and France, or of the whole Weſt: &amp; ſometimes preferring the French BB. Gallis and Italis, and neuer nameth the Romanes.
+                  
+                  About the yeare of our Lord 610. Boniface 3, obtained of Phocas the wicked Emperor that ſlew his Mr. Mauricius, his wife and children, That hee, the ſaide Pope, might bee called the Prince of all Biſhops.
+                  Then the peoples deuotion to Religion, and the beleefe which was ſetled in their minds of the power of the Keyes, which were ſaid to open and ſhut paradiſe, to binde &amp; looſe ſinnes; laid the foundatiō of the Popes greatneſſe, and authoritie.
+                  
+                     About the yeare 680.
+                     
+                     Agatho B. of Rome, writ to Constantine
+                     
+the 4. Most gratious Lord, your ſacred Letters encouraging vs to ſhew forth effectually our prompt &amp; diligent ſeruice, for performing that which your Edict cō
+                        manded, &amp; for diſcharge of our duty &amp;c. And in a ſecond Epiſtle: All the Biſhops of the North and Weſt partes, ſeruants of your Chriſtiā Empire, giue thākes to God for this your religious intēt in calling of a Councell.
+                  
+                  
+                     
+                        A.D. 850 
+                     Leo the fourth, Biſh. of Rome, writ likewiſe to the Emperor: As touching the chapters &amp; imperiall precepts of your Highneſſe, and the Princes your predeceſſors, irrefragably to be kept and obeyed, as much as in vs did or doth lie, Wee by all meanes profeſſe that wee will, by Christs helpe, now and for euer obſerue the ſame.
+                  
+                  Certainely the vaine Titles of the Pope, as, 
+                        Ʋniuerſall Biſhop, Prince of Priests, ſupreame head of the vniuerſall
+
+Church, and 
+                        Ʋicar of Christ here vpon earth: likewiſe his vaſt pretended Iuriſdiction, came not into the Church altogether, but with long working &amp; continuance of time, by little &amp; little, as occaſions were giuen. Partly by Boniface the third, about the yere 610. partly by Pope Gregorie the ſeuenth, called Hildebrād, about the yere 1170. partly by Innocentius the third, about the yeare of our Lord 1215. and finally by Pope Boniface the eight, about the yere of our Lo: 1300. Of which foure popes, the firſt brought in a Title; the ſecond brought Iuriſdiction; the third, pope Innocent with his Monkes and his Friers, corrupted &amp; obſcured the ſinceritie of Chriſts doctrine: and laſtly, pope Boniface the eight, &amp; Clement the fift after him (ouer and beſides the Iuriſdiction ſufficiently aduanced
+
+before by pope Hildebrand) added moreouer the tēporall Sword, to be carried before him: and that no Emperor, were he neuer ſo well elected, ſhould be ſufficiēt or lawfull, without the popes admiſsion. A confident and high challenge, differing ſo much from the obedience and humilitie of Chriſt; of the Apoſtles of Chriſt, of the good and holy Biſhops of Rome, which did ſpeake &amp; write to the Emperors in a milder language, full of acknowledgements and reſpects; that men vnpartially affected, neede not doubt it proceeded frō another ſpirit. But whē pope Boniface came to make experiment of the poſſeſſion of this challenge, and how Chriſtian princes would giue way vnto his claim; Philip the Faire, King of France, returneth to the popes inſolent demaund, an anſwere
+
+ſwere full of royall magnanimitie, as appeareth by their Letters enſuing.
+                  
+                     
+                        
+                           
+                              Boniface B. ſeruant of the ſeruants of God,
+                           to Philip King of Frenchmen:
+                           
+                        
+                        
+                           feare God, and obſerue his cōmandements. Wee will thee to vnderſtand, that thou art ſubiect to Vs both in ſpirituall and temporall things; and that it belongs not to thee to giue any Prebend or Benefice: If thou hast the keeping of any of them being vacant, thou must reſerue the profits of them to the ſucceſſors: if thou haſt giuen anie, Wee iudge thy gift to be void, and doe reuoke all that hath beene done; and whoſoeuer beleeueth otherwiſe, We iudge them heretickes.
+                        
+                        
+                           
+                              Giuen at Latran 
+                                 the 4. of the Nones of Decemb: the ſixth yere of Our Popedome.
+                              
+                           
+                        
+                     
+                  
+                  The King anſwereth him thus:
+                  
+                     
+                        
+                           
+                              Philip by the grace of God King of France,
+                           
+                           to Boniface (calling himſelfe
+
+Soueraigne B. little health, or none at all.Boniface Pope when Edward the firſt was king of England.
+                           
+                        
+                        Let thy great Fool-ſhip be aduertiſed, that in temporall things Wee acknowledge no Superior but God; &amp; that the gift of Prebendes, being voide, belongs to Ʋs, by Our Royall Prerogatiue, and the fruites that growe thereby; the which Wee will defend by the Sword against all them that ſhall ſeeke to hinder Our poſſeſsion: esteeming them fooles, and without iudgement, that ſhall thinke otherwiſe.
+                     
+                  
+                  The Realme of England certainely was neuer by Lawes, or long ſubmiſsion, ſubiect to the Popes authority. For when the Biſhops of Affrica prayed Innocentius, either to ſend for Pelagius the Britaine, or to deale with him by Letters, to ſhew the meaning of his lewd ſpeeches, tending to the derogation of Gods grace: the B. of Rome made anſwer; When will he commit
+
+himſelfe to our iudgemēt (write what letters I will) when as he knoweth he ſhall bee condemned. And if hee were to bee ſent for, they may better doe it, that are neerer to him, and not ſo farre diſtant from him as I am. Jnnocentius 400. yeres after Chriſt, confeſſeth that hee had no ſufficient authoritie to call one poore Britaine out of this realme. And 200. yeres after that the Biſhops of Britaine would yeelde no ſubiection to Austine the Moncke, neither did they accept him for their Archbiſhop. Indeede their maner of Baptizing, obſeruing Easter, and other Eccleſiaſticall conſtitutions, contrary to the rites and cuſtomes of the Church of Rome, (as Auguſtin then obiected vnto them) make manifeſt proofe, that they were neuer vnder the Iuriſdiction of the B. of Rome.
+                  
+                  
+                     Take a view of the Kings of England, &amp; you ſhall finde that from the Conqueror vnto this day, moſt of them haue either reſiſted, or abated the Eccleſiaſtical iuriſdiction which the Pope claimed in this land, by right of the Crowne.
+                  
+                     
+                        A.D. 1067 
+                     William the Conqueror ſaid in a Parliament: For aſmuch as the King is the Ʋicar of the High King, hee is therefore appointed to that purpoſe that hee ſhould rule and defend the Kingdome and the people of the Lorde, and aboue all things the holy Church. And when the Popes eyes were fixed vpon the Biſhopricks of England to bring them, &amp; all ſpirituall promotions, to his owne donation, his Holineſſe receiued admonition from the ſame Conqueror; that hee ſhould goe againſt the moſt auncient Lawes of his kingdome, if he did
+
+admit or acknowledge the power of any forreiner, as the Pope was.
+                  
+                     
+                        A.D. 1088 So William Rufus, ſonne to the Conqueror, did ſtrictly forbid Anſelm, Archbiſhop of Canterburie; and charged all other Biſhops to haue no reſpect to Rome, or to the Pope, ſaying, J cannot endure any equall in my kingdome ſo long as J liue.
+                  
+                  
+                     
+                        A.D. 1114 
+                     Henry the firſt, by his Atturney did forbid Anſelm, returning from Rome, to enter his land, vnleſſe he would faithfully promiſe to keep all the cuſtoms, both of William the Conqueror his Father, and of William Rufus his brother.
+                  
+                     
+                        A.D. 1164 
+                     Henrie the ſecond made all the Biſhops, &amp;c. ſweare in a generall aſſembly at Cloredon, that theſe liberties of the Crown, amongſt which one was, That no Archbiſhop, Biſhop, or any other perſon, ſhould goe out of the Realme without
+
+the King his leaue. Another did direct Appeales, That if any were made, they ſhould come from the Archdeacon to the Biſhop, from the Biſhop to the Archbiſhop, and if the Archbiſhop fayled in doing Justice, it ſhall bee lawfull at the last to come vnto the King, that by his commaundement the matter may bee ended in the Archbiſhop his Court: So that no perſon ſhall preſume to appeale further, without the King his conſent. And hee writ letters to all his Shiriffes, &amp; Lieutenants in England in this manner: I commaund you, that if any Cleargie man, or Lay man in your Countie appeale to the Court of Rome, you attach him, &amp; hold him faſt-ward till Our pleaſure bee known.
+                  
+                  
+                     Henrie the third: when it was propounded in Parliament, whether one borne before Matrimonie may inherit,
+
+in like maner as they that are born after: And the Biſhops intreating the temporall Lords to conſent to the affirmatiue, becauſe the Canons &amp; Decrees of the Church of Rome are ſo; all the Earles and Barons anſwered with one voyce, That they would not haue the Lawes of England changed: and ſo the ſtatute paſſed with the Lords temporall againſt the orders of Rome.
+                  
+                  The ſame King writeth in this wiſe to the Biſhops ſeuerally, to euerie one in his Dioceſſe. Henry the third, by the Grace of God, to the Reuerend in Christ B. of N. Whereas Wee haue heretofore written vnto you once, twiſe, thriſe, as well by Our priuie Seales, as alſo by Our Letters Patents, that you ſhould not exact or collect for the Popes behalfe, anie tallage, or other helpe of Our Subiectes, either of the Cleargie, or of the Layetie: for that no
+
+ſuch tallage or helpe, either can or is vſed to bee exacted in Our Realme, without the great preiudice of Our Princely dignitie; which Wee neither can, nor will ſuffer or ſustaine: Yet you contemning and vilipending Our Commaundement, and contrarie to the Prouiſion made in Our laſt Councell at London (graunted &amp; agreed vpon by Our Prelates, Earles, and Barons) haue that notwithſtanding, proceeded in collecting the ſame your taxes and tallages. Whereupon, Wee doe greatly maruaile &amp; are moued (eſpecially ſeeing you are not aſhamed to doe contrarie to your owne Decrees) whereas you and other Prelates in the ſaid Councell, in this did all agree and graunt, that no ſuch exactions ſhould bee heereafter vntill the returne of Our and your ambaſſadors frō the Court of Rome, ſent thither purpoſely of Vs, and in the name of the whole Realme for the ſame,
+
+to prouide for redreſſe against theſe oppreſsions. Wherefore, Wee ſtraightly will and commaund you, that from henceforth, you doe not proceede any more in collecting &amp; exacting ſuch tallages, or helpes, as you will enioy Our fauour, and ſuch poſſeſsions of yours as within this Our kingdome you haue and hold. And if you haue alreadie procured, or gathered any ſuch thing, yet that you ſuffer it not to bee tranſported out of Our Realme, but cauſe it to bee kept in ſafe cuſtody till the return of the ſaid Ambaſſadors, vnder the paine of Our diſpleaſure in doing of the contrarie: and alſo of prouoking Vs, to extend Our hand vpon your poſſeſsions, further thē you will thinke or beleeue. Moreouer, willing &amp; charging you, that you participate &amp; make knowen this Our Inhibition with your Archdeacōs &amp; Officials, which We here haue ſet forth for the liberties of the Cleargie and of the
+
+people as knoweth God, &amp;c.
+                  
+                  
+                     
+                        A.D. 1212 When King John had refuſed the diſordered election of Stephen Langton to the Archbiſhopricke and See of Canterburie,
+                     Math. Pariſ. 
+                     Jnnocent the third forced the King to reſigne his kingdome and to take it of him againe, the ſaid Pope, at the yearely rent of 1000. Markes: But the Barons &amp; the Biſhops were ſo much diſpleaſed therewith, that in plaine contempt of the Popes keyes &amp; curſes, they did chooſe them another King, and chaſed King Iohn, the Popes fermor, in diſpite of all his new Landlord could doe.
+                  
+                     
+                        A.D. 1291 King Edward the firſt, made a Statute at Carlile, that the Pope ſhould exerciſe no Iuriſdiction in England; and in his time one bringing an excommunication from Rome, againſt a Subiect of England, and the ſame being
+
+brought by complaint before the King, and his Councell, the fact was adiudged high Treaſon, &amp; the offendor had ſuffred death, but by the mediation of the Chauncellor &amp; Treaſurer the King was content with his baniſhment.
+                  
+                     Edward the ſecond, would not ſuffer the Peter-penie to bee collected otherwiſe then had been accuſtomed.
+                  
+                     
+                        A.D. 1360 
+                     Edward the third, reuiued the Statute of Premunire, made by Edward the firſt. Pope Gregorie the eleuenth writ to him, that this Law might bee abrogated, but preuailed not. Shortly after this time Richard fitz Ralfe liued, &amp; was made Archbiſhop of Armagh, a holy &amp; learned man, as appeareth by his labours, and diſputations againſt the begging Friers.
+                  
+                     
+                        A.D. 1413 
+                     Henry the fourth made a Law, that
+
+no Popes Collector thenceforth ſhould leuie any money within the Realme, for firſt fruites of any Eccleſiaſticall liuing, vnder pain of incurring the Statute of Prouiſions or Premunire.
+                  
+                  
+                     An. 5. Henr. 5. Act. 17. It was enacted in a Parliament, That the Church &amp; all estates ſhould enioy all their liberties which were not repealed, or repealeable by the common Law, meaning the excluding of the Popes forreine power, which hath alwayes beene excluded by the common Law.
+                  
+                     
+                        A.D. 1428 As King Henry the ſixt, with Duke Humfrey Lord Protector, &amp; the reſt of the Councell, were in the Dukes houſe in the Pariſh of S. Bennets by Pauls Wharfe, one Richard Candray, Procurator, in the Kings name &amp; behalfe did proteſt, &amp; denounce by this publike inſtrument, That whereas the king,
+
+and all his Progenitors Kings before him of this Realme of England, haue beene heretofore poſſeſſed time out of minde with ſpeciall priuiledge &amp; cuſtom, vſed and obſerued in this Realme from time to time; that no Legate, from the Apostolike See, ſhould enter into this Land, or any of the K. dominions without the calling, petitiō, requeſt, inuitement, or deſire of the King. And foraſmuch as Henry B. of Wintō 
+                     Cardinall of Euſebius, hath preſumed ſo to enter as Legate from the Pope, being neither called, ſent for, required, or deſired by the King: therefore the ſaid Richard Candray, in the Kings name, doth protest by this Jnstrumēt, that it ſtandeth not with the Kings minde or intent, by the aduice of his Councell, to admit, approue or ratifie the comming of the ſaid Legate in anywiſe in derogation of the right, cuſtoms &amp; Lawes of this his Realme; or to recogniſe,
+
+or aſſent to any exerciſe of this his authoritie Legantine, or to any actes, attempts, or hereafter by him to be attempted in this reſpect, contrarie to the foreſaid Lawes, rights, cuſtomes &amp; liberties of this Realme, by theſe preſents, &amp;c.
+                  
+                  In the ſame K. Henry the fixts time, there is a Record in the 17. yeare of his raigne in Easter tearme, 28. April, That all the temporalties of the Archbiſhoprick of Armagh within the realm of Ireland, were taken &amp; ſeiſed into the hands of the King, by his Barons of the Exchecquer, by reaſon of a reſignation, &amp; an admiſsion therof by the Pope; which reſignation was made by Iohn Bote, Archbiſhop of the Archbiſhopricke aforeſaid.
+                  
+                  In England there be verie auncient Lawes, That no Legate from the Biſhop of Rome; or other religious perſon, ſhould enter the bounds of the kingdome, vnleſſe
+
+first hee did promiſe by ſolemne oath that he will bring in nothing to derogate from the King, or Lawes and cuſtomes of the kingdome.
+                  
+                  The practiſe hereof was ſeene in the late raigne of Q. Mary, notwithſtanding all her deuotion to the Pope: For when ſhe did vnderſtand that his holineſſe was not well minded to Cardinall Poole Archbiſh. of Canterbury; but to abate his power in England, was readie to make Frier Peto a Cardinall alſo, &amp; had a Nuncio with the Hat purpoſely to giue oppoſition to Cardinall Poole, Q. Mary, by the aduiſe of the Peers, Councellors, &amp; Iudges, diſparched a meſſenger to Calis with cōmandement to the Popes Nuncio, That he ſhould not come neere her Coaſts, nor ſtirre one foote from Calis towards England. I could tell you of Charles the fift, that
+
+was Emperor, and grandfather to the K. of Spaine that now is, who beſieged Rome it ſelfe, &amp; did take it maugre all the Popes Bulls &amp; curſes; yea, &amp; impriſoned Clemēt then Pope, &amp; 33. Cardinals with him, ſeuen moneths ſpace in Adrians tower; neither would hee diſmiſſe them till Clement made agreement of 400000. Duckets for his own ranſome, &amp; a greater ſumme was impoſed vpon the Cardinals. In like ſort I might relate how Philip the ſecond, Clarles his ſonne, inuaded Italy with an armie vnder the cōduct of duke D'alva, waſted the countrey, ſpoiled the people, &amp; caſt a trench about Rome it ſelfe; but for breuitie ſake, I reſt onely vpon the acts and rights that our own kings &amp; Princes haue euer challenged and vſed. All theſe examples, whether they be forrein or domeſticall, tend to
+
+                     
+                        〈1 page duplicate〉
+                     
+                     
+                     
+                        〈1 page duplicate〉
+                     
+                     
+this one point, That howſoeuer Princes be cōtent ſomtimes, for their own behoofe, to giue way to the B. of Rome, for the exerciſes of his ſuperstitions in their kingdomes, and dominions; yet all of them, out of their magnanimities and heroicall ſpirits, do ſcorne that the Pope ſhould vſurpe or intrude any Iuriſdiction ouer their people and ſubiects, further then they themſelues like of, and thinke to ſtand with the ſafetie and good of their countries. So it appeareth, that the Pope was neuer anie long time in full &amp; quiet poſſeſsiō of his pretēded power in the realm of Engl. and that his Iuriſdiction was neuer made a matter of cōſcience: withall this deduction ſheweth, that it was not Hen. 8. Edw. 6. Elizabeth his ſiſter (all Princes of happy memorie) or his Matie that now reigneth moſt gratiouſly ouer vs, that diſclaimd the popes
+
+authoritie &amp; power firſt; but all their moſt noble progenitors haue done it cōſtātly in a perpetual diſcent frō the Cōqueror. And for the K. that now is, beſids his right, his piety, his iuſtice, his Clemencie, his learning, and other Princely indowments (which are able to gain him honor &amp; reſpect amongſt meere ſtrangers) hee hath a particular aduantage, for which hee may worthily challenge more honor &amp; obedience frō you, then any of his famous predeceſſors could expect at the ſubiects of this kingdome, in their ſeueral times: firſt, he is extracted out of your owne bloud, deſcending lineally from Fergus. Yee are his brethren, his bones &amp; his fleſh are yee: why then are yee the laſt that giue the King his right? Secondly, he hath added much more honor &amp; dignity to your bloud thē he
+
+receiued by it: for wheras formerly the Seas had boūded it within this Iſlād, ſo as it had no additiō or acceſſe of glory elſwhere; his Matie hath now giuē luſtre &amp; brightnes vnto it with the beſt &amp; higheſt blouds of Engl. Scotl. Frāce, Dēmark, Germany, &amp; out of al the greateſt houſes of chriſtēdom. will you thē diminiſh his honor, that hath aduāced &amp; made yours to ſhine? will you take away his right, that is of your owne kindred, &amp; transfer it to a meer ſtranger, that ſeeketh for yours, and not for you? will you ſtrip a iuſt King of his birth-right or due, &amp; beſtow it vpon an Italian Prieſt, vnſent of God, vncalled by man, vnfit for place; that hath no maner of claime or warrant for it from Scriptures, holy Councels, or learned &amp; auncient Fathers? Let no ſuch ingratitude be found in your generous
+
+minds. Know ye not that your obedience to the K. begetteth &amp; bringeth forth his protection &amp; defence of you? and can you deſire, or in equitie expect abſolute &amp; general protection frō the K. whē you giue him but partiall obedience in tēporal things only, not in buſines Eccleſiaſticall? There is no reaſon, no iuſtice, no proportion in that reciprocatiō. Protectiō &amp; obedience are of like &amp; equall extent: therfore by the rules of nature (wch wills you to do as you would be done to) if you will haue the K. to protect you, your wiues &amp; childrē, lands, goods, &amp; houſes; whilſt you are in the exerciſes of your religiō, euen there alſo you muſt acknowledge the king his power, and yeeld your obedience to his lawes, for they are ſtrengthened by the lawes of God: or if you will apply your ſelues
+
+                     
+                        〈…〉
+                     acie to the popes pleaſure in thoſe affaires, the K. by way of retaliatiō, might withdraw his protection, &amp; leaue you for thoſe times to ſpoile, or to his defence whom ye obey. Therefore I beſeech you in the bowels of Ieſus Chriſt; euē I that muſt giue accoūt for your miſcarriage to the chiefe Biſh. of your ſoules, with ſobs &amp; teares intreat you again &amp; again, to take this matter into ſerious cōſideratiō, to aduiſe with the word of truth, &amp; vncorrupted antiquitie, euen with the godly writers that liued &amp; gouerned the Churches whē your holy B. St. Patrick cōuerted this coūtrie to the faith of Chriſt; that you may honor the K. with that Soueraignetie which is due vnto him, illuſtrat your own noble families, &amp; make mee happie in the winding vp of my dayes, who will neuer ceaſe to pray for you all, whilſt I am
+                  
+                     ARMAGH.
+                  
+                  
+               
+            
+         
+      
+   
+

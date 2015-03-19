@@ -1,0 +1,3575 @@
+
+   
+      
+         
+            Ciceronis amor· = Tullies loue VVherein is discoursed the prime of Ciceroes youth, setting out in liuely portraitures how young gentlemen that ayme at honour should leuell the end of their affections, holding the loue of countrie and friends in more esteeme then those fading blossomes of beautie, that onely feede the curious suruey of the eye. A worke full of pleasure as following Ciceroes vaine, who was as conceipted in his youth as graue in his age, profitable as conteining precepts worthie so famous an orator. By Robert Greene in Artibus magister.
+            Greene, Robert, 1558?-1592.
+         
+         
+            
+               1589
+            
+         
+         Approx. 175 KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2003-01 (EEBO-TCP Phase 1).
+            A02080
+            STC 12224
+            ESTC S105897
+            99841622
+            99841622
+            6220
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A02080)
+            Transcribed from: (Early English Books Online ; image set 6220)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 344:10)
+         
+         
+            
+               
+                  Ciceronis amor· = Tullies loue VVherein is discoursed the prime of Ciceroes youth, setting out in liuely portraitures how young gentlemen that ayme at honour should leuell the end of their affections, holding the loue of countrie and friends in more esteeme then those fading blossomes of beautie, that onely feede the curious suruey of the eye. A worke full of pleasure as following Ciceroes vaine, who was as conceipted in his youth as graue in his age, profitable as conteining precepts worthie so famous an orator. By Robert Greene in Artibus magister.
+                  Greene, Robert, 1558?-1592.
+               
+               [8], 78, [2] p.   
+               
+                  Printed by Robert Robinson, for Thomas Newman and Iohn Winington,
+                  At London :
+                  1589.
+               
+               
+                  The last leaf is blank.
+                  Running title reads: Tullies loue.
+                  Reproduction of the original in the Henry E. Huntington Library and Art Gallery.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Cicero, Marcus Tullius.
+            
+         
+      
+      
+         
+            2002-04
+            TCPAssigned for keying and markup
+         
+            2002-06
+            AptaraKeyed and coded from ProQuest page images
+         
+            2002-07
+            Judith SiefringSampled and proofread
+         
+            2002-10
+            AptaraRekeyed and resubmitted
+         
+            2002-11
+            Judith SiefringSampled and proofread
+         
+            2002-11
+            Judith SiefringText and markup reviewed and edited
+         
+            2002-12
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            CICERONIS AMOR.
+Tullies Loue. Wherein is discoursed the prime of Ciceroes
+youth, setting out in liuely portratures how young
+Gentlemen that ayme at honour should leuell
+the end of their affections, holding the loue of countrie
+and friends in more esteeme then those
+fading blossomes of beautie, that onely feede
+the curious suruey of the eye. A worke full of pleasure as following Ciceroes vaine,
+who was as conceipted in his youth as graue in his age, profitable
+as conteining precepts worthie so famous an Orator.
+            
+               Robert Greene in Artibus magister.
+            
+            Omne tulit punctum qui miscuit vtile dulci.
+            AT LONDON,
+Printed by Robert Robinson, for Thomas Newman
+and Iohn Winington. 1589.
+         
+         
+            
+            
+            To the right honorable
+Ferdinando Stanley, Lord
+Strange, enobled with all titles
+that Honor may afforde or vertue
+challenge, Robert Greene
+wisheth encrease of vertuous
+and Lordly resolutions.
+            
+               THe Tripos (Right Horable)
+ingrauen with 
+                  
+                     •
+                  etur
+Sapienti, was by the Oracle
+allotted to Socrates,
+Achilles shielde maintained
+with the sword, fel to
+Vlisses for his wisedome:
+Pallas had hir library, and
+hir launce: and suche as
+read Non vltra, on Hercules pillers, pointed out the
+Caracters with their speares. Proportion the mother
+of Geometry, and mistresse of Arts, commands
+that Hector haue his Honors, Alcides his glories, and
+that Olympus bee neuer without bright glittering armour,
+nor greene wreathed garlands: as well to grace
+the souldier, as to glory the Poet. This considered
+(Right Honorable) hauing done my indeuor to pen
+downe the loues of Cicero, which Plutarch, and Cornelius
+Nepos, forgot in their writings: I presumed to present
+vnto your Honor not high written poemes, as
+Maro did to Augustus, but the fruites of well intended
+
+thoughtes as Calymachus scholler did to Alexander:
+Thinking nothing rare, nor view-worthy, sufficiently
+patronaged, vnlesse shrowded vnder the protection
+of so honorable a Moecenas. Whatsoeuer was pleaded
+in Rostro was not pend by Hortensius, and yet the
+Senatours heard and gaue plausible censures. Homer
+spent verses as well on Irus the beggar, as Eurymachus
+the wooer. Euery sentence cannot Cleanthis lucernam
+Olere, and yet men will reade poemes &amp; praise them.
+Then (Right Honourable) if my worke treating of
+Cicero, seeme not fit for Cicero, as eclipsing the beauteous
+shew of his eloquence, with a harsh and vnpolis
+                  ••
+               d
+stile: yet I craue that your Honour will vouch
+of it onely, for that it is written of Cicero. Ennius labored
+as hard in his rough poesies, as Virgill in high poemes:
+Phidias pensill in his own conceit was as sharp
+pointed, as Pigmal
+                     •
+                  ons chasing tooles: meane wits in
+their follies, haue equall paines with learned Clarkes
+in their fancies. Apollo yeelded Oracles as well to
+poore men for their praiers, as to Princes for their
+presents: Stars haue their lights and hayres their shado
+                  •
+               es▪
+Meane schollers haue hie thoughtes; though
+low fortunes. Thus perswaded &amp; imboldened (Right
+Honorable I present this pamphlet of Ciceroes loues
+to your Lordship, resolued vpon your curteous acceptance
+that weighing the minde not the matter,
+your Honour will say, if not Bucephalus, yet a horse.
+And in this hope resting, I wish to your Lordship as
+much health and happines as your Honour can desire
+or I imagine.
+            
+               Your Lordships humbly deuoted.
+ROBERT GREENE.
+            
+         
+         
+            
+            To the gentle Readers health.
+            
+               GEntlemen I haue written of Tullies
+loue, a worke attempted to win your fauours,
+but to discouer mine owne ignorāce,
+in that coueting to counterfait Tullies phrase,
+I haue lost my selfe in vnproper words: but hoping
+as euer I haue done of your courtesies, I haue like
+bold bayard put my head out of the stable. If my
+methode be worse then it was wont to be, think that
+skill in musicke marde all, For the cliffe was so dissonaunt
+from my note, that wee could not clap a concord
+together by fiue marke. Chiron the Sagitarie
+was but a fained conceipt, and men that beare
+great shapes, and large shadowes, and haue no good
+nor honest minds, are like the portraiture of Hercules
+drawne vpon the sands. If I speake mistically,
+thinke tis musically, and so desiring that you will
+take Tullies loues, as pende for your pleasure, I bid
+you farewell.
+            
+               Robert Greene.
+            
+         
+         
+            
+            Ad Lectorem Hexasticon.
+            In lucem prodit tenebris exuta malignis
+            Romulei petulās, vaesana
+                  
+                     
+                  
+                  que
+                flammula Phoebi:
+            Rorātem Authori (Lectores) spargite florē,
+            Intyba, Narcissos, Latacen, picti
+                  
+                     
+                  
+                  que
+                roseti
+            Dulces diuitias: Illum concingite lauru:
+            Emerito solers industria reddat honorem.
+            
+               Thomas Watson. Oxon.
+               
+            
+         
+         
+            Ad Lectorem de Ciceronis
+amore, Hexasticon.
+            
+               Miraris fortasse legens Ciceronis amorem?
+               Desine mirari, qui bene scribit, amat.
+               Crimen inesse putas? semel insaniuimus omnes,
+               Quae faciunt iuuenes, condoluere senes.
+               Linguam qui laudat Ciceronis, laudet amorem,
+               Greni solus honor, sit Ciceronis amor.
+               
+                  G. B. Cantabrigiensis.
+               
+            
+            
+               
+               VArro and Tucca wrote of Maroes verse,
+               And Dares dared to tell of Homers skill,
+               Of Ouids workes Latins haue made reherse,
+               And Poets haue discourst of Pindars quill,
+               Many haue writ Cosmographie of lands,
+               And tolde of Gihon and of Tagus sands.
+               Of Helens beauty and of Ledas hew,
+               The winged fancies of the learnd haue tolde,
+               But of the prowdest Poets olde or new,
+               Who dard sweete Tullies fancies once vnfolde,
+               As far to hie for all that yet hath beene:
+               Then giue the palme and glory vnto Greene.
+               
+                  Thomas Burneby, Esquire.
+               
+            
+            
+               Now bloomes the blossomes of faire Adons flower,
+               Cupid is stolne from Paphos secrete shrine,
+               Diana lurkes, shee and hir nymphes doe lower,
+               Bacchus that tempers sacred Loue with wine,
+               Ceres and all the gods haue made agree,
+               That Loue is god and there is none but hee.
+               The Poemes wanton Ouid set in verse
+               His art of loue that banisht him from Roome,
+               Did neuer such quaint Amorets reherse,
+               As are deciphred vnder Tullies doome,
+               Whose Romain phrase fetcht from Parnassus hill,
+               Saies none but Tully in the depth of skill.
+               
+                  Edward Rainsford, Esquire.
+               
+            
+         
+      
+      
+         
+            
+            
+            Tullies Loue.
+            
+               
+                  THere dwelled in the
+Citie of Rome being metropolitane
+of the worlde, famous
+as well for martiall
+Champions, as delicate for
+beautiful Ladyes; a Consul
+called Flaminius, made glorious
+by fortune, as hauing
+twise roade in the triumphing
+chariot and worne
+t
+                  •
+               e Lawrell wreath, giuen as a Palme to such as haue
+béene happie for manie great victories. This consull famous
+in the common wealth for his martiall exploytes,
+Fortune whose conceit rests in extréemes, either too prodigal
+in her fauors, or preiudicial in her frownes, to make
+this man the myracle of her deitie, lent him one onelie
+Daughter of such excellent exquisite perfection as Nature
+in her seemed to wonder at her owne workes. Hir haire
+was like the shine of Apollo, when shaking his glorious
+tresses he makes the world beauteous with his brightnes.
+The Iuorie of hir face ouer dasht with a vermilion
+die, séemed like the blush that lept frō 
+               Endemions chéekes
+when Cynthia courts him on the hilles of Latmos. So did
+the proportion of her bodie answere to the perfection of
+the minde and the honour of hir thoughtes so fitted to the
+glory of hir fauors, as it rested doubtfull whether hir outward
+beauties or inward vertues helde the supremacie.
+
+In so much that as men flocke to Delphos to heare the
+Oracles of Apollo, so diuers resort to Rome to take veiw
+of the excellencie of Terentia: who once delighted with the
+sight of hir graces set downe this as an Axiome, that Pallas
+the Patronesse of Troy for wisedome: or Venus the
+wonder of Heauen for beautie, might not disgrace the dignities
+of this gorgious Damosell. Rome swelling with
+the pride of this matchlesse Uirgin, whose thoughts were
+more humble then hir face beautifull: and yet the Painters
+of that time feared to attempt hir portraiture, as finding
+the perfection of nature to excéede the proportion of
+Art, made hir the Mistresse of their vestals, as one that
+counted fancie as vn
+                  •
+               it for a maide, as Alexauder cowardize
+for a souldier. Cupid sitting on his mothers knée by
+the fount of Alcydalion, séeing howe Terentia enemie to
+his amarous Philosophie, set loue at so light estéeme, and
+for a charme against his magicall inchauntments, carried
+the euerburning fire of Vesta in hir breast, clasping his
+mother wantonly about y• necke he began thus to prattle.
+Séeing mother we haue left the places of our accustomed
+residēce, to auoid y• troups of such sutors as onely end their
+loues with their liues, &amp; haue st
+                  •
+               ln to this secret foūt here
+a while to be solitarie to weare away the time with some
+conceited chat, I pray you tell me whereof are womens
+hearts made? I aske the question mother for that I finde
+the distinction of their fa
+                  •
+               cies like the difference of their
+faces, which as they be distinguisht in proportion, so they
+be altogether vnlike in properties. Venus hearing hir son
+make such a waggish demaunde, beganne thus to reply.
+Some say my boy of the liuer of a Camelion, whose nature
+is to bee changeable in hues, and women as variable in
+their thoughts. Others of a Pyrit stone, which handled
+softly is as colde as ice, but pressed betwéene the fingers
+burneth like fire: they which inser this comparison, say
+that women brooke not fauourable perswasions, nor may
+be woone by intreaties, but the readie way to kindle them
+
+to Desire is to crosse them with Disdaine. Some say their
+hearts are of Marble which being hard yet drops tears against
+euery storme: Some of waxe that is soft, admiting
+euery impression, those women haue their loues in their
+lookes, which taken in with a gase is thrust out with a
+winke: Some of Adamant, they be hard hearted, and yet
+men say the Lapidaries haue tooles to pierce them: Others
+of golde, and they be like Danae that will admit no
+louer but such as Iupiter. To be briefe my boy, so many
+fancies so many fictions, euery one censuring of womens
+hearts as his owne experience hath found hir froward or
+fauorable. Cupid hearing his mother discourse thus cunningly
+demanded amongest all these, whereof was Terentias
+heart of Rome formed: At this Venus fetching a déepe
+sigh prosecuted hir former premisses thus. Well wag for
+all you play the wanton, hast thou insight so far into thine
+enemies thoughts that thou hast coted in thy tables the
+resolution of Terentia, whom men count more beautifull
+then my selfe, and more chast then Diana? Hir heart
+my boy is framed of the purest Diamond, which as it is
+hard to enterteine loue, so it is cleane, fit for the receit of
+vertue: I tell thée Cupid Terentia makes Desire hir
+drudge, and Disdaine hir Champion: Shée honors all the
+Gods but thée, and admits all recreations but loue: Shée
+armeth hir youth with Contempt of passions, that shée
+may finish hir age with Content of patience: The prime
+of hir yeares are graue that the fruits of hir time may be
+gracious, and shée striues to be as full of honor in hir life,
+as full of fauours in hir lookes. To conclude my boy shée
+is Terentia, who séekes with labors to auoid loues, &amp; indeuours
+to be called as vertuous, as other Ladies amarous.
+Thus Venus ended with a frowne and Cupid began with
+a smyle, she scorning at hir honors he studying on reuenge.
+after a little pause y• choloricke boy burst foorth into these
+tearmes: And shall Terentia offer perfumes to Vesta and
+Hemblocke to Venus, shall shee mother strawe Dianaes
+               
+Lawnes with Roses and your Pallaces with Nettles?
+shall shee set Desire in ragges and Disdaine in silkes? No,
+Cupid hath his boults fethered with the winges of swallowes
+that flie swift, and his arrowes headed with strong
+tempered stéele that pierce déepe, like to Achilles launce,
+that did wound &amp; heale, my shaftes mother are of sundrie
+mettels, the strongest of them all wil I aime at Terentia,
+and if my fortune fayle me not I will change hir songes
+to sighes and hir chast prayers to amorous passions. And
+with that leaping from his mothers lappe hee bent his
+bowe shott an arrowe and hit Terentia on the heart, but
+it was of such proofe as the boult rebounded and brake
+into a thousand shiuers. At this Cupid scorned séeing his
+de
+                  •
+               tie counterchect with such constant chastitie, &amp; Venus
+smyled séeing hir sonne in such a rage: which so increased
+his chollor that he discharged all his arrowes at randon,
+carelesse of his aime so he might any wayes reuenge. Amongst
+the rest yong Lentulus a Romaine Caualier, vnder
+whose conduct the consull sent manie legions to make
+warre against the Parthians, was one of those infortunate
+men that Cupid had brused with his arrowes. For hauing
+
+                  〈◊〉
+                a set battell and bought the victorie with great
+l
+                  •
+               sse, fresh supplies were sent him from Rome. Lentulus
+               
+                  ••
+               lcoming his newe come souldiers, demaunded what:
+
+                  〈◊〉
+               : af
+                  •
+               er they had made report of the state of the com
+               
+                  •••
+               
+wealth, they (then as a thing miraculous and superna
+                  •
+               urall
+                  •
+               
+               
+                  •
+               is
+                  •
+               oursed to him the excellencie of Terentia, setting
+out hir glories with such Emphaticall discriptions
+t
+                  ••
+               t Lentulus leaning his head on his hand became a willi
+                  ••
+               
+audit
+                  •
+               r to such pleasa
+                  ••
+               t philosophie. Smiling thus
+in the ouersweete potions that Loue had tempered like
+Circes to bewitch the warie and warrelike Vlysses;
+hee caused his Souldiers with often repetitions of 
+                  
+                     〈◊〉
+                  
+               
+beau
+                  •
+               ie to grafte in the syenus of hys newe 
+                  〈◊〉
+               
+sanci
+                  •
+               s. In the day his heade was troubled
+with thoughts of Terentia: in the night conceit presented
+
+the visiōs of Terentia. Where before he laid plots how to
+circumuent the Parthians, now he deuised how to compasse
+his passions: Loue wisht him to make light estéem of war,
+but growing to be carelesse, he gaue his enemies occasion
+of incouragemēt. Being thus perplexed with vnacquainted
+fits, he began thus souldier like to debate with himself.
+Haue not the auncient Romaines whose statues and trophées
+hath filled the world with wonder of their Chiualry
+made the ende of their honours to consist in armes? haue
+they not fetcht Fame from the heauēs with their swords,
+and bounde hir to their fortunes with circumscriptions of
+bloud: haue not their launces pierst obliuion to the heart,
+and their martiall déeds registred their names in the Cronicles
+of memorie? and yet Lentulus dost thou make light
+estéeme of war, whose very frownes are honor, and whose
+fauors immortall glories? Blush at thy thoughts that are
+so base, &amp; wéepe with Caesar that thou hast not done wonders
+with Alexander. Thou art elected by the Consuls as
+a choise man of Rome, as high prised for thy valour, as thy
+parentage, and yet thy mother was of the great Aemilij:
+thou art sent against the Parthians, a Nation warrelicke
+and resolute, either to challenge thy graue with thy sword
+or carue out their tombes with thy Courtelax. Darest
+thou then Lentulus amidst those glorious thoughts of a
+souldier admit the least passion of a louer? shall thy pollicies
+too little for the Parthians, be imployed in purchasing
+Terentia? No Lentulus draw thy Fauchion, brandish it against
+Rome, and if Loue looke but ouer the walls menace
+hir with thy Martiall weapons: and yet Lentulus be not
+so stoicall as to reiect such a mightie Deitie. Haue not the
+Romaines erected a Temple néere vnto Campus Martius?
+Are not Knights dubbed to defēd Ladies? Make they not
+their Helmes proude with their Mistresse fauours? Mars
+hath his amours as he hath his armours: Alexander gloried
+in his loues as he triumpht in his victories? Great
+Pompey hath his Iulia, Caesar his Paramour, Souldiers
+
+haue loued, and so will I. Hauing thus discoursed with
+himselfe, the hope of his loues draue such an inuincible
+courage into his minde that he past not many daies without
+giuing battaile to the Parthians, in which getting a
+glorious victorie, he sent great treasure and many Captiues
+home to Rome, with great intercession to the Senate
+that he might not winter from his owne Countrie.
+The Consuls gald to fauour him with any reasonable
+graunt, sent Lepidus to take his place, and recalled Lentulus
+home to the Citie: The fame of whose high intended
+thoughts, his conquest inlarged with infinite treasures &amp;
+rich Captiues, made Rome to ring with ecchoes of his
+matchlesse excellency: Insomuch that passing through the
+stréets to the Capitol, there to be inuested with the honors
+due to his victories, multitudes of Romanes were placed
+on Scaffoldes to take view of so braue and hardie a Captaine,
+and the gorgeous windowes of the Citie were stuffed
+with troupes of beautiful Ladies tickled with an earnest
+desire to satisfie their sightes with his Personage.
+Passing thus in pompe, Iulius Caesar then being Dictator
+after the solemne rites &amp; magnificent triumphs were ended
+bad him home to dinner, where hee feasted him with
+such royaltie as might beséeme the greatnes of the day
+and the highnes of his owne thoughts. Thus flewe the
+fame of Lentulus through Rome as the wonder of this
+time, but all those triumphant dignities coulde not extirpate
+the melancholy of this Romans thoughts inserted into
+his minde by the fond inchantments of loue, but as the
+wounded Deare wringeth forth teares, and the Mirtle
+pierced yeeldeth Gumme, so Lentulus after this déepe impression
+of loue, coulde afforde nought but sighes and sorrowes.
+The Iemme of Terentias excellencie reflected
+in his minde like an obiect in a Christall myrrour that amiddest
+his most serious affaires hée founde the passions
+of loue to be intermedled. Fortune that had tied hir fauours
+in the toppe of his Crest halfe perswaded to become
+
+constant to this warlicke Champion séeing Cupid wrong
+                  •
+               
+him without cause thought with a souereign Antidote to
+preuēt y• further ensuing preiudices of fancy: forcing therfore
+oportunitie to dance attendance vpō this hir darling,
+it fell out y• 
+               Flaminius, the father of Terentia séeing howe
+Lentulus was generally feasted of al y• senators in Rome,
+thought amongst ye rest, to welcome home y• warrior with
+a bāket, &amp; therfore méeting him at one Titus Annius Milos
+house, he solemnely inuited him home to dinner. Lentulus
+as ful of curtesie as courage, after great thanks, promised
+to be his guest, whereupon Flaminius passing home made
+prouisiō, &amp; Lentulus stealing to his lodging being solitary,
+conceiued such inward ioy at this swéete oportunitie, that
+leaning vpon his left hand smiling to himself, he breathed
+out these words: viz. Such I sée well as Mars honours
+with fauours Venus will not crosse with frownes: those
+that conquer in warres shall not perish in loues. Cupid
+fauours his fathers followers, &amp; such as Fortune smiles
+on in ba
+                  •
+               tail, shée laughs on in fancies. I coueted to beare
+charge against the Parthians, and the Senate elected me
+Lord of their Legions: Desire wisht me to haue a sight of
+Terentia, and hir father interteines me for a guest: I made
+conquest of mine enemies with the sword, and why may
+I not win my loue with my loyaltie: Feare not Lentulus,
+these concluded comparisons are prodigious, bee Augur
+then to thy selfe, and calculate thy good fortunes by thy
+thoughts: Loues and warres craues courage. Feare not
+man, for thy intreaties are as mightie as hir denials can
+be contrarie. As thus he was debating with himselfe the
+Clocke tolde him it was time to goe visite his Host, so
+that he made himselfe as sumptuous as might be, and at
+the parting from his Chamber-dore hée saide thus. If
+Venus (quoth hee) thou fauour mee in my loues, I
+will become thy vowed seruant in my life: I will strewe
+thy Altars with Roses, and set thée vp shrines at Paphos:
+I wil binde vp my temples with myrtle bowes, and
+
+for the Martiall garland weare a wreath of flowers. I
+wil haue Doues nests in my Pallaces, and what belongs
+to thée, shall be some of my delight, onely grace me with
+the fauour of Terentia. Ending this his vowe hee pased
+forward with his traine towards the house of Flaminius,
+where beeing ariued the graue Senator intertained him
+with such magnificence, as Lentulus perceiued his welcome
+by his honours. The board couered and the company
+readie to sit, Lentulus was placed chiefe at the table, who
+all this while hauing no sight of Terentia, sat as a man
+nipped on the heade, although there were at the table to
+grace the feast manie braue &amp; beautifull Damosels. Sitting
+thus in a dumpe he was cheared vp by all the companie,
+but at last to set him in his iolitie, Terentia was commanded
+by hir father to bring him in a cuppe of Gréekish
+wine. Shée that little cared to be séene in open bankets as
+holding it contrarie to the rites of Vesta, durst not yet but
+with all diligence signifie hir obedience. Therfore attyred
+in a rich roabe of white, spotted with starres of gold; tempering
+the porphury of hir face with a vermilion blush, looking
+like Diana when shée basht at Acteons presence, shée
+came into the hall, where humbly saluting all the companie,
+shée deliuered the wine to hir father. Lentulus séeing
+Fame had but blemisht hir fauours in being to partiall of
+hir praises, sate so amased at the beauteous excellencie of
+Terentia, as did the Centaure enamoured of Iuno. His eie
+made suruey of hir beauties who posting them ouer to the
+contemplation of his thoughts, so set on fire his heart with
+hir perfections, as his stomacke shut vp hir Orifice, to giue
+his eies leaue to wonder at the serious conceit of natures
+cunning: his lookes beganne to sparkle loue as did those of
+Adon when he pried vpon the face of his Paramour, the
+change of his colour bewraied his newe entertained passions
+which noted by Terentia half angry at loues folly, she
+discouered hir collor with such ablush as Lentulus letting
+fall his knyfe on his trencher saide aloude, Non fortuna
+
+non Bellum meaning that neither the highest state of
+fortune nor the fatall intent of warre could conquere that
+hart y• her beautie hath made subiect. Terentia at this vnexpected
+exclamation abashed and the rest of the companie
+maruelled: but Flaminius willing to moue some table
+talke demaunded of Lentulus what hee ment by this soudaine
+embleme. Lentulus, willing to make flight at the
+foule and yet not to haue a bel at his héele, answered thus.
+Whilst I lay in legar intrenching the Parthians more
+hardly with legions of men then with déepe raised contermures,
+my souldiers discouered a castle which once woone
+displaced the strength of the countrie, séeing the Romanes
+had made mee Uicegerente of their forces although the
+place séemed impregnable béeing as well defended by nature
+situate vpon a mount, as by prowesse stored with
+men and munitiō yet prising honor more déere then bloud,
+and countries profite beyonde the content of life, I bent
+certaine legions against the castle and following the opinion
+of Quintus Fabius Maximus sought by delay to driue
+them to composition. For it was said of him,
+
+                  Vnus homo nobis cunctando restituit rem,
+                  Non ponebat enim rumores ante salutem,
+                  Ergo post
+                        
+                           
+                        
+                        que
+                      magis
+                        
+                           
+                        
+                        que
+                      viri nunc gloria claret.
+               
+            
+            Séeking so to get conquest by famine which would haue
+béen preiudiciall with the sword, at last séeing their forces
+greatly weakened I gaue assault and entred putting the
+souldiers to the sword yet willing to saue the Lorde of the
+castle for that his valour discouered his thoughtes, searching
+him out I found him in his bed chamber his wife
+slaine and the blade yet varnished with bloud grasped in
+his fist staring me in the face with a gastly looke, that stood
+amazed at the stratageme he spake thus. Romain report
+in the Senate house that where you excell vs in pollicie,
+
+we excéede you in resolution, this Ladie which thou séest
+here weltring in hir goore is my wife, and for she brokes
+not seconde fancies, shee craued to ende hir loue with hir
+life: I maried hir a virgine and honourable, shee dies a
+wife and honest, as famous in Parthia for hir vertues, as
+your Romayne Dames for their braue
+                  •
+               ies. Wee liued
+without iarres, for y• the desire of the one was the content
+of the other, constancie banished ielousie and true loue
+helde supition at the launces poynt. Our fortunes Romayne
+thou hast pulde downe, with thy prowesse warre
+hath made wracke of our safeties, but for our loues this
+sword shall linke them together by death, so that Non fortuna,
+non bellum. And with y• the resolute souldier stabbed
+himselfe. Astonied at this peremptorie massacre, although
+all stained with the bloud of the Parthians: yet I could not
+but grieue at the passion of the man, and enter into consideration
+what that Loue should be, that wrought in mens
+mindes such resolued effects: So well liking of his determined
+death, y• I vowed in my thoughts if euer I obteined
+the fauour of some gracious Damosell to write in bloude
+with the Parthian, Non fortuna, non bellum. The remembrance
+(honorable Senatours) of this tragedie made me
+to shew my selfe so passionate. Lentulus hauing ended his
+discourse, the Senatours generally praised the resolution
+of the Parthian, and the Ladies the constancie of his wife,
+all concluding that no impression could be so déepely inserted
+into the heart loue. Terentia spying the flame by the
+smoake, smyled to sée howe couertly Lentulus had cloaked
+his thoughts, and how in vowing to be constant, he discouered
+his conceit, so that turning hir backe shée went into
+hir Closet, and there blamed Venus that had wrapt so
+br
+                  •
+               ue a Champion in hir subtleties: not féeling either the
+personage or perfections of Lentulus to stirre the staied
+continencie of hir minde. Well the Senators not willing
+to let this fall to the grounde, talked still of the Parthian,
+and amongst the rest of those honourable guests that were
+
+there feasted, Archias the Poet a man of a pleasant disposition,
+tooke the tale by the ende, and beganne to prosecute
+it thus.
+            Graue Senatours I remember I haue heard Hortensus
+the great Orator say, that in times past the Consuls
+for recreatiō would vse light &amp; honest pastimes especially
+myrth at meat, as ye fittest minister for digestiō, alleaging
+Scipio &amp; Gracchus, who coueted to be as iocund at their
+banquets, as they were serious in matters of estate. Séeing
+then (reuerend fathers) Lentulus hath entred into
+the discourse of loue, producing the Parthian, who amongst
+his other singularities, boasted that his fancie had neuer
+béene stained with Iealousie a plague that is greatly now
+a daies predominant in Rome, might it please you to fauour
+vs with your gracious consent, we woulde intreate
+Lentulus to discourse to vs his opinion of iealousie. The
+Senatours graunted, and Terentia, being come to giue
+attendance on hir father, smyled. Lentulus casting his eie
+vpon his loue, séeing a dimple in hir chéeke which was to
+him Cos amoris, made Archias this present answere.
+            Had the Thebans appointed Zetus to haue discoursed of
+Musicke, or they of Thessaly, Menalcas to haue described
+the Court: The principles of the one had béene as voide
+of art, as the precepts of the other farre from honour: The
+one being an enemie to Musicke, the other a swaine and
+a shepheard. So (reuerend Senatours and honourable Ladies
+of Rome) Archias, how skilfull so euer in Poetrie, yet
+hath faild in his pollicie, to request him to discourse of iealousie,
+that neuer as yet offred incence at the Altars of
+Loue. If it had béene to make description of a battaile, to
+haue discoursed the order of the Phalaux, or any point of
+Martiall discipline, then could I as a souldier haue dilated
+such principles, as warrelike Captaines register in the
+field with their sword: But of loue whose amarous Deitie
+gréeth not with Drumme and Trumpet, or of iealousie
+as the shadowe of fancie, it fitteth me as little to discourse,
+
+as the shoomaker of Apelles portrature. But if euer
+Venus shall vouch me that fauour to grace me with a
+speciall looke from my Mistresse excellencie, and that mine
+eie be allowed as Paris was to iudge of beauties, Archias
+shal commande me as a friend, in the meane time, for Poets
+and Painters ought to haue their conceites fethered
+with Mercuries plumes: I will desire Archias to supply
+my ignorance, and to describe the effects of iealousie. The
+Senators and the rest of the company, hearing how cunningly
+Lentulus retorted the argument vppon Archias,
+with a resolute consent they inioyned Archias to play the
+Orator, who being pleasantly disposed began thus.
+            The wolues in Syria that barke against the Moone suffer
+small rest and great hunger. Arrowes shot against the
+starres pierce downeward: and the Syrens that 
+                  •
+               ought to
+intrappe Vlisses, perisht themselues. So gentlemen, I
+sought to make experience of Lentulus eloquence, and fortune
+hath allotted me to discouer mine owne ignorance,
+but least I might be counted either too stoicall, or to too full
+of sel
+                  •
+               e conceit: for iealousie, thus.
+            
+               
+                  
+                     
+                        Archias discourse of Iealousie.
+                        SUch as haue searched into the déepest Aphorismes of
+Anacreon, or pried into the principles that Ouid sette
+downe in his volumes, find Loue to be such a pure passion
+of the mind, as like y• Christal it admitteth no bruse without
+a cracke: It groweth from the vnion of two minds cō
+                           ceiued
+by y• special liking of some excellent good, consisting
+in exteriour beauty, or interiour vertues, or the combining
+of them both in one sole, and singular perfection. This
+choice of excellencie confirmed by election once imprinted
+in the hart is so pretious as the pearls of Cleopatra. The
+fléece of Colchos, the sands of Tagus are trash, if brought
+into compare with this diuine and metaphysicall passion:
+
+man hauing swilled in this nectar of loue is so chary that
+he not onely brooketh no corriual of his thoughtes, but admitteth
+no partaker of his fauours, and from this feare
+procéedeth that furie which men call ielousie, béeing a secrete
+suspition that others shoulde enioy that excellencie
+that he hath chosen sole and singular to him self. This noble
+Romaines is that f
+                              •
+                           end that Pluto sent to checke Cupid
+in his deitie, this springing from hell bringeth worse
+torments to the minde then the stone of Sysiphus, vulture
+of Titius or wheele of Ixion. This is the cankar that fretteth
+the quiet of the thoughtes, the moath that secretlie
+consumeth the life of man, and the poyson specially opposed
+against the perfection of loue: after the heart be once
+infected with ielousie the slepes are broken, the dreames
+disquiet slumbers, the thoughts cares, &amp; sorrowes, the life
+woe, &amp; miserie, that lyuing he dies, &amp; dying prolonges out
+his life in passions worse then death. None looketh on
+his loue but suspition sayes, this is he that couetes to be
+corriuall of my fauours: None 
+                              •
+                           n
+                              •
+                           ckes at his doore, but
+starting vp he thinkes them messengers of fancie, none
+talkes but they whisper of affection: if shée frowne, shée
+hates him and loues others, if she smile it is because shée
+hath had successe in hir loues, looke she frowardly on any
+man she dissembles, if shee fauour him with a gratious
+eye, then as a man straught with frensie hee eryeth out
+that neither fire in the strawe nor loue in the womens
+lookes can be concealed, thus doth he liue restles and maketh
+loue that of it selfe is swéete, to be in taste as bitter
+as gall.
+                        This discouereth reuerent Senators that loue being of
+it selfe a most excellent passion is onely blemisht by this
+soule and disgraced staine of ielousie; as hateful and hurtfull
+to the mind as the Cockatrice to the eye, or hemlocke
+to the taste. The purest Chrisolite hath his strakes, the
+flowers in Sydon as they are pretious in the sight so they
+are pestilent in fauour: Loue as it is diuine with loialtie,
+
+so it is hellish with ielousie, wherfore by an auncient Poet
+were written these verses,
+
+                              
+                                 When Gods had framd the sweete of womens face,
+                                 and lockt mens lookes within their golden haire:
+                                 That Phoebus blusht to see their matchles grace,
+                                 and heauenly gods on earth did make repaire.
+                                 To quippe faire Venus ouerweening pride
+                                 Loues happie thoughtes to ielousie were tied.
+                              
+                              
+                                 Then grewe a wrinckle on faire Venus browe,
+                                 The amber sweete of loue was turnd to gall:
+                                 Gloomie was heauen: bright Phoebus did auowe
+                                 He could be coy and would not loue at all,
+                                 Swering no greater mischiefe could be wrought
+                                 Then loue vnited to a ielous thought.
+                              
+                           
+                        
+                        Had not Iuno béen ielous ouer Iupiter, Io had not béene
+turned into a Heifer: if suspition had not prickt Menelaus,
+Helena had not stolne away with Paris. Procris had
+beene aliue, had shée not suspected Cephalus: Then worthie
+Romaines we sée what a preiudiciall monster groweth
+from the fearefull excesse of loue that not onely shortneth
+the life, disquieteth the minde, but oft is the cause of
+most strange and vnnatural massacres. If fortune frowne
+in loue we flie to patience: If their happen iarres, why
+louers braw
+                              •
+                           es are introductions to delight, If pouertie,
+why they hope vpon time thinking that there is vicissitudo
+omnium rerum, The lowest ebbe may haue his flow,
+and the deadest néepe his full tyde, if gréefes, sorrowes,
+repulse
+                              •
+                           , vnkindenes, these bee but Amantium irae: And
+t
+                              •
+                           ere
+                              •
+                           ore Amoris redintegratio: but as the pumice stone
+
+                              〈◊〉
+                            the paper from spots, and the fire consumeth fla
+                              •
+                           e so
+
+                              ••
+                           is in
+                              •
+                           ernall plague of iealousi
+                              •
+                            rooteth &amp; raceth all true
+loue 
+                              〈◊〉
+                            the heart, that yéelding my censure I conclude
+with this Poeme,
+                        
+                           
+                           Vita quae tandem magis est iucunda,
+                           Vel viris doctis magis expetenda,
+                           Mente quam pura sociam iugalem,
+                           Semper amare?
+                           Vita quae tandem magis est dolenda,
+                           Vel magis cunctis fugienda, quam quae,
+                           (Falso suspecta probitate amicae)
+                           Tollit amorem?
+                           Nulla eam tollit medicina pestem,
+                           Murmur, emplastrum vel imago sagae,
+                           Astra nec curant, magicae nec artes,
+                           Zelotipiam.
+                        
+                     
+                  
+               
+            
+            
+               Archias hauing thus ended his discourse the Senators
+greatly praised his description of iealousie, and from that
+fell to other pleasant talke as occasion offred. Till dinner
+being ended they arose, and after many thankes and curtesies
+according to the custome of the Romanes, Flaminius
+to honour Lentulus the more, taking him by the hand carried
+him into a garden where Terentia sate accompanied
+with other Uirgins of Roome: namely, Flauia, Cornelia,
+and Iulia, all of such exquisite features, as they séemed to
+be the choyce Paragons of that time. Lentulus amazed at
+this gorgious sight wondred not onely at their beauties,
+but maruailed why Flaminius brought him so friendly into
+their presence. At last the old man burst forth into these
+words: Lord Lentulus, I measure the thoughts of young
+gentlemen by the prime of my forepassed youth, not being
+so cinicall as with Chremes in Terence to proportion
+young affections by the cynders of olde age, but to thinke
+with Menedemus that the spring hath flowers and blossomes,
+
+where as winter hath dried braunches and tawnie
+leaues: We olde men ouer whom Saturnus is predominant
+hauing infused melancholy in our mindes, couet either
+to sit solitarie, or that our talke be serious: you that
+are young whose thoughts aime at delight séeke to passe
+the time in pleasant discourses. Least therefore the time
+might be tedious, I haue brought you amongst these faire
+Ladies y• you may make experience of loues, as you haue
+done of warres, Mars no sooner puts off his helmet but he
+salutes Venus: and you come from conquest of the Parthians,
+see how you can enter combate with passions: and so
+Lord Lentulus I leaue you.
+            
+               Lentulus seeing himself thus enuironed with these miracles
+of beautie, casting his eye vpon the Goddesse whose
+fauourable aspect might be the summe of his fortunes, bashed
+at the first as Paris did in the vale of Ida, and stoode as
+the foes of Perseus when hee vncased the head of Medusa,
+and turned them to marble pictures, so amazed stood Lentulus
+at the sight of such diuine excellencie, till the Ladies
+seeing this Nouice thus in a quandarie beganne to smile,
+which reuiuing a kind of amorous choller in the souldiers
+minde, he beganne thus to play the Champion.
+            Ladies beléeue me, Loue is of more force then warres,
+and the lookes of women pierce déeper then the stroke of
+Launces, their is no Curtelax so kéene, but armour of
+high proofe can withstande, but beauties arrowes are so
+sharpe, and the dartes that flie from womens eyes so piercing
+as the Corslet tempered by Vulcan for Didoes paramour,
+holdes not out the violence of there stroake. The
+Gods tremble when Mars shaketh his Launce, but he feareth
+when Venus casteth a frowne. Alexander neuer tooke
+notice of the legions of his enemies, but he stoode frighted
+at the beauty of the Amazon. Then swéet saints of Rome
+maruell not if I were driuen into a maze at the sight of
+such beauteous creatures whose faces are Venus weapons,
+wherewith shée checketh the pride of ouer daring
+
+warriours: I cannot (Ladies) court it as your Romaine
+yongsters that tie their wits to their fancies: nor fil your
+eares with amarous discourses as Cupids Apprentizes,
+that spend their time in such louing philosophie: Nor can
+I faine conceited supposes of affection to prooue my selfe
+louesicke by Poetrie. But as a blunt souldier newe come
+from the warres, I offer my selfe a deuoted seruant to
+your beauties, swearing to defend your honours against
+all men with the hazard of my bloud, and in pawne thereof
+generally to you all, but specially to one (as loue hath
+his vnitie) I desire to bee intertained as a duetifull
+seruaunt to the Lady Terentia. Lentulus hauing thus
+boldly boarded these louely Uirgins, the Ladies séeing
+with what affection he offred his seruice to Terentia, began
+to byte the lippe, and shée to blush who séeing hir selfe
+toucht to the quicke made him this answere.
+            I know not Lord Lentulus how to answere of loue, because
+as yet I neuer knew loue: ignorant of his forces because
+neuer acquainted with his fortunes. Vesta forbids
+vs virgins to name Venus, as they of Ephesus hatefull
+Erostratus. Diana deals not in Paphos, nor suffers shée any
+of hir maidens to hunt on Erecynus, least méeting
+with Venus mecocks they skippe with Calisto, and so séek
+after losse. The lesse you are priuate to loues passions, the
+more welcome to our presence: for rather had we still our
+eares with warres fortunes, then with loues f
+                  •
+               llies: and
+swéeter are the teares that grows from a constant stratageme,
+then a smyle from a comike tale of fancie. For your
+seruice Lord Lentu
+                     •
+                  us, finding my self vnworthy, I craue
+pardon: Nor can wee by Vestas charter admitte such seruaunts.
+But if it please you to bee accepted as a worthy
+Romaine and my fathers friende, looke for such fauour as
+mine honour and virginity can affoord.
+            
+               Lentulus hearing the plausible answere of Terentia, although
+hir first insinuation seemed to answere for his purpose,
+as preferring the lawnes of Diana, and fiers of Vesta
+               
+before loues holy temples, yet shée concluded so swéetely as
+might stand with the modestie of hir honour: he therefore
+made thus his reply.
+            In that madame we are both nouices in loue, the simpler
+are our thoughts, and the néerer should be the simpathy
+of our affections. Doues match 
+                  •
+               hen 
+                  •
+               hey are young:
+Syenus are grafted when they are sprigs, the one part
+not but by death, nor are the other seuered but they perish.
+Souldiers are like virgins, the one striuing to liue vertuous,
+the other to die valiant: both enemies to loue, while
+they wait on those which brooke not loue, I meane warre
+and Vesta: But both must loue as hauing hearts and
+thoughts, eies to sée beautie, and eares to iudge of vertue.
+I madame while I thought none greater then Mars, was
+vowed to Mars, but séeing womens wits are worse then
+weapons, and that their lookes pierce déeper then launces,
+I haue resigned ouer my fortunes at the shrine of warre,
+and meane to make proofe of the swéetenesse of loue: Glad
+that in my first entrance I haue the patronage of your
+gracious fauour, armde with the which Mars well may
+frowne, but not conquer. But sir, quoth Terentia, I graunted
+my fauor to Lentulus the souldier, not to Lentulus the
+louer. And so madame quoth he I accept of it, for I am a
+souldier to doe you honour, and a louer despight of my self.
+Flauia hearing Lentulus, beganne to reason pretily to the
+purpose, being a Ladie of passing mirry disposition, whose
+witte was as full of wiles as hir face of fauour, second in
+the excellencie of beauty to the Lady Terentia, thought to
+sift hir souldier in this manner.
+            I sée well Lord Lentulus, that as women haue their fauours,
+so men haue their sayings: the one prodigall in graces,
+the other polliticke in deceits, being as cunning to dissemble
+loue, as we chary to discharge loue. We Romaine
+Ladies thought to haue founde you a flat souldier, as ignorant
+in loues as we of fancies: but how closely soeuer
+you couer the flame, the fire wil be knowne by the smoke:
+
+For your talke so sauours of loues principles, as we iudg
+                  •
+               
+you are as cunning in faining a passion as in figuring a
+battaile, and can assoone deceiue a woman with a pen, as
+slaughter an enemie with a launce. This will make vs
+to take you for a day friend, and what we like in you present
+to disallowe to morrowe, swearing if you bring amongst
+vs Venus roses, wee will beate you with Vestas
+nettles: and therefore if you will be admitted as our souldier,
+wee either forbidde you the name of loue, or else you
+shall be out of our fauours. Cornelia willing to breake a
+iest with this Champion thwarted Flauia thus. And what
+of that madame, hath not warre taught him patience: hee
+hath past sharper brunts thē womens frownes. But how
+your leuell is without aime? If madame Terentia smyl
+                  •
+               
+his peny is good siluer, 
+                  •
+               is hir fauour that is the load-star
+of his fortunes, and howe can we enter into hir thoughts
+but by coniectures: shée ful of beauty, and he a proper yong
+gentleman. At this frumpe the Ladies smiled, and Terentia
+blusht for anger. But Lentulus séeing such a broad iest,
+pinde on his shoulder willing to make answere for his
+Mistresse, although he was sore put to his trumps as half
+set at a Non plus, yet he followed his fortunes thus.
+            Indéede Ladies thinke I haue patience to beare womens
+frumpes that hath incountred an enemies blow, but
+if I could as well answere the one, as quit the other, you
+shuld neither carry it to hel, nor to heauē. But to reuenge
+my selfe as well as I can, thus. First madame to cleare
+my cunning in loue, I refer my selfe to the verdict of your
+owne conscience: who were you but as fauourable, as you
+are frumpish, would soone censure by my talke how déepe I
+am reade in loues principles. But women speake by contraries,
+crying like the lapwing farthest from their nests,
+and so I take it being checkt for ouermuch loue, when you
+sée I am a nouice in loue. Or perhaps madame Flauia you
+would haue me loue, if it be so I will become more studious
+to satisfie your wish: but your calling mee a day
+
+friend that peremptory punishment were passing sharpe
+for one fault to shake me out of seruice, were it not that
+for so déepe a wound the Lady Cornelia bringeth in a lenitiue
+plaisture alleadging my security if I bee armed with
+Terentias fauour. Blame mee not swéete goddesses if I
+aime at the fairest, souldiers haue eies that can iudge of
+beauty, though they haue not weapons to winne beauty:
+&amp; eares to déeme of perfections, though they want tongues
+to discouer passions. The harmony of loue, I haue hearde
+them say, consists in vnities, and nothing is more preiudiciall
+to fancie then plurality either of thoughtes or of persons.
+Amongst many then am I charged but to like of one
+Mistresse: If I make choice of Terentia, and shee vouch to
+grace me with hir fauour, Cornelia concludes truely, that
+armde with the imagination of hir beauty, I thinke my
+selfe able to brooke your frumps, and to withstand the hardy
+resolution of Mars.
+            
+            I maruaile then quoth Flauia halfe in choller (if womens
+beauty be like Delphicus gladius, of high proofe to
+defend, and of sharpe edge to offend) why the Senatours
+choose not out legions of Ladies, that with little cost and
+great assurance, they may make conquest of the world:
+but perhaps all souldiers be not of your temper, for they
+vse their weapons and you your lookes.
+            No madame quoth Lentulus y• is not the cause, for were
+it not that euery woman would be a Captaine, and striue
+for supremacie, they had resolued vpon this long agoe, but
+fearing a mutiny amongst themselues for superiority: sith
+euery one at home wil be counted most wise, &amp; most beautifull,
+though their wits be meane, and fauours lesse, the
+Senate are glad to foresée such an inconuenience. The
+Ladies hearing howe cunningly Lentulus had gald madame
+Flauia on the right side, began all to smyle, and shée
+after a blush for very anger began to laugh. Lentulus glad
+that he had giuen hir a soppe of the same sauce, and paide
+hir hir debt in hir owne coine: Calling to his boy to fetch
+
+him a Lute, willing to shew his mistresse he was not ignorant
+in musicke, said he would prooue the force of beauty
+by a sonet which he heard was made by Orpheus when
+he fell first in loue with Euridice, tuning therefore his
+Lute to his voyce he sung this ditty.
+            
+               Mars in a fury gainst Loues brightest Queene
+               Put on his helme, and tooke him to his launce:
+               On Erecynus mount was Mauors seene,
+               And there his ensignes did the God aduaunce.
+               And by heauens greatest gates he stowtly swore,
+               Venus should die for shee had wrongd him sore.
+            
+            
+               Cupid heard this and he began to cry,
+               And wisht his mothers absence for a while:
+               Peace foole quoth Venus, is it I must die?
+               Must it be Mars? with that shee coind a smile:
+               Shee trimd hir tresses and did curle hir haire,
+               And made hir face with beauty passing faire.
+            
+            
+               A fan of siluer feathers in hir hand,
+               And in a coach of Ebony shee went:
+               Shee past the place where furious Mars did stand,
+               And out hir lookes a louely smile she sent.
+               Then from hir brow lept out so sharpe a frowne,
+               That Mars for feare threw all his armour downe.
+            
+            
+               He vowed repentance for his rash misdeede,
+               Blaming his choller that had causd his woe:
+               Venus grew gratious, and with him agreed,
+               But chargd him not to threaten beauty so.
+               For womens lookes are such inchaunting charmes,
+               As can subdue the greatest god in armes.
+            
+            
+               Lentulus hauing sung this ditty, Terentia willing a
+little to shew hir wit began thus. I remember Lord Lentulus,
+               
+I haue heard my father say that souldiers were
+w
+                  ••
+               nt to carry fauours in their helmes, not fancies in
+their heart: and made choice of their mistresse to incourage
+their thoughts, not to inchaunt their affections. But
+I see the auncient hon
+                  •
+               ur of the Romaines is slipt from
+prowesse to passions, and the men couet to be counted rather
+amorous wooers, then hardy warriours: gasing Mars
+in the face with bright armour, but offring Orisons to
+Venus in secrete conceites. This did not Quintus Lucius
+Cincinnatus, who sette it downe as Crimen Capitale
+to speake of loue in the Armie. Nor Scypio Affricanus
+the greate who made lawes that no women shoulde bee
+brought prisoners within the Campe, least loue entring
+pele mele with war might hazard y• haughtines of their
+houors: And yet madame quoth Lentulus Cyncinnatus
+ha
+                  •
+                a wife, and Scipio was marrieed. But quoth shée it
+was in their age rather chosen for succours then amarous
+passions: their youth was wholy spent in warres as enemies
+to loues, counting fancie as a dishonour to their
+martiall dignities: rightly in déede with a déepe insight
+entring int
+                  •
+                
+               
+                  •
+               he enormities that growe from following
+to precisely the court of Venus. For beléeue me gentleman
+Poets and Painters erre much that ascribe a dei
+                  •
+               y to
+Cupid, and were worthy to beare some gréeuous punishm
+                  •
+               nt
+for such a newe inuented heresie, which I will app
+                  ••
+               oue
+with a Sonet that one of Dyanas nymphes made
+w
+                  •
+               en Iupiter had faulted with Calipso. And so Terentia
+taking the Lute in hir hand beganne to warble out this
+
+                  •
+               oundelet.
+            
+               Fond faining Poets make of Loue a God,
+               And leaue the Lawrell for the myrtle boughes:
+               When Cupid is a childe not past the rod,
+               And faire Diana Daphnis most allowes.
+               Ile weare the bayes and call the wag a boy,
+               And thinke of Loue but as a foolish toy.
+            
+            
+               
+               Some giue him bowe and quiuer at his backe,
+               Some make him blinde to aime without aduise:
+               When naked wretch such feathred bolts he lacke,
+               And sight he hath but cannot wrong the wise.
+               For vse but labours weapon for defence,
+               And Cupid like a Coward flieth thence.
+            
+            
+               He is God in Court but cottage cals him childe,
+               And Vestas virgins with their holy fires:
+               Doe cleanse the thoughts that fancie hath defilde,
+               And burnes the pallace of his fond desires.
+               With chast disdaine they scorne the foolish god,
+               And prooue him but a boy not past the rod.
+            
+            
+               Terentia hauing ended hir roundelay, as Lentulus was
+ready to replie, Flaminius came into y• Garden with ye rest
+of ye senators, whose graue presēce brake of their amorous
+prattle, so y• he leauing ye Ladies taking his leaue friendly
+of them all, but specially with a pittiful glancing looke of
+Terentia as crauing some fauour for his farewell, hee
+went to the Senatours amongst whom he 
+                  •••
+               coursed long
+of the maner and custome of the Parthians, 
+               
+                  〈◊〉
+                their resolution
+in warres, and of such serious matters concerning
+martiall discipline. Passing thus away part of the afternoone,
+the company at last taking their leaues yeelding
+great thankes to Flaminius for their good chée
+                  •
+               e, they parted
+to their seuerall mansions. Lentulus s
+                  •
+               ipping from the
+rest of the companie and with a gratious courage tooke
+his adue of Terentia and the other of the Ladies, vowing
+to be theirs euer in any due honourable seruice, and so
+staying Terentia by the hande he went home with Titus
+Annius Milo: where he founde Marcus Tullius Cicero,
+then a youth in Rome about ye age of twenty yeres &amp; very
+priuate and familiar with Milo. The fame of this Tullies
+surpassing 
+                  •
+               loquence was so bruted abroade in Rome as
+they counted him the myrror of that time &amp; as in Greece
+               
+they wondred at Demosthenes for his orations, and the
+popular people fedde their eies with his sight, so as Tully
+past through the stréets they cryed out, Hic est ille Cicero:
+saying that as Orpheus with his musicke made the stones
+and trees pliant to his melody: so Tully tyed the peoples
+cares to his tongue by his eloquence: And that Plato who
+for his philosophicall sentences was called diuine, in
+whose lippes bées rested as presaging his future excellencie
+was inferiour to Tully in the musicall concord of his
+phrase. Lentulus noting his perfections although his parentage
+was base, yet thinking his eloquence might be
+profitable to his loues, grewe to bee very familiar with
+Tully, insomuch that of vnacquainted citizens they grew
+to be deare and priuate friends, that their thoughts were
+vnited with a sure league of amity, and their hearts were
+receptacles for their mutuall passions, so that their most
+secrete affaires were frankely participated without any
+doubting suspition. But leauing their familliarity, conuersing
+in Milos house: Let vs gentlemen sée how Terentia
+brookt his departure. Cornelius Nepos forgets it in
+Tullies life, 
+                  〈◊〉
+                if you will beléeue me it was thus.
+            No sooner were the Senatours and Lentulus departed
+from Flaminius house, but Flauia and the rest of the Ladies
+tooke leaue of Terentia, who being solitary by hir selfe
+sitting alone in an arbour of roses, began to ruminate on
+the Idaea of Lentulus perfection, and to call to minde his
+seueral and singular qualities, his parentage, his person,
+honors, and his great possessions, but all in vaine. Loues
+poyson was preuented with an antidote, and hir thoughts
+sealed vp with an inuincible chastity. For after shée had
+long sate: At last with a smyle shée burst foorth into these
+tearmes.
+            If Venus could not infuse more dismall aspects in other
+Ladies thoughts then into my minde, they should neither
+hold hir as a goddesse, nor honour hir temples with presents:
+Fonde are those women that are inquisitiue after
+
+Astrologers, whether Venus be retrograde or combust in
+their natiuities. Had they but tasted the swéete fauour of
+Vestas incense, they would abandon hir as a planet carelesse
+in their natiuities: and not trouble the Augurs or Aruspices
+to censure of their fatall or fortunate fancies. For
+had they but insight into the swéete life of virgins, how secure
+they liue, if they liue vertuous, they woulde neuer
+intangle themselues with the inconstant snares of fancy.
+Vesta allowes vs frée thoughts, Venus disquiet passions
+                  •
+               
+at hir Altars we haue swéete s
+                  •
+               éepes, in the others pallace
+broken slumbers. Diana counteruailes our labours with
+myrth and quiet, in Cipres we finde toyle tempered with
+care and sorrowes. Being virgins we haue liberty: maried
+we tie our selues to the variable disposition of a husband,
+who be he neuer so excellent in perfection, or exquisite
+in proportion, we shall finde sufficient whereof to gather
+di
+                  ••
+               ike. Then Terentia, let Lentulus passe with his
+honors he hath subdued. What though Alexander woone
+the whole world, his glories are but fortunes fauours. Account
+him then onely as thou promised, thy fathers friend
+and thine as farre as he treats not of weddi
+                  ••
+                and with
+this vpon a sodaine shée start vp, and went to passe away
+the time amongst companie, holding Cupids deity at disdaine,
+and accounting of loue as the Samnites did of golde:
+which they sent as presents to their enemies, but banisht
+from their owne common wealth. But Flauia poore Lady,
+was not pierced with so easie a passion, for shée hauing
+more déepely imprinted in hir thoughtes his honours and
+vertues, and measuring the man by the height of his fortunes,
+fell into these bitter complaints.
+            With what little proportion doth iniurious Loue bestowe
+his fauours? With howe small regarde doth blinde
+fortune powre out hir treasures? Making in all their actions
+contrarieties. that so they may triumph in inconstancie.
+Loue hath brought Lentulus from the wars to Rome,
+onely to sée Terentia. Fortune hath brought Flauia
+               
+to the house of Flaminius onely to loue Lentulus, shée little
+regarding him, he lightly respecting me. Thus hath the
+contrariety of loue and fortune made Lentulus vnhappy,
+and me without hope. Ah but Terentia though shée séeme
+coy at the first, will bee more curteous at the last, when
+shée hath had but a moneths meditating on the excellency
+of Lentulus. Then, oh then sigh Flauia, and say oh then wil
+Terentia not reiect so honourable a personage: When shée
+considers his youth, his beauty, his parentage, his dignities
+Lentulus no sooner shall wooe, but shée will be woonne:
+This is the coniecture of hir hap, &amp; the dispaire of my hope.
+And yet it may be that the destinies haue appointed their
+disagrée. For starres are sticklers in loue, and fates are
+principall fautors of wedlocke. If my prayers may serue
+
+                  •
+               o Venus, if my incense to Cupid, if my vowes to Lucina,
+if my sute to Loue. Let their loue perish in the budde, and
+wither in the blossoms. Had I Medeas magicke, the drugs
+of Calipso, the inchauntments of Cyrces, the skill of Hecate,
+all these should be imployed to breake the loue of Terentia,
+and Lentulus. Fond Flauia, to be so franticke in thy
+passions: suppose Terentia hated Lentulus, can this conclude
+he wil loue thée? No, his thoughts are setled, his rest
+set downe, his vowes made, his fancy fixed, &amp; all vpon ye
+beautiful Terentia: I there Flauia y• is ye word ye galleth to
+the beautifull Terentia. For of such surpassing beauty is
+the Lady, that as Cynthia brookes no compare with hir
+glorious brother: so thou must not enter comparison with
+y• daughter of y• Senatour Flaminius. But what is this to
+Lentulus. If shée be faire, yea as faire as euer was Sulpitia:
+if shée be as coy, and disdainefull as Caelia, had he not
+better loue homely Flauia, who will counteruaile with
+loue, what shée wants in beautie, and proportion out in
+duety, what shée defects in dignity. But what of this, loue
+admits no exceptions, he cannot mis
+                  •
+               ike 
+                  •
+               ught in Terentia.
+Doth not present examples yea instances executed in
+Roome auerre so much? Is not Anthonio enamoured of
+the blacke Egyptian Cleopatra: Doth not Caesar enuy
+
+him in his loues and couets to be corriuall of his fancies.
+Affection is oft blinde and déemeth not rightlie, The blackest
+Ebon is brighter then the whitest Iuorie: and Venus
+thought Vulcan at the first a proper stripling. Were Terentia
+neuer so coy, Lentulus will count hir disdaine but
+chastitie: yet Flauia pray then she may liue in this mislike,
+then hast thou yet some cause to hope, otherwise wéepe
+thy fill, dispaire and then die, for swéeter is death then to
+liue and sée Lentulus enioy the loue of Terentia. Hauing
+at this period breathed awhile readie to goe forwarde in
+passions, one of hir waiting women came in who breaking
+of hir complaintes past away the rest of the day in
+prattle. Leauing hir therfore and hir maide at chat, again
+to Lentulus, who tooke such inwarde griefe at this newe
+conceited loue, that his colour began to waxe pale and to
+discouer passions his sighes many and often to bewray
+his sorrows, his sodayne startes in his sléepes, and his
+musinges surcharged with melancholie. These noted by
+Tullie his priuate friende made him coniecture that somewhat
+was amisse with Lentulus. Hauing therefore fit opportunitie
+he began to sift him in this manner.
+            The auncient Gréetians swéete Lentulus y• set downe
+principles of friendship, account the secrete conuersi
+                  •
+               g of
+friendes, and their mutuall participating eyther of priuate
+sorrows or concealed pleasures, the principall end of
+such professed amitie. Therefore did Theseus choose Pirithous,
+Orestes Pylades &amp; to that end, or else you wronge
+me, serues Tullie to his Lentulus. If then it be requisite in
+friendshippe to abandon suspitious secrecie, I cannot but
+take it vnkindly that Tullie is not made partaker of Lentulus
+passions. For as the Carbuncle is not hid in the
+darke, nor the fire shut vp in strawe, so sorrowes cannot
+so couertly be concealed but the countenance will purtray
+out the cause by the effectes. Thinke me not then so blind
+but I can Iudge of coullors, nor so simple but I can deeme
+of affections, what meane these farre fetcht sighes, broken
+
+slumbers, this newe delight to be solitarie, but that Lentulus
+féeling a passion that pierceth to the quick, yet séekes
+to kéepe it secrete from his friend Tullie. Knowe this my
+good Lentulus that smoake depressed stiffleth more deadly.
+That the Ouen the closer it is damd vp the greater is
+the heate: and passions the more priuate the more preiudiciall.
+Stop not then the streame, least it ouerflow. Conceale
+not sorrowes least they ouercharge, and prooue like
+woundes, that kepte long from the Chirurgian growe
+to be incurable vlcers: If it be a Fathers frowne, an enemies
+wrong, a friendes mishap, reueale it and séeke
+remedie. If Lentulus gréeues hath left his honours in Parthia,
+feare not, Rome will haue more warres and Lentulus
+new dignities. If the Senatoures haue delt ingratefully:
+Solamen miseris socios habuisse doloris. The most
+famous Romaines haue forerunne thée in such hard fortunes.
+Scipio subdued Affrica, what his rewarde was let
+our annualles report. If Lentulus misliks ought in Rome,
+let him abandon Rome, and Tullio will banishe himselfe
+from his countrie too with his friend Lentulus. If since
+thy comming into this storehouse of natures prodigalitie,
+thiue eye hath made suruaie of anie gorgious Damsell,
+and so my Lentulus be in loue although wisedome wills
+to hide amors euen from amitie, and to tie fancie in the
+lowest cell of his heart, yet reueale it to thy friende Tullie,
+and if any way hee may ease his Lentulus passions, hee
+vowes to salue thy sore, though with the hazarde of his
+owne safetie. Lentulus hearing his friende leuell so néere
+the marke gaue a great grone at the name of loue, and fetching
+a déepe sighe saide Actna grauius Amor. And with
+that starting from the place where hee sat taking Tullie
+by the hande, he began thus.
+            Were it my Tullie that my passions had any hope of
+remedie, or that my wounde were such as might bee cured
+by counsell, long ere this had Lentulus powred his
+plaintes into the bosome of his friende Cicero: but my
+
+sorrows, as they are piercing so I haue kept them priuate,
+as hoping for no ease and yet delighting in my martiredome.
+The birde flieth the snare of the fouler, No sooner
+doth the woodman bend his bowe, but the Déere trippes
+through the lawnes: euerie creature is taught by nature
+to feare his fall, and yet wretched Lentulus hunteth after
+his owne mishappe. So haue I described the furie of my
+passions, as I can not but say it is loue that is thus impatient.
+Loue my Tullie that is such a lord as ins
+                  •
+               nuating
+his power with fauour he kéeps possession by force. Wars
+haue their endes either honors or death, and in battaile
+prowesse oft makes constraint of fortune, but in loue delay
+is the vnhappie deathsman that holding thée vp neither
+saues nor killes. Since my comming to Rome (my
+Tullie) coueting to conuerse with beautifull Ladies as before
+I had done with martiall souldiers, amongst manie
+curious Pearles I founde one Orient Margarite richer
+then those which Caesar brought from the western shores
+of Europe: so long I gased at the beautie of this pretious
+Iem that I founde my selfe gald with such affection, as
+well repeat I might, but recall I coulde not: and for thou
+shalt say she is loue worthie. heare how in discribing hir
+excellencie I haue plaide the Poet.
+            
+               
+                  Lentulus description of Terentia
+in Latin.
+                  Qualis in aurora splende scit lumine Titan,
+                  Talis in eximio corpore forma fuit:
+                  Lumina seu spectes radiantia, siue capillos,
+                  Lux Ariadne tua &amp; lux tua Phoebe iacet.
+                  Venustata fuit verbis, spirabat odorem,
+                  Musica vox, nardus spiritus almus erat:
+                  
+                     Rubea labra, genae rubrae, faciesque decora,
+                  In qua concertant lilius atque rosa.
+                  Luxuriant geminae formoso in pectore mammae,
+                  Circundant niueae candida colla comae:
+                  Denique talis erat diuina Terentia, quales
+                  Quondam certantes, Iuno, Minerua, Venus.
+               
+            
+            
+               
+                  Thus in English.
+                  BRightsume Apollo in his richest pompe,
+                  was not like to the tramels of hir haire:
+                  Hir eyes like Ariadnes sparkling starres,
+                  shone from the Ebon Arches of hir browes.
+                  Hir face was like the blushing of the east,
+                  when Titan chardge the mornings Sun to rise:
+                  Hir cheekes rich strewd with roses and with whyte,
+                  did stayne the glorie of Anchises loue.
+                  Hir siluer teates did ebbe and flowe delight,
+                  Hir necke colummes of polisht Iuorie.
+                  Hir breath was perfumes made of violets,
+                  And all this heauen was but Terentia.
+               
+            
+            NO sooner had Lentulus ended his well written Poem,
+and concluded his cunning with the name of his mistresse,
+but Tullie hearing Terentia was the saint at
+whose shrine Lentulus offred vp his deuotion, entring his
+exordium with a smyle he began to be thus pleasaut.
+            And is there no fruit will serue your taste but such as
+growe in the Gardens Hesperides, nor no colour content
+your eye but such as is stayned by the fish Murex. Must
+your senses be fed with nothing but that is excellent, nor
+your loue haue no meane but to aime at the fairest. What
+Terentia the beautie of Rome? the pride of nature? the
+
+wealth of all the fauouring graces, whose excellencies are
+spreade throught the triple deuision of the worlde? I see
+my Lentulus souldiers haue eyes as they haue hands, and
+thoughtes as they haue weapons, and that howe bluntlie
+so euer brought vp in the warres yet they are curious in
+the choises of their loues. Well, be it Lentulus loues Terentia,
+an honour to set his fancie on hir, but hee kept his
+loue secret frō 
+               Tullie a fault to be suspicious of his friend.
+But why gréeues Lentulus? Is not his parentage greater
+then the house of Flaminius? Is not his honours sufficient
+to counteruaile hir beauties? Why then is he so impatient
+in so agreable a passion? Lentulus vpon this discoursed
+vnto Tullie from point to point the successe of his
+loues, how he gaue his charge ouer to Lepidus onely that
+he might haue a sight of Terentia, and then recounting
+what prattle had past betwixt him and hir after dinner:
+Hir coy answeres and firmed resolution to remaine chast:
+crauing counsell howe he might ease the disquiete of his
+thonghts: Tullie pittying the extreeme passion of his
+friende, deuised sundrie meanes howe to make him lorde
+of his desires. But after the discourse of sundry plottes,
+it was decreed that Lentulus shoulde write vnto Teren-Terentia.
+Lentulus dispairing of his owne stile and methode,
+required Tully to write him a letter passionate and
+full of familiar eloquence, which at his request Cicero
+contriued after this manner: where by the way gentlemen,
+I am to craue you to thinke that Terentia kept
+the copy secrete, so that neither it can bee founde amongst
+Lentulus loose papers, nor in the familiar epistles
+of Cicero. If the phrase differ from his other excellent
+forme of writing, imagine he sought to couer his style, and
+in his pen rather to play the blunt souldier, then the curious
+Orator, neither vsing those verborum fulmina, that
+Papyrius obiects, nor that swéete and musicall cadence of
+words, which he vseth to Atticus, but howsoeuer or whatsoeuer,
+thus it was.
+            
+               
+                  
+                  Lentulus, Terentiae salutem.
+                  QVod natura in venustatis &amp; formae tuae Idaea formauit
+(suauissima Terentia) nullo modo silentio praeterire
+possum: Ne cum nimis cautus amoris ignem celare
+conarer, incautus tanquam Aetna meipsum consumens,
+in cineres redigar. Cum inter Parthos versarer, nihil nisi bellum
+&amp; arma cogitans, a Roma vsque formae tuae pulchritudo,
+morumque integritas à multis saepe nuntiata est. Cuius rei faema
+ca iucunditate aures meas permulsit, vt (syrenum quasi
+cantu delectatus) arma abijcere &amp; amorem cogitare coeperim,
+meque totum in Terentiae potestatem tradere non erubescerem.
+Diuinae autem excellentiae tuae cogitatio, eos mihi pro tempore
+in bellicis negotijs addidit animos, vt breui deuictis
+&amp; profligatis Parthis, totam hanc Prouinciam Lepido commiserim,
+quem vnum tum honoris, tum fortunae meae participem
+feci, Parthisque relictis Romam me contuli, vt iucundissimo
+fructu tum aspectus, tum consuetudinis tuae frui liceat.
+Formae vero &amp; pulchritudinis tuae dignitas, tanta tamque excellens
+fuit, vt non modo famam, sed expectationem meam
+longe superarit. Vnde exquisitam tuam perfectionem oculis
+contemplans, &amp; singulares animi dotes auribus accipiens, excellentiae
+tuae Idaeam in imo pectore collocaui meque totum amori,
+quasi constring endum tradidi. Cum igitur tua vnius
+causa (suauissima Terentia) famam fortunasque &amp; arma
+proiecerim, verum amantis officium fac praestes, &amp; me non
+meritis, sed amore fac metiare, vt in amore tu mihi respondens,
+ego in omni officio tibi satisfaciam. Taceo genus &amp;
+parentes, quos tamen bonos ciues &amp; senatores fuisse constat;
+taceo triumphos, qui quales fuerint Capitolium populusque
+Romanus locupletissimi sunt testes; de diuitijs non glorior, quas
+
+t
+                        •
+                     men mediocres esse constat, sed virtutis vim &amp; amoris constantiā
+tibi propono, quae nec parui facienda, nec ingratitudine
+compensanda sunt. Me igitur fac redames (mea Terentia) &amp;
+pulchritudini comitatem coniungens, parentibus honorem, a
+                     
+                        •
+                     icis
+fidem, Lentulo amorem tribuas, vt parentibus gaudio,
+amicis vtilitati, &amp; Lentulo voluptati esse possis. Non disertè,
+vt Orator, sed peramanter, vt imperator tibi scribo, quod si
+amorinostro consentire digneris, de patris voluntate nihil est
+quod dubites: sed si alieno amore non nostro delecteris, d
+                        •
+                     lores
+meos &amp; augebo &amp; celabo, &amp; quamcunque in partem te flexeris,
+tibi tum vitam tranquillam, tum mortem gloriosam, vt
+fideliss. amator exoptabo. Vale, plus oculis mihi dilecta Terentia,
+&amp; me tui desiderio iam pene languentem aut ames cito aut
+oderis semper, vale &amp; rescribe.
+               
+            
+            
+               
+                  Lentulus to Terentia health.
+                  I cannot (swéete soueraigne of my thoughts, and chiefe
+myrrour of our Romaine excellencie) smother that with
+silence which nature hath figured in the portraiture of my
+lookes, vnlesse kéeping the flame too secrete, I shoulde like
+A
+                           •
+                        tna consume to cinders. When seated amongst the Parthians
+hauing nothing in my thoughtes but warres and
+stratagemes, thy beauty was repeated as speciall newes
+from Roome amongst the Legions: The melodie séemed
+so pleasing to mine eares as if the musicke of the Syrens
+had inchaunted my senses. I ceased from warres to think
+of loue, and from loue to doate on the conceit of Terentia.
+The thoughtes of thy excellencie doubled such courage in
+my attempts, that I conquered the Parthians, yéelded vp
+my charge to Lepidus, made him partaker of my honors,
+and fortunes, and came to Roome onely to sée Terentia:
+                     
+whose sight was so beauteous, and so farre beyond the report
+of fame, that mine eies surueying exquisitely thy perfections,
+and mine eares censuring of thy wit and vertues
+both in league conspired to present the Idea of thy selfe to
+the contemplation of my heart, which gréedily intertaining
+such rare beauties, hath euer since remained a poore
+distressed captiue. Sith then Terentia, thy Lentulus hath
+left his fortunes to followe fancy, and hath forsaken the
+warres to winne thy loues, holding thée more deare then
+country or hono
+                        •
+                     r, shewe thy selfe a Romaine Lady, that
+striuing in minde to be matchlesse, thou mayest bee more
+prodigall in fauours, then I worthy in deserts, and yéelde
+mée such méede for my loue, as Lentulus for his loyaltie
+doth merite. I 
+                        •
+                     oast not of my parents, they are Citizens
+&amp; of the Senate wt thy father. I speak not of mine honors,
+the Capitol can witnes what showtes past from the Romaines
+as victors: what tears from the Parthians as vanquished,
+both these passions growing from the fortunes of
+Lentulus. My reuenewes are such as satisfie my desires:
+But all these are externall fauours, which though I rehearse
+yet I bragge not off. But the constancy of my loue,
+the loyalty of my thoughts: These Terentia are gifts of
+the mind, deseruing no light estéem, much lesse to be requited
+with ingratitude. Consider then (swéete goddesse) the
+sincerity of mine affections: weigh howe Lentulus loues,
+and so vse him in loue, measure his fortunes by his fancies.
+As thou art beautifull, so vse iustice, giue euery one
+his due: Honour to the gods, reuerence to thy father, faith
+to thy friend, and Loue to Lentulus, and if it please thée to
+grace me with the title to thy husband Lentulus: for I couet
+to like honestly, not to loue wantonly. I write Terentia
+as a souldier without eloquence, and as a louer without
+flattery, if thou satisfie my loue with thy fauours, I
+doubt not to seale vp thy content with thy fathers and
+friends agrée. If either thou art tied to former loues, or
+mislikest of mine, I will close vp my sorrows with silence.
+
+Howsoe
+                        •
+                     er it shall please thée to returne answere: Liue
+with content, and die with honour.
+                  
+                     Terentias newe intertained souldier,
+Publius Cornelius Lentulus.
+                  
+               
+            
+            If gentlemen I haue not translated Lentulus letter
+verbatim worde for worde, let me in mine owne excuse
+yéelde these reasons, that neither the familiar phrase of
+the Romaines can brooke our harsh cadence of sentences:
+nor durst I attempt to wrest Tullies eloquence to my rude
+and barbarous english: fearing either to wrong so worthy
+an Orator in displacing or rather disgracing his phrase: or
+in too far presuming purchase your frowne, which I haue
+euer in all duty sought to auoid. But howsoeuer my translation
+séemes wrested, I haue kept his. And so to Lentulus,
+who hearing Tully reade the epistle, both conceited
+the methode, and allowed of the manner: Onely carefull
+where to get a fit and conuenient messenger. Tully at last
+called to remembrance one Eutrapelus, an especiall friend
+of his, who frequented the house of Flaminius, by him did
+Lentulus sende the letter, and so liuing in hope of a happy
+answere, he left Tully in his study, and went to the Capitoll.
+Cicero no sooner was by himselfe, but calling to mind
+the description of Terentia: set out with such excellency by
+Lentulus in his new learnd poetrie, and weighing how al
+Roome woondred at hir beauties: began to féele certaine
+sparkes of loue kindling in his young desires, which made
+him blush at his owne thoughtes, and smile that fancy
+shoulde lie lurking amongst his library to take him at discouert.
+But assoone as he remembred that Lentulus was
+in loue with hir, the faith to his friend, was a cooling carde
+to his affections: and hee quenched those sparkes at the
+first, lest suffered they might grow to a greater flame: yet
+was he maugre his heade forced to say thus much.
+            Hast thou liued fortunate, and fauoured in Roome?
+               
+hath honour raised thée from a meane cottage to be a companion
+to the sonnes of Senators? Doe the Consuls make
+thee for thy learning one of the Pret
+                     •
+                  xtati? and wilt thou
+for the hope of foolish beauty staine all thy fauours and
+fortunes with disgrace? Nay rather Tully it will be honor
+to wooe the daughter of so famous a Romaine: but shame
+to thee to take the repulse and be denied. Thinkest thou
+Terentia will looke so lowe? will Eagles catch at flies? wil
+the woonder of our time, the paragon of our age, allied to
+the noblest houses in Roome, make choise of so base and
+meane a person? What hast thou to deserue hir loue, any
+more then a little babling eloquence. Womens eares are
+not their touchstones but their eies: they sée and make
+choyse, not heare and fancy. A dramme of honour weighs
+downe a pound of wit: and better is it to court with welthy
+reuenewes, then with swéete lines, or fine coucht poemes.
+Thou hast nothing left but a poore farme called Cumanum,
+whose rents quits not the charges of thy studies.
+But suppose thou couldst winne Terentia, suffice shée is
+loued by Lentulus: and therefore frō this day name hir not
+in thy mouth, nor weare hir in thy thoughtes, least thou
+violate friendship, which thou ought to prise dearer then
+life. Thus Tully appeasing his passions went out of his
+study and willed Eutrapelus to deliuer the letter with secrecy:
+who being one of Tullies chief familiars, went with
+all spéede to the house of Flaminius, where finding the Ladie
+Terentia sitting with Flauia &amp; Cornelia at worke, he
+being homo facetus began merily to commend their huswifery
+&amp; after some iests broken betwixt the gentlewomē
+&amp; him he craued to speak wt 
+               Terentia about certain serious
+affairs y• greatly imported hir father. Wherupon shée rising
+&amp; going with Eutrapelus into hir closet he there deliuered
+vnto hir Lentulus letter. Terentia abashed at the sight
+blushed as half angrie with Eutrapelus, that he made him
+selfe messenger in so vaine a matter, yet considering it
+came from so honourable a personage as Lentulus, shée
+
+vouchsafed it &amp; wisht Eutrapelus in the euening to come
+for an answere. He was no sooner departed, but Terentia
+vnripped the seales and then red the contentes, which being
+contrarie to hir resolution, shée determined to returne
+with a deniall. But for that she would make hir friends
+priuie to hir new loues passions she went smiling in, and
+shewed them the letter. Upon poore Lentulus plainesong
+they all began to descant. Cornelia praysing Terentias
+fortunes that was so enterely beloued of so honourable &amp;
+braue a Gentleman, but Flauia hung the lippe and saying
+little, only askt what a louing answere she would write.
+I know not howe to replie quoth Terentia, he hath written
+so eloquently and so cunningly. But quoth Flauia I
+durst pawne my credite it was written by young Tullie,
+that braue Orator: for I haue red some of his Epistles,
+and tis both his methode and his verie phrase. That Tullie,
+quoth Terentia whom I haue heard my Father and
+the Senators so highlie commend for his witte, thinking
+him to excéede either Crassus or Hortensius? and with that
+sitting downe they began to enter into discourse of Tullies
+excellencies, concluding all that he was as singular amongst
+the Romaines, as euer Demosthenes was amongst
+the Grecians. At last Terentia remembring hir
+selfe, tooke leaue for a whyle of hir two friendes, and stealing
+into hir closet stepping to the standish shée was about
+to write, but calling to minde the discourse of Tullies perfection,
+letting fall hir penne she fell into a passion. Cupid
+wayting to spie this vestall at aduantage, séeing hir
+halfe at discouert vulosde a bolt headed with desire, and
+fethered with conceite, which piercing the tender briest
+of this young Damosell, he made hir shrinck at the blow,
+and so breath out this complaint.
+            Hast thou Terentia béene wondred at in Rome for despising
+loue, and wilt thou now doting gyrle stomble on
+desire, shall fancie eclipse all thy former glories▪ shall Vesta
+léese a virgin, and Venus winne a wanton? Wilt thou
+
+resemble the buddes of an Elder trée, which young are
+swéete and holesome, but blomd foorth are bitter and preiudiciall:
+thinke with thy selfe that Dianas shrubs are
+more pleasaunt, than Cupids bowers, the one harbours
+chast thoughts, the other amorous fancies. Truth, but
+Lucina is a goddesse, loue is diuine, and marriage honorable.
+Cedars are fayre, but in yéelding no fruite they
+purchase the lesse estéeme. To be a virgin is a glorious
+title, but to liue euer so, is to wrong nature in hir fauors.
+Well hast thou not then Terentia a noble gentleman of
+Rome, Lord Lentulus to bee thy husbande, a man whose
+youth is filled with honours and whose spring time 
+                  ••
+               orisheth
+dignities? hath he not triumpht ouer the Parthians
+in conquest &amp; boūd fortune to his temples with wreathes
+of victorie. Is not his parentage one of the greatest families
+in Rome? Is he not for beautie like the fayre Gréekes
+Paramour? For wisedome like wise Vlisses that Cyrces
+could not inchant? For courage Hector? Aud of such reuenewes
+as may maintaine thee with the most gorgeous
+dames of Italie? But the chiefe of his graces is he not
+enamored of Terentia and sues for hir fauour. This I
+confesse, Sed deteriora sequor. Loue ah that foolish passion
+which we tearme loue allowes nothing excellent but
+what it likes. It shadowed begarie in Crates. For Hipsycratea
+thought him rich in that he was vertuous: deformitie
+in Vulcan, for Venus would not beléeue hee had a
+poult foote. Loue hath no lacke, and lesse reason: yet must
+I loue, and whome, ah Tullie swéete Tullie, from whose
+mouth flows melodie, more inchaunting then the Syrens,
+on whose lips the muses make a newe Parnassus, in whose
+thoughts rest Platos diuine spirites, and in whose heade
+is contayned the subtil
+                  •
+                witte of Aristotle. Is not hee as
+glorious in Rome for his eloquence, as thou for thy beauties?
+Doth not the Senators wounder at his learning,
+as at thy perfection? Why should not then both our singularities
+be lincked in the vnion of Loue? why shoulde
+
+not Terentia liue to Tullie, and Tullie to Terentia? Ah but
+he is base, the first of his kyn that tasted of honour, I but
+he is vertuous and famous for his eloquence, graces that
+counteruaile the meanesse of his parentes. I sée loue hath
+reasons béeing out of reason still to argue against reason,
+therfore without further pro &amp; contra in mine owne passions,
+I wil loue Tullie, &amp; therfore thus to Lentulus. With
+that taking vp hir penne she wrote him this aunswere.
+            
+               
+                  Terentia to Lentulus health.
+                  WHen I red Lorde Lentulus thy letters and spied thy
+loues, I blusht at mine owne thoughtes, and sorrowed
+at thy fortunes. I serch not the cause of thy loue,
+for it sufficeth to me thou doest loue, if it lay in me either
+to graunt thy desire, or satisfie thy passions. Thy reasons
+are sufficient to moue, were it not my vowe and my destines
+direct my minde to contrary thy affections. Thy
+honours Lentulus knockes at the closet of my heart, thy
+victories sue for their lordes libertie, thy loyaltie enters
+pele mele with my thoughtes and giueth a sore assault to
+my setled resolutiō, all these put in their pleas to purchase
+fauour for young Lentulus. But Vesta hard harted Vesta
+that makes hir virgings pliant to hir owue properties,
+commaunds that I shut mine ears against such alluring
+Syrens. I count my selfe greatly honoured with the
+loue of so worthie a Romayne, and euer will Terentia co
+                     
+                        •
+                     et
+to prooue as thankfull as he affectionate; onely in loue
+pardon me, for that either I neuer meane to loue, or if I
+doe loue, my thoughtes were fixed before Lentulus came
+from Parthia. Wade not there where the ford hath no footing,
+barke not with the Wolues of Syria against the
+Moone, looke not to clim
+                        •
+                      
+                     Olimpus, way not at impossibilities,
+but pacifie that with patience which thou canst
+not obtaine with beeing passionate. If thou suest
+
+to my Father and he graunt to conclude a mariage, yet
+shalt thou want a bride, for I will first die before I violate
+my resolution. Séeke not then by my preiudice to
+aime at thy owne content, which be it euery way, yet it
+shall neuer be in my loue: not that I hate Lentulus, but
+that my fortunes forbides me to loue Lentulus. If thou
+thinkst these denials be but words of course, and perswadest
+thy selfe that women will bee first coy and then courteous
+as the marble that drops of raine do pierce. Thou
+shalt déepely deceiue thy selfe and highlie wrong me, but
+I challenge thy promise, that howsoeuer I fr
+                        •
+                     strate thy
+expectation thou wilt burie thy conceipte in silence. In
+which hope gréeuing that thy showers came in Autumne,
+I wish quiet to thy thoughts and an ende to thy loues.
+                  
+                     Thine euer but in loue Terentia.
+                  
+               
+            
+            
+               TErentia hauing thus ended hir letter and newe begun
+hir loues, the one directed to Lentulus the other deuoted
+to Tullie, she went straight to hir two friends Cornelia
+and Flauia shewing them the contentes of the letter.
+Cornelia saide she was too seuere and stoicall in sending
+such a peremptorie aunswere to so braue a gentleman.
+Flauia ouercharged with ioy praysed the resolution of Terentia,
+wishing that all maides were of hir minde, mis
+                  •
+               iking
+that which shée most loued, thinking by retreating
+Terentia from the chace, to be mistresse of the game hir
+selfe. Well this letter at last was sealed, and deliuered to
+Eutrapelus, who hying him fast to Tullies lodging founde
+Lentulus and him in secrete and serious discourse, and all
+god wot was about Terentia. Lentulus hauing receiued
+the letter entring with Tullie into his study read the contents.
+No sooner had he viewed &amp; reuiewed ouer hir cruell
+determination but in a great extas
+                  •
+               e of minde, he cried out
+(Dulcior est mors quam Amor.) And with that flinging
+
+out of his study he fell into bitter and extreame sorrows.
+Tully grieuing at his friendes harde fortune sought with
+plausible perswasions to appease his furious melancholy,
+wishing him whatsoeuer Terentia wrote stil to thinke hir
+a woman that would one while thrust out fancy with a
+finger, and straight interteine loue as a friend: that either
+time or his constancy woulde make hir stoope to the lure
+of his desires. Thus sought Tully to wrest him from his
+passions but in vaine, for hir resolution confirmde with
+such effectuall and perswasiue determinations so quatted
+the conceit of his former hope, that going passing melancholy
+to his bed, he fell into an extreame feuer, which aggrauated
+with the inward anguish of his minde grewe to
+be so dangerous that Asclapo the physit
+                  •
+               on excellent at
+that time for his facultie, iudged the disease 
+                  •
+               o be mortall.
+The Senatours hearing of Lentulus sickenesse sorrowed,
+as fearing Roome by death shoulde bee depriued of such
+high ensuing hope: his friends f
+                  •
+               ocked to his lodging to visite
+him, who noting, the heate of the ague, and the passions
+of his minde, his sodaine starts, his gash lookes, and
+his abrupt answeres, iudged the extremity of his sickenes
+had halfe brought him to a lunacy, all séeking by counsaile
+to cure that which neither counsail nor medicine could mitigate.
+Frustrate of their expectatiō they wished his weal
+and returned with grief. Only Tully whose setled friendship
+no misfortune could remooue, still day and night as a
+second Esculapius, wayted vpon this perplexed patient.
+But as the depth of his passion pierced into the center
+of his heart, so the feuer increased, that generally Roome
+began to sorrow so braue a warriour shoulde bee cut off in
+the very prime of his fortunes, insomuch that the report of
+his sickenes came to the eares of the thrée Ladies. Terentia
+made light account as hauing hir heart hardned with
+the loue of Cicero, but Flauia grewe passing passionate, as
+being toucht at the quicke with the weake disposition of
+Lentulus, wishing he might haue cure for his malady, so
+
+it were not by the meanes of Terentia: shée frequented the
+temples, offred orizons, made vowes and burnt incense to
+the gods, that they would be fauourable to hir louer Lentulus,
+coueting if possible it might be with the preiudice of
+hir selfe to haue profited him: but in vaine, Terentia was
+resolute, and he was resolued: as shée was dainty, so to die
+in disp
+                  •
+               ire. Flauia if hir modesty might haue permitted,
+would haue accompanied with other Ladies gone to
+his lodging, but the rights of Vesta forbidding such familiar
+conuersing, shée rather was restrained by force then
+withhelde by reason. But seeing shée coulde by no meanes
+come to his sight, yet to manifest the sincerity of hir loue,
+shée sent him a letter to this effect.
+            
+               
+                  Flauia to Lentulus health.
+                  IF I could (Lord Lentulus) pourtray with outward actions,
+the secrecy of my passions, or force as many teares
+from mine 
+                        •
+                     ies as there flie sighes from my heart: The anatomy
+of my thoughts would discouer a disquiet minde,
+and the source of mine eies a fountaine of bitter laments.
+But séeing that barrels the fuller they be the lesse sounde
+they yéeld: And where the current is déepest there the water
+is most still: and the minde surchargd with extreames,
+hath least vtterance of grief: I leaue you to suppose of my
+sorrowes which I cannot manifest. But know Lord Lentulus,
+that when the report of your sickenes came to the
+eares of your new intertained friends, Terentia sighed as
+pitying with a common passion the ill of hir countryman,
+but as one that might not relieue being intercepted with
+other loues. Cornelia chid, as holding your selfe in highest
+estéeme, alleaging reasons to hir that admitted no reasons,
+but hir owne loue which is without reason. My selfe
+sorrowed, as wishing desert shoulde haue his due, where
+the honour of the man merites no lesse: we perswaded in
+
+vaine, and in séeking to bring Terentia to the bay, we indeuoured
+to quench fire with swords. Seeing then your
+thoughts leuell at a wrong marke, and that no sutes can
+diuert hir from hir froward conceit, in careles extreames
+vse patience, wrestle with loue, beeing wrongd by loue:
+yéelde not to the arrest of Cupids mace, but as he is young
+so holde him a boy. Consider as Terentia is faire, so shée is
+cruel: and as shée is full of fauour, so shée is too too vnkinde.
+Fly not with Apollo after Daphnis: Dyana hath more
+nymphes as chast, and yet not so coy: vse loue my Lentulus
+as children doe puppies, which while they are pliant
+and gentle they cherish vp with crummes, but when they
+waxe churlish they beate away with stroakes. Thinke
+Roome is the mistresse of the worlde, and hath many faire
+dames, if not of such excellencie as Terentia yet are they
+more curteous, and no lesse vertuous. The curious Herbalists
+measure not the plants by their colours but by their
+properties: the Lapidaries make estimate of their stones
+not by their outward hue, but by the secrete vertues. Use
+then the auncient custome of Esculapius, let lillies wither
+on the stalke and weare violets in thy hand, the one faire
+and vnsauorie, the other blacke but of swéete verdure. Let
+these counsailes Lentulus confute thée, apply them not as
+outward plastures, but as inward potions: which if they
+profit, none shall be more glad then Flauia, who wisheth
+if shée might in this hard extreame to discouer the honour
+of hir thoughts, and the resolution of a friende: if ought
+rests in me that may pleasure Lentulus, commaunde it of
+Flauia, as one knowing Lentulus desires are wholy honorable.
+Thus praying thou maiest haue ease in thy passions
+through end of thy loues: I will offer sacrifice for thy
+health as shée that feares hir owne preiudice without thy
+recouery.
+                  
+                     Thine, Flauia of Roome.
+                  
+               
+            
+            
+               No sooner had Flauia ended hir letter, but shée sealed it
+and sent it away, and with as much spéede as might be, it
+was conueyed to Lentulus, who reading the superscription,
+and perceiuing it came from a woman, supposing it
+was sent from Terentia, started vp in his bed and rent open
+the s
+                  •
+               ales: when he had read the contents, and saw it
+came from Flauia, noting the extremity of hir loue by the
+plaine discouery of hir passions: he said to himselfe.
+            Uniust loue that settles thy delight in crossing with
+contraries. Some thou piercest with desire, other with
+disdaine: infusing sundry effectes in diuers affects. I couet
+Terentia and shée is cruell: Flauia fauours thée, and thou
+art tyed to other loues. What restes in these extreames
+but to curse fancy, that maketh such a confused chaos of
+hir follyes. Oppose then reason against affection, and admitte
+not of loues conclusions vnlesse they be approoued
+principles Thy thoughts are deuoted to Terentia, and shée
+onely vouchsafes thée the verdict of hir eares. Thou
+art more honourable then shée, of richer reuenewes then
+hir dowry can satisfie, hauing as many desertes as shée
+hath beauties: and yet coy dame as shée is, shée twits thée
+with Vesta when God wotte Venus is the goddesse that
+heareth hir orisons. If thou hast this insight into hir
+thoughts, why wrongs thou thy selfe with such carelesse
+passions? If shée be so 
+                  •
+               amage let hir fl
+                  •
+               e and séeke for a
+
+                  〈◊〉
+                that may prooue more gentle: Let hir glory like
+Narcissus in hir beauties: Loue can chastise if it be but
+with selfe loue. Use no phisicke Lentulus but the consideration
+of hir frowardnesse, Let the drugs of Apollo serue for
+others not for thée. Thrust out fancy by force, and setting
+Terentia at light esteeme, make choice of Flauia: Though
+
+                  〈◊〉
+                be not so beautifull, yet shée is second to hir in graces,
+and farre beyo
+                  •
+               d hir in curtesies. Tie not thy selfe Lentulus
+so strick
+                  •
+               ly to a wo
+                  •
+               ans face, beauty is but times
+flower, that as it is delicate so it s
+                  ••
+               e withereth: Like the
+colours that Phidias drew in his pictures, which shewing
+
+most glorious to the eye was yet blemisht with euery
+breath. Venus was faire and wanton: Helen the myracle
+of Greece, but aske Troy of hir qualities. Ah but Terentia
+is as chast as shée is bautifull. So is Flauia to, and farre
+more louing. Hir byrth is of higher discent, hir wealth
+more, hir virtues no lesse: but hir loue such as may challenge
+thy affection for debt. Ah but Lentulus yet Terentia
+hir excellency is more then can be shaken off with so slight
+reasons: and with that he shrunke downe into his bedde,
+falling to his olde complaints: yet did this letter of Flauia
+somewhat comfort him, that he found it his best physicke.
+But leauing him in his bed, againe to Terentia who felt
+the disquiet of hir minde as restlesse. For the Senatours
+daily repairing to hir fathers house, had no other table
+talke but of the eloquence of Tully, some commending his
+witte, other his study, some his vertues, but all his special
+gifts of nature, that they put oyle into the flame: and with
+these prayses so sette on fire Terentias fancy, as nothing
+tumbled in hir thoughtes but the excellency of Cicero: being
+so impatient as shée sought by all meanes possible to
+come to his sight, and to féede hir eye with that wherwith
+shée had inchanted hir eares, finding no ready way to attaine
+the ende of hir desires, vntill loue that like Mercury
+is full of shifts and subtlety, deuised this plot. Tully being
+borne in a little village adioyning vnto Roome called Arpinatum,
+vsed often to make his intercourse betwéene the
+towne and the citie for his pleasure: Which Terentia hauing
+learned out, thought this the fittest meanes to haue
+a sight of hir Cicero. So that one day to take the aire accompanied
+with hir two friends Flauia and Cornelia, hauing
+but a page to attend vpon them, shée walked abroad
+into the fields. Passing thus in merry chatte towards Arpinatum,
+hauing some glances at the sicknes of Lentulus,
+they had not walked aboue a mile before Flauia spied Tullie
+comming from Arpinatum to Roome. Assoone as shée
+had discried him, and for certainety knew that it was he,
+
+yonder quoth shée comes that odde man of Roome, that
+excellent Orator Marcus Tullius Cicero, so highly renowmed
+through all our prouinces for his eloquence, now shal
+we heare from Lentulus, for they are the most familiar
+friends and priuate companions in Roome. Terentia at
+
+                  〈◊〉
+                as one wakened out of a dreame gaue a start, and casting
+vp hir eye espied the Paramour of hir thoughtes,
+which driue hir into such an extasie, that surcharged with
+ouer much ioy shee felt an vnacquainted trembling in hir
+
+                  〈◊〉
+               . Being thus perplexed Tully drawing nye, and séeing
+Terentia accompanied with his f
+                  •
+               iende Flauia, gaue
+
+                  〈◊〉
+                to oportunity that shee had so highly fauoured his
+
+                  〈◊〉
+                
+               Lentulus, as that he might now plead for his safety.
+Tully thus incountring those three Romaine damosels
+a
+                  •
+               ter a curteous Salue which made Terentia blush, he began
+thus to board them.
+            The place swéete Romaines so aptly agréeing to the
+person, this valley resembling Idas, and Rome Troy, I
+cannot but bash with Paris at the sight of thrée such god
+               
+                  •••
+               ses,
+whose deitie surpassed those which iudicially y• shepharde
+suruaied with his eye: Humbly therefore saluting
+you as Dianas darlings and beauties woonder, séeing so
+small a trayne for such excellent personages, although my
+affaires be serious and of importaunce, yet please it you
+to vouche of my seruice, I will attende on your walkes
+and conduct you safe to Rome. Terentia féeding hir eyes
+on the swéete of Tullies face, and swilling downe the nectar
+of his diuine eloquence, stayning hir chéekes with
+such a die, as did the fayre quéene of Cartharge courted
+by Aeneas, she made him this aunswere.
+            Howe you make compare Cicero of this valley with
+the plaines of Troy as little skilled in Geographie or red
+in Homers Iliads I leaue without replie. For y• goddesse
+                  •
+               
+that Paris incountred we are equall with them in nū
+               
+               
+                  •
+               er
+though far inferiour to them in beautie. For your seruice
+we accept it, and for your wages you shall haue gracions
+
+lookes and hartie thankes. Séeing therefore wee are
+merilie minded, supposing your selfe to be the shéepeharde
+which of vs shall be your Venus? Not you madam quoth
+Tullie aboue all the rest: And why so quoth Terentia? because
+quoth Tullie the least 
+                  •
+               lie hath his spleane the smallest
+ant her gall, no haire so little but he hath his shadowe,
+and no man so meane but he hath his enuie: Why then
+quoth Terentia I will discarde you from the office of Paris
+as a man partiall. But I pray thée Cicero wherein
+shoulde I offende thée hauing neuer séene thée before? In
+this quoth hée that Lentulus hath séene you: with that she
+blusht, and Flauia and Cornelia fell into a great laughter,
+that Tullie had so roughly crost hir ouer the thumbs.
+Tullie prosecuting his purpose went forwarde thus. For
+knowe madam that Lentulus the richest Trophee that
+fortune settes vp in the Theator of honour made shipwracke
+of his libertie for the report of your beautie, leauing
+the wars and the great hope of his fortunes to haue
+a sight of Terentia, who vnkinde not like Venus in curtesie,
+though in fauours; haue counterpoysde his fancie
+with mis
+                  •
+               ike, and for the honie of his amorous thoughts
+haue powred him downe heapes of bitter and displeasing
+gall. The crueltie of Cresida neuer amated so the hardy
+Troilus as the frowne of Terentia hath pierst Lentulus,
+making so déepe a wound as no phisicke can cure onely
+your swéete selfe, whose resolutions are so farre from the
+properties of your face, as it séemes the gods wrongd nature
+in placing an adamant heart within a christall couerture.
+The Ladies hearing Tully so sharpe, bitte the lip
+and Terentia grieued: angry shée coulde not be as one that
+was ouer the shooes in affection, but thus shee cutte him
+off.
+            I cannot iudge Cicero by your sharpe and peremptory
+inuectiues vpon so small acquaintance, but you professe
+your selfe a Cinicke. If your philosophy be such, I will
+br
+                  ••
+               k the blowes as wel as Alexander, &amp; think nothing ill
+
+that is spoken from Diogenes. Howsoeuer or whatsoeuer
+Cynicke or stoicke, I argue thus against Lentulus, that
+vowes made to Vesta are to be holden inuiolated, and resolutions
+to liue a virgine are not to be broken with marriage.
+Cornelia and Flauia hearing them thus farre in by
+the eares, walked a little aside and left Tully to schoole Terentia:
+who maintained hir arguments thus. Suppose
+Tully it were not chast thoughts but newe loues that forced
+me to this refusal: haue not trées their strings &amp; womē
+their fancies and affections? If his autum showers comming
+too late cause not his crops to proue, what is that to
+me? Loue consisteth in vnity: the heart hath but one
+string, the heauen one sunne, and the Iris one property,
+and women but one loue: and that I tell thée Tully, is placed
+on one that is as famous for his vertues as Lentulus
+for his wealth and dignities. And what then can I giue,
+or he rightly challenge? Tully although hee conceiued in
+his thoughtes that Terentia yéelded great reason, yet hée
+would not giue ouer the chase so, but made this reply. Ah
+but madame haue an insight into the depth of his affections,
+howe he aimes not at your treasures hoping to be inriched
+by your great dowry, For Lentulus is of the welthiest
+family in Roome: but leuels at your vertues, the
+syrens against whom he could not vse Vlisses pollicy. If
+affections be but a little past, if loue hath but drawne one
+line in your thoughts with his pensell: wrastle with fansie,
+blot out loues shadowes, and helpe Lentulus: who if
+you remaine so cruell shall be no more Lentulus. If he dye
+for loue, how shall the stréetes swarme with statues of his
+constancy? If you be knowen the chiefe actor of the tragedy,
+how will the people murmure of your cruelty? Weigh
+this madame, I speake as a familiar of Lentulus, and no
+enemy to Terentias honour. If he be a Romaine that Terentia
+loues, let him either be more honourable, more valiant,
+more affable, more excellent euery way then Lentulus,
+nay more louing then the poore gentleman, or else discarde
+
+him for a man insufficient either to tast of Terentias
+beauty, or to be corriual with Lentulus in his loues. Terentia
+had yéelded at this fierce assault, had not loue laide
+an instance before hir of hir resolution. For the more Tully
+pleaded for his friend, the more was Terentia enamoured:
+so that shée made him this answere.
+            If I knewe howe to certifie Lentulus of this dayes discourse,
+he should highly reward you for playing so wel the
+Orator. But I maruaile Cicero that being young, and of
+such eloquence, we heare not of your loues: I feare you
+reach so hye, that you thinke no maides in Roome honorable
+inough for your paramour. Were I a man and had
+Tullies grace, and his tongue, I would plead for my selfe:
+and vse one word for my friend, and two for my selfe. So
+madame (quoth he) shoulde men account mee a faithlesse
+friend, and a flattering louer. But leauing these suppositions
+madam, how answere you my last reason? With loue
+quoth shée and that is without reason, for how might the
+gentleman to whom I finde my selfe affectionate, thinke
+himselfe wrongd if without cause I should be inconstant.
+Graunt I my loue to the meanest citizen, a monarch shall
+not make conquest of my thoughts. Suppose syr it were
+your selfe, and that Terentia loued Tully, coulde you brooke
+an other to braue you in your affections. I would madame
+quoth Tully if it were no supposition. And how then quoth
+Terentia if it were not? Then would I quoth hee become
+Esculapius to Lentulus, and sweare his disease shoulde not
+be incurable, for I woulde coniure you by the rightes of
+loue, by the sacred lawes of Venus, and by the affection
+that were imprinted in your thoughtes, to bestowe what
+y
+                  •
+               u would impart vpon me to my only ioy Lord Lentulus.
+But women cannot make loue voluntary. Tush madame
+what cannot women doe for loue? Any thing quoth Terentia
+but change loue. Therefore concealing the party that
+I loue, I will say and sweare Tully is my loue, and so say
+to Lentulus. With this Terentia blusht, and for very griefe
+
+that Tully woulde not sée into hir thoughtes the teares
+stoode in hir eies: which Tully spying, it so prickt him to the
+heart, that it neuer after was rased out. To smooth therefore
+his rough methode with a fewe fine filed phrases, hee
+salued the matter thus. It is madame impossible to driue
+fire downeward, or to make heauy things to mount: Nature
+will not bee wrongd, nor loue drawne out by constraint,
+therfore I will leaue any more at this time to sue
+for Lentulus: hoping the consideration of his martirdome
+will at length make battery into the bulwarke of your
+breast, &amp; whereas you will sweare Tully is your l
+                  •
+               ue: you
+knowe madame we haue in ou
+                  •
+                twelue tables a lawe against
+periury, but if you vouch to grace me that title, in
+all duty I wil rest your euer bounden seruant. Why then
+seruant quoth shée, let vs to yonder two Ladies, that for
+want of a companion are faine to make an amarous
+knight of my page. Flauia séeing they were halfe agréed,
+
+                  •
+               earing Tully by his eloquence had perswaded Terentia,
+waxed pale and incountred them thus. What news quoth
+shée, doth Lentulus winne or loose? Neither madame quoth
+Tully but his cause hanges still in suspence, the next court
+day I will end my oration, and then the Iudge shall giue
+verdict. As they were ready to haue gone forward in some
+pleasant prattle they espied a horseman making towards
+them with the greatest spéede that might bee. When he
+came within ken, Tully knew it to be Lentulus man, and
+before he had leysure to do his message, he demanded how
+his master did: passing sicke syr quoth hee, and hath sent
+that you be with him presently. Tully who was toucht at
+the quicke with this newes, put foote in the stirrop and
+mounted, yet as one forgetting himselfe hee vsed these
+words. Pardon Ladies, if I passe manners and promise,
+in leaping vp without leaue, and returning in such post
+without your company: It is for Lentulus whom you all
+loue, and therefore I hope to rest blamelesse. Now madam
+Terentia what shall I say to Lentulus? No more quoth shée
+
+then what I saide to Tullie, but how concludes Tullie of
+his last premisses? that quoth hee, Terentia shall frame
+the argument, and so with this darke Aenigma he tooke
+leaue of the Ladies: who after his departure fell in talke
+of his perfections. Terentia so déepely praysing the man
+that hir companions easilie perceiued hir loues, &amp; smilde
+that in forsaking a flower shée light vpon a wéede. Well
+tracing still amongst the medows they chanced into a valley
+most curiouslie decked with Floras delicates, in which
+were such varietie of flowers, that nature séemed there
+to haue planted the storehouse of hir prodigalitie. Adioyning
+to this valley was a pleasaunt riuer and a groue
+that gaue a grace to Cloris excellencie: delighted with the
+scituation of this place, as they passed along they met
+                  •
+               e
+a shéepheard, who doing reuerence to the dames: Terentia
+demaunded of this swaine what the name of this pleasaunt
+place was. Madam quoth he we shéepehardes here
+call it the vale of Loue, And why so quoth Cornelia? Although
+madam quoth he my flocke hath no guide but my
+dog, and now in yeaning time the wolues are verie busie,
+yet for that I see you are Senators daughters, and with
+all passing courteous I will shew the reason, and with
+that leaning on his staffe the Ladies sitting downe he began
+thus.
+            
+               
+                  
+                     
+                        The Sheepheardes tale.
+                        NOt many yeares since here in Arpynatū
+                            dwelt a shepherdise
+called Phillis, so famous for hir beauty that the
+Senators sonnes which you cal Pretextati not only came
+to féed their eyes with hir fauours but to satifie their fancies
+with hir loues: in so much that she was courted of
+manie braue Romaine Gentlemen. But shee that helde
+loue at the staffes end, although hir parentes had left hir
+rich, yet to banishe Cupid with labour she vouchsaft to be
+
+kéeper of hir owne flockes, fearing the pride of the beautie
+(if s
+                              •
+                           e should marrie with one of Rome) would proue an
+enimie to hir humble thoughtes: Liuing as chast as shée
+was inrouled for a Vestall, and quoted by Diana for one
+of hir speciall followers, hir excellencie was bruted abroad
+through all Italie. But shee who feared to gase at
+starres, for stumbling at stones laide hir thoughtes lowe
+and made choice of hir companie with countrie maydes,
+and homely shepehards: yet was hir attire rich as diuers
+that traueled this way tooke hir rather for a Nymphe the
+follower of some goddesse, then a maide and daughter of a
+poore swaine. While thus she liued ladie of the field, there
+was in the same village one Coridon, sonne to a simple
+shéepeharde who as a Mercinarie man kept shéepe for Vatinius
+the Senator, that hath a Farme hard by. This Coridon
+was a man of a pe
+                              •
+                           fect perfection his haire hung in
+tresses and his face was beautifull, wise hee was and
+wanted nothing but wealth to make him the chiefe of all
+the shéepehardes, being of equal yeares almost with Phill
+                                 ••
+                              
+                           
+in some two yeres elder, he fell extréemely in loue with
+Phillis Enamored was poore Coridon and pensiue by his
+flocke sat ruminating of his passions he smothred his loue
+in silence for that he was meanest of the swaines and she
+mistresse of vs all. He sat and sighed and had none but echo
+to pitie his plaintes his flocke left their foode to sée their
+
+                              〈◊〉
+                            sorrowe his pipe ceast, the fol
+                              •
+                           es were neuer
+
+                              ••
+                           re partaker of his melodie, and all these thoughts and
+
+                              ••
+                           res for Phillis. Shée wilie and spying this wanton dal
+                           
+                              •••
+                           
+in the flame, looked narrowly into the perfection of the
+man whom she found worthie of loue, if his parentes had
+not bene too meane and his wealth none at all, suppres
+                              •
+                           ing
+this loue with lack
+                              •
+                            and quenching the fire with the defe
+                              •••
+                           s
+she founde in Coridon. But Cupid that could not
+b
+                              •
+                           ooke such exceptions pittying the passions of the poore
+sheepharde, pulled foorth an inuenomed b
+                              •
+                           ult and pierst
+Phillis so déepe that Coridon began to bee maister of hir
+
+thoughts, now shée praisd his beautie, his behauiour, his
+wit, his gestures, 
+                              •
+                           o that nothing was amisse in Coridon.
+If he pipt, Apollo was not like hir Pan, if hee sung hys
+voyce was without compare, if he tolde tales they were
+excellent, if put foorth riddles they were wittie. Coridon
+was the shéepehard that Phillis did fancie, and no flockes
+might grase by hirs but those of Coridon. This mistris
+can loue do, who thought he be choisly honoured in Rome,
+yet he finds some idle time to dallie amongst shéepehards.
+Well at last Coridon spyed Phillis lookes and got some
+hope of fauour, first hee courted with his eyes, and after
+natures law fell to prattle with interchange of glaunces,
+after from lookes to wordes, which after their homely fashion
+was verie faithfully performed with sighs &amp; teares,
+such perswasions as shéepehardes vse. Long had they
+not wooed, but Phillis was willing and she was won, that
+after faith and troth as soone as the shéepehards coulde
+come together a feast was made we kept holiday and they
+were married, and because these louers made this place
+the concealer of their passions the shéepehardes for perpetuall
+memorie of Phillis and Coridon call this the vale of
+Loue, and in praise thereof we countrie shéephards made
+an Ode, which if it please you to stay I will rehearse. The
+Ladies passing willing, thus the shephearde gan report.
+                        
+                           The Sheepeherds Ode.
+                           WAlking in a valley greene,
+                           Spred with Flora summer queene:
+                           Where shee heaping all hir graces,
+                           Niggard seemd in other places.
+                           Spring it was and here did spring,
+                           All that nature forth can bring:
+                           Groues of pleasant trees there grow,
+                           Which fruit and shadowe could bestow.
+                           
+                              Thick leaued boughes small birds couer,
+                           Till sweete notes themselues discouer:
+                           Tunes for number seemed confounded,
+                           Whilst their mixtures musicke sounded.
+                           Greeing well, yet not agreed,
+                           That one the other should exceede.
+                           A sweete streame here silent glides,
+                           Whose cleare water no fish hides.
+                           Slow it runs which well bewraid,
+                           The pleasant shore the current staid:
+                           In this streame a rocke was planted,
+                           Where nor art nor nature wanted.
+                           Each thing so did other grace,
+                           As all places may giue place.
+                           Onely this the place of pleasure,
+                           Where is heaped natures treasure.
+                           Here mine eyes with woonder staide.
+                           Eies amasd and minde afraide:
+                           Rauisht with what was beheld,
+                           From departing were withheld.
+                           Musing then with sound aduise,
+                           On this earthly paradise:
+                           Sitting by the riuer side,
+                           Louely Phillis was discride;
+                           Golde hir haire, bright hir eyen,
+                           Like to Phoebus in his shine.
+                           White hir brow, hir face was faire,
+                           Amber breath perfumde the aire.
+                           Rose and Lilly both did seeke,
+                           To shew their glories on hir cheeke.
+                           Loue did nestle in hir lookes,
+                           Baiting there his sharpest hookes.
+                           Such a Phillis nere was seene,
+                           More beautifull then Loues Queene,
+                           Doubt it was whose greater grace,
+                           Phillis beauty or the place.
+                           
+                              Hir coate was of scarlet red,
+                           All in pleates a mantle spred:
+                           Fringd with gold, a wreath of bowes,
+                           To check the sunne from hir browes.
+                           In hir hand a shepheards hooke,
+                           In hir face Dianas looke:
+                           Hir sheepe grased on the plaines,
+                           Shee had stolne from the swaines.
+                           Vnder a coole silent shade,
+                           By the streames shee garlands made.
+                           Thus sate Phillis all alone,
+                           Mist shee was by Coridon
+                           Chiefest swaine of all the rest,
+                           Louely Phillis like him best.
+                           His face was like Phoebus loue,
+                           His necke white as Venus Doue,
+                           A ruddy cheeke filde with smiles,
+                           Such loue hath when he beguiles.
+                           His locks browne, his eies were gray,
+                           Like Titan in a sommer day.
+                           A russet Iacket sleeues red,
+                           A blew bonnet on his hed:
+                           A cloake of gray fencst the raine,
+                           Thus tyred was this louely swaine.
+                           A shepheards hooke his dog tide,
+                           Bag and bottle by his side:
+                           Such was Paris shepheards say,
+                           When with Oenone he did play.
+                           From his flocke straid Coridon,
+                           Spying Phillis all alone:
+                           By the streame he Phillis spide,
+                           Brauer then was Floras pride.
+                           Downe the valley gan he tracke,
+                           Stole behinde his true loues backe:
+                           The sunne shone and shadow made,
+                           Phillis rose and was afraid.
+                           
+                              When shee saw hit louer there,
+                           Smile shee did and left hir feare:
+                           Cupid that disdaine doth loth,
+                           With desire strake them both.
+                           The swaine did wooe shee was nise,
+                           Following fashion nayed him twise:
+                           Much adooe he kist hir then,
+                           Maidens blush when they kisse men:
+                           So did Phillis at that stowre.
+                           Hir face was like the rose flowre.
+                           Last they greed for loue would so,
+                           Faith and troth they would no mo.
+                           For shepheards euer held it sin,
+                           To false the loue they liued in.
+                           The swaine gaue a girdle red,
+                           Shee set garlands on his hed.
+                           Gifts were giuen they kisse againe,
+                           Both did smile for both were faine.
+                           Thus was loue mongst shepheards solde,
+                           When fancy knew not what was golde:
+                           They woed &amp; vowed, &amp; that they keep,
+                           And goe contented to their sheep.
+                        
+                        The ende of the shepheards Ode.
+                     
+                  
+               
+            
+            ASsoone as the shepeharde repeated his Ode, Terentia
+delighted with the description of the pastorall loue for
+that it touched hir passions gaue him heartie thankes
+and so the swaine tooke his leaue and departed. Terentia
+and the rest hereupon growing into the effectes of loue
+that kéepes no proportion of persons, wandring on
+talking towardes the groue. And for that the sun
+                  •
+               e
+grewe hote and was risen to the highest zenith of the heauens,
+seeking for shelter they went into the groue which
+was seated hard by the pleasant current, finding out there
+
+a place conuenient, these thrée Ladies 
+                  •
+               it them downe vpon
+the grasse, where delighted with the melodie of the
+birdes, and the c
+                  ••
+               lenesse of the shade they fell a sléepe.
+Then liued in Rome Vatinus y• Senator which was one
+of the most wealthie in possessions of any that had béene
+consull in the Citie, fauoured euery way by fortune, had
+he not beene thwarted by one gréeuous &amp; dolefull misfortune.
+For this Vatinius amongst manie children had his
+eldest sonne as first in byrth, so brauest in proportion, of
+such exquisite lyneaments touching the outwarde shape,
+as nature séemed to haue béene curious in hir workmanshippe:
+but otherwise hee was so foolish and of clownish
+capacitie that there was no hope of his future conceipt,
+his name was after his father Vatinius. But for because
+neither by the diligence of anie maister, nor the flattery of
+his friendes, correction, or anie other industrie he coulde
+bee made capable of learning or ciuilitie, vsing fashions
+and woordes from a harshe and grosse voyce, reresembling
+rather a bruite beast then a reasonable creature,
+he was in derision called of euery man Fabius the
+Foole. Vatinius gréeuing that the gods had offered him
+this wronge for that the presence of Fabius was the continuall
+source of his sorrowes, hée commanded that hee
+shoulde goe to his Farme, and there liue amongst his
+shepheards. This was no little content to Fabius as one
+that delighted more in the nature of Clownes and bondslaues
+then in the courtly behauior of libertines &amp; gentlemen.
+Fabius thus being in the countrie applying himselfe
+to all principles of husbandrie, one day amongst the rest
+walked foorth with a great batte on his necke to ouer-sée
+his fathers pastures, at last for y• the Sunne was hie and
+shone hote, he went into the groue then all ouerclad with
+leaues, for it was far spring, and féeling a place wherein
+at pleasure to rest himselfe, hee stumbled by fortune on
+the fount where Terentia lay a sléepe, who when Fabius
+espied being clad in a robe of Bisse so thinne as the whitenes
+
+of hir skinne did appeare, hauing hir two companions
+by hir side, he began as one amazed to beholde. Leaning
+therefore on his great batte without vttring one worde,
+he stood in great admiration what she should be, as though
+he had neuer séene so braue a creature before. Nowe entring
+into his rusticall and blunt vnderstanding (where
+neuer before could be ingrauen any impression of honest
+ciuilitie a thought of fancie which made him confesse in
+his grosse and materiall spirits that this mayde was the
+
+                  •
+               airest thing y• euer could be censured by sight. In this humour
+he began to descant of hir seuerall beauties, praysing
+hir hayre to be of gold, hir forehead of Iuorie, hir lips
+
+                  •
+               oral, &amp; aboue all hir two breasts which then began to appeare
+like pretie tender buddes, in such simple sort so distinguishing
+of hir fauours that from a grosse clowne hee
+became to be a Iudge of Beautie: especially coueting to
+sée hir eyes which heauie sléepe had shut vp, determining
+often to haue waked hir to haue contented himselfe with
+their sight. But séeing hir more faire then any creature
+that before he had séene, he thought hir to bee some Goddesse.
+Hauing thus farre knowledge that things deuine
+should be reuerenced more then humaine, and therefore
+durst not attempe to wake hir, but (although shée had a
+sounde and long sléepe) tooke such pleasure in contemplating
+hir perfections that he would by no delay depart. At
+last after a longe space Terentia awaked before any of
+the rest, lifting vp hir drowsie eyes shee sawe before hir
+Fabius leaning vpon his staffe, whereof béeing halfe amazed
+shée asked of him. Fabius, what séekest thou here in
+this groue? Fabius who as well by his countenance as
+clemencie and for the nobilitie of his house, as the riches
+of his father, was generally knowne of all the Romains,
+made no answere to Terentia: but séeng hir eyes open he
+began to looke stedfastly vpon them féeling a pleasing content
+to issu
+                  •
+                from those Lampes which sparkle as the verie
+flames of loue: insomuch that Terentia séeing him gase
+
+so earnestly fearing the sturdie clowne might offer hir
+some violence wakened hir companions and starting vp
+said Fabius farwell. To whome Fabius made aunswere
+I will goe with you. And although Terentia refused as
+being surprised with great fear of his rustical disposition,
+yet he would not forsake hir till he had brought hir to hir
+Fathers house, where bluntly leauing the Ladie he went
+home to his Fathers; saying hee woulde not returne ani
+                  •
+               
+more into the countrie. Although it gréeued his Father to
+haue his sorrowe cōtinually before his eies, yet wondring
+what ye occasiō of this strange motiō should mean, he was
+content to let him remaine at home in the Citie. Loues
+arrowes thus piercing into the heart of Fabius whereinto
+neuer before any ciuill thought could enter, made such
+a Metamorphosis of his minde that not onely his Fath
+                  •
+               r
+&amp; friends, but all Roome began to woonder at his sodaine
+alteration: for he required to be apparelled as the sonne
+of a Senator which his father with all diligence performed,
+then frequenting the most courteous and honest
+young Gentlemen of the Citie, especially such as were
+amorous, he to the great astonishig of all not onely learned
+his letters, but became verie studious, grew to haue
+déepe insight into philosophie, to be skilfull in musicke, to
+ride a horse and to be expert in all gentle and manlike actiuitie,
+to conclude in short space he was one of the brauest
+young men of Rome.
+            
+            Here by the way courteous Ladies and braue gentlemen
+what shal I say of the transformatiō of Fabius? onely
+in my opiniō this: That y• high vertues of the heauens
+infused into his noble brest were imprisoned by y• enuious
+wrath of Fortune within some narrowe corner of his
+heart, whose bandes went a sunder by loue, as a Lord to
+mightie for fortune. Cupid the raiser vp of sléepy thoughts
+dispersed those vertues into euery part of his mind obscured
+before with the eclipse of base thoughts. Let vs then
+think of loue as of the most purest passion that is inserted
+
+into the heart of man. Well, leauing Fabius studious how
+to excell in all laudable vertues, againe to Tullie, who arriued
+in post haste to the lodging of Lentulus and founde
+him passing sicke, yet somewhat comforted at the sight of
+Cicero, as of him y• he held most déere in the world. Tullie
+séeing him so ill &amp; full of passiōs durst not tel him y• he had
+seene Terentia least hir froward answere should augment
+his miserie, concealing therfore his chat y• he had with y•
+Ladies, at last Lentulus shewed him the letter of Flauia:
+whereupon they fell to discourse of hir beauties and vertues,
+howe she was not much inferiour to Terentia in fauour,
+but farre beyond hir in honours, discoursing so long
+from point to point that after a vole of broken sighes tempered
+with some teares hée fell a sléepe. Tullie glade that
+he tooke a nappe stole softly out of the Chamber, and being
+by himselfe calling to minde the words of Terentia began
+to enter into this combate with himselfe.
+            So pliant are the aspectes of the foreappointing stars
+in some mens natiuitie as they force fortune mauger hir
+owne variable nature to bee constant. Amongst all that
+haue béene borne in the poore village of Arpinatum, thou
+maist Tullie say that thy planets haue béene pleasing, and
+thy desires fauorable, who the son of a poore Fermour art
+in hope to make thy house equal with the most in Roome.
+Measure but thy honour and Iudge of thy fortunes: thy
+family base, yet art thou companion with Senators and
+men of grauest account in the Citie. Honour treades on
+thy héele and dignitie daunceth attendance at thy lookes:
+but loue Cicero, that deitie, that diuine essence that sealeth
+vp content in al estates he stoopeth at thy frown, presentes
+thée wreaths of myrtle that thou maist enter into
+Paphos without checke. Terentia the wonder of Rome,
+Natures Paragon, the refined beautie of the heauens, she
+that seemeth to glaunce on the Pretextati: she that makes
+no account of the miracle of our time, Lord Lentulus: shée
+Cicero commaunded by loue, yéelds hir selfe captiue to the
+
+sonne of a poore country villager in Arpinatum. Then Tullie
+strew Venus temple with roses, say there is no fount
+but Alcydalion: no hill but Erecinus: no bird but the doue:
+no god but Cupid. Loose not oportunity, take hir by the
+foreheade, let not slip occasion, for shée glydes away like a
+shadow, nor loue, for she hangs at the héeles at time. Nowe
+Terentia hath put the iron in the fire, strike then while it
+is hot, pay hir downe poundes of loue for drams of fancy,
+for in matching wt the daughter of a senator, think it presageth
+thou shalt be a Senator: so shalt thou gaine at one
+time honour, dignity, wealth, and beauty; but with that
+loose thy faith Tully, thy faith thou hast vowed to Lentulus,
+who shuts vp his secretes in thy heart, and resteth his
+thoughts on thy bosome. Wilt thou preferre honour before
+thy friend, or wealth before conscience. Ah Tully if thou be
+the man y• 
+               Roome woondreth at for thy eloquence, be also
+the man that they shall canonize for thy vertues. Beauty
+is but a bauins blaze, wealth is but a fickle fauour of
+fortune, dignity is haunted by enuy: but friendship that
+is the pretious treasure that neither time nor fortune
+can violate. Why but Terentia will neuer loue Lentulus,
+then Tully hate thou euer Terentia. I am
+a man and subiect vnto loue as well as Lentulus: So art
+thou a man and being false to thy friend art vnworthy all
+loue. Abandon Tully these vaine imaginations, 
+                  •
+               ount Terentia
+foule, deformed, vitious and what not, as long as
+one sparke of loue lieth rakt vp in the cynders of thy
+thoughts: and as long as Lentulus loues hir, hate hir for
+thy self, and 
+                  •
+               oue hir for Lentulus. Setting downe his rest
+at this period, he went into the chamber to sée if Lentulus
+were awake, but finding him still fast a sléepe, he went towards
+the Capitoll, where he met with Flaminius the father
+of Terentia who demaunded very heartily how Lentulus
+did. Cicero with a déepe sigh said passing sick. Wherof
+quoth Flaminius grows the disease, I heard that Asclapo
+iudgeth his sickenes to be mortall. Tully thinking to set
+all on the dice, not respecting his owne loue but his faith
+
+to his friend, began thus. Graue Senator, I néede not rehearse
+Lentulus byrth, as beeing a citizen, nor his reuenewes,
+his possessions long knowne to euery man, nor his
+honours ended in victories, for the Parthians are sufficient
+euidence of his well discharged dignities and valour. Lentulus
+graced in the prime of his youth with these fauours,
+hearing of the beauty of a Romaine Lady, left the warres
+and came to Roome, where courting his mistresse not
+with wanton poemes, but with tearmes of marriage: hee
+f
+                  •
+               und hir froward, and his loue dasht in the prime. The
+impression of hir beauty grauen with too déepe a caracter
+was too fast rooted in his heart to be thrust out with deniall:
+yet Lentulus to content hir, plaies like the phenix,
+burnes in his owne parfumes, rather wishing to die then
+to contrary hir resolution. This is the cause that first
+brought Lentulus to his bedde, and this ere long will bring
+him to his graue. And who may it be quoth Flaminius, of
+what family, of what beauty, of what degrée, that can
+or dare deny Lorde Lentulus? Is he not mighty and may
+commaund by force, what he cannot obtaine by intreaty?
+will not the souldiers at his becke rise in armes? Feare not
+the Consuls themselues to wrong Lentulus? Doth not all
+Roome hang their thoughts at his lookes? Ah miserable
+father that harbours such a daughter, and stubborne huswife
+that denies so braue a Romaine. In friendship Tully
+tell me who it is. Cicero willing to put a spurre to a frée
+horse, and to loose his owne content to winne his friendes
+quiet, told him flatly it was his daughter Terentia: and for
+proofe he shewed him the letters that past betwixt Lentulus
+and hir. Assoone as hir father had read the contents, as
+a man half mad he fel into furious and frantick tearmes,
+exclaiming against the headstrong humour of foolish Terentia.
+After he had breathd out the heat of his choller, he
+fell to be somewhat appeased, and bad Tully home to supper,
+promising all shoulde sort according vnto Lentulus
+minde. With that departing from the Capitoll, Tully and
+
+he went home to his house, where the Cooke being somewhat
+slacke: Flaminius hearing his daughter was all alone
+in the garden, he wished Tully to try hir once againe,
+and to perswade hir by all possible means to graunt to the
+request of Lentulus. Upon this Tully went into the garden
+where finding Terentia sitting solitary in an arbour vp to
+the hard eares in a dumpe, he wakened hir out of hir muse
+thus. Vestas chiefe paragon, and Venus newe interteined
+darling, you madam Terentia I meane, that sit in a muse:
+are you offring orisons to Diana for your chastity, or
+thanks to Cupid for your loues: or what are you thinking
+on when you thinke on nothing? Terentia turning hir
+head and séeing Tully all alone, blusht more then Cynthia
+did when shée wantond it with hir faire faced shepheard,
+yet welcomming hir loue with a smile, shée tooke him by
+the hand and made him this answere.
+            Your subtile salutation concluding Vesta and Venus in
+one Dilemma commands me answere that I was dooing
+my deuotion to both, offring prayers for my olde thoughts
+&amp; thanks for my newe loues: &amp; scarce had I saide gramercy
+to the goddesse, but you must come Cicero to make my
+thanks prodigious: for my thinking when I thought of
+nothing it was of mens loues which are lighter then the
+flame, and sooner faded then a flash of lightning: But I
+pray you say what winde hath driuen you into this coast.
+            Marry madame the very sighes that fly from Lentulus
+breast grewe to so great a storme that I was blowne
+hither to séeke shelter for the tempest. You haue nothing
+quoth Terentia but Lentulus in your mouth: I pray you say
+how fares the gentleman? Ill madame quoth Tully euery
+way, for his dyet is badde in that his stomacke is nought,
+and his health is doubtfull in that his thoughtes are disquiet:
+and madame it rests in you to saue so honourable a
+gentleman not onely from sickenes but from sorrowe: Aeneas
+was a stragling Troian an exile periured and banisht
+euen from the ruines of Troy, yet Dydo the famous Carthage
+               
+quéene made him hir paramour. Demophoon a pyrat
+a robber in Greece cast vp as shipwrack on the shore,
+yet interteind by Phillis. Phao a ferryman, a slaue, yet fauoured
+by Sapho. Lentulus the hope of the Romains, more
+beautifull then Eneas, more couragious th
+                  •
+                
+               Demophoon,
+more honourable then Phao, more louing then them all, is
+refused and reiected by Terentia, his neighbour and familiar.
+Thinke not Terentia but loue as hee hath roses so hee
+hath nettles, as he hath perfumes so hath hee hemblocke,
+and holding fauors the claspeth reuenge, as ready to pierce
+as to pacifi
+                  •
+               . If you procure Lentulus death, Cupid hath
+power to inforce your dispaire, and to cause your loue to be
+as fickle to you as you are froward to him. Then madam
+let me be the messenger of life, and from your swéete selfe
+carry such conserues to Lentulus as may recouer his
+health and increase your honours. This discourse of Tully
+did but sette Terentias heart more on fire. For hearing the
+pleasant harmony of hir Cicero, shée likt of the musicke
+as of the Syrens melody, and so intangled hir selfe with
+many newe conceiued fancies, insomuch that forgetting
+whose daughter shée was, shée burst foorth into these
+tearmes.
+            Did I not Cicero tell thée twixt Arpinatum &amp; Roome, y•
+loue hath but one cell wherein to place the Idaea of y• party
+loued: wilt thou haue me like the Camelion to haue many
+colours, or like Helena to intertain many loues? I know
+Lentulus dignities are beyond my degrée, that his honors
+are more then my fortunes, that his loue is great, and so
+I holde him the second in my most secrete thoughtes: first
+he cannot be and that he craues. Thou doest wring water
+out of the flint, fier forth of y• dry sandes, &amp; immodesty from
+hir that hath euer béene honoured for chastily: so that by
+wastlesse perswasions for thy friende, I am forst to say
+thou art the friend that Terentia hath chosen amongst all
+the worthy Romains: Before I sawe thée Tully I loued
+thee, and now I haue setled my affection, and thou wrongst
+
+me with discurtesie: but either cease from intreating for
+Lentulus, or looke to sée me worse then Lentulus. And with
+this blushing at hir owne ouermuch loues, shée poured
+foorth such abundance of teares, as well might bew
+                  •
+               ay
+the sincerity of hir affections. Tully gréeuing to sée the
+goddesse of his thoughtes in this passion answered hir,
+mildly thus. Blame me not Terentia if I pleade for Lentulus,
+séeing his sorrow, and entring into mine owne promise.
+Then friendship is no swéeter iewell, then howe can
+I but labour ere I loose so rich a prize. But séeing Terentia
+hath vouchsafed of so meane a man as Tully, whose honours
+onely hanges in his studies: loue béeing the strictest
+league of amity and no such friendship as is mariage:
+I vowe by the Romaine gods, euer to be a duetifull seruant
+vnto a Terentia: and with my loyalty so to requite hir
+fauours, as Roome shall more admire my affections then
+they haue woondred at my eloquence: yet with this prouiso
+(my swéete Terentia) that although I preferre thy fauours
+before mine owne life, yet if thou canst striue to
+loue Lentulus, which if either the gods, loue, fortune, or thy
+selfe can bring to passe, I will with mine owne preiudice
+conquer mine owne thoughtes to satisfie the content of
+Lentulus. As Terentia was ready to reply, one of hir fathers
+seruants came to request Cicero to come to supper,
+who taking his leaue of Terentia went in to hir father
+Flaminius, who sitting downe to supper, passed away the
+time in ordinary talke. Their repast being taken, Flaminius
+calling Tully on the one side, demaunded what his
+daughters answere was. Peremptory quoth Tully still to
+hold Lentulus in mislike. Then you shall heare quoth hir
+father what I will say, and so report to Lentulus: so calling
+for Terentia they thrée being together, he began thus.
+            I knowe not howe Terentia to insinuate my exordium,
+whether friendly to perswade with a smyle, or fatherly to
+admonish with a frowne: thy follies are so great, and my
+care so tender. Roome hath hitherto admyred thy vertues,
+
+and I haue praised thy obedience: thou hast béene counted
+honorable and chast, wise to eschew wantonnesse, but neuer
+coy to be thought disdainefull: and shall nowe all these
+graces ende in disgrace? Then Terentia maiest thou repent
+hereafter, and I powre forth present sorrowes. I
+speake thus, for that I heare in the city what maketh
+me to grieue, and may force thée to blush. They say
+Terentia is beautiful and proude, witty and ouerwéening,
+hauing coy disdaine crept into the place of curteous desire:
+this men say that enuy thy follyes, and grieue at Lentulus
+fortunes. Now daughter thou séest the marke I aime
+at, and maiest iudge of my shot by the leuell: Lentulus is
+fallen into a feuer, which Asclapo that famous Phisition
+of Patras censures to be mortall. Thy frowardnes was
+the efficient of the disease, and nowe thou deniest cure of
+the maladie. Unaduised gyrle, that neither weighest of
+thine owne honours, nor his miseries. Lentulus requires
+Terentia in mariage: let vs make compare of the parties,
+and so examine the cause of thy denials. He is descended
+from the Lentuli and Aemilij, two houses that euer haue
+béene the props of the Romaine dignities. His honours
+are great, as proconsul in his youth against the Parthians:
+His fortunes mighty, doubled with his conquests and victories:
+His reuenewes such as he may with Crassus
+maintaine Legions. If like Venus darling thou séekest to
+féede thine eie, his fauour is more then his that pleased
+Cynthia. If thou couetest a souldier, Lentulus in Roome
+is as Hector was in Troy. If a Courtier, who braues it so
+in Italy? To conclude if Terentia couet to loue, there is
+none so fit to loue within the Romaine Empire as Lentulus.
+Whereas Terentia is but the daughter of a meane
+Senatour, hir dowry cannot be much, for that hir fathers
+wealth is not great: Beautifull shée is, and so are many in
+Roome, who are of meaner parentage. Hir glories are
+but fortunes pelfe, that florishe in the morning, and fade
+before night. What then can mooue Terentia to oppose hir
+
+selfe against Lentulus? vnlesse shée fatally presageth hir
+owne discredit, and the ruine of hir fathers house. If then
+daughter thou art child to Flaminius, I charge thée by the
+strickt law of nature, which Philosophers call Regius amor
+a kingly loue, if thou be a maide, by the holy fiers of
+Vesta: if beautifull, by Venus deity: if a Romaine, by thy
+Countryes loue, that thou loue Lentulus: which if thou refuse
+to performe, thy father shall curse thée, Vesta shall
+shut thée from hir temples, Venus from hir fauours, and
+thy country from inioying the swéete content of honour,
+and then make thée outcast of all the Romaine virgines.
+More are my reasons to alleage, then thy reasons able to
+contrary: but omitting all and saying he is onely Lentulus:
+Daughter what answere?
+            
+               Terentia séeing hir father in such a choller, and that hée
+was induced vnto it by Ciceros perswasiōs in a furie began
+thus frantike. I not denie but Fathers challenge
+loue by nature and obedience by duetie, and both those sir
+I hope I haue euer performed, if not I rest sorrowfull &amp;
+hartily craue pardon: but in loue parentes haue no priuiledge.
+For the liking of the Father is no contract of the
+daughter. Venus conclusions growe not of parentes pr
+                  •
+               
+               mises,
+nor can affection bee like the fire stroken foorth a
+flint, for loue is chosen by the eye and confirmed by the
+heart, womens thoughtes are not the spoyles of Mars,
+nor is the battell of fancie fought with the sworde, but
+with the Senses, &amp; loues arrowes are pointed by fate and
+fortune. Weigh then Terentia, who hath not hir loues in
+hir hande but in hir heart and thereinto none can make
+breach, but such a one as the pleasing constellation of the
+stars haue appointed. I not denie the excellencie of Lentulus
+as well in exterior shewe of honours, wealth, dignities,
+and proportion, as in interior vertues &amp; perfections
+of the minde, and that he merittes a Ladie of farre more
+estéeme then Terentia, but I knowe not what contrarie
+aspect either of the planets in our natiuities, or of loues
+
+in our thoughtes, or of fortune in our resolution 
+                  •
+               o like,
+hath crossed his desire and my fancie, but of all the Romayne
+Gentlemen I cannot my Lorde fancie Lentulus.
+Cressida confest Troylus was the better knight, &amp; yet the
+Gréeke helde hir louely in his tent. Sith then affection
+growes from desire, and desire is tyed to destinie, séeke
+not sir to wring water out of the pumex, to couple the
+Mouse and the Elephant at one stall, to vnite those loues
+that Venus in hir Sinod house hath expreslie countercheckt.
+For to aunswere your obiection, Terentia cannot
+force hir self to loue Lentulus. Shée thus concluding with
+a few teares, hir father departing from hir with a frown,
+tolde Tullie that not reason was sufficient to induce his
+daughter to be affectionate, and therefore that hee wished
+Lentulus to appease his passions and to salue such impossibilities
+with patience, wherupon they after interchange
+of salutations and cōmon courtesies parted with a friendlie
+farewell. Tullie at his home comming reuealed
+vnto Lentulus the whole discourse howe Flaminius had
+searcht into the depth of Terentias thoughtes both with
+plawsible perswasions and inforced reasons, and coulde
+finde no other conclusion but that shée could not loue Lentulus.
+Although this newes pierced the verie center of
+his heart as mortallie as if hee had béene wounded with
+the sting of Aspis: yet chéering himselfe a little he sat vp
+and in his owne minde hauing aboute or two with fancie,
+he gaue hir so deepe a reuie that hee held affection at
+the swordes point. But Tullie who betwéene friendship
+and loue felt a furious combate, allured with the beauteous
+perfection of Terentia, and forbidden that fauour by
+the entyre amitie hee had vowed vnto Lentulus: entred
+into so déepe a melancholie that not able to master his passions,
+he fell sicke and kept his bed. Lentulus séeing hys
+Tullie thus distrest gréeued at his friends misfortune, and
+chéered vp himselfe that hee might somewhat comfort his
+Cicero that newlie was crossed with a distempered sickenesse.
+
+He sought by physicke to search out the nature of the
+disease, but Asclapo could not déeme the cause by the effectes,
+he sought by intreaties to wrest out the occasion
+of so sodayne a sorrow, but in vayne, Tullie was too secrete
+and silent to make anie shewe of his loues though he
+bought such secresie with death. This gréeued Lentulus
+who féeling himselfe euery day to amend, perceiued that
+Cicero daylie waxed worse and worse. Lingring thus in
+inward passions, Terentia that tooke it discourteously at
+Tullies hande that hee should force hir Father to inforce
+hir to loue Lentulus, séeing shée had onely deuoted hirselfe
+as his, howsoeuer fortune shoulde oppose hir selfe; to ease
+hir mind of some choller that boiled in hir secret thoughts
+shée tooke penne and inke and wrote him a letter to this
+effect.
+            
+               
+                  Terentia to Marcus Tullius
+Cicero health.
+                  AS my thoughtes are secrete and my loues extréeme, so
+is vnkindenesse bitter and the more vneasie borne.
+Thou playest Tullie with me, as doe the Leopards with
+there kéeper; that euer wrong them most that giue them
+greatest store of fodder. Are these Venus lawes to pay
+hunnie with Gall, to make rods of nettles for Garlands
+of Roses, to hate them most that loue most. The ingratitude
+of Tullie hath drawen Terentia into this choller, and
+if I write sharpely blame me not that am vsed so shrowdlie.
+Before I euer sawe thy face I allowed thy fauour, &amp;
+onelie hearing of thy vertues with myne eare, I registred
+them vp déepely in my hearte. Terentia hath béene
+courted of manie, yet neuer made account of any: sundry
+haue sought my loues, but they haue returned with losse.
+Lentulus the terrour of the Parthians, the honour of the
+Romaines and thy friend hath long woode, but what hath
+
+hee won? onelie Tullie hath obtayned that which so many
+haue mist, and yet he deales with Terentia as crabbedlie
+as shee vsed him courteously, doe louers for fishes proffer
+scorpions, or doe they like the serpent sting him which
+cheerisheth him vp in his bosome. I séeke to fauour Tullie
+and hee importunate sues for fauour for Lentulus. Art
+thou so déepe a philosopher, as to déeme friendship aboue
+marriage, or faith aboue fancie, or thy Terentia lesse then
+thy Lentulus? If it be so take héede that Terentia too much
+wronged scornes not both thée and Lentulus. Womens
+thoughtes consistes oft in extréemes, and they that loue
+most, if abused, hate most deadlie, fear this and beware of
+my frowne, as yet there is but one wrinckle in my brow,
+but if it once proue full of angrie sorrowes it will bee too
+late to take holde of occasion behind: Thou art forewarnd
+be forearmd and so farewell.
+                  
+                     Thy Terentia if thou wrong not Terentia.
+                  
+               
+            
+            AFter shée had written this Letter shée causde it to bee
+conueied by Eutrapelus to Tullie, who reading the
+contentes found not a salue to cure his maladie, but that
+Terentia rubbed the scare a fresh by shaking him vp so
+sharpely, yet coueting rather to die with an honourable
+minde to Lentulus, then with a discredite to enioy beautifull
+Terentia, he laide his heade on his pillowe, and with
+manie sighes bewraide the depth of his sorrows. Hauing
+laide his letter at his beds heade ouercharged with many
+cares poore Tullie fell a sléepe and so sodenlie that Lentulus
+by the helpe of Eutrapelus got to haue a sight of his
+letter. Assoone as the Gentleman saw how déepely Terentia
+was affected to his friende and perceyued by the circumstances
+that he chose rather to die then to falsifie his
+faith, such a secrete loue towardes Tullie so pierced the
+closet of his honourable thoughtes that he 
+                  •
+               ell to conceipt
+
+but meanlie of Terentia and to wish that his friende Cicero
+might both recouer his health and his loue. Now began
+the fancie of Lentulus to freze that earst was so great
+a flame, and he that like the Salamander delighted to liue
+in the fire, beganne to feare to accedere ad ignem, least he
+shoulde Calescere plus quam satis. Now he called to mind
+the resolution of Terentia tempered with frowardnesse,
+and with this he did proportion the vertues of Flauia mixed
+with courtesie, finding the fauour of the one aunswerable
+to the beauty of the other. Then the faith of his friend,
+his sickenes and extréeme sorrows. These weighed with
+depe consideration he vowed to séeke by all meanes howe
+to win Terentia wholy for his friende Cicero. In this humor
+he conuaide the letter vnder his beddes heade and rested
+silent till occasion might offer him oportunitie to discouer
+the perfection of his amitie. Thus grewe Lentulus
+at one time from his sickenes &amp; his loue, walking abroad &amp;
+visiting Flaminius who entertayned him in all sumptuous
+manner. But Lentulus séeing the thrée Ladies, made
+no showe to Terentia nor scarse glaunced a looke vppon
+hir beautie, but onely courted the Ladie Flauia, who
+he founde so agreeable and plyant to his sutes, that Terentia
+and Cornelia might easilie sée howe depely they were
+linked in the league of affection. Leauing Tullie thus
+sicke on his bed and Lentulus in swéete content with Flauia,
+againe to our newe transformed Fabius who in this
+time prooued one of the brauest Gentlemen in Rome, and
+finding a restlesse passion in his mind for the beutie of Terentia,
+as hauing continually before his eye the Idaea of
+hir person séeing by hir meanes hee was metamorphosed
+&amp; brought to this perfection making the force of his loue
+priuie to his Father Vatinius, he was not onely praysed
+for his good choice, but willed to goe forwarde in the optayning
+of his affectiōs. Whereupon not willing to make
+a long haruest to a small crop, to preuent as hee thought
+that none shoulde cut the grasse from vnder his féete, hee
+
+went to Terentias Father and blunt
+                  ••
+                craued his daughter
+in marriage. He knowing him to be of honourable parentage
+and of rich reuenewes, séeing shée woulde not
+condiscende vnto Lentulus gaue him his francke good will
+if he could créepe into his daughters fauour, who taking
+the aduantage of the time went to find out Terentia, who
+as then was verie melancholie sitting with Flauia &amp; Cornelia
+talking of the sickenes of Tully. As they were thus
+in 
+                  •
+               hat, came in Fabius who they streight knew &amp; wondered
+at his strange alteration, he to shewe hee coulde as
+well court it as the brauest young gentleman in Rome,
+began thus curteously to salute the Ladies.
+            Maruell not Ladies if a countrie swayne presume to
+attempt y• presence of such rare excellencies séeing Oenones
+shéephearde durst with his eye suruay the beautie of
+diuine goddesses, and they to shewe they were as gratious
+and full of fauours gaue him the greatest minion that
+was counted the swéetest Peragon of the world. Earthlie
+creatures you be, fayre Romaynes, but heauenly faces,
+whose looks lighten diuine influence into the thoughts
+of such as dare to contemplate your affections. I speake
+this as being the man that from the cart liue in the court,
+thus metamophosed by your supernaturall beauties. For
+which fauour I am come in duetie to rest a bounden voterie
+to your swéete selues. Terentia was so pensiue for
+Tullyes passions that shée woulde make no aunswere: but
+Cornelia whom alreadie Cupid had set on fire with Fabius
+feature she returned him this replie.
+            I remember Fabius that sitting in the groue by Arpinatum
+a gentle swaine much like your self, in proportion
+though not in properties, séeing wee were slenderly garded
+with a page conducted vs home to Rome with his
+friendlie companie, if it be your selfe, had wee as braue a
+Ladie as Helena was and were shée in our power to bestowe,
+wée woulde make you master and sole possessour of
+hir beauties so to rewarde your courtesie. Fabius séeing
+
+the marke so faire thought not to loose his shoote, but aim
+                  •
+               
+his leuell thus.
+            And for that cause Ladies is Fabius come that his mée
+                  •
+               
+may not want his merite, glad that Venus dewes downe
+such fauors, and oportunitie such showers of good fortunes
+to finde you all here in so fit a time. For knowe honorable
+Romaine
+                  •
+                that for my grosse and rude nature hating
+the ciuill behauiour of the citie. I was surnamed
+Fabius: in which obscure life I liued hauing my senses
+eclipsed with follie, till the gods grudging at natures
+spight, sent you thrée to bee ministers of my happines. For
+comming into the groue where you lay all a sléepe casting
+mine eye on the beautie of Terentia: Such a déepe impression
+was figured in my mind, that I felt an vnacquainted
+motion with a milde reuerence to thinke well of hir perfection:
+surueying hir singular beauties, I fell so farre in
+loue with hir excellencie, that from the countrie I came to
+y• citie, &amp; how since by hir gratious sight I haue metamorphosed
+my selfe your owne eares and the wonder of Rome
+is best ablè to witnesse. Then Ladies I count the renewing
+of my life to come from the feature of Terentia, and
+that she not as Diana chaunged mee from a man to bée a
+beast, but contrarie full of fauour hath reduced me from a
+sensuall beast to a perfect resonable man. Howe déepely
+then I ought to bée vowed to hir whose sight is the welspring
+of my happinesse, let the greatnesse of my benefite
+make manifest. In so much as féeding my thoughts with
+the contemplation of Terentias beautie, I haue béene thus
+transformed, but withall so surprised with hir loue that
+as I haue gaind a seconde essence by hir swéete selfe, so I
+haue lost my selfe within the labyrinth of hir lookes, that I
+remayne hir captiue while it pleaseth hir to graunt me libertie.
+Bee then braue Romaine Dames, impartiall
+doomers of my sute, whether my desertes craue not Loue
+that thus haue béene chaunged for hir loue. My Parentes
+are Senators, my reuenewes inferiour to none, old Vatitinius
+               
+glad of my choise, and Terentias father thrise happy
+if his daughter might like of Vatinius. Nowe restes it
+onely in Terentias power to make me blessed or infortunate.
+At this discourse of Fabius, the Ladies were astonished,
+and Terentia galled to the quick with this demaund
+held hir tongue, till Cornelia and Flauia, looking earnestly
+vpon hir, asked hir what answere shée made to Fabius.
+Such quoth shée as I returned to Lentulus, for know syr if
+either the honor of a Souldier, y• dignity of a Romain, the
+reuenewes of a Senators sonne, or the déepe impression of
+fancy might haue drawn Terentia to loue, I had beene ere
+this the wife &amp; paramour of Lentulus. But not y• courage
+of Hector that woone Andromache, nor the wisedome of
+Vlisses that intangled Calipso, nor the beauty of Priamus
+sonne that drew Greece in armes to Troy, these perfections
+if combined in one man shoulde not mooue Terentia
+to listen to the allurements of Venus: not that I make
+light estéeme of Lentulus, or that I holde small account of
+Fabius, as two chiefe myrrours of our Romaine gentlemen:
+But that either my vowes are resolute to Vesta, or
+if Cupid hath taken me by the héele, it was before Lentulus
+came from Parthia, or you from Arpinatum: so that
+conclude howsoeuer it is I cannot become affectionate to
+Fabius. At this reply Fabius stoode so amated as if hee had
+beene an vnwelcome guest at the feast of Perseus, which
+Cornelia noting, déepely in loue with Fabius shée told him
+thus. Nor may you Fabius thinke much at this repulse sith
+Lentulus and you are in one predicament, nowe both become
+gainers in liberty, that haue béene loosers in loue:
+and either gette the willowe garlande and so mourne for
+your Ladies frowne, or séeke a mistresse that may shewe
+you more fauor: For as for Terentia shée hath chosen, and
+none must please hir but Oratours. If there be Fabius but
+one Sunne that is thought the beauty of heauen, yet
+there be planets that though not in shine, yet in influence
+are as vertuous: what there bee Ladies I meane of such
+
+course die as my selfe and Flauia, that when Terentia is
+once married, looke for husbands. Fabius hearing Cornelia
+thus pleasant, noted this quippe that none must please hir
+but Oratours, which made Terentia blush for anger, and
+Fabius to make this answere. I knowe no Oratours in
+Roome quoth he whose yeares are answerable to Terentias
+thoughtes but onely Marcus Tullius Cicero, and if it
+be he, I sweare by the fitch that gaue him his syrname,
+Terentia shall be mistresse of a goodly Cottage in Arpinatum.
+Terentia hearing Fabius to giue Tully the frumpe
+answered thus.
+            The more his fortune if it be hee whose vertues hath
+made him master of his owne desires, for his lands in Arpinatum
+as they be little, yet shall his lacke be counteruaild
+with his loues: and if he hath not one to inrich him
+with dowry, yet I may perhaps content him with beauty.
+And therefore Fabius to take away all suppositions, it is
+Tully, &amp; none but Tully y• shall inioy Terentia. And quoth
+Fabius in great choller, nor Tully, nor none besides Tully,
+but Fabius shall inioy Terentia. Whereupon departing
+without taking his farewell, going vnto hir father and
+discoursing vnto him that Tully was the man that his
+daughter had chosen for hir husband: swearing that his
+sword ere it were long should end their loues. Although
+Flaminius were grieued, yet he sought to pacifie Fabius,
+but in vaine: for hee flung out of the dores in a rage, and
+went to Milos house to séeke Tully. Where breathing out
+many despightfull threats against the Oratour, it came
+at last to Lentulus eare. Who nowe to make manifest
+the déepe affection he bare to Cicero, trouping himselfe
+with a crue of the Praetextati, and chiefe Romaine gentlemen
+that had béene souldiers and trained vp with him in
+the warres, he went to séeke out Fabius: and found him
+with certaine his companions about the Capitoll. Lentulus
+not brooking the braue of any, as carrying the heart of
+a Conquerour, singled out Fabius, and after some wordes
+
+they fell to blowes: but Fabius part were the weaker, so
+that many were wounded, and some slaine. Upon this the
+next day parts were taken, the people began to mutiny,
+and to fall to intestine and ciuil iarres: that as in the time
+of Scilla and Marius, so the stréets were filled with armed
+Souldiers. The Senatours séeing what bloudy stratagems
+woulde insue of this strife if it were not pacified:
+sent for the Consuls, and charged them to raise vp some of
+the Legions and to bring Lentulus, Tully and Fabius, the
+next day to the senate house, with Terentia and hir father.
+They obeying their commaund put this charge in execucution,
+and so qualifiyng somewhat the fury of the people,
+brought these thrée wooers with Terentia before the
+whole state of Roome. Where being arriued Tully fearefull
+of nature and sicke, yet somewhat strengthened with
+the sight of his mistresse, beeing glad Lentulus was his
+friend in his loues, after due reuerence began thus.
+            
+               Tullies Oration to the Senate.
+               COnscript Fathers and graue Senators of Room,
+I was borne in Arpinatum of base parentage, the
+first of the Ciceroes that euer pleaded in Rostro, or
+bare title in the city. If then aduanced by your fauours to
+these fortunes, I should aspire without proportion to clime
+beyonde my degrée, let me be the first and last whose presumption
+shall grow to this preiudice. The temple of Ianus
+in Roome hath hir gates shut, the s
+                     •
+                  reetes are full of
+armed men, the stones of the Capitol blusheth at the bloud
+of Romaines shed against hir walles: and all this mutiny
+(cry mine aduersaries) growes from Tully. Not that Tully
+was then out of his bedde, but that men of poore families
+lifted vp to honor are soonest bitten with enuy. I appeale
+graue Senatours for my life to your owne censures: if euer
+I haue not béene more carefull to profit my country,
+then desirous of preferment for my labours. But what
+
+then say the people is cause of such broy
+                     •
+                  es, Terentia the
+daughter of Flaminius, that firebrand that set Troy to cinders.
+Beauty is like to bring Roome to confusion: For the
+greatest houses and families are diuided, the Lentuly and
+Vatinij, and this for Terentia. Let the cause be examined
+before the Senators, and as they heare so let them doome,
+Lentulus chosen by the Senate, was sent Captaine euer
+many Legions against the Parthians, where he tyed fortune
+to his thoughtes: and by his great victories and conquests
+set vp trophées of Romaine chiualry. Returning
+with glory to Roome, hauing set in his place Lepidus, he
+was enamonred not onely of the beauty but vertues of
+Terentia: the fame of whose excellency was spred amongst
+the Parthians. Coueting to match with so honourable a
+Lady, he courted hir, but in vaine: not that shée disdained
+Lentulus, but that shée had fixed hir fancy before shée sawe
+Lentulus: and the platforme of loue is able to receiue but
+one impression. If honours, if conquestes, if parentage, if
+reuenewes, if courage, if goods of fortune, body, or minde,
+might haue woonne Terentia, al this was vnited in young
+Lentulus: But Loue that liketh without exceptions, had
+ouerbard hir heart with such former fancies, as the passionate
+sute of Lentulus coulde haue no entrance. His
+thoughtes were extreame, and the disquiet of his minde
+brought a disease to his body. But when he knew that Terentia
+loued his friend, he appeased his passions, and rested
+content with his fortunes. The vnconstant goddesse whose
+smyles are ouershadowed frowns, not contēt honor should
+spring vp without enuy: sends Terentia to walke abroade
+towards Arpinatum where then Fabius liued, as famous
+for his rusticke and vnciuile life, as now he is woondred at
+for his braue and courtly behauiour. Spying Terentia hee
+was as Lentulus snared in hir beautie, that the Romains
+to report a miracle said loue made him of a clowne braue
+&amp; resolute gentleman. The excellencie of Terentia hauing
+newe pollished nature in Fabius, hee sues for hir fauour,
+but hir thoughtes that were forepointed with other passions,
+
+intreates him to bridle affection and to make a conquest
+of himselfe by subduing the force of fancie, séeing hir
+resolution was directed to loue none but one, and that
+was Tullie. This worde graue Senators and Romaynes
+sounding basely in the eares of Fabius, caused him take
+armes, and Lentulus to defende his friend Cicero, as for
+him before had lost his loue, so he ment to loose his life and
+withstoode him in the face. Thus grew this mutinie not
+against beautie for it is a cheefe good of it selfe, nor against
+Tullie for hee is meane and vnworthie to bee reuenged
+by armes, but against Terentia because shee
+vouchsafed to loue Tulllie. This Romaines is the cause
+of this mutinie to suppresse which let Tullie die, for rather
+had he pacifie this striffe by death then sée the meanest
+Romaine fall on the sword. The common people at this
+began to murmour, pleased with the plausible Oration
+of Tullie, which one of the Senators seeing, stoode vp and
+saide thus. Terentia? Cicero here hath shewed reasons
+why thou shouldst loue Lentulus and Fabius, but what
+reason canst thou infer to loue so meane a man as Tullie.
+Terentia blushing made this answere. Before so honorable
+an audience as these graue Senators and worthy Romayne
+Citizens womens reasons would seeme no reasons,
+especially in loue which is without reason, therefore
+I onely yeld this reason, I loue Cicero not able to ratefie
+my affection with anie strong reason, because loue is
+not circumscript within reasons limits, but if it please the
+Senate to pacifie this mutinie, let Terentia leaue to liue,
+because she cannot leaue to loue and onely to loue Cicero.
+At this she wept and stayned hir face with such a pleasing
+vermilion die, that the people shouted none but Cicero.
+Whereupon before the Senate Tully and Terentia were
+betrothed, Lentulus and Fabius made friends, and the
+one named Lentulus as the Annales make mention maried
+to Flauia, and Fabius wedded to the worthy Cornelia.
+               
+               FINIS.
+               
+            
+         
+      
+   
+

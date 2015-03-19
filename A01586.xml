@@ -1,0 +1,1373 @@
+
+   
+      
+         
+            A discourse mathematical on the variation of the magneticall needle Together with its admirable diminution lately discovered. By Henry Gellibrand professor of astronomie in Gresham College.
+            Gellibrand, Henry, 1597-1636.
+         
+         
+            
+               1635
+            
+         
+         Approx. 40 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2008-09 (EEBO-TCP Phase 1).
+            A01586
+            STC 11712
+            ESTC S117951
+            99853160
+            99853160
+            18529
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01586)
+            Transcribed from: (Early English Books Online ; image set 18529)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 1237:05)
+         
+         
+            
+               
+                  A discourse mathematical on the variation of the magneticall needle Together with its admirable diminution lately discovered. By Henry Gellibrand professor of astronomie in Gresham College.
+                  Gellibrand, Henry, 1597-1636.
+               
+               [2], 22 p.   
+               
+                  Printed by William Iones, dwelling in Red-crosse-street,
+                  London :
+                  1635.
+               
+               
+                  Reproduction of the original in the Bodleian Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Geomagnetism --  Early works to 1800.
+            
+         
+      
+      
+         
+            2007-01
+            TCPAssigned for keying and markup
+         
+            2007-01
+            AptaraKeyed and coded from ProQuest page images
+         
+            2007-08
+            Elspeth HealeySampled and proofread
+         
+            2007-08
+            Elspeth HealeyText and markup reviewed and edited
+         
+            2008-02
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            A
+DISCOVRSE
+MATHEMATICAL
+ON THE VARIATION
+OF THE MAGNETICALL
+Needle.
+Together with Its admirable Diminution
+lately diſcovered.
+By Henry Gellibrand Profeſſor of Aſtronomie
+in Greſham College.
+            
+            Veniet tempus, quo ista quae nunc latent, in lucem dies extrahat,
+et longioris aevi diligentia.
+            Sen. Nat: Quaeſt. lib. 7. cap. 25.
+            
+               LONDON,
+Printed by William Iones, dwelling in
+Red-croſſe-ſtreet. 1635.
+         
+      
+      
+         
+            
+            
+            A
+DISCOVRSE MATHEMATICALL
+on the variation of the
+Magneticall Needle.
+            
+               TO write an Encomiaſtique of the Magnet
+is not my intention; the bold &amp;
+confident attempts of Seamen, thorough
+thoſe hidden paths of the vaſt
+Ocean, to all navigable parts of the
+earth, will ſpare me the labour; neither
+will theſe few lines permit me to ſpeake of all
+Magneticall qualities, they that liſt may have recourſe
+for their ſatisfaction herein, to that moſt learned worke
+(admired by all Foreiners) long agoe penned by Mr.
+Dr. Gilbert our countryman, ſometimes Phyſitian to
+that Renowned Lady our late Queene. That which I
+here principally ayme at, is the deflection of the Needle
+from the Terreſtriall Meridian, together with that abſtruſe
+and admirable variation of the Variation, lately
+diſcovered to the world.
+            The Variation then is the deflection of the Magneticall
+Meridian from the Terreſtriall, the Horizon determining
+its Quantitie and Qualitie. Theſe Meridians
+ſometimes are coincident, and in ſuch places there
+can be no Variation▪ Sometimes againe they are different,
+
+and then that Hemiſpere wherein either extremity
+of the Needle lyes, denominates its Quality, for if it
+be the Eaſterne Hemiſpere, it is called Eaſterly variation,
+if the weſterne, weſterly. And the Horizon ſuppoſed
+(as all great Circles are) to be divided into 360 parts, &amp;
+each part ſubdivided into Centeſmes or Milleſmes, defines
+the Quantity as 10, 20, 30, &amp;c. parts of variation.
+            For our more diſtinct proceeding (and to give ſome
+ſatisfaction to thoſe that are not altogether Mathematicall)
+it will not be impertinent to our preſent purpoſe
+to give ſome probable Reaſon for this variation or
+ſwarving of the Needle from the meridians of moſt
+places.
+            Take a vigorous Magnet, convert it into a Sphericall
+Body, and having found its Poles, delineat the ſame
+with Meridians, the Aequinoctiall, and Parallells.
+            
+            Then take a fine ſowing Needle, and applying it to the interſection
+of a Meridian and the Aequinoctiall, it will
+be found preciſely to point out the Poles of the ſtone;
+and if the Needle be moved towards either Pole, according
+to its owne direction, it will trace out a Circle over
+the ſaid Magnetique Pole. But if this Sphaericall Magnet
+ſhall have a part of it excavated, as admitt about the
+forty fift Paralell, and forty fift Meridian or degree of
+longitude, the Needle moued forwards from the foreſaid
+interſection, aſſoone as it ſhall draw neere to the
+limb of this excavation, will forthwith leave its former
+poſition, as lying in the plane of the prime meridian, and
+incline to the other ſolide ſide, not reſpecting at all the
+aforeſaid Poles: and this deflection we call the variation
+of the Needle: And the greater will this variation
+be, the neerer it approacheth to the Poles. For
+
+whereas before the excavation each ſide being a like
+potent,Which may be ſome cauſe of thoſe ſuddaine and exorbitant variations in the Nortweſt and other Northerne &amp; Southerne parts of the Earth. the Needle like an upright and indifferent
+Arbiter inclined to neither part; after the excavation
+it will convert it ſelfe to the more ſolide ſide,
+rejecting the imperfect and defective, and ſo much
+the more powerfully, by how much the other ſide
+ſhall be found to have loſt more of its Magnetique
+vigorous ſubſtance.
+            The like will fall out if the Needle be ſo placed, as
+that it ſhall biſect the excavated part, for then will it
+acurately point out the true Poles of the ſtone formerly
+found, but ſuddainely ſwarue from them after any
+little diſlocation, ſtrongly applying it ſelfe to the
+more ſolide ſide.
+            As it is with this little, ſo likewiſe with the greater
+Magnet the Earth, whoſe ſolide magnetique parts are
+great Continents, the defective and excavated, the
+deepe and vaſt channell of the Sea. For if there were
+obſervations made in the midd way betweene the Eaſterly
+Coaſt of China and this weſterne of Europe, it is
+very probable there would be found no variation at all,
+the Terreſtriall and Magneticall Meridians being congruall;
+but if we ſhall incline to either ſide, as admit to
+the weſtward, the Needle will in like manner move it
+ſelfe to the Eaſterne Continent, as the more prevalent
+ſide, the channell of the Sea being a part deficient of
+the Sphericall Body of the Earth, and the Needle
+finding no incouragement to apply it ſelfe there
+to.
+            And ſo likewiſe for the Ocean, which palliates the
+imperfect parts of the Earth, it is evident, that if the
+
+               Needle ſhall equally divide the Marine diſtance between
+two continents, there will be found no variation, as
+having both the Meridians united, the Needle equally
+diſpoſing itſelfe to either Continent. But if we ſhall
+ſwerue from this mediety, it will preponderate with
+the next continent.
+            For the evidence of the truth hereof, let a man examaine
+generally the variations of our moſt expert Seamen,
+(a Catalogue wherof we have annexed to that accurate
+worke of Mr. Wright in his detection and conection
+of errors in Navigation) (although by reaſon
+of the diverſities of the ſetts of their Compaſſes and
+oftentimes unapt handling of their inſtruments, they
+very ſeldome concurre) obſerued in the Atlantique Ocean,
+from the Equator unto the parts of Norway, all
+along the Eaſt Coaſt from the Meridian of the Azores,
+as farre North as hath beene diſcovered, and he ſhall
+finde the ordinary practiſe to teſtifie the truth hereof.
+As alſo after the ſame manner from the Equator ſouthward,
+unto the ſtreights of Magellan, and all along the
+backe parts of America in the South Sea, and on the
+Eaſt Coaſt unto the Cape of Bona Speranza, and he
+ſhall perceive the like agreement; But in fayling from
+the aforeſaid Cape further Eaſtward, that ſometime
+they doe finde it otherwiſe, the cauſe proceedeth from
+the different ſituation of the South Continent hitherto
+undiſcovered. And whereas in the Atlantique Ocean
+about 135 leagues from the Ilands of Corues and Flores
+to the weſtward,Mr. Iohn Wells. there hath beene found by an able Artiſt
+no variation at all, it is a manifeſt argument, that the
+Place is equidiſtant from the Europaean or Affrican continents
+and the American: And as we approach to either
+
+Continent, ſo ſhall we find the Needle praepotent in
+its converſion; from whence the variation ſhall receive
+its denomination.
+            Therefore its abſurd for Seamen to touch their
+Compaſſes with the allowance of the variation of any
+particular place, conſidering this variation is perpetually
+variable according to the ſhipps motion.
+            And moreover its abſolutely neceſſary for that Seaman
+who ſailes by his Compaſſe, continually to ſearch
+the variatiō, that ſo by the Proſthaphaereticall application
+thereof, the true point of the compaſſe (which is his
+principall Mercurialiſt) may be rectified.
+            And this artifice may be performed by the aſſiſtance
+of the Planets or fixed Starres, and that either without
+or with their Altitudes. I ſhall not need to exemplify
+all varieties, as having elſwhere copiouſly and demonſtratively
+delivered the ſame. I thinke it only convenient
+to touch lightly at one or two, and ſuch as beſt
+conduce to our preſent purpoſe.
+            And firſt without an Altitude. Finde two fixed
+Starres of equall right Aſcention, and holding vp a
+thread and plummet, obſerve when the thread biſects
+them (for that is the exact Meridian of the place) and
+at that inſtant apply the Compaſſe to them; if the
+Needle preciſely reſpect them, there is no variation;
+if not, then is the difference, the variation inquired;
+and that part of the Horizon to which it inclines,
+(alwayes accounting from the ſame interſection of the
+Horizon and Meridian) claimes it.
+            It may likewiſe be performed by the Amplitude Ortive
+or Occiduall of the Sunne, and as well by night as
+by day, by the reſt of the Planets or fixed Starres, having
+
+onely their declinations and the Latitude of the
+places, either Geometrically by an Analemme, or
+Arithmetically by the helpe of the Canon of Triangles,
+for the ordinary termes of the proportion runne
+thus.
+            As the Sine complement of the Latitude, is to the
+Radius, So the Sine of the declination, to the Sine of the
+Amplitude. Turning therefore the Compaſſe to the
+Sunne or Starres, the difference of the Arcs is the variation
+inquired. Or by knowing the time of the Sunnes
+incidence into the Plane of the Prime verticall, after
+the like manner we may obtaine our deſires.
+            But in theſe and ſome other wayes, we are confined
+to a certaine time: If therefore to the former requiſits
+we ſhall add an Altitude, this Artifice may be performed
+at any convenient appearance of a Planet or Starre,
+as we ſhall by and by ſhew.
+            And for the more eaſie and certayne obtaining of the
+variation at Sea, I would adviſe the Sea-man to extend
+or prolong the capitall of his Needle, or fix ſome ſtile
+on it, ſo that it may cut the Flye at right Angles, for
+then the Compaſſe coverted to the Sun, this ſtile will
+readily ſhadow out the Azimuth Magneticall, and comparing
+it with that of the Sunne, he hath the variation
+neere enough without any further labour or preparation.
+            Thus hitherto (according to the Tenents of all our
+Magneticall Philoſophers) we have ſuppoſed the variations
+of all particular places to continue one and the
+ſame: So that when a Seaman ſhall happly returne to
+a place where formerly he found the ſame variation,
+he may hence conclude, he is in the ſame former Longitude.
+               
+For it is the Aſſertion of Mr. Dr. Gilberts. Variatio
+v
+                     •…
+                  icuiuſ
+                     
+                        
+                     
+                     que
+                   Loci conſtans eſt, that is to ſay, the ſame
+place doth alwayes retaine the ſame variation. Neither
+hath this Aſſertion (for ought I ever heard) been
+queſtioned by any man. But moſt diligent magneticall
+obſervations have plainely offred violence to the ſame,
+and proved the contrary, namely that the variation is
+accompanied with a variation. For whereas in the
+yeare 1580 Mr. Burrows (a man of unqueſtionable abilities
+in the Mathematiques) found the variation at Limhouſe
+neere London to be 11 gr. 15 min. or neere one
+point of the Compaſſe; In the yeare 1622 Mr. Gunter
+ſometimes profeſſor of Astronomie in Greſham Colledge,
+found the variation in the ſame place to be but 6 gr. 13
+min. And my ſelfe this preſent yeare 1634 with ſome
+friends had recourſe to Dedpford (where Mr. Gunter
+had heretofore made the ſame obſervations with thoſe
+at Limehouſe) and found it not much to exceed 4 degrees.
+            For the clearer manifeſtation of this truth, (becauſe
+all men have not beene furniſhed with or ſeene the fore
+ſaid obſervations, I hold it neceſſary to transferre
+theirs hither, and ſubnect thoſe which were lately
+made by my ſelfe with the aſſiſtance of ſome friends.
+            
+               
+               
+                  Mr. Burrowes his obſervations made at Limehouſe
+October. 16. 1580.
+                  
+                  
+                     Before Noone.
+                     After Noone.
+                      
+                  
+                  
+                     Elevation of the ☉
+                     variation of the ſhadow from the North of the Needle to the weſtwards.
+                     Elevation of the ☉
+                     variat: of the ſhadow from the North of the Needle to the Eaſtward
+                     variat. of the Needle from the Pole or Axis.
+                  
+                  
+                     Gr. Min.
+                     Gr. Min.
+                     Gr. Min.
+                     Gr. Min.
+                     Gr, Min. Sec.
+                  
+                  
+                     17: 0
+                     52, 35
+                     17: 0
+                     30: 0
+                     11: 17, 30
+                  
+                  
+                     18: 0
+                     50 8
+                     18: 0
+                     27. 45
+                     11. 11. 30
+                  
+                  
+                     19: 0
+                     47 30
+                     19: 0
+                     24. 30
+                     11. 30, 0
+                  
+                  
+                     20: 0
+                     45 0
+                     20: 0
+                     22: 15
+                     11, 22. 30
+                  
+                  
+                     21: 0
+                     42 15
+                     21: 0
+                     19. 30
+                     11. 22, 30
+                  
+                  
+                     22: 0
+                     38 0
+                     22: 0
+                     15: 30
+                     11. 15. 0
+                  
+                  
+                     23: 0
+                     34 40
+                     23: 0
+                     12. 0
+                     11. 20. 0
+                  
+                  
+                     24: 0
+                     29 35
+                     24: 0
+                     7: 0
+                     11. 17, 0
+                  
+                  
+                     25: 0
+                     22 20
+                     25: 0
+                     0: 8
+                     11. 14. 0
+                  
+                  
+                      
+                      
+                      
+                     From N to W
+                      
+                  
+               
+            
+            The way of finding the variation after this manner
+is eaſy to be conceived. A time being choſen when the
+Heavens were like to be unmasked for the whole day,
+the altitudes of the Sunne were taken by him to each
+degree of a Quadrant both forenoone &amp; Afternoone,
+from 17 to 25 gr. making nine ſeverall obſervations.
+And at every Altitude turning his Needle to the Sunn,
+obſerved the degree and parts cut thereby. Then comparing
+the Magneticall Azimuthes made in the Forenoone,
+with thoſe in the Afternoone anſwerable to
+the ſame Solar altitudes, the halfe of the difference is
+the variation. Thus at the altitude of 17 gr. in the
+
+Forenoone, the Needle cutting 52 gr. 35 min. and at the
+ſame altitude in the Afternoone 30 gr. 0 min: the difference
+is 22 gr. 35 min: the halfe whereof is 11 gr. 17
+min: 30 Sec. the variation inquired.
+            Before we proceed to other Obſervations it will be
+requiſite we take a review of theſe, and after correction
+of ſome of the apparent Altitudes, call the Solar
+Azimuthes to the Iudicature of a Triangle.
+            It is not unknowne that about this time of Mr. Burrowes
+his obſervations the accurate and corrected tables
+of the Sunnes motion were not publiſhed to the
+world, Neither the Angles of the Obliquity and Paralaxes
+of the Sunne ſo truely determined. And as for
+the refraction (which inſinuates it ſelfe in every Altitude
+not exceeding 45 degrees) being then in its infancy
+and a ſtranger to the world it was not called into
+the account, no not by the Ancients themſelues, nor
+limited before that great Aſtronomer and honorable
+Dane Tyche Brahe opened the ſame way. If therefore
+we ſhall examine theſe Altitudes acording to the late
+corrected grounds, we ſhall ſomewhat alter the variations
+of Mr. Burrowes, but ſo as that we ſhall not much
+differ from him, or ſuſpect any great error in his
+worke.
+            Theſe obſervations then of his, were made the 16
+of October Anno 1580. And by Aſtronomicall Calculation
+ſhould begin about 9 ½ in the Morning, and end about
+2 ⅓ in the Afternoone. Let us now make choice of the
+Magneticall Azimuthes anſwerable to the Altitudes of
+20 gr. being the fourth obſervation. The true place of
+the Sunne about this time correſpondent to this Altitude
+according to the late Rud
+                     •
+                  lphins Tables, (with
+
+conſideration to the difference of Meridians and Equation
+of Time) is thus found after the Centeſimall
+way with the connexion of our Britiſh Logarithmes, but
+with ſome alteration of the Anomalies
+            
+               
+                  
+                     Motion of the Apog. ☉
+                     Middle motion of the Sun
+                  
+                  
+                     Sig. Gr.
+                     Sig. Gr.
+                  
+                  
+                     Epoch of Chriſt 2: 83455571829
+                     9: 88667238532
+                  
+                  
+                     yeares 1579 0: 270303979753
+                     0: 111927414346
+                  
+                  
+                     Month: Biſſ: 9. 0: 00 128419571
+                     9: 00672704358
+                  
+                  
+                     Dayes 14. 0: 000007030268
+                     0: 137990576119
+                  
+                  
+                     Her. 21. Min. 9 0: 00000413028
+                     0: 08686013944
+                  
+                  
+                     Sum of the mot. 3: 53895414449
+                     7: 47943947299
+                  
+                  
+                     Motion of the Apogaum ſubſtracted
+                     3: 53895414449
+                  
+                  
+                     The middle Anomaly.
+                     
+                     3: 294048532850
+                  
+                  
+                     Our Tabular middle Anomaly
+                     
+                     3: 29 00000
+                  
+                  
+                     The difference of Anomalies
+                     
+                     0: 0 40485
+                  
+                  
+                     The logarithme whereof is
+                     0. 6072976
+                  
+                  
+                     The diff. of the Coaequated Anom.
+                     
+                     1. 01729167
+                  
+                  
+                     The logarithme whereof is
+                     0: 0074454
+                  
+                  
+                     The ſumme of the logarithmes
+                     0: 6147430
+                  
+                  
+                     To which there anſwers
+                     04118538
+                  
+                  
+                     which added to the tab: Coaeq: Anom.
+                     
+                     3. 271763527
+                  
+                  
+                     Gives the inquired coaeq: Anomaly
+                     
+                     3. 275882065
+                  
+                  
+                     To this the Apog: added
+                     3. 5 3895414
+                  
+                  
+                     Gives the Sunnes place in ♏
+                     2 9777479
+                  
+                  
+                     The declination whereof is
+                     12548280
+                  
+                  
+                     Whereunto adding a Quadrant
+                     90000000
+                  
+                  
+                     The ſum is the ☉ diſt. from the Pole
+                     102548280
+                  
+               
+            
+            And becauſe we haue made choice of the apparent
+Altitude of 20 gr. the Parallax (Kepler admitting little
+or none,) according to Tycho Brahe will be
+
+                  
+                  
+                     found
+                     Gr. 0047778
+                  
+                  
+                     And the refraction
+                     0075000
+                  
+                  
+                     The difference is
+                     0027222
+                  
+                  
+                     Which ſubſtracted from the apparēt Alt.
+                     20000000
+                  
+                  
+                     Giues the true Altitude of the ☉
+                     19972778
+                  
+                  
+                     The complement whereof is the diſtance
+                      
+                  
+                  
+                     of the ☉ from the Zenith
+                     
+                     70027222
+                  
+               
+            
+            That the inſuing work may be the better cōceived, let
+FZB in the annexed ſcheme) be the Meridian of Limehouſe;
+Z the zenith or Pole of the Horizon FOB. The
+elevation of the Pole PB. ZP the complement thereof.
+AE the Equator. The Southerne Parallell of the
+
+Sunne DSO. ZSH a Quadrant of a verticall Circle
+interſecting the Sunnes parallell, and paſſing through
+his Center in the point S. HS the Sunnes Altitude aboue
+the Horizon; and ZS the complement or his diſtance
+from the zenith. SI the declination. SP the diſtance
+of the Sunne from the Pole of the world. Alſo
+let the obſcure periphery MZG be the Magneticall Meridian
+paſſing through the zenith Z, and deflecting or
+
+                  
+               
+varying from the Terreſtriall Meridian the Arc MB,
+the meaſure of the Angle MZB the variation inquired,
+which will be determined by comparing the magneticall
+Azimuth CZS with the Solar Azimuth PZS, always
+greater then the Magneticall before Noone, but leſſe
+after Noone, where the deflection is Eaſterly as here
+with us in England and the adjacent parts. But the
+Magneticall azimuth is altogether found by inſtrumentall
+obſervation, the Solar by Calculation or the reſolution
+of the obliquangular ſphaericall Triangle PZS,
+whoſe ſides are already knowne, and therefore the Angle
+PZS may be obtained by the fourth compend of
+the laſt chapter of the Britiſh Trigonometry after this
+manner.
+            
+               
+                  
+                      
+                     Logarithmes
+                  
+                  
+                     PS. Diſt of the ☉ frō the Pale 10254789
+                     00269391447
+                  
+                  
+                     ZS. Compl. of the ☉ altitude 7002722
+                     02061682627
+                  
+                  
+                     ZP. compl. of the Latitude 3846667
+                      
+                  
+                  
+                     Sum of the ſides 21104178
+                      
+                  
+                  
+                     The halfe ſumme 10552089
+                     99838665722
+                  
+                  
+                     Diff. of the Baſe and ½ ſumm. 297299
+                     87148768587
+                  
+                  
+                      
+                     189318508383
+                  
+                  
+                  
+                     The log. of the ſine of 169996
+                     94659254191
+                  
+                  
+                     The complement 730004
+                      
+                  
+               
+            
+            The double whereof is 1460008 the Angle inquired
+PZS. But the Magnet. Azim. is 1350000 namely the
+Angle CZS. The differ. is 110008 MZB the variation
+inquired, which converted into ſexageſmes is 11 gr. 0
+min, 0 Sec. Mr, Burrowes by the helpe of the afternoons
+obſervation making it 11. gr. 22 min. 30 ſec. the difference
+being 0 gr. 22 min. 30 ſec.
+            The like may we doe with the ſame Altitude for
+the Afternoone, if we ſhall onely rectify the declination
+anſwerable to the Sunnes motion for the internall
+of time. The Sunnes true place was in 3179445 of ♏ the
+declination correſpondent was 1261740. Then in the
+adiacent diagram, being the ſame with the former,
+ſave onely that the magneticall Azimuth CZS is (as
+it ought to be) greater then the Solar PZS, we have
+the ſame termes given, and therefore by reſolving the
+
+Triangle PZS, the angle inquired PZS may be found
+either by the former or the third variety belonging to
+the 11 Probleme of the ſame booke, and agreeing as
+
+                  
+               
+well with the Calculation of a Plane Triangle as of a
+Sphaericall, after this manner.
+            
+               
+                  
+                     Gr.
+                      
+                  
+                  
+                     
+                        PS. diſt. of the ☉ from the Pole 10261740
+                      
+                  
+                  
+                     ZS. compl. of the ☉ Altitude 700272
+                           •
+                        
+                     
+                      
+                  
+                  
+                     
+                        ZP. compl. of the Latitude 3846667
+                      
+                  
+                  
+                     The ſum of the ſides 21
+                           •••
+                        129
+                     Logarithmes
+                  
+                  
+                     The halfe ſumme 10555564
+                     00162066869
+                  
+                  
+                     Dif. of the half ſum &amp; ſides PS 293824
+                     12902261021
+                  
+                  
+                     ZS 3552842
+                     97642558829
+                  
+                  
+                     ZP 6708897
+                     99643117219
+                  
+                  
+                     The ſumme of the logarithmicall ſines
+                     210350003938
+                  
+                  
+                     Logarithmical tang: of half the Angle
+                     105175001969
+                  
+                  
+                     which found in the canō anſwereth to
+                     73104441 the
+                  
+                  
+                     double whereof is the angle ſought
+                     146208882 PZS
+                  
+                  
+                     But the Magneticall Azim: is
+                     157750000 CZS
+                  
+                  
+                     The difference is the variation
+                     11541118 CZP.
+                     
+                  
+               
+            
+            which converted into ſexageſmes, is 11 gr. 32 min. 28:
+ſec. And if with this we compare the morning variation,
+(which ſhould have been the ſame with the
+afternoones) the difference will be 32 min: 28 ſec:
+               
+which may eaſily ariſe either from the Inſufficiency or
+Fabrique or groſſe handling of the Inſtruments. So
+that if we take the Arithmeticall meane, we may probably
+conclude the variation anſwerable to his time
+to be about 11 gr. 16 min: with which very neere concurreth
+Dr. Gilbert, finding it 11 gr. 20 min.
+            From theſe we proceed to Mr. Gunters Obſervations,
+the Table whereof we have here inſerted, as we finde
+them in his mathematicall workes, where we ſee the
+variation not to exceede 6 gr. 13 min. His inſtruments
+were one Quadrant of three foote Radius for
+the Sunnes Altitudes: His Needles were two, the one
+of ſix, the other of 10 Inches in length. The Sunnes
+Azimuthes were found by calculation, and the Azimuthes
+Magneticall, taken off a Horizontall Plane by a
+line of Chordes, whoſe Semidiameter was twelue
+Inches.
+            
+               
+                  Mr. Gunters Obſervations made at Limehouſe
+Iun: 13 Anno 1622 after Noone.
+                  
+                     Alt: ☉
+                     Azim: Mag
+                     Azim: ☉
+                     Variation.
+                  
+                  
+                     Gr. Min.
+                     Gr. Min.
+                     Gr. Min.
+                     Gr. Min.
+                  
+                  
+                     19 0
+                     82 2
+                     75 52
+                     6 10
+                  
+                  
+                     18 5
+                     80 50
+                     74 44
+                     6 6
+                  
+                  
+                     17 34
+                     80 0
+                     74 6
+                     5 54
+                  
+                  
+                     17 0
+                     79 15
+                     73 20
+                     5 55
+                  
+                  
+                     16 18
+                     78 12
+                     72 32
+                     5 40
+                  
+                  
+                     16 0
+                     77 50
+                     72 10
+                     5 40
+                  
+                  
+                     10 10
+                     71 2
+                     64 49
+                     6 13
+                  
+                  
+                     0 52
+                     70 12
+                     64 25
+                     5 47
+                  
+               
+            
+            Thus haue we prooved that for the Interſtice of 42
+
+yeares, there hath beene an evident diminution of five,
+degrees variation. I deny not the Artifice to be very
+nice and ſubtle, and that an error may vnawares eaſily
+inſinuate it ſelfe, which together with this great
+diſcrepance, moved ſome of us to be overhaſty in
+caſting an aſperſion of error on Mr. Burrows obſervations,Mr. Iohn Marr.
+(though ſince upon noe juſt grounds) till an acquaintance
+of ours, lately applying Mr. Gunters owne
+Needle to the ſide of the Cubicall Stone of his Majeſties
+Diall in White Hall garden, could not finde the
+variation ſo great as 6 gr. 15 min: formerly found;
+whereupon reſolving with ſome friends to make an experiment
+hereof, we went to Diepford the laſt yeare
+1633 the day of the Sunnes entrance into the ſummer
+Solſtice, to the very ſame place where Mr. Gunter heretofore
+had made obſervation, and found it much leſſe
+then fiue degrees; And afterwards calling into Queſtion
+the Inſufficiency of our Inſtruments, that all
+ſcruple might be quite taken away, we had recourſe
+this preſent yeare 1634 Ioh. 12. ſtilo vet: to the ſame
+Garden of our learned and ingenuous friend Mr. Iohn
+Welles, with a Quadrant of ſix foote Radius for ſolar
+Altitudes, continually rectified with great care, and a
+Horizontall Quadrant of two foote Radius, for the
+determining of the Magneticall Azimuthes, exactly
+ſet to the Magneticall meridian, and in paralelliſme
+to the Horizon; (otherwiſe great error might enſue)
+with two Needles of twelue Inches in length well
+touch't with good Magnetts; And for the better ſatisfaction,
+tooke with us alſo the very ſame Needle
+wherewith Mr. Gunter made the foreſaid obſervations,
+in length ten Inches; all three muſt, accurately reſpecting
+
+the ſame Magneticall Meridian as we then proved.
+And leaſt there might ariſe ſome diverſity in the
+variation through the touches of ſeverall Stones, I
+cauſed the one Needle firſt touch't by a very good
+Magnet, to be retouch't by another as good if no better,
+and the ſame wherwith moſt of our zea compaſtes
+are touch't, and yet found no difference betweene
+them. And ſo Iune the 14. 1634▪ we made theſe following
+obſervations, where we found the variation
+not to exceed 4 gr. 10 min. as appeareth by the Table
+annexed.
+            And becauſe in the Reſolutions of theſe obliquangular
+ſphaericall Triangles for the Solar Azimuthes we
+have neceſſary uſe of the Latitude of the Place, the
+ſame we determine by the Sunnes meridian Altitude
+to be 51 gr. 30 min. after this manner.
+            
+               
+                  
+                      
+                     Gr.
+                  
+                  
+                     The apparent Altitude of the Sunne
+                     62: 0: 0
+                  
+                  
+                     The Parallax of the Sunne added
+                     0: 1: 22
+                  
+                  
+                     Therefore the Sunnes true altitude
+                     62: 1: 22
+                  
+                  
+                     Sunnes declination according to Tycho
+                     
+                     23: 31▪ 22
+                  
+                  
+                     Hence the Altitude of the Equinoctiall
+                     38: 30. 0
+                  
+                  
+                     The compl. wherof is the hight of the Pole
+                     
+                     51. 30. 0
+                  
+               
+            
+            
+               
+                  Obſervations made at Diepford An.Teſtibus ac ſecus is D. Welles. Harriſon. Marr. Butler. Ho
+                           •
+                        ton. Ho
+                           •
+                        knell. 1634 Iunij 12 before Noone
+                  
+                     Alt: ☉ vera
+                     Azim. Mag
+                     Azim. ☉
+                     variatiō
+                     
+                  
+                  
+                     Gr. Min.
+                     Gr. M.
+                     Gr. M,
+                     Gr. M.
+                  
+                  
+                     44, 45.
+                     106, 0
+                     110 6
+                     4. 6
+                  
+                  
+                     46, 30,
+                     109, 0
+                     113 10
+                     4 10
+                  
+                  
+                     48. 31,
+                     113, 0
+                     117 1
+                     4 1
+                  
+                  
+                     50, 54,
+                     118▪ 0
+                     122, 8
+                     4. 2
+                  
+                  
+                     54, 24,
+                     127. 0
+                     
+                        
+                           •
+                        30 55
+                     3 5
+                  
+               
+            
+            
+               
+
+               
+                  After Noone the ſame day.
+                  
+                     Alt. ☉ vera
+                     Azi. Mag
+                     Azim. ☉
+                     Variation
+                  
+                  
+                     Gr. Min.
+                     Gr: M.
+                     
+                        G. Mn.
+                     Gr, Min
+                  
+                  
+                     44 37
+                     114: 0
+                     109. 53.
+                     4: 7
+                  
+                  
+                     40 48
+                     108: 0
+                     103, 50
+                     4: 10
+                  
+                  
+                     38 46
+                     105. 0
+                     100, 48
+                     4. 12
+                  
+                  
+                     36 43
+                     102, 0
+                     97. 56
+                     4. 4
+                  
+                  
+                     34 32
+                     99, 0
+                     95, 0
+                     4: 0
+                  
+                  
+                     32 10
+                     96: 0
+                     91. 55
+                     4: 5
+                  
+               
+            
+            Theſe Concordant Obſervations can not produce a
+variation greater then 4 gr. 12 min. nor leſſe then 3 gr.
+55 min. the Arithmeticall meane limiting it to 4 gr.
+and about 4 minutes.
+            And for a further confirmation herof (though moved
+upon no juſt reaſon to ſuſpect theſe obſervations,
+being every way as cautelous in them as poſſible we
+could) as ſoone as the intermiſſion from my publique
+Exerciſe would permit, I cauſed the ſame inſtruments
+to be tranſported to Paules Cray in Kent, diſtant from
+London SE and by S about 12 miles, where the fourth
+of Iuly following (Fide Aſtronimica) I made the ſubſequent
+animadverſions, hardly amounting to 4 degrees.
+            The Latitude of the Place I finde by the ſame large
+Quadrant to be 51 gr. 25 min. which thus I prove.
+            
+               
+                  
+                      
+                     o
+                     i
+                     ii
+                  
+                  
+                     
+                        Iuly 21 the ☉ apparent meridian altit. was
+                     56:
+                     53:
+                     0
+                  
+                  
+                     The Sunnes parallex to be added
+                     0,
+                     1.
+                     36
+                  
+                  
+                     The ſum is the Sunnes true Altitude
+                     56,
+                     54,
+                     36
+                  
+                  
+                     The declination of the Sunne ſubtracted
+                     18,
+                     19,
+                     36
+                  
+                  
+                     The Relique is the altitude of the equinoc.
+                     38.
+                     35.
+                     0
+                  
+                  
+                     The compl: wherof is the hight of the Pole
+                     
+                     51.
+                     25,
+                     0
+                  
+               
+            
+            
+               
+               
+                  Obſervations made at Pauls Cray in Kent Iuly: 4: 1634:
+After Noone.
+                  
+                     vera alt. ☉
+                     Azim: mag
+                     Azim: ☉
+                     variatio
+                  
+                  
+                     Gr, Min:
+                     Gr, Min:
+                     Gr. Min:
+                     Gr: Min
+                  
+                  
+                     40: 55.
+                     111 30
+                     107 30
+                     4 0
+                  
+                  
+                     40: 1
+                     110 0
+                     106 5
+                     3 55
+                  
+                  
+                     39: 41.
+                     109 30
+                     105 34
+                     3 56
+                  
+                  
+                     38: 42.
+                     108 0
+                     104 5
+                     3 55
+                  
+                  
+                     35: 32.
+                     103 30
+                     99 32
+                     3 58
+                  
+                  
+                     34. 49.
+                     102 30
+                     98 32
+                     3 58
+                  
+                  
+                     33, 41,
+                     101 0
+                     97 0
+                     4 0
+                  
+                  
+                     32. 57:
+                     100 0
+                     96 2
+                     3 58
+                  
+                  
+                     32: 9,
+                     99 0
+                     94 58
+                     4 2
+                  
+                  
+                     31, 25,
+                     98 0
+                     94 0
+                     4 0
+                  
+                  
+                     30: 39:
+                     97 0
+                     93 1
+                     3 59
+                  
+                  
+                     29: 29:
+                     95 30
+                     91 31
+                     3 59
+                  
+                  
+                     27, 51:
+                     93 30
+                     89 28
+                     4 2
+                  
+               
+            
+            It were needleſſe having ſo many ſufficient teſtimonyes,
+to produce any more; one onely obſervation
+made with circumſpection being as good as one hundreth.
+So that its plaine, the obſervations made in this
+place do all make the variation to fall neere upon 4 degrees.
+            Hence therefore we may conclude that for the ſpace
+of 54 yeares (the difference of time betweene Mr. Burrowes
+and theſe laſt obſervations of ours) there hath
+beene a ſenſible diminution of 7 degrees and better.
+            If any affected with magneticall Philoſophy ſhall
+yet deſire to ſee an experiment made for their owne
+particular ſatisfaction, where I may prevaile, I would
+adviſe them to pitch a faire ſtone parallell to the Horizon
+
+there to reſt immoveable, and having a Needle
+of a convenient length ſtrongly touch't by a vigorous
+Magnet to draw a Magneticall Meridian thereby, and
+yearely to examine by the application of the ſame (well
+preſerved from the ayre and ruſt, its greateſt enemies)
+whether time will produce the like alteration.
+            I will not here enter into a diſpute concerning the
+cauſe of this ſenſible diminution, whether it may be
+imputed to the Magnet, or the Earth, or both. It is not
+unknowne to the world, how the Greateſt Maſters of
+Aſtronomie, which this age hath afforded, for the more
+eaſy ſalving the apparent anomalar motions of the fixed
+and erratique caeleſtiall lights, and avoyding that
+ſupervacaneous furniture of the Ancients, do with all
+alacrity embrace that admirable Copernicean Hypotheſis
+of the diurnal, Annual, &amp; Secular motions of the earth,
+in ſo much as conferring with that Great Aſtronomer
+D. Phil. Lanſberg. in Zealand about Aſtronomicall matters,
+did moſt ſeriouſly affirme unto me, he ſhould never
+be diſſwaded from that Truth. This which he was
+pleaſed to ſtile a truth, I ſhould readily receive as an Hypotheſis,
+and ſo be eaſily led on to the conſideration of
+the imbecillity of Mans apprehenſion, as not able rightly
+to conceive of this admirable opifice of God or
+frame of the world, without falling foule on ſo great
+an abſurdity. Yet ſure I am, it is a probable inducement
+to ſhake a wavering underſtanding. And which adds
+ſomewhat more, I underſtand by Galilaeus a Florentine,
+and a moſt acute and learned Mathematician, that an Italian
+Gentleman of the Family of the Marſilii hath lately
+found the mutation of the Terreſtriall Meridians, and
+penned a treatiſe thereof not yet publiſhed, which the
+ſaid Galilaeus hath ſeene and read conſtupore, not without
+amazement. His words are theſe.
+            
+               
+Surge di preſente una quinta novita, dalle quale
+ſi poſſa arguir mobilita nel globo terreſtre, mediante
+quello, che ſottiliſsimamente va ſcoprendo l' illuſtriſsimo
+S. Caeſare della nobiliſsima famiglia de i Marſilij
+di Bologna, pur' Academico Linceo, il quale
+in una dottiſsima ſcrittura va eſponendo, come ha
+oſſervato una continua mutazione, benche tardiſsima,
+nella linea Meridiana; della quale ſcrittura,
+da me ultimamente con ſtupore veduta, ſpero che
+douera fare coppia a tutti gli ſtudio ſi delle maraviglie
+della natura.
+            Which in Engliſh runnes thus.
+            Now there ariſeth a fift noveltie, from which we
+may argue the mobility of the terereſtriall Globe, by the
+meanes of that which moſt ſubtllie the moſt muſtruous
+Gentleman Sig: Caeſar of the moſt noble familie of
+the Marſilij of Bologna a Lyncean Academicke alſo,
+hath diſcovered, who in a moſt learned tract plainely
+ſheweth how he hath obſerved a continuall mutation,
+although very ſlow, in the Meridian line; which diſcourſe,
+which with wonder I lately ſaw, I hope he
+will impart to all thoſe who are Studious of the wonders
+of nature.
+            Surely if it be ſo, the due conſideration of the premiſſes
+doth (as I conceive) lay open a faire way for the
+
+ſalving of that Irregular Motion imputed to the Axis
+of the Earth. I meane the alterable Obliquity of the
+Ecliptique, which to deny (as ſome yet doe, not without
+great violence offred to the Ancients) I ſhall hardly
+(without very ſtrong argument) be perſwaded. I pretermit
+likewiſe a ſuppofition which might be made of the
+correſpondent motion of the Pole of the Magnet with
+thoſe of ſome of the Planets, and divers other conceits,
+which muſt be all left to future times to diſcover, this
+Invention being but newly preſented to the world in
+its infancy.
+            
+               Greſham College 5 Cal. Aug. 1634.
+               
+            
+         
+         
+            Errata Typographica.
+            PAg. 7 lin. 1. for Gilberts read Gilbert. Pag. 7 lin, 16 for
+D
+                     ••
+                  ford read Diepford. p. 9 lin 19 for the ſame way, read
+the way. p. 9 lin. 27 for 9 ½ read 9 ⅓. p, 13, lin, 12, for internall
+reade intervall: pag, 16 lin laſt for muſt reade moſt:
+            FINIS.
+         
+      
+   
+

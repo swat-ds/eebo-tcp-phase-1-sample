@@ -1,0 +1,625 @@
+
+   
+      
+         
+            A booke of the inuention of the art of nauigation and of the greate trauelles whiche they passe that saile in Gallies: compiled by the famous Sir Anthonie of Gueuara, bishop of Mondonnedo, preacher, chronicler, and counseller vnto the Emperour Charles the fift. Dedicated by the said authour, vnto the famous Sir Frances de la Cobos, great comptroller of Leon, and counseller vnto the said Emperour Charles the fift. Wherein are touched most excellent antiquities, and notable aduertisements for such as saile in Gallies.
+            Guevara, Antonio de, Bp., d. 1545?
+         
+         
+            
+               1578
+            
+         
+         Approx. 100 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2009-03 (EEBO-TCP Phase 1).
+            A02293
+            STC 12425
+            ESTC S115663
+            99850881
+            99850881
+            16116
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A02293)
+            Transcribed from: (Early English Books Online ; image set 16116)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 710:05)
+         
+         
+            
+               
+                  A booke of the inuention of the art of nauigation and of the greate trauelles whiche they passe that saile in Gallies: compiled by the famous Sir Anthonie of Gueuara, bishop of Mondonnedo, preacher, chronicler, and counseller vnto the Emperour Charles the fift. Dedicated by the said authour, vnto the famous Sir Frances de la Cobos, great comptroller of Leon, and counseller vnto the said Emperour Charles the fift. Wherein are touched most excellent antiquities, and notable aduertisements for such as saile in Gallies.
+                  Guevara, Antonio de, Bp., d. 1545?
+                  Hellowes, Edward.
+               
+               [58] p.   
+               
+                  [By H. Middleton] for Ralph Newberrie dwelling in Fleetestreate,
+                  Imprinted at London :
+                  Anno. 1578.
+               
+               
+                  A translation from the Spanish by Edward Hellowes, who signed the dedication.
+                  Printer's name from STC.
+                  Signatures: B⁶(-B1) 2B⁴ C-G⁴.
+                  Reproduction of the original in the British Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Navigation --  Early works to 1800.
+            
+         
+      
+      
+         
+            2007-12
+            TCPAssigned for keying and markup
+         
+            2008-01
+            SPi GlobalKeyed and coded from ProQuest page images
+         
+            2008-02
+            Elspeth HealeySampled and proofread
+         
+            2008-02
+            Elspeth HealeyText and markup reviewed and edited
+         
+            2008-09
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            A BOOKE OF THE INuention of the Art of Nauigation, and of the greate trauelles whiche they paſſe that ſaile in Gallies: Compiled by the famous Sir Anthonie of Gueuara, biſhop of Mondonnedo, Preacher, Chronicler, and Counſeller vnto the Emperour Charles the fift. ⁂
+            
+               Dedicated by the ſaid Authour, vnto the famous Sir Frances de la Cobos, great Comptroller of Lo
+                  ••
+               , and Counſeller vnto the ſaid Emperour Charles the fift. Wherein are touched moſt excellent antiquities, and notable aduertiſements for ſuch as ſaile in Gallies. ⁂
+            Imprinted at London for Ralph Newberrie dwelling in Fléeteſtreate.
+            
+            
+               ANNO. 1578.
+            
+         
+         
+            
+            
+            TO THE RIGHT HOnourable the Lord Charles Haward Baron of Effingham, and Knight of the moſt noble order of the Garter: Edward Hellowes wiſheth long life, with the fulneſſe of all perfecte felicitie.
+            
+               
+                  RIght Noble, I not onely directed by the glorious Gueuara in this example and treatiſe which he dedicated vnto a noble man of Spaine, &amp; in ſingular fauor with the Emperour Charles the fifte, but alſo conſtreyned with the oppreſsion and burthen of your bountie, wanting all other mean either of abilitie or facultie, to diſcouer my dutiful affection, with the more boldnes, not without regard of the mildnes of your humanitie, with an humble
+
+feare to be noted of mine owne parte, of ſome preſumption, or want of due conſideration of any imperfection of the matter, do preſent, reſpecting your age &amp; honour annexed vnto the rare vertues of fortitude and temperance, with the experience of the ſea and ſea matters, with ſhippes and ſhipping, wherein approued trial, no leſſe worthie credite, hath made knowne vnto all perſons not inſenſible: your readines &amp; aptnes in all weathers, to manure not only the meanest matters, as all maner of cordage and tackle within boord, namely ſheat, halliard, bowline, tacke and helme, with ſuch other, as alſo the vſe and practiſe of the Astrolobe, Baliſtilio, Carde and Compaſſe: but alſo the diligent ſearche in knowledge, of all capes, forelands, ſhores, portes, creekes, hauens, races, tides, bankes, and rockes. All which things although not vſuall to
+
+Noble men, &amp; yet moſt neceſsarie vnto all manner perſons that haunteth the ſeas: expreſseth kinde to be an aſſured guide, to yeld vnto your honour more expertnes then is common or eaſily obteyned, to be heyre and ſucceſſour of Neptunes charge and gouernement. This ſmall treatiſe, (as a ſubiecte in nature) were it of worthines ſufficient, moſt due vnto your honour: but barren prouiſion impayring my good meaning, forceth me to preſent vnto your honour, the handfull of water, (as it were) which was preſented vnto the mightie Artaxerxes, who with ſuch mildnes did accepte the ſame, that he ſaid no leſſe nobleneſſe did conſiſt in receyuing ſmall thinges, then to giue great and mightie giftes. Right humbly beſeeching, that it may pleaſe your honour, not onely to receiue this ſimple preſent in good part, but my ſincere meaning
+
+into your good fauour: and I ſhall not ceaſe with fortified minde to craue the omnipotent GOD to giue your Honour large and vertuous increaſe to the noblenes of your minde, as alſo the concluding and most abſolute felicitie, which yeeldeth happines in all worlds.
+            
+               Your Honours moſt humble to commaund: Edward Hellowes.
+               
+            
+         
+         
+            
+            To the Reader.
+            
+               RIGHT Chriſtian Reader, dedicating my ſelfe vnto thy good diſpoſition, by this ſmal treatiſe, I giue thee to vnderstand, of the firſt and old inuention, as alſo the inuenters, chiefly of Gallies, as alſo of ſhippes: by whiche deuice wee generally conceiue all countries to obteine participation of eache others commodities: Sea fiſhing with the profits and nouriſhment therof obteyned: as alſo the territories of diuers countries defended: with diuers &amp; many ſuch others. Wherin of the other part, if I ſhould alledge the opinion of certeine, whiche affirme, that ſo vnremoueable bounds declareth Gods omnipotent ordināce, that euery country ſo diuided ought to content themſelues to liue, by the gifts of the ſame God &amp; countrie: and that Gods iuſtice conſenteth not vnto ſo great miſchiefes, which both firſt and laſt ſhippes and gallies not onely by murders and ſlaughters haue been committed, but alſo by transporting exceſſiue vanities, aduauncing this worlds inſolencie, would not growe ouerlong &amp; tedious, but alſo ſomewhat beſides the matter. But to the purpoſe, thou haſt alſo (gentle Reader) herein to vnderſtād, the opinions of diuers Philoſophers, which in their owne perſons would neuer conſent vnto Nauigation, wherin as mee ſeemeth they haue diſcouered their owne weaknes, of al men to be noted, but not of all perſons to be imbraced. Alſo the mightie &amp; famous Pirates of old time, to be meruailed how they might atteine vnto ſo great power &amp; continuance: &amp; in the end, vnto ſo miſerable deſtruction. Alſo priuileges ſomewhat ſtraunge which they vſe in Gallies, of all perſons which meane to haunt the ſame to be noted. Alſo the ſubtile dispoſition of the Sea, and perillous properties thereof aptly declared. As alſo the neceſſarie prouiſion for paſſengers, therein to be vſed. Farewell.
+         
+         
+            
+            A Letter Miſſiue, or Dedicatorie of the Authour, vnto the renowmed ſir Fraunces de la Cobos. (⁂)
+            
+               
+                  AMongst the Philoſophers, namely Mimus, Polyſtorus, Azuarchus, and Pericles, there paſſed no ſmall contention, and no leſſe varietie of argument, in the definition, what eſtate or cōdition of men were moſt ſubiect vnto the inconſtancie of Fortune? &amp; vnto whome ſhe diſcouered her ſelfe moſt ſuſpicious, and leaſt worthy credite. The Philoſopher Polyſtorus ſaid that Fortune was not in any thing more vncerteine, &amp; wherein ſhe did leſſe keepe promiſe, then in the act of matrimonie: for ſo much as there had beene no mariage wherein there was not found ſome want, weakenes, or deceipt: which is to ſay, that the wife proued either fooliſh, ſubtile, abſolute, of tedious parēts, of dowrie vncerteine, ful of ſtrife, or ſuch other infirmitie. The Philoſopher Azuarchus held opiniō, that Fortune was not more vncerteine or ſuſpicious, then in the feate of armes, or martiall affayres: affirming, that it was in the hands of men to enter battell, but in God onely to giue victorie. The Philoſopher Pericles affirmed, that Fortune was not in any thing more incōſtant, or vnſound, then with the priuate and fauoured ſeruauntes of Princes, with whom ſhe ſtaid long in aduauncing of them, and after with a blaſt ſhe ouerthroweth them. The Philoſopher Mimus auouched, that Fortune in any thing did not more vſe her will, and leſſe obſerue promiſe,
+
+then in ſea matters &amp; Nauigatiō of mariners: for there neither profiteth ſubſtance, or is wiſedome ſufficient: eyther doth ſhe reſpect perſons: but if Fortune fancie, ſhe leadeth a Lighter amonges the mounteines of the high ſeas, and after drowneth a Carrecke in the hauen. Applying that which is ſaid, vnto that which I would ſay, me ſeemeth (right noble) that of theſe foure maner of Fortunes, two of them are knocking at your gates, which is to ſay, the poſſeſſion of great fauour with our Caeſar, and the ofte ſayling whiche you vſe at ſea. Hee whoſe honour dependeth on the wil of others, &amp; many times commendeth his life vnto the ſea, the one is very daungerous, &amp; the other proceedeth of great raſhnes. Your honour performeth no ſmal attempt, to beard &amp; make head againſt the ſtūbling blocks that Fortune beſtoweth vpon ſuch, as ſhe aduaunceth to great honour, but that you alſo hurle &amp; abandon your perſon ſo oft into the waues of ſo fierce ſeas? Publianus the Philoſopher ſaid, Improbe Neptunū accuſat, qui iterum nanfragiū facit. As if he would haue ſaid, He vniuſtly cōplayneth of the ſea, that two times paſſeth the ſame: ſince he that only twiſe paſſeth the ſea, hath not licence to complaine thereof: then, by what iuſtice may he cōplaine, that foure times twiſe hath prouoked her fickle cōdition? Alwayes giue not credite &amp; yeld not faith vnto ſignes, likelyhoods, or cōiectures, either for that alwayes you are ſerued with a good gallie, or make your choice of a good capteine, or ſpecial Pilot, or ſerued with moſt chiefe prouiſion, and obſerue or watche moſt apteſt time. All which thinges giue good cauſe the more doubtfully &amp; with leſſe ſuretie to returne vnto ye ſea: for that flattering Fortune neuer ſhooteth her ſo cruell ſhott, as againſt ſuch perſons
+
+onely as ſhe hath led many yeres in great ſecuritie. Lucius Seneca writing vnto his mother, ſaid: O my mother Albinia, if thou knowe not, I giue thee to vnderſtand, that I neuer gaue credite vnto whatſoeuer Fortune did aduertiſe me, althogh at times there was truce betwixt vs: all thinges which ſhe ſent vnto my houſe, ſhe ſaid they were her abſolute giftes, but I neuer conceiued or receiued them but as lent: by which meane it cōmeth to paſſe, that when ſhe returneth to demaunde them, without any altercation willingly I do yeld thē: in ſuch wiſe, that if ſhe remoue them out of my cofers, at the leſt, ſhe ſhal not teare them out of mine entrailes. Hee that ſaid theſe and ſuch like wordes, was natiue of Cordoua, which is not farre diſtant from your citie of Vbeda: and further, he was as priuate with the Emperour of Rome, as your honour is now in Spaine: And after fourtie two yeares that he had manured the common wealth of Rome, in ambuſhe Fortune had placed ſo great miſchiefe, procured by her great deſpight, and no leſſe deceipte, that in one day hee loſt both life and goods. Sir beleeue me and be out of doubt, that in this life there is nothing more certeine, then that, what ſoeuer it conteyneth is moſt vncerteine.
+            The Emperour Titus on a day eating with great ioy, ſoudeinely at the table clapt his handes and gaue a great ſighe, and being demaunded, why he ſighed ſo deepely, made aunſwere: I may not ſatiſfie my ſelfe, with ſighing, either ceaſſe from weeping, ſo oft as I call to remembrance howe at the will and pleaſure of Fortune, my honour is cōmitted, my goodes ſequeſtred, &amp; my life depoſed. Oh high, and verie high wordes, right worthie to be written in the hartes of the mightie! Opulent
+
+riches, high eſtates, and ſouereigne fauours, if I durſt ſay, I would ſay, that it is more honourable and alſo more ſafe to deſpiſe and hold them in ſmall eſtimation, then to poſſeſſe them: becauſe to obteine them it is but fortune, but to contemne procedeth of valure. To giue you counſel to ceaſe to follow Caeſar, were of too great want of reuerence: and to perſuade you, not to returne into Italie, were raſhe ouerthwartnes: but that which I dare ſay, is, that you ſhould as much preſume to be a Chriſtian, as to be in fauour: and that firſt you accompliſhe with reaſon, and then with opinion. Not without conſideration, I did ſay &amp; aduenture my ſelfe to giue you this counſell: becauſe all the miſchiefe of Princes Courtes doth ariſe, that nation followeth nation, people followeth people, &amp; opinion followeth opinion: but reaſon neuer followeth reaſon. And for that vnto Princes we muſt giue our words by weight, &amp; vnto the fauoured by meaſure: my letter cōcludeth with this aduertiſement, that you commit truſt vnto ye Gallie but ſildom, but vnto Fortune neuer: becauſe they be matters much better to behold farre off then wherewith at hand to be conuerſant. I haue compoſed vnto your honour a booke, intituled, An aduiſe for the fauoured, at times when you ſhal be on land to peruſe: &amp; now haue compoſed this other treatiſe of the life of the Gallie: for when you ſhall paſſe the Seas, my intent hath bene, that the one may ſerue to paſſe the time, &amp; the other the profite of time. And if for that I am of ſmal power and leſſe valure, you hold my watchings in ſmall eſtimation, yet my intent is not to be reiected: for that none doeth ſo much deſire, that you be in fauour, as I deſire that you be ſaued.
+         
+      
+      
+         
+            
+            A TREATISE OF THE inuenters and inuention of the Arte of Nauigation, and of the trauels of the Gallies. Compiled by the renowmed ſir Anthonie of Gueuara Biſhop of Mondonnedo, Preacher, Chronicler, and Counſeller vnto the Emperour Charles the fifte.
+            ¶ The Theame and Introduction followeth.
+            
+               To liue in the Gallie at the Seas,
+            
+            
+               God diſpoſe it to whome it ſhall pleaſe.
+            
+            
+               WHich wordes being taken for the foundation of this preſent treatiſe, are the termes of an auncient prouerbe, which amongeſt the common people is greatly vſed, and of ſuch as eſcape the Gallies much lamented. That whiche we terme in Spaniſhe, Retrans: is ſaid in Latine, Prouerbes: in Gréeke, is vnderſtood, Sentences: and in the Chaldean, is named Experiences: in ſuch maner, that Refrans, or Prouerbes is no other thing, but certeine Sentences of Philoſophers, and aduertiſementes of men of experience.
+            In this manner and kinde of prouerbes, many auncient and learned perſons haue written, That is to ſay: Xenophon the Thebane, Pittacus the Greeke, Anacharſis the Numidian, Solomon the Hebrue, Mythas the Aegyptian, &amp; Seneca the Spaniard. Plutarche Cheronenſis ſaith, that he gaue more credite vnto poore womens Prouerbes, then to the ſayinges of the loftie Philoſophers: for the one neuer ſay but that which they haue experimented, and the other do write very oft, that which they do but dreame.
+            If Trogus Pompeius deceiue vs not, in the common wealthe of the Sicyonians, Philoſophie was neuer read,
+
+neither did they ad
+                  ••…
+               t Philoſophers, but commende their warlike affaires vnto valiant Capteines, and the gouernement of their Common wealth vnto men of experience. The Sicyonians being demaunded by King Cyrus, who they did not admitt Philoſophers, or giue themſelues in Philoſophie, made anſwere: O King Cyrus, we giue thée to vnderſtand, that this our countrie is paire, and full of mounteines, &amp; hath more neceſſitie of labourers and plowmen, then of Philoſophers. And further, we finde by experience, that from ſtudies they procéede more vicious then Philoſophers: for which cauſe, we determine to gouerne our Common wealth by the experience which old men poſſeſſe, &amp; not by the ſcience which Philoſophers do learne. That the Sicyonians ſhould vtterly reiect the learned, I condemne them for brutiſhe: but ioyntly therewith, for their gouernement, by men of experience, I commend them as diſcréete: bycauſe for mine owne parte, and alſo for thine that ſhalt either heare or reade this ſame, wée ſhall be muche better gouerned, by him that is of two yeares experience, then by him that hath tenne of ſcience. The Theame of this our treatiſe which ſayth:
+            
+               To liue in the Gallie at the Seas,
+            
+            
+               God diſpoſe it to whome it ſhall pleaſe.
+            
+            We may ſafely and without preiudice ſweare, that it was not inuented by the Philoſophers of Athens, but by mariners at Sea: for which conſideration, it is great reaſon that we beléeue and giue them credite, &amp; holde it in eſtimation: ſince the inuention procéedeth of matter well proued, and not dreamed or diuined.
+            But the matter is, that in this treatiſe we ſhal ſpeake of the originall, and firſt beginning, of the manner &amp; making of Gallies, and what prouiſion is to be prouided and vſed in them: all which things being ſaide and declared, I am aſſured that manie will woonder, and
+
+ſome will laugh. All that we ſhall blazon and ſaye in this matter, our audience hath to vnderſtād, not hear-ſay, but experience doeth giue vs direction: for that ſcarcely there is not any porte, channell, or gulffe in all the Sea Mediterrane, but therein wée haue béene, hauing alſo paſſed no ſmall daunger. That whiche is ſaide ſuffiſeth for the introduction, and there reſteth not, but that ye hée attentiue: for that hee goeth to the Gallie in an euill houre, that taketh not holde of this my doctrine.
+            
+               
+               
+                  Of the ſtraunge report of Hiſtoriographers, concerning Gallies. The firſt Chapter.
+               
+                  BEfore King Ninus, before the deſtruction of Troie, before the floud of Can
+                        •
+                     ion, and before the greate battell at Peloponneſus, although many and verie notable thinges were founde and inuented by curious men, &amp; of delicate iudgement: yet we knowe not who were the inuenters, although their inuentions remaine with vs at theſe dayes: for that in thoſe ſo auncient worldes, men vnderſtoode not to read, much leſſe to write.
+               After that mans induſtrie at leaſure had found out letters, and the manner &amp; order of writing, we knowe euery notable thing, from whence it was inuented, howe it was inuented, who was the inuenter, and wherefore it was inuented.
+               Amongſt all old things, one of the moſte auncient is the arte of Nauigation: in which manie haue ſaide manie and variable things in their writings, wherin, for ſo much as they haue béene ſo diuerſe and contrarie in opinions: it is verie credible, that they were rather feigned, then either ſéene or read. But that whiche we meane in this matter, is, that for ſuch as are curious, we will write curiouſly, that which in this arte of Nauigation, the moſt auncients haue written, as well Gréekes as Latines: and it ſhall reſt in the diſcretion of the wiſe Reader, that he beléeue what he thinketh to be true: and as touching the reſt, to holde it as fabulous.
+               And for that in this treatiſe our principall intent is, to ſpeake of Gallies, &amp; of the inuenters and trauels
+
+thereof, we ſhall here recite, howe many faſhions of them were vſed in olde time, amongeſt the auncients, as well Greekes, Aegyptians, Carthaginians, as alſo Romanes.
+               
+               Writers of hiſtories doe report, that Demoſthenes the Thebane was the firſte whiche inuented to rowe with two oares on a banke: which was ſome what before the ſiege of Troie.
+               
+               Alſo they report, and the Gréeke Thucidides ſaieth no leſſe, that a tyraunt of Corinth named Amonicles, was the firſte that inuented Gallies, with thrée oares on a banke.
+               The Gaditanes, and the Penes, haue greate contention betwixt themſelues, for the firſte inuention of foure oares on a banke. But Ariſtotle doth rather yeld his opinion in the fauour of ye 
+                  Penes, who vſed that newe inuention, when they came to ſuccour the Lydians their friendes and confederates.
+               The Gallie of fiue oares on a banke, is ſaide to be the inuention of the Rhodians, when Demetrius did beſiege them: and others giue the glorie of this acte vnto Naſicus a renowmed capteine of King Cyrus.
+               
+               The Gallie of ſixe oares on a banke, Plutarche ſaith was the inuention of Amonides the Lycaonian: but Theſiphont denieth that it was the inuention of any, but of Xenagoras the Syracuſan, in the dayes ye 
+                  Nicias came from Greece to ſubuert Syracuſa.
+               
+               The Gallie of ſeuen oares on a banke, Plinie in a certeine Epiſtle woulde giue vs to vnderſtand, to be the inuention of Neſſegatus.
+               
+               
+                  Pretonius a moſte auncient writer doeth afirme, the inuention to apperteine only vnto Promotheus the Argiue: and yet others do ſay, that the ſingular Alchimides in inuention did find out the ſame: and which of theſe is true, he knoweth that is onely true.
+               
+                  
+                  Plutarche in the booke of the Fortune of Alexander, would giue vs to vnderſtande, that when Alexander the great did make an armie at the Sea againſt Diomedes the tyrant, he had a Gallie rigged and furniſhed with twelue oares on a banke: although of trueth he writeth it ſo obſcurely, that therein he diſcouereth his want, both in knowledge and exerciſe of Nauigation.
+               If any will giue credite vnto Barbo
+                        •
+                     us Theneus, muſt holde it as verified, that the greate Ptolomeus whiche was named Philadelphus, attained to haue foure thouſand gallies of twentie oares on a bank, the ſhaftes all trimmed with lead, to yeld them pliant and handſome for rowing.
+               
+                  Th
+                        •
+                     ſ
+                        •
+                     phont, &amp; Alercius, &amp; alſo Hermogenes make mention of a certeine Gallie, made by the ancient Heriſſon of Syracuſa: which had two forecaſtels, and two p
+                     •…
+                  pes, and vnder hatches, xxx. chambers, and a ponde of fiſhe that conteined twentie thouſand Canthars of water: adding thereunto ſo manie other ſtraunge things, that they rather ſéeme Poeticall, then otherwiſe.
+               Alſo it is ſaide of Ptolomeus Philopater, that was king of Aegypt, againſt whome the good Machabeans did fight: that he made a Gallie of fourtie oares on a banke, which was ſo ſtately to beholde, &amp; ſo harde to be gouerned, that it conteined more then foure thouſand oares, beſides ſixe hundreth mariners.
+               The ſonne of this ſaid Philopater, which alſo was named as his father, made another Gallie, not ſo ſtately, eyther ſo coſtly, but more beautifull, &amp; alſo of greater deuiſe &amp; engine: wherewith in Summer he did ſolace vppon the riuer Nilus, and did winter the ſame in the Iſle of Meroe.
+               
+               After the terrible battell Pharſalian, where Pompeie was ouercome of Caeſar, they ſay that Caius Caeſar
+                  
+purſued and alſo did take a Gallie, that fledd from that conflict of fiue oares on a banke, wherein there were ſo manie trées with fruit, as it had béene an orchard of Campania.
+               
+               
+                  Lucius Seneca, in a certeine Epiſtle, reprehendeth Lucullus the Romane of a certeine curioſitie, or to ſay better, a vanitie: which is to ſay, that he made a Gallie neare vnto his houſe of the Caſtell de Lobo, whiche was ſo large, that therein they did not onely chace the madde Bull, but alſo the Mariners gatt infinite money, to giue place vnto multitudes of people to beholde the ſame.
+               
+                  Dionyſius the Syracuſan, and Phocion being mortall enimies: Phocion cauſed a Gallie to bee made, wherein he, with his wife, children, ſeruants, friends, alies, and confederates, amounting to the number of ſixe thouſand and odde, which in the day time came vp the riuer, and at night did retire vnto the Sea.
+               Of Aurelianus the Emperour his Chroniclers doe recount, that after he triumphed of the Quéene Zenobia, he cauſed on the riuer Tiber ſuche and ſo great a Gallie to be made, that the largeſt partes of Tiber hardly might conteine the ſame: in the waſte wherof there was roome ſufficient, with horſes to runne the Carrera, as alſo to torney and iuſt.
+               To ſay all the friuolous vanities that in this matter of Gallies is ſaid and written, would growe verie large to be written, and tedious to be read: onely we will recite theſe fewe, to the ende the readers may vnderſtande, that alſo we haue read, and thereof verie litle beléeued. In this Chapter following, we will report the opinion of other hiſtorie writers, as concerning the inuention of Gallies, the which in my opinion are more credible, &amp; that which they haue written more to be credited.
+            
+            
+               
+               ¶Of the inuenters and vſers of Gallies, ſeruing for Nauigation, and of diuerſe their deedes. The ſecond Chapter.
+               
+                  
+                     THeſeus the renowmed Graecian, was the firſt that did chaunge and alter the great citie of Athens, naming &amp; creating therein Senatours, &amp; commaunding Palmes to be giuen vnto ye Conquerours: which cuſtome endured vntill the time of the Romanes, who afterwardes deuiſed to giue their Conquerours triumphes.
+               This Theſeus was he that entered the Labyrinth, and ſlewe the Minotaure, &amp; gaue an order to the people to liue, as alſo vnto their ſouldiours howe to fight: becauſe he was a Prince of a cleare &amp; delicate iudgement, and of a valiant and noble minde.
+               This Theſeus in a conqueſt, which he determined vppon Rothana, whiche is a countrie in Aſia, of his owne proper deuiſe inuented the firſte Gallie of this worlde: which firſte deuiſe atteined but vnto thirtie oares, and the maſt of xl. ſhaftments.
+               The Atheniens helde this newe deuiſe in ſo greate veneration, that their King Theſeus being dead, they placed the ſame within a temple, where long time afterwardes it was kept and conſerued.
+               
+                  Alcibiades was among the Gréekes of noble bloud, and of deuiſe verie ingenious, although of him not verie well employed: for that he naturally was an enimie to quietneſſe, and of greate affection to innouations.
+               This Alcibiades did vſe much to ſay, that onely for one thing, men ought to trauell in this life, which is to
+
+wéete, to be famous amongeſt ſtraungers, and a Lorde in honour amongeſt his vaſſals.
+               He being condemned to dye by the Atheniens, hearing the ſentence, ſaide: Not I of them, but they of mée are condemned to die: ſince I goe to the Gods, with whome none may die: and they remaine amongeſt men, with whome none may liue.
+               This vnquiet Prince Alcibiades came vnto the citie of Syracuſa of Trinacria, with an hundred &amp; thirtie Gallies, throughly well rigged and furniſhed with men and munition to deſtroy and ſubuert the ſame: for that he was aduertiſed they had armed a nauie to chaſtice his inſolent déedes done at Sea.
+               This Alcibiades was ye firſt that added other twentie oares vnto the Gallies, and vnto the maſt fiftéene ſhaftments, &amp; alſo of the Gallie he called the forep
+                     •…
+                  t Prora, and the hinder parte Puppis.
+               
+               
+                  Themiſtocles the Gréeke was a mortall enimie vnto Ariſtides the Thebane, for the death of the beautifull Aeſtigilia, whoſe death and iniurie, was of all the people of Greece bewayled: and by the handes of right glorious Princes reuenged.
+               Being demaunded of a Greeke, whether he had rather reſemble the great Achilles, that atchiued ſo great and manie things, or the Poet Homere that did write them with ſo high a ſtyle: thereunto Themiſtocles aunſwered: I woulde alwayes rather triumph with Achilles, then proclame with Homere.
+               
+               Being demaunded of his enimie Ariſtides, why he was ſo ambitious of warres, ſince the attempters thereof (for the moſte parte) did all periſhe therein, aunſwered: I confeſſe, ô Ariſtides, that manie that are affectionate vnto the warres, doe periſhe therein, but thou maiſt not denie mée, that verie fewe whiche are not dedicate therevnto, be crowned.
+               
+                  When he was requeſted, and alſo counſelled to marrie his daughter vnto one that was verie riche, &amp; no leſſe couetous, he aunſwered: I would rather haue a man that hath néede of money, then money that hath néede of a man.
+               The Atheniens being in great feare of the Cretenſians, with whome they trauerſed cruell warres, but the more, for that they had Atheutides of Corinth for their Capteine: therevnto Themiſtocles anſwered: feare not Theutides, for I knowe him, that if he haue a ſworde to kill, he wanteth an heart to drawe it out of the ſcabberde.
+               This Themiſtocles did arme and rigge foorth an hundred Gallies, againſt the Agiſinetes, whoe were pyrates, all whome he did take and hang: which déede made him in Greece to be ſerued, and in the Seas to be feared.
+               This noble gentleman was the firſt that inuented to place the forecaſtell, where mariners might ſhroude themſelues from the weather, and with more ſafetie fight with their enimies.
+               
+                  Symon, a famous Capteine of all the Lycaonians, when his friendes and parents did ſharply reprehend him, for leauing his ſtudie, and negligence in letters, he aunſwered: Brias my brother is méete for ſtudie, becauſe he is flegmatike: and I for the warres, ſince I am cholericke: for that Philoſophie agréeth verie well with men that be dull and negligent, and warre is to he commended vnto men of liuely and entermedling Spirites.
+               When in the Senate of Athens they argued in his preſence, whether were more ſafe to haue a good Capteine and a weake armie: or a ſtrong armie gouerned with a weake Capteine, he anſwered: For my purpoſe, I had rather haue an armie of Hartes, a Lion being
+
+their Capteine: then an armie of Lions, being gouerned by an Harte.
+               Being bounde vnto the conqueſt of a certeine people of the greater Aſia, and alſo perſuaded of a Capteine to ſende for the Agiſinetes, who did knowe very well to dy, he anſwered: The Gods neuer command, either my deſtinies permitt, that any ſuch people ſhold marche in mine armie: for in the warres we haue no néede of men that knowe to dye, but haue courage to kill.
+               This Symon was the firſte that gaue order in the Gallie to rowe with thrée oares on euery banke: and firſt inuented alſo the miſen ſaile.
+               He obteined an hundred Gallies to his owne proper vſe, of whome Plutarche ſayeth, that he ſo vowed him ſelfe vnto the Sea, that he paſſed thrée yeres, in all which time he neuer ſett his foote on lande.
+               King Demetrius, who was ſonne vnto King Antigonus, as he had ſucceſſe with Fortune, ſo did he order his life: which is to wéete, in time of peace he woulde ſuffer nothing that might be tedious: and in time of warre, he admitted nothing that might be pleaſant.
+               If King Demetrius had béene aunſwerable in his olde age, to the beginnings of his youth, he had béene another Achilles amongeſt the Greekes: and another Caeſar amongeſt the Romanes.
+               
+               His father King Antigonus being dead, althoughe he alwayes followed the warres that he had enterpriſed, and the parcialities which he had taken in hande, on the other parte he was ſo inconſtant of his woorde and promiſe, and ſo effeminate in his factes, that to followe his loue Lamia, he ſuffered detriment in his fame, was abhorred of all Greece.
+               
+               King Demetrius being demaunded, why in his youth he had béene ſo proſperous, &amp; in his olde yeres ſo infortunate,
+
+anſwered: Becauſe I was an enimie to reaſon, and gaue ouermuch truſt vnto Fortune.
+               In great conflicts and perils, many times ſighing he did vſe to ſay: O deceiptfull Fortune? howe eaſie art thou to be founde, but howe difficil to be kept?
+               Being blamed by his familiar friende, for his often murmuring at Fortune, by whome he had obteined ſo manie victories, and was indued with ſo many giftes: he aunſwered: Oh, howe great reaſon haue I to complaine of Fortune? which with victories hath made mée a foole, and with aduerſities hath not rendered my witt.
+               This King Demetrius alwayes delighted to haue a great fléete at Sea: &amp; was the firſt that inuented Gallies with xxv. bankes: amongeſt the reſt, he made a baſtarde Gallie, which was furniſhed with foure hundred oares, and conteined two thouſand armed men.
+               
+                  Philopater the Thebane, although nature had made him lame on one foote, and ſquint in one of his eyes, yet his great and doughtie actes were ſuch, and ſo renowmed, that he was intituled throughout all Gréece, Philopater the iuſt, for his good gouernement: and, Philopater the fortunate, for the victories whiche hée obteined.
+               A certeine Capteine named Ariſto, thwarting Philopater with wordes of reproche, that his lame foote in the warres did rather ſerue him to ſtumble, then to fight: Philopater anſwered: O Ariſto, I confeſſe vnto thée, that to go to ye warres, is a matter much more ſafe for thée then for mée for vnto thée there wanteth an heart to fight, &amp; yet haſt thou féete to flye: but vnto mée there wanteth féete to eſcape by flight, but no heart or courage to endure all conflicts and hazardes.
+               This Philopater was much and long time at Sea: and being demaunded, if he were not at ſome times
+
+afeard, he anſwered: We that go to Sea, are but only once afearde: and that is on lande, before we enter the Sea: for after we be entered and determined, then we hold it for moſt certeine, that at the mercie of a proude and loftie waue of the Sea, a ſandie banke, or a ragged rocke, we leade our liues to be ſolde.
+               This philopater came from Aſia to conquer Rhodes with an hundred Gallies, all rowing with ſeuen oares on a banke: certeinly, a thing verie monſtrous to beholde, and no leſſe difficult to ſuſteine.
+               Many Princes bothe Gréekes and Latines did imitate philopater in making gallies with ſeuen oares on a banke: all which did periſhe, and had an ende: and in the ende of many experiences practiſed in Gallies, they reſumed in generall, that the good Gallie is not to be more then of fiue oares on a banke, either leſſe then thrée.
+               The renowmed Cleopatra ſometimes Quéene of Aegypt, and onely loue vnto Marke Antonie, (which loue coſt him his life, and her both life and honour:) when ſhée paſſed from Aegypt vnto Graęcia, to encounter with Caius Caęſar, the oares of her Gallie were of ſiluer, her anchors of golde, her ſailes of ſilke, the ppooe of Marfile entailed.
+               Beholde here the inuenters of Gallies, &amp; alſo their inuentions, wherein, to this day, Seamen haue alwayes ſomewhat to bee amended, and no leſſe to bee added.
+            
+            
+               Of the firſt inuention of Nauigation, and the great daungers thereof, and of manie philoſophers that would neuer ſaile or paſſe the Seas. The thirde Chapter.
+               
+                  
+                  IF we ſhould beléeue Iſidorus in his Etymologies, the Lydians were the firſt that inuented the arte of Nauigation, who attained not, but to the ioyning of certeine beames or logs, which being faſtened and calfated, they entred into the Sea, fiſhing therein: not with courage ſufficient to wander farre from lande.
+               After the Lydians, the Sidonians were the firſt that added their inuention of certeine baſkettes made with Willowe roddes, ſkinnes, canes, and ciment, wherein they did not onely venter to fiſhe, but alſo to ſaile ſomewhat further into the Sea.
+               Long time after this, the Iſlanders of Choronta brought foorth the inuention of meane Barkes: and alſo of little ſhippes made only without all other matter but of timber.
+               All writers of hiſtories do agrée, that ſomewhat before the battell at Maratho, Epaminondas the Gréeke, did finiſhe to place in perfection the manner of ſailing, and the fourme to make ſhippes: for in the Peloponneſian warres, the renowmed Capteine Brias was preſent, with ſhippes, Carreckes, and Gallies: but be it as be may, and the inuention to whome it apperteineth: for many times I ſtaye to conſider, howe lotheſome it was vnto the firſt man, that being ſafe on lande, would committ him ſelfe vnto that waterie Element, and vnto the waues and pillers of the Sea, ſince there is no ſailing ſo ſure, wherein betwixt life &amp; death is conteined more then a boorde.
+               As mée ſéemeth, excéeding couetouſnes, and want of wiſedome, did ioyne handes in the deuiſe and arte of Nauigation: ſince wée ſée by experience, that for men not infected with couetouſneſſe, &amp; indued with peaceable diſpoſition, there is no land in this worlde ſo miſerable,
+
+which ſtretcheth not to ſerue the neceſſitie of mans life.
+               Herein it is ſéene, howe man is much more brutiſh then all other beaſtes, ſince all beaſtes doe flye, for no other cauſe, but for feare of death, preſſed by nature to conſerue that life which is giuen, and may not bée had, but onely by diuine gifte: onely man, beeing captiue vnto couetouſneſſe, ſaileth, and goeth to the Sea.
+               But thou, O Mariner, giue mée to vnderſtande, if for the ſaluation of thy ſoule, or conuerſation of life, any ſafe matter may be founde at the Sea?
+               What thing is contrarie vnto vs on land, which is not muche more on Sea? On land wée are vexed with hunger, colde, thirſte, heate, agues, ſorrowes, enimies, miſfortunes and angers, all whiche thinges doe yeelde double and treble vexation vnto men at Sea.
+               And beſides all this, the ſorrowfull ſailer ſtandeth at the mercie of the winde, to be ouerthrowen, and of the terrible waues to be drowned.
+               I neither lye, or repent my ſelfe to ſay, that if couetouſneſſe did not tyrannize mans heart, there woulde no fléetes remaine on Sea: for that is the onely cauſe that doeth alter their hearts, draweth them from their houſes, yeldeth them vaine hopes, placeth in them newe ſtrengths, baniſheth them from their countries, maketh them towers of winde, depriueth them of their quietneſſe, leadeth them wandering out of their wittes, carrieth them ſolde vnto the Sea, and alſo teareth them in a thouſande péeces on the rockes.
+               The Philoſopher Ariſto ſaide, that he died twiſe, that died on Sea: that is to ſay, firſte his hearte was drowned in couetouſneſſe, and after his bodie in the water.
+               
+                  Certeinely, a ſentence right worthie to be noted, and to memorie to be commended: ſince God hath not created man to dwell in the Seas, but to inhabite the heauens.
+               The Conſul Fabatus, in thrée ſcore yeares, whiche he liued, he neuer paſſed out of his citie Rhegio, to ſée the citie of Meſana: which was diſtant by water but nine miles, and beeing demaunded in this caſe, why? he aunſwered: The ſhippe is fooliſh, and vncerteine: for ſhée neuer ſtandeth ſtill. The Mariner is fooliſhe, and vncerteine: whiche is neuer of one iudgement. The water is fooliſhe, and vncerteine: for ſhée neuer ceaſſeth her vnquietneſſe. The winde is fooliſhe, and vncerteine: whiche in her flight is ſo variable. And ſince this is ſo true, that ſhuning but one foole on land, howe wouldeſt thou that I ſhould commend my life vnto foure fooles on Sea?
+               From a cleare iudgement, of a man of experience, of a wiſe Philoſopher, and of a man of greate ſapience, was this aunſwere of the Conſul Fabatus: for if wée profoundly conſider the furious importunitie of the Aire, the rage and ſwelling of the Sea, the inconſtancie of the ſhippe, the tedious trauell of the Mariner, and the diſcomfortable voyage of the paſſenger, as God ſhall ſaue mée, and ſo neuer more, let mée returne to Sea, if all that willingly goe to Sea in ſhippes, deſerue not moſte iuſtly to be bounde as diſtraught fooles.
+               What portion of wiſedome may he conteine, which liueth in the Gallie? What thing maiſt thou more iuſtly ſing in the Gallie, then that reſponſe or anſwere of the dead, which ſaieth: Memento mei, Deus, quià ventus eſt vita mea.
+               
+               Is not winde perchaunce thy life? ſince thy chiefeſt buſineſſe in the Gallie, is to talke of the winde,
+
+to beholde the winde, to wiſhe for winde, to tarrie for winde, to flie the winde, or ſaile with the winde?
+               Is winde perchaunce not thy life, that if it be contrarie, thou maiſt not goe thy voyage: if it blowe extreame, although large, yet muſt thou amaine: if it be calme, then muſt thou rowe: if it be a tempeſt, then muſt thou hale, or try for thy life: and if it blowe from land, then muſt thou not beléeue it: in ſuch wiſe, that it ſhall be no falſe witneſſe to ſaye, The winde be thy guide, ſince thy fortunate or vnfortunate life conſiſteth in the winde.
+               There is no man on lande, be he neuer ſo poore, that in a great neceſſitie obteineth not money to yelde him ſelfe reliefe: or children, to ſerue him: or friendes, to ſuccour vnto: or parentes, to reſtore him: or aſſiſtantes, by whome to be ſupported: or neighboures, in whome to put his truſt: Except the miſerable perſon that goeth in the Gallie, who hath placed his life at the iudgement of a fooliſh Pilot, and of a contrarie winde.
+               
+                  Plutarche reporteth of the Philoſopher Att
+                        •
+                     lus, who dwelling in the citie of Sparta, through the midds whereof ranne a greate riuer, woulde neuer paſſe the ſame, to viewe the reſt of the citie all the dayes of his life: affirming, that the aire was made for birdes, the land for men, and the water for fiſhe. It is ſaide, that this Philoſopher ieaſting vſed to ſay: When I ſhall ſée fiſhes walke on land, then will I go ſailing at Sea.
+               
+                  Alcimenus liued ninetie yeares amongeſt the Epyrotes, vnto whome was lefte a certeine inheritance, which he would neuer accept, or as much as viewe the ſame, for that it lay on the other ſide of the riuer Marathon: affirming it to be a miſerable inheritaunce, the profite whereof muſt be conueyed by water.
+               
+                  Marcus Portius Cenſorine, at the point of death, ſaid, that in his life he had offended the Gods but thrée maner
+
+of wayes, which is to ſaye: for that there had paſſed one daye, wherein he had committed no vertuous act in the Common wealth: for that he had diſcouered a ſecreat of importance, vnto a woman: and for that, when he might haue trauelled on lande, he ſailed as a paſſenger on Sea.
+               
+                  Cropilus Philoſopher and diſciple of Plato, commaunded the windowes of his houſe that were towardes the Sea, to be dammed vpp. The queſtion being demaunded, why? he aunſwered: To eſcape all delight to enter therein: for my maiſter Plato did ofte vſe to ſay: That ſailing at Sea was rather the exerciſe of fooles, then of Philoſophers.
+               
+                  Titus Liuius ſaith, that his Romane people were not more happie on land, then vnfortunate on Sea
+                     •
+                   for whiche cauſe the auncient Romanes neuer conſented to make or ſende foorth Gallies or Nauies, from the time of the good Camillus, vnto the birth of the great Scipio.
+               
+               When the Senate of Rome determined to make conqueſt of Aſia, and to the ſame effect commaunded the Conſul Cneius Fabricius to prouide a great nauie: with a lowde voice the Conſul Fabius Torquatus exclamed: all men that heare mée, and the Gods that ſée mée, I call to witneſſe, that I am not, or doe conſent, vnto this counſell, which is to wée to: that the fame &amp; glorie that our mother Rome hath obteined by land, ye ſhould committ vnto fierce waues of the Sea: becauſe, to fight with men, is but Fortune: but to deale with windes, is great fooliſhneſſe.
+               Wherefore, the worde of my Theame, ſéeme to be well ſaide, which is:
+               
+                  To liue in the Gallie at the Seas,
+               
+               
+                  God diſpoſe it to whome it ſhall pleaſe.
+               
+            
+            
+               
+               Of many and verie famous Pyrates which haue liued on Sea. The fourth Chapter.
+               
+                  SPeaking with trueth, and alſo with libertie, ſailing in the Gallie alongſt the coaſtes, is ſomewhat more ſafe, but in no leſſe daunger, being ingulffed. Whereof it may verie well be gathered: that Gallies were rather inuented to robbe, then for nauigation.
+               Before the Gréeke Theſeus inuented the making of Gallies, it is not found in any hiſtorie that ye Sea was haunted with any Pyrate or robber: but ſince the making of Gallies, there hath neuer wanted that hath deſcended to ſacke townes, and alſo to robbe at the maine Sea.
+               If I be not deceiued, the ende wherefore any man maketh a Gallie, is either to defend his owne countrie, or elſe to offende ſtraungers.
+               And as the Gallie is both tedious, and alſo coſtly, ſo I thincke not that any man imployeth therein his owne proper goods, but that he ſuppoſeth to ſuſteine the ſame by other meanes ſubſtance.
+               And as there: haue béene many excellent perſons, which haue béene renowmed by the conqueſt of countries, and ſubduing of people, by land: So haue there béene many much feared, and famous, for their robberies, which they haue committed on Sea.
+               The famous Pyrates of olde time, haue béene many: but amongeſt the reſt, the moſte r
+                     •••…
+                   wined was Dionides in the reigne of Alexander: Aeſte
+                        ••
+                     , in the days of Demetrius: Cleonidas, in the time Ptolomeus: Chipandus, in the gouernement of Cyrus: Miltas, in
+
+the rule of Dionyſius: Alcamenus, in the alteration if the eſtate committed by Caius Caeſar: and Agathocles, in the happie yeares of the good Auguſtus.
+               
+               To make an 
+                     ••…
+                  ire report of the beginning
+                     •
+                   which theſe Pyrates had, the robberies they did, the perils they paſſed, the men murthered, the townes they ſubuerted, the cruelties they committed, the wealth they obteined, the endes they made, &amp; the Fortunes wherein they finiſhed, would growe verie large to reporte, &amp; tedious to reade.
+               For the preſent, it ſhalbe ſufficient to ſay, that none of theſe Pyrates dyed in their beddes, either made a will of their goods: but the houre being come of their ſorrowfull deſtinies, they quited the miſchiefes they had committed, and did not inioy the riches which by robberie they atteined.
+               And becauſe it ſhall not ſéeme, that wee ſpeake at large, or of fauour, ſomewhat wée will ſay of them.
+               
+                  Dionides was Pyrate in the Leuant Seas, in the reigne of Alexander and Darius, which woulde neither ſerue ſhe one, or make peace with the other: but without reſpect of any perſon, made good price &amp; hauoke of all things.
+               Againſt this Dionides, Alexander commaunded a greate fléete or nauie of ſhippes to be rigged: who being taken, and brought before his preſence, Alexander ſaide: Tell mée Dionides, why haſt thou eſcandalized the whole Sea? Who aunſwering, ſaide: Wherefore haſt thou ſackte the whole earth, &amp; robbed all the Sea? Alexander anſwered, becauſe I am a King, but thou a Pyrate. Wherevnto Dionides replied: O Alexander, wée are both of one condition and office, but that they terme mée a Pyrate, becauſe I affaile with a ſmall armie: and thou arte intituled a Prince, becauſe thou robbeſt with a greate Nauie. O that the
+
+Gods woulde growe milde with mée, and Fortune cruell againſt thée, in ſuch wiſe, that Dionides might be Alexander, and Alexander turne to bée Dionides: it might happen mée to be a better Prince then thou, &amp; thou a worſſe Pyrate then I.
+               
+                  Aeſtelio was a Pyrate ſixtéene yeares on the Adriatike Seas, in whiche he committed great robberies vppon the Bactries, and did great hurtes vnto them of Rhodes. Againſt this Pyrate King Demetrius cauſed a certeine fléete of ſhippes to bee rigged and launched: who beeing taken, and brought before his preſence, was demaunded: Aeſtelio, what offence haue the inhabitants of Rhodes done againſt thée, that thou haſt ſo robbed them? &amp; the Bactries, that thou haſt ſo ſubuerted them? Who anſwered: Tell mée Demetrius, what had my father done againſt thée, that thou ſhouldeſt commaund him to be ſlaine? And, what offence had I committed againſt thée, that thou ſhouldeſt command mée to be baniſhed? I counſell thée, O Demetrius, in this laſt and extreme houre, that thou perſecute no man to the vttermoſt: becauſe it is not a little perillous, to deale extremely with any man that hath loſt his honour, and is of deſperate life.
+               
+                  Cleonidas was a Pyrate in the dayes of King Ptolomeus, who continued in that eſtate, trauerſing the Seas xxii. yeares, of which he was neuer ſéene in ſeuen yeares, to ſet his foote out of the Gallie.
+               This Cleonidas was lame and crooked, whome Nature had not marked in vaine: for he was moſte cruell with ſuch as he had taken, and with any obſerued no trueth.
+               The enimies whome this wretched Pyrate recouered into his handes, amongeſt other tormentes which he gaue them, their hands &amp; féete being bound, he did feare them with ladels of hote oyle.
+               
+                  Againſt this Pyrate King Ptolomeus commaunded a fléete of ſhippes to be ſett foorth, who being taken, and brought before his preſence, the King ſaide vnto him: What barbarous inhumanitie, or rather, what infernall furie hath taught thée torments neuer heard of, to be practiſed vppon men like thy ſelfe?
+               Wherevnto Cleonidas aunſwered: I will not onely torment mine enimies in their bodies, wherewith they did perſecute mée, but alſo burne their entraile
+                     •
+                   wherewith they did hate mée. King Ptolomeus commaunded this Pyrate Cleonidas daily to be ſcalded with hote oyle, to increaſe his paine, by enlarging of his life.
+               The Pyrate Chipandas was natiue of Thebes, which did concurre with the dayes of King Cyrus, and was a perſon valiant, liberall, and of great power: for he obteined to poſſeſſe an hundred Gallies, and thirtie ſhippes, where with he forced ſeruice of all the Kingdomes of the Eaſt, and terrified all the Princes of the Weſt.
+               Againſt this Chipandas King Cyrus commaunded a great nauie of ſhippes to be rigged foorth: who being taken and brought into the kinges preſence, ſaid vnto him: Thou Chipandas, receiuing my wages, why wenteſt thou to ſerue the king of Parthians? Who anſwering ſaide: The lawes whiche are made on lande, binde not ſuch as go to ſaile and liue at Sea: and ſuch as we vſe on Sea, are not obſerued on lande: which I ſaye, for that it is a cuſtome amongeſt vs Pyrates, that wéee as ofte chaunge our Maiſter, as the winde chaungeth on Sea.
+               
+                  Miltas, the Pyrate, was in the dayes of the firſte Dionyſius of Syracuſ
+                        •
+                     , who were great enimies, and ſtriued, not for the ſouereigntie in vertue, but who ſhould obteine the higheſt degrée in vice and wickednes:
+
+for that Dionyſius ſubuerted all Sicilia, and Miltas ſackt all Aſia. This Pyrate Miltas trauerſed the Seas of Aſia more then thirtie yeares, in the ende the inhabitauntes of Rhodes armed certeine ſhippes againſt him, who beeing taken and brought vnto the place of execution, life vp his eyes to heauen, and ſaid: O Neptune, the God of Seas, why doeſt thou not help mée at this inſtant? ſince I haue ſacrificed within thy Seas, fiue hundred men, whoſe throtes I did cut with mine owne handes: fourtie thouſande I caſt ouer boorde, and thirtie thouſand that haue died of diſeaſes, and alſo twentie thouſande which haue periſhed fighting in my Gallies. Is it nowe poſſible, that I which haue ſlaine ſo manie, ſhould nowe be ſlaine of one onely man?
+               
+                  Alcamenus was Pyrate in the time of Silla &amp; Marius, who followed the parcialitie of Silla: And as Caius Caeſar fled from Silla, he was taken by Alcamenus, vnto whome ieaſting he did vſe to ſay, That he woulde get looſe, and hang them all. And after, when Caius Caeſar ſawe him ſelfe Lorde of the Common wealthe, preſently he commaunded a greate fléete to be armed and rigged againſt Alcamenus, who being taken and brought to the place of execution, ſaide: It grieueth mée not of all that whiche I haue loſt, or of the death
+                     •
+                   which I ſhall dye: but to fall into his handes, whome I had in my poſſeſſion: and that he ſhould commaunde mée to be hanged, whome I might, and ſhoulde haue hanged.
+               As we haue ſaide of theſe fewe Pyrates: we might ſay alſo of others of greate antiquitie, and alſo of later time. But it ſufficeth, that,
+               
+                  To liue in the Gallie at the Seas,
+               
+               
+                  God diſpoſe it to whome it ſhall pleaſe.
+               
+            
+            
+               
+               Of many and great priuileges which they haue in Gallies. The fifte Chapter.
+               
+                  SInce we haue ſpoken of the foundation and beginning of Gallies, and of the notable perſons that were enemies of Nauigation, and alſo of the moſte famous Pyrates that vowed themſelues to thefte: wée will nowe ſay ſomewhat of the notable conditions of Gallies, and of the greate priuileges wherewith they are priuileged.
+               It is a priuilege of the Gallie, that all manner perſons which ſhall enter therein, muſt alwayes ſaile verie ſuſpicious of Pyrates that ſhall take them, and no leſſe timorous of the cruell Seas that ſhall drowne them: for there is no Sea ſo ſafe, wherein wandereth not ſome notable Pyrate: or abſome time riſeth not ſome cruell ſtorme.
+               It is a priuilege of the Gallie, that for all men which ſhall enter and ſaile therein, before all things, muſt loſe all libertie of commaundement, and ioyntly therewith, both Capteine, Patrone, and all the whole 
+                     •
+                  roope of Mariners he muſt obey: and if he will there any thing preſume of that which he hath, and of his value and worthineſſe, the moſte poore Rower ſhall ſay vnto him, that preſently he be packing out of the Gallie, and goe to commaund at home in his houſe, in an euill houre.
+               It is a priuilege of the Gallie, whether ſhée be of her owne condition, either ſtraight or large, &amp; of oares much peſtered, and no leſſe cumbred with other carriage: the paſſenger that ſhall enter therein may holde
+
+it for an aduiſe, onely to leane where he may, and not to ſitt downe at his pleaſure.
+               It is a priuilege of the Gallie, that the paſſenger which ſhall enter therein, be he neuer ſo worſhipfull, riche, or ſtately, muſt call the Capteine, Seigniour: the Patrone, Couſin: the Boteſwane, friend: and the pages of the Squiffe, brethren: and the rowers, companions. The cauſe procéedeth, that the paſſenger in the Gallie wanting all libertie, hath there of all perſons neceſſitie.
+               It is a priuilege of the Gallie, that all manner of perſons, which there will enter or paſſe, muſt be humble of conuerſation, patient in their ſpéeche, diſſembling in their neceſſities, and of much ſuffering in iniuries: for that in Gallies, it is a thing more naturall to ſuffer iniuries, then either to doe or reuenge them.
+               It is a priuilege of the Gallie, that all perſons which there do enter, ſhall want the conuerſation of women, of deintie diet, of fragrant wines, of comfortable and ſwéete ſmelles, of cold waters, and ſuche other delicacies: all which things they ſhal haue licenes to deſire, but no facultie to obteine.
+               It is a priuilege of the Gallie, that all manner perſons which there do enter, ſhall eate ordinarie biſke
+                     •
+                   with a condition, that it ſhalbe couered with Tapeſtrie of Cobwebs, blacke, worme eaten, ratt eaten, &amp; alſo wett either more or leſſe. And alſo I aduiſe the ſquint eyed paſſenger, that if he be not handſome, redily to take it out of the water: I bidde him to an euill feaſt.
+               It is a priuilege of the Gallie, that if at any time, by deſcending on lande, the paſſenger ſhall obteine any ſmall parcell of bread, that is newe, white, and well ſeaſoned, that he aduenture not to féede of it him ſelfe alone, but to make diuiſion thereof amongeſt his companions:
+
+and it ſhall happen, that he alone being the onely buyer, ſhall obteine ſo much vnto his ſhare, as may ſerue for a péece of holie bread.
+               It is a priuilege of the Gallie, that no man at dinner time, ſhall there demaunde water that is either cleare, colde, whoalſome, or ſwéete: but of force muſt content him ſelfe to drinke troubled, groſſe, warme, &amp; vnſauourie water: yet is it no leſſe true, that vnto ſuch as be verie nice, the Capteine giueth licence, that all the while they ſhalbe a drinking, with the one hande they may ſtoppe their noſe, and with the other hande lift the pott vnto their head.
+               It is a priuilege of the Gallie, that if any paſſenger betwixt meales would drinke a little, refreſhe his face, or waſhe his mouth or handes: the water which he therfore néedeth, he muſt either craue it of the Capteine, or bribe the Stewarde, bring it from lande, or buy it of ſome Rower: for in the Gallie there is nothing more deſired, and whereof is leſſe aboundaunce, then water.
+               It is a priuilege of the Gallie, that no paſſenger ſhall preſume to ſhed water in the poope, or much leſſe aduenture to ſpitt therein. And he that ſhall herein be negligent or careleſſe, the Capteine ſhall chide him, and the ſwéepers for a penaltie ſhal receiue ſixe pence: in ſuch wiſe wée controll no Mariners for ſpitting in our Church, and they make vs pay a tribute for ſpitting in their poope.
+               It is a priuilege of the Gallie, that the fleſhe which they ordinarily ſhall eat, is ioynts of Goats, quarters of Shéepe, ſalt Béefe, &amp; ruſtie Bacon, not boyled, but parboilde: not roſted, but burnt: in ſuch wiſe, that being ſett on table, it is lotheſome to behold, harde as the diuell to gnawe on, ſalt as broyne to féede on, and indigeſtible as a ſtone.
+               
+                  It is a priuilege of the Gallie, that if the paſſenger will eat any Mutton, Béefe, or Kidd that is freſhe, hée muſt either buy it of the ſouldiers which haue ſtolne it, or aduenture on lande for it. And when he hath all done, is it true that he ſhall inioy it? No, truely: but he that ſhall flay off the ſkinne, of right muſt haue the ſkinne, the entrailes, and a quarter: and after, with the fleſhe which remaineth, he ſhalbe charged with roſting and boyling, and commonly at large, with all perſons to eate it.
+               It is a priuilege of the Gallie, that any perſon that would eate boyled meat, he muſt ſteale, bribe, or buy, and in time prouide a pott: which after he hath gotten, he him ſelfe muſt waſhe it, dreſſe it, ſcumme it, and alſo watche it: and to remoue from thence for no cauſe: for if otherwiſe, but with the turning of his head, another ſhall eate his boyled meate, and he ſhalbe lefte to make report of the ieſt.
+               It is a priuilege of the Gallie, that he neuer ſtaye to dreſſe his meate vntil he haue an appetite, but when he may: for, as the pottes, pipkins, morters, caldrons, kettels, ſpittes, and grateyrons do compas the hearth, the paſſenger ſhall goe and come, as one poar-blinde: if firſt he haue not recouered friendſhippe with the Cooke or Stewarde.
+               It is a priuilege of the Gallie, that the paſſenger yt will there féede in platters, with ſpoones, vppon trenchers, and with ſawcers, that firſt therof he make prouiſion for him ſelfe, or bribe the ſteward, or hire them of ſome rower: and if he happen to be careleſſe to prouide them, or negligent to procure them, the Capteine will friendly giue him licence, to cutt his meate vpon a boorde, and ſuppe his potage out of the pott.
+               It is a priuilege of the Gallie, that if any paſſenger would eate with grauitie, that is to ſay, with cleane
+
+napkins, large towels, &amp; table clothes, he muſt bring them not onely all ready bought, but as well kept: for a merchandize ſo cleanly, is ſéeldome found in Gallie: &amp; if in this, as in the reſt, he be forgetfull, he may with a ſafe conſcience, as alſo with ſhame ynough, wipe on his ſhirte, and nowe and then on his beard.
+               It is a priuilege of the Gallie, that therein is no bench to lye on, no ſtoole to repoſe on, no windowe to leane on, neither boorde to feede on: but ioyntly therewith, that licence which they giue vnto the paſſenger which is dimme ſighted, that harde by the hearth, he may eate on the floore as a More: or vpon his knées, as a woman.
+               It is a priuilege of the Gallie, that euery paſſenger, rower, mariner, ſeruaunt, eccleſiaſticall, gentleman, or knight, may with a ſafe conſcience, breake his faſt without gréeue Figges, without Cherries: a beauer without Apricockes: a ſupper without Creame: and make collation after ſupper without gréene Almonds. If of theſe &amp; ſuch other refreſhings, he ſhall happen to haue ſome appetite, or taken with an extreme luſt: hee ſhall haue time ſufficient to ſigh: but all place &amp; oportunitie wanting that ſhould obteine the ſame.
+            
+            
+               Of other twentie trauels that are in the Gallies. The ſixte Chapter.
+               
+                  IT is a priuilege of the Gallie, that on the day in which ſayling ye ſhall paſſe a gulffe, or that ſoudenly any tempeſt do arriſe, they kindle no fire, they dreſſe no meate, &amp; that all paſſengers go vnder hatches: becauſe to raiſe the maſt, it is neceſſarie that the Gallie be frée, cleare, &amp; not peſtered:
+
+and it is moſte true, at that inſtant and conflict, the confuſion, noiſe, &amp; cryes of the mariners giueth more terrour, then the rage and furie of the Sea.
+               It is a priuilege of the Gallie, that all paſſengers which be Chriſtians, and haue the feare of God, at the paſſage of any gulffe, or any other daunger, commend them ſelues vnto God, repent them of their ſinnes, reconcile them ſelues with God &amp; man, and make ſome vowes: all which thinges, and much more, is done at Sea: and after on lande, ſilde or neuer, is accompliſhed.
+               It is a priuilege of the Gallie, that when the Sea doth go aloft, the wind contrarie, or any furious tempeſt aſſaile, the Mariners are accuſtomed preſently to bring home their anchore, they take in their Squiffe, take downe their hale, and vncouer the poope: then, wo be vnto thée, thou poore paſſenger, becauſe thou ſhalte remaine at the mercie of the Sunne which ſhineth, &amp; to receiue all water that ſhall raine.
+               It is a priuilege of the Gallie, that as often as the winde chaungeth, ſo ofte the ſaile is altered, and if it blowe much winde, they ſtrike ſaile: and if it be more calme, they hoyſſe ſaile. And that wherein the paſſenger hath moſte to imploy him ſelfe, is to lifte vp his eyes vnto the foreſaile, lay his handes vnto the rope, and occupie his heart in the torment: for in the Gallie at Sea, there is no greater ſigne of daunger of life, then when the Mariners do often hoyſſe and ſtrike the foreſaile.
+               It is a priuilege of the Gallie, that no man preſume to craue either féelde bed, ſhéetes of Holland, pillowes of downe, or Moriſcoquilts: but ioyntly herewith, if the paſſenger be delicate, or be acrazed, the patrone will giue him licence, to ſléepe vppon a boorde: and for a pillowe, to lay his head vppon a Target.
+               
+                  It is a priuilege of the Gallie, that no man, be he neuer ſo woorſhipfull, may obteine a place aſſigned to walke in, or elſe to retire, neither at all times when he would to ſitt downe: if any man deſire, in the daye time, to bee ſometimes in the poope, and to ſléepe on nightes in ſome roome of Croſſebowe ſhott, hee muſt firſt buy it of the Capteine by force of praying, and obteine it of the Boteſwane for good money.
+               It is a priuilege of the Gallie, that if any man néede to warme water, to make lée, or driue a buck, to waſh his ſhirte, that he care not to attempt or to remember the ſame: but if he will be occaſion for ſome to laughe, and others to ſcoffe and deride: But if his ſhirte bée ſomewhat foule or ſweatie, and hath no chaunge, forceably he muſt haue patience, vntill he goe on lande, or by rottenneſſe to finiſh the ſame.
+               It is a priuilege of the Gallie, that if any nice or curious paſſenger will néedes waſhe any handkerchife, headkerchife, towell, or any ſhirte for his owne perſon, that it be in no freſhe or ſwéete, but ſalt water. And as the ſalt water doeth bréede ytch and ſcurffe, ſo the Capteine will giue him licence, and the Boteſwane will allowe him place to rubbe his backe againſt the Maſt, or ſéeke a Rower to ſcratch the ſame.
+               It is a priuilege of the Gallie, that no paſſenger ſhall be bound, or as much as to aduenture to pull off either hoſe or ſhooes, doublet, coate, or cloake, when he goeth to ſléepe: becauſe the poore paſſenger hath allowance of no better bed in all the Gallie, then the garments which he ſhall weare.
+               It is a priuilege of the Gallie, that the beddes which there are made for paſſengers and Rowers, haue no appointed head or féete, but that they lye down, where they may, and as it ſhall chaunce, &amp; not as they would: which is to wéete, that the one night, where they ſhall
+
+lay their heads, the next night to place their féete. And if by chaunce his companion haue eaten Cheſtnuttes, or ſupped with Radiſhe, and ſo ſhall let flye, you vnderſtand mée what: Good friend, thou muſt make thy reckoning, that thou diddeſt dreame it, and neuer report that euer thou heardeſt it.
+               It is a priuilege of the Gallie, that all fleas that leape vppon the hatches, and all lice that bréede in ſeames, and all cheſlockes that walke in chinkers, be common vnto all men, and be diuided and parted amongeſt all men: and if any perſon which is fine and nice, ſhall appeale from this priuilege: from thencefoorth I propheſie, that if he make but a ſecrete inquirie, in his necke and boſome, and a priuie ſearche in his bréeches, he ſhall finde more lice, then money in his purſſe.
+               It is a priuilege of the Gallie, that all the Rattes, and Wezels therin, both dare and haue libertie, when they may, without any penaltie, to ſteale from paſſengers, napkins, and fine Sendall, ſilke girdles, olde ſhirtes, fine Coyffes, and alſo perfumed gloues: And all the ſame to hide to ſléepe in, to bréede in, &amp; to bring vp their young ones, and alſo to gnawe on when they want meate. And brother paſſenger, maruell not when thou féeleſt, that ſometime they do bite thée: for that when I paſſed betwixt Tunes and Sicil, they did at one time bite mée by the legge, and another time by the eare: and as I had ſworne to the priuileges of the Gallie, I made no boaſt thereof.
+               It is a priuilege of the Gallie, that the bread, the chéeſe, the wine the bacon, the fleſhe and fiſhe whiche thou ſhalt prepare for thy prouiſion, thou muſt giue thereof vnto the Capteine, Boteſwane, Pylott, Mariners, and to him that is at helme. And as concerning
+
+that which remaineth, holde it for certeine, the dogges will haue a catche, the Cattes will haue a ſnatche, the Rattes will gnawe, the Stewards will tythe, and the Rowers will ſteale: in ſuch wiſe, that if thou be a little dimme ſighted, and not verie well aduiſed, the prouiſion whiche thou madeſt for a Moneth, will hardly laſt thée tenne dayes.
+               It is a priuilege of the Gallie, that if the Billowe do ſomewhat roll, or the tempeſt riſe, or the Gallie paſſing ſome race, thy heart will be diſmaide, thy head growe ydle, thy ſtomache wamble, thine eyes waxe dimme, thou beginneſt to belche, and diſcharge thy ſtomache of all which thou haſt eaten, &amp; alſo ly downe vppon the hatches: and thinke not that any of the beholders will holde thy head, or cherriſhe thée with a cawdle: but they all at deathes doore with laughing will ſay, it is nothing, but that the Sea will make a proofe of thée: thou being at point of thy laſt gaſpe, and alſo in vtter deſperation.
+               It is a priuilege of the Gallie, that if any paſſenger will at ſome time refreſhe him ſelfe on lande, recouer a Canne of water, or ſéeke or buy freſhe victuals, or with others ſtrike an hande, as a Frier, hee muſt aſke leaue of the Capteine, and intreate the Boateſwane to arme the Squiffe: he muſt flatter the pages to ſett him on lande, and promiſe them ſomewhat to tarrie for him: and giue money vnto him that vppon his ſhoulders ſhall carrie him out of the water: And if for the wickedneſſe of his ſinnes, he bee not readie to embarke at the firſte ſounde of the retreate, the Gallie ſhall make ſaile, and he ſhall remaine on lande to be hanged by the Iuſtice.
+               It is a priuilege of the Gallie, that euery paſſenger yt will purge his bellie, is forced to ye cōmon places of the
+
+forecaſtell: or elſe to climbe and ſtay by ſome loope hole for the Croſſebowes: and that which may not be ſaide, much leſſe done without ſhame, all men may ſo openly beholde him, ſitting at his neceſſities, as if he ſate banquetting at the table.
+               It is a priuilege of the Gallie, that no man preſume to craue to drinke in plate, in glaſſe of Venice, or pitcher of Barcelona, or nutt of the Indies: in ſuch a caſe, if the paſſenger haue not prouided a cuppe or pitcher, wherein to drinke, the Capteine will diſpenſe with him, that in a ſpoone of woode, (wherewith the Rower eateth his potage,) they will giue him to drinke a little water.
+               It is a priuilege of the Gallie, that neither Capteine, Purſſer, Patrone, Pylot, Rower, or paſſenger may hold, kéepe, or hide any wife of his own, or others, married or at large, but that of all perſons in the Gallie ſhée ſhalbe ſéene, knowen, and alſo ſerued of more then twaine: and if any there doe aduenture to paſſe, they are rather louers of charitie then of chaſtitie: and ſometimes it chanceth that ſome wretch hath brought her to his great coſt. And ſhée of her owne courteous condition yeldeth pleaſure vnto many.
+               It is a priuilege of the Gallie, that fréely a Frier of Sainct Benet, Sainct Baſil, Sainct Auſtine, Sainct Frauncis, Sainct Dominicke, Sainct Hierome, Carmelite, Trinitarie, and Mercenarie, may goe therein: and to the ende, that ſuch religious men, may go there with ſafe conſcience, the Capteines and Purſſers doe beare them in hande, that they haue obteined a Bull, to be diueſted of their habite, coules, crownes, girdles, and ſcapularies, &amp; in the place of Breuiaries or Portaſſes, they place in their handes oares to learne to rowe, and to forgett to pray.
+               It is a priuilege of the Gallie, that the ordinarie
+
+neighbours, and fraternitie therof, are falſe witneſſes, pyrates, théeues, traitors, men whipt and mangled, adulterers, homicides, and blaſphemers: in ſuch maner, that vnto him that demaundeth what is a Gallie? we may aunſwere, It is a certeine priſon of the wicked, and a ſcourge to all paſſengers.
+            
+            
+               Of other greater trauels and perils, whiche they paſſe that goe in Gallies. The vij. Chapter.
+               
+                  IT is a priuilege of the Gallie, that all the Purſſers, Patrones, Pilots, Mariners, Counſellers, Pages, Helme men, Swéepers, and Rowers, may aſke, take, bribe and alſo ſteale from the poore paſſengers, bread, wine, fleſhe, bacon, chéeſe, fruit, ſhirtes, ſhoes, capps, cotes, dublets, girdles, and clokes: &amp; alſo if the paſſenger be ſomewhat poare blind, and hath not his purſe tied faſt vnto his arme: let him make a reckoning that he forgate it in Ciuil.
+               
+               It is a priuilege of the Gallie, that that whiche is once loſt, forgotten, lent, or ſtolen, the right owner may ſafely yeld vp his accompt, that for euermore he hath loſt the fight thereof: and if by the force of intreating, and not without money, the Boteſwane do procéede for ſearch thereof, and in termes to find the ſame: let the looſer be aſſured, that ye théefe with his vnſhamefaſtnes will much rather caſt it ouer boord, then with ſafe conſcience make reſtitution.
+               It is a priuilege of the Gallie, that when they goe on land for water, or fetche wood, if by chaunce they finde any lambe, or ſtumble on a cow, méete with any
+
+ſhéepe, encounter with a goate, or light vpon any hog, gooſe, henne, pigge, or pullet, without all wambling of ſtomache, or ſcruple of conſcience, they take and kill them in the Gallie, as if in the market place they had bought them.
+               It is a priuilege of the Gallie, that when the ſouldiers, the Rowers, the Barbarous, &amp; alſo paſſengers, goe on land néere vnto ſome riche or wealthie place, there are no woodes which they hew not, no hiues whiche they doe not vnemptie, no doue houſe whiche they view not, no game which they hunt not, no garden or orchard which they do not ranſacke, no maide or woman whom they doe not violate, boy which they ſteale not, ſlaue whom they remoue not, vineyard which they gather not, bacon that they vnhange not, either garment whiche they beare not away: in ſuch wiſe, that in an hard yeare the froſt, haile, and graſhopper, doe not execute ſo great harmes, or commit ſo great cruelties, as they of the Gallie do performe in one halfe day.
+               It is a priuilege of the Gallie, that if any bankrupt, quareller, periuror, ruffin, robber, théefe, or murtherer, be once there placed, no Iuſtice maye there enter to make ſearche, or any perſon whiche is offended, to accuſe: and if any ſuch, through the wickedneſſe of his owne ſinnes, doe once enter, either they ſet him to the oare, or applie him to ſome miſerable vſe: in ſuch wiſe, that in the Gallies it is, where good men be caſt away, and euil defended.
+               It is a priuilege of the Gallie, that therein they haue libertie to liue in the lawe wherein they were borne, which is to ſay, married, vnmarried, Nonnes, Monkes, Friers, Prieſtes, Heremites, Gréekes, Indians, Heretiques, Moores, and Iewes: in ſuch wiſe, that without any ſcruple on Fridayes, ye ſhall behold the Moores make feaſting, and the Iewes on the Saturday
+
+kéepe holiday.
+               It is a priuilege of the Gallie, that if any poore paſſenger would carrie to ſea, any cheſt with victuals or apparel, or any truſſet with bedding, or barrellet with wine, or pitcher of water, he muſt hold it for moſt certeine, that for the Capteines conſent, the Rowers for carriage, ye Purſſers for regiſtring, &amp; the Stewards for kéeping, ſome wil haue money, and others be ſerued: &amp; in this caſe they are not ſatiſfied with that, whiche you would giue: but that they muſt beare away, all that, whiche they demaunde. For my ſelfe, I maye ſafely ſweare, that in our laſt voyage with our great Caeſar, in the portes of Barcellona, Mallorca, Menorca, Sardinia, Lagoleta, Callar, Pallermo, Micina, Riioles, Naples, Saicta, Ciuita Vicia, Genoua, Niſſa, Freuil, Tholou, and the dead waters: I had more trouble, and ſpent more money, with imbarkage and diſimbarkage of horſes, mules, ſeruauntes and prouiſion, then euer I paſſed, or would haue thought in all my life.
+               It is a priuilege of the Gallie, that at the time of lading or diſimbarkage, of the poore paſſenger they take accompt of his money, they open his cheſtes, they take view of his ſtuffe, they rippe his packets, and take cuſtome for all the ſame: and if the paſſenger be poare-blind, or ſomwhat ſquinteyed, they will not only take the right eye, but alſo the left.
+               And for that it ſhall not ſéeme, that we ſpeake at large, I ſweare by the lawe of an honeſt man, that for the cuſtome of a catt, whiche I brought from Rome, at Barcellona, they did take halfe a Riall.
+               It is a priuilege of the Gallie, that vpon the waters there is no Gallie ſo perfect, ſufficient, or ſo furniſhed, that in her is not ſome want, or defection. whiche is to ſay, that either ſhe is weake of timber, old, heauie, a ſlug of ſaile, not armed, open, leaketh much water, or is vnfortunate:
+
+in ſuch wiſe, that notwithſtanding ſhe be furniſhed with the beſt Patrone, or chiefeſt Capteine, there is alwayes in her, more to be wiſhed, then to be praiſed.
+               It is a priuilege of ye Gallie, that neither on Chriſtmas or Sabboth day, the Rowers and paſſengers ceaſe not to play, ſteale, blaſpheme, trauell, or ſaile: for that Feaſts and Sabbothes in the Gallies be not onely vnobſerued: neither doe they knowe when they fall.
+               It is a priuilege of the Gallie, to be obliuious of all dayes and times of abſtinence, for that their godly deuotion to faſt is neuer moued, but by ſome extreame neceſſitie and want of victuals.
+               It is a priuilege of the Gallie, that neither mariners, rowers, aduenturers, or any other officers, haue any care, or make any conſcience of Religion, or any parte thereof: but onely that good part of a Chriſtian which remaineth in them, is: that in a dangerous torment, they begin to pray, to ſighe, and wéepe: which being once paſt, they ſit downe at great leaſure to eate, talke, play, fiſh, and alſo to curſe: recompting vnto ech other, the dangers that were paſt, and the vows which they had made.
+               It is a priuilege of the Gallie, that all neighbours, inhabitants, and paſſengers therein, ſtand diſcharged, of all cuſtomes, portage, loanes, tributes, ſubſidies, penſions, tenthes, and firſt fruites, either to the king or Churche: as alſo diſcharged of all excommunication, for any offence whatſoeuer. And when in ieſt I demaunded a teſtimoniall of their confeſſions, preſently they would ſhew me a paire of cardes: affirming that in that holy fraternitie, their chiefeſt religion was to play, curſe, and ſweare.
+               It is a priuilege of the Gallie, that none which ſhal there happen to die, ſhall be bound to be innoyled, or
+
+pay for ringing of bels, either to the prieſt for his burial, either building of his ſepulchre, either to the friers for their diriges, either to the poore for carrying of torches, either ſowing of his winding ſhéete: becauſe the miſerable, which there once dieth, ſhal ſcarcely yéelde his ſpirite to God, when they ſhal hurle the bodie vnto the fiſhes.
+               It is a priuilege of the Gallie, that there all manner perſons doe eate fleſh in Lent, in Vigils, and all other dayes forbidden: and queſtion béeing demaunded of their want of ſhame or of conſcience, they aunſwere, That ſince all maner perſons on land, doe aduenture to eate fiſhe which procéedeth from the Sea, vpon any daye: by the ſame reaſon it is conuenient for them, to eate fleſh at any time, that commeth from the land.
+               It is a priuilege of the Gallie, that all bread, wine, bacon, powdred fleſh, chéeſe, butter, raiſons, biſket, diſhes, and pots, which ſhal remaine vnto any paſſenger of his prouiſion, to leaue all vnto the Gallie at his departing vnto land: in ſuch wiſe, that they neuer ceaſe to take the ſurpluſage: and in time of neceſſitie, to relieue alwayes, not ſo much as with a raiſon.
+               It is a priuilege of the Gallie, that euery paſſenger that preſumeth of Gentrie, courteſie, or ſhamefaſtnes, to gratifie the Capteine, to imbrace the ſtewarde, to ſpeake vnto the Pilot, to take his leaue of the whole companie, to reward the ſwéepers, to giue ſomewhat to the helme man, and alſo to haue remembrance of the pages of the ſquiffe: all whiche if he doe not performe, they wil yéeld him a cruel departure, and wil not afterwards accept him into that Gallie.
+               But the concluſion is, that notwithſtanding their priuileges are many, notable, and extreme, we alwayes affirme, and confirme with the wordes of our Theame, which is to ſay:
+               
+                  
+                  To liue in the Gallie at the Seas,
+               
+               
+                  God diſpoſe it to whome it ſhall pleaſe.
+               
+            
+            
+               Of a certeine ſubtile diſcretion of the ſea, and of her perillous properties. The viii. Chapter.
+               
+                  SOmewhat béeing ſaid of the priuileges and conditions of the Gallie, now let vs ſay ſomewhat of the nature of the ſea: for that it is no ſmal errour to commende oure life vnto him, whoſe vertuous conditions, or cruel inclinatiō is to vs vnknowen.
+               To the ende we maye vnderſtand the déedes of the ſea, conſider the name wherewith ſhe is indued: ſince this her name, Mare, importeth none other thing but bitternes: becauſe her water is very bitter, but her condition moſt bitter.
+               The ſea is not ſo well conditioned, that any man ſhould aduenture to enter the ſame, of will, but of neceſſitie: becauſe that man which ſaileth, except it be to the diſcharge of his conſcience, or defence of his honour, or to ſupport his liuing: I ſay and affirme, that ſuch a one is either vnaduiſed, or deteſteth his life, or els they hold him as a foole, or as one diſtraught of his wittes.
+               The ſea is delectable to behold, and perillous to paſſe.
+               The ſea deceiueth no man, but once: for whome ſhe once deceiueth, ſhal neuer more complaine of her.
+               The ſea is a Mine, where many be inriched: and a Cemetorie where infinite people are buried.
+               The ſea, if ſhe like, doeth ſuffer to be ſailed with a planke: and if ſhe be enraged, ſhe conſenteth not a Carrecke
+
+to endure her.
+               The ſea reſembleth a foole, for that ſhe altereth euery quarter of the Moone: and maketh no difference betwixt a king and a plough man.
+               The ſea ſuffereth neither fooles nor ſluggardes: becauſe it chiefly agréeth with all ſuch as wander therein, to be of great life in their buſines, and moſt diligent in their Nauigation.
+               The ſea is a cloake for ſinners, and a refuge for malefactours: for in her, there is none waged for their vertue, or reiected for their wickedneſſe.
+               The ſea diſſembleth with the vicious, but liketh not to be inhabited with cowards: for he entreth her limits to ſmal &amp; very euill purpoſe, that is a coward to fight, and timorous in ſayling.
+               The ſea is very malicious, and alwayes to be conſidered by her contraries: for that in calme, ſhe prepareth a tempeſt: and in time of tempeſt, ſhe prepareth a calme.
+               The ſea is affectionate to ſome, and appaſſionate with others: for if ſhe like, to one ſhe ſuſteyneth life xx. yeares, and another ſhe depriueth the firſt day.
+               The ſea is a great enimie to al things that ſuſteine humane life: becauſe her fiſhe is flegmatike, her aire importune, her water ſalt, her humour hurtfull, &amp; her ſailing perillous.
+               The ſea of as many as ſaileth in her, holdeth none contented: for ſhe yéeldeth their bodies tyred with the groſſenes of their life: and their heartes alwayes in great carefulnes of ſome perillous tempeſt.
+               The ſea of her owne condition maketh all ſtomaches hungrie, but we may wel pardon her the appetite whiche ſhe giueth to eate, through the force which ſhe vſeth to make vs caſt our gorge.
+               The ſea entiſeth or deceiueth any man, to the end
+
+to enter or to commit truſt vnto her: for vnto all men ſhe diſcouereth the monſtruouſnes of her fiſh, the profunditie of her depths, the ſwelling of her ſeas, the contrarietie of her windes, the crueltie of her rockes, and fiercenes of her tormentes: in ſuch wiſe, that ſuch as be there loſt, be not caſt away for want of aduiſement: but for certeine great dizards.
+               The ſea ſuffereth her ſelfe of all men to be ſéene, to be fiſhed, and to be ſailed, but ioyntly therewith, ſhe remoueth all iuriſdiction from all men, and from all ſufficient power to chaunge her condition. We ſay no more in this caſe, but that:
+               
+                  To liue in the Gallie at the Seas,
+               
+               
+                  God diſpoſe it to whome it ſhall pleaſe.
+               
+            
+            
+               Of the thinges which the paſſenger hath to prouide, when he entereth the Gallie. The ix. Chapter.
+               
+                  SOmewhat being ſaid of the priuileges of the Gallie, and of the conditions of the ſea: there remaineth not, but to ſpeake of the neceſſarie prouiſion for Nauigation: for it ſufficeth not that the paſſenger be aduertiſed of all thinges, from which he hath to ſaue himſelfe: but that alſo he enter prouided of all things neceſſarie.
+               It is a conuenient counſel for euery man that goeth to ſea, either in ſhip or Gallie, not as an Infidel, but as a Chriſtian to commend himſelfe vnto God: for that the ſailer leadeth his life in as great hazarde, as if he ſhould enter into a ſet battel.
+               
+                  Alſo it is a conuenient counſell, that all manner perſons, before they enter the Sea, do make their will, declare their debtes, accompliſhe with their creditours, repart their goods, and reconcile them ſelues with their enimies, becauſe they may afterwards happen to finde them ſelues in ſo terrible a ſtorme, that for all the treaſure of this worlde, they would not be burdened with any ſcruple of conſcience.
+               It is a conuenient counſell, for the curious paſſenger, either ſailer, tenne or fiftéene dayes before he goe aboorde, to clenſe and euacuate his bodie, either with Roſſid, Honnie, Roſa Alexandrina, good Canafiſtula, or elſe with ſome perfect Pill: for that naturally the Sea vſeth more pitie with emptie ſtomaches, then with ſuch as are repleate &amp; oppreſſed with yll humors.
+               It is a conuenient counſell, and no vnſounde aduiſe, to ſaile in a Gallie of newe timber, and that the Thoughtes thereof be worne ſmoothe: for at the doubling of a point, paſſing any race or gulffe, or inueſting with another Gallie, or at the chace of an armie, or in ſome furious ſtorme, the newe Gallie is more light and nimble to bee gouerned both with ſaile and oares, and beſt doth ſaue her ſelfe at Sea, &amp; the ſmoothneſſe of the Thoughtes helpeth much in rowing.
+               Alſo it is ſounde counſell, that before the paſſenger do imbarke, he goe to viſite and talke with the Capteine, and to vſe him with faire termes, and no leſſe courteſie: which is to wéete, if hee be aboorde, to ſende him ſome refreſhing: and if on land, to banquet him, or to accompanie him: for as the Capteines of Gallies deſire winde, goe with the winde, liue with the winde, ſaile with the winde, alwayes there cleaueth vnto them ſome tache of the winde: wherewith they will of their friendes be honoured, of their enimies feared, and of their paſſengers ſerued.
+               
+                  It is ſounde counſell, that at the inſtant hee ſhall enter the Gallie, he frame friendſhip with the Steward and Boteſwane, to haue licence to walke on hatches, with ſome rower to attende him, &amp; to make him neate: with the Pylote, to accept him: with the Iuſtice, for his fauour: with the Cooke, for his fire: with the ſwéepers, for attendaunce in the poope: with the pages, to rowe him to lande: for if he holde them not all well pleaſed, he is entred into the Gallie verie euil appointed.
+               It is alſo conuenient counſell, before he be imbarked, that he make him ſome garment, that is ſtrong and well furred, more profitable then comely: wherewith he may without loſſe, vppon hatches, lye downe in the Croſſebowe roome, climbe into the poope, go on lande, defende him ſelfe from heate, ſuccour him ſelfe from raine, and alſo at night to vſe it for his bedd: for that, garmentes in the Gallie, ought rather to ſerue for profite, then honour.
+               It is conuenient counſell, that the curious and delicate paſſenger, doe make his prouiſion of ſome halfe bed, of a doubled ſhéete, of a little mantell, and no more but one pillowe: for, any man to carrie an whole and a greate bed into the Gallie, is to giue occaſion vnto ſome to deride, and vnto others to laugh: for on the day time, there is no place to lay it, and at night much leſſe to ſpread and make it.
+               It is ſounde counſell, that for his prouiſion he haue white biſkett, olde Bacon, good cheeſe, powdered béefe, and alſo ſome fatt hennes: for theſe, and ſuche other thinges, he may not be excuſed to buy, that goeth to Sea.
+               It is ſounde counſell, that the worſhipfull paſſenger make his prouiſion of ſome Barrell, Butt, or Skinne of good white wine of a yeare olde, cleare,
+
+and fragrant: whereof, after he hath diſcharged his gorge, he ſhall more eſtéeme one droppe, then at another time an whole Barrell: and further, the ſauour thereof ſhall reforme his ſtomache, and the ſmell comfort his head.
+               It is conuenient counſell, for him that woulde eate cleanly, to be prouided of ſome towell, napkin, pott, pitcher, and cuppe: becauſe theſe trifles are ſildome ſolde in Gallies, and much leſſe borrowed.
+               It is ſounde counſell, eſpecially for that perſon, which is poareblinde, that if he carrie any cheſt with prouiſion, any Male with armour, any Barrell with wine, any packe with garmentes, or any Caſkett with writinges, preſently that he cauſe the Capteine to ſée it, the Purſſer to regiſter it, and the Steward to ſaue it: for that in the Gallie, for ſcruple of conſcience they leaue not from a néedle vpwardes.
+               It is ſound counſell, that he do verie well conſider with whome he is conuerſant, with whome he entereth, in whome he truſteth, with whome he ſpeaketh, and alſo with whome he playeth: for, in the Gallie they are ſo handſome, and aduiſed, that if they finde the paſſenger but a little wittleſſe, there ſhall not want thrée, which by playing bootie, ſhall prouide him a releaſe of all his money.
+               It is a conuenient counſell, that at the inſtant in which he is imbarked, he importune the Capteine, requeſt the Stewarde, intreate the Iuſtice, and recouer friendſhippe with ſome rower: to the ende, that if he may not obteine place in the poope, or be admitted to ſome cabinet, at the leaſt to aſſigne him to ſome croſſebowe roome: for, if he be dull or negligent in theſe caſes, let him holde it for certeine, and alſo condemned, that in the day he ſhall not finde where to ſitt, muche leſſe at night where to lodge.
+               
+                  It is conuenient counſell, for the paſſenger, that preſumeth either of wiſedome, or honeſtie, to procure bookes, both good and pleaſaunt, and ſome of prayers as matter of deuotion: for of thrée exerciſes which are vſed at Sea, which is to wéete, playe, talke, and reade, the moſte profitable and leaſt hurtfull is reading.
+               It is conuenient counſell, that the paſſenger before he be imbarked, do prouide hookes, lines, bayte, and canes: that when they are becalmed, or lying in any roade, or placed behinde ſome rocke, or the forecaſtell being thruſt alande: to drawe foorth his trinkets, and ſettle him ſelfe to take fiſhe: ſince in fiſhing he ſhall take recreation, and greate ſauour in the eating: for his minde peace and quietneſſe, and for his purſſe much more profite it is, to be fiſhing in the forecaſtell, then at dice in the poope.
+               Alſo it is ſounde counſell, that the nice paſſenger make his prouiſion, of raiſons, figges, almondes, diacitron, dates, comfites, and other delicate conſerues: for, when the Sea rolleth aloft, and the torment increaſeth, belches be practiſing, to caſt the gorge, and diſcharge the ſtomache, the eyes growe dimme, and the appetite is loſt: if in that conflict the poore paſſenger be vnprouided of ſome comfortable conſerue, I commaund him ſome harde aduenture.
+               Alſo it is conuenient counſell, not to be vnprouided of a bunche of garlike, of a rope of onyons, a bottle of vineger, a barrelet of oyle, and alſo of a boxe of ſalte: for, notwithſtanding they be ruſticall meates, and not delicate for ſaylers, or licoriſhe to be ſtolen. And further and beſides all this, it may happen that of ſoppes, water, ſalte, and oyle, there may be made a ſlampamp or an hotchepotch, that at ſome other time, ſhall excéede a Capon in taſte.
+               Alſo it is conuenient counſell, that euery diſcréete
+
+paſſenger prouide him ſelfe of corked pantophels, double ſoled ſhoes, of Mariners ſloppes, of cloſe hunting cappes, and of foure or fiue cleane ſhirts: becauſe Sea water is of ſuch a qualitie, and the Gallie of ſuche indiſpoſition, that firſt thou ſhalte foule them all, before thou ſhalt waſhe one.
+               Alſo it is ſound counſell, chiefely for nice &amp; delicate ſtomaches, to prouide them ſelues of perfumes, as of Beniamine, Storax, Amber, Aloes, or of Pomander of ſome ſpeciall good confection: for it many times happeneth, that the Pumpe yeldeth ſo cruell a ſtenche, that onely it diſmaith not, but alſo conſtraineth to diſcharge the ſtomache.
+               It is alſo a profitable and neceſſarie counſell, that euery paſſenger do carefully conſider, to haue his ſtomach alwayes in temper, and not ouercharged with meates or drinkes: that is to ſay, to eate little, and drinke leſſe: for if on lande it be vnhoneſt, at Sea much more, and daungerous in tempeſt, to eate vntill he belche, and drinke vntill he caſt.
+               And becauſe it ſhall not ſéeme, that wée ſpeake at large, paſſing the gulffe of Narbona in a greate tempeſt, there was in my Gallie, a gluttonous dronkard, whiche at two belches caſt vp his meate, and with the thirde he did yeld vp his ſoule.
+               Alſo it is ſound counſell, and of experience, that to defende the ſtomache from the ſickeneſſe of the Sea: a paper of Saffron be placed vppon the breſt, neare vnto the heart, and in the furie of the tempeſt to kéepe him ſelfe both warme and quiet: wherevppon he may be aſſured, that his ſtomach ſhall neither wamble, nor his head growe giddie.
+               In all the nauigation which we had with my Lord and maiſter Caeſar, when he attempted the conqueſt of the greate Tunes in Africa, theſe rules I vſed, whiche
+
+did yeelde mée my life: I ſay, the life of the bodie: becauſe the life of the ſoule, is giuen vs in that glorie, Ad quam nos perducat Ieſus Chriſtus filius Dei, qui cum patre &amp; ſpiritu ſancto viuit &amp; regnat in ſecula ſeculorum. Amen.
+               
+            
+            FINIS.
+         
+      
+      
+         
+            
+               Jmprinted at London, for Ralfe Newberrie, dwelling in Fleete
+                ſtréete, a litle aboue the Conduit.
+            
+               1578.
+            
+            
+         
+      
+   
+

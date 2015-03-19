@@ -1,0 +1,2433 @@
+
+   
+      
+         
+            Pandosto the triumph of time. VVherein is discouered by a pleasant historie, that although by the meanes of sinister fortune truth may be concealed, yet by time in spight of fortune it is most manifestlie reuealed. Pleasant for age to auoyde drowsie thoughtes, profitable for youth to eschue other wanton pastimes, and bringing to both a desired content. Temporis filia veritas. By Robert Greene Maister of Artes in Cambridge.
+            Greene, Robert, 1558?-1592.
+         
+         
+            
+               1588
+            
+         
+         Approx. 103 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2003-01 (EEBO-TCP Phase 1).
+            A02143
+            STC 12285
+            ESTC S108586
+            99844244
+            99844244
+            9036
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A02143)
+            Transcribed from: (Early English Books Online ; image set 9036)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 546:03)
+         
+         
+            
+               
+                  Pandosto the triumph of time. VVherein is discouered by a pleasant historie, that although by the meanes of sinister fortune truth may be concealed, yet by time in spight of fortune it is most manifestlie reuealed. Pleasant for age to auoyde drowsie thoughtes, profitable for youth to eschue other wanton pastimes, and bringing to both a desired content. Temporis filia veritas. By Robert Greene Maister of Artes in Cambridge.
+                  Greene, Robert, 1558?-1592.
+               
+               [56] p.   
+               
+                  By Thomas Orwin for Thomas Cadman, dwelling at the signe of the Bible, neere vnto the north doore of Paules,
+                  Imprinted at London :
+                  1588.
+               
+               
+                  Running title reads: The historie of Dorastus and Fawnia.
+                  Signatures: A-G⁴.
+                  Imperfect: signature B lacking.
+                  Reproduction of the original in the British Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Shakespeare, William, 1564-1616. --  Winter's Tale --  Sources --  Early works to 1800.
+            
+         
+      
+      
+         
+            2000-00
+            TCPAssigned for keying and markup
+         
+            2001-00
+            AptaraKeyed and coded from ProQuest page images
+         
+            2001-00
+            TCP Staff (Michigan)Sampled and proofread
+         
+            2001-00
+            AptaraRekeyed and resubmitted
+         
+            2001-11
+            TCP Staff (Michigan)Sampled and proofread
+         
+            2001-11
+            TCP Staff (Michigan)Text and markup reviewed and edited
+         
+            2001-12
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            PANDOSTO.
+            ¶The Triumph
+of Time.
+            VVHEREIN IS DISCOUERED
+by a pleasant Historie, that although by the meanes
+of sinister fortune Truth may be concealed,
+yet by Time in spight of fortune it
+is most manifestly reuealed.
+            Pleasant for age to auoyde drowsie thoughtes,
+profitable for youth to eschue other wanton
+pastimes, and bringing to both a desired
+content.
+            Temporis filia veritas.
+            ¶By Robert Greene Maister of Artes
+in Cambridge.
+            Omne tulit punctum qui miscuit vtile dulci.
+            Imprinted at London by Thomas Orwin for Thomas
+Cadman, dwelling at the Signe of the Bible, neere
+vnto the North doore of Paules,
+1588.
+         
+         
+            
+            TO THE GENTLEMEN READERS
+HEALTH.
+            THe paultring Poet Aphranius being
+blamed for troublinge ye Emperor
+Traian with so many doting
+Poems: aduentured notwithstanding,
+stil to present him with rude
+and homely verses, excusing himfelfe
+with the courtesie of ye Emperour,
+which did as friendly accept, as he fondly
+offerd. So Gentlemen, if any condemne my rashnesse
+for troubling your eares with so many vnlearned
+Pamphlets: I will straight shroud my
+selfe vnder the shadowe of your courtesies, &amp; with
+Aphranius lay the blame on you aswell for frendly
+reading them, as on my selfe for fondly penning
+them: Hoping though fond curious, or rather currish
+backbiters breathe out slaunderous speeches:
+yet the courteous Readers (whom I feare to
+offend) wil requite my trauell, at the least
+with silence: and in this hope I
+rest: wishing you health
+and happines.
+            Robert Greene.
+         
+         
+            
+            TO THE RIGHT HOnorable
+George Clifford Earle of Cumberland,
+Robert Greene wisheth increase
+of honour and vertue.
+            THE Rascians (right honorable) when by
+long gazing against the Sunne, they become
+halfe blinde, recouer their sightes
+by looking on the blacke Loade stone. Vnicornes
+being glutted with brousing on
+roots of Licquoris, sharpē their stomacks
+with crushing bitter grasse.
+            Alexander vouchsafed as well to smile at the croked picture
+of Vulcan, as to wonder at the curious counterfeite of
+Venus. The minde is sometimes delighted as much with
+small trifles as with sumptuous triumphs, and as wel pleased
+with hearing of Pans homely fancies, as of Hercules renowmed
+laboures.
+            Syllie Baucis coulde not serue Iupiter in a siluer plate, but
+in a woodden dish. Al that honour Esculapius, decke not his
+shrine with Iewels. Apollo giues Oracles as wel to the poore
+man for his mite, as to the rich mā for his treasure. The stone
+Echites is not so much liked for the colour, as for vertue,
+and giftes are not to be measured by the worth, but by the
+will. Mis
+                     •
+                  n that vnskilfull Painter of Greece, aduentured 
+                  •
+               o
+giue vnto Darius the shielde of Pallas, so roughlie shadowed,
+as he smiled more at the follie of the man, then at the imperfection
+of his arte. So I present vnto your honour the triumph
+of time, so rudelie finished, as I feare your honour wil
+rather frowne at my impudencie, then laugh at my ignorancie:
+But I hope my willing minde shal excuse my slender skill,
+and your honours curtesie shadowe my rashnes.
+            
+               They which feare the biting of vipers doe carie in their
+hands the plumes of a Phoenix. Phydias drewe Vulcan sitting
+in a chaire of luory. Caesars Crow durst neuer cry, Aue, but
+whē she was pearked on the Capitoll. And I seeke to shroude
+this imperfect Pamphlet vnder your honours patronage,
+doubting the dint of such inuenomed vipers, as seeke with
+their slaunderours reproches to carpe at al, being oftentims,
+most vnlearned of all: and assure my sel
+                  •
+               e, that your honours
+renowmed valure, and vertuous disposition shall be a
+sufficient defence to protect me from the Poysoned tongues
+of such scorning Sycophants, hoping that as Iupiter vouchsafed
+to lodge in Philemons thatched Cotage: and Phillip
+of Macedon, to take a bunche of grapes of a country pesant:
+so I hope your honour, measuring my worke by my will, and
+wayghing more the mind than the matter, will when you
+haue cast a glaunce at this toy, with Minerua, vnder your golden
+Target couer a deformed Owle. And in this hope
+I rest, wishing vnto you, and the vertuous
+Countesse your wife: such happy successe
+as your honours can desire,
+or I imagine.
+            Your Lordships most duetifully to commaunde:
+Robert Greene.
+            
+         
+      
+      
+         
+            
+            THE HISTORIE OF
+DORASTUS AND
+FAWNIA.
+            AMong al the Passions wherewith humane
+mindes are perplexed, there is none that so
+galleth with restlesse despight, as ye infectious
+soare of Iealousie: for all other griefes
+are eyther to bee appeased with sensible perswasions,
+to be cured with wholesome counsel,
+to be relieued in want, or by tract of tune
+to be worne out, (Iealousie only excepted) which is so sawsed with
+suspitious doubtes, and pinching mistrust, that whoso seekes by
+friendly counsaile to rase out this hellish passion, it foorthwith suspecteth
+that he geueth this aduise to couer his owne guiltinesse.
+Yea, who so is payned with this restlesse torment doubteth all,
+dystrusteth him-selfe, is alwayes frosen with feare, and fired with
+suspition, hauing that wherein consisteth all his ioy, to be the br
+                  •
+               eder
+of his miserie. Yea, it is such a heauy enemy to that holy estate
+of matrimony, sowing betweene the married couples such deadly
+seedes of secret hatred, as Loue being once rased out by spightful
+distrust, there oft ensueth bloudy reuenge, as this ensuing Hystorie
+manifestly prooueth: wherein Pandosto (furiously incensed
+by causelesse Iealousie) procured the death of his most loving and
+loyall wife, and his owne endlesse sorrow and misery.
+            IN the Countrey of Bohemia there raygned a King called
+Pandosto, whose fortunate successe in warres against his foes,
+and bountifull curtesie towardes his friendes in peace, made him
+to be greatly feared and loued of all men. This Pandosto had to
+Wife a Ladie called Bellaria, by birth royall, learned by education,
+faire by nature, by vertues famous, so that it was hard to
+iudge whether her beautie, fortune, or vertue, wanne the greatest
+
+commendations. These two lincked together in perfect loue, led
+their liues with such fortunate cōtent, that their Subiects greatly
+reioyced to sée their quiet disposition. They had not beene married
+long, but Fortune (willing to increase their happines) lent
+them a sonne, so adorned with the gifts of nature, as the perfection
+of the Childe greatly augmented the loue of the parentes, and
+the ioy of their commons: in so much that the Bohemians, to shew
+their inward ioyes by outwarde actions, made Bonefires and triumphs
+throughout all the Kingdome, appointing Iustes and
+Turneyes for the honour of their young Prince: whether resorted
+not only his Nobles, but also diuers Kings and Princes which
+were his neighbours, willing to shewe their friendship they ought
+to Pandosto, and to win fame and glory by their prowesse and valour.
+Pandosto, whose minde was fraught with princely liberality,
+entertayned the Kings, Princes, and noble men with such submisse
+curtesie, and magnifical bounty, that they all sawe how willing
+he was to gratifie their good wils, making a generall feast
+for his Subiects, which continued by the space of twentie dayes:
+all which time the Iustes and Turneys were kept to the great
+content both of the Lordes &amp; Ladies there present. This solemne
+tryumph being once ended, the assembly taking their leaue of
+Pandosto and Bellaria: the young sonne (who was called Garinter)
+was nursed vp in the house, to the great ioy and content of the
+parents. Fortune enuious of such happy successe, willing to
+shewe some signe of her inconstantie, turned her wheele, and darkned
+their bright sun of prosperitie, with the mistie cloudes of mishap
+and misery. For it so happened that Egistus King of Sycilia,
+who in his youth had bene brought vp with Pandosto, desirous to
+shewe that neither tracte of time, nor distance of place could diminish
+their former friendship, prouided a nauie of ships, and sayled
+into Bohemia to visite his old friend and companion, who
+hearing of his arriuall, went himselfe in person, and his wife Bellaria,
+accompanied with a great traine of Lords and Ladies, to
+meete Egistus: and espying him, alighted from his horse, embraced
+him very louingly, protesting that nothing in the world
+could haue happened more acceptable to him then his comming,
+wishing his wife to welcome his olde friend and acquaintance:
+who (to shewe how she liked him whom her husband loued) intertayned
+
+him with such familiar curtesie, as Egistus perceiued himselfe
+to bée verie well welcome. After they had thus saluted and
+embraced eche other, they mounted againe on horsbacke, and rode
+toward the Citie, deuising and recounting, howe being children
+they had passed their youth in friendely pastimes: where, by the
+meanes of the Citizens, Egistus was receyued with triumphs and
+showes in such sort, that he maruelled how on so small a warning
+they coulde make such preparation. Passing the streetes thus with
+such rare sightes, they rode on to the Pallace, where Pandosto entertained
+Egistus and his Sycilians with such banqueting and
+sumptuous cheare, so royally, as they all had cause to cōmend his
+princely liberality, yea, the verie basest slaue that was knowne to
+come from Sycilia was vsed with such curtesie, yt 
+               Egistus might
+easily perceiue how both hee and his were honored for his friendes
+sake. Bellaria (who in her time was the flower of curtesie, willing
+to shew how vnfaynedly shee looued her husband by his friends intertainemēt,
+vsed him likewise so familiarly, that her countenance
+bewraied how her minde was affected towardes him: oftentimes
+comming her selfe into his bed chamber, to sée that nothing should
+be amis to mislike him. This honest familiarity increased dayly
+more and more betwixt them: for Bellaria noting in Egistus a
+princely and bountifull minde, adorned with sundrie and excellent
+qualities, and Egistus finding in her a vertuous and curteous disposition,
+there grew such a secret vniting of their affections, that
+the one could not well be without the company of the other: in so
+much that when Pandosto was busied with such vrgent affaires,
+that hee could not bee present with his friend Egistus, Bellaria
+would walke with him into the Garden, where they two in priuat
+and pleasant deuises would passe away the time to both their contents.
+This custome still continuing betwixt them, a certaine melancholy
+passion entring the minde of Pandosto, draue him into
+sundry and doubtfull thoughts. First, he called to minde the beauty
+of his wife Bellaria, the comelines and brauerie of his friend
+Egistus, thinking that Loue was aboue all Lawes, and therefore
+to be staied with no Law: that it was hard to put fire and flaxe together
+without burning: that their open pleasures might breede
+his secrete displeasures. He considered with himselfe that Egistus
+was a man, and must needes loue: that his wife was a woman,
+
+and therfore subiect vnto loue, and that where fancy forced, friendship
+was of no force. These and such like doubtfull thoughtes a
+long time smoothering in his stomacke, beganne at last to kindle in
+his minde a secret mistrust, which increased by suspition, grewe at
+last to a flaming Iealousie, that so tormented him as he could take
+no rest. He then began to measure all their actions, and to miscenstrue
+of their too priuate familiaritie, iudging that it was not for
+honest affection, but for disordinate fancy, so that hee began to
+watch them more narrowely, to sée if hée could gette any true or
+certaine proofe to confirme his doubtfull suspition. While thus he
+noted their lookes and gestures, and suspected their thoughtes and
+meaninges, they two séely soules who doubted nothing of this his
+treacherous intent, frequēted daily eache others companie, which
+draue him into such a franticke passion, that he beganne to beare a
+secret hate to Egistus, and a lowring countenaunce to Bellaria,
+who marueiling at such vnaccustomed frowns, began to cast béeyond
+the Moone, and to enter into a thousand sundrie thoughtes,
+which way she should offend her husband: but finding in her selfe a
+cleare cōscience, ceassed to muse, vntil such time as she might find
+fit opportunitie to demaund the cause of his dumps. In the meane
+time Pandostoes minde was so farre charged with Iealousy, that
+he did no longer doubt, but was assu
+                  ••
+               ed (as he thought) that his
+Friend Egistus had entered a wrong pointe in his tables, and so
+had played him false play: whervpō desirous to reuenge so great
+an iniury, he thought best to dissemble the grudge with a faire and
+friendly countenance: and so vnder the shape of a friend, to shew
+him the tricke of a foe. Deuising with himself a long time how he
+might best put away Egistus without suspition of treacherous
+murder, hee concluded at last to poyson him: which opinion pleasing
+his humour, he became resolute in his determination, and the
+better to bring the matter to passe he called vnto him his cupbearer,
+with whom in secret he brake the matter: promising to him for
+the performance thereof, to geue him a thowsande crownes of
+yearely reuenues: his cupbearer eyther being of a good conscience,
+or willing for fashion sake, to deny such a bloudy request, began
+with great reasons to perswade Pandosto from his determinate
+mischief: shewing him what an offence murther was to the Gods:
+how such vnnaturall actions did more displease the heauens, than
+
+               
+                  〈1 page duplicate〉
+               
+               
+               
+                  〈1 page duplicate〉
+               
+               
+               
+               deuoide of pity, commanded that without delay it should bee put
+in the boat, hauing neither saile nor other to guid it, and so to bee
+carried into the midst of the sea, and there left to the wind &amp; waue
+as the destinies please to appoint. The very shipmen seeing the
+sweete countenance of the yong babe, began to accuse the King of
+rigor, and to pity the childs hard fortune: but feare constrayned
+them to that which their nature did abhorre: so that they placed it
+in one of the ends of the boat, and with a few greene bows made a
+homely cabben to shroud it as they could from wind and weather:
+hauing thus trimmed the boat they tied it to a ship, and so haled it
+into the mayne Sea, and then cut in sunder the coarde, which they
+had no sooner done, but there arose a mighty tempest, which tossed
+the little Boate so vehemently in the waues, that the shipmen
+thought it coulde not continue longe without sincking, yea the
+storme grewe so great, that with much labour and perill they got
+to the shoare. But leauing the Childe to her fortunes. Againe to
+Pandosto, who not yet glutted with sufficient reuenge, deuised
+which way he should best increase his Wiues calamitie. But first
+assembling his Nobles and Counsellors, hee called her for the
+more reproch into open Court, where it was obiected against her,
+that she had committed adulterie with Egistus, and conspired with
+Franion to poyson Pondosto her husband, but their pretence being
+partely spyed, shee counselled them to flie away by night for
+their better safety. Bellaria, who standing like a prisoner at the
+Barre, feeling in her selfe a cleare Conscience to withstand her
+false accusers: seeing that no lesse then death could pacifie her husbands
+wrath, waxed bolde, and desired that she might haue Lawe
+and Iustice, for mercy shee neyther craued nor hoped for, and that
+those periured wretches, which had falsly accused her to the King,
+might be brought before her face, to giue in euidence. But Pandosto,
+whose rage and Iealousie was such, as no reason, nor equitie
+could appease: tolde her, that for her accusers they were of such
+credite, as their wordes were sufficient witnesse, and that the sodaine
+&amp; secret flight of Egistus, &amp; Franion confirmed that which
+they had confessed: and as for her, it was her parte to deny such a
+monstrus crime, and to be impudent in forswearing the fact, since
+shee had past all shame in committing the fault: but her stale
+countenaunce should stand for no coyne, for as the Bastard which
+
+she bare was serued, so she should with some cruell death be requited.
+Bellaria no whit dismayed with this rough reply 
+                  •
+                tolde her
+Husband Pandosto, that he spake vpon choller
+                  •
+               , and not con
+                  ••••
+               
+               ence:
+for her vertuous life had beene euer such, as no spot of suspition
+could euer staine. And if she had borne a frendly countedaunce
+to Egistus, it was in respect he was his friende, and not
+for any lusting affection: therefore if she were condemned without
+a
+                  •
+               y further proofe, it was rigour, and not Law. The noble
+men which sate in iudgement, said that Bellaria spake reason, and
+intreated the king that the accusers might be openly examined,
+and sworne, and if then the euidence were such, as the Iury might
+finde her guilty (for seeing she was a Prince) she ought to be 
+                  •
+               ryed
+by her péeres, then let her haue such punishment as the extremitie
+of the Law will assigne to such malefactors. The king presently
+made answere, that in this case he might, and would dispence
+with the Law, and that the Iury being once panneld, they
+should take his word for sufficient euidence, otherwise he would
+make the proudest of them repent it. The noble men séeing the
+king in choler, were all whist, but Bellaria, whose life then hung
+in the ballaunce, fearing more perpetuall in famie, then momentarie
+death, tolde the king
+                  •
+                if his furie might stand for a Law, that
+it were vaine to haue the Iury yéeld their verdit, and therefore
+she fell downe vpon her knées, and desired the king that for the
+loue he hare to his young sonne Garinter, whome she brought
+into the world, that hee woulde graunt her a request, which was
+this, that it would please his maiestie to send sixe of his noble men
+whome he best trusted, to the Isle of Delphos, there to enquire
+of the Oracle of Apollo, whether she had committed adultery
+with Egistus, or conspired to poyson him with Franion: and if
+the God Apollo, who by his deuine essence knew al secrets, gaue
+answere that she was guiltie, she were content to suffer any torment,
+were it neuer so terrible. The request was so reasonable,
+that Pandosto could not for shame deny it, vnlesse he woulde d
+                  •
+               e
+counted of all his subiects more wilfull then wise, he therefore agréed,
+that with as much speede as might be there should be certaine
+Embassadores dispat
+                  ••
+               ed to the Ile of Delphost 
+               
+                  ••
+               d in the
+meane season be commanded that his wife should be kept in close
+prison. Bellaria hauing obtained this graunt, was now more
+
+carefull for her little babe that floated 
+                  ••
+                the Seas, then 
+                  •••••
+               |
+full for her owne mishap. For of that she doubted: of her selfe shee
+was assured, knowing if Apollo should giue Oracle according to
+the thoughts of the hart, yet the sentence should goe one her sid
+                  •
+               ,
+such was the clearenes of her minde in this case. But Pandosto
+(whose suspitious head still remained in one song) chose out six of
+his Nobility, whom hee knew were scarse indifferent men in the
+Quéenes behalfe, and prouiding all things fit for their iourney,
+sent them to Delphos: they willing to fulfill the Kinges commaund,
+and desirous to see the situation and custome of the Iland,
+dispatched their affaires with as much spéede as might be, and embarked
+themselues to this voyage, which ( the wind and weather
+seruing fit for their purpose) was soone ended. For within three
+weekes they arriued at Delphos, where they were no sooner set
+on lande, but with great deuotion they went to the Temple of Apollo,
+and there offring sacrifice to the GOD, and giftes to the
+Priest, as the custome was, they humbly craued an aunswere of
+their demaund: they had not long kneeled at the Altar, but Apollo
+with a loude voice saide: Bohemians, what you finde behinde
+the Alter take, and depart. They forthwith obeying the Oracle
+founde a scroule of parchment, wherein was written these words
+in letters of Golde.
+            
+               
+                  
+                     
+                        The Oracle.
+                        SVspition is no proofe: Iealousie is an vnequall Iudge:
+Bellaria is chast: Egistus blamelesse: Franion a true
+subiect: Pandosto treacherous: his Babe an innocent,
+and the King shal liue without an heire: if that which
+is lost be not founde.
+                     
+                  
+               
+            
+            AS soone as they had taken out this scroule, the Priest of the
+God commaunded them that they should not presume to read
+it, before they came in the presēce of Pandosto: vnlesse they would
+incurre the displeasure of Apollo. The Bohemian Lords carefully
+obeying his commaund, taking their leaue of the Priest,
+with great reuerence departed out of the Temple, and went 
+                  ••
+               
+their ships, and assoone as wind would permit them sailed toward
+
+               Bohemia, whither in short time they safely arriued, &amp; with great
+tryumph issuing out of their Ships, went to the Kinges pall
+                  ••
+               e,
+whom they found in his chamber accompanied with other Noble
+men: Pandosto no sooner saw them, but with a merrie countenaunce
+he welcomed them home, as king what newes: they tolde
+his Maiestie that they had receiued an aunswere of the God written
+in a scroule, b
+                  •
+               t with this charge, yt they should not reade the
+contents before they came in the presence of the King, and with
+that they deliuered him the parchment: but his Noble men intreated
+him that sith therein was contayned either the safetie of his
+Wiues life, and honestly, or her death, and perpetuall infamy, that
+he would haue his Nobles and Commons assembled in the iudgement
+Hall, where the Queene brought in as prysoner, should
+heare the contents: if shee were found guilty by the Oracle of the
+God, then all should haue cause to thinke his rigour proceeded of
+due desert: if her Grace were found faultlesse, then shee should bee
+cleared before all, sith she had bene accused openly. This pleased
+the King so, that he appointed the day, and assembled al his Lords
+and Commons, and caused the Quéene to be brought in before the
+Iudgement seate, commaunding that the inditement shoulde bee
+read, wherein she was accused of adultery with Egistus, and of
+conspiracy with Franion: Bellaria hearing the contentes, was
+no whit astonished, but made this chearefull aunswer.
+            IF the deuine powers bee priuy to humane actions (as no doubt
+they are) I hope my patience shall make fortune blushe, and my
+vnspotted life shall staine spightfully discredit. For although lying
+Report hath sought to appeach mine honor, and Suspition hath
+intended to soyle my credit with infamie: yet where Uertue keepeth
+the Forte, Report and suspition may assayle, but neuer sack:
+how I haue led my life before Egistus comming, I appeale Pandosto
+to the Gods, &amp; to thy conscience. What hath passed betwixt
+him and me, the Gods onely know, and I hope will presently reueale:
+that I loued Egistus I can not denie, that I honored him
+I shame not to confesse: to the one I was forced by his vertues: to
+the other for his dignities. But as touching lasci
+                  ••••
+               s lust, I say
+Egistus is honest, and hope my selfe to be found without spot: for
+Franion. I can neither accuse him, nor excuse him: for I was not
+
+priuie to his departure, and that this is true which I haue heere
+rehearsed, I referre my selfe to the deuine Oracle.
+            
+               BEllaria had no sooner sayd, but the King commaunded that one
+of his Dukes should reade the contentes of the scroule: which
+after the commons had heard, they gaue a great showt, reioysing
+and clapping their hands that the Quéene was cleare of that false
+accusation: but the King whose conscience was a witnesse against
+him of his witlesse furie, and false suspected Iealousle, was so ashamed
+of his rashe folly, that he intreated his nobles to perswade
+Bellaria to forgiue, and forget these iniuries: promising not onely
+to shew himselfe a loyall and louing husband, but also to reconcile
+himselfe to Egistus, and Franion: reuealing then before
+them all the cause of their secrete flighte, and how treacherously
+hee thought to haue practised his death, if the good minde of his
+Cupbearer had not preuented his purpose. As thus he was relating
+the whole matter, there was worde brought him that his
+young sonne Garinter was sodainly dead, which newes so soone
+as Bellaria heard, surcharged before which extreame ioy, and now
+suppressed with heauie sorrowe, her vitall spirites were so stopped,
+that she fell downe presently dead, &amp; could be neuer reuiued. This
+sodaine sight so appalled the Kinges Sences, that he sanck from
+his seate in a soūd so as he was fayne to be carried by his nobles
+to his Pallace, where hee lay by the space of three dayes without
+speache: his commons were as men in dispaire, so diuersly 
+                  •••
+               
+               sed:
+there was nothing but mourning and lamentation to be heard
+throughout al Bohemia: their young Prince dead, their vertuous
+Queene bereaued of her life, and their King and Soueraigne in
+great hazard: this tragicall discourse of fortune so daunted them,
+as they went like shadowes, not men: yet somewhat to comfort
+their heauie hearts, they heard that Pandosto was come to himselfe,
+and had recouered his speache, who as in a fury brayed out
+these bitter speaches.
+            O Miserable Pandosto, what surer witnesse then conscience?
+What thoughts more sower then suspition? What plague
+more bad then Iealousie? Unnaturall actions offend the Gods,
+more than men, and causelesse crueltie, neuer scapes without reuenge:
+
+               
+                  〈…〉
+               
+recall I cannot 
+                  〈…〉
+               
+the conscience, suppressing reason, and inciting rage: a worse passion
+then phrensie, a greater plague than madnesse. Are the Gods
+iust: Then let them reuenge such brutishe crueltie: my innocent
+Babe I haue drowned in the Seas: my louing wife I haue slaine
+with slaunderous suspition: my trusty friend I haue sought to betray,
+and yet the Gods are slacke to plague such offences. Oh vniust
+Apollo, Pandosto is the man that hath committed the faulte:
+why should Garinter, séely childe, abide the paine: Well sith the
+Gods meane to prolong my dayes, to increase my dolour, I will
+offer my guiltie bloud a sacrifice to those sackles soules, whose
+liues are lost by my rigorous folly. And with that he reached at a
+Rapier, to haue murdered himselfe, but his Péeres being present,
+stayed him from such a bloudy acte: perswading him to think, that
+the Common-wealth consisted on his safetie, and that those shéepe
+could not but perish, that wanted a shéepheard: wishing, that if hée
+would not liue for himselfe, yet he should haue care of his subiects,
+and to put such fancies out of his minde, sith in sores past h
+                  •
+               lp,
+salues doe not heale, but hurt
+                  •
+               nd in thinges past c
+                  •
+               re, care is a
+
+                  ••
+               rāsiue: with these and such like perswasions the Kinge was ouercome,
+and began somewhat to quiet his minde: so that assoo
+                  •
+               e
+as h
+                  ••
+                could goe abroad, hée caused his wife to bée embalmed, and
+wrapt in lead with her young sonne Garinter: erecting a rich an
+                  •
+               
+famous Sepulchre, wherein hée intombed them both, making
+such sollenme obsequies at her funeral, as al Bohemia might perceiue
+he did greatly repent him of his forepassed folly: causing this
+Epitaph to be ingrauen on her Tombe in letters of Golde:
+            
+               ¶The Epitaph.
+               Here lyes entombde Bellaria faire,
+               Falsly accused to be vnchaste:
+               Cleared by Apollos sacred doome,
+               Yet slaine by Iealousie at last.
+            
+            
+               What ere thou be, that passest by,
+               Cursse him that causde this Q
+                     •
+                  eene to die
+            
+            
+               THis Epitaph being ingr
+                  •
+               uen, Pandosto would once a-day repaire
+to the Tombe, and there with watry plaintes bewaile
+his misfortune: coueting no other companion but sorrowe, nor no
+other harmonie, but re
+                  •
+               entance. But leauing him to his dolorous
+passions, at last let vs come to shewe the tragicall discourse of the
+young infant.
+            WHo béeing tossed with Winde, and Waue, floated two
+whole daies without succour, readie at euery puffe to bée
+drowned in the Sea, till at last the Tempest ceassed, and the little
+boate was driuen with the tyde into the Coast of Sycilia, where
+sticking vppon the sandes, it rested. Fortune minding to be wanton,
+willing to shewe that as she hath wrinckles on her 
+                  ••
+               owes: so
+shée hath dimplés in her chéekes: thought after so many sower
+lookes, to lend a fayned smile, and after a puffing storme, to bring
+a pretty calme: shee began thus to dally. It fortuned a poore mercenary
+Shéepheard, that dwelled in Sycilia, who got his liuing by
+other mens flockes, missed one of his shéepe, and thinking it had
+stra
+                  •
+               ed into the cou
+                  •
+               rt, that was hard by, sought very diligently
+to 
+                  •
+               ind that which he could not see, fearing either that the Wolues,
+or Eagles had vndone him (for hée was so poore, as a shéepe was
+halfe his substaunce) wandered downe toward the Sea cliffes, to
+sée if pl
+                  •
+               chaunce the shéepe was browsing on the sea Iu
+                  •
+               , whereon
+the
+                  •
+                
+               
+                  •
+               reatly doe féede, but not finding her there, as he was ready
+to returne to his flocke, hée heard a childe crie: but knowing
+there was no house nere, he thought he had mistakē ye sound, &amp; yt it
+was the ble
+                  ••
+               yng of his Shéepe. Wherefore looking more narrowely,
+as he cast his eye to the Sea, he spyed a little boate, from
+whence as he attentiuely listened, he might heare the cry to come:
+standing a good while in a maze, at last he went to the shoare, and
+wading to the boate, as he looked in, he saw the little babe lying al
+alone, many to die for hunger and colde, wrapped in a Mantle of
+Scarlet, richely imbrodered with Golde, and hauing a chayne about
+the necke. The Shéepeheard, who before had neuer séene so
+faire a Babe, not so riche Iewels, thought assuredly, that it was
+some little God, and began with great deuocion to knock on his
+breast. The Babe, who wrythed with ye head, to seeke for the pay,
+began againe to cry afresh, whereby the poore man knew that it
+
+was a Childe, which by some sinister meanes was driuen thither
+by distresse of weather: maruailing how such a seely infant, which
+by the Mantle, and the Chayne, could not be but borne of Noble
+Parentage, should be so hardly crossed with deadly mishap. The
+poore sheepheard perplexed thus with diuers thoughts, tooke pitty
+of the childe, and determined with himselfe to carry it to the
+King, that there it might be brought vp, according to the worthinesse
+of birth: for his ability coulde not afforde to foster it, though
+his good minde was willing to further it. Taking therefore the
+Chylde in his armes, as he foulded the mantle together, the better
+to defend if from colde, there fell downe at his foote a very faire
+and riche purse, wherein he founde a great summe of golde: which
+sight so reuiued the shepheards spirits, as he was greatly rauished
+with ioy, and daunted with feare: Ioyfull to see such a summe in
+his power, and fearefull if it should be knowne, that it might bréede
+his further daunger. Necessitie wisht him at the least, to retaine
+the Golde, though he would not kéepe the childe: the simplicity
+if his conscience feared him from such deceiptfull briberie. Thus
+was the poore manne perplexed with a doubtfull Dilemma, vntil
+at last the couetousnesse of the coyne ouercame him: for what
+will not the gréedy desire of Golde cause a man to doe? So that
+he was resolued in himselfe to foster the child, and with the summe
+to relieue his want: resting thus resolute in this point, he left séeking
+of his shéepe, and as couertly, and secretly as he coulde, went
+by a by-way to his house, least any of his neighbours should perceaue
+his carriage: assoone as he was got home, entring in at the
+doore, the childe began to crie, which his wife hearing, and séeing
+her husband with a yong babe in his armes, began to bée somewhat
+ielousse, yet marueiling that her husband should be so wanton
+abroad, sith he was so quiet at home: but as women are naturally
+giuen to beléeue the worste, so his wife thinking it was some
+bastard: beganne to crow against her goodman, and taking vp a
+c
+                  ••
+               gel (for the most maister went bréethles) sware solenmly that
+shee would make clubs trumps, if hee brought any bastard brat
+within her dores. The goodman seeing his wife in her maiestie
+with her mate in her hand, thought it was time to bowe for 
+                  •
+               eare
+of blowes, &amp; desired her to be quiet, for there was non such matter:
+but if she could holde her peace, they were made for euen and with
+
+that he told her the whole matter, how he had found the childe
+in a little boat, without any succ
+                  ••
+               r, wrapped in that costly
+mantle, and hauing that rich chain
+                  •
+                about the neck: but at last
+when he shewed her the purse full of gold, she began to simper
+something swéetely, and taking her husband about the neck,
+kissed him after her homely fashion: saying that she hoped God
+had séene their want, and now ment to reliéeue their pouerty,
+and séeing they could get no children, had sent them this little
+babe to be their heire. Take héede in any case (quoth the shepherd)
+that you be secret, and blabbe it not out when you méete
+with your gossippes, for if you doe, we are like not only to
+loose the Golde and Iewels, but our other goodes and liues.
+Tush (quoth his wife) profit is a good hatch before the doore:
+feare not, I haue other things to talke of then of this: but I
+pray you let vs lay vp the money surely, and the Iewels, least
+by any mishap it be spied. After that they had set all things in
+order, the shepheard went to his shéepe with a merry note, and
+the good wife learned to sing lull
+                  •
+               by at home with her yong
+babe, wrapping it in a homely blanket in sted of a rich mantle:
+nourishing in so clenly and carefully as it began to bee a iolly
+girle, in so much that they began both of them to be very fond
+of it, séeing, as it waxed in age, so it increased in beauty. The
+shepheard euery night at his comming home, would sing and
+daunce it on his knée, and prattle, that in a short time it began
+to speake and call him Dad, and her Mam: at last when
+it grew to ripe yeeres, that it was about seuen yeares olde,
+the shepheard lest keeping of other mens sheepe, and with the
+money he found in the purse, he bought him the lease of a pretty
+farme, and got a smal flocke of shéepe, which when Fawnia
+(for so they named the child) came to the age of ten yeres, hee
+set her to keepe, and shee with such diligence performed her
+charge as the sheepe prospered marueilously vnder her hand.
+Fawnia thought Porrus had ben her father, and Mopsa her
+mother, (for so was the shepheard and his wife called (honoured
+and obeyed them with such reuerence, that all the neighbours
+praised the du
+                  •
+               tifully obedience of the child. Porrus
+grewe in short time to bee a man of some wealth, and cre
+                  •
+               ite:
+for fortune so fauoured him in hauing no charge but Fawnia,
+               
+that he began to purchase land, intending after
+                  〈…〉
+               
+giue it to his daughter: so that diuerse rich farmer
+                  •
+                sonne
+                  •
+               
+came as wo
+                  •
+               rs to his house
+                  •
+                for Fawnia was something 
+                  •••
+               
+               ly
+attired, beeing of such singular beautie and excellent 
+                  ••
+               te,
+that whoso sawe her, would 
+                  •
+                thought, shee had bene some
+heauenly nymph, and not a mortal creature: in so much, that
+when she came to the age of six
+                  •
+                yeeres, shee so increased
+with exquisite perfe
+                  •
+               tion both of body and minde, as her natural
+disposition did bewray that she was borne of some high parentage:
+but the people thinking she was daughter to the shephard
+Porrus; tested only amazed at hir beauty and 
+                  •
+               e: yea
+she won such fauour and commendations in euery mans eye,
+as her beautie was not onely praysed in the countrey, but also
+spoken of in the Court: yet such was her submisse modestie,
+that although her praise daily increased, her mind was no whit
+puffed vp with pride, but humbled her selfe as became a country
+mayde and the daughter of a poore sheepheard. E
+                  ••
+               ry day
+she went forth with her sheepe to the field, keeping them with
+such care and diligence, as al men thought she was verie painfull,
+defending her face from the heat of the sunne with
+                  •••
+                other
+vale, but with a garland made of bowes and flowers:
+which atire became her so gallantly, as shee seemed to bee the
+Goddesse Flora her selfe for beauty 
+                  •
+                Fortune, wh
+                  •
+                al this
+while had shewed a frendly face, began now to turne her back,
+and to shewe a lowring countenance, intending as she had giuen
+Fawnia a flenderchecke, so she woulde g
+                  •••
+                her a harder
+mate: to bring which to passe, she layd her trains on this wise.
+Egistus had but one only son called Dorastus, aboue ye age of
+twenty yeeres: a Prince so decked and adorned with the
+gifts of nature: so fraught with beauty and vertuous qualities,
+as not onely his father ioyed to haue so goode a sonne, 
+                  •
+                al
+his commons reioyced that God had lent them such a noble
+Prince to succeede in the Kingdom. Egistus placing all his
+ioy in the perfection of his sonne: seeing that hee was now mariage-able,
+sent Embassadors to the King of Denmarke, to
+intreate a mari
+                  •
+               ge betweene him and his daughter, who willingly
+consenting, made answer, that the 
+                  〈…〉
+                please
+Egistus with his sonne to come into Denmarke, hee doubted
+
+not, but they shoulde agrée vpon reasonable conditions. Egistus
+resting satisfied with this friendly answer, thought conuenient
+in the meane time to breake with his sonne: finding
+therfore on a day fit oportunity he spake to him in these fatherly
+tearmes.
+            
+               DOrastus, thy youth warneth me to preuent the worst, and
+mine age to prouide the best. Oportunities neglected, are
+signes of folly: actions measured by time, are seldome bitten
+with repentance: thou art young, and I olde: age hath taught
+me that, which thy youth cannot yet conceiue.
+            I therefore will counsell thee as a father, hoping thou wilt
+obey as a childe. Thou séest my white hayres are blossomes
+for the graue, and thy freshe colour fruite for time and fortune,
+so that it behooueth me to thinke how to dye, and for thée
+to care how to liue. My crowne I must leaue by death, and
+thou enioy my Kingdome by succession, wherein I hope thy
+vertue and prowesse shall bee such, as though my subiectes
+want my person, yet they shall see in thee my perfection. That
+nothing either may faile to satisfie thy minde, or increase thy
+dignities: the onely care I haue, is to see thee well marryed
+before I die, and thou become olde.
+            
+               Dorastus who from his infancy, delighted rather to die
+with Mars in the Fielde, then to dally with Venus in the
+Chamber: fearing to displease his father, and yet not willing
+to be wed, made him this reuerent answere.
+            SIr, there is no greater bond then duetie, nor no straiter law
+then nature: disobedience in youth is often galled with despight
+in age. The commaund of the father ought to be a constraint
+to the childe: so parentes willes are laws, so they passe
+not all lawes: may it please your Grace therefore to appoint
+whome I shall loue, rather then by deniall I should be appeached
+of 
+                  〈…〉
+               re:I rest content to loue, though it bee the
+only thing I hate.
+            Egistus hearing his sonne to 
+                  〈◊〉
+                from the 
+                  〈◊〉
+               , began to be somewhat chollericke, another 
+                  〈…〉
+               .
+            
+               WHat Dorastus canst thou not 
+                  〈…〉
+               
+cynicall passion of pr
+                  •
+               ne de
+                  ••
+               res, or p
+                  ••
+               uish 
+                  •••
+               
+               wardnesse.
+What dorst thou thinke thy selfe to
+good for all, or none good inough for thee: I tel thee, Dorastus,
+there is nothing sweeter then youth, nor swifter decreasing,
+while it is increasing. Time past with folly may bee
+repented, but not recalled. If thou marrie in age, thy w
+                  •••
+               es
+freshe couloures will breede in thee dead thoughtes and suspicion,
+and thy white hayres her lothe somnesse and sorrowe. For
+Venus affections are not fed with Kingdomes, or treasures,
+but with youthfull conceits and sweete amours. Vulcan was
+allotted to shake the tree, but Mars allowed to reape the fruit.
+Yeelde Dorastus to thy Fathers perswasions, which may
+preuent thy perils. I haue chosen thee a Wife, faire by nature,
+royall by birth, by vertues famous, learned by education, and
+rich by possessiōs, so that it is hard to iudge whether her bounty,
+or fortune, her beauty, or vertue, bee of greater force: I
+mean
+                  •
+                
+               Dorastus, Euphania Daughter and h
+                  •
+               ire to the King
+of Denmarke.
+            
+            
+               EGistus pausing here a while, looking when his son should
+make him answere, and seeing that he stoode still as one in
+a trance, he shooke him vp thus sharply.
+            WEll Dorastus take he
+                  •
+               de, the tree Alpya wasteth not
+with fire, but withereth with the dewe: that which loue
+nourisheth not, perisheth with hate: if thou like Euphania, thou
+breedest my content, and in louing her thou shalt haue my
+loue
+                  •
+                otherwise; and with that hee flung from his sonne in a
+race leauing him a sorrowfullman, in that he had by deniall
+displeased his Father, and halfe angrie with him selfe that hee
+coulde not yeelde to that passion, whereto both reason and his
+Father perswaded him: but see how fortune is plumed with
+times feathers, and 
+                  •
+               ow shee can minister st
+                  ••••
+               ge causes to
+breede straunge effectes.
+            It happened not long 
+                  •
+               fter this that 
+                  〈…〉
+               ng of all the farmers D
+                  •••
+               hters 
+                  〈…〉
+                whither F
+                  •••••
+                was also bidden as the mistres of the feast, who 
+                  〈…〉
+               
+               
+her selfe, in her best garments, went among the rest of her companions
+to the merry meeting
+                  •
+                there spending the day in such
+homely pastimes as shephea
+                  ••
+               s vse. As the euening grew on,
+and their sportes ceased, ech taking their leaue at other, Fawnia
+desiring one of her companions to beare her companie,
+went home by the flocke, 
+                  •
+               o see if they were well folded,
+and as they returned, it fortuned that Dorastus (who all that
+daye had bene hawking, and 
+                  •••
+               de store of game) incountred
+by the way these two mayds, and casting his eye sodenly on
+Fawnia he was halfe afraid, fearing that with Acteon he had
+seene Diana, for hee thought such 
+                  ••
+               uisite perfection could
+not be founde many mortall creature. As thus he stoode in 
+                  •
+                maze, one of his Pages told him, that the maide with the garland
+on her head was Fawnia the faire shepheard, whose beauty
+was so much talked of in the Court. Dorastus desirous to
+see if nature had adorned her minde with any inward qualities,
+as she had decked her body with outward shape began
+to question with her whose daughter she was of what age and
+how she had but trained vp, who answered him with such madess
+reuerence and sharpnesse of witte, that Dorastus thought
+her outward beautie was but a counterfait to darken her inward
+qualities, wondring how so courtly behauiour could be
+found in so simple a cottage, and cursing fortune that had shadowed
+wit and beauty with such hard fortune. As thus he held
+her a long whise with that. Beauty seeing him at discouer
+                  •
+               
+thaught not to lose the 
+                  ••
+               tage, but strooke him in deepely
+with an inuenomed shafte, as he wholy lost his libertie, and became
+a slaue to Loue, which before containned Loue, glad now
+to gaze on a p
+                  •
+               ore shephea
+                  •
+               d, who before refused the offer of a
+riche Princesse: for the perfection of Fawnia had so fi
+                  •
+               ed his
+fancie as he felt his mind greatly chaunged, and his affections
+altered, cursing Loue that had wrought such a chaun
+                  •
+               e, and
+blaming the basenesse of his mind that would make such a
+choice
+                  •
+                but thinking these were but passion
+                  〈7 letters〉
+                that migh
+                  •
+                be thrust out at pleasure to auoid the Syren that inchaunted him 
+                  〈…〉
+                his horse and had this f
+                  〈…〉
+               
+            
+            Fawnia (who all this while had marked the 
+                  〈…〉
+               
+               
+of Dorastus) seeing his face 
+                  〈◊◊◊〉
+                and each time
+so perfectly frame
+                  •
+               , began greatly to praise his perfection,
+commending him so long, till she found her sel
+                  •
+               e faultie, and
+perceiued that if she waded but a little further, she might slippe
+ouer her shooes: shee therefore seeking to quench that fire which neuer was put out, went home, and 
+                  •••
+               n
+                  •
+               ing her selfe not
+well at ease, got her to bed
+                  •
+                where casting a 
+                  ••
+               sand thoughts
+in her head, she could take no rest: for if she wake
+                  •
+               , she begā to
+call to minde his beautie, and thinking to beguile such
+thoughts with 
+                  ••
+               eepe, 
+                  •
+               he 
+                  ••
+               en dreamed of his perfection: pestred
+thus with these vnacquainted passions, she passed the night
+as she could in short 
+                  ••
+               umbers.
+            
+               Dorastus (who all this while rode with a flea in his eare)
+coulde not by any meanes forget the sweete fauour of Fawnia,
+but rested 
+                  •
+               o bewitched with her wit and beauty, as hee could
+take no rest. He felt fancy to giue the a
+                  ••
+               ault, and his wounded
+mind reap
+                  ••
+               te to yeeld as vanquished: yet he began with diuers
+
+                  •
+               on
+                  ••••
+               rations to suppresse this frantick affecti
+                  ••
+                ca
+                  ••
+               ing to minde, that Fawnia was a 
+                  •
+               heph
+                  •
+               ard, one not worthy to bee 
+                  〈◊〉
+                at of a Prince, much lesse to bee loued of such a potentate thinking what a discredite it were to himselfe, and what a griefe it would be to his father, blaming fortune and acc
+                  ••••
+               ng his owne 
+                  〈◊〉
+                that shoulde bee so fond as but once to 
+                  •
+               ast a gla
+                  〈…〉
+               .  As thus he was raging against 
+                  ••
+               mselfe, Loue fearing if shee dallied long, to 
+                  〈…〉
+               ept more nigh, and gaue him such a fresh wounde as it pra
+                  ••
+               t him at the heart, that he was faine to yeeld, maugre his 
+                  •
+               a
+                  •
+                   e, and to forsake the companie and gette him to his chamber: where being solemnly set, hee burst into these passionate 
+                  ••
+               armes.
+            "Ah Dorastus, art tho
+                  •
+                alone?  No not alone, wosste t
+                  •
+               o
+                  •
+                art tired with these vnacquainted passions.  Yeld to fancy, thou can
+                  ••
+                not by thy fathers coun
+                  ••••
+               e, but in a frenzie t
+                  •
+               o
+                  •
+                art by 
+                  〈◊◊〉
+               .  THy father were content 
+                  〈…〉
+               
+               
+               
+                  •••
+               
+               
+by reason without Lawe
+                  •
+                and therefore aboue all Law.
+            How now Dorastus, why 
+                  •••
+                thou blaze that with maises,
+which thou hast cause to blaspheme with curses. Yet why
+should they curse Loue that are in Loue:
+            Blush Dorastus at thy fortune, thy choice, thy loue: thy
+thou
+                  •
+                
+               
+                  ••
+               s cannot be vttered without shame, nor thy affections
+without discredit. Ah Fawnia, sweete Fawnia, thy beautie
+Fawnia.
+            
+            Shamest not thou Dorastus to name, one vnfitte for thy
+birth, thy dignities, thy Kingdomes? Dye Dorastus, Dorastus
+die, better hadst thou perish with high desires, then liue in
+base thoughts. Yea but, beautie must be obeyed because it is
+beauty, yet framed of the Gods to feede the eye, not to fatter
+the heart.
+            Ah but he that striueth against Loue, shooteth with them of
+Scyrum against the winde, and with the Cockeatrice pecketh
+against the steele. I will therefore obey, becaue I must obey.
+Fawnia, yea Fawnia shal be my fortune, in spight of fortune.
+The Gods aboue disdain not to loue womē beneath. Pho
+                     •
+                  bus
+liked Sibilla, Iupiter Io, and why not I then Fawnia, one
+something inferiour to these in birth, but farre superiour to
+them in beautie, horne to be a Shepheard, but worthy to be a
+Goddesse.
+            Ah Dorastus, wilt thou so forget thy selfe as to suffer affection
+to suppresse wisedome, and Loue to violate thine hononour?
+How sower will thy choice be to thy Father, for
+                  •••
+               
+               full
+to thy Subiects, to thy friends a griefe, most gladsome
+to thy foes? Subdue then thy affections, and seaseto loue her
+whome thou couldest not loue, vnlesse blinded with too much
+loue. Tushe I talke to the wind, and in seeking to preuent the
+causes. I further the effectes. I will yet praise Fawnia, honour,
+yea and loue Fawnia, and at this day followe content,
+not counsaile. D
+                  ••
+                
+               Dorastus, thou canst but repent: and with
+that his Page came into the chamber, whereupon hee ceased
+from his complaints houing that time would weare out that,
+which fo
+                  ••
+               une had wrought. As thus he was pained, so poore
+Fawnia 
+               
+                  〈◊〉
+                diuersly perplexed: for the next morning gett
+                  •••
+               
+               
+                  〈◊〉
+                very earely, shee went to her sheepe, thinking with
+
+hard 
+                  〈◊〉
+                to passe 
+                  〈◊〉
+                her 
+                  〈…〉
+               
+(poore soule) she was more tryed with 
+                  〈…〉
+               
+beganne to assault her, in so much 
+                  〈◊〉
+                as she 
+                  〈◊〉
+                vpon the side
+of a hill, she began to accuse her o
+                  ••
+               e folly in these 
+                  〈◊〉
+               .
+            INfortunate Fawnia, and therefore infortunate because
+Fawnia, thy shepherds hooke sheweth thy poore 
+                  〈◊〉
+               , thy
+proud desires an aspiring mind: the one declareth thy 
+                  〈◊〉
+               ,
+the other thy pride. No bastard hauke must so
+                  •
+               re so hie as the
+Hobbie, 
+                  •
+               o Fowle gaze against the Sunne but the Eagle,
+
+                  〈◊〉
+                wrought against nature reape despight, and 
+                  〈◊◊〉
+               
+aboue Fortune disdaine.
+            
+               Fawnia, thou art a shepheard, daughter to poore Porrus: if
+thou rest content with this, thou art like to stande, if thou
+climbe thou art sure to fal. The Herb Anita growing higher
+
+                  〈…〉
+                weede. Nylus flodding more then twelue cubits procureth a dearth. Daring affect
+                  •••
+                that
+passe measure, ar
+                  •
+                cut shorte by time or fortune: suppresse then
+Fawnia those thoughes which thou 
+                  〈◊〉
+                to expresse.
+But 
+                  ••
+                
+               Fawnia, loue is a Lord, who will comm
+                  •••
+                by power,
+and constraine by force.
+            
+               Dorastus, a
+                  •
+                
+               Dorastus is the man I loue, the woor
+                  •
+               e is thy
+
+                  〈◊◊〉
+                the lesse 
+                  〈◊〉
+                hast thou to hope. Will Eagles catch
+
+                  〈◊◊〉
+               ; will Cedars stoupe to be brambles, or mighty Princes
+
+                  •••••
+                at such homely tru
+                  ••
+               es. No, no, thinke this, Dorastus
+               
+                  〈…〉
+               , hee is a Prince respecting
+his 
+                  〈◊〉
+               , thou a beggars brat forgetting thy calling. Cease
+then not onely to say, but to thinke to loue Dorastus, and dissemble
+thy loue Fawnia, for better it were to dye with griefe,
+then to liue with shame: yet in despight of loue I will sigh, to
+see if I can sigh out loue. Fawnia somewhat appea
+                  ••
+                her
+griefes with these pithie perswa
+                  •••
+               s, began after her 
+                  〈◊〉
+               
+manner to walke about her shéepe, and to 
+                  〈…〉
+               
+               
+the very ve
+                  ••
+               inies did deny herto 
+                  ••
+               erine.
+            But Dorastus was more impatient in his passions: for
+loue so fiercely assayled him, that neither companie, nor musicke
+could mittigate his martirdome, but did rather far
+the more increase his maladie: shame would not let him craue
+counsaile in this case, nor feare of his Fathers displeasure reueyle
+it to any secrete friend: but hee was saine to make a Secretarie
+of himselfe, and to participate his thoughtes with his
+owne troubled mind. Lingring thus awhile in doubtfull suspence,
+at last stealing secretely from the court without either
+men or Page, hée went to sée if hée coulde espie Fawnia walking
+abroade in the field: but as one hauing a great deale more
+skill to retriue the partridge with his spaniels, then to hunt
+after such a straunge pray, he sought, but was little the better:
+which crosse lucke draue him into a great choler, that he began
+both to accuse loue and fortune. But as he was readie to
+retire, he sawe Fawnia sitting all alone vnder the side of a hill,
+making a garland of such homely flowres as the fields did
+afoord. This sight so reuiued his spirites that he drewe nigh,
+with more iudgement to take a view of her singular perfection,
+which hée found to bée such, as in that countrey attyre shée
+stained al the courtlie Dames of Sicilia. While thus he stoode
+gazing with pearcing lookes on her surpassing beautie,
+Fawnia cast her eye aside, and spyed Dorastus, with sudden
+fight made the poore girle to blush, and to die her christal chéeks
+with a vermilion red: which gaue her such a grace, as she séemed
+farre more beautiful. And with that she rose vp, saluting
+the Prince with such modest curtesies, as he wondred how a
+country maid could afoord such courtly behauiour. Dorastus,
+repaying her curtesie with a smiling countenance, began to
+parlie with her on this manner.
+            FAire maide (quoth he) either your want is great, or a
+shepheards life very swéete, that your delight is in such
+country labors. I can not conceiue what pleasure you
+should take, vnlesse you meane to imitate the nymph
+                  ••
+               , being
+you, selfe so like a Nymph. To put me out of thi
+                  〈…〉
+               
+me what is to be commended in a shepherdes l
+                  ••
+               e, 
+                  〈◊◊〉
+               
+               
+pleasures you haue to counter
+                  ••
+               aile these drudgi
+                  •
+               g laboures.
+Fawnia with blushing face made him this ready aunswere.
+            SIr, what richer state then content, or what swéeter life then
+quiet, we shepheards are not borne to honor, nor beholding
+vnto beautie, the lesse care we haue to feare fame or fortune:
+we co
+                  ••
+               t our attire braue inough if warme inough, and our
+foode dainty, if to suffice nature: our greatest enemie is the
+wolfe: out only care in safe kéeping our flock: in stead of courtly
+ditties we spend the daies with cuntry songs: our amorous
+conceites are homely thoughtes: delighting as much to talke
+of Pan and his cuntrey prankes, as Ladies to tell of Venus
+and her want on toyes. Our toyle is in shifting the fouldes,
+and looking to the Lambes easie labours: oft singing and telling
+tales, homely pleasures: our greatest welth not to 
+                  ••
+               ouer,
+out honor not to climbe, our quiet not to care. Enuie looketh
+not so lowe as shepheards: Shepheards gaze not so high as
+ambition: we are rich in that we are poore with content, and
+proud onely in this that we haue no cause to be proud.
+            THis wittie answer of Fawnia so inflamed Dorastus fancy,
+as he commended him selfe for making so good a choyce,
+thinking, if her birth were aunswerable to her wit and beauty,
+that she were a fitte mate for the most famous Prince in the
+worlde. He therefore beganne to sifte her more narrowely on
+this manner.
+            
+               FAwnia, I sée thou art content with Country labours, because
+thou knowest not Courtly pleasures: I commend thy
+wit, and pitty thy want: but wilt thou leaue thy Fathers Cottage,
+and serue a Courtlip Mistresse.
+            Sir (quoth she) beggers ought not to striue against fortune,
+nor to gaze after honour, least either their fall be greater,
+or they become blinde. I am borne to toile for the Court, not
+in the Court, my nature vnfit for their nurture, better liue
+th
+                  ••
+                in meane degrée, than in high disdaine.
+            
+               
+                  ••
+               ll 
+                  〈◊〉
+               , Fawnia (quoth Dorastus) I gesse at thy
+
+                  〈◊〉
+               , thou art in loue with some Countrey Shephearde.
+            
+               No sir (quoth she) shepheards cannot loue, that are so simple,
+and maides may not loue that are so young.
+            Nay therefore (quoth Dorastus) maides must loue, because
+they are young, for Cupid is a child, and Venus, though olde,
+is painted with fresh coloures.
+            I graunt (quoth she) age may be painted with new shadowes,
+and youth may haue imperfect affections: but what arte concealeth
+in one, ignorance reuealeth in the other. Dorastus seeing
+Fawnia helde him so harde, thought it was vaine so long
+to beate about the bush: therefore he thought to haue giuen
+her a fresh charge: but he was so preuented by certaine of his
+men, who missing their maister, came possing to séeke him: séeing
+that he was gone foorth all alone, yet before they drewe
+so 
+                  •
+               ie that they might heare their talke, he vsed these spéeches.
+            Why Fawnia, perhappes I loue thée, and then thou must
+néedes yéelde, for thou knowest I can commaunde and constraine.
+Trueth sir (quoth she) but not to loue: for constrained
+loue is force, not loue: and know this sir, mine honesty is such,
+as I hadde rather dye then be a Concubine euen to a King,
+and my birth is so base as I am vnfitte to bée a wife to a poore
+farmer. Why then (quoth he) thou canst not loue Dorastus?
+Yes saide Fawnia, when Dorastus becomes a shepheard, and
+with that the presence of his men broke off their parle, so that
+he went with them to the palace, and left Fawnia sitting still
+on the hill side, who séeing that the night drewe on, shifted her
+fouldes, and busied her selfe about other worke to driue away
+such fond fancies as began to trouble her braine. But all this
+could not preuaile, for the beautie of Dorastus had made such
+a déepe impression in her heart, as it could not be worne out
+without cracking, so that she was forced to blame her owne
+folly in this wise.
+            AH Fawnia, why doest thou gaze against the Sunne, or
+catch at ye Winde: starres are to be looked at with the eye,
+not reacht at with the hande: thoughts are to be measured by
+Fortunes not by desires
+                  •
+                falles come not by sitting low, but
+by climing too hie: what then shall al feare to fal, because some
+
+happe to fall? No lucke commeth by lot, and fortune 
+                  〈◊〉
+               
+those thréedes which the destinies spin. Thou art fau
+                  ••••
+               
+               Fawnia of a prince, and yet thou art so fond to reiect desired fauours:
+thou hast deniall at thy tonges end, and desire at thy
+hearts bottome: a womans fault, to spurne at that with her
+foote, which she greedily catcheth at with her hand. Thou louest
+Dorastus, Fawnia, &amp; yet séemest to lower. Take h
+                  ••
+               de, if
+hée retire, thou wilt repent: for vnles hée loue, thou canst but
+dye. Dye then Fawnia: for Dorastus doth but iest: the Lyon
+neuer prayeth on the mouse, nor Faultons stoupe not to dead
+stales. Sit downe then in sorrow, ceasse to loue, and content
+thy selfe, that Dorastus will vouchsafe to flatter Fawnia,
+though not to fancy Fawnia. Heigh ho: Ah foole, it were
+séemelier for thée to whistle as a Shepheard, then to sigh as a
+louer, and with that shè ceassed from these perplexed passions,
+folding her shéepe, and 
+                  •
+               ying home to her poore Cottage. But
+such was the incessant sorrow of Dorastus to thinke on the
+witte and beautie of Fawnia, and to sée how fond hée was being
+a Prince: and how froward she was being a beggar, then
+he began to loose his wonted appetite, to looke pale and 
+                  •
+               an:
+in stead of mirth to féede on melancholy: for courtly 
+                  •
+               aunces
+to vse cold dumpes: in so much that not onely his owne men,
+but his father and all the court began to maruaile at his sudden
+change, thinking that some lingring sickenes had brought
+him into this state: wherfore he caused Phisitions to come, but
+Dorastus neither would let them minister, nor so much as
+suffer them to sée his vrine: but remained stil so oppressed with
+these passions, as he feared in him selfe a farther inconuenience.
+His honor wished him to ceasse from such folly, but Loue
+forced him to follow fancy
+                  •
+                yea and in despight of honour, loue
+wonne the conquest, so that his hot desires caused him to find
+new deuises, for hée presently made himselfe a shepheards
+coate, that he might goe vnknowne, and with the lesse suspition
+to prattle with Fawnia, and conueied it secretly into a thick
+groue hard ioyning to the Pallace, whether finding fit time,
+and oportunity, he went all alone, and putting off his princely
+apparel, got on those shepheards roabes, and t
+                  ••••
+               g a great
+hooke in his hand (which he had also gotten) he w
+                  •••
+                very 
+                  ••
+               
+               ciently
+
+to stode out the mistres of his affection: but as he went
+by the way, séeing himselfe clad in such vnseemely ragges, he
+began to smile at his owne folly, and to reproue his fondnesse,
+in these tearmes.
+            WEll said Dorastus, thou kéepest a right decorum, base
+desires and homely attires: thy thoughtes are fit for
+none but a shepheard, and thy apparell such as only become a
+shepheard. A strang change from a Prince to a pesant? What
+is it? thy wretched fortune or thy wilful folly? Is it thy cursed
+destinies? Or thy crooked desires, that appointeth thée this
+penance? Ah Dorastus thou canst but loue, and vnlesse thou loue,
+thou art like to perish for loue. Yet fond foole, choose flowers,
+not weedes: Diamondes, not peables: Ladies which may
+honour thée, not shepheards which may disgrace thée. Venus
+is painted in silkes, not in ragges: and Cupid treadeth on disdame,
+when he reacheth at dignitie. And yet Dorastus shame
+not at thy shepheards wéede: the heauenly Godes haue sometime
+earthly thoughtes: Neptune became a Ram, Iupiter a
+Bul, Apollo a shepheard: they Gods, and yet in loue: and thou
+a man appointed to loue.
+            Deuising thus with himselfe, hée drew nigh to the place
+where Fawnia was kéeping her shepe, who casting her eye aside,
+and seeing such a manerly shepheard, perfectly limmed,
+and comming with so good a pace, she began halfe to forget
+Dorastus, &amp; to fauor this prety shepheard, whom she thought
+shee might both loue and obtaine: but as shee was in these
+thoughts, she perceiued then, it was the yong prince Dorastus,
+wherfore she rose vp, and reuerently saluted him. Dorastus
+taking her by the hand, repaied her curtesie with a sweete
+kisse, and praying her to sit downe by him, he began thus to lay
+the batterie.
+            IF thou maruell Fawnia at my strange attyre, thou wouldest
+more muse at my vnaccustomed thoughtes: the one disgraceth
+but my outward shape, the other disturbeth my inward
+sences. I loue Fawnia, and therefore what loue liketh
+I cannot mislike. Fawnia thou hast promised to loue, and I
+
+hope thou wilt performe no lesse: I haue fulfilled thy request,
+and now thou canst but graunt my desire. Thou wert content
+to loue Dorastus when he ceast to be a Prince; and to become
+a shepheard, and see I haue made the change, and therefore
+not to misse of my choice.
+            TRueth, quoth Fawnia, but all that weare Cooles are not
+Monkes: painted Eagles are pictures, not Eagles,
+Zeusis Grapes were like Grapes, yet shadowes: rich clothing
+make not princes: nor homely attyre beggers: shepheards
+are not called shepheardes, because they were hookes and
+bagges: but that they are borne poore, and liue to keepe sheepe,
+so this attire hath not made Dorastus a shepherd, but to steme
+like a shephherd.
+            WEll Fawnia, answered Dorastus: were I a shepherd,
+I could not but like thee, and being a prince I am forst
+to loue thee. Take heed Fawnia, be not proud of beauties
+painting, for it is a flower that fadeth in the blossome. Those
+which disdayne in youth are despised in age: Beauties shadowes
+are trickt vp with times colours, which being set to
+drie in the sunne are stained with the sunne, scarce pleasing the
+sight ere they beginne not to be worth the sight, not much vnlike
+the herbe Ephemeron, which flourisheth in the morning
+and is withered before the sunne setting: if my desire were against
+lawe, thou mightest iustly deny me by reason, but I
+loue thee Fawnia, not to misuse thee as a Concubine, but to
+vse thee as my wife: I can promise no more, and meane to
+performe no lesse.
+            
+               Fawnia hearing this solemne protestation of Dorastus,
+could no longer withstand the assault, but yeelded vp the forte
+in these friendly tearmes.
+            AH Dorastus, I shame to expresse that thou forcest me with
+thy sugred speeche to confesse: my base birth causeth the
+one, and thy high dignities the other. Beggars thoughts
+ought not to reach so far as Kings, and yet my de
+                  ••
+               es reach
+as high as Princes, I dare not say Dorastus, I 
+                  〈◊〉
+                thee, because
+
+I am a shepherd, but the Gods know I haue honored
+Dorastus (pardon if I say amisse) yea and loued Dorastus
+with such dutiful affection as Fawnia can performe, or Dorastus
+desire: I yeeld, not ouercome with prayers, but with loue,
+resting Dorastus handmaid ready to obey his wil, if no preiudice
+at all to his honour, nor to my credit.
+            
+               DOrastus hearing this freendly conclusion of Fawnia embraced
+her in his armes, swearing that neither distance,
+time, nor aduerse fortune should diminish his affection: but
+that in despight of the destinies he would remaine loyall vnto
+death. Hauing thus plight their troath each to other, seeing
+they could not haue the full fruition of their loue in Sycilia
+for that Egistus consent woulde neuer bee graunted to so
+meane a match, Dorastus determined assone as time and oportunitie
+would giue them leaue, to prouide a great masse of
+money, and many rich &amp; costly iewels, for the easier cariage,
+and then to transporte them selues and their treasure into Italy,
+where they should leade a contented life, vntil, such time as
+either he could be reconciled to his Father, or els by sucession
+come to the Kingdome. This deuise was greatly praysed of
+Fawnia, for she feared if the King his father should but heare of
+the contract, that his furie would be such as no lesse then death
+would stand for payment: she therefore tould him, that delay
+bred daunger: that many mishaps did fall out betweene the
+cup and the lip, and that to auoid danger, it were best with asmuch
+speed as might be, to passe out of Sycilia, least fortune
+might preuent their pretence with some newe despight: Dorastus,
+whom loue pricked forward with desire, promised to
+dispatch his affaires with as great hast, as either time or oportunitie
+would geue him leaue: an so resting vpon this point,
+after many imbracings and sweete kisses they departed. Dorastus
+hauing taken his leaue of his best beloued Fawnia,
+went to the Groue where hee had his rich apparel, and there
+vncasting himself as secretly as might be, hiding vp his shepheards
+attire, till occasion should serue againe to vse it: hee
+went to the pallace, shewing by his merrie countenaunce, yt either
+the state of his body was amended, or the case of his minde
+
+greatly redressed: Fawnia poore soule was no lesse ioyful, that
+being a shepheard, fortune had fauoured her so, as to reward
+her with the loue of a Prince, hoping in time to be aduaunced
+from the daughter of a poore farmer, to be the wife of a riche
+King: so that she thought euery houre a yeere, till by their departure
+they might preuent danger, not ceasing still to goe euery
+daye to her sheepe, not so much for the care of her flock,
+as for the desire she had to see her loue and Lord Dorastus: who
+oftentimes, when oportunitie would serue, repaired thither to
+féede his fancy with the sweet content of Fawnias, presence:
+and although he neuer went to visit her, but in his shepheards
+ragges, yet his ofte repaire made him not onely suspected, but
+knowne to diuers of their neighbours: who for the good will
+they bare to old Porrus, tould him secretly of the matter, wishing
+him to keepe his daughter at home, least she went so oft
+to the field that shee brought him home a yong sonne: for they
+feared that Fawnia being so beautifull, the yong Prince
+would allure her to folly. Porrus was striken into a dump at
+these newes, so that thanking his neighboures for their good
+will: hee hyed him home to his wife, and calling her aside,
+wringing his handes, and shedding foorth teares, he brake the
+matter to her in these tearmes.
+            
+               I Am afraid wife, that my daughter Fawnia hath made her
+selfe so fine, that she will buy repentance too deare. I heare
+newes, which if they be true, some will wish they had not proued
+true. It is tould me by my neighbours, that Dorastus the
+Kinges sonne begins to looke at our daughter Fawnia: which
+if it be so, I will not geue her a halfepenp for her honestiect
+the yeeres end. I tell thee wife, now adaies beauty is a great
+stale to trap yong men, and faire wordes and sweete promises
+are two great enemies to a maydens honestie: and thou knowest
+where poore men intreate, and cannot obtaine, there
+Princes may commaund, and wil obtaine. Though Kings
+sonnes daunce in nettes, they may not be seene: but poore mens
+faultes are spied at a little hole: Well
+                  •
+                it is a hard case where
+Kinges lustes are lawes, and that they should binde poore men
+to that, which they themselues wilfully breake.
+            
+               〈1 page duplicate〉
+            
+            
+            
+               Peace husband (quoth his wife) take héede what you say:
+speake no more then you should, least you heare what you
+would not, great streames are to be stopped by sleight, not by
+force: and princes to be perswaded by submission, not by rigor:
+doe what you can, but no more then you may, least in sauing
+Fawnias maydē-head, you loose your owne head. Take heede
+I say, it is ill iesting with edged tooles, and had sporting with
+Kinges. The Wolfe had his skinne puld ouer his eares for
+but looking into the Lions den. Tush wife (quoth he) thou
+speakest like a foole, if the King should knowe that Dorastus
+had begotten our daughter with childe (as I feare it will fall
+out little better) the Kings furie would be such as no doubt we
+should both loose our goodes and liues: necessitie therefore
+hath no lawe, and I will preuent this mischiefe with a newe
+deuise that is come in my head, which shall neither offend the
+King, nor displease Dorastus. I meane to take the chaine and
+the iewels that I found with Fawnia, and carrie them to the
+King, letting him then to vnderstand how she is none of my
+daughter, but that I found her beaten vp with the water alone
+in a little boate wrapped in a riche Mantle, wherein was inclosed
+this treasure. By this meanes I hope the King will take
+Fawnia into his seruice, and we whatsoeuer chaunceth shal be
+blamelesse. This deuice pleased the good wife very well, so
+that they determined assoone as they might know the King
+at leisure, to make him priuie to this case. In the meane time
+Dorastus was not slacke in his affaires, but applyed his matters
+with such diligence, that he prouided all thinges fitte for
+their iourney. Treasure and Iewels he had gotten great store,
+thincking there was no better friend then money in a strange
+countrey: rich attire he had prouided for Fawnia, and because
+he could not bring the matter to passe with out the helpe and
+aduise of some one, he made an old seruant of his called Capnio,
+who had serued him from his childhood, priuie to his affaires:
+who seeing no perswasions could preuaile to diuert him
+from his setled determination, gaue his consent and dealt so
+secretly in the cause, that within short space hee had gotten a
+ship ready for their passage: the Mariners seeing a fit gale of
+winde for their purpose, wished Capnio to make no delayes,
+
+least if they pretermitted this good weather, they might stay
+long ere they had such a fayre winde. Capnio fearing that his
+negligence should hinder the iourney, in the night time conueyed
+the trunckes full of treasure into the shippe, and by secrette
+meanes let Fawnia vnderstand, that the next morning
+they meant to depart: she vpon this newes slept verie little
+that night, but gotte vp very early, and wente to her sheepe,
+looking euery minute when she should see Dorastus, who caried
+not long, for feare delay might breede daunger, but came as
+fast as he could gallop, and without any great circumstance
+tooke Fawnia vp behinde him and rode to the hauen, where
+the shippe lay, which was not three quarters of a mile distant
+from that place. He no sooner came there, but the Marriners
+were readie with their Cockboate to set them aboard, where
+being coucht together in a Cabben they past away the time in
+ recounting their old loues, til their man Capnio should come.
+Porrus who had heard that this morning the King would go
+abroad to take the ayre, called in haste to his wife to bring him
+his holyday hose and his best Iacket, that he might goe like
+an honest substantiall man to tell his tale. His Wife a good
+cleanly wenche, brought him all things fitte, and spungd him
+vp very handsomlie, giuing him the chaines and Iewels in a
+little boxe, which Porrus for the more safety put in his bosom.
+Hauing thus all his trinkets in a readines, taking his staffe
+in his hand he had his wife kisse him for good lucke, and so hée
+went towards the Pallace. But as he was going, fortune
+(who meant to showe him a little false play) preuented his
+purpose in this wise.
+            He met by chaunce in his way Capnio, who trudging as
+fast as he could with a little coffer vnder his arme to the ship,
+and spying Porrus whome he knewe to be Fawnias Father,
+going towardes the Pallace, being a wylie fellow, began to
+doubt the worst, and therefore crost him the way, and askt him
+whither he was going so earely this morning.
+            
+               Porrus (who knew by his face that he was one of ye Court)
+meaning simply, told him that the Kings son Dorastus dealt
+hardly with him: for he had but one Daughter who was a little
+Beautifull, and that his neighboures told him the young
+
+Prince had allured her to folly, he went therefore now to complaine
+to the King how greatly he was abused.
+            
+               Capnio (who straight way smelt the whole matter) began
+to soth him in his talke, and said, that Dorastus dealt not like
+a Prince to spoyle and poore manes daughter in that sort: he
+therefore would doe the best for him he could, because he knew
+he was an honest man. But (quoth Capnio) you lose your labour
+in going to the Pallace, for the King meanes this day to
+take the aire of the Sea, and to goe aboord of a shippe that
+lies in the hauen, I am going before, you see, to prouide all
+things in a redinesse, and if you wil follow my counsaile, turne
+back with me to the hauen, where I will set you in such a fitte
+place as you may speake to the King at your pleasure. Porrus
+giuing credit to Capnios smooth tale, gaue him a thousand
+thanks for his frendly aduise, and went with him to the hauen,
+making all the way his complaintes of Dorastus, yet concealing
+secretlie the chaine and the Iewels. Assone as they were
+come to the Sea side, the marriners seeing Capnio, came a
+land with their cock-boate, who still dissembling the matter,
+demaunded of Porrus if he would go see the ship, who vnwilling
+and fearing the worst, because he was not well acquainted
+with Capnio, made his excuse that he could not brooke the
+Sea, therefore would not trouble him.
+            
+               Capnio, seeing that by faire meanes hee could not get him
+aboord, cōmaunded the mariners that by violence they should
+carrie him into the shippe, who like sturdy knaues hoisted the
+poore shepheard on their backes, and bearing him to the boate,
+lanched from the land.
+            
+               Porrus seeing himselfe so cunningly betraied durst not crie
+out, for hee sawe it would not preuaile, but began to intreate
+Capnio and the mariners to be good to him, and to pittie his
+estate, hee was but a poore man that liued by his labour: they
+laughing to see the shepheard so afraide, made as much haste
+as they could, and sette him aboorde. Porrus was no sooner in
+the shippe, but he saw Dorastus walking with Fawnia, yet he
+scarfe knew her: for she had attired her selfe in riche apparell,
+which, so increased her beauty, that shee resembled rather an
+Angell then a mortall creature.
+            
+               
+               Dorastus and Fawnia, were halfe astonished to see the olde
+shepherd, maruailing greatly what wind had brought him
+thither, til Capino told them al the whole discourse: how Porrus
+was going to make his complaint to the King, if by pollicie
+
+                  •
+               he had not preuented him, and therefore now sith he was aboord,
+for the auoiding of further danger, it were best to carrie
+him into Italy.
+            
+               Dorastus praised greatly his mans deuise, and allowed of
+his counsaile: but Fawnia, (who stil feared Porrus, as her father)
+began to blush for shame, that by her meanes he should
+either incure daunger or displeasure.
+            The old shephard hearing this hard sentence, that he should
+on such a sodaine be caried from his Wife, his country and
+kinsfolke, into a forraine Lande amongst straungers, began
+with bitter teares to make his complaint, and on his knees to
+intreate Dorastus, that pardoning his vnaduised folly he
+would giue him leaue to goe home: swearing that hee would
+keepe all thinges as secret as they could wish. But these protestations
+could not preuaile, although Fawnia intreated Dorastus
+very earnestly, but the mariners hoisting their maine
+sailes waied ankers, and hailed into the deepe, where we leaue
+them to the fauour of the wind and seas, &amp; returne to Egistus.
+            
+            WHo hauing appointed this day to hunt in one of his
+Forrests, called for his sonne Dorastus to go sport
+himselfe, because hee saw that of late hee began to loure: but
+his men made answer that hee was gone abroade none knew
+whither, except he were gone to the groue to walke all alone,
+as his custome was to doe euery day.
+            The King willing to waken him out of his dumpes, sent
+one of his men to goe seeke him, but in vaine, for at last he returned,
+but finde him he could not, so that the King went himselfe
+to goe see the sport: where passing away the day, returning
+at night from hunting, hee asked for his sonne, but hee
+could not be heard of, which draue ye King into a great choler:
+where vpon most of his Noblemen and other Courtiers, poasted
+abroad to séek him, but they could not heare of him through
+all Sicilia, onely they missed Capnio his man which againe
+
+made the King suspect that he was not gone farre.
+            Two or three daies being passed, and no newes heard of
+Dorastus, Egistus began to feare that he was deuoured with
+some wilde beastes, and vpon that made out a greate troupe of
+men to go seeke him: who coasted through all the Countrey
+and searched in euerie daungerous and secrete place, vntill at
+last they mette with a Fisherman that was sitting in a little
+couert harde by the sea side mending his nettes, when Dorastus
+and Fawnia tooke shipping: who being examined if he either
+knewe or heard where the Kings Sonne was, without
+any secrecie at all reuealed the whole matter, how he was sayled
+two dayes past, &amp; had in his cōpany his man Capnio, Porrus,
+and his faire Daughter Fawnia. This heauie newes was
+presently caryed to the King, who halfe dead for sorow, commaunded
+Porrus wife to bee sent for: she being come to the
+Pallace, after due examination, confessed that her neighbours
+had oft told her that the Kings Sonne was too familier with
+Fawnia her Daughter: wherevppon, her husband fearing the
+worst, about two dayes past (hearing the King should goe an
+hunting) rose earely in the morning and went to make his
+complaint, but since she neither hearde of him, nor saw him.
+Egistus perceiuing the womans vnfeyned simplicity, let her
+depart without incurring further displeasure, conceiling such
+secret greefe for his Sonnes recklesse follie, that he had so forgotten
+his honour and parentage, by so base a choise to dishonor
+his Father, and discredit himselfe, that with very care and
+thought he fel into a quartan feuer, which was so vnfit for his
+aged yeeres and complexion, that he became so weake, as the
+Phisitions would graunt him no life.
+            But his sonne Dorastus little regarded either father, countrie:
+or Kingdome, in respect of his Lady Fawnia, for fortune
+smyling on this young nouice, lent him so lucky a gale of
+winde, for the space of a day and a night, that the maryners lay
+and slept vpon the hatches: but on the next morning about the
+breake of the day, the aire began to ouercast, the winds to rise,
+the seas to swel, yea presently there arose such a fearfull tempest,
+as the ship was in danger to be swallowed vp with euery
+sea, the maine 
+                  ••
+               ast with the violence of the wind was thrown
+
+                  〈1 page duplicate〉
+               
+               
+               
+                  〈1 page duplicate〉
+               
+               
+               
+ouer boord, the sayles were torne, the tacklings went in sunder,
+the storme raging still so furiously that poore Fawnia was
+almost dead for feare, but that she was greatly comforted with
+the presence of Dorastus. The tempest continued thrée dayes,
+al which time the Mariners euerie minute looked for death,
+and the aire was so darkned with cloudes that the Maister
+could not tell by his compasse in what Coast they were. But
+vpon the fourth day about ten of the clocke, the wind began
+to cease: the sea to wax calme, and the sky to be cleare, and the
+Mariners descryed the coast of Bohemia, shooting of their
+ordnance for ioy that they had escaped such a fearefull tempest.
+            
+               Dorastus hearing that they were arriued at some harbour,
+sweetly kissed Fawnia, and bad her be of good cheare: when
+they tolde him that the port belonged vnto the cheife Cittie of
+Bohemia where Pandosto kept his Court, Dorastus began
+to be sad: knowing that his Father hated no man so much as
+Pandosto, and that the King himself had sought secretly to
+betray Egistus: this considered, he was halfe afraid to goe on
+land, but that Capnio counselled him to chaunge his name
+and his countrey, vntil such time as they could get some other
+Barke to transport them into Italy. Dorastus liking this deuise
+made his case priuy to the Marriners, rewarding them
+bountifully for their paines, and charging them to saye that he
+was a Gentleman of Trapalonia called Meleagrus. The
+shipmen willing to shew what friendship they could to Dorastus,
+promised to be as secret as they could, or hee might wish,
+and vppon this they landed in a little village a mile distant
+from the Citie, where after they had rested a day, thinking to
+make prouision for their mariage: the fame of Fawnias beauty
+was spread throughout all the Citie, so that it came to the
+eares of Pandosto: who then being about the age of fifty, had
+notwithstanding yong and freshe affections: so that he desired
+greatly to see Fawnia, and to bring this matter the better to
+passe, hearing they had but one man, and how they rested at a
+very homely house: he caused them to be apprehēded as spies,
+and sent a dozen of his garde to take them: who being come
+to their lodging, tolde them the Kings message: Dorastus no
+
+whit dismayed, accompanied with Fawnia and Capnio, went
+to the court (for they left Porrus to keepe the stuffe) who being
+admitted to the Kings presence. Dorastus and Fawnia with
+humble obeysance saluted his maiestie.
+            
+               Pandosto amased at the singular perfection of Fawnia, stood
+halfe astonished, viewing her beauty, so that he had almost forgot
+himselfe what hee had to doe: at last with stearne countenance
+he demaunded their names, and of what countrey they
+were, and what caused them to land in Bohemia. Sir (quoth
+Dorastus) know that my name Meleagrus is a Knight borne
+and brought vp in Trapalonia, and this Gentlewoman, whom
+I meane to take to my wife is an Italian borne in Padua, from
+whence I haue now brought her. The Cause I haue so small
+a trayne with me, is for that her friends vnwilling to consent,
+I intended secretly to conuey her into Trapalonia: whither
+as I was sailing, by distresse of weather I was driuen into
+these coasts: thus haue you heard my name, my country, and
+the cause of my voiage. Pandosto starting from his seat as one
+in choller, made this rough reply.
+            
+               Meleagrus, I feare this smooth tale hath but small trueth,
+and that thou couerest a foule skin with faire paintings. No
+doubt this Ladie by her grace and beauty is of her degree
+more meete for a mighty Prince, then for a simple knight, and
+thou like a periured traitour hast bereft her of her parents, to
+their present griefe, and her insuing sorrow. Till therefore I
+heare more of her parentage and of thy calling, I wil stay you
+both here in Bohemia.
+            
+            
+               Dorastus, in whome rested nothing but Kingly valor, was
+not able to suffer the reproches of Pandosto, but that he made
+him this answer.
+            IT is not meete for a King, without due proofe to appeach any
+man of ill behauiour, nor vpon suspition to inferre beléefe:
+straungers ought to bee entertained with courtesie, not to bee
+intreated with crueltie, least being forced by want to put vp
+iniuries: the Gods reuenge their cause with rigor.
+            
+               Pandosto hearing Dorastus vtter these wordes, commanded
+that he should straight be committed to prison, vntill such
+
+time as they heard further of his pleasure, but as for Fawnia,
+he charged that she should be entertained in the Court, with
+such curtesie as belonged to a straunger and her calling. The
+rest of the shipmen he put into the Dungeon.
+            Hauing thus hardly handled the supposed Trapalonians:
+Pandosto contrarie to his aged yeaxes began to be somwhat
+tickled with the beauty of Fawnia, in so much that hee could
+take no rest, but cast in his old head a thousand new deuises: at
+last he fell into these thoughtes.
+            HOw art thou pestred Pandosto with fresh affections,
+and vnfitte fancies, wishing to possesse with an vnwilling
+mynde, and a hot desire troubled with a could disdaine:
+Shalt thy mynde yeeld in age to that thou hast resisted
+in youth? Peace Pandosto, blabbe not out that which thou
+maiest be ashamed to reueale to thy self. Ah Fawnia is beautifull,
+and it is not for thine honour (fond foole) to name her that
+is thy Captiue, and an other mans Concubine. Alas, I reach
+at that with my hand which my hart would faine refuse: playing
+like the bird Ibys in Egipt, which hateth Serpents, yet
+feedeth on their egges.
+            Tush, hot desires turne oftentimes to colde disdaine: Loue
+is brittle, where appetite, not reason beares the sway: Kinges
+thoughtes ought not to climbe so high as the heauens, but to
+looke no lower then honour: better it is to pecke at the starres
+with the young Eagles, then to pray on dead carkasses with
+the Uulture: tis more honourable for Pandosto to dye by concealing
+Loue, their to enioy such vnfitte Loue. Dooth Pandosto
+then loue? Yea: whome? A maide vnknowne, yea and
+perhapps, immodest, stragled out of her owne countrie: beautifull,
+but not therefore chast: comely in bodie, but perhappes
+crooked in minde. Cease then Pandosto to looke at Fawnia,
+much lesse to loue her: be not ouertaken with a womans beauty,
+whose eyes are framed by arte to inamour, whose hearte is
+framed by nature to inchaunt, whose false teares knowe their
+true times
+                  •
+                and whose sweete wordes pearce deeper then
+sharpe swordes. Here Pandosto ceased from his talke, but not
+from his loue: for although he sought by reason, and wisedome
+
+to suppresse this franticke affection: yet he could take no rest,
+y• beautie of Fawnia had made such a déepe impression in his
+heart. But on a day walking abroad into a Parke which was
+hard adioyning to his house, he sent by one of his seruants for
+Fawnia, vnto whome he vttered these wordes.
+            
+               FAwnia, I commend thy beauty and wit, and now pittie
+thy distresse and want: but if thou wilt forsake Sir Meleagrus,
+whose pouerty, though a Knight, is not able to
+maintaine an estate aunswerable to thy beauty, and yeld thy
+consent to Pandosto: I wil both increase thee with dignities
+and riches. No sir, answered Fawnia: Meleagrus is a knight
+that hath wonne me by loue, and none but he shal weare me:
+his sinister mischance shall not diminishe my affection, but
+rather increase my good will: thinke not though your Grace
+hath imprisoned him without cause, that feare shall make mee
+yéeld my consent: I had rather be Meleagrus wife, and a begger,
+then liue in plenty, and be Pandostos Concubine. Pandosto
+hearing the assured aunswere of Fawnia, would, notwithstanding,
+prosecute his suite to the vttermost: séeking with
+faire words and great promises in scale the fort of her chastitie,
+swearing that if she would graunt to his desire, Meleagrus
+should not only he fet at libertie, but honored in his course amongst
+his Nobles: but these alluring baytes could not intise
+her minde from the loue of her 
+                  ••
+                we betrothed mate Meleagrus:
+which Pandosto séeing, he left her alone for that time to
+consider more of the demaund. Fawnia being alone by her
+selfe, began to enter into these solitarie meditations.
+            AH infortunate Fawnia, thou 
+                  •
+               éest to desire aboue fortune, is
+to striue against the Gods, and Fortune
+                  •
+                Who gazeth at
+the su
+                  ••
+               e we akeneth his sight: they which stare at the skie, fall
+oft into déepe pi
+                  •
+               s: haddest thou rested content to haue bene a
+shepheard, thou neededst not to haue feared mischaunce: better
+had it bene for thée, by sitting lowe, to haue had quiet, then by
+climing high to haue fallen into miserie. But alas I feare not
+mine owne daunger, but Dorastus displeasure. Ah swéete
+Dorastus, thou art a Prince, but now a prisoner, by too much
+
+loue, procuring thine owne losse: haddest thou not loued Fawnia
+thou haddest bene fortunate, shall I then bée false to him
+that hath forsaken Kingdomes for my cause: no, would my
+death might deliuer him, so mine honor might be preserued.
+With that feching a déepe sigh, she ceased frō her complaints,
+and went againe to the Pallace, inioying a libertie without
+content, and profered pleasure with smal ioy. But poore Dorastus
+               
+                  •••
+                all this while in olose prison, being pinch
+                  •
+               d with a
+hard restraint, and pained with the burden of colde, and heauie
+Irons, sorrowing sometimes that his fond affection had pr
+                  •
+               
+               cured
+him this mishappe, that by the disobedience of his parentes,
+he had wrought his owne despight: an other while cursing
+the Gods and fortune, that they should crosse him with
+such sinister chaunce: vttering at last his passions in these
+words.
+            Ah vnfortunate wretch borne to mishappe, now thy folly
+hath his desert: art thou not worthie for thy base minde to haue
+bad fortune: could the destinies fauour thée, which hast forgot
+thine honor and dignities: wil not the Gods plague him wt despight
+that payneth his father with disobedi
+                  •
+               nce. Oh Gods, if
+any fauour or iustice b
+                  ••
+               left, plague me, but fauour poore Fawnia
+and shrowd her from the tirannies of wretched Pandosto,
+but let my death frée her from mishap
+                  •
+                and then welcome
+death: Dorastus payned with these heauie passions, sorrowed
+and sighed, but in vaine, for which he vsed the more patience.
+But againe to Pandosto, who broyling at the heat of vnlawfull
+lust coulde take no rest but still felte his minde disquieted
+with his new loue, so that his nobles and subiectes marueyled
+greatly at this sudaine alteration, not being able to coniecture
+the cause of this his continued care: Pandosto thinking euery
+hower a yeare til he had talked once againe with Fawnia, sent
+for her secretly into his chamber, whither though Fawnia vnwillingly
+comming, Pandosto entertained her very courteously
+vsing these familiar speaches, which Fawnia answered
+as shortly in this wise.
+            
+               Pandosto.
+               
+                  
+                  Fawnia are you become less
+                     •
+                   wilfull and more wise, to pre
+                  
+                     •
+                  erre
+the loue of a King before the liking of a poore Knight: I
+thinke ere this you thinke it is better to be fauoured of a King
+then of a subiect.
+            
+            
+               Fawnia.
+               Pandosto, the body is subiect to victories, but the mind not
+to be subdued by conquest, honesty is to be preferred before honour,
+and a dramme of faith weigheth downe a tunne of gold.
+I haue promised Meleagrus to loue, and will performe no
+lesse.
+            
+            
+               Pandosto.
+               
+                  Fawnia, I know thou art not so vnwise in thy choice, as to
+refuse the offer of a King, nor so ingrateful as to dispise a good
+turne: thou art now in that place where I may commaunde,
+and yet thou séest I intreate, my power is such as I may
+compell by force; and yet I su
+                     ••
+                  y prayers: Yéelde Fawnia thy
+loue to him which burneth in thy loue, Meleagrus shall be set
+frée, thy countrymen discharged: and thou both loued and honoured.
+            
+            
+               Fawnia.
+               I sée Pandosto, where lust ruleth it is a miserable thing to
+be a virgin, but know this, that I will alwaies preferre fame
+before life, and rather choose death then dishonour.
+            
+            
+               Pandosto séeing that there was in Fawnia a determinate
+courage to loue Meleagrus, and a resolution without feare to
+hate him, flong away from her in a rage: swearing if in shorte
+time she would not be wonne with reason: he would forget all
+courtesie, and compel her to graunt by rigour: but these threatning
+wordes no whit dismayed Fawnia: but that she still both
+dispighted and dispised Pandosto. While thus these two louers
+stroue, the one to winne loue the other to liue in hate: Egistus
+heard certaine newes by Merchauntes of Bohemia,
+               
+that his sonne Dorastus was imprisoned by Pandosto, which
+
+                  •••
+                h
+                  •••
+                feare greatly that his sonne should be but hardly intreated:
+yet considering that Bellaria and hee was cleared by
+the Oracle of Apollo from that crime wherewith, Pandosto
+had vniustly charged them, hee thought best to send with all
+spéed to Pandosto, that he should set free his sonne Dorastus,
+and put to death Fawnia and her father Porrus: finding this
+by the ad
+                  •••
+               e of Counsaile the spéediest remedy to release his
+sonne, he 
+                  •
+               aused presently two of his shippes to be rigged and
+thoroughly furnished with prouision of men and victuals, and
+sa
+                  •
+               ediuers of his nobles, Embassadoures into Bohemia: who
+willing to obey their King, and receiue their yong Prince:
+made no delayes, for feare of danger, but with as much speede
+as might be, sailed towards Bohemia: the winde and seas fauored
+them greatly, which made them hope of some good
+happe, for within three daies they were landed: which Pandosto
+no soner heard of their arriuall, but hee in person went
+to méete them, intreating thē with such sumptuous and famili
+                  ••
+               
+courtesie, that they might well perceiue how sory he was
+for the formet mi
+                  •
+               ries hee had offered to their King, and how
+willing (if it might be) to make amendes. As Pādosto made
+report to them, how one Meleagrus a Knight of Trapolonia
+was lately ariued with a Lady called Fawnia in his land, comming
+very suspitiously, accompanied onely with one seruant,
+and an olde shepheard. The Embassadours perceiued by the
+halfe, what the whole tale ment, and began to coniecture, that
+it was Dorastus, who for feare to bee knowne, had chaunged
+his name: but dissembling ye matter, they shortly ariued at the
+Court, where after they had bin verie solemnly and sumptuously
+feasted, the noble men of Sicilia being gathered togither,
+they made reporte of their Embassage 
+                  •
+                where they certified
+Pandosto that Meleagtus was sonne and heire to the King
+Egistus, and that his name was Dorastus: how contrarie to
+the Kings minde he had priuily conuaied away that Fawnia,
+intending to marrie her, being but daughter to that poore shepheard
+Porrus: wherevpon the Kings request was, that Capnio,
+               Fawnia, and Porrus might bee murthered and put to
+death, and that his sonne Dorastus might be sent home in safetie.
+
+               Pandosto hauing attentiuely and with great meruaile
+he
+                  •
+               rd their Embassage, willing to reconcile himselfe to Egistus,
+and to shew him how greatlie he estéemed his labour: although
+loue and fancy forbad him to hurt Fawnia, yet in despight
+of loue hee determined to execute Egistus will without
+mercy, and therefore he presently sent for Dorastus out of prison,
+who meruailing at this vnlooked for curtesie, found at his
+comming to the Kings presence, that which he least doubted
+of, his fathers Embassadours
+                  •
+                who no sooner sawe him, but
+with great reuerence they honored him: and Pandosto embracing
+Dorastus, set him by him very louingly in a chaire of estate.
+Dorastus ashamed that his follie was be wraied, sate a
+long time as one in a muse, til Pandosto told him the summe
+of his Fathers embassage, which he had no sooner heard, but
+he was toucht at the quicke, for the cruell sentence that was
+pronounced against Fawnia: but neither could his sorrow nor
+perswasions preuaile, for Pandosto commaunded that Fawnia,
+Porrus, and Capnio, should bee brought to his presence:
+who were no sooner come, but Pandosto hauing his former
+loue turned to a disdainful hate, began to rage against Fawnia
+in these tearmes.
+            THou disdainfull vassal, thou currish kite, assigned by the
+destinies to base fortune, and yet with an aspiring minde
+gazing after honor: how durst thou presume, being a beggar, to
+match with a Prince: By thy alluring lookes to inchant the
+sonne of a King, to leaue his owne countrie to fulfill thy disordinate
+lusts. O despightfull minde, a proud heart in a beggar
+is not vnlike to a great fire in a smal cottage, which warmeth
+not the house, but burneth it: assure thy selfe thou shalt die, and
+thou old doating foole, whose follie hath bene such, as to suffer
+thy daughter to reach aboue thy fortune: looke for no other
+méede, but the like punishment. But Capnio, thou which hast
+betrayed the King, and hast consented to the vnlawfull lust of
+thy Lord and maister, I know not how iustly I may plague
+thée: death is too easie a punishment for thy falsehood, and to
+liue (if not in extreme miserie) were not to shew thée equitie.
+I therefore award that thou shall haue thine eyes put out, and
+
+continually while thou diest, grinde in a mil like a brute beast.
+The feare of death 
+                  •
+               rought a sorrowfull silence vpon Fawnia
+and Capnio, but Porrus séeing no hope of life, burst forth into
+these spéeches.
+            
+               PAndosto, and ye noble Emabassadours of Sicili
+                     ••
+                  , séeing
+without cause I am condemned to die: I am yet glad I
+haue opportunitie to disburdē my conscience before my death:
+I will tel you as much as I know, and yet no more than is
+true: whereas I am accused that I haue bene a supporter of
+Fawnias pride, and shee disdained as a vilde begger, so it is,
+that I am neither Father vnto her, nor she daughter vnto me.
+            For so it happened that I being a poore shepheard in Sicilia,
+liuing by kéeping others mens flockes: one of my shéepe
+straying downe to the sea side, as I went to séeke her, I saw a
+little boat driuen vpon the shoare, wherein I found a babe of
+sixe daies olde, wrapped in a mantle of skarlet, hauing about
+the necke this chain
+                  •
+                : I pittying the child, and desirous of the
+treasure, carried it home to my wife, who with great care nursed
+it vp, and set it to keepe sheepe. Heere is the chaine and
+the Iewels, and this Fawnia is the childe whome I found
+in the boate, what shee is, or of what parentage I knowe not,
+b
+                  ••
+               t this I am assured that shee is none of mine.
+            
+               Pandosto would scarce suffer him to tell out his tale, but
+that he enquired the time of the yeere, the manner of the boate,
+and other circumstaunces, which when he found agreeing to
+his count, he sodainelie leapt from his seate, and kissed Fawnia,
+wetting her tender cheeks with his teares, and crying my
+daughter Fawnia, ah swtete Fawnia, I am thy Father, Fawnia.
+This sodaine passion of the King draue them all into a
+maze, especially Fawnia and Dorastus. But when the
+King had breathed himselfe a while in this newe ioy, hee rehearsed
+beefore the Embassadours the whole matter, how
+hee hadde entreated his wife Bellaria for iealousie, and
+that this was the childe whome hee sent to floate in the
+seas.
+            
+               Fawnia was not more ioyfull that she had found such a Father,
+then Dorastus was glad he should get such a wife. The
+
+Embassadors reioyced that their yong prince had made such a
+choice, that those Kingdomes which through enmitie had long
+time bin disseuered, should now through perpetual amitie be vnited
+and reconciled. The Citizens and subiects of Bohemia
+(hearing that the King had found againe his Daughter,
+which was supposed dead, ioyfull that there was an heire aparant
+to his Kingdome) made Bonstres and showes throughout
+the Cittie: The Courtiers and Knights appointed Iusts
+and Turneis, to signifie their willing mindes in gratifying
+the Kings hap.
+            Eighteene daies being past in these princely sports, Pandosto
+willing to recompence old Porrus, of a shepheard made
+him a Knight: which done, prouiding a sufficient Nauie to receiue
+him and his retinue, accompanied with Dorastus, Fawnia,
+and the Sicilian Embassadours, he sailed towards Sicilia,
+where he was most princelie entertained by Egistus: who hearing
+this comicall euent, reioyced greatly at his sonnes good
+happe, and without delay (to the perpetuall ioy of the two
+yong Louers) celebrated the marriage: which was no sooner
+ended, but Pandosto (calling to mind how first he betraied his
+friend Egistus, how his iealousie was the cause of Bellarias
+death, that contrarie to the law of nature hee had lusted after
+his owne Daughter) moued with these desperate thoughts, he
+fell in a melancholie fit, and to close vp the Comedie with a
+Tragicall stratageme, hee slewe himselfe, whose death being
+many daies bewailed of Fawnia, Dorastus, and his deere
+friend Egistus, Dorastus taking his leaue of his father,
+went with his wife and the dead corps into Bohemia,
+wh
+                  ••
+                after they were sumptuouslie
+
+                  ••••••
+               bed, Dorastus
+ended his daies in contented
+quiet.
+            FINIS.
+         
+      
+   
+

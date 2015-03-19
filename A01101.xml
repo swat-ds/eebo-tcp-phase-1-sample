@@ -1,0 +1,586 @@
+
+   
+      
+         
+            A true reportarie of the most triumphant, and royal accomplishment of the baptisme of the most excellent, right high, and mightie prince, Frederik Henry; by the grace of God, Prince of Scotland Solemnized the 30. day of August. 1594.
+            Fowler, William, 1560?-1612.
+         
+         
+            
+               1594
+            
+         
+         Approx. 42 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2004-03 (EEBO-TCP Phase 1).
+            A01101
+            STC 11214.6
+            ESTC S103986
+            99839728
+            99839728
+            4176
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01101)
+            Transcribed from: (Early English Books Online ; image set 4176)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 322:08)
+         
+         
+            
+               
+                  A true reportarie of the most triumphant, and royal accomplishment of the baptisme of the most excellent, right high, and mightie prince, Frederik Henry; by the grace of God, Prince of Scotland Solemnized the 30. day of August. 1594.
+                  Fowler, William, 1560?-1612.
+               
+               [30] p.   
+               
+                  Printed by R. Walde-graue, printer to the K. Maiestie. Cum priuilegio regali,
+                  [Edinburgh] :
+                  [1594]
+               
+               
+                  Publication date from STC.
+                  Signatures: A-D⁴ (-D4).
+                  Running title reads: A true reportarie of the baptisme of the Prince of Scotland.
+                  Identified as STC 13163 on UMI microfilm.
+                  Reproduction of the original in the Henry E. Huntington Library and Art Gallery.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Henry Frederick, --  Prince of Wales, 1594-1612 --  Early works to 1800.
+            
+         
+      
+      
+         
+            2003-07
+            TCPAssigned for keying and markup
+         
+            2003-07
+            SPi GlobalKeyed and coded from ProQuest page images
+         
+            2004-01
+            Judith SiefringSampled and proofread
+         
+            2004-01
+            Judith SiefringText and markup reviewed and edited
+         
+            2004-02
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            A TRVE REPORTARIE OF THE MOST TRIVMPHANT, AND ROYAL ACCOMplishment of the Baptisme of the most Excellent, right High, and mightie Prince, FREDERIK HENRY; By the grace of God, Prince of SCOTLAND. Solemnized the 30. day of August. 1594.
+            Printed by R. Walde-graue, Printer to the K. Maiestie. Cum Priuilegio Regali.
+         
+      
+      
+         
+            
+            
+            A TRVE REPORTARIE OF THE BAPTISME OF THE PRINCE of Scotland.
+            
+               THE Noble and most potent Prince of Scotland, was borne in the Castell of Striuiling vpon Tuesday, the 19. day of Februarie 1594. vpon which occasion the Kingis Maiestie, sent for the Nobles of his Land, and to all the capitall Burrows thereof, to haue their aduise, how he should proceed for the due solemnization of his Royall Baptisme, and what Princes he should send to: When they were all compeired with great diligence and goodwill, hee proponed vnto them, that it was necessary, to direct out Ambassadours to France, England, Denmarke, the Lowe-Countries, the Duke of Brunswicke his brother in lawe, and to the Duke of Magdelburgh, the Queenes Maiesties Grand-father, and to such other Princes as should be thought expedient. Likewise, hee thought the Castell of Striuiling, the most
+
+conuenient place for the residence of this mo
+                  •
+               t Noble and Mightie Prince, in respect that hee was borne there: As also, it was necessary, that su
+                  •
+               ficient preparation might be made for the Ambassadours that should be invited to come for honour of the Crowne and Countrie. And besides all this, because the Chappell Royall was ruinous, and too little, concluded, that the old chappell should be vtterlie rased, and a new erected in the same place, that shuld be more large, long and glorious, to entertaine the great number of strangers exspected. These propositions at length considered, they all with a free voluntarie deliberation, granted vnto his Maiestie, the summe of an hundreth thousand pounds money of Scotland. Then was there Ambassadors elected, to passe in France, England, Denmarke, the Lowe Countries, and other places before mentioned, who were al dispatched with such expedition, and their Legacies took such wished effect: That first there came two famous men from the King of Denmark, the one CHRISTIANVS BERNEKOVV, the other, STENIO BILLE, these came to Leyth the 16. of Iuly, The next day after them, came ADAMVS CRVSIVS, Ambassadour for the Duke of Brunswick, and IOACHIMVS BASSEVITIVS, Ambassadour for the Duke of Magdelburgh, who is Grand-father to the noble Princesse ANNE, by the grace of God Queene of Scotland. Thirdly, the 3. day of August, there came Ambassadours from the States of Holland and Zeland, the Barron of Braderod, and the Treasurer of Zeland, called IA
+                     •
+                  O
+                  
+                     •
+                  VS FALKIVS.
+            
+            
+               There was also a Noble man directed from England, to wit, the Erle of Cummerland, who, euen when he had prepared himselfe richlie, and honourablie in all respects for his voyage to come into Scotland, and diuers Noble men and Gentil men of renowne, prepared and commanded for his honorable conuoy, It pleased God to visit him with sicknes: And in that respect another Noble man was chosen to supply his place, which was the Erle of Sussex, &amp;c. And hee in consideration of his short, and vnexspected advertisement, made such diligence in his voyage, and magnificence for his owne persone and honourable convoy, as was thought rare and riche by all men: wher
+                  ••
+               y it fell out, that betwixt the sicknes of the one Nobleman and the hastie preparation of the other, the time was so farre spent, that the very prefixt daies of the Baptisme, were sundry tunes delaied. And because the Ambassadour of England was so long a comming: &amp; the Ambassadors of Denmarke, Brunswicke and Magdelb
+                     •
+                  rgh, were feared to be hindered in their voyage by the Sea, by reason of the neere approching of Winter: They desired daily of the Kings Maiestie, during their remaining in Edinburgh, to haue some prefixed day to be nominate and certainly kept, that immediatly thereafter, they might be dispatched, which he granted at the last, although hee had diuers great impediments to the contrary. The first was because the Chappell Ro
+                  ••
+               ll and C
+                  •
+               stell of Striuiling, was not fully compl
+                  ••
+               t in all such necess
+                  •
+               ries, as w
+                  •
+               s requisite, although he had the supply of the greatest numbre
+
+of Artificers in the whol Cuntrie, conuened there, of all craftes for that seruice, and his Maiesties owne person daily ouerseer, with large and liberall payment: but the chiefest cause, was the long absence of an Ambassadour from England, which his Maiestie greatly respected for many causes: And last of al, exspecting, that some Ambassadour should haue come from France, which fel not out as was looked for. But when the Ambassadour was come from England to Edinburgh, foorthwith, his Maiestie dispatched one of the Gentlemen of his Nienes chalmer, to request him to repair towards Striuiling the next day with all possible diligence, (which was the 28. day of August) because he wold haue had the Baptisme administred the day following. But neither were the Propynes sent by the Queene of England, neither her Ambassadours owne cariages as then come: Therfore the Baptisme was delaied vntill the 30. day of August, as ye shall heare particularly hereafter.
+            But in the meanetime, it is to be vnderstoode, that all these Noble Ambassadours before expressed, were honourablie sustained vpon the Kings Maiesties owne proper costes, during the whole time of their residence in Scotland, saue onely the Ambassadour of England, whose whole expences, were defrayed by his Souerane the Queene of England. And because the rest of the Ambassadors were repaired to Striuiling by his Maiesties direction, long before the comming of the English Ambassador his Hienes bestowed the time with them in magnifique banketting, reuelling, &amp; daily hunting with great honour.
+            
+               The Kings Maies
+                  •
+               ie, purposing further to decore by magnificence this action, committed the charge thereof to the Lord of Lendores, and M. William Fowler, who by their trauells, deligence, and inuention, broght it to that perfection, which the shortnes of time and other considerations culd permit. So they hauing consulted together, concluded that those exercises, that wer to be vsed for decoration of that solemnitie, were to be deuided both in Feeld pastimes, with Martiall and hero
+                  •
+               -call exploites, and in houshold, with rare shewes and singular inventions,
+            The Feeld to be vsed at two seuerall dayes: the first to be of three Turks, three Christian knights of Malta, three Amazones, and three Mores. But by reason of the absence, or at the least, the vncertaine presence of the three last Gentlemen, who should haue sustained these personages, it was thought good, that the number of that mask shuld consist of Nyne Actors, nyne Pages, and nyne Lack
+                  •
+               es, which comming from sundry parts and at diuers times, together with the diuersitie of their apparell, should bring some noueltie to the behoulders.
+            The place most expedient for this action, was the Valey, neere the Castel, which being prepared for that purpose, both with Carier and Scaffold, after the comming of the Queenes Maiestie, with her honorable and gallant Ladies, together with the honorable Ambassadors, the field beeing beset by the braue Yonkers of Edinburgh with their hagbutes, during the whole time of that pastyme.
+            
+               Then three Christians entered the fielde with sound of Trumpet, who were the Kings maiesty, 
+                  〈…〉
+                and THOMAS ER
+                     •
+                  KINE, (
+                  〈◊〉
+                h
+                  •
+               s M
+                  ••••
+               lles chalmer) who made vp this 
+                  〈◊〉
+               .
+            A little after followed, three apparelled lyke 
+                  ••
+               rhes, verie go
+                  •
+               g
+                  •
+               ousl
+                  •
+               e att
+                  •
+               red: and these wer the D
+                  •
+               ke of Lennox, the Lord Home, and Sir ROBERT KER of Ces
+                     •
+                  urde Knight.
+            Last of all, came in three Amazones in womens att
+                  •••
+               , verie sumptuouslie clad, and these were, the Lord of Lendores, the Laird of Barclewch, and the 
+                  •
+               bbote of Holie-rood-house. So all these persons beeing present, and at their entrie, making their reverence to the Queenes Maiesty, Ambassadors and Ladies, hauing their Pages ryding vpon th
+                  •
+               ir led Horse, and on their left armes, bear
+                  ••
+               g th
+                  ••
+               r maisters imprese or deuice.
+            The Kings Maiesties, was a Lyons heade with open eyes, which signifieth after a mistique &amp; 
+                  •••
+               roghphique sence, Fortitude and Vigilancie: the word
+                  •
+               s were, Timeat &amp; primus &amp; vltimus orbis. The second was a Dogs collar, at veset with iron pykes, the wordes were these, Offendit, &amp; defendit. The third of that Christian armie, was a Windemil, with her spoakes vnmouin
+                  •
+               , and windes vnblowing on euerie side, with these words, Nisperat immeta.
+            
+            The second faction did carie these: A Hart half in fire, &amp; half in frost: on the one part Cupids torch, &amp; on the other, Iupiters thunder, with these words, Hine amor, inde metus. The other Page a Zodiack,
+
+and in the same, the Moone farre opposite to the Sunn
+                  •
+               , with these wordes, Quo remotior, lucidior. 
+               
+                  •
+               hat is to say, the tarther, the fairer. The third of this pairt
+                  •
+               e, caried painted, four coach wheeles, the hindmost following the formost, &amp; yet never ouertaking thē, with these words, Quo magis insequor.
+            
+            The last three Pages, bare in their Targes, these impreses following, &amp; Crown, an eye, and a Portcuilis: the Crowne betokening the power of God, the Eye his Prouidence, and the Portcullis his protection, with these wordes, which were composed in Anagram
+                     •
+                  , of Walterus Scotus, the Laird of Bacleughs name, Clausus tutus ero The second Page of this pairtie, caried on his targe, the Portraiture of an hand, holding an
+                  •
+                Till by the tail, alluding to the vncertainty of persons or of times, with these wordes: V
+                     •
+                   frustrà sic pattenter. The last was this, a fire in sight of the Sunne, burning, and not perceaued, with this sentence, Oblector lumine victus.
+            
+            And euerie Lackie, carying in his hand, his M
+                  •
+               isters Launce. They began their pastyme by running at the King and Gloue: The laws wherof were these.
+            First, th
+                  •
+               t all the persons of this pastime, compeare  masked, and in such order as they come into the field, so to run out all their courses. Secondlie, that none vse ante oth
+                  •
+               r ring, but that which is put by: and vse no other Launce, but that which they hau
+                  •
+                brought for thems
+                  •
+               lues. Thirdlie, hee  th
+                  •
+               t twise touches the ring, or stirres it, winneth asmuch as if he caried away the Ring. Fourthlie,
+               
+               
+                  〈◊〉
+                l
+                  •
+               ts his Launce fall out of his hand, is de
+               
+                  ••••
+               ed of all the rest of his courses. Fiftlie, that eu
+                  •
+               rie one run with loose rain
+                  •
+               s, and with asmuch  speed, as his Horse hath. Sixtlie, that none after his race, in vptaking of his Horse, lay his Launce vpon his shoulder, vnder the pain of losse of that  which he hath done in his course. Seuinthlie, hee that carieth not his Launce vnder his arme, looseth  his course. Eightlie, that none vntil his three courses be ended, change his Horse, if hee bee not hurt, or vpon some other consideration mooued to change him. These Laws being seen and approued by the Actors, the Queenes M
+                  •
+               iestie, signified vnto them, that he who did run vest, shuld haue for his rewarde, a faire and a riche King of Diamonds: and hee also, who on that same side, had best Fortune in running, he shuld be acknowledged with another as fair as the first. The proofe hereof, being made, the victorie fel to the Duke of Lennox, who bringing it to his side &amp; pairtie, had the praise and prise adiudged to himself. Thus the first dayes pastime was ended, with great contentment to the beholders, and commendation of the persons enterprysers.
+            The second dayes pastime was extended, by reason, that the artisans were employed in other businesse, who should haue followed foorth that inuention giuen them: And seeing the grace of that exercyse, consisted in Embosserie, and the craftesmen apt for the same, otherwise and necessarily busied, it was left off: Which, if it had bene brought to effect, this Countrie had not sene, nor practised
+
+a more rater: for what by the brauery and strange apparell of the persons themselues, and by the diuers shapes of the Beasts, that should haue beene born and broght ther in sight, had bene commendable and wonderfull: by reason that such beasts, as Lyon, Elephant, 
+                  •
+               art, Unicorne, and the Griphon, together with the Camel, Hydre, Crocadile, and Dragon (carying their riders) had caried also with it by the newnes of that inuention, great contentment and commendation of that exercise. But I say, some arising lets impeshed this inuention: &amp; al things wer cast of, that might haue farther decored this solemnity, throgh other vrgent occasions.
+            And when all the Ambassadours were conuened together, and all necessary materialls readie, the Chappell Royall of the Castel of Striuiling was richelie hung, with costly tapestries: And at the North-east end of the same, a royall seat of Estate, prepared for the Kings maiestie: And on his right hand, was set a fatre wyde Chaire, with the dew ornaments pertaining therto, over which, was set the Armes of the King of France.
+            
+            Next therunto, w
+                  •
+               s a princely trauers of Crimson Taffeta, for the Ambassador of England, &amp; ouer his head, the Armes of England: on the desk before him, lay a Cushion of red veluot: Ther stood attending on him, two Gentlemen Vshers, apointed by the Queene of England, for that present seruice.
+            Next vnto him, sate M. Robert Bowes, Ambassador ordinary for the Queene of England: On the deske before him, was laid a cloth of purple veluote, and a Cushion sutable thereunto.
+            
+               Then sat the Ambassador of the noble Prince, Henricus Iulius, Duke of Brunswick, and before him on the desk was laid a cloth of green veluote, with a cushen of the same: and ouer his head, the Arms of his Prince.
+            Next vnto him, sate the Ambassadours of the Lowe Countries, with a long faire cloth, spred on the desk before them of blew veluote, and two Cushons sutable therunto, and ouer their heades the Armes of their Countries.
+            On the Kings left hand, was placed neerest his Maiestie, the two Ambassadors of Denmark, with a large broad cloth spred on the deske before them of purple veluot, and the Armes of Denmarke ouer their heades.
+            Next vnto them, sate the Ambassadour of the noble Prince Vdalricus, Duke of Magdelburgh, with his Princes Armes ouer his heade.
+            In the middest of the Chappell Royall within the partition, where the Kings Maiestie, the Ambassadors, and Prince with his conuoy were placed, there was a newe pulpite erected: The same was richely hung with cloth of gold: All the pauement within this partition, was Prince-like laide with fine tapestrie,
+            Vnder the Pulpit was another deske, wherein sate in the middest, M. David Cuninghame, Bishop of Abirdene, M. Dauid Lindesay, Minister of Leyth, and Iohn Duncanson, one of the ordinary ministers to the kings Maiestie: Before whome was set a table, couered with yealowe veluote.
+            And when all things were in readines, as was
+
+requisite. There was placed a hundreth Hagbutters (being onely the youkers of Edinburgh, brauely apparrelled) in order, betwixt the Princes vtter chalmer doore, and the entry to the Chappel Royall, on both the sides of the passage.
+            Then the Kings Maiestie, with his Nobles and Counsellers attending on him, entered the Chappell, and there sate downe in his Royall seat of Estate.
+            All the Ambassadours likewise were sent for, and conuoyed to the Princes Chalmer of presence where the Prince was lying on his bed of Estate, richly decored, and wrought with brodered work, containing the story of Hercules and his trauels.
+            This bed was erected on a platforme, very artificially, with a foot pace of three degrees ascending to it: The degrees being couered with tapestrie, all wrought with golde, and a large cloth of Lawne, couering both the bed and the degrees which reached forth a great space ouer the flore.
+            Then the old Countesse of Mar, with reuerence past to the bed she took vp the Prince, and deliuered him to the Duke of Lennox, who presently rē
+               dered him likewise to the Ambassador of England, to be borne to the Chappell Royall.
+            The Maister of the Ceremonies, addressing himselfe to a table in the saide Chalmer, curiouslie ordered, whereon stood those ornaments of honor, which were to be borne to the Chappell before the Prince, with due reuerence deliuered them to certaine noble men, according to the order appointed by his Maiestie for the bearing thereof.
+            
+               In lyke manner, the Princes Robe-royall, being of purple Velnote, very richel
+                  •
+               e set with pearl, was deliuered to the Duke of Lennox, who put the saine about the prince: the traine wherof, was born up by the Lord Sinclair, &amp; the Lord Vrquhart. Then they remoued themselues to the vtter chalmer, where, ther was a fair high Pale made foursquare, of Crimson Veluote attending: which was laid on with rich pasments, and fringed with gold. This Pale was sustained by four Worshipful Barons, The Laird of Bacleugh, the Constable of Dundie, Sir Robert Ker of Cesfurd Knight, &amp; the Laird of Traquhair. Vnder the which Pale were the Ambassadors of England, Robert Erll of Sussex, carying the Prince in his armes, &amp; M. Robert Bowes, ordinary Ambassador for England, assisting him. Next to thē, was the Duke of Lennox. About the Pale, were the Ambassadors of Denmarke, Magdelburgh, Brunswick, and the Estates. There followed, the old Countesse of Mar. Mistres Bowes, diuerse Ladies of Honor, with the Mistres Nurse.
+            Then the Trumpets sounding melodiously before the Prince and his conuoy, went forwarde: LYON King of Armes, and the Heraulds his brethren with their coat-armors, in goodly order following.
+            Next followed the Princes Honors, borne by these Noblemen: The Lorde Sempill carying a Lavar of water, The Lord Seton, a fair Basen: The Lord Leuingston a Towell, and the Lorde Home a low Crowne competent for a Duke, richlie
+
+set with Diamonds, Saphires, Rubies, and Em
+                  •
+               rauldes: who approching neere the Pulpit, where these Honors w
+                  •
+               re receaued from them, by the maister of the Ceremonies, and by him placed on the Table before the pulpite: the Noble men retyring back to their appointed places.
+            Lastlie, the Pale was caried in before the pulpite, where the Ambassador of England rendered the Prince to the Duke of Lennox, who immediatlie deliuered him to the olde Countesse of Mar, and she consequentli
+                  •
+                to the Mistres Nurse. And all the Ambassadors were then set, in such order of places, as the demonstration of their Armories, gaue notice.
+            Without the partition, were ornate fourmes, all covered with greene, whereupon were placed the Gentlemen of England, Denmarke, Almaine, Flanders, and Scotland.. And as all men wer thus competentlie placed, and vniversall silence made, entered M. Patrik Galloway, one of his Maiesties ordinarie Preachers into the Pulpite, who learnedlie and godli
+                  •
+               te, entreated vpon the text of the 21. of Genesis. Which being done, the Bishop of Aberdene, stood vp in his seate, and taught vpon the Sacrament of Baptisme, firste, in the vulgar
+                  •
+                tongue, and next in the Latine, to the end, all men might generallie vnderstand. This done, the Provost, and Prebends of the Chappell Royall, did sing the 21. Psalme of Dauid, according to the art of M
+                  •
+               sique, to the great delectation of the noble Auditorie.
+            Then they proceeded to the action. The King
+
+aros
+                  •
+               
+               ▪ and came towards the Pulpit. The Ambass
+                  •
+               dours followed in their or
+                  •••
+               . The Barons that carried the Pale aboue the Prince, mooued towards the Pulpit: The D
+                  •
+               k
+                  •
+                of Lennox, receaued the Prince from the Countesse of Mar, and deliuered him to the handes of the Erll of Sussex, Ambassadour for Engla
+                     •
+                  d: Where he was named by all their consents, FREDERIK HENRIE, HENRIE FREDERIK, and so baptised, In the name of the Father, Sonne, and holie Ghost, by the said names.
+            This being done, Lyon King of Armes, with a loud voice, reportes these names thryse ouer: &amp; then after him, the rest of his brethren H
+                  •
+               rauldes, with Trumpets sounding, confirmed the same.
+            Then the Kings Maiestie, Ambassadors, and all removing to their places: the English Ambassadour alone, withdrawing himself on the one side was mette and attended on, by two Groomes, who humblie on their knees, the one presenting a large rich Basen, the other a sutable Lavar, repleat with sweet water, wherewith the Ambass
+                  •
+               dor washed: a Gentleman Sewer, with humble reuerence, presenting him a fair To w
+                  •
+               ll, wherew
+                  •
+               th he dried his hands, and so forthwith returned to his place.
+            This beeing done, the Bish
+                  •
+               p ascended to the Pulpite, where, after that hee had deliuered in verse, a certaine praise and commendation of the Prince, then hee converted the rest of his Latine Oration, in prose to the Ambassadours, euery one in particular, beginning at the Ambassadour of
+
+               England, and so continuing with the rest: Wherein he made mentiō of the Chronology of ech of these Princes: &amp; recited the proximitie, and neernesse of bloo
+                  •
+                that they had with Scotland. Cōcluding his Or
+                  •
+               tion, with exhortation &amp; thanksgiuing to God for that good occasion, and prosperous assemblie.
+            In conclusio
+                  •
+               , the 
+                  •
+               lessing beeing giuen, Lyon King o
+                  •
+                Armes, cryed with a loud voice, God saue FREDERIK HENRIE, and HENRIE FREDERIK, by the grace of God, Prince of Scotland. The rest of the Herauldes, proclaymed the same at an open window of the Chappell Royall, with sound of Trumpet.
+            Then the King, the Prince▪ the Ambassadors, the Nobles, and Ladies of Honor, retyred forth of the Chappell, in such order as they entered, and repayred towards the Kings Hal, During their passage, the Cannons of the Castel roared, that therwith the earth trembled, and other smaller shot made their harmonie after their kynde.
+            In the Kings Hall, the Duke of Lennox receaued the Prince from the Ambassadour of England, and presented him to the Kings Maiesty, who addubbed him knight. Hee was touched with the Spur by the Erll of Mar: Thereafter the Kings M
+                  •
+               iestie presented a Ducall crowne of his head, &amp; then was proclaimed by Lyon King of Armes, The right Excellent, High, and Magnanime, FREDERIK HENRIE, HENRIE FREDERIK, by the grace of God, Knight and Barron of Renfrew: Lord of the Yles, Erll of Carrike, Duke of Rosay, Prince 
+                     •
+                  nd great Steward of Scotland.
+            
+            
+               These words were repeated by the Heraulds with a loud voice, at an open Window of the Hal.
+            Then the Prince was caried by the Ambassador of England, to his owne Chalmer of presence: where, the most rich, and rare propynes wer there presented.
+            Also, there were certain Barons and Gentlemen addubbed Knights, whose names doe follow in order as they were proclaimed. And first their oath.
+            
+               
+                  
+                     
+                        The Oath of a Knight.
+                        1 I Shall fortifie and defend the true Christian Religion, &amp; Christs holy Evangel, now presently preched within this Realm, to the vttermost of my power.
+                        2 I shal be leil &amp; true to my soverane Lord the Kings Majestie, To all orders of Chievalry, and to the noble office of Armes.
+                        3 I shall fortifie and defend justice at my power, and that without favour or feed.
+                        4 I shall never flie from my soverane Lord, the Kings Majestie, nor from his Hienes Lieuetenants in time of mellay, and battell.
+                        5 I shall defend my natiue Realme, from all Allieners and strangers.
+                        6 I shal defend the just action &amp; quarrel of al Ladies of Honour, of all true and friendles Widowes, of Orphantes, and of Maidens of good fame.
+                        7 I shal do diligence, whersoever I heare there is any Murtherers, Traytors or maisterfull Reavers, that oppresseth the Kings Lieges, and poore people, to bring them to the Lawe at my power.
+                        8 I shal maintain &amp; vphold the noble estate of Cheualrie,
+
+with Horse, harnisse, and other Knightly abillzements: And shall helpe and succour them of the same order at my power, if they haue neede.
+                        9 I shall enquire and seeke to haue the knowledge &amp; vnderstanding of all the Articles and points contained in the book of Chievalry.
+                        All these premisses to obserue, keepe, and fulfill: I oblesse me, so helpe me my God, by my owne hand, so help me God, &amp;c.
+                        
+                           
+                              
+                                 Sir William Stewart of Houstoun, Knight.
+                                 Sir Robert Bruce of Clackmannan, Knight.
+                                 Sir Iohn Boswell of Balmowt
+                                          •
+                                       w, Knight.
+                                 Sir Iames Schaw of Salquhy, Knight.
+                                 Sir Iohn Murray of Ethilstoun, Knight.
+                                 Sir William Menteith of Kerse, Knight.
+                                 Sir Alexander Fraser of Fraserburgh, Knight.
+                                 Sir Iohn Lindesay of Dunrod, Knight.
+                                 Sir George Leuingston of Ogilface, Knight.
+                                 Sir Iames Forester of Torwood-head, Knight.
+                                 Sir Andrew Balfoure of Stratho
+                                          ••
+                                       , Knight.
+                                 Sir Walter Dundas of ouer Newlistoun, Knight.
+                                 Sir Iohn Boswell of Glasemont, Knight.
+                                 Sir George Elphingstoun of Blythwood, Knight.
+                                 Sir William Leuingston of Darnechester, Knight.
+                                 Sir Dauid Meldrum of New-hall, Knight.
+                              
+                           
+                        
+                     
+                  
+               
+            
+            These names wer proclaimed vpon the Tarrase of the forefront of the Castell, with sound of Trumpets, and great quantity of diuerse especes of gold and money, cast ouer amongst the people.
+            These things beeing accomplished, the King
+
+and Queenes Maiesties, w
+                  •
+               th the Ambassadors, addressed themselues to the banket in the great Hal, about eight of the clock at night. Then came Lyon King of Armes, with his brethren the Herauldes, and entered the Hal before the King and Queenes meate, the Trumpets sounding melodiouslie before them: with these Noble men, beating office for the present.
+            
+               
+                  The Erll of Mar, Great Maister-housholde.
+               
+               
+                  The Lord Fleming, Great Maister-Vsher.
+               
+            
+            
+                For the Kings M.
+               
+                  The Erll of Montroze, Cartier.
+               
+               
+                  The Erll of Glencarne, Copper.
+               
+               
+                  The Erll of Orkenay, Sewar.
+               
+            
+            
+                For the Queenes M.
+               
+                  The Lord Seton Caruer.
+               
+               
+                  The Lord Hume Copper.
+               
+               
+                  The Lord Sempill Sewar.
+               
+            
+            This delicate banket beeing ordered with great aboundance, the King, Queene, and Ambassadours, were placed al at one Table, being formed of three partes, after a Geometricall figure, in such sort, that every one might haue a full sight of the other.
+            The King &amp; Queens Maiesties, were placed in the midst of the table, and on the Kings right hand w
+                  •
+               re set the English Ambassadours, the Erle of Sussex, and M. Robert Bowes, next them sat the Ambassadour from the Duke of Brunswicke, and the
+
+Ambassadour from the Duke of Magdelburgh.
+            
+            On the Kings left hand, next to the Queenes Maiestie, sate the Ambassadour of Denmarke, and Ambassadours from the States of Holland and Zeland: Betwixt every one of their seats, was left a good space.
+            On the East and west side of the Hal, was placed two very long Tables, where were set certain Noble men, Ladies of honour, and Counsellers of Scotland, and with them, the Noble men and Gentil-men of England, Denmark, Almaine and Flanders. And betwixt every Noble-man and Gentil-man stranger, was placed a Lady of honour, or Gentil-woman.
+            Nowe, beeing thus in a very honourable and comely order set, and after a while, hauing well refreshed themselues with the first seruice, which was very sumpteous, there came into the sight of them all, a Black-Moore, drawing (as it seemed to the beholders) a triumphall Charlot (and before it, the melodious noyse of trumpets and Howboyes) which Chariot entered the Hall, the motion of the whole frame (which was twelue foote long, and seuen foot broad) was so artificial within it selfe, that it appeared to be drawen in, onely by the strength of a Moore, which was very richly attyred, his traces were great chaines of pure gold.
+            Vpon this Chariot was finely and artificially deuised, a sumpteous couered Table, decked with all sortes of exquisite delicates and dainties, of pattisserie, frutages, and confections.
+            About the table, were placed sit Gallant dames,
+
+who represented a silent Comedie, three of them clothed in Argentyne Saten, and three in Crimson Saten: All these six garments, were enriched with Togue and Tinsal, of pure gold and siluer, euery one of them hauing a Crowne or Garland on their heades, very richely decked with fethers, pearles, and Iewels vpon their loose haire, in Antica forma.
+            
+            In the first front stood dame Ceres, with a sickle in her right hand, and a handfull of Corne in the other, and vpon the outmost part of her thigh, was written this sentence, Fundent vberes omnia Campi, which is to say, the plenteous Fields shall affoord all things.
+            Ouer against Ceres, stood Faecunditie, with some bushes of Chesbolls, which vnder an hierogliphi
+                  •
+                sence, representeth broodines with this Deuise, Forlix prole divum, and on the other side of her habite, Crescant in mille. The first importing that this Cuntrie is blessed by the Childe of the goddes, and the second, alluding to the King and Queenes Maiesti
+                  •
+               s, that their generations may grow into thousandes.
+            Next on the other side, was placed Faith, hauing in her hands a Basen, and in the same two hands ioyned together, with this sentence, Boni alumna coniugij, The fortresse and nurse of a blessed mariage.
+            Ouer against Faith, stood Concorde, with a golden Tasse in her left hand, and the horn of aboundance in her right hand with this sentence, Pleno beant te numina Sinu. The heuenly powers do blesse thee with a full bosome.
+            
+               The next place was occupyed by Liberalitie, who hauing in her right hand two Crownes, and in her left, two Scepters, with this denise, Me comite plura quam dabis, accipies. That is to say, hauing me thy follower, thou shalt receiue more than thou shalt giue.
+            And the last was Perseverance, hauing in her right hand a staste, and on her left shoulder an Anchor, with this deuise, Nec dubiares mutabuns, nec secunda, Neither doubtfull, nor more prosperous things shall change your state.
+            This Chariot which should haue bene drawn in by a Lyon, (but because his presence might haue brought some feare, to the neerest, or that the sight of the lights and torches might haue commoued his tamenes) It was thought meet, that the Moore should supply that roome: And so, he in outwarde shewe, preassed to draw that forward, which by a secreet conboy, was brought to the Princes Table, and the whole desert, was deliuered by Ceres, Foecunditie, Faith, Concord, Liberalitie, and Perseverance, to the Erles, Lords, and Barons that were Sewers.
+            Presently after the returning of the Chariot, entered a most sumpteous, artificiall, and wel proportioned ship, the length of her keele, was 18. foot, and her bredth 8. foote: from her bottome to her highest flagge, was 40. foot: the Sea shee stoode vpon, was 24. foot long, with bredth convenient: her motion was so artificially deuised within her self, that none could perceiue what brought her in. The Sea vnder her, was liuely counterfeit, withal
+
+cou
+                  •
+               outs: On her foresterne was placed Neptunu
+                     •
+                  , hauing in his hand h
+                  •
+               s Trident, &amp; on his head a Crowne, his apparell was all of Indian cloth of si
+                  •
+               ver and silk, which bare this inscription, 
+                  
+                     •
+                  unxi atquereduxi which in sence importeth, that as he ioyned them, so he reduced their Maiesties.
+            Then Thetis with her M
+                  •
+               ce, goddesse of the sea with this deuise, Nunquam abero &amp; tutum semper te littore sistam, which signifieth, that by her presence, she alwaies shall be carefull to bring them into a safe shore and harborow.
+            Then Triton with his wilke Trumpet, was next to her with this deuise, Velis, votis, ventis, by Sayles, by Vowes, by Windes.
+            Round about the Ship, were all the Marine people, as Syrenes, (aboue the middle as women, &amp; vnder as fishes:) and these were Parthenope, Ligea, and Leucosia, who accommodating their gestures to the voice of the Musitions, repeated this verse, Vnus eris nobis cantandus semper in orbe. And all the same was decored with the riches of the seas, as Pearls, Corals, Shelles, and Mettalls, very rare and excellent.
+            The bulke of this Ship was curiouslie painted, and her Galleries, wherevpon stood the most part of the Banket in Christalline glasse, gilt with Gold and Azure. Her Mastes were redde, her takling and cordage, was silk of the same coulour, with golden Pulle
+                  •
+               s, Her ordinance was 36. peeces of Brasse, br
+                  •
+               uelie mounted, and her Anchors Siluer-gylt. All her Sayles were double of white Taffata. And in her fore-sayle, a Ship
+
+Compas, regarding the North Star, with this sentence, Quascunque per vndas. Which is to say, through quhatsoeuer seas, or waues, the Kings Maiestie intendeth his course, and protect of anie acrysing action, Neptune as God of the Sea, shal be fauorable to his proceedings.
+            On the Main-saile, was painted the Armories of Scotland and Denmark, with this deuice, competent in the person of the Prince of Scotland. En quae divisa beatos efficiunt, collecta tenes. That is to say, Beholde (O Prince) what doth make these kingdomes seuerally blessed, ioyntly (O Prince of hope) thou holdes, and hast together.
+            Her tops were al armed with Taffataes of his Maiesties Collours, Golde, and Geules: and all her flaggs and streamers sutable to the same.
+            Her Marriners were in number six, apparelled al in changeable Spanish Taffataes, and her Pilote in cloth of gold, he alone stood at the helme, who only mooued and gouerned the whole frame, both the Ship and her burden, very artificially.
+            The Musitions within the same, were 14. all apparelled in Taffataes of his Maiesties collors, besides Arion with his Harp.
+            Being thus prepared, at the sound of Trumpets, she approached, and at the next sound of Tritons wilk Trumpet, together with the Masters whistle, she made sayle till shee came to the Table, discharging the ordinance in her Sterne by the way: But because this deuise caried some morall meaning with it, it shal not be impertinent to this purpose, to discover what is meant and propyned thereby.
+            
+               The Kings Maiestie, hauing vndertaken in such a desperate time, to sayle to Norway, and like a newe Ia
+                     •
+                  on, to bring his Queene our gracious Lady to this Kingdome, being detained and stopped by the conspiracies of Witches, and such denillish Dragons, thought it very meet, to followe foorth this his owne invention, that as Neptunus (speaking portically, and by such sictions, as the like Interludes and actions are accustomed to be decored withall) ioyned the King to the Queene.
+            So after this Coniunction, hee brought their Maiesties as happely hither: and now at this her blessed deliuery, did bring such things as the Sea affoords, to decore this festiual time withal: which immediatly were deliuered to the Sewers, forth of the Galleries of this Ship, out of Christalline glasse, very curiously painted with Gold &amp; Azure, all sortes of Fishes: as Hearinges, Whytings, Flookes, Oysters, Buckles, Lampets, Partans, 
+                  ••
+               apstars, Crabs, Spout-fish, Clammes: with other infinit things made of Suger, and most bluely represented in their owne shape. And whiles the Ship was vnloading: Arion sitting vpon the Gal
+                  ••
+                nose, which resembled the forme of a Dolphine fish, played vpon his Harp: Then began her musike in greene holyne Howboyes in fiue partes. After that, followed Violls with voices in plaine counterpointe, to the nature of these Hexameter V
+                  •
+               rses.
+            
+               Vndique conveniant, quot Reges nomine Christi
+               Gaudent, huc que suas maturent cogere vires.
+               
+                  
+                     〈◊〉
+                  , O Rex, opibusque antejueris omnes
+               
+                  Quisque suam jam posse velit tibi cedere sorte
+                     •
+                  .
+               Regna, viros, aurum, quae tefecere potente
+                     •
+                  .
+               Omnia conjugij decorant haec pignora chari:
+               
+                  ANNA precor foelix multos feliciter annos,
+               
+                  
+                     •
+                  ive, resume novas, atque annuus anni
+               Instar eat, redeatque; novo tibi partus abor
+                     ••
+                  .
+               Cresce Puer, sacri mens numinis imbibat imbres,
+               Semper vterque parens de te nova gaudia captet.
+               Scotia, qua
+                     •
+                   quondam multis tenebrosa vocataes
+               Lumina magna nitent in te superantia coelum,
+               Lux Verbi, &amp; Rex, &amp; Princeps diademata Regni.
+            
+            After which, ensued a stil noyse of Recorders and Flutes: and for the fourth, a generall consort of the bes
+                  •
+                Instruments.
+            So this Enterlude, drawing neere to an end, in the ver
+                  •
+               e last courses, was discouered this sentence likewise. Submissus adorat Occ
+                     •
+                  anus, inferring that the Occean Sea, by offering the shapes of her treasure humblie adored and honoured the sitters. And when in this time, all the banket was done, after thanks being giuen, there was sung with most delicate dulce voices, and sweet harmonie in 7. partes, the 128. Psalme, with 14. voices, And that being done, at the sound of Tritons wilk Trumpet, and the Pilotes whistle, she wayed anchor, made saile, and with noise of Howboyes and Trumpets, retyred, and then discharged the rest of her ordinance, to the great admiration of the behold
+                  •
+               rs.
+            After all which Pastime and sport, with merry and ioyfull repast, the King and Queenes Maiesties,
+
+after other offices of honour and respect, the place being prepared for the Reuels, and the Persons appointed for the same, discharging themselues sufficiently. Their Maiesties, and Ambassadors, went to another Hal, most richly and magnificently hung with riche Tapistrie, where for the collation, a most rare, sumpteous, and Princelike desart of Sug
+                  •
+               r was prepared, which being ended, after taking of leaue, and goodnights, they departed about three of the clock in the morning, to their nights rest.
+            The dates ensewing, so long as leasure might serue, was bestowed by the Ambassadors, in banketting of Noble men and Gentilmen of their acquaintance, and the King in the meane time was Sollicite and carefull of honourable and magn
+                  •••
+               ke rewardes, to be bestowed on either of them, which was also Princelie performed, to their great contentments.
+            And as they were come to Edinburgh, they were all banketted at some time, seuerally, and at other times together, by diuers Noble men of Scotland, with great honour: Last of all, one Ambassadour banketted another, for commemoration of that Ioyfull meeting and good successe.
+            Then the King and Queenes Maiesties came to Edinburgh, where they were invited by the Ambassadours of Denmarke, vnto a Banket within their Shippe, which lay at anchor in the Riuer of Forth: Shee was so great, that shee could not enter the Harborow.
+            The Banket was very sumpteous, and the
+
+Ambassadours so Ioyous of their finall dispatch, behaved themselues to their Maiesties on a kindly maner, according to the ordinary custom of their Cuntrie, by propining of drink vnto them in name of their Princes, which was louingly accepted and requited: In commemoration whereof, the whole Artillerie of that great Vessell were shot in great number.
+            The three great Ships of the Estates, lying in the same Road neere by, made correspondance and resonance to the number of six score gret shot, and thus concluded their Bien alle.
+            
+            Then the Castel of Edinburgh, for performance of the Kings honour, as they perceaued the ships to lose, and to hoyse vp sayle: The Captaine of the Castell saluted euery Ship, as they shewed them selues in readines by order, with a number of great Cannon shotte. And so I conclude.
+            FINIS.
+         
+      
+   
+

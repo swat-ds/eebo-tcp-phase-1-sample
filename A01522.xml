@@ -1,0 +1,3596 @@
+
+   
+      
+         
+            The steele glas A satyre co[m]piled by George Gascoigne Esquire. Togither with The complainte of Phylomene. An elegie deuised by the same author.
+            Gascoigne, George, 1542?-1577.
+         
+         
+            
+               1576
+            
+         
+         Approx. 122 KB of XML-encoded text transcribed from 62 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2003-01 (EEBO-TCP Phase 1).
+            A01522
+            STC 11645
+            ESTC S102876
+            99838638
+            99838638
+            3024
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01522)
+            Transcribed from: (Early English Books Online ; image set 3024)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 295:01)
+         
+         
+            
+               
+                  The steele glas A satyre co[m]piled by George Gascoigne Esquire. Togither with The complainte of Phylomene. An elegie deuised by the same author.
+                  Gascoigne, George, 1542?-1577.
+               
+               [134] p. : port.  
+               
+                  Printed [by Henrie Binneman] for Richard Smith,
+                  [London] :
+                  [1576]
+               
+               
+                  In verse.
+                  Signatures: A⁴ chi²  B-Q⁴ [R]²  (-[R]2).
+                  "The complaynt of Phylomene" has separate title page with imprint "Imprinted at London by Henrie Binneman, for Richarde Smith. Anno Domini 1576"; register is continuous.
+                  Reproduction of the original in the Henry E. Huntington Library and Art Gallery.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+      
+      
+         
+            2002-07
+            TCPAssigned for keying and markup
+         
+            2002-08
+            Apex CoVantageKeyed and coded from ProQuest page images
+         
+            2002-09
+            Judith SiefringSampled and proofread
+         
+            2002-09
+            Judith SiefringText and markup reviewed and edited
+         
+            2002-10
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            The Steele Glas.
+            A Satyre cōpiled by George Gascoigne Esquire.
+            
+               Togither with The Complainte of Phylomene. An Elegie deuised by the same Author.
+            Tam Marti, quàm Mercurio.
+            
+            
+               Printed for Richard Smith.
+            
+         
+         
+            
+               
+               
+                  TAM MARTI QVAM MERCVRIO
+               
+            
+         
+         
+            
+            To the right honorable his singular good Lord the Lord Gray of Wilton, Knight of the most honorable order of the Garter, George Gascoigne Esquire wisheth long life with encrease of honour, according to his great worthinesse.
+            
+               RIght honorable, noble, and my singular good Lorde: if mine abilitie were any way correspondent too the iust desires of my hart, I should yet thinke al the same vnable to deserue the least parte of your goodnesse: in that you haue alwayes deygned with chearefull looke to regarde me, with affabylitie to heare me, with exceeding curtesy to vse me, with graue aduice to directe mee, with apparant loue to care for me, and with assured assistance to protect me. All which when I do remēber, yet it stirreth in me an exceeding zeale to deserue it: and that zeale begetteth bashefull dreade too performe it. The dread is ended in dolours, and yet those dolours receiue the very same affection, whiche firste moued in mee the desire to honour and esteme you. For whiles I bewayle mine own vnworthynesse, and therewithal do set before mine eyes the lost time of my youth mispent, I seeme to see a farre of (for my comfort) the high and triumphant vertue called Magnanimitie, accōpanied with industrious diligēce. The first doth encourage my faynted harte, and the seconde doth beginne (already) to employ my vnderstanding, for (ahlas my good Lorde) were not the cordial of these two pretious Spiceries, the corrosyue of care woulde quickely confounde me.
+            I haue misgouerned my youth, I confesse it: what shall I do then? shall I yelde to mysery as a iust plague apointed for my portion? Magnanimitie saith no, and Industrye seemeth to be of the very same opinion.
+            I am derided, suspected, accused, and condemned: yea more than that, I am rygorously reiected when I proffer amendes for my harme. Should I therefore dispayre? shall I yeelde vnto iellosie? or drowne my dayes in idlenesse, bycause their beginning was bathed in wantonnesse? Surely (my Lord) the Magnanimitie of a noble minde will not suffer me, and the delightfulnesse of dilygence doth vtterly forbydde me.
+            Shal I grudge to be reproued for that which I haue done in deede, when the
+
+sting of Emulation spared not to touche the worthy Scipio with most vntrue surmyses? Yea Themistocles when he had deliuered al Greece from the huge host of Xerxes, was yet by his vnkinde citizens of Athens expulsed from his owne, and constrained to seeke fauour in the sight of his late professed enemie, But the Magnanimitie of their mindes was such, as neither could aduersytie ouercome them, nor yet the iniurious dealing of other men coulde kindle in their brestes any least sparke of desire, to seeke any vnhonorable reuenge.
+            I haue loytred (my lorde) I confesse, I haue lien streaking me (like a lubber) when the sunne did shine, and now I striue al in vaine to loade the carte when it raineth. I regarded not my comelynes in the Maymoone of my youth, and yet now I stand prinking me in the glasse, when the crowes foote is growen vnder mine eye. But what?
+            
+               Aristotle spent his youth very ryotously, &amp; Plato (by your leaue) in twenty of his youthful yeares, was no lesse addicted to delight in amorous verse, than hee was after in his age painful to write good precepts of moral Phylosophy. VVhat shoulde I speake of Cato, who was o
+                  •
+               de before he learned lattine letters, and yet became one of the greatest Oratours of his time? These examples are sufficient to proue that by industrie and diligence any perfection may be attained, and by true Magnanimitie all aduersitie are easye to be endured. And to that ende (my verie good lorde) I do here presume thus rudely to rehearse them. For as I can be content to confesse the lightnesse wherewith I haue bene (in times past) worthie to be burdened, so would I be gladde, if nowe when I am otherwise bent, my better endeuors might be accepted. But (alas my lorde) I am not onely enforced stil to carie on my shoulders the crosse of my carelesnesse, but there withall I am also put to the plonge, too prouide (
+                  •
+               uen nowe) weapons wherewith I maye defende all heauy frownes, deepe suspects, and dangerous detractions. And I finde my selfe so feeble, and so vnable to endure that combat, as (were not the cordialles before rehearsed) I should either cast down
+                  •
+                
+               
+                  〈◊〉
+                armoure and hide myselfe like a recreāt, or else (of a malicious stubbornesse) should busie my braines with some Stratagem for to execute an enuious reuenge vpon mine aduersaries.
+            But neither wil Magnanimitie suffer me to become vnhonest, nor yet can Industrie see me sinke in idlenesse.
+            For I haue learned in sacred scriptures to heape coles vppon the heade of mine enemie, by honest dealing: and our sauiour himselfe hath encoraged me, saying that I shal lacke neither workes nor seruice, although it were noone dayes before I came into the Market place.
+            These things I say (my singular good lorde) do renewe in my troubled minde the same affectiō which first moued me to honor you, nothing doubting but 
+                  〈◊〉
+                your
+
+fauorable eyes will vouchsafe to beholde me as I am, and neuer be so curious as to enquire what I haue bene.
+            And in ful hope therof, I haue presumed to present your honour with this Satyre written without rime, but I truste not without reason. And what soeuer it bee, I do humbly dedicate it vnto your honorable name, beseeching the same too accept it with as gratious regarde, as you haue in times past bene accustomed too beholde my trauailes. And (my good Lorde) though the skorneful do mocke me for a time, yet in the ende I hope to giue them al a rybbe of roste for their paynes. And when the vertuous shall perceiue indeede how I am occupied, then shall detraction be no lesse ashamed to haue falsely accused me, than light credence shal haue cause to repent his rashe conceypt: and Grauitie the iudge shal not be abashed to cancel the sentence vniustly pronounced in my condemnation. In meane while I remaine amongst my bookes here at my poore house in VValkamstowe, where I praye daylie for speedy aduauncement, and continuall prosperitie of your good Lordship. VVritten the fiftenth of April, 1576.
+            
+               By your honours most bownden and wel assured George Gascoigne.
+            
+         
+         
+            
+               
+               N. R. in commendation of the Authour, and his workes.
+               
+                  IN rowsing verse, of Mauors bloudie raigne,
+                  The famous Greke, and Maro did excel.
+                  Graue Senec did, surmounte for Tragike vaine,
+                  Quicke Epigrams, Catullus wrote as wel,
+                  
+                     Archilochus, did for lambickes passe,
+                  For commicke verse, still Plautus peerelesse was.
+               
+               
+                  In Elegies, and wanton loue writ laies,
+                  Sance peere were Naso, and Tibullus deemde:
+                  In Satyres sharpe (as men of mickle praise)
+                  
+                     Lucilius, and Horace were esteemde.
+                  Thus diuers men, with diuers vaines did write,
+                  But Gascoigne doth, in euery vaine indite.
+               
+               
+                  And what perfourmaunce hee thereof doth make,
+                  I list not vaunte, his workes for me shal say:
+                  In praising him Timantes trade I take,
+                  VVho (when hee should, the woful cheare displaie,
+                  Duke Agamemnon had when he did waile,
+                  His daughters death with teares of smal auaile:
+               
+               
+                  Notskild to countershape his morneful grace,
+                  That men might deeme, what art coulde not supplie)
+                  Deuisde with painted vaile, to shrowde his face.
+                  Like sorte my pen shal Gascoignes praise discrie,
+                  VVhich wanting grace, his graces to rehearse,
+                  Doth shrowde and cloude them thus in silent verse.
+               
+            
+            
+               
+               Walter Rawely of the middle Temple, in commendation of the Steele Glasse.
+               
+               
+                  SVVetē were the sauce, would please ech kind of tast,
+                  The life likewise, were pure that neuer swerued,
+                  For spyteful tongs, in cankred stomackes plaste,
+                  Deeme worst of things, which best (percase) deserued:
+                  But what for that? this medcine may suffyse,
+                  To scorne the rest, and seke to please the wise.
+               
+               
+                  Though sundry mindes, in sundry sorte do deeme,
+                  Yet worthiest wights, yelde prayse for euery payne,
+                  But enuious braynes, do nought (or light) esteme,
+                  Such stately steppes, as they cannot attaine.
+                  For who so reapes, renowne aboue the rest,
+                  VVith heapes of hate, shal surely be opprest.
+               
+               
+                  VVherefore to write, my censure of this booke,
+                  This Glasse of Steele, vnpartially doth shewe,
+                  Abuses all, to such as in it looke,
+                  From prince to poore, from high estate to lowe,
+                  As for the verse, who list like trade to trye,
+                  I feare me much, shal hardly reache so high.
+               
+            
+            
+               Nicholas Bowyer in commē
+                  dation of this worke.
+               
+               
+                  FRom layes of Loue, to Satyres sadde and sage,
+                  Our Poet turnes, the trauaile of his time,
+                  And as he pleasde, the vaine of youthful age,
+                  VVith pleasant penne, employde in louing ryme:
+                  
+                     
+So now he seekes, the grauest to delight,
+                  VVith workes of worth, much better than they showe.
+                  This Glasse of Steele, (if it be markt aright)
+                  Discries the faults, as wel of high as lowe.
+                  And Philomelaes fourefolde iust complaynte,
+                  In sugred sounde, doth shrowde a solempne sence,
+                  Gainst those whome lust, or murder doth attaynte.
+                  Lo this we see, is Gascoignes good pretence,
+                  To please al sorts, with his praiseworthy skill.
+                  Then yelde him thanks in signe of like good wil.
+               
+            
+         
+         
+            The Author to the Reader.
+            
+               TO vaunt, were vaine and flattrie were a faulte.
+               But truth to tell, there is a fort of fame,
+               The which I seeke, by science to assault,
+               And so to leaue, remembrance of my name.
+               The walles wherof are wondrous harde to clyme:
+            
+            
+               And much to high, for ladders made of ryme.
+               Then since I see, that rimes can seldome reache,
+               Vnto the toppe, of such a stately Towre,
+               By reasons force, I meane to make some breache,
+               VVhich yet may helpe, my feeble fainting powre,
+               That so at last, my Muse might enter in,
+               And reason rule, that rime could neuer win.
+            
+            
+               Such battring tyre, this pamphlet here bewraies,
+               In rymelesse verse, which thundreth mighty threates,
+               And where it findes, that vice the wall decayes,
+               Euen there (amaine) with sharpe rebukes it beates.
+               The worke (thinke I) deserues an honest name,
+               If not? I fayle, to win this forte of fame.
+            
+            Tam Marti, quàm Mercurio.
+         
+         
+            
+            Gentle Reader I pray you before you reade to correct these faults ensuing.
+            
+               
+                  
+                     Leafe
+                     Line.
+                     Faulte.
+                     Correction.
+                  
+                  
+                     A. 2.
+                     First page.
+                     18.
+                     receiue
+                     reviued
+                  
+                  
+                      
+                     Eadem
+                     32.
+                     fainted
+                     fainting
+                  
+                  
+                     A. 2
+                     Second page
+                     25.
+                     euen now
+                     newe
+                  
+                  
+                     B. 2
+                     First page
+                     6.
+                     this deceite
+                     their deceipt
+                  
+                  
+                      
+                     Eodem. 2 page
+                     18.
+                     seconde seemly
+                     seconde stemly
+                  
+                  
+                      
+                     Eadem.
+                     21.
+                     woode.
+                     woed
+                  
+                  
+                     B. 3.
+                     Second page.
+                     17
+                     from fraude
+                     through fraude
+                  
+                  
+                     B. 4
+                     Seconde.
+                     Margin
+                     of them
+                     of the theame
+                  
+                  
+                     C. 4
+                     First page.
+                     5.
+                     king
+                     knight
+                  
+                  
+                     F. 1
+                     First page.
+                     9.
+                     greedinesse
+                     greedy guyles
+                  
+                  
+                     I. 1
+                     Seconde page.
+                     2.
+                     byrded
+                     bryded
+                  
+                  
+                     K. 3
+                     First page
+                     19.
+                     astonyed
+                     astoynde
+                  
+                  
+                      
+                     Eadem.
+                     20
+                     aduance
+                     aduante
+                  
+                  
+                     P. 3
+                     First page.
+                     6.
+                     phy false and
+                     Fye fierce and
+                  
+                  
+                     Q. 3
+                     Seconde page.
+                     10
+                     then vae vobis
+                     
+                     
+                        vae vobis then
+                  
+               
+            
+         
+      
+      
+         
+            
+               
+                  
+                  
+                  THE STEELE GLAS.
+                  
+                     
+                        THe Nightingale, (whose happy noble hart,
+                     No dole can daunt, nor feareful force affright,
+                     Whose chereful voice, doth comfort saddest wights,
+                     When she hir self, hath little cause to sing,
+                     Whom louers loue, bicause she plaines their greues,
+                     She wraies their woes, and yet relieues their payne,
+                     Whom worthy mindes, alwayes esteemed much,
+                     And grauest yeares, haue not disdainde hir notes:
+                     (Only that king proud Tereus by his name
+                     With murdring knife, did carue hir pleasant tong,
+                     To couer so, his owne foule filthy fault)
+                     This worthy bird, hath taught my weary Muze,
+                     To sing a song, in spight of their despight,
+                     Which worke my woe, withouten cause or crime,
+                     And make my backe, a ladder for their feete,
+                     By slaundrous steppes, and stayres of tickle talke,
+                     To clyme the throne, wherin my selfe should sitte.
+                     
+                        
+O Phylomene, then helpe me now to chaunt:
+                     And if dead beastes, or liuing byrdes haue ghosts,
+                     Which can conceiue the cause of carefull mone,
+                     When wrong triumphes, and right is ouertrodde,
+                     Then helpe me now, O byrd of gentle bloud,
+                     In barrayne verse, to tell a frutefull tale,
+                     A tale (I meane) which may content the mindes
+                     Of learned men, and graue Philosophers.
+                  
+                  
+                     And you my Lord, (whose happe hath heretofore
+                     Bene, louingly to reade my reckles rimes,
+                     And yet haue deignde, with fauor to forget
+                     The faults of youth, which past my hasty pen:
+                     And therwithall, haue graciously vouchsafte,
+                     To yeld the rest, much more than they deservde)
+                     Vouchsafe (lo now) to reade and to peruse,
+                     This rimles verse, which flowes fro troubled mind.
+                     Synce that the line, of that false caytife king,
+                     (Which rauished fayre Phylomene for lust,
+                     And then cut out, hir trustie long for hate)
+                     
+                        
+They liue, they liue, (alas the worse my lucke)
+                     Whose greedy lust, vnbridled from their brest,
+                     Hath raunged long about the world so wyde,
+                     To finde a pray for their wide open mouthes,
+                     And me they found, (O wofull tale to tell)
+                     Whose harmelesse hart, perceivde not this deceit.
+                  
+                  
+                     But that my Lord, may playnely vnderstand,
+                     The mysteries, of all that I do meane,
+                     I am not he whom slaunderous tongues haue tolde,
+                     (False tongues in dede, &amp; craftie subtile braines)
+                     To be the man, which ment a common spoyle
+                     Of louing dames, whose eares wold heare my words
+                     Or trust the tales deuised by my pen.
+                     I n'am a man, as some do thinke I am,
+                     (Laugh not good Lord) I am in dede a dame,
+                     Or at the least, a right Hermaphrodite:
+                     
+                     And who desires, at large to knowe my name,
+                     My birth, my line, and euery circumstance,
+                     Lo reade it here, Playne dealyng was my Syre,
+                     And he begat me by Simplycitie,
+                     
+                        
+My sistr and I, into this world were sent, 
+                           
+                              〈1 paragraph〉
+                           .
+                     
+                     My Systers name, was pleasant Poesys,
+                     
+                     And I my selfe had Satyra to name,
+                     Whose happe was such, that in the prime of youth,
+                     A lusty ladde, a stately man to see,
+                     Brought vp in place, where pleasures did abound,
+                     (I dare not say, in court for both myne eares)
+                     Beganne to woo my sister, not for wealth,
+                     But for hir face was louely to beholde,
+                     And therewithall, hir speeche was pleasant stil. VVhere may be commonly found a meeter vvoer for plesant poetry, than vaine Delight? Such men do many 
+                              •
+                           ymes attend vpon vaine delight.
+                     
+                     This Nobles name, was called vayne Delight,
+                     
+                     And in his trayne, he had a comely crewe
+                     Of guylefull wights: False semblant was the first,
+                     The second man was, Flearing flattery,
+                     
+                     (Brethren by like, or very neare of kin)
+                     Then followed them, Detraction and Deceite.
+                     
+                     
+                        Sym Swash did beare a buckler for the first,
+                     
+                        False witnesse was the seconde seemely page,
+                     And thus wel armd, and in good equipage,
+                     This Galant came, vnto my fathers courte,
+                     And wood my sister, for she elder was,
+                     And fayrer eke, but out of doubt (at least)
+                     
+                        
+Hir pleasant speech surpassed mine somuch,
+                     That vayne Delight, to hir adrest his sute.
+                     Short tale to make, she gaue a free consent,
+                     And forth she goeth, to be his wedded make,
+                     Entyst percase, with glosse of gorgeous shewe,
+                     (Or else perhappes, persuaded by his peeres,)
+                     That constant loue had herbord in his brest,
+                     
+                        Such errors growe where suche false Prophets preach.
+                     
+                  
+                  
+                     How so it were, my Syster likte him wel,
+                     And forth she goeth, in Court with him to dwel,
+                     Where when she had some yeeres ysoiorned,
+                     And saw the world, and marked eche mans minde,
+                     A deepe Desire hir louing hart enflamde,
+                     To see me sit by hir in seemely wise,
+                     That companye might comfort hir sometimes,
+                     And sound advice might ease hir wearie thoughtes:
+                     And forth with speede, (euen at hir first request)
+                     Doth vaine Delight, his hasty course direct,
+                     To seeke me out his sayles are fully bent,
+                     And winde was good, to bring me to the bowre,
+                     Whereas she lay, that mourned dayes and nights
+                     To see hir selfe, so matchte and so deceivde,
+                     
+                        
+And when the wretch, (I cannot terme him bet)
+                     Had me on seas ful farre from friendly help,
+                     A sparke of lust, did kindle in his brest,
+                     And bad him harke, to songs of Satyra.
+                     
+                     I selly soule (which thought no body harme)
+                     Gan cleere my throte, and straue to sing my best,
+                     Which pleasde him so, and so enflamde his hart, Satyrical Poetry is somtimes rauished by vayne Delight.
+                     
+                     That he forgot my sister Poesys,
+                     
+                     And rauisht me, to please his wanton minde.
+                     Not so content, when this foule fact was done,
+                     (Yfraught with feare, least that I should disclose
+                     His incest: and, his doting darke desire)
+                     He causde straight wayes, the formost of his crew
+                     VVith his compeare, to trie me with their tongues: False semblant and flatterie. can seldome beguile satirical Poetrie.
+                     
+                     And when their guiles, could not preuaile to winne
+                     My simple mynde, from tracke of trustie truth,
+                     Nor yet deceyt could bleare mine eyes frō fraud,
+                     Came Slander then, accusing me, and sayde,
+                     That I entist Delyght, to loue &amp; luste.
+                     Thus was I caught, poore wretch that thought none il.
+                     And furthermore, to cloke their own offence,
+                     They clapt me fast, in cage of Myserie, 
+                        The revvard of busy medling is Miserie.
+                     
+                     
+                        
+And there I dwelt, full many a doleful day,
+                     Vntil this theefe, this traytor vaine Delight,
+                     
+                     Cut out my tong, with Raysor of Restraynte,
+                     
+                     Least I should wraye, this bloudy deede of his.
+                  
+                  
+                     And thus (my Lord) I liue a weary life, note now &amp; compare this allegory to the story of Progne &amp; Philomele
+                     
+                     Not as I seemd, a man sometimes of might,
+                     But womālike, whose teares must venge hir harms.
+                     And yet, euen as the mighty gods did daine
+                     For Philomele, that thoughe hir tong were cutte
+                     Yet should she sing a pleasant note sometimes:
+                     So haue they deignd, by their deuine decrees,
+                     That with the stumps of my reproued tong,
+                     I may sometimes, Reprouers deedes reproue,
+                     And sing a verse, to make them see themselues.
+                  
+                  
+                     Then thus I sing, this selly song by night,
+                     Like Phylomene, since that the shining Sunne
+                     Is now eclypst, which wont to lend me light.
+                  
+                  
+                     And thus I sing, in corner closely cowcht
+                     Like Philomene, since that the stately cowrts,
+                     Are now no place, for such poore byrds as I.
+                  
+                  
+                     
+                        
+And thus I sing, with pricke against my brest,
+                     Like Philomene, since that the priuy worme,
+                     Which makes me see my reckles youth mispent,
+                     May well suffise, to keepe me waking still.
+                  
+                  
+                     And thus I sing, when pleasant spring begins,
+                     Like Philomene, since euery ianglyng byrd,
+                     Which squeaketh loude, shall neuer triumph so,
+                     As though my muze were mute and durst not sing.
+                  
+                  
+                     And thus I sing, with harmelesse true intent,
+                     Like Philomene, when as percase (meane while)
+                     The Cuckowe suckes mine eggs by foule deceit,
+                     And lickes the sweet, which might haue fed me first.
+                  
+                  
+                     And thus I meane, in mournfull wise to sing,
+                     A rare conceit, (God graunt it like my Lorde)
+                     A trustie tune, from auncient clyffes conueyed,
+                     A playne song note, which cannot warble well.
+                  
+                  
+                     For whyles I mark this weak and wretched world, Here the substance of them beginneth
+                     
+                     Wherin I see, howe euery kind of man
+                     
+                        
+Can flatter still, and yet deceiues himselfe.
+                     I seeme to muse, from whence such errour springs,
+                     Such grosse cōceits, such mistes of darke mistake,
+                     Such Surcuydry, such weening ouer well,
+                     And yet in dede, such dealings too too badde.
+                     And as I stretch my weary wittes, to weighe
+                     The cause therof, and whence it should proceede,
+                     My battred braynes, (which now be shrewdly brusde,
+                     With cānon shot, of much misgouernmēt)
+                     Can spye no cause, but onely one conceite,
+                     Which makes me thinke, the world goeth stil awry.
+                  
+                  
+                     I see and sigh, (bycause it makes me sadde)
+                     That peuishe pryde, doth al the world possesse,
+                     And euery wight, will haue a looking glasse
+                     To see himselfe, yet so he seeth him not:
+                     Yea shal I say? a glasse of common glasse,
+                     Which glistreth bright, and shewes a seemely shew,
+                     Is not enough, the days are past and gon,
+                     That Berral glasse, with foyles of louely brown,
+                     Might serue to shew, a seemely fauord face.
+                     That age is deade, and vanisht long ago,
+                     
+                        
+Which thought that steele, both trusty was &amp; true,
+                     And needed not, a foyle of contraries,
+                     But shewde al things, euen as they were in deede.
+                     In steade whereof, our curious yeares can finde
+                     The christal glas, which glimseth braue &amp; bright,
+                     And shewes the thing, much better than it is,
+                     Beguylde with foyles, of sundry subtil sights,
+                     So that they seeme, and couet not to be.
+                  
+                  
+                     This is the cause (beleue me now my Lorde)
+                     That Realmes do rewe, from high prosperity,
+                     That kings decline, from princely gouernment,
+                     That Lords do lacke, their auncestors good wil,
+                     That knights consume, their patrimonie still,
+                     That gentlemen, do make the merchant rise,
+                     That plowmen begge, and craftesmen cānot thriue,
+                     That clergie quayles, and hath smal reuerence,
+                     That laymen liue, by mouing mischiefe stil,
+                     That courtiers thriue, at latter Lammas day,
+                     That officers, can scarce enrich their heyres,
+                     That Souldiours sterue, or prech at Tiborne crosse,
+                     That lawyers buye, and purchase deadly hate,
+                     
+                        
+That merchants clyme, and fal againe as fast,
+                     That roysters brag, aboue their betters rome,
+                     That sicophants, are counted iolly guests,
+                     That Lais leades a Ladies life alofte,
+                     And Lucrece lurkes, with sobre bashful grace.
+                  
+                  
+                     This is the cause (or else my Muze mistakes)
+                     That things are thought, which neuer yet were wrought,
+                     And castels buylt, aboue in lofty skies,
+                     Which neuer yet, had good foundation.
+                     And that the same may seme no feined dreame,
+                     But words of worth, and worthy to be wayed,
+                     I haue presumde, my Lord for to present
+                     With this poore glasse, which is of trustie Steele,
+                     And came to me, by wil and testament
+                     Of one that was, a Glassemaker in deede.
+                  
+                  
+                     
+                        Lucylius, this worthy man was namde,
+                     Who at his death, bequeathd the christal glasse, A famous old satyri
+                              •
+                           cal Poete.
+                     
+                     To such as loue, to seme but not to be,
+                     And vnto those, that loue to see themselues,
+                     How foule or fayre, soeuer that they are,
+                     
+                        
+He gan bequeath, a glasse of trustie Steele,
+                     Wherin they may be bolde alwayes to looke,
+                     Bycause it shewes, all things in their degree.
+                     And since myselfe (now pride of youth is past)
+                     Do loue to be, and let al seeming passe,
+                     Since I desire, to see my selfe in deed,
+                     Not what I would, but what I am or should,
+                     Therfore I like this trustie glasse of Steele.
+                  
+                  
+                     Wherin I see, a frolike fauor frounst The aucthor himselfe.
+                     
+                     With foule abuse, of lawlesse lust in youth:
+                     Wherin I see, a Sampsons grim regarde
+                     Disgraced yet with Alexanders bearde: Alexāder magnus had but a smal beard.
+                     
+                     Wherein I see, a corps of comely shape
+                     (And such as might beseeme the courte full wel)
+                     Is cast at heele, by courting al to soone:
+                     Wherein I see, a quicke capacitye, He vvhich vvil rebuke other mens faults, shal dovvel not to for get hys ovvne imperfectiōs.
+                     
+                     Berayde with blots of light Inconstancie:
+                     An age suspect, bycause of youthes misdeedes.
+                     A poets brayne, possest with layes of loue:
+                     A Caesars minde, and yet a Codrus might,
+                     A Souldiours hart, supprest with feareful doomes:
+                     
+                        
+A Philosopher, foolishly fordone.
+                     And to be playne, I see my selfe so playne,
+                     And yet so much vnlike that most I seemde,
+                     As were it not, that Reason ruleth me,
+                     I should in rage, this face of mine deface,
+                     And cast this corps, downe headlong in dispaire,
+                     Bycause it is, so farre vnlike it selfe.
+                  
+                  
+                     And therwithal, to comfort me againe,
+                     I see a world, of worthy gouernment,
+                     A common welth, with policy so rulde, Common vvelth.
+                     
+                     As neither lawes are sold, nor iustice bought,
+                     Nor riches sought, vnlesse it be by right.
+                     No crueltie, nor tyrannie can raigne,
+                     No right reuenge, doth rayse rebellion,
+                     No spoyles are tane, although the sword preuaile,
+                     No ryot spends, the coyne of common welth,
+                     No rulers hoard, the countries treasure vp,
+                     No man growes riche, by subtilty nor sleight:
+                     All people dreade, the magistrates decree,
+                     And al men feare, the scourge of mighty Ioue.
+                     Lo this (my lord) may wel deserue the name,
+                     
+                        
+Of such a lande, as milke and hony flowes.
+                     And this I see, within my glasse of Steel,
+                     Set forth euen so, by Solon (worthy wight)
+                     Who taught king Croesus, what it is to seme,
+                     And what to be, by proofe of happie end.
+                     The like Lycurgus, Lacedemon king,
+                     Did set to shew, by viewe of this my glasse,
+                     And left the same, a mirour to behold,
+                     To euery prince, of his posterity.
+                  
+                  
+                     But now (aye me) the glasing christal glasse
+                     Doth make vs thinke, that realmes and townes are rych
+                     VVhere fauor sways, the sentence of the law,
+                     VVhere al is fishe, that cometh to the net, Common voe.
+                     
+                     VVhere mighty power, doth ouer rule the right,
+                     VVhere iniuries, do foster secret grudge,
+                     VVhere bloudy sword, maks euery booty prize,
+                     VVhere banquetting, is compted comly cost,
+                     VVhere officers grow rich by princes pens,
+                     VVhere purchase cōmes, by couyn and deceit,
+                     And no man dreads, but he that cannot shift,
+                     Nor none serue God, but only tongtide men.
+                     
+                        
+Againe I see, within my glasse of Steele,
+                     But foure estates, to serue eche country Soyle,
+                     The King, the Knight, the Pesant, &amp; the Priest.
+                     The King should care for al the subiectes still,
+                     The King should fight, for to defende the same,
+                     The Peasant he, should labor for their ease,
+                     And Priests shuld pray, for thē &amp; for thēselues.
+                  
+                  
+                     But out alas, such mists do bleare our eyes,
+                     And christal glosse, doth glister so therwith,
+                     That Kings cōceiue, their care is wonderous great Kings.
+                     
+                     When as they beat, their busie restles braynes,
+                     To maintaine pompe, and high triumphant sights,
+                     
+                     To fede their fil, of daintie delicates,
+                     
+                     To glad their harts, with sight of pleasant sports,
+                     
+                     To fil their eares, with sound of instruments,
+                     
+                     To breake with bit, the hot coragious horse,
+                     
+                     To deck their haules, with sumpteous cloth of gold,
+                     
+                     To cloth themselues, with silkes of straunge deuise,
+                     
+                     To search the rocks, for pearles &amp; pretious stones,
+                     
+                     To delue the ground, for mines of glistering gold:
+                     
+                     And neuer care, to maynteine peace and rest,
+                     
+                        
+To yeld reliefe, where needy lacke appears,
+                     To stop one eare, vntil the poore man speake,
+                     To seme to sleepe, when Iustice still doth wake,
+                     To gard their lands, from sodaine sword and fier,
+                     To feare the cries of giltles suckling babes,
+                     Whose ghosts may cal, for vēgeance on their bloud,
+                     And stirre the wrath, of mightie thundring Ioue.
+                  
+                  
+                     I speake not this, by any english king,
+                     Nor by our Queene, whose high for sight prouids,
+                     That dyre debate, is fledde to foraine Realmes,
+                     Whiles we inioy the golden fleece of peace.
+                     But there to turne my tale, from whence it came,
+                     In olden dayes, good kings and worthy dukes,
+                     (Who sawe themselues, in glasse of trusty Steele)
+                     Contented were, with pompes of little pryce,
+                     And set their thoughtes, on regal gouernement.
+                  
+                  
+                     An order was, when Rome did florish most, Veleri max. lib. a. Cap. 3.
+                     
+                     That no man might triumph in stately wise,
+                     But such as had, with blowes of bloudy blade
+                     Fiue thousand foes in foughten field foredone.
+                     
+                        
+Now he that likes, to loke in Christal glasse,
+                     May see proud pomps, in high triumphant wise,
+                     Where neuer blowe, was delt with enemie.
+                  
+                  
+                     When Sergius, deuised first the meane
+                     To pen vp fishe, within the swelling floud,
+                     And so content his mouth with daintie fare,
+                     Then followed fast, excesse on Princes bordes,
+                     And euery dish, was chargde with new conceits,
+                     To please the taste, of vncontented mindes.
+                     But had he seene, the streine of straunge deuise,
+                     Which Epicures, do now adayes inuent,
+                     To yeld good smacke, vnto their daintie tongues:
+                     Could he conceiue, how princes paunch is fillde
+                     With secret cause, of sickenesse (oft) vnseene,
+                     Whiles lust desires, much more than nature craues,
+                     Then would he say, that al the Romane cost
+                     Was common trash, compard to sundrie Sauce
+                     Which princes vse, to pamper Appetite.
+                  
+                  
+                     O Christal Glasse, thou settest things to shew,
+                     Which are (God knoweth) of little worth in dede.
+                  
+                  
+                     
+                     
+                         Al eyes behold, with eagre deepe desire,
+                     The Faulcon flye, the grehounde runne his course,
+                     The bayted Bul, and Beare at stately stake,
+                     These Enterluds, these newe Italian sportes,
+                     And euery gawde, that glads the minde of man:
+                     But fewe regard, their needy neighbours lacke,
+                     And fewe beholde, by contemplation,
+                     The ioyes of heauen, ne yet the paines of hel.
+                     Fewe loke to lawe, but al men gaze on lust.
+                  
+                  
+                     
+                         A swete consent, of Musicks sacred sound,
+                     Doth rayse our mindes, (as rapt) al vp on high,
+                     But sweeter soundes, of concorde, peace, and loue,
+                     Are out of tune, and iarre in euery stoppe.
+                  
+                  
+                     
+                         To tosse and turne, the sturdie trampling stede,
+                     To bridle him, and make him meete to serue,
+                     Deserues (no doubt) great commendation.
+                     But such as haue, their stables fuly fraught,
+                     VVith pampred Iades, ought therwithal to wey,
+                     VVhat great excesse, vpon them may be spent,
+                     How many pore, (which nede nor brake nor bit)
+                     
+                        
+Might therwith al, in godly wise be fedde, Deut. 
+                              ••
+                           .
+                     
+                     And kings ought not, so many horse to haue.
+                  
+                  
+                     
+                         The sumpteous house, declares the princes state,
+                     But vaine excesse, bewrayes a princes faults.
+                  
+                  
+                     
+                         Our bumbast hose, our treble double ruffes,
+                     Our sutes of Silke, our comely garded capes,
+                     Our knit silke stockes, and spanish lether shoes,
+                     (Yea veluet serues, ofttimes to trample in)
+                     Our plumes, our spangs, and al our queint aray,
+                     Are prickingspurres, prouoking filthy pride,
+                     And snares (vnseen) which leade a man to hel.
+                  
+                  
+                     
+                         How liue the Mores, which spurne at glistring perle,
+                     And scorne the costs, which we do holde so deare?
+                     How? how but wel? and weare the precious pearle
+                     Of peerlesse truth, amongst them published,
+                     (VVhich we enioy, and neuer wey the worth.)
+                     They would not then, the same (like vs) despise,
+                     VVhich (though they lacke) they liue in better wise
+                     Than we, which holde, the worthles pearle so deare.
+                  
+                  
+                     
+                        
+But glittring gold, which many yeares lay hidde,
+                     Til gredy mindes, gan search the very guts
+                     Of earth and clay, to finde out sundrie moulds
+                     (As redde and white, which are by melting made
+                     Bright gold and siluer, mettals of mischiefe)
+                     Hath now enflamde, the noblest Princes harts
+                     With foulest fire, of filthy Auarice,
+                     And seldome seene, that kings can be content
+                     To kepe their bounds, which their forefathers left:
+                     What causeth this, but greedy golde to get?
+                     Euen gold, which is, the very cause of warres,
+                     The neast of strife, and nourice of debate,
+                     The barre of heauen, and open way to hel.
+                  
+                  
+                     But is this strange? when Lords when Knights &amp; Squires
+                     (Which ought defende, the state of cōmon welth)
+                     Are not afrayd to couet like a King?
+                     O blinde desire: oh high aspiring harts.
+                     The country Squire, doth couet to be Knight, Knightes.
+                     
+                     The Knight a Lord, the Lord an Erle or a Duke,
+                     The Duke a King, the King would Monarke be,
+                     
+                        
+And none content, with that which is his own.
+                     Yet none of these, can see in Christal glasse
+                     (VVhich glistereth bright, &amp; bleares their gasing eyes)
+                     How euery life, beares with him his disease.
+                     But in my glasse, which is of trustie steele,
+                     I can perceiue, how kingdomes breede but care,
+                     How Lordship liues, with lots of lesse delight,
+                     (Though cappe and knee, do seeme a reuerence,
+                     And courtlike life, is thought an other heauen)
+                     Than common people finde in euery coast.
+                  
+                  
+                     The Gentleman, which might in countrie keepe
+                     Aplenteous boor de, and feed the fatherlesse,
+                     VVith pig and goose, with mutton, beefe and veale,
+                     (Yea now and then, a capon and a chicke)
+                     VVil breake vp house, and dwel in market townes,
+                     Aloytring life, and like an Epicure.
+                     
+                  
+                  
+                     But who (meane while) defends the cōmon welth?
+                     VVho rules the flocke, when sheperds so are fled?
+                     VVho stayes the staff, which shuld vphold the state?
+                     Forsoth good Sir, the Lawyer leapeth in,
+                     
+                        
+Nay rather leapes, both ouer hedge and ditch,
+                     And rules the rost, but fewe men rule by right.
+                  
+                  
+                     O Knights, O Squires, O Gentle blouds yborne,
+                     You were not borne, alonely for your selues:
+                     Your countrie claymes, some part of al your paines.
+                     There should you liue, and therin should you toyle,
+                     To hold vp right, and banish cruel wrong,
+                     To helpe the pore, to bridle backe the riche,
+                     To punish vice, and vertue to aduaunce,
+                     To see God servde, and Belzebub supprest.
+                     You should not trust, lieftenaunts in your rome,
+                     And let them sway, the scepter of your charge,
+                     VVhiles you (meane while) know scarcely what is don,
+                     Nor yet can yeld, accōpt if you were callde.
+                  
+                  
+                     The stately lord, which woonted was to kepe
+                     A court at home, is now come vp to courte,
+                     And leaues the country for a common prey,
+                     To pilling, polling, brybing, and deceit:
+                     (Al which his presence might haue pacified,
+                     Or else haue made offenders smel the smoke.)
+                  
+                  
+                     
+                        
+And now the youth which might haue serued him,
+                     In comely wise, with countrey clothes yclad,
+                     And yet therby bin able to preferre
+                     Vnto the prince, and there to seke aduance:
+                     Is faine to sell, his landes for courtly cloutes,
+                     Or else sits still, and liueth like a loute,
+                     (Yet of these two, the last fault is the lesse:)
+                     And so those imps which might in time haue sprong
+                     Alofte (good lord) and servde to shielde the state,
+                     Are either nipt, with such vntimely frosts,
+                     Or else growe crookt, bycause they be not proynd.
+                  
+                  
+                     These be the Knights, which shold defend the lād,
+                     And these be they, which leaue the land at large.
+                     Yet here percase, it wilbe thought I roue
+                     And runne astray, besides the kings high way,
+                     Since by the Knights, of whom my text doth tell
+                     (And such as shew, most perfect in my glasse)
+                     Is ment nomore, but worthy Souldiours
+                     Whose skilin armes, and long experience
+                     Should still vphold the pillers of the worlde.
+                     Yes out of doubt, this noble name of Knight,
+                     
+                        
+May cōprehend, both Duke, Erle, lorde, Knight, Squire,
+                     Yea gentlemen, and euery gentle borne.
+                  
+                  
+                     But if you wil, constraine me for to speake
+                     What souldiours are, or what they ought to be
+                     (And I my selfe, of that profession)
+                     I see a crew, which glister in my glasse,
+                     The brauest bande, that euer yet was sene: Souldiours
+                     
+                     Behold behold, where Pompey cōmes before,
+                     VVhere Manlius, and Marius insue,
+                     
+                        Aemilius, and Curius I see,
+                     
+                        Palamedes, and Fabius maximus,
+                     
+                     And eke their mate, Epaminondas loe,
+                     
+                        Protesilaus and Phocyan are not farre,
+                     
+                        Pericles stands, in rancke amongst the rest,
+                     
+                        Aristomenes, may not be forgot,
+                     Vnlesse the list, of good men be disgrast.
+                  
+                  
+                     Behold (my lord) these souldiours can I spie
+                     Within my glasse, within my true Steele glasse.
+                  
+                  
+                     
+                        I see not one therin, which seekes to heape
+                     
+                     
+                        
+                        A world of pence, by pinching of dead payes, 
+                        Couetous Soldiours
+                     
+                     
+                        And so beguiles, the prince in time of nede,
+                     
+                     
+                        When muster day, and foughten fielde are odde.
+                     
+                     Since Pompey did, enrich the common heaps,
+                     And Paulus he, (Aemilius surnamed)
+                     Returnde to Rome, no richer than he went,
+                     Although he had, so many lands subdued,
+                     And brought such treasure, to the cōmō chests,
+                     That fourscore yeres, the state was (after) free
+                     From greuous taske, and imposition.
+                     Yea since againe, good Marcus Curius,
+                     
+                     Thought sacriledge, himselfe for to aduaunce,
+                     And see his souldiours, pore or liue in lacke.
+                  
+                  
+                     I see not one, within this glasse of mine,
+                     Whose fethers flaunt, and flicker in the winde, Soldiours more braue thē valiaunt.
+                     
+                     As though he were, all onely to be markt,
+                     When simple snakes, which go not halfe so gay,
+                     Can leaue him yet a furlong in the field:
+                     And when the pride, of all his peacockes plumes,
+                     Is daunted downe, with dastard dreadfulnesse.
+                     And yet in towne, he ietted euery streete,
+                     
+                        
+Proud Crassus bagges, consumde by couetise,
+                     Great Alexander, drounde in drunkennesse,
+                     
+                        Caesar and Pompey, spilt with priuy grudge,
+                     
+                        Brennus beguild, with lightnesse of beliefe,
+                     
+                        Cleômenes, by ryot not regarded,
+                     
+                        Vespasian, disdayned for deceit,
+                     
+                        Demetrius, light set by for his lust,
+                     Whereby at last, he dyed in prison pent.
+                  
+                  
+                     Hereto percase, some one man will alledge,
+                     That Princes pence, are pursed vp so close,
+                     And faires do fall so seldome in a yeare,
+                     That when they come, prouision must be made
+                     To fende the frost, in hardest winter nights.
+                  
+                  
+                     Indeede I finde, within this glasse of mine,
+                     
+                        Iustinian, that proude vngrateful prince, 
+                           
+                              •
+                           ngrateful 
+                              〈◊〉
+                           .
+                     
+                     Which made to begge, bold Belisarius
+                     
+                     His trustie man, which had so stoutly fought
+                     In his defence, with evry enimy.
+                     And Scypio, condemnes the Romaine rule,
+                     Which suffred him (that had so truely serued)
+                     
+                        
+To leade pore life, at his (Lynternum) ferme,
+                     VVhich did deserue, such worthy recompence.
+                     Yea herewithal, most Souldiours of our time,
+                     Beleeue for truth, that proude Iustinian
+                     
+                     Did neuer die, without good store of heyres.
+                     And Romanes race, cannot be rooted out,
+                     Such yssewe springs, of such vnplesant budds,
+                  
+                  
+                     But shal I say? this lesson learne of me,
+                     VVhen drums are dumb, and soūd not dub a dub, VVhat euery soldiour should be in time of peace.
+                     
+                     Then be thou eke, as mewet as a mayde
+                     (I preach this sermon but to souldiours)
+                     And learne to liue, within thy bravries bounds.
+                     Let not the Mercer, pul thee by the sleeue
+                     For sutes of silke, when cloth may serue thy turne,
+                     Let not thy scores, come robbe thy needy purse,
+                     Make not the catchpol, rich by thine arrest.
+                  
+                  
+                     Art thou a Gentle? liue with gentle friendes,
+                     VVhich wil be glad, thy companie to haue,
+                     If manhoode may, with manners well agree.
+                     
+                        
+You haue forgot, my greatest glorie got.
+                     For yet (by me, nor mine occasion)
+                     VVas neuer sene, a mourning garmēt worne.
+                     O noble words, wel worthy golden writ.
+                     
+                        Beleue me (Lord) a souldiour cannot haue
+                     
+                     
+                        Too great regarde, wheron his knife should cut.
+                     
+                  
+                  
+                     Ne yet the men, which wonder at their wounds,
+                     And shewe their scarres to euery commer by, Braggers and such as boast of their vvounds.
+                     
+                     Dare once be seene, within my glasse of Steele,
+                     For so the faults, of Thraso and his trayne,
+                     (Whom Terence told, to be but bragging brutes)
+                     Might sone appeare, to euery skilful eye.
+                     
+                        Bolde Manlius, could close and wel conuey
+                     
+                     
+                        Ful thirtie wounds, (and three) vpō his head,
+                     
+                     
+                        Yet neuer made, nor bones nor bragges therof.
+                     
+                  
+                  
+                     What should I speake, of drunken Soldiours?
+                     Or lechers lewde, which fight for filthy lust? Drunken and lecherous soldiours.
+                     
+                     Of whom that one, can sit and bybbe his fil,
+                     Consume his coyne, (which might good corage yeld,
+                     To such as march, and moue at his commaunde)
+                     
+                        
+And makes himselfe, a worthy mocking stocke
+                     Which might deserue, (by sobre life) great laude.
+                     That other dotes, and driueth forth his dayes
+                     In vaine delight, and foule concupiscence,
+                     When works of weight, might occupie his hedde.
+                     Yea therwithal; he puts his owne fonde heade
+                     Vnder the belt, of such as should him serue,
+                     And so becoms, example of much euil,
+                     Which should haue servde, as lanterne of good life:
+                     And is controlde, wheras he should commaund.
+                     
+                        Augustus Caesar, he which might haue made
+                     Both feasts and banquets brauely as the best,
+                     Was yet content (in campe) with homely cates,
+                     And seldome dranke his wine vnwatered.
+                     
+                        Aristomenes, dayned to defende
+                     His dames of prize, whom he in warres had won,
+                     And rather chose, to die in their defence,
+                     Then filthy men, should foyle their chastitie.
+                     This was a wight, wel worthy fame and prayse.
+                  
+                  
+                     
+                        O Captayns come, and Souldiours come apace,
+                     
+                     
+                        Be hold my glasse, and you shall see therin,
+                     
+                     
+                        
+                        As though the god of warres (euen Mars himself)
+                     
+                     
+                        Might wel (by him) be liuely counterfayte,
+                     
+                     
+                        Though much more like, the coward Constātine.
+                     
+                        I see none such, (my Lorde) I see none such,
+                     
+                     Since Phocion, which was in deede a Mars
+                     
+                     And one which did, much more than he wold vaunt,
+                     Contented was to be but homely clad.
+                     And Marius, (whose constant hart could bide
+                     The very vaines, of his forwearied legges
+                     To be both cut, and carued from his corps)
+                     Could neuer yet, contented be to spend,
+                     One idle groate, in clothing nor in cates.
+                  
+                  
+                     
+                        I see not one, (my Lord) I see not one 
+                        Soldiours vvho (for their ovvn long continuance in seruice) do seeme to despise all other of latter 
+                              〈◊〉
+                           , and especially such as are learned.
+                     
+                     
+                        Which stands somuch, vpon his paynted sheath
+                     
+                     
+                        (Bycause he hath, perchaunce at Bolleyn bene
+                     
+                     
+                        And loytered, since then in idlenesse)
+                     
+                     
+                        That he accompts, no Soldiour but himselfe,
+                     
+                     
+                        Nor one that can, despise the learned brayne,
+                     
+                     
+                        VVhich ioyneth reading with experience.
+                     
+                     Since Palamedes, and Vlisses both,
+                     VVere much esteemed for their pollicies
+                     
+                        
+Although they were not thought long trained men.
+                     
+                        Epamynondas, eke was much esteemde
+                     VVhose Eloquence, was such in all respects,
+                     As gaue no place, vnto his manly hart.
+                     And Fabius, surnamed Maximus,
+                     
+                     Could ioyne such learning, with experience,
+                     As made his name, more famous than the rest.
+                  
+                  
+                     
+                        These bloudy beasts, apeare not in my glasse,
+                     
+                     
+                        VVhich cannot rule, their sword in furious rage, 
+                        Soldiours ouer cruel vvithout any regard.
+                     
+                     
+                        Nor haue respecte, to age nor yet to kinde:
+                     
+                     
+                        But downe goeth al, where they get vpper hand.
+                     
+                     
+                        VVhose greedy harts so hungrie are to spoyle,
+                     
+                     
+                        That few regard; the very wrath of God,
+                     
+                     
+                        VVhich greeued is, at cries of giltlesse bloud.
+                     
+                     
+                        Pericles was, a famous man of warre,
+                     And victor eke, in nine great foughten fields,
+                     VVherof he was the general in charge.
+                     Yet at his death he rather did reioyce
+                     In clemencie, than bloudy victorie.
+                     Be still (quoth he) you graue Athenians,
+                     
+                     VVho whispered, and tolde his valiant facts)
+                  
+                  
+                     
+                        
+Art thou a seruing man? then serue againe,
+                     And stint to steale as common souldiours do.
+                  
+                  
+                     Art thou a craftsman? take thee to thine arte,
+                     And cast off slouth, which loytreth in the Campes.
+                  
+                  
+                     Art thou a plowman pressed for a shift?
+                     Then learne to clout, thine old cast cobled shoes,
+                     And rather bide, at home with barly bread,
+                     Than learne to spoyle, as thou hast seene some do.
+                  
+                  
+                     Of truth (my friendes, and my companions eke)
+                     Who lust, by warres to gather lawful welth,
+                     And so to get, a right renoumed name,
+                     Must cast aside, al common trades of warre,
+                     And learne to liue, as though he knew it not.
+                  
+                  
+                     Well, thus my Knight hath held me al to long,
+                     Bycause he bare, such compasse in my glasse.
+                     High time were then, to turne my wery pen,
+                     Vnto the Peasant comming next in place.
+                     And here to write, the summe of my conceit,
+                     
+                        
+I do not meane, alonely husbandmen,
+                     Which till the ground, which dig, delve, mow, and sowe,
+                     Which swinke and sweate, whiles we do sleepe and snort
+                     And serch the guts of earth, for greedy gain,
+                     But he that labors any kind of way. Peasa
+                              •••
+                           
+                        
+                     
+                     To gather gaines, and to enrich himselfe,
+                     By King, by Knight, by holy helping Priests,
+                     And al the rest, that liue in common welth,
+                     (So that his gaines, by greedinesse be got)
+                     Him can I compt, a Peasant in his place. Strange Peasan
+                              ••
+                           
+                        
+                     
+                     Al officers, all aduocates at lawe,
+                     Al men of arte, which get goodes greedily,
+                     Must be content, to take a Peasants rome.
+                  
+                  
+                     A strange deuise, and sure my Lord wil laugh,
+                     To see it so, desgested in degrees.
+                     But he which can, in office drudge, and droy,
+                     And craue of al, (although euen now a dayes,
+                     Most officers, commaund that shuld be cravde) Officers.
+                     
+                     He that can share, from euery pention payde
+                     A Peeter peny weying halfe a pounde,
+                     He that can plucke, sir Bennet by the sleeue,
+                     
+                        
+And finde a fee, in his pluralitie,
+                     He that can winke, at any foule abuse,
+                     As long as gaines, come trouling in therwith,
+                     Shal such come see themselues in this my glasse?
+                     Or shal they gaze, as godly good men do?
+                     Yea let them come: but shal I tell you one thing?
+                     How ere their gownes, be gathred in the backe,
+                     With organe pipes, of old king Henries clampe,
+                     How ere their cappes, be folded with a flappe,
+                     How ere their beards, be clipped by the chinne,
+                     How ere they ride, or mounted are on mules,
+                     I compt them worse, thā harmeles homely hindes,
+                     Which toyle in dede, to serue our common vse.
+                  
+                  
+                     Strange tale to tel: all officers be blynde,
+                     And yet their one eye, sharpe as Linceus sight,
+                     That one eye winks, as though it were but blynd,
+                     That other pries and peekes in euery place.
+                     Come naked neede? and chance to do amisse?
+                     He shal be sure, to drinke vpon the whippe.
+                     But priuie gaine, (that bribing busie wretch)
+                     Can finde the meanes, to creepe and cowch so low,
+                     
+                        
+As officers 
+                           〈◊〉
+                         neuer see him slyde,
+                     Nor heare the trampling of his stealing steppes.
+                     He comes (I thinke,) vpon the blinde side stil.
+                  
+                  
+                     These things (my Lord) my glasse now sets to shew,
+                     Whereas long since, all officers were seene
+                     To be men made, out of another moulde.
+                     
+                        Epamynond, of whome I spake before
+                     (Which was long time, an officer in Thebes)
+                     
+                     And toylde in peace, as wel as fought in warre,
+                     VVould neuer take, or bribe, or rich reward.
+                     And thus he spake, to such as sought his helpe:
+                     If it be good, (quoth he) that you desire,
+                     Then wil I do, it for the vertues sake:
+                     If it be badde, no bribe can me infecte. There are to fevv such officers.
+                     
+                     If so it be, for this my common weale,
+                     Then am I borne, and bound by duetie both
+                     To see it done, withouten furder words.
+                     But if it be, vnprofitable thing,
+                     And might empaire, offende, or yeld anoy
+                     Vnto the state, which I pretende to stay,
+                     Then al the gold (quoth he) that growes on earth
+                     
+                        
+Shal neuer tempt, my free consent thereto.
+                  
+                  
+                     How many now, wil treade Zeleucus steps?
+                     Or who can byde, Cambyses cruel dome?
+                     Cruel? nay iust, (yea softe and peace good sir)
+                     For Iustice sleepes, and Troth is iested out.
+                  
+                  
+                     O that al kings, would (Alexander like)
+                     Hold euermore, one finger streight stretcht out,
+                     To thrust in eyes, of all their master theeues. 
+                           
+                              •
+                           alse 
+                              •
+                           udges.
+                     
+                  
+                  
+                     But Brutus died, without posteritie,
+                     And Marcus Crassus had none issue male,
+                     
+                        Cicero slipt, vnsene out of this world,
+                     With many mo, which pleaded romaine pleas,
+                     And were content, to vse their eloquence, 
+                           
+                              〈◊〉
+                           .
+                     
+                     In maintenance, of matters that were good.
+                     
+                        Demosthenes, in Athens vsde his arte,
+                     (Not for to heape, himselfe great hourds of gold,
+                     But) stil to stay, the towne from deepe deceite
+                     Of Philips wyles, which had besieged it.
+                     Where shal we reade, that any of these foure
+                     
+                        
+Did euer pleade, as carelesse of the trial?
+                     Or who can say, they builded sumpteously?
+                     Or wroong the weake, out of his own by wyles?
+                     They were (I trowe) of noble houses borne,
+                     And yet content, to vse their best deuoire,
+                     In furdering, eche honest harmelesse cause.
+                     They did not rowte (like rude vnringed swine,)
+                     To roote nobilitie from heritage.
+                     They stoode content, with gaine of glorious fame,
+                     (Bycause they had, respect to equitie)
+                     To leade a life, like true Philosophers.
+                     Of all the bristle bearded Aduocates
+                     That euer lovde their fees aboue the cause,
+                     I cannot see, (scarce one) that is so bolde
+                     To shewe his face, and fayned Phisnomie
+                     In this my glasse: but if he do (my Lorde)
+                     He shewes himselfe, to be by very kinde
+                     A man which meanes, at euery time and tide,
+                     To do smal right, but sure to take no wrong.
+                  
+                  
+                     And master Merchant, he whose trauaile ought Merc
+                              •••
+                           
+                        
+                     
+                     Commodiously, to doe his countrie good,
+                     
+                        
+And by his toyle, the same for to enriche,
+                     Can finde the meane, to make Monopolyes
+                     
+                     Of euery ware, that is accompted strange.
+                     And feeds the vaine, of courtiers vaine desires
+                     Vntil the court, haue courtiers cast at heele,
+                     Quia non habent vestes Nuptiales.
+                  
+                  
+                     O painted fooles, whose harebrainde heads must haue
+                     More clothes attones, than might become a king:
+                     For whom the rocks, in forain Realmes must spin,
+                     For whom they carde, for whom they weaue their webbes
+                     For whom no wool, appeareth fine enough,
+                     (I speake not this by english courtiers
+                     Since english wool, was euer thought most worth)
+                     For whom al seas, are tossed to and fro,
+                     For whom these purples come from Persia,
+                     
+                     The crimosine, and liuely red from Inde:
+                     
+                     For whom soft silks, do sayle from Sericane,
+                     
+                     And all queint costs, do come from fardest coasts:
+                     Whiles in meane while, that worthy Emperour, August. 9.
+                     
+                     Which rulde the world, and had all welth at wil,
+                     Could be content, to tire his wearie wife,
+                     
+                        
+His daughters and, his niepces euerychone,
+                     To spin and worke the clothes that he shuld weare,
+                     And neuer carde, for silks or sumpteous cost,
+                     For cloth of gold, or tinsel figurie,
+                     For Baudkin, broydrie, cutworks, nor conceits.
+                     He set the shippes, of merchantmen on worke,
+                     VVith bringing home, oyle, graine, and savrie salt
+                     And such like wares, as serued common vse.
+                  
+                  
+                     Yea for my life, those merchants were not woont
+                     To lend their wares, at reasonable rate,
+                     (To gaine no more, but Cento por cento,)
+                     
+                     To teach yong men, the trade to sel browne paper,
+                     Yea Morrice bells, and byllets too sometimes,
+                     To make their coyne, a net to catch yong frye.
+                     To binde such babes, in father Derbies bands,
+                     To stay their steps, by statute Staples staffe,
+                     To rule yong roysters, with Recognisance,
+                     
+                     To read Arithmeticke once euery day,
+                     In VVoodstreat, Bredstreat, and in Pultery
+                     (VVhere such schoolmaisters keepe their counting house
+                     To fede on bones, whē flesh and fell is on,
+                     
+                        
+And yet be combred with a concubine.
+                  
+                  
+                     Not one of these, wil reade the holy write
+                     Which doth forbid, all greedy vsurie,
+                     And yet receiue, a shilling for a pounde.
+                  
+                  
+                     Not one of these, wil preach of patience,
+                     And yet be found, as angry as a waspe,
+                  
+                  
+                     Not one of these, can be content to sit
+                     In Tauerns, Innes, or Alehouses all day,
+                     But spends his time, deuoutly at his booke.
+                  
+                  
+                     Not one of these, will rayle at rulers wrongs,
+                     And yet be blotted, with extortion.
+                  
+                  
+                     Not one of these, wil paint out worldly pride,
+                     And he himselfe, as gallaunt as he dare.
+                  
+                  
+                     Not one of these, rebuketh auarice,
+                     And yet procureth, proude pluralities.
+                  
+                  
+                     
+                        
+Not one of these, reproueth vanitie
+                     (Whiles he himselfe, with hauke vpon his fist
+                     And houndes at heele,) doth quite forget his text.
+                  
+                  
+                     Not one of these, corrects contentions,
+                     For trifling things: and yet will sue for tythes.
+                  
+                  
+                     Not one of these (not one of these my Lord)
+                     Wil be ashamde, to do euen as he teacheth.
+                  
+                  
+                     My priests haue learnt, to pray vnto the Lord,
+                     And yet they trust not in their lyplabour.
+                  
+                  
+                     My priests can fast, and vse al abstinence,
+                     From vice and sinne, and yet refuse no meats.
+                  
+                  
+                     My priests can giue, in charitable wise,
+                     And loue also, to do good almes dedes,
+                     Although they trust, not in their owne deserts.
+                  
+                  
+                     My priestes can place, all penaunce in the hart,
+                     VVithout regard, of outward ceremonies.
+                  
+                  
+                     
+                        
+That Phisicke, thriue not ouer fast by murder:
+                     That Numbring men, in al their euens and odds
+                     Do not forget, that only Vnitie
+                     
+                     Vnmeasurable, infinite, and one.
+                     That Geometrie, measure not so long,
+                     Til all their measures out of measure be:
+                     That Musike with, his heauenly harmonie,
+                     Do not allure, a heauenly minde from heauen,
+                     Nor set mens thoughts, in worldly melodie,
+                     Til heauenly Hierarchies be quite forgot:
+                     That Rhetorick, learne not to ouerreache:
+                     That Poetrie, presume not for to preache,
+                     And bite mens faults, with Satyres corosiues,
+                     Yet pamper vp hir owne with pultesses:
+                     Or that she dote not vppon Erato,
+                     
+                     Which should inuoke the good Caliope:
+                     
+                     That Astrologie, looke not ouer high,
+                     And light (meane while) in euery pudled pit:
+                     That Grammer grudge not at our english tong,
+                     Bycause it stands by Monosyllaba,
+                     
+                     And cannot be declind as others are.
+                     Pray thus (my priests for vniuersities.
+                     
+                        
+And if I haue forgotten any Arte,
+                     Which hath bene taught, or exercised there,
+                     Pray you to god, the good be not abusde,
+                     With glorious shewe, of ouerloding skill.
+                  
+                  
+                     Now these be past, (my priests) yet shal you pray
+                     For common people, eche in his degree,
+                     That God vouchsafe to graunt them al his grace. For the Cōinaltie
+                     
+                     Where should I now beginne to bidde my beades?
+                     Or who shal first be put in common place?
+                     My wittes be wearie, and my eyes are dymme,
+                     I cannot see who best deserues the roome,
+                     Stād forth good Peerce, thou plowmā by thyname,
+                     Yet so the Sayler saith I do him wrong:
+                     That one contends, his paines are without peare,
+                     That other saith, that none be like to his,
+                     In dede they labour both exceedingly.
+                     But since I see no shipman that can liue
+                     Without the plough, and yet I many see
+                     (Which liue by lande) that neuer sawe the seas:
+                     Therfore I say, stand forth Peerce plowman first,
+                     Thou winst the roome, by verie worthinesse.
+                  
+                  
+                     
+                        
+Behold him (priests) &amp; though he stink of sweat 
+                           
+                              〈◊〉
+                           
+                           
+                              〈◊〉
+                           
+                        
+                     
+                     Disdaine him not: for shal I tel you what?
+                     Such clime to heauen, before the shauen crownes.
+                     But how? forsooth, with true humilytie.
+                     Not that they hoord, their grain when it is cheape,
+                     Nor that they kill, the calfe to haue the milke,
+                     Nor that they set, debate betwene their lords,
+                     By earing vp the balks, that part their bounds:
+                     Nor for because, they can both crowche &amp; creep
+                     (The guilefulst men, that euer God yet made)
+                     VVhen as they meane, most mischiefe and deceite,
+                     Nor that they can, crie out on landelordes lowde,
+                     And say they racke, their rents an ace to high,
+                     VVhen they themselues, do sel their landlords lābe
+                     For greater price, then ewe was wont be worth.
+                     I see you Peerce, my glasse was lately scowrde.
+                     But for they feed, with frutes of their gret paines,
+                     Both King and Knight, and priests in cloyster pent:
+                     Therefore I say that sooner some of them
+                     Shal scale the walles which leade vs vp to heauen,
+                     Than cornfed beasts, whose bellie is their God,
+                     Although they preach, of more perfection.
+                  
+                  
+                     
+                        
+And yet (my priests) pray you to God for Peerce,
+                     
+                     As Peerce can pinch, it out for him and you.
+                     And if you haue a Paternoster spare
+                     Then shal you pray, for Saylers (God them send
+                     More mind of him, when as they come to lande,
+                     For towarde shipwracke, many men can pray)
+                     That they once learne, to speake without a lye,
+                     And meane good faith, without blaspheming othes:
+                     That they forget, to steale from euery fraight,
+                     And for to forge, false cockets, free to passe,
+                     That māners make, them giue their betters place,
+                     And vse good words, though deeds be nothing gay.
+                     But here me thinks, my priests begin to frowne,
+                     And say, that thus they shal be ouerchargde,
+                     To pray for al, which seme to do amisse:
+                     And one I heare, more saucie than the rest,
+                     VVhich asketh me, when shal our prayers end?
+                     I tel thee (priest) when shoomakers make shoes,
+                     That are wel sowed, with neuer a stitch amisse,
+                     And vse no crafte, in vttring of the same:
+                     VVhen Taylours steale, no stuffe from gentlemen,
+                     VVhen Tanners are, with Corriers wel agreede,
+                     
+                        
+And both so dresse their hydes, that we go dry:
+                     when Cutlers leaue, to sel olde rustie blades,
+                     And hide no crackes, with soder nor deceit:
+                     when tinkers make, no more holes thā they founde,
+                     when thatchers thinke, their wages worth their worke,
+                     when colliers put, no dust into their sacks,
+                     when maltemen make, vs drinke no firmentie,
+                     when Dauie Diker diggs, and dallies not,
+                     when smithes shoo horses, as they would he shod,
+                     when millers, toll not with a golden thumbe,
+                     whē bakers make, not barme beare price of wheat,
+                     when brewers put, no bagage in their beere,
+                     when butchers blowe, not ouer al their fleshe,
+                     when horsecorsers, beguile no friends with Iades,
+                     when weauers weight, is found in huswiues web.
+                     (But why dwel I, so long among these lowts?)
+                  
+                  
+                     When mercers make, more bones to swere and lye,
+                     VVhen vintners mix, no water with their wine,
+                     VVhen printers passe, none errours in their bookes,
+                     VVhen hatters vse, to bye none olde cast robes,
+                     VVhē goldsmithes get, no gains by sodred crownes,
+                     
+                        
+When vpholsters, sel fethers without dust,
+                     When pewterers, infect no Tin with leade,
+                     When drapers draw, no gaines by giuing day,
+                     When perchmentiers, put in no ferret Silke,
+                     When Surgeons heale, al wounds without delay.
+                     (Tush these are toys, but yet my glas sheweth al.)
+                  
+                  
+                     When purveyours, prouide not for themselues,
+                     VVhen Takers, take no brybes, nor vse no brags,
+                     When customers, conceale no covine vsde,
+                     VVhen Seachers see, al corners in a shippe,
+                     (And spie no pens by any sight they see)
+                     VVhen shriues do serue, al processe as they ought,
+                     VVhen baylifes strain, none other thing but strays,
+                     VVhen auditours, their counters cannot change,
+                     VVhen proude surueyours, take no parting pens,
+                     VVhen Siluer sticks not on the Tellers fingers,
+                     And when receiuers, pay as they receiue,
+                     VVhen al these folke, haue quite forgotten fraude.
+                  
+                  
+                     (Againe (my priests) a little by your leaue)
+                     VVhen Sicophants, can finde no place in courte,
+                     But are espied, for Ecchoes, as they are,
+                     
+                        
+When roysters ruffle not aboue their rule,
+                     Nor colour crafte, by swearing precious coles:
+                     When Fencers fees, are like to apes rewards,
+                     A peece of breade, and therwithal a bobbe
+                     VVhen Lays liues, not like a ladies peare,
+                     Nor vseth art, in dying of hir heare.
+                     When al these things, are ordred as they ought,
+                     And see themselues, within my glasse of steele,
+                     Euen then (my priests) may you make holyday,
+                     And pray no more but ordinarie prayers.
+                  
+                  
+                     And yet therin, I pray you (my good priests)
+                     Pray stil for me, and for my Glasse of steele
+                     That it (nor I) do any minde offend,
+                     Bycause we shew, all colours in their kinde.
+                     And pray for me, that (since my hap is such
+                     To see men so) I may perceiue myselfe.
+                     O worthy words, to ende my worthlesse verse,
+                     Pray for me Priests, I pray you pray for me.
+                  
+                  
+                     FINIS. Tam Marti, quàm Mercurio.
+               
+            
+            
+               
+                  
+                  EPILOGVS.
+                  
+                     
+                        ALas (my lord) my hast was al to hote,
+                     I shut my glasse, before you gasde your fill,
+                     And at a glimse, my seely selfe haue spied,
+                     A stranger trowpe, than any yet were sene:
+                     Beholde (my lorde) what monsters muster here,
+                     With Angels face, and harmefull helish harts,
+                     With smyling lookes, and depe deceitful thoughts,
+                     With tender skinnes, and stony cruel mindes,
+                     With stealing steppes, yet forward feete to fraude.
+                     Behold, behold, they neuer stande content,
+                     With God, with kinde, with any helpe of Arte,
+                     But curle their locks, with bodkins &amp; with braids,
+                     But dye their heare, with sundry subtill sleights,
+                     But paint and slicke, til fayrest face be foule,
+                     But bumbast, bolster, frisle, and perfume:
+                     They marre with muske, the balme which nature made,
+                     And dig for death, in dellicatest dishes.
+                     The yonger sorte, come pyping on apace,
+                     In whistles made offine enticing wood,
+                     
+                        
+Til they haue caught, the birds for whom they birded.
+                     The elder sorte, go stately stalking on,
+                     And on their backs, they beare both land and fee,
+                     Castles and Towres, revenewes and receits,
+                     Lordships, and manours, fines, yea fermes and al.
+                     What should these be? (speake you my louely lord)
+                     They be not men: for why? they haue no beards.
+                     They be no boyes, which weare such side lōg gowns.
+                     They be no Gods, for al their gallant glosse.
+                     They be no diuels, (I trow) which seme so saintish.
+                     What be they? women? masking in mens weedes?
+                     With dutchkin dublets, and with Ierkins iaggde?
+                     With Spanish spangs, and ruffes fet out of France,
+                     With high copt hattes, and fethers flaunt a flaunt?
+                     They be so sure euen VVo to Men in dede.
+                     Nay then (my lorde) let shut the glasse apace,
+                     High time it were, for my pore Muse to winke,
+                     Since al the hands, al paper, pen, and inke,
+                     Which euer yet, this wretched world possest,
+                     Cannot describe, this Sex in colours dewe,
+                     No no (my Lorde) we gased haue inough,
+                     (And I too much, God pardon me therfore)
+                     
+                        
+Better loke of, than loke an ace to farre:
+                     And better mumme, than meddle ouermuch.
+                     But if my Glasse, do like my louely lorde,
+                     VVe wil espie, some sunny Sommers day,
+                     To loke againe, and see some semely sights.
+                     Meane while, my Muse, right hūbly doth besech,
+                     That my good lorde, accept this ventrous verse,
+                     Vntil my braines, may better stuffe deuise.
+                  
+                  
+                     FINIS: Tam Marti, quàm Mercurio.
+               
+            
+         
+         
+            
+               
+                  
+                  
+                     
+The complaynt of Phylomene. An Elegye compyled by George Gascoigne Esquire.
+                  
+                     Tam Marti, quàm Mercurio.
+                  
+                  IMPRINTED AT London by Henrie Binneman, for Richarde Smith.
+                  
+                     Anno Domini 1576.
+               
+               
+                  
+                  
+                  To the right honorable, my singuler good Lord, the L. Gray of Wilton, Knight of the most noble order of the Garter.
+                  
+                     RYght noble, when I had determined with myself to write the Satire before recited (called the Steele Glasse) and had in myne Exordium (by allegorie) compared my case to that of fayre Phylomene, abused by the bloudy king hir brother by lawe: I called to minde that twelue or thirtene yeares past, I had begonne an Elegye or sorrowefull song, called the Complainte of Phylomene, the which I began too deuise riding by the high way betwene Chelmisford and London, and being ouertaken with a sodaine dash of Raine, I changed my copy, and stroke ouer into the Deprofundis which is placed amongst my other Poesies, leuing the cōplaint of Phylomene vnfinished: and so it hath continued euer since
+
+vntil this present moneth of April. 1575. whē I begonne my Steele Glasse. And bycause I haue in mine Exordium to the Steele Glasse, begonne with the Nightingales notes: therfore I haue not thought amisse now to finish &amp; pece vp the saide Cōplaint of Philomene, obseruing neuerthelesse the same determinate inuention which I had propounded and begonne (as is saide) twelue yeeres nowe past. The which I presume with the rest to present vnto your honor, nothing doubting but the same wil accept my good entente therin. And I furder beseche that your lordship wil voutsafe in reading ther of, to gesse (by change of style) where the renewing of the verse may bee most apparantly thought to begin. I wil no furder trouble your honor with these rude lines, but besech of the almightie long to preserue you to his pleasure. From my pore house in VValkamstowe the sixtenth of April 1575.
+                  
+                     Your L. bounden and most assured George Gascoigne.
+                  
+               
+            
+            
+               
+                  
+                  PHILOMENE.
+                  
+                     
+                        IN sweet April, the messēger to May
+                     When hoonie drops, do melt in golden showres,
+                     When euery byrde, records hir louers lay,
+                     And westerne windes, do foster forth our floures,
+                     Late in an euen, I walked out alone,
+                     To heare the descant of the Nightingale,
+                     And as I stoode, I heard hir make great moane,
+                     Waymenting much, and thus she tolde hir tale.
+                  
+                  
+                     These thriftles birds (quoth she) which spend the day,
+                     In nedlesse notes, and chaunt withouten skil,
+                     Are costly kept, and finely fedde alway
+                     With daintie foode, wherof they feede theirfil.
+                     But I which spend, the darke and dreadful night,
+                     In watch &amp; ward, whē those birds take their rest,
+                     Forpine my selfe, that Louers might delight,
+                     To heare the notes, which breake out of my breste.
+                     I leade a life, to please the Louers minde,
+                     
+                        
+(And though god wot, my foode be light of charge,
+                     Yet seely soule, that can no fauour finde)
+                     I begge my breade, and seke for seedes at large.
+                     The Throstle she, which makes the wood to ring
+                     With shryching lowde, that loth some is to heare,
+                     Is costly kept, in cage: (O wondrous thing)
+                     The Mauis eke, whose notes are nothing cleare,
+                     Now in good sooth (quoth she) sometimes I wepe
+                     To see Tom Tyttimouse, so much set by.
+                     The Finche, which singeth neuer a note but peepe,
+                     Is fedde aswel, nay better farre than I.
+                     The Lennet and the Larke, they sing alofte,
+                     And coumpted are, as Lordes in high degree.
+                     The Brandlet saith, for singing sweete and softe,
+                     (In hir conceit) there is none such as she.
+                     Canara byrds, come in to beare the bell,
+                     And Goldfinches, do hope to get the gole:
+                     The tatling Awbe doth please some fancie wel,
+                     And some like best, the byrde as Blacke as cole.
+                     And yet could I, if so it were my minde,
+                     For harmony, set al these babes to schole,
+                     And sing such notes, as might in euery kinde
+                     
+                        
+Disgrace them quight, &amp; make their corage coole.
+                     But should I so? no no so wil I not.
+                     Let brutish beasts, heare such brute birds as those.
+                     (For like to like, the prouer be saith I wot)
+                     And should I then, my cunning skil disclose?
+                     For such vnkinde, as let the cukowe flye,
+                     To sucke mine eggs, whiles I sit in the thicke?
+                     And rather praise, the chattring of a pye,
+                     Than hir that sings, with brest against a pricke?
+                     Nay let them go, to marke the cuckowes talke,
+                     The iangling Iay, for that becomes them wel.
+                     And in the silent night then let them walke,
+                     To heare the Owle, how she doth shryche and yel.
+                     And from henceforth, I wil no more constraine
+                     My pleasant voice, to sounde, at their request.
+                     But shrowd my selfe, in darke some night &amp; raine,
+                     And learne to cowche, ful close vpon my neast.
+                     Yet if I chaunce, at any time (percase)
+                     To sing a note, or twaine for my disporte,
+                     It shalbe done, in some such secret place,
+                     That fewe or none, may ther vnto resorte.
+                     These flatterers, (in loue) which falshood meane,
+                     
+                        
+Not once aproch, to heare my pleasant song.
+                     But such as true, and sted fast louers bene,
+                     Let them come neare, for else they do me wrong.
+                     And as I gesse, not many miles from hence,
+                     There stands a squire, with pangs of sorrow prest,
+                     For whom I dare, auowe (in his defence)
+                     He is as true, (in Loue) as is the best.
+                  
+                  
+                     Him wil I cheare, with chaunting al this night:
+                     And with that word, she gan to cleare hir throate.
+                     But such a liuely song (now by this light)
+                     Yet neuer hearde I such another note.
+                     It was (thought me) so pleasant and so plaine,
+                     
+                        Orphaeus harpe, was neuer halfe so sweete,
+                     
+                        Tereu, Tereu, and thus she gan to plaine,
+                     Most piteously, which made my hart to greeue,
+                  
+                  
+                     Hir second note, was fy, fy, fy, fy, fy,
+                     
+                     And that she did, in pleasant wise repeate,
+                     With sweete reports, of heauenly harmonie,
+                     But yet it seemd, hir gripes of griefe were greate.
+                     For when she had, so soong and taken breath,
+                     Then should you heare, hir heauy hart so throbbe,
+                     
+                        
+As though it had bene, ouercome with death,
+                     And yet alwayes, in euery sigh and sobbe,
+                  
+                  
+                     She shewed great skil, for tunes of vnisone,
+                     Hir Iug, Iug, Iug, (in griefe) had such a grace.
+                     Then stinted she, as if hir song were done.
+                     And ere that past, not ful a furlong space,
+                     She gan againe, in melodie to melt,
+                     And many a note, she warbled wondrous wel.
+                     Yet can I not (although my hart should swelt)
+                     Remember al, which hir sweete tong did tel.
+                  
+                  
+                     But one strange note, I noted with the rest
+                     And that saide thus: Nêmesis, Némesis,
+                     
+                     The which me thought, came boldly fro hir brest,
+                     As though she blamde, (therby) some thing amisse.
+                  
+                  
+                     Short tale to make, hir singing sounded so,
+                     And pleasde mine eares, with such varietie,
+                     That (quite forgetting all the wearie wo,
+                     Which I my selfe felt in my fantasie)
+                     I stoode astonyed, and yet therwith content,
+                     Wishing in hart that (since I might aduance,
+                     Of al hir speech to knowe the plaine entent,
+                     
+                        
+Which grace hirselfe, or else the Gods did graunt)
+                     I might therwith, one furder fauor craue,
+                     To vnderstand, what hir swete notes might meane.
+                     And in that thought, (my whole desire to haue)
+                     I fell on sleepe, as I on staffe did leane.
+                     And in my slomber, had I such a sight,
+                     As yet to thinke theron doth glad my minde.
+                     Me thought I sawe a derling of delight,
+                     A stately Nimph, a dame of heauenly kinde.
+                     Whose glittring gite, so glimsed in mine eyes,
+                     As (yet) I not, what proper hew it bare,
+                     Ne therewithal, my wits can weldeuise,
+                     To whom I might hir louely lookes compare.
+                     But trueth to tel, (for al hir smyling cheere)
+                     She cast sometimes, a grieuous frowning glance,
+                     As who would say: by this it may appeare,
+                     That Iust reuenge, is Prest for euery chance,
+                     
+                     In hir right hand, (which to and fro did shake)
+                     She bare a skourge, with many a knottie string,
+                     And in hir left, a snaffle Bit or brake,
+                     Bebost with gold, and many a gingling ring:
+                     She came apace, and stately did she stay,
+                     
+                        
+And whiles I seemd, amazed very much,
+                     The courteous dame, these words to me did say:
+                     Sir Squire (quoth she) since thy desire is such,
+                     To vnderstande, the notes of Phylomene,
+                     
+                     (For so she hight, whom thou calst Nightingale)
+                     And what the sounde, of euery note might meane,
+                     Giue eare a while, and hearken to my tale.
+                  
+                  
+                     The Gods are good, they heare the harty prayers,
+                     Of such as craue without a craftie wil,
+                     With fauor eke, they furder such affaires,
+                     As tende to good, and meane to do none il.
+                     And since thy words, were grounded on desire,
+                     Wherby much good, and little harme can growe,
+                     They graunted haue, the thing thou didst require,
+                     And louingly, haue sent me here by lowe,
+                     To paraphrase, the piteous pleasant notes,
+                     Which Phylomene, doth darkely spend in spring,
+                     For he that wel, Dan Nasoes verses notes,
+                     Shal finde my words to be no fained thing.
+                     Giue eare (sir Squire quoth she) and I wil, tel
+                     Both what she was, and how hir fortunes fel.
+                  
+                  
+                     
+                     The fable of Philomela.
+                     
+                        
+                           IN Athens reignde somtimes,
+                        A king of worthy fame,
+                        VVho kept in courte a stately traine,
+                        
+                           Pandyon was his name.
+                     
+                     
+                        And had the Gods him giuen,
+                        No holly breade of happe,
+                        (I meane such fruts as make mē thinke
+                        They lye in fortunes lappe)
+                     
+                     
+                        Then had his golden giftes,
+                        Lyen dead with him in toombe,
+                        Ne but himselfe had none endurde,
+                        The daunger of his doome.
+                     
+                     
+                        But smyling lucke, bewitcht,
+                        This peerelesse Prince to thinke,
+                        That poyson cannot be conueyde
+                        In draughts of pleasant drinke.
+                     
+                     
+                        
+                           
+And kinde became so kind,
+                        That he two daughters had,
+                        Of bewtie such &amp; so well giuen,
+                        As made their father gladde.
+                     
+                     
+                        See: see: how highest harmes,
+                        Do lurke in ripest Ioyes,
+                        How couertly doth sorow shrowde,
+                        In trymmest worldely toyes.
+                     
+                     
+                        These iewels of his ioy,
+                        Became his cause of care,
+                        And bewtie was the guileful bayte,
+                        VVhich caught their liues in Snare.
+                     
+                     
+                        For Tereus Lord of Thrace,
+                        
+                        Bycause he came of kings,
+                        (So: weddings made for worldli welth
+                        Do seme triumphant things)
+                     
+                     
+                        VVas thought a worthy matche,
+                        
+                           Pandyons heire to wedde:
+                        
+                           
+VVhose eldest daughter chosen was,
+                        To serue this king in bedde.
+                     
+                     
+                        That virgine Progne hight,
+                        And she by whom I meane,
+                        To tell this woful Tragedie,
+                        
+                        VVas called Phylomene.
+                        
+                     
+                     
+                        ¶ The wedding rytes performde,
+                        The feasting done and past,
+                        
+                           To Thrace with his new wedded spouse
+                        He turneth at the last.
+                     
+                     
+                        VVhere many dayes in mirth,
+                        And iolytie they spent,
+                        Both satisfied with deepe delight,
+                        And cloyde with al content.
+                     
+                     
+                        ¶ At last the dame desirde
+                        Hir sister for to see,
+                        Such coles of kindely loue did seme
+                        VVithin hir brest to be.
+                     
+                     
+                        
+                           
+She praies hir Lorde, of grace,
+                        He graunts to hir request,
+                        And hoist vp saile, to seke the coaste,
+                        VVhere Phylomene doth rest.
+                     
+                     
+                        He past the foming seas,
+                        And findes the pleasant porte,
+                        Of Athens towne, which guided him
+                        To King Pandyons court.
+                     
+                     
+                        There: (louingly receivde,
+                        And) welcomde by the king,
+                        He shewde the cause, which thither then
+                        Did his ambassade bring.
+                     
+                     
+                        His father him embrast,
+                        His sister kist his cheeke,
+                        
+                           
+                              〈◊〉
+                            al the court his comming was
+                        Reioyst of euerie Greeke.
+                     
+                     
+                        Oh see the sweete deceit,
+                        Which blindeth worldly wits.
+                        
+                           
+How common peoples loue by lumpes,
+                        And fancie comes by fits.
+                     
+                     
+                        The foe in friendly wise,
+                        Is many times embraste,
+                        And he which meanes most faith &amp; troth
+                        By grudging is disgrast.
+                     
+                     
+                        ¶ Faire Phylomene came forth
+                        In comely garments cladde,
+                        As one whom newes of sisters helth
+                        Had moued to be gladde,
+                     
+                     
+                        Or womans wil (perhappes)
+                        Enflamde hir haughtie harte,
+                        To get more grace by crūmes of cost,
+                        And princke it out hir parte.
+                     
+                     
+                        VVhom he no sooner sawe
+                        (I meane this Thracian prince)
+                        But streight therwith his fancies fume
+                        All reason did conuince.
+                     
+                     
+                        
+                           
+And as the blazing bronde,
+                        Might kindle rotten reeds:
+                        Euen so hir looke a secret flame,
+                        VVithin his bosome breedes.
+                     
+                     
+                        He thinkes alley sure long
+                        Til he (with hir) were gone,
+                        And hir he makes to moue the mirth,
+                        VVhich after made hir mone.
+                     
+                     
+                        Loue made him eloquent
+                        And if he cravde too much,
+                        He then excusde him selfe, and saide
+                        That Prognes words were such.
+                     
+                     
+                        His teares confirmed all
+                        Teares: like to sisters teares,
+                        As who shuld say by these fewe drops
+                        Thy sisters griefe appeares.
+                     
+                     
+                        So finely could he saine,
+                        Thàt wickednesse seemde wit,
+                        
+                           
+And by the lawde of his pretence,
+                        His lewdnesse was acquit.
+                     
+                     
+                        Yea Phylomene set forth
+                        The force of his request,
+                        And cravde (with sighes) hir fathers leaue
+                        To be hirsisters guest.
+                     
+                     
+                        And hoong about his necke
+                        And collingly him kist,
+                        And for hir welth did seke the woe
+                        VVherof she little wist.
+                     
+                     
+                        Meane while stoode Tereus,
+                        
+                        Beholding their affectes,
+                        And made those pricks (for his desire)
+                        A spurre in al respects.
+                     
+                     
+                        And wisht himselfe hir sire,
+                        VVhen she hir sire embrast,
+                        For neither kith nor kin could then
+                        Haue made his meaning chast.
+                     
+                     
+                        
+                           
+¶ The Grecian king had not
+                        The powre for to denay,
+                        His own deare child, &amp; sonne in lawe
+                        The thing that both did pray.
+                     
+                     
+                        And downe his daughter falles,
+                        To thanke him on hir knee,
+                        Supposing that for good successe,
+                        VVhich hardest happe must be.
+                     
+                     
+                        But (least my tale seeme long,)
+                        Their shipping is preparde:
+                        And to the shore this aged Greeke,
+                        Ful princely did them guard.
+                     
+                     
+                        There (melting into mone)
+                        He vsde this parting speech:
+                        Daughter (quoth he) you haue desire
+                        Your sisters court to seech.
+                     
+                     
+                        Your sister seemes like wise,
+                        Your companie to craue,
+                        
+                           
+That craue you both, &amp; Tereus here
+                        The selfe same thing would haue.
+                     
+                     
+                        Ne coulde I more withstande
+                        So many deepe desires,
+                        But this (quoth he) remember al)
+                        Your father you requires,
+                     
+                     
+                        And thee (my sonne of Thrace,)
+                        
+                        I constantly coniure,
+                        By faith, by kin, by men, by gods,
+                        And al that seemeth sure,
+                     
+                     
+                        That father like, thou fende
+                        My daughter deare from scathe,
+                        And (since I counte al leasure long)
+                        Returne hir to me rathe.
+                     
+                     
+                        And thou my Phylomene,
+                        
+                        (Quoth he) come soone againe,
+                        Thy sisters absence puts thy syre,
+                        To too much priuie paine,
+                     
+                     
+                        
+                           
+Herewith he kist hir cheeke,
+                        And sent a second kisse
+                        For Prognes part: and (bathde with teares)
+                        His daughter doth he blisse.
+                     
+                     
+                        And tooke the Thracyans hand,
+                        For token of his truth,
+                        VVho rather laught his teares to scorn,
+                        Than wept with him for ruth.
+                     
+                     
+                        The sayles are fully spredde,
+                        And winds did serue at will,
+                        And forth this traitour king conueies
+                        His praie in prison still.
+                     
+                     
+                        Ne could the Barbrous bloud,
+                        Conceale his filthy fyre,
+                        
+                           Hey: Victorie (quoth he) my shippe
+                        Is fraught with my desire.
+                     
+                     
+                        VVherewith he fixt his eyes,
+                        Vppon hir fearefull face.
+                        
+                           
+And stil behelde hir gestures all,
+                        And all hir gleames of grace.
+                     
+                     
+                        Ne could he loke a side,
+                        But like the cruel catte
+                        VVhich gloating casteth many a glāc
+                        Vpon the selly ratte.
+                     
+                     
+                        ¶VVhy hold I long discourse?
+                        They now are come on lande,
+                        And forth of ship the feareful wenche
+                        He leadeth by the hande
+                     
+                     
+                        Vnto a selly shrowde,
+                        A sheepecote closely builte
+                        Amid the woodds, where many a lāb
+                        Their guiltlesse bloud had spilte,
+                     
+                     
+                        There (like a lambe,) she stoode,
+                        And askte with trimbling voice,
+                        VVhere Progne was, whose only sight
+                        Might make hir to reioyce.
+                     
+                     
+                        
+                           
+VVherewith this caytife king
+                        His lust in lewdnesse lapt,
+                        And with his filthy fraude ful fast
+                        This simple mayde entrapt.
+                     
+                     
+                        And forth he floong the raines,
+                        Vnbridling blinde desire,
+                        And ment of hir chast minde to make
+                        A fewel for his fire.
+                     
+                     
+                        And al alone (alone)
+                        VVith force he hir supprest,
+                        And made hir yelde the wicked weede
+                        VVhose flowre he liked best.
+                     
+                     
+                        What could the virgine doe?
+                        She could not runne away,
+                        Whose forward feete, his harmfull hands
+                        With furious force did stay.
+                     
+                     
+                        Ahlas what should she fight?
+                        Fewe women win by fight:
+                        
+                           
+Hir weapōs were but weake (god knows)
+                        And he was much of might.
+                     
+                     
+                        It booted not to crie,
+                        Since helpe was none at hande,
+                        And stil before hir feareful face,
+                        Hir cruel foe did stande.
+                     
+                     
+                        And yet she (weping) cride,
+                        Vppon hir sisters name,
+                        Hir fathers, and hir brothers (oh)
+                        Whose facte did foyle hir fame.
+                     
+                     
+                        And on the Gods she calde,
+                        For helpe in hir distresse,
+                        But al in vaine: he wrought his wil,
+                        Whose lust was not the lesse.
+                     
+                     
+                        ¶The filthie fact once done,
+                        He gaue hir leaue to greete.
+                        And there she sat much like a birde,
+                        New scapte from falcons feete,
+                     
+                     
+                        
+                           
+VVhose blood embrues hir selfe,
+                        And sitts in sorie plight,
+                        Ne dare she proine hir plumes again,
+                        But feares a second flight.
+                     
+                     
+                        At last when hart came home,
+                        Discheveld as she sate,
+                        VVith hands vphelde, she tried hir tongue,
+                        To wreake hir woful fate.
+                     
+                     
+                        O Barbrous Greeke (quoth she)
+                        By Barbrous deeds disgrast,
+                        Coulde no kinde coale, nor pitties sparke,
+                        Within thy brest be plaste?
+                     
+                     
+                        Could not my fathers hests,
+                        Nor my most ruthful teares,
+                        My maydenhoode, nor thine owne yoke,
+                        Affright thy minde with feares?
+                     
+                     
+                        Could not my sisters loue
+                        Once quench thy filthy lust?
+                        
+                           
+Thou foilst vs al, and eke thy selfe,
+                        We griev'd, and thou vniust.
+                     
+                     
+                        By thee I haue defilde
+                        My dearest sisters bedde
+                        By thee I compt the life but lost,
+                        Which too too long I ledde.
+                     
+                     
+                        By thee (thou Bigamus)
+                        
+                        Our fathers griefe must growe,
+                        Who daughters twain, (&amp; two too much)
+                        Vppon thee did bestowe.
+                     
+                     
+                        But since my faulte, thy facte,
+                        My fathers iust offence,
+                        My sisters wrong, with my reproche,
+                        I cannot so dispence.
+                     
+                     
+                        If any Gods be good
+                        If right in heauen do raigne,
+                        If right or wrong may make reuenge,
+                        Thou shalt be paide againe.
+                     
+                     
+                        
+                           
+And (wicked) doe thy wurst,
+                        Thou canst no more but kil:
+                        And oh that death (before this gilte)
+                        Had ouercome my will.
+                     
+                     
+                        Then might my soule beneath,
+                        Haue triumpht yet and saide,
+                        That though I died discontent,
+                        I livde and dide a mayde.
+                     
+                     
+                        ¶Herewith hir swelling sobbes,
+                        Did tie hir tong from talke,
+                        Whiles yet the Thraciā tyrant (there)
+                        To heare these words did walke.
+                     
+                     
+                        And skornefully he cast
+                        At hir a frowning glaunce,
+                        VVhich made the mayde tostriue for spech,
+                        And stertling from hir traunce,
+                     
+                     
+                        ¶I wil reuenge (quoth she)
+                        For here I shake off shame,
+                        
+                           
+And wil (my selfe) bewray this facte
+                        Therby to foile thy fame.
+                     
+                     
+                        A midde the thickest throngs
+                        (If I haue leaue to go)
+                        I will pronounce this bloudie deede,
+                        And blotte thine honor so.
+                     
+                     
+                        If I in deserts dwel,
+                        The woods, my words shal heare,
+                        The holts, the hilles, the craggie rocks,
+                        Shall witnesse with me beare.
+                     
+                     
+                        I wil so fil the ayre
+                        With noyse of this thine acte,
+                        That gods and men in heauen and earth
+                        Shal note thy naughtie facte.
+                     
+                     
+                        ¶ These words amazde the king.
+                        Conscience with choller straue.
+                        But rage so rackte his restles thought,
+                        That now he gan to raue.
+                     
+                     
+                        
+                           
+And from his sheath a knife
+                        Ful despratly he drawes,
+                        VVherwith he cut the guiltlesse tong
+                        Out of hir tender iawes.
+                     
+                     
+                        The tong that rubde his gall,
+                        The tong that tolde but truthe,
+                        The tong that movde him to be mad,
+                        And should haue moued ruth.
+                     
+                     
+                        And from his hand with spight
+                        This trustie tongue he cast,
+                        VVhose roote, and it (to wreake this wrōg
+                        Did wagge yet wondrous fast.
+                     
+                     
+                        So stirres the serpents taile
+                        VVhen it is cut in twaine,
+                        And so it seemes that weakest willes,
+                        (By words) would ease their paine.
+                     
+                     
+                        I blush to tell this tale,
+                        But sure best books say this:
+                        
+                           
+That yet the butcher did not blush
+                        Hir bloudy mouth to kisse.
+                     
+                     
+                        And ofte hir bulke embrast,
+                        And ofter quencht the fire,
+                        VVhich kindled had the furnace first,
+                        Within his soule desire.
+                     
+                     
+                        Not herewithal content,
+                        To Progne home he came,
+                        VVho askt him streight of Philomene:
+                        
+                        He (fayning griefe for game,)
+                     
+                     
+                        Brust out in bitter teares,
+                        And sayde the dame was dead,
+                        And falsly tolde, what wery life
+                        Hir father (for hir) ledde.
+                     
+                     
+                        The Thracian Queene cast off
+                        Hir gold, and gorgeous weede,
+                        And drest in dole, bewailde hir death
+                        VVhom she thought dead in deede.
+                     
+                     
+                        
+                           
+                           A sepulchre she builds
+                        (But for a liuing corse,)
+                        And praide the gods on sisters soule
+                        To take a iust remorse:
+                     
+                     
+                        And offred sacrifice,
+                        To all the powers aboue.
+                        Ah traiterous Thracian Tereus,
+                        
+                        This was true force of loue.
+                     
+                     
+                        ¶ The heauens had whirld aboute
+                        Twelue yeeres in order due
+                        And twelue times euery flowre and plant,
+                        Their liueries did renew,
+                     
+                     
+                        VVhiles Philomene full close
+                        In shepcote stil was clapt,
+                        Enforst to bide by stonie walles
+                        VVhich fast (in hold) hir hapt.
+                     
+                     
+                        And as those walles forbadde
+                        Hir feete by flight to scape,
+                        
+                           
+So was hir tong (by knife) restrainde,
+                        For to reueale this rape
+                     
+                     
+                        No remedie remaynde,
+                        But onely womans witte,
+                        VVhich sodainly in queintest chance
+                        Can best it selfe acquit.
+                     
+                     
+                        And Miserie (amongst)
+                        Tenne thousand mischieues moe,
+                        Learnes pollicie in practises,
+                        As proofe makes men to knowe.
+                     
+                     
+                        VVith curious needle worke,
+                        A garment gan she make,
+                        Wherin she wrote what bale she bode,
+                        And al for bewties sake.
+                     
+                     
+                        This garment gan she giue
+                        To trustie Seruants hande,
+                        VVho streight cō
+                           
+                              ••
+                           id it to the queen
+                        Of Thracian Tirants lande.
+                     
+                     
+                        
+                           
+VVhen Progne red the writ,
+                        (A wondrous tale to tell)
+                        She kept it close: though malice made
+                        Hir venging hart to swell.
+                     
+                     
+                        And did deferre the deede,
+                        Til time and place might serue,
+                        But in hir minde a sharpe reuenge,
+                        She fully did reserue.
+                     
+                     
+                        O silence seldome seene,
+                        That women counsell keepe,
+                        The cause was this, she wakt hir wits
+                        And lullde hir tong on sleepe.
+                     
+                     
+                        I speake against my sex,
+                        So haue I done before,
+                        But truth is truth, and muste be tolde
+                        Though daunger keepe the dore.
+                     
+                     
+                        The thirde yeres rytes renewed,
+                        VVhich Bacchus to belong,
+                        
+                           
+And in that night the queene prepares
+                        Reuenge for al hir wrong.
+                     
+                     
+                        She (girt in Bacchus gite)
+                        VVith sworde hir selfe doth arme,
+                        VVith wreathes of vines about hir browes
+                        And many a needles charme.
+                     
+                     
+                        And forth in furie flings,
+                        Hir handmaides following fast,
+                        Vntil with hastie steppes she founde
+                        The shepecote at the last,
+                     
+                     
+                        There howling out aloude,
+                        As Bacchus priests do crie,
+                        She brake the dores, and found the place
+                        VVhere Philomene did lye.
+                     
+                     
+                        And toke hir out by force,
+                        And drest hir Bacchus like,
+                        And hid hir face with boughes and leaues
+                        (For being knowen by like.)
+                     
+                     
+                        
+                           
+And brought hir to hir house,
+                        But when the wretch it knewe,
+                        That now againe she was so neere
+                        To Tereus vntrue.
+                     
+                     
+                        She trembled est for dreade,
+                        And lookt like ashes pale.
+                        But Progne (now in priuie place)
+                        Set silence al to sale,
+                     
+                     
+                        And tooke the garments off,
+                        Discouering first hir face,
+                        And sister like did louingly
+                        Faire Phylomene embrace.
+                     
+                     
+                        There she (by shame abasht)
+                        Held downe hir weeping eyes,
+                        As who should say: Thy right (by me)
+                        
+                        Is refte in wrongful wise.
+                     
+                     
+                        And down on ground she falles,
+                        VVhich ground she kist hir fill,
+                        
+                           
+As witnesse that the filthie facte
+                        VVas done against hir wil.
+                     
+                     
+                        And cast hir hands to heauen,
+                        In steede of tong to tell,
+                        VVhat violence the lecher vsde,
+                        And howe hee did hir quell.
+                     
+                     
+                        VVherewith the Queene brake off
+                        Hir piteous pearcing plainte,
+                        And sware with sworde (no teares) to venge
+                        The crafte of this constrainte.
+                     
+                     
+                        Or if (quoth she) there bee
+                        Some other meane more sure,
+                        More stearne, more stoute, than naked sword
+                        Some mischiefe to procure,
+                     
+                     
+                        I sweare by al the Gods,
+                        I shall the same embrace,
+                        To wreake this wrong with bloudie hande
+                        Vppon the king of Thrace.
+                        
+                     
+                     
+                        
+                           
+Ne will I spare to spende
+                        My life in sisters cause,
+                        In sisters? ah what saide I wretch?
+                        My wrong shall lende me lawes.
+                     
+                     
+                        I wil the pallace burne,
+                        VVith al the princes pelfe,
+                        And in the midst of flaming fire,
+                        VVil caste the king him selfe.
+                     
+                     
+                        I wil scrat out those eyes,
+                        That taught him first to lust,
+                        Or teare his tong from traitors throte,
+                        Oh that reuenge were iust.
+                     
+                     
+                        Or let me carue with knife,
+                        The wicked Instrument,
+                        VVherewith he, thee, and me abusde
+                        (I am to mischiefe bent.)
+                     
+                     
+                        Or sleeping let me seeke
+                        To sende the soule to hel,
+                        
+                           
+VVhose barbarous bones for filthy force,
+                        Did seeme to beare the bel.
+                     
+                     
+                        ¶ These words and more in rage
+                        Pronounced by this dame,
+                        Hir little sonne came leaping in
+                        VVhich Itis had to name.
+                     
+                     
+                        VVhose presence, could not please
+                        For (vewing well his face,)
+                        Ah wretch (quoth she) how like he groweth
+                        Vnto his fathers grace.
+                     
+                     
+                        And therwithal resolvde
+                        
+                           A rare reuenge in deede
+                        VVheron to thinke (withoutē words)
+                        My woful hart doth bleede.
+                     
+                     
+                        But when the lad lokt vp;
+                        And cheerefully did smile,
+                        And hung about his mothers necke
+                        VVith easie weight there while,
+                     
+                     
+                        
+                           
+And kist (as children vse)
+                        His angrie mothers cheeke,
+                        Hir minde was movde to much remorce
+                        And mad became ful meeke.
+                     
+                     
+                        Ne could she teares refrayne,
+                        But wept against hir will,
+                        Such tender rewth of innocence,
+                        Hir cruell moode did kill.
+                     
+                     
+                        At last (so furie wrought)
+                        VVithin hir brest she felt,
+                        That too much pitie made hir minde
+                        Too womanlike to melt,
+                     
+                     
+                        And saw hir sister sit,
+                        VVith heauy harte and cheere,
+                        And now on hir, and then on him,
+                        Full lowringly did leare,
+                     
+                     
+                        Into these words she brust
+                        (Quoth she) why flatters he?
+                        
+                           
+And why againe (with tong cut out)
+                        So sadly sitteth shee?
+                     
+                     
+                        He, mother, mother calles,
+                        She sister cannot say,
+                        That one in earnest doth lament,
+                        That other whines in plaie.
+                     
+                     
+                        
+                           Pandions line (quoth she)
+                        Remember stil your race,
+                        And neuer marke the subtil shewes
+                        Of any Soule in Thrace.
+                        
+                     
+                     
+                        You should degenerate,
+                        I fright reuenge you slake,
+                        More right reuenge can neuer bee,
+                        Than this reuenge to make.
+                     
+                     
+                        Al ill that may be thought,
+                        Al mischiefe vnder skies,
+                        VVere pietie compard to that
+                        VVhich Tereus did deuise.
+                     
+                     
+                        
+                           
+¶ She holds no longer hande,
+                        But (Tygrelike) she toke
+                        The little boy ful boistrously
+                        VVho now for terror quooke
+                     
+                     
+                        Aud (crauing mothers helpe,)
+                        She (mother) toke a blade,
+                        And in hir sonnes smal tender hart
+                        An open wound she made.
+                     
+                     
+                        The cruel dede dispatcht,
+                        Betwene the sisters twaine
+                        They tore in peces quarterly
+                        The corps which they had slaine.
+                     
+                     
+                        Some part, they hoong on hooks,
+                        The rest they laide to fire,
+                        And on the table caused it,
+                        Be set before the sire.
+                     
+                     
+                        And counterfaite a cause
+                        (As Grecians order then)
+                        
+                           
+That at such feasts (but onely one)
+                        They might abide no men.
+                     
+                     
+                        He knowing not their crafte,
+                        Sat downe alone to eate,
+                        And hungerly his owne warme bloud
+                        Deuoured there for meate.
+                     
+                     
+                        His ouersight was such,
+                        That he for It is sent,
+                        VVhose murdered members in his mawe,
+                        He priuily had pent.
+                     
+                     
+                        No longer Progne then,
+                        Hir ioy of griefe could hide,
+                        The thing thou seekst (ò wretch
+                        VVithin thee doth abide. (quoth she)
+                     
+                     
+                        VVherwith (he waxing wroth)
+                        And searching for his sonne)
+                        Came forth at length, faire Philomene
+                        
+                        By whom the griefe begonne,
+                     
+                     
+                        
+                           
+And (clokt in Bacchus copes,
+                        VVherwith she then was cladde,)
+                        In fathers bosom cast the head
+                        Of It is selly ladde:
+                     
+                     
+                        Nor euer in hir life
+                        Had more desire to speake,
+                        Thā now: wherby hir madding mood
+                        Might al hir malice wreake.
+                     
+                     
+                        ¶ The Thracian prince stert vp,
+                        VVhose hart did boyle in brest,
+                        To feele the foode and see the sawce,
+                        VVhich he could not disgest.
+                     
+                     
+                        And armed (as he was)
+                        He followed both the Greekes,
+                        
+                        On whom (by smarte of sword, and
+                        A sharpe reuenge he sekes. flame)
+                     
+                     
+                        But when the heauenly benche,
+                        These bloudie deedes did see,
+                        
+                           
+And found that bloud stil couits bloud
+                        And so none ende could be.
+                     
+                     
+                        They then by their forsight
+                        Thought meete to stinte the strife,
+                        And so restraind the murdring king,
+                        From sister and from wife.
+                     
+                     
+                        So that by their decree,
+                        The yongest daughter fledde
+                        Into the thicks, where couertly,
+                        A cloister life she ledde.
+                     
+                     
+                        And yet to ease hir woe,
+                        She worthily can sing,
+                        And as thou hearst, cā please the eares
+                        Of many men in spring.
+                     
+                     
+                        The eldest dame and wife
+                        
+                           A Swallowe was assignde,
+                        And builds in smoky chimney toppes
+                        And flies against the winde.
+                     
+                     
+                        
+                           
+The king him selfe condemnde,
+                        A Lapwing for to be,
+                        VVho for his yong ones cries alwais,
+                        Yet neuer can them see.
+                     
+                     
+                        The lad a Pheasaunt cocke
+                        For his degree hath gaind,
+                        VVhose blouddie plumes declare the bloud
+                        VVherwith his face was staind.
+                     
+                     
+                        ¶ But there to turne my tale, An expotion of al such notes as the nightingale do
+                                 •
+                               commonly. vse to sing
+                        
+                        The which I came to tell,
+                        The yongest dame to forrests fled,
+                        And there is dampnde to dwell.
+                     
+                     
+                        And Nightingale now namde
+                        VVhich (Philomela hight)
+                        Delights for (feare of force againe)
+                        To sing alwayes by night.
+                     
+                     
+                        But when the sunne to west,
+                        Doth bende his weerie course,
+                        
+                           
+Then Phylomene records the rewth,
+                        VVhich craueth iust remorse.
+                     
+                     
+                        1 And for hir foremost note,
+                        
+                           Tereu Tereu, doth sing,
+                        Complaining stil vppon the name
+                        Of that false Thracian king.
+                     
+                     
+                        Much like the childe at schole
+                        VVith byrchen rodds sore beaten,
+                        If when he go to bed at night
+                        His maister chaunce to threaten,
+                     
+                     
+                        In euery dreame he starts,
+                        And (ô good maister) cries,
+                        Euen so this byrde vppon that name,
+                        Hir foremost note replies.
+                     
+                     
+                        Or as the red breast byrds,
+                        VVhome prettie Merlynes hold
+                        Ful fast in foote, by winters night
+                        To fende themselues from colde:
+                     
+                     
+                        
+                           
+Though afterwards the hauke,
+                        For pitie let them scape,
+                        Yet al that day, they fede in feare,
+                        And doubte a second rape.
+                     
+                     
+                        And in the nexter night,
+                        Ful many times do crie,
+                        Remembring yet the ruthful plight
+                        VVherein they late did lye.
+                     
+                     
+                        Euen so this selly byrde,
+                        Though now transformde in kinde,
+                        Yet euermore hir pangs forepast,
+                        She beareth stil in minde.
+                     
+                     
+                        And in hir foremost note,
+                        She notes that cruel name,
+                        By whom she lost hir pleasant speech
+                        And foiled was in fame.
+                     
+                     
+                        2 ¶ Hir second note is fye,
+                        
+                        In Greeke and latine phy,
+                        
+                        
+                           
+In english fy, and euery tong
+                        That euer yet read I.
+                     
+                     
+                        VVhich word declares disdaine,
+                        Or lothsome leying by
+                        Of any thing we tast, heare, touche,
+                        Smel, or beholde with eye.
+                     
+                     
+                        In tast, phy sheweth some sowre,
+                        In hearing, some discorde,
+                        In touch, some foule or filthy toye,
+                        In smel, some sent abhorde.
+                     
+                     
+                        In sight, some lothsome loke,
+                        And euery kind of waie,
+                        This by word phy betokneth bad,
+                        And things to cast away.
+                     
+                     
+                        So that it semes hir well,
+                        
+                           Phy, phy, phy, phy, to sing,
+                        Since phy befytteth him so well
+                        In euery kind of thing.
+                     
+                     
+                        
+                           
+Phy filthy lecher lewde,
+                        Phy false vnto thy wife,
+                        Phy coward phy, (on womankinde)
+                        To vse thy cruel knife.
+                     
+                     
+                        Phy for thou wert vnkinde,
+                        Phy false, and foule forsworne,
+                        Phy mōster made of murdring mould
+                        VVhose like was neuer borne.
+                     
+                     
+                        Phy agony of age,
+                        Phy ouerthrowe of youth,
+                        Phy mirrour of mischeuousnesse,
+                        Phy, tipe of al vntruth.
+                     
+                     
+                        Phy fayning forced teares,
+                        Phy forging fyne excuse,
+                        Phy periury, fy blasphemy,
+                        Phy bed of al abuse.
+                     
+                     
+                        These phyes, and many moe,
+                        Pore Philomene may meane,
+                        
+                           
+And in hir selfe she findes percase,
+                        Some phy that was vncleane.
+                     
+                     
+                        For though his fowle offence,
+                        May not defended bee,
+                        Hir sister yet, and she transgrest,
+                        Though not so deepe as he.
+                     
+                     
+                        His doome came by deserte,
+                        Their dedes grewe by disdaine,
+                        But men must leaue reuenge to Gods,
+                        VVhat wrong soeuer raigne.
+                     
+                     
+                        Then Progne phy for thee,
+                        VVhich kildst thine only child,
+                        Phy on the cruel crabbed hart
+                        VVhich was not movde with milde.
+                     
+                     
+                        Phy phy, thou close conveydst
+                        A secret il vnsene.
+                        Where (good to kepe in councelclose)
+                        Had putrifide thy splene.
+                     
+                     
+                        
+                           
+Phy on thy sisters facte,
+                        And phy hir selfe doth sing,
+                        VVhose lack of tong nere toucht hir so
+                        As when it could not sting.
+                     
+                     
+                        Phy on vs both saith she,
+                        The father onely faulted,
+                        And we (the father free therewhile)
+                        The selly sonne assalted.
+                     
+                     
+                        3 ¶ The next note to hir phy
+                        Is Iug, Iug, Iug, I gesse,
+                        That might I leaue to latynists
+                        By learning to expresse.
+                     
+                     
+                        Some commentaries make
+                        About it much adoe:
+                        If it should onely Iugum meane
+                        Or Jugulator too.
+                     
+                     
+                        Some thinke that Iugum is
+                        The Iug, she iugleth so,
+                        
+                           
+But Iugulator is the word
+                        That doubleth al hir woe.
+                     
+                     
+                        For when she thinkes there on,
+                        She beares them both in minde,
+                        Him, breaker of his bonde in bed,
+                        Hir, killer of hir kinde.
+                     
+                     
+                        As fast as furies force
+                        Hir thoughts on him to thinke,
+                        So fast hir conscience choks hir vp,
+                        And wo to wrong doth linke.
+                     
+                     
+                        At last (by griefe constrainde)
+                        It boldely breaketh out,
+                        And makes the hollow woods to ring
+                        VVith Eccho round about.
+                     
+                     
+                        4 ¶ Hir next most note (to note)
+                        I neede no helpe at al,
+                        For I my selfe the partie am
+                        On whom she then doth call.
+                     
+                     
+                        
+                           
+She calles on Némesis
+                        
+                        And Némesis am I,
+                        The Goddesse of al iust reuenge,
+                        VVho let no blame go by.
+                     
+                     
+                        This bridle bost with gold,
+                        I beare in my left hande,
+                        To holde men backe in rashest rage,
+                        Vntil the cause be scand.
+                     
+                     
+                        And such as like that bitte
+                        And beare it willingly,
+                        May scape this scourge in my right hand
+                        Although they trode awry.
+                     
+                     
+                        But if they hold on head,
+                        And scorne to beare my yoke,
+                        Oft times they buy the rostful deare,
+                        It smelleth of the smoke.
+                     
+                     
+                        This is the cause (sir Squire
+                        Quoth she) that Phylomene
+                        
+                        
+                           
+Doth cal so much vpon my name,
+                        She to my lawes doth leane:
+                     
+                     
+                        She feeles a iust reuenge.
+                        Of that which she hath done,
+                        Constrainde to vse the day for night,
+                        And makes the moone hir sunne.
+                     
+                     
+                        Ne can she now complaine,
+                        (Although she lost hir tong)
+                        For since that time, ne yet before,
+                        No byrde so swetely soong.
+                     
+                     
+                        That gift we Gods hir gaue,
+                        To countervaile hir woe,
+                        I sat on bench in heauen my selfe
+                        VVhen it was graunted so.
+                     
+                     
+                        And though hir foe be fledde,
+                        But whither knowes not she,
+                        And like hir selfe transformed eke
+                        A selly byrde to bee:
+                     
+                     
+                        
+                           
+On him this sharpe reuenge
+                        The Gods and I did take,
+                        He neither can beholde his brats,
+                        Nor is belovde of make.
+                     
+                     
+                        As soone as coles of kinde
+                        Haue warmed him to do
+                        The selly shift of dewties dole
+                        VVhich him belongeth to:
+                     
+                     
+                        His hen straight way him hates,
+                        And flieth farre him fro,
+                        And close conueis hir eggs from him,
+                        As from hir mortal foe.
+                     
+                     
+                        As sone as she hath hatcht,
+                        Hir little yong ones runne,
+                        For feare their dame should serue thē efte,
+                        As Progne had begonne.
+                     
+                     
+                        And rounde about the fields
+                        The furious father flies,
+                        
+                           
+To seke his sonne, and filles the ayre
+                        VVith loude lamenting cries.
+                     
+                     
+                        This lothsome life he leads,
+                        By our almightie dome,
+                        And thus sings she, where company
+                        But very seldome come.
+                     
+                     
+                        Now lest my faithful tale
+                        For fable should be taken,
+                        And therevpon my curtesie,
+                        By thee might be forsaken:
+                     
+                     
+                        Remember al my words,
+                        And beare them wel in minde,
+                        And make thereof a metaphore,
+                        So shalt thou quickly finde,
+                     
+                     
+                        Both profite and pastime,
+                        In al that I thee tel:
+                        I knowe thy skill wil serue therto,
+                        And so (quoth she) farewell.
+                     
+                     
+                        
+                           
+Wherewith (me thought) she flong so fast away, The author continevveth his discourse and cōcludeth
+                        
+                        That scarce I could, hir seemely shaddow see.
+                        At last: my staffe (which was mine onely stay)
+                        Did slippe, and I, must needes awaked be,
+                        Against my wil did I (God knowes) awake,
+                        For willingly I could my selfe content,
+                        Seuen dayes to sleepe for Philomelâs sake,
+                        So that my sleepe in such swete thoughts were spent.
+                        But you my Lord which reade this ragged verse,
+                        Forgiue the faults of my so sleepy muse,
+                        Let me the heast of Némesis rehearse,
+                        For sure I see, much sense therof ensues.
+                        I seeme to see (my Lord) that lechers lust,
+                        Procures the plague, and vengaunce of the highest,
+                        I may not say, but God is good and iust,
+                        Although he scourge the furdest for the nighest:
+                        The fathers fault lights sometime on the sonne,
+                        Yea foure discents it beares the burden stil,
+                        Whereby it falles (when vaine delight is done)
+                        That dole steppes in and wields the world at wil.
+                        O whoredom, whoredome, hope for no good happe,
+                        The best is bad that lights on lechery
+                        
+                           
+And (al wel weyed) he sits in Fortunes lappe,
+                        Which feeles no sharper scourge than beggery.
+                        You princes peeres you comely courting knights,
+                        Which vse al arte to marre the maidens mindes,
+                        Which win al dames with baite of fonde delights,
+                        Which bewtie force, to loose what bountie bindes:
+                        Thinke on the scourge that Némesis doth beare,
+                        Remember this, that God (although he winke)
+                        Doth see al sinnes that euer secret were.
+                        
+                           (Vae vobis) then which still in sinne do sinke.
+                        Gods mercy lends you brydles for desire,
+                        Hold backe betime for feare you catch a foyle,
+                        The flesh may spurre to euerlasting fire,
+                        But sure, that horse which tyreth like a roile,
+                        And lothes the griefe of his forgalded sides,
+                        Is better, much than is the harbrainde colte
+                        Which headlong runnes and for no bridle bydes,
+                        But huntes for sinne in euery hil and holte.
+                        He which is single, let him spare to spil
+                        The flowre of force, which makes a famous man:
+                        Lest when he comes to matrimonies will,
+                        His fynest graine be burnt, and ful of branne.
+                        
+                           
+He that is yokte and hath a wedded wife,
+                        Be wel content with that which may suffyse,
+                        And (were no God) yet feare of worldly strife
+                        Might make him lothe the bed where Lays lies:
+                        For though Pandyons daughter Progne shee,
+                        Were so transformde into a fethered foule,
+                        Yet seemes she not withouten heires to be,
+                        Who (wrongde like hir) ful angrely can scoule,
+                        And beare in brest a right reuenging mode,
+                        Til time and place, may serue to worke their will.
+                        Ye a surely some, the best of al the broode
+                        (If they had might) with furious force would kil.
+                        But force them not, whose force is not to force.
+                        And way their words as blasts of blustring winde,
+                        VVhich comes ful calme, when stormes are past by course:
+                        Yet God aboue that cā both lose &amp; bynde,
+                        VVil not so soone appeased be therefore,
+                        He makes the male, of female to be hated,
+                        He makes the sire go sighing wondrous sore,
+                        Because the sonne of such is seldome rated.
+                        I meane the sonnes of such rash sinning sires,
+                        Are seldome sene to runne a ruly race.
+                        
+                           
+But plagude (be like) by fathers foule desires
+                        Dogadde a broade, and lacke the guide of grace.
+                        Then (Lapwinglike) the father flies about,
+                        And howles and cries to see his children stray,
+                        Where he him selfe (and no man better) mought
+                        Haue taught his bratts to take a better way.
+                        Thus men (my Lord) be Metamorphosed,
+                        
+                        From seemely shape, to byrds, and ougly beastes:
+                        Yea brauest dames, (if they amisse once tredde)
+                        Finde bitter sauce, for al their pleasant feasts.
+                        They must in fine condemned be to dwell
+                        In thickes vnseene, in mewes for minyons made,
+                        Vntil at last, (if they can bryde it wel)
+                        
+                        They may chop chalke, &amp; take some better trade.
+                        Beare with me (Lord) my lusting dayes are done,
+                        Fayre Phylomene for bad me fayre and flat
+                        To like such loue, as is with lust begonne.
+                        The lawful loue is best, and I like that.
+                        Then if you see, that (Lapwinglike) I chaunce,
+                        To leape againe, beyond my lawful reache,
+                        (I take hard taske) or but to giue a glaunce,
+                        At bewties blase: for such a wilful breache,
+                        
+                           
+Of promise made, my Lord shal do no wrong,
+                        To say (George) thinke on Phylomelâes song.
+                     
+                     FINIS. Tam Marti, quàm Mercurio.
+                     
+                        ANd thus my very good L. may se how cobler like
+I haue clouted a new patch to an olde sole, beginning this
+cōplainte of Philomene, in Aprill, 1562. continuing
+it a little furder in Aprill. 1575 and now, thus finished this
+thirde day of Aprill. 1576. A. which mine April showers are
+humbly sent vnto your good Lordship, for that I hope very shortly
+to see the May flowers of your fauour, which I desire,
+more than I can deserue. And yet rest
+                        Your Lordships bownden and assured.
+                     
+                  
+               
+            
+         
+      
+   
+

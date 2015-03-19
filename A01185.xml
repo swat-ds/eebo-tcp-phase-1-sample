@@ -1,0 +1,4811 @@
+
+   
+      
+         
+            The vvisedome of the ancients, written in Latine by the Right Honourable Sir Francis Bacon Knight, Baron of Verulam, and Lord Chancelor or England. Done into English by Sir Arthur Gorges Knight
+            De sapientia veterum. English
+            Bacon, Francis, 1561-1626.
+         
+         
+            
+               1619
+            
+         
+         Approx. 156 KB of XML-encoded text transcribed from 86 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2003-01 (EEBO-TCP Phase 1).
+            A01185
+            STC 1130
+            ESTC S100339
+            99836182
+            99836182
+            438
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01185)
+            Transcribed from: (Early English Books Online ; image set 438)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 822:03)
+         
+         
+            
+               
+                  The vvisedome of the ancients, written in Latine by the Right Honourable Sir Francis Bacon Knight, Baron of Verulam, and Lord Chancelor or England. Done into English by Sir Arthur Gorges Knight
+                  De sapientia veterum. English
+                  Bacon, Francis, 1561-1626.
+                  Gorges, Arthur, Sir, 1557?-1625.
+               
+               [24], 175, [1] p.   
+               
+                  Imprinted by Iohn Bill,
+                  London :
+                  1619.
+               
+               
+                  Translation of: De sapientia veterum.
+                  In this edition the title page line 8 begins: Chancelor.
+                  Reproduction of the original in the Henry E. Huntington Library and Art Gallery.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Mythology, Classical --  Early works to 1800.
+            
+         
+      
+      
+         
+            2002-03
+            TCPAssigned for keying and markup
+         
+            2002-05
+            AptaraKeyed and coded from ProQuest page images
+         
+            2002-06
+            Olivia BottumSampled and proofread
+         
+            2002-06
+            Olivia BottumText and markup reviewed and edited
+         
+            2002-07
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            THE
+VVISEDOME
+OF THE ANCIENTS,
+WRITTEN IN LATINE
+By the Right Honourable Sir
+FRANCIS BACON Knight,
+Baron of Verulam, and Lord
+Chancelor of England.
+            
+            Done into English by
+Sir Arthur Gorges
+Knight.
+            Scutum inuincibile fides.
+            LONDON,
+Imprinted by IOHN BILL.
+1619.
+         
+         
+            
+            
+            TO THE HIGH AND
+ILLVSTRIOVS PRINCESSE,
+THE LADY ELIZABETH
+OF GREAT BRITTAIN.
+Duchesse of Bauiere, Countesse Palatine
+of Rheine, and chiefe
+Electresse of the
+Empire.
+            
+               Madam,
+            
+            
+               AMong many the
+worthie Chancellors
+of this famous Isle,
+there is obserued in
+Sir THOMAS MORE, and Sir
+FRANCIS BACON an admirable
+sympathy of wit and humour:
+witnesse those graue monuments
+of inuention &amp; learning,
+wherewith the world is so
+plentifully enricht by them
+both. I will instance onely in
+
+the conceaued Vtopia of the
+one, and the reuealed Sapientia
+Veterum of the other: Whereof
+the first (vnder a meere Idea of
+perfect State gouerment) containes
+an exact discouerie of the
+vanities and disorders of reall
+Countries: And the second (out
+of the foulds of Poeticall fables)
+laies open those deepe Philosophicall
+mysteries, which had
+beene so long lockt vp in the
+Casket of Antiquity; so that it
+is hard to iudge to whether of
+these two worthies, Policy and
+Morality is more behoulding.
+I make no question therefore
+but this obseruation (touching
+the parallel of their spirits) shal
+passe so currant to succeeding
+ages, that it will be said of thē as
+in former times pronounced of
+Xenophon &amp; Plato, Fuere aequales.
+            
+            
+               
+And for this Booke that
+humbly present to your Highnes,
+which so eminently expresseth
+its owne perfection, in
+me it would seeme no lesse a vanity
+to giue it attributes of
+glory and praise, then if I should
+lend Spectacles to Lynx, or an
+Eye to Argus, knowing it
+needles to wast guilding on
+pure Gould, which is euer best
+valued by its owne true touch
+&amp; luster. But to descend to my
+selfe, that doe now lay before
+your Princely cēsure the Translation
+of these excellent and iudicious
+discourses, so barely
+wrapt vp in my harsh English
+phrase, that were by the Author
+so richly attired in a sweet Latine
+stile: I must therein flie to
+the Sanctuary of your gracious
+acceptance. In which hope securing
+
+my doubts, doe with
+all reuerence kisse your Princely
+hands: Remaining
+euer readie to approue
+my
+selfe
+            
+               
+                  Your Highnesse
+most dutifull and most
+deuoted Seruant
+Arthur Gorges.
+               
+            
+         
+         
+            
+            To the Booke.
+            
+               RIch mine of Art: Minnion of Mercury;
+               True Truch-man of the mind of Mystery
+            
+            
+               Inuentions storehouse; Nymph of Helicon:
+               Deepe Moralist of Times tradition:
+            
+            
+               Vnto this Paragon of Brutus race
+               Present thy seruice, and with cheerefull grace
+            
+            
+               Say (if Pythagoras beleeu'd may bee)
+               The soule of ancient Wisedome liues in the
+            
+         
+         
+            
+            The Table.
+            
+               1. CAssandra, or Diuination.
+               2. Typhon, or a Rebell.
+               3. The Cyclops, or the ministers
+of Terror.
+               4. Narcissus, or Self-loue.
+               5. Styx, or Leagues.
+               6. Pan, or Nature.
+               7. Perseus, or Warre.
+               8. Endymion, or a Fauorite.
+               9. The sisters of the Giants, or
+Fame.
+               10. Actaeon and Pentheus, or a curious
+Man.
+               11. Orpheus, or Philosophy.
+               12. Caelum, or Beginnings.
+               13. Proteus, or Matter.
+               14. Memnon, or a Youth too forward.
+               15. Tythonus, or Satiety.
+               16. Iuno's Sutor, or Basenesse.
+               17. Cupid, or an Atome.
+               18. Diomedes, or Zeale.
+               19. Daedalus, or a Mechanique.
+               20. Erycthoneus, or Impostury.
+               
+                  
+21. Deucalion, or Restitution.
+               22. Nemesis, or the Vicissitude of
+things.
+               23. Achelous, or Battell.
+               24. Dyonisus, or Passions.
+               25. Atalanta, or Gaine.
+               26. Prometheus, or the State of
+Man.
+               27. Scylla and Icarus, or the Middle
+way.
+               28. Sphnix, or Science.
+               29. Proserpina, or Spirit.
+               30. Metis, or Counsell.
+               31. The Sirenes, or Pleasures.
+            
+         
+         
+            
+            THE PREFACE.
+            
+               THE Antiquities of the
+first age (except those
+we find in sacred Writ)
+were buried in obliuion
+and silence: silence was succeeded
+by Poeticall fables; and Fables againe
+were followed by the Records
+we now enioy. So that the mysteries
+and secrets of Antiquity were
+distinguished and separated from
+the Records and Euidences of succeeding
+times, by the vaile of fiction
+which interposed it selfe and
+came betweene those things
+which perished, and those things
+which perished, and those which
+are extant. I suppose some are of opinion,
+that my purpose is to write
+toyes and trifles, and to vsurpe the
+same liberty in applying, that the
+Poets assumed in faining, which I
+might doe (I confesse) if I listed,
+
+and with more serious contemplations
+intermixe these things, to
+delight either my selfe in meditation,
+or others in reading. Neither
+am I ignorant how fickle and inconstant
+a thing fiction is, as being
+subiect to be drawen and wrested
+any way, and how great the commoditie
+of wit and discourse is, that
+is able to apply things well, yet so
+as neuer meant by the first Authors.
+But I remember that this
+liberty hath beene lately much abused;
+in that many to purchase the
+reuerence of Antiquitie to their
+owne inuentions and fancies, haue
+for the same intent laboured to
+wrest many poeticall Fables. Neither
+hath this old and common vanity
+bene vsed onely of late or now
+and then: for euen Crisippus long
+agoe did (as an Interpreter of
+dreames) ascribe the opinions of the
+
+Stoikes to the ancient Poets; and
+more sottishly doe the Chymicks
+appropriate the fancies &amp; delights
+of Poets in the transformations of
+bodies, to the experiments of their
+furnace. All these things (I say)
+I haue sufficiently considered and
+weighed, and in them haue seene
+and noted the generall leuity and
+indulgence of mens wits about Allegories.
+And yet for all this I relinquish
+not my opinion. For first
+it may not be, that the folly and
+loosenesse of a few should altogither
+detract from the respect due
+to the Parables: for that were a
+conceit which might sauour of prophanenesse
+and presumption: for
+Religion it selfe doth somtimes delight
+in such vailes and shadowes:
+so that who so exempts them,
+seemes in a manner to interdict all
+commerce betweene things diuine
+
+and humane. But concerning humane
+wisedome, I doe indeed ingenuously
+and freely confesse, that
+I am enclined to imagine, that vnder
+some of the ancient fictions lay
+couched certaine mysteries and Allegories,
+euen from their first inuention.
+And I am perswaded
+(whether rauished with the reuerence
+of Antiquity, or because in
+some Fables I finde such singular
+proportion betweene the similitude
+and the thing signified; and such
+apt and cleare coherence in the very
+structure of them, and propriety
+of names wherewith the persons or
+actors in them are inscribed and
+intitled) that no man can constantly
+deny, but this sense was in the
+Authours intent and meaning
+when they first inuented them, and
+that they purposely shadowed it in
+this sort: For who can be so stupid &amp;
+
+blind in the open light, as (when he
+heares how Fame, after the Gyants
+were destroyed, sprang vp as their
+yongest Sister) not to refer it to the
+murmers and seditious reports of
+both sides, which are wont to fly abroad
+for a time after the suppressing
+of insurrections? Or when he
+heares how the Gyant Typhon
+hauing cut out and brought away
+Iupiters nerues, which Mercurie
+stole from him, and restored againe
+to Iupiter; doth not presently perceiue
+how fitly it may be applyed to
+powerfull rebellions, which take
+from Princes their sinewes of money
+and authority, but so, that by
+affability of speech, and wise edicts
+(the minds of their subiects being
+in time priuily, and as it were by
+stealth reconciled) they recouer
+their strength againe? Or when
+he heares how (in that memorable
+
+expedition of the Gods against the
+Gyants) the braying of Silenus his
+Asse, conduced much to the profligation
+of the Gyants; doth not confidently
+imagine, that it was inuented
+to shew, how the greatest
+enterprises of Rebels are oftentimes
+dispersed with vaine rumors
+and feares?
+            Moreouer, to what iudgement
+can the conformitie and signification
+of Names seeme obscure?
+Seeing Metis the wife of Iupiter
+doth plainely signifie councell: Typhon,
+insurrection; Pan, vniuersality;
+Nemesis, reuenge, and the
+like. Neither let it trouble any
+man, if sometimes hee meete with
+Historicall narrations, or additions
+for ornaments sake, or confusion
+of times, or something transferred
+from one fable to another, to
+bring in a new Allegory: for it
+
+could be no otherwise, seeing they
+were the inuentions of men, which
+liued in diuers ages, and had also
+diuers ends: some being auncient,
+others neotericall: some hauing an
+eye to things naturall, others to
+morall.
+            There is another Argument (and
+that no small one neither) to prooue
+that these Fables containe certaine
+hidden and inuolued meanings,
+seeing some of them are obserued
+to be so absurd and foolish in the
+very relation, that they shew, and
+as it were proclaime a parable afar
+off: for such tales as are probable,
+they may seeme to be inuented for
+delight, and in imitation of History.
+And as for such as no man
+would so much as imagin or relate,
+they seem to be sought out for other
+ends: For what kinde of fiction is
+that, wherein Iupiter is said to
+
+haue taken Metis to wife, and, perceiuing
+that she was with child, to
+haue deuoured her, whence himselfe
+conceiuing, brought forth
+Pallas armed out of his head? Truly
+I thinke there was neuer dreame
+(so different to the course of cogitation,
+and so full of monstrosity) euer
+hatcht in the braine of man. Aboue
+all things this preuailes most with
+me, and is of singular moment, that
+many of these Fables seeme not to
+be inuented of those by whom they
+are related and celebrated, as by
+Homer, Hesiod, and others: for
+if it were so, that they tooke beginning
+in that age, and from those
+Authours by whom they are deliuered
+and brought to our hands;
+My mind giues me there could be
+no great or high matter expected,
+or supposed to proceed from them in
+respect of these originals. But if
+
+with attention we consider the
+matter, it will appeare that they
+were deliuered and related as
+things formerly beleeued and receiued,
+and not as newly inuented
+and offered vnto vs. Besides, seeing
+they are diuersly related by
+Writers that liued neere about one
+and the selfe same time, we may easily
+perceiue that they were common
+things, deriued from precedent
+memorials: and that they became
+various by reason of the diuers
+ornaments bestowed on them
+by particular relations. And the
+consideration of this must needs encrease
+in vs a great opinion of
+them, as not to be accounted either
+the effects of the times or inuentions
+of the Poets, but as sacred reliques
+or abstracted ayres of better
+times, which by tradition from
+more ancient Nations fell into the
+
+Trumpets and Flutes of the Graecians.
+But if any doe obstinately contend,
+that Allegories are alwaies
+aduentitially, &amp; as it were by constraint,
+neuer naturally and properly
+included in Fables, we will not
+be much troublesome, but suffer
+them to enioy that grauity of iudgment
+which I am sure they affect,
+although indeed it be but lumpish
+and almost leaden. And (if they
+be worthy to be taken notice of)
+we will begin afresh with them in
+some other fashion.
+            There is found among men (and
+it goes for currant) a two-fold vse
+of Parables, and those (which is
+more to be admired) referred to
+contrary ends; conducing as well
+to the foulding vp and keeping of
+things vnder a vaile, as to the inlightning
+and laying open of obscurities.
+But omitting the former
+
+(rather then to vndergoe wrangling,
+and assuming ancient Fables
+as things vagrant and composed
+onely for delight) the latter
+must questionlesse still remaine, as
+not to be wrested frō vs by any violence
+of wit, neither can any (that
+is but meanely learned) hinder, but
+it must absolutely be receiued, as a
+thing graue and sober, free from
+all vanitie, and exceeding profitable
+and necessary to all sciences.
+This is it (I say) that leads the vnderstanding
+of man by an easie and
+gentle passage through all nouell
+and abstruse inuentions, which
+any way differ from common receiued
+opinions. Therefore in the first
+ages (when many humane inuentions
+and conclusions, which are
+now common and vulgar, were
+new and not generally knowen) all
+things were full of Fables, aenigmaes,
+
+parables, and similies of all
+sortes: by which they sought to
+teach and lay open, not to hide and
+conceale knowledge, especially, seeing
+the vnderstandings of men
+were in those times rude and impatient,
+and almost incapable of any
+subtilties, such things onely
+excepted, as were the obiects of
+sense: for as Hieroglyphicks preceded
+letters, so parables were more
+ancient then Arguments. And
+in these daies also, he that would
+illuminate mens minds anew in any
+old matter, and that not with
+disprofit and harshnesse, must absolutely
+take the same course, and
+vse the help of similies. Wherefore
+all that hath beene said, wee will
+thus conclude: The Wisedome of
+the Ancients, it was either much
+or happy; Much if these figures
+and tropes were inuented by studie
+
+and premeditation. Happy if they
+(intending nothing lesse) gaue
+matter and occasion to so many
+worthy Meditations. As concerning
+my labours (if there bee any
+thing in them which may do good)
+I will on neither part count them
+ill bestowed, my purpose being to
+illustrate either Antiquity, or
+things themselues. Neither am I
+ignorant that this very subiect
+hath beene attempted by others:
+But to speake as I thinke, and that
+freely without ostentation, the dignitie
+and efficacy of the thing is almost
+lost by these mens writings,
+though voluminous and full of
+paines, whilst not diuing into the
+depth of matters, but skilfull onely
+in certaine common places, haue
+applyed the sense of these Parables
+to certaine vulgar and generall
+things, not so much as glancing at
+
+their true vertue, genuine proprietie,
+and full depth. I (if I be
+not deceiued) shall be new in common
+things. Wherefore leauing
+such as are plaine and open, I will
+ayme at further and richer matters.
+         
+      
+      
+         
+            
+            
+            THE WISEDOME OF THE ANCIENTS.
+            
+               1
+               CASSANDRA,
+or Diuination.
+               
+                  THe Poets fable that Apollo
+being enamored of
+Cassandra, was by her
+many shifts &amp; cunning
+sleights still deluded in his desire;
+but yet fed on with hope vntill such
+time as shee had drawen from him
+the gift of prophesying; and hauing
+by such her dissimulation in the
+end, atteined to that which from the
+beginning shee sought after, at last
+flatly reiected his suite. Who finding
+himselfe so farre engaged in his promise,
+as that hee could not by any
+
+meanes reuoke againe his rash gift,
+and yet enflamed with an earnest desire
+of reuenge, highly disdayning
+to bee made the scorne of a craftie
+wench, annexed a penaltie to his
+promise, to wit, that shee should
+euer foretell the trueth, but neuer be
+beleeued: So were her diuinations
+alwayes faithfull, but at no time regarded,
+whereof shee still found the
+experience, yea euen in the ruine of
+her owne countrey, which shee had
+often forewarned them of, but they
+neither gaue credite nor eare to her
+words. This Fable seemes to intimate
+the vnprofitable liberty of vntimely
+admonitions and counselles.
+For they that are so ouerweened
+with the sharpnesse and dexteritie of
+their owne wit and capacitie, as that
+they disdaine to submit themselues
+to the documents of Apollo, the God
+of Harmonie, whereby to learne
+and obserue the method and measure
+of affaires, the grace and grauitie
+of discourse, the differences between
+the more iudicious and more vulgar
+
+eares, and the due times when to
+speake and when to be silent; Bee
+they neuer so sensible and pregnant,
+and their iudgements neuer so profound
+and profitable, yet in all their
+endeuours either of perswasion or
+perforce, they auaile nothing, neither
+are they of any moment to aduantage
+or mannage matters, but do
+rather hastē on the ruine of all those
+that they adhere or devote themselues
+vnto. And then at last when
+calamitie hath made men feele the
+euent of neglect, then shall they too
+late be reuerenced as deep foreseing
+and faithfull prophets. Whereof a
+notable instance is eminently set
+forth in Marcus CatoVticēsis, who as
+from a watchtower discouered afar
+off, and as an Oracle long foretold,
+the approching ruine of his Countrey,
+and the plotted tyrannie houering
+ouer the State, both in the first
+conspiracie, and as it was prosecuted
+in the ciuill contention between
+Cesar and Pompey, and did no good
+the while, but rather harmed the
+
+commonwealth, and hastned on his
+countreys bane, which M. Cicero
+wisely obserued, and writing to a familiar
+friēd doth in these termes excellently
+describe, Cato optimè sentit,
+sed nocet interdum Reipublicae: loquitur
+enim tanquam in Republicâ Platonis,
+non tanquam in faece Romuli. Cato
+(saith he) iudgeth profoundly, but
+in the meane time damnifies the
+State, for he speakes as in the commonwealth
+of Plato, and not as in
+the dregs of Romulus.
+               
+            
+            
+               2
+               TYPHON, or a Rebell.
+               
+                  IVno being vexed (say the Poets)
+that Iupiter had begotten Pallas
+by himselfe without her, earnestly
+pressed all the other Gods and Goddesses
+that shee might also bring
+forth of herselfe alone without him;
+and hauing by violence and importunitie
+obteyned a graunt thereof,
+shee smote the earth, and forthwith
+sprang vp Typhon a huge and horrid
+
+monster: This strange birth shee
+committes to a Serpent (as a Foster
+father) to nourish it, who no sooner
+came to ripenes of yeeres, but hee
+prouokes Iupiter to battell. In the
+conflict the Gyant getting the vpper
+hand, takes Iupiter vppon his
+shoulders, caries him into a remote
+and obscure countrey, and (cutting
+out the sinewes of his hands and
+feet) brought them away, and so
+left him miserably mangled and
+maymed. But Mercury recouering
+these nerues from Typhon by stealth,
+restored them againe to Iupiter. Iupiter
+being againe by this meanes corroborated,
+assaultes the Monster afresh,
+and at the first strikes him with
+a thunderboult, from whose bloud
+serpents were ingendred. This Monster
+at length fainting and flying,
+Iupiter casts on him the mount Aetna,
+and with the weight thereof
+crusht him.
+               This Fable seemes to point at the
+variable fortune of Princes, and the
+rebellious insurrection of Traytors
+
+in a State. For Princes may well be
+said to be maried to their dominions,
+as Iupiter was to Iuno: but it
+happēs now &amp; then, that being deboshed
+by the long custome of empyring
+&amp; bending towards tyrāny,
+they endeuour to draw all to themselues,
+and (contemning the counsell
+of their Nobles and Senatours)
+hatch lawes in their owne braine,
+that is, dispose of things by their
+owne fancie and absolute power.
+The people (repyning at this) study
+how to create and set vp a cheefe
+of their owne choise. This proiect
+by the secret instigation of the Peeres
+and Nobles, doth for the most part
+take his beginning; by whose conniuence
+the Commons being set on
+edge, there followes a kind of murmuring
+or discontent in the State,
+shadowed by the infancie of Typhon,
+which being nurst by the naturall
+prauitie and clownish malignity of
+the vulgar sort (vnto Princes as infestious
+as Serpents) is againe repaired
+by renewed strength, and at last
+
+breakes out into open Rebellion,
+which (because it brings infinite
+mischiefs vpon Prince and people)
+is represented by the monstrous deformity
+of Typhon: his hundred
+heads signifie their deuided powers;
+his fiery mouthes their inflamed intents;
+his serpentine circles their pestilent
+malice in besieging; his yron
+hands, their merciles slaughters;
+his Eagles tallents, their greedy rapynes;
+his plumed body, their continuall
+rumors, and scouts, &amp; feares
+and such like. And sometimes these
+rebellions grow so potent that Princes
+are inforc't (transported as it
+were by the Rebels, and forsaking
+the chiefe Seates and Cities of the
+Kingdome) to contract their power,
+and (being depriued of the Sinewes
+of money &amp; maiestie) betake
+thēselues to some remote &amp; obscure
+corner within their dominions: but
+in processe of time (if they beare
+their misfortunes with moderation)
+they may recouer their strength by
+the vertue and industry of Mercury,
+                  
+that is, they may (by becomming
+affable &amp; by reconcyling the minds
+and willes of their Subiects with
+graue edicts &amp; gratious speech.) excite
+an alacritie to graunt ayds and
+subsidies whereby to strengthen
+their authority anew. Neuertheles
+hauing learned to be wise and warie,
+they will refraine to try the chaunce
+of Fortune by warre, and yet studdy
+how to suppresse the reputation of
+the Rebels by some famous action,
+which if it fall out answerable to
+their expectation, the Rebels finding
+themselues weakned, and fearing
+the successe of their broken
+proiects; betake themselues to some
+sleight and vaine brauadoes, like the
+hissing of serpents, and at length in
+despaire betake themselues to flight,
+and then when they beginne to
+breake, it is safe and timely for kings
+to pursue and oppresse them with
+the forces and weight of the kingdome,
+as it were with the mountaine
+Aetna.
+               
+            
+            
+               
+               3
+               The Cyclopes, or the Ministers
+of Terror.
+               
+                  THey say that the Cyclopes (for
+their fiercenes &amp; crueltie) were
+by Iupiter cast into hell, and there
+doomed to perpetuall imprisonment:
+but Tellus perswaded Iupiter
+that it would doe well, if being set at
+liberty, they were put to forge thunderboults,
+which being done accordingly,
+they became so painefull
+and industrious, as that day and
+night they continued hammering
+out in laborious diligence thunderboults
+and other instruments of terrour.
+In processe of time Iupiter hauing
+conceiued a displeasure against
+Aesculapius the sonne of Apollo
+for restoring a dead man to life
+by physicke; and concealing
+his dislike (because there was no
+iust cause of anger, the deed being
+pious and famous) secretly incens't
+the Cyclopes against him, who
+
+without delay slew him with a thunderboult:
+In reuenge of which act;
+Apollo (Iupiter not prohibiting it)
+shotte them to death with his arrowes.
+               This Fable may be applyed to the
+proiects of Kings, who hauing cruell,
+bloudy, &amp; exacting Officers, do
+first punish and displace them, afterwards
+by the counsell of Tellus, that
+is of some base and ignoble person,
+and by the preuayling respect of
+profite they admit them into their
+places againe, that they may haue
+instruments in a readynes, if at any
+time there should need either seuerity
+of execution, or acerbity of exaction.
+These seruile creatures being
+by nature cruell, and by their former
+fortune exasperated, and perceiuing
+well what is expected at their hands,
+doe shew themselues wonderfull officious
+in such kinde of imployments
+but being too rash and precipitate
+in seeking countenance and
+creeping into fauour, doe somtimes
+take occasion from the secret becknings
+
+and ambiguous commandes
+of their Prince to performe some
+hatefull execution. But Princes (abhorring
+the fact, and knowing well
+that they shall neuer want such kind
+of instruments) doe vtterly forsake
+them, turning them ouer to the
+friends &amp; allyes of the wronged to
+their accusations and reuenge, and
+to the generall hatred of the people,
+so that with great applause and prosperous
+wishes and exclamations towards
+the Prince, they are brought,
+rather too late then vndeseruedly,
+to a miserable end.
+            
+            
+               4
+               NARCISSVS, or Selfe-loue.
+               THey say that Narcissus was exceeding
+faire and beautifull
+but wonderfull proud and disdainfull;
+wherefore dispising all others
+in respect of himselfe, hee leades a
+solitary life in the woods and chases
+with a few followers, to whom hee
+alone was all in all, among the rest there
+
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+aboue like a man, below like a beast,
+his feet like Goates hoofes, bearing
+these ensignes of his iurisdiction; to
+wit, in his left hand a Pipe of seauen
+reeds, and in his right a sheephooke,
+or a staffe crooked at the
+vpper end, and his mantle made of
+a Leopards skinne. His dignities
+and offices were these: hee was the
+God of Hunters, of Shepheards, and
+of all rurall inhabitants: cheefe president
+also of hils and mountaines,
+&amp; next to Mercury the Embassadour
+of the Gods. Moreouer hee was accounted
+the leader and comaunder
+of the Nymphes, which were alwaies
+wont to dance the rounds and friske
+about him, hee was acosted by the
+Satyres and the olde Sileni. Hee
+had power also to strike men with
+terrors, and those especially vaine
+&amp; superstitious, which are tearmed
+Panicque feares. His acts were not
+many, for ought that can bee found
+in records, the cheefest was that hee
+challenged Cupid at wrestling, in
+which conflict hee had the foile.
+
+The tale goes too that hee caught
+the Giant Typhon in a net, and held
+him fast. Moreouer when Ceres
+(grumling and chafing that Proserpina
+was rauished) had hid her selfe
+away, and that all the Gods tooke
+pains (by dispersing themselues into
+euery corner) to find her out, it was
+onely his good hap (as hee was hunting)
+to light on her, and acquaint
+the rest where she was. He presumed
+also to put it to the tryall who was
+the better Musitian hee or Apollo,
+and by the iudgment of Midas was
+indeed preferred: But the wise iudge
+had a paire of Asses eares priuily
+chopt to his Nodle for his sentence.
+Of his louetrickes, there is nothing
+reported, or at least not much, a
+thing to be wondred at, especially
+being among a troope of Gods so
+profusly amorous. This onely is
+said of him, that hee loued the
+Nymph Eccho (whom he tooke to
+wyfe) and one pretty wench more
+called Syrinx, towards whom Cupid
+(in an angry and reuengefull humor
+
+because so audaciously hee had
+challenged him at wrestling) inflamed
+his desire. Moreouer hee had
+no issue (which is a maruell also,
+seeing the Gods, especially those of
+the Malekind, were very generatiue)
+onely hee was the reputed father
+of a litle Girle called lambe, that
+with many pretty tales was wont to
+make strangers merry: but some
+thinke hee did indeed beget her by
+his wife lambe. This (if any bee) is
+a noble tale, as being laid out, and
+bigg bellied with the secrets and mysteries
+of nature.
+               
+                  Pan (as his name imports) represents
+and lays open the All of things
+or Nature. Concerning his originall
+there are two onely opinions
+that goe for currant: for either hee
+came of Mercury, that is, the word
+of God, which the holy Scriptures
+without all controuersie affirme, &amp;
+such of the Philosophers as had any
+smacke of diuinity assented vnto:
+or els from the confused seedes of
+things. For they that would haue
+
+one simple beginning referre it vnto
+God: or if a materiate beginning,
+they would haue it various in power.
+So that wee may end the controuersie
+with this distribution that
+the world tooke beginning either
+from Mercury, or from the seeds of
+all things.
+
+                     
+                        Virg. Eolog. 6.
+                        Namque canebat vti magnum per
+inane coacta
+                        Semina, terrarumque, animaeque, marisque
+fuissent,
+                        Et liquidi simulignis: &amp; his exordia
+primis
+                        Omnia, &amp; ipse tener mundi concreuerit
+Orbis.
+                     
+                     
+                        For rich-vaind Orpheus sweetly
+did rehearse
+                        How that the seeds of fire, ayre,
+water, earth,
+                        Were all pact in the vast void
+vniuerse:
+                        And how from these all firstlings
+all had birth,
+                        
+                           
+And how the bodie of this Orbicque
+frame
+                        From tender infancy so bigg
+became.
+                     
+                  
+But as touching the third conceipt
+of Pans originall, it seemes that the
+Grecians (either by intercourse with
+the Egyptians or one way or other)
+had heard something of the Hebrew
+mysteries: for it points to the state
+of the world not considered in immediate
+creation, but after the fall
+of Adam, exposed and made subiect
+to death and corruption: for in that
+state it was (and remains to this day)
+the ofspring of God and Sinne. And
+therefore all these three narrations,
+concerning the manner of Pans
+birth, may seeme to bee true, if it
+bee rightly distinguished betweene
+things and times. For this Pan or
+nature (which wee suspect, contemplate,
+and reuerence more then is
+fit) tooke beginning from the word
+of God by the meanes of confused
+matter, and the entrance of preuarication
+
+and corruption. The Destinies
+may well be thought the Sisters
+of Pan or Nature, because the
+beginnings, and continuances, and
+corruptions, and depressions, and
+dissolutions, and eminences, and labours,
+and felicities of things, and all
+the chances which can happen vnto
+any thing are linckt with the
+chaines of causes naturall.
+               
+                  Hornes are attributed vnto him,
+because Hornes are broad at the
+roote and sharpe at the ends, the nature
+of all things being like a Pyramis
+sharpe at the Toppe. For indiuiduall
+or singular things being infinite
+are first collected into Species,
+which are many also; then from
+Species into generals, and from generals
+(by ascending) are contracted
+into things or notions more generall,
+so that at length Nature may
+seeme to be contracted into a vnity.
+Neither is it to be wondred at, that
+Pan toucheth heauen with his
+hornes, seeing the height of nature
+or vniuersall Ideas doe in some sort,
+
+pertaine to things diuine, and there
+is a ready and shorte passage from
+Metaphysicke to naturall Theologie.
+               
+               The body of Nature is elegantly
+and with deepe iudgement depainted
+hairy, representing the beames
+or operations of creatures: for
+beames are as it were the haires and
+bristles of Nature, and euery creature
+is either more or lesse beamie,
+which is most apparent in the facultie
+of seeing, and no lesse in euery
+vertue and operation that effectuals
+vpon a distant obiect: for whatsoeuer
+workes vp any thing afarre off;
+that may rightly bee saide to darte
+forth rayes or beames.
+               Moreouer Pans beard is said to
+bee exceeding long, because the
+beames or influences of celestiall
+bodies doe operate and pierce farthest
+of all, and the Sunne when
+(his higher halfe is shadowed with
+a cloud) his beames breake out in
+the lower, and lookes as if he were
+bearded.
+               
+                  Nature is also excellently set
+
+forth with a biformed body, with
+respect to the differences betweene
+superiour and inferiour creatures.
+For the one part by reason of their
+pulchritude, &amp; equabilitie of motiō,
+&amp; constancy, &amp; dominion ouer the
+earth &amp; earthly things, is worthily
+set out by the shape of man: and the
+other part in respect of their perturbations
+and vnconstant motions
+(and therefore needing to be moderated
+by the celestiall) may be well
+fitted with the figure of a brute
+beast. This description of his body
+perteines also to the participation
+of Species, for no naturall beeing
+seemes to be simple, but as it were
+participating and compounded of
+two. As for example; man hath somthing
+of a beast: a beast something
+of a plant: a plant something of a
+inanimate bodie, so that all naturall
+things are in very deed biformed,
+that is to say compounded of a Superiour,
+and inferiour Species.
+               
+               It is a wittie Allegorie that same
+of the feet of a Goate, by reason of
+
+the vpward tending motion of terrestriall
+bodies towards the ayer
+and heauen: For the Goate is a clyming
+creature, that loues to bee
+hanging about the rockes and steep
+mountaines; And this is done also
+in a wonderfull manner, euen by
+those things which are destinated
+to this inferiour globe, as may manifestly
+appeare in cloudes and Meteors.
+               The two Ensignes which Pan
+beares in his hands do point, the one
+at Harmony, the other at Empiry:
+for the Pipe consisting of seauen
+reedes doth euidently demonstrate
+the concent and harmony and discordant
+concord of all inferior creatures,
+which is caused by the motion
+of the seuen Planets: And that of the
+Shep-hooke may be excellently applied
+to the order of nature, which
+is partly right, partly crooked: This
+staffe therefore or rodde is especially
+crooked in the vpper end, because
+all the workes of diuine prouidence
+in the world are done in a far fetcht
+
+and circular manner, so that one
+thing may seeme to be effected, and
+yet indeed a cleane cōtrary brought
+to passe, as the selling of Ioseph into
+Egypt, and the like. Besides in all
+wise humane gouerment, they that
+sit at the helme doe more happily
+bring their purposes about, and insinuate
+more easily into the minds
+of the people, by pretexts and oblique
+courses, then by direct methods;
+so that all Scepters and Mases
+of authority ought in very deed
+to be crooked in the vpper end.
+               
+                  Pans cloake or mantle is ingeniously
+fained to be the skin of a Leopard,
+because it is full of spottes: so
+the heauens are spotted with stars,
+the sea with rockes and Islands, the
+land with flowers, and euery particular
+creature also is for the most
+part garnished with diuers colours
+about the supersicies, which is as it
+were a mantle vnto it.
+               The office of Pan can bee by nothing
+so liuely conceaued and exprest,
+as by fayning him to bee the
+
+God of hunters, for euery naturall
+action, and so by consequence, motion
+and progression, is nothing els
+but a hunting. Arts and Sciences
+haue their workes, and humane
+counsels their ends which they earnestly
+hunt after. All naturall things
+haue either their food as a prey, or
+their pleasure as a recreation which
+they seeke for, and that in most expert
+and sagacious manner.
+               
+                  Torua Leaena Lupum sequitur, Lupus
+ille Capellam:
+                  Florentem Cythisum sequitur lasciua
+Capella.
+               
+               
+                  The hungry Lionesse (with sharp
+desire)
+                  Pursues the Wolfe, the Wolfe
+the wanton Goate:
+                  The Goate againe doth greedily
+aspire.
+                  To haue the trifol-iuyce passe
+downe her throate.
+               
+               
+                  Pan is also saide to bee the God of
+the countrey Clownes, because men
+
+of this condition lead liues more agreeable
+vnto nature, then those
+that liue in the Cities and Courts of
+Princes, where nature by too much
+arte is corrupted: So as the saying
+of the Poet (though in the sense of
+loue) might be here verified:
+               
+                  Pars minima est ipsa puella sui.
+               
+               
+                  The maid so trickt her selfe with
+arte.
+                  That of her selfe shee is least
+parte.
+               
+               Hee was held to be Lord President
+of the mountaines, because in
+high mountaines and hilles, Nature
+layes herselfe most open, and men
+most apt to viewe and contemplation.
+               Whereas Pan is said to bee (next
+vnto Mercury) the messenger of the
+Gods, there is in that a diuine Mystery
+cōteined, for next to the word
+of God the image of the world proclaimes
+the power and wisedome diuine,
+as sings the sacred Poet. Psal.
+
+19. 1. Caeli enarrant gloriam Dei,
+atque opera manuum eius indicat firmamentum.
+The heauens declare
+the glory of God, and the firmament
+sheweth the workes of his
+hands.
+               The Nymphes, that is, the soules
+of liuing things take great delight in
+Pan: For these soules are the delights
+or minions of Nature, and the direction
+or conduct of these Nymphes
+is with great reason attributed vnto
+Pan, because the soules of all things
+liuing doe follow their naturall dispositions
+as their guides, and with
+infinite varietie euery one of them
+after his own fashion doth leape and
+friske and dance with incessant motion
+about her. The Satyres and Sileni
+also, to wit, youth and old age
+are some of Pans followers: for of
+all naturall things there is a liuely
+iocund and (as I may say) a dauncing
+age, and an age againe that is
+dull bibling and reeling. The cariages
+and dispositions of both which
+ages to some such as Democritus was
+
+(that would obserue them duely)
+might peraduenture seeme as ridiculous
+and deformed as the gambols
+of the Satyrs, or the gestures of
+the Sileni.
+               
+               Of those feares and terrours
+which Pan is said to be the Author,
+there may be this wise construction
+made, namely, That nature hath
+bredde in euery liuing thing a kinde
+of care and feare tending to the preseruation
+of its owne life and being,
+and to the repelling and shunning
+of all things hurtfull. And yet Nature
+knowes not how to keepe a
+meane, but alwaies intermixes vaine
+and emptie feares with such as are
+discreet and profitable; so that all
+things (if their insides might bee
+seene) would appeare full of Panicque
+frights: but men especially
+in hard and fearefull, and diuers
+times are wonderfully infatuated
+with superstition, which indeed is
+nothing els but a Panicque terrour.
+               Concerning the audacity of Pan
+in challenging Cupid at wrestling,
+
+the meaning of it is, that Matter
+wants no inclination and desire to
+the relapsing and dissolution of the
+world into the old Chaos, if her malice
+and violence were not restrained
+and kept in order, by the prepotent
+vnitie and agreement of things
+signified by Cupid, or the God of
+loue; And therefore it was a happie
+turne for men and all things els,
+that in that conflict Pan was found
+too weake and ouercome.
+               To the same effect may be interpreted
+his catching of Typhon in a
+net: for howsoeuer there may sometimes
+happen vast and vnwonted
+Tumors (as the name of Typhon
+imports) either in the sea or in the
+ayre, or in the earth, or els where,
+yet Nature doth intangle in an intricate
+toile, and curbe &amp; restraine,
+as it were, with a chaine of Adamant
+the excesses and insolences of
+these kind of bodies.
+               But for as much as it was Pans
+good fortune to finde out Ceres as
+he was hunting, and thought little
+
+of it, which none of the other Gods
+could doe, though they did nothing
+els but seeke her, and that very
+seriously, it giues vs this true and
+graue admonition, That we expect
+not to receaue things necessary for
+life and manners from philosophicall
+abstractions, as from the greater
+Gods, albeit they applied themselues
+to no other studie, but from
+Pan, that is from discreet obseruation,
+&amp; experience, and the vniuersall
+knowledge of the things of this
+world, whereby (oftentimes euen
+by chance, and as it were going a
+hunting) such inuentions are lighted
+vpon.
+               The quarrell he made with Apollo
+about Musicke, and the euent
+thereof conteines a wholsome instruction,
+which may serue to restraine
+mens reasons and iudgements
+with the reines of sobriety
+from boasting and glorying in their
+gifts. For there seemes to be a twofold
+Harmonie, or Musicke; the one
+of diuine prouidence, and the other
+
+of humane reason. Now to the eares
+of mortals, that is to humane iudgement,
+the administration of the
+world and the creatures therein, and
+the more secret iudgements of God,
+sound very hard and harsh; which
+folly albeit it bee well set out with
+Asses eares, yet notwithstanding
+these eares are secret, and doe not
+openly appeare, neither is it perceiued
+or noted as a deformity by the
+vulgar.
+               Lastly, it is not to be wondred at,
+that there is nothing attributed vnto
+Pan concerning loues, but onely
+of his mariage with Eccho: For the
+World or Nature doth enioy it
+selfe, and in it selfe all things els.
+Now hee that loues would enioy
+something, but where there is
+inough there is no place left to desire.
+Therefore there can be no wanton
+loue in Pan or the World, nor
+desire to obteine any thing (seeing
+he is contented with himselfe) but
+onely speeches, which (if plaine)
+may bee intimated by the Nymph
+
+                  Eccho, or, if more quaint, by Syrinx.
+It is an excellent inuention, that Pan
+or the world is said to make choise
+of Eccho onely (aboue all other
+speeches or voices) for his wife:
+for that alone is true philosophy,
+which doth faithfully render the very
+words of the world, and is written
+no otherwise then the world
+doth dictate, it being nothing els
+but the image or reflection of it, not
+adding any thing of its owne, but
+onely iterates and resounds. It belongs
+also to the sufficiency or perfection
+of the World, that the begets
+no issue: for the World doth generate,
+in respect of its parts, but in respect,
+of the whole, how can it generate,
+seeing without it there is no
+body? Notwithstanding all this, the
+tale of that tatling Girle faltred vpon
+Pan may in very deed with great
+reason be added to the Fable: for
+by her are represented those vaine
+and idle paradoxes concerning the
+nature of things which haue bene
+frequent in all ages, and haue filled
+
+the world with nouelties, fruitles if
+you respect the matter, changlings
+if you respect the kind, sometimes
+creating pleasure, sometimes tediosnes
+with their ouermuch pratling.
+            
+            
+               7.
+               PERSEVS, or Warre.
+               
+                  PErseus is said to haue beene emploied
+by Pallas for the destroying
+of Medusa, who was very
+infestious to the western parts of
+the world, and especially about the
+vtmost coasts of Hyberia. A monster
+to dire and horrid, that by her
+onely aspect shee turned men into
+stones. This Medusa alone of all
+the Gorgons was Mortall, the rest not
+subiect to death. Perseus therefore
+preparing himself for this noble enterprise
+had armes, and guifts bestowed
+on him by three of the
+Gods: Mercury gaue him wings
+annexed to his heeles, Pluto a helmet,
+Pallas a sheild and a looking
+Glasse. Notwithstanding (although
+
+hee were thus furnished) hee went
+not directly to Medusa, but first to
+the Greae which by the mother side
+were sisters to the Gorgons. These
+Greae from their birth were hoare-headed,
+resembling old women.
+They had but one onely eye, and
+one tooth among them all, both
+which shee that had occasion to goe
+abroad was wont to take with her,
+&amp; at her returne to lay them downe
+againe. This eye and tooth they
+lent to Perseus: and so finding himselfe
+throughly furnished for the effecting
+of his designe hastens towards
+Medusa. Her hee found sleeping,
+and yet durst not present himselfe
+with his face towards her, least
+shee should awake, but turning his
+head aside beheld her in Pallases
+glasse, and (by this meanes directing
+his blowe) cut of her head,
+from whose blood gusshing out instātly
+came Pegasus the flying horse.
+Her head thus smit of, Perseus bestows
+on Pallas her sheild, which yet
+reteined his vertue, that whosoeuer
+
+looked vpon it should become as
+stupid as a stone or like one plannet-strucken.
+               This Fable seemes to direct the
+preparation and order, that is to be
+vsed in making of Warre: for the
+more apt &amp; considerat vndertaking
+whereof, three graue and wholsome
+precepts (sauouring of the wisedome
+of Pallas) are to be obserued.
+               First, that men doe not much
+trouble themselues about the conquest
+of neighbour nations, seeing
+that priuate possessions, &amp; Empires
+are inlarged by different meanes: for
+in the augmentation of priuate reuenues
+the vicinity of mens territories
+is to bee considered: but in the
+propogation of publike dominions,
+the occasion and facility of making
+Warre, and the fruit to bee expected
+ought to be in steed of vicinity.
+Certeinly the Romans what time
+their conquests towards the West
+scarce reacht beyond Liguria, did
+yet in the East bring all the Prouinces
+as far as the mountain Taurus
+                  
+within the compasse of their
+armes and commaund: and therefore
+Perseus, although he were borne
+and bred in the East, did not yet refuse
+to vndertake an expedition
+euen to the vttermost bounds of the
+West.
+               Secondly, there must bee a care
+had that the motiues of Warre bee
+iust and honorable: for that begets
+an alacrity, aswel in the Souldiers
+that fight, as in the people that
+affoord pay: it draws on and procures
+aids, and brings manie other
+comodities besides. But there is no
+pretence to take vp armes more
+pious, then the suppressing of Tyrāny,
+vnder which yoake the people
+loose there courage, and are cast
+downe without heart &amp; vigor, as in
+the sight of Medusa.
+               
+               Thirdly, it is wisely added; that
+seeing there were three Gorgons (by
+which Wars are represented) Perseus
+vndertooke her onely that was mortal,
+that is hee made choice of such
+a kind of War as was likely to bee
+
+effected and brought to a period, not
+pursuing vast and endles hopes.
+               The furnishing of Perseus with
+necessaries was that which only aduanced
+his attempt &amp; drew fortune
+to bee of his side: For hee had speed
+from Mercury, concealing of his
+counsels from Orcus, and Prouidence
+from Pallas.
+               
+               Neither is it without an Allegory,
+and that ful of matter to, that
+those wings of celerity were fastned
+to Perseus his heeles, and not to his
+anckles, to his feet and not to his
+shoulders; because speed and celerity
+is required, not so much in the
+first preparationes for Warre, as in
+those things which second &amp; yeeld
+ayd to the first: for there is no error
+in Warre more frequent, then that
+prosecutions and subsidiary forces
+doe faile to answer the alacrity of the
+first onsets.
+               Now for that helmet which Pluto
+gaue him; powerful to make men
+inuisible, the moral is plaine: But
+that two-fould guift of prouidence
+
+(to wit the sheild &amp; looking glasse)
+is ful of morality: for that kind of
+prouidēce which like a sheild auoids
+the force of blows is not alone
+needfull, but that also by which the
+strength, and motions, and councels
+of the enemy are descried, as in
+the looking glasse of Pallas.
+               
+               But Perseus albeit he were sufficiently
+furnished with aid and courage,
+yet was hee to doe one thing
+of speciall importance before hee
+entred the lists with this Monster, &amp;
+that was to haue some intelligence
+with the Greae. These Greae are treasōs
+which may be termed the Sisters
+of Warre, not descended of the same
+stocke, but farre vnlike in nobility
+of birth; for Warres are generall
+and heroicall, but Treasons are base
+and ignoble. Their description is
+elegant: for they are said to bee
+grayheaded, and like old women
+from their birth, by reason that
+Traitors are continually vext with
+cares and trepidations. But all their
+strength (before they breake out
+               
+                  〈1 page missing〉
+               
+               
+                  〈1 page missing〉
+               
+            
+            
+               
+               8
+               ENDYMION, or a Fauorite.
+               IT is saide that Luna was in loue
+with the Shepheard Endymion,
+and in a strange and vnwonted manner
+bewrayed her affection: for he
+lying in a Caue framed by nature
+vnder the mountaine Latmus, shee
+oftentimes descended from her
+sphere to enioy his companie as he
+slept, and after shee had kissed him
+ascended vp againe. Yet notwithstanding
+this his idlenes and sleepie
+security did not any way impaire his
+estate or fortune; for Luna brought
+it so to passe that hee alone (of all
+the rest of the Shepheards) had
+his flocke in best plight, and most
+fruitfull.
+               This Fable may haue reference
+to the nature and disposition of
+Princes: for they beeing full of
+doubts and prone to iealousie, doe
+not easily acquaint men of prying
+and curious eyes, and as it were of
+
+vigilant and wakefull dispositions,
+with the secret humours and manners
+of their life: but such rather as
+are of quiet and obseruant natures,
+suffering them to doe what they list
+without further scanning, making
+as if they were ignorant and perceiuing
+nothing, but of a stupid disposition
+and possest with sleepe, yeelding
+vnto them simple obedience,
+rather then slie complements: for it
+pleaseth Princes now and then to
+descend from their thrones of Maiestie
+(like Luna from the superiour
+orbe) and laying aside their Robes
+of dignity (which alwaies to bee
+cumbred with, would seeme a kinde
+of burthen) familiarly to conuerse
+with men of this condition, which
+they thinke may bee done without
+danger; a quality chiefly noted in
+Tiberius Caesar, who (of all others)
+was a Prince most seuere, yet such
+onely were gracious in his fauour,
+as being well acquainted with his
+disposition, did yet constantly dissemble
+as if they knew nothing.
+
+This was the custome also of Lewis
+the eleuenth king of France, a cautious
+and wily Prince.
+               Neither is it without elegancy,
+that the caue of Endymion is mentioned
+in the Fable, because it is a thing
+vsuall with such as are the fauorites
+of Princes, to haue certaine pleasant
+retyring places whither to inuite
+them for recreation both of body
+and mind, and that without hurt
+or preiudice to their fortunes also.
+And indeed these kind of fauorites
+are men commonly well to passe:
+for Princes although peraduenture
+they promote them not euer to places
+of honour, yet doe they aduance
+them sufficiently by their favour
+and countenance: neither
+doe they affect them thus onely to
+serue their owne turne, but are
+wont to enrich them now and then
+with great dignities and bounties.
+            
+            
+               
+               9.
+               THE SISTER OF THE
+GYANTS, or Fame.
+               IT is a Poeticall relation that the
+Gyants begotten of the Earth
+made warre vpon Iupiter, and the
+other Gods, and by the force of
+lightning they were resisted &amp; ouerthrowne.
+Whereat the Earth being
+excitated to wrath, in reuenge of her
+children brought forth Fame, the
+youngest Sister of the Gyants.
+               
+                  Illam, terra parens ira irritata Deorum.
+                  Extremam (vt perhibent) Caeo Enceladoque
+sororem,
+                  Progenuit.—
+               
+               
+                  Prouok't by wrothfull Gods the
+mother Earth
+                  Giues Fame the Gyants yongest
+sister birth.
+               
+               The meaning of the Fable seemes
+to bee thus, By the Earth is signified
+
+the nature of the vulgar, alwaies
+swolne and malignant, and still broaching
+new scandals against superiors,
+and hauing gotten fit oportunity,
+stirres vp rebels, and seditious
+persons, that with impious
+courage doe molest Princes, and
+endeuour to subuert their estates:
+but being supprest, the same naturall
+disposition of the people stil leaning
+to the viler sort, (being impatient
+of peace and tranquility)
+spread rumors, raise malitious slanders,
+repining whisperings, infamous
+libelles, and others of that
+kind, to the detraction of them that
+are in authority: So as rebellious
+actions, and seditious reports, differ
+nothing in kind and blood, but as it
+were in Sex onely; the one sort
+being Masculine, the other Feminine.
+            
+            
+               
+               10.
+               ACTAEON, and PENTHEVS,
+or a curious Man.
+               THe curiosity of Men, in prying
+into secrets, and coueting with
+an indiscreet desire to atteine the
+knowledge of things forbidden, is
+set forth by the Ancients in two examples:
+the one of Actaeon, the
+other of Pentheus.
+               
+               
+                  Actaeon hauing vnawares, and
+as it were by chance beheld Diana
+naked, was turned into a Stag, and
+deuoured by his owne Dogges.
+               And Pentheus climing vp into a
+tree, with a desire to bee a spectator
+of the hidden sacrifices of Bacchus,
+was strucken with such a kind of
+frensie, as that whatsoeuer he look't
+vpon, he thought it alwaies double,
+supposing (among other things) he
+saw two Sunnes, and two Thebes;
+insomuch that running towards
+Thebes, spying another Thebes, instantly
+turned back againe, and so
+
+kept stil running forward and backward
+with perpetuall vnrest.
+               
+                  Eumenidum veluti demens videt
+agmina Pentheus,
+                  Et Solem geminum, &amp; duplices se
+ostendere Thebas.
+               
+               
+                  Pentheus amaz'd doth troops of
+furies spie,
+                  And Sunne and Thebes seeme
+dooble to his eye.
+               
+               The first of the Fables pertains
+to the secrets of Princes: the second
+to diuine mysteries. For those that
+are neare about Princes, and come
+to the knowledge of more secretes
+then they would haue them, doe
+certainly incurre great hatred. And
+therefore (suspecting that they are
+shot at, &amp; opportunities watcht for
+their ouerthrow) doe lead their
+liues like Stagges, fearefull and full
+of suspition. And it happens oftentimes
+that their Seruants, and those
+of their houshould (to insinuate into
+the Princes fauor) doe accuse them
+
+to their destruction: for against
+whomsoeuer the Princes displeasure
+is knowne, looke how many seruants
+that man hath, and you shall
+find them for the most part so many
+traytors vnto him, that his end may
+proue to bee like Actaeons.
+               
+               The other is the misery of Pentheus:
+for they that by the height
+of knowledge in nature and philosophy,
+hauing climed, as it were,
+into a tree, doe with rash attempts
+(vnmindfull of their frailtie) pry into
+the secrets of diuine mysteries, and
+are iustly plagued with perpetuall
+inconstancy, and with wauering
+and perplexed conceits: for seeing
+the light of nature is one thing, and
+of grace another, it happens so to
+them as if they saw two Sunnes. And
+seeing the actions of life, and decrees
+of will doe depend of the vnderstanding,
+it follows that they
+doubt, and are inconstant no lesse in
+will then in opinion, and so in like
+manner they may bee said to see
+two Thebes: for by Thebes (seeing
+
+there was the habitation and refuge
+of Pentheus) is meant the ende of
+actions. Hence it comes to passe
+that they knowe not whither they
+goe, but as distracted and vnresolued
+in the scope of their intentions,
+are in all things caried about with
+sudden passions of the mind.
+            
+            
+               11
+               ORPHEVS, or Philisophy.
+               THe tale of Orpheus, though
+common, had neuer the fortune
+to bee fitly applyed in euery
+point. It may seeme to represent the
+image of Philosophy: for the person
+of Orpheus (a man admirable
+and diuine, and so excellently skilled
+in all kinde of harmony, that
+with his sweet rauishing musicke he
+did as it were charme and allure all
+things to follow him) may cary a
+singular description of Philosophy:
+for the labours of Orpheus doe so far
+exceed the labors of Hercules, in dignity
+&amp; efficacy, as the works of wisdom,
+excell the works offortitude.
+               
+                  
+                  Orpheus for the loue hee bare to
+his wife (snacht as it were from him
+by vntimely death) resolued to goe
+downe to Hell with his Harpe, to
+try if hee might obtaine her of the
+infernall powers. Neither were his
+hopes frustrated: for hauing appeased
+them with the melodious sound
+of his voice and touch, preuailed at
+length so farre, as that they granted
+him leaue to take her away with
+him, but on this condition that shee
+should follow him, and hee not to
+looke backe vpon her, till he came
+to the light of the vpper world,
+which he (impatient of, our of loue
+and care, and thinking that he was
+in a manner past all danger) neuerthelesse
+violated, insomuch that the
+couenant is broken, and shee forthwith
+tumbles backe againe headlong
+into hell. From that time Orpheus
+falling into a deepe melancholy
+became a contemner of women
+kind, and bequeathed himselfe to a
+solitary life in the deserts, where by
+the same melody of his voice and
+
+harpe, hee first drew all manner of
+wild beasts vnto him, who (forgetfull
+of their sauage fiercenes, and
+casting off the precipitate prouocations
+of lust and fury, not caring to
+satiate their voracity by hunting after
+prey) as at a Theater in fawning
+and reconciled amity one towards
+another, stand all at the gaze about
+him, and attentiuely lend their eares
+to his Musicke. Neither is this all:
+for so great was the power and alluring
+force of his harmony, that he
+drew the woods &amp; moued the very
+stones to come and place themselues
+in an orderly and decent fashion about
+him. These things succeeding
+happily and with great admiration
+for a time, at length certaine Thracian
+Women (possest with the spirit
+of Bacchus) made such a horrid
+and strange noise with their Cornets,
+that the sound of Orpheus harp
+could no more be heard, insomuch
+as that Harmony, which was the
+bond of that order and society beeing
+dissolued, all dissorder began
+
+againe, and the beasts (returning to
+their wonted nature) pursued one
+another vnto death as before: neither
+did the trees or stones remaine
+any longer in their places: and Orpheus
+himselfe was by these femall
+Furies torne in pieces, and scattered
+all ouer the desart. For whose cruell
+death the riuer Helicon (sacred to
+the Muses) in horrible indignation,
+hid his head vnder ground, and raised
+it againe in another place.
+               The meaning of this Fable seemes
+to be thus. Orpheus musicke is of
+two sorts, the one appeasing the infernall
+powers, the other attracting
+beasts and trees. The first may bee
+fitly applyed to naturall philosophie,
+the second to morall or ciuill
+discipline.
+               The most noble worke of naturall
+philosophy, is the restitution
+and renouation of things corruptible,
+the other (as a lesser degree of
+it) the preseruation of bodies in
+their estate, deteining them from
+dissolution and putrefaction. And if
+
+this gift may be in mortals, certenly
+it can be done by no other meanes
+then by the due and exquisite temper
+of nature, as by the melody and
+delicate touch of an instrument. But
+seeing it is of all things the most difficult,
+it is seldome or neuer attained
+vnto, and in all likelyhood for
+no other reason, more then through
+curious diligence and vntimely impatience.
+And therefore Philosophy
+hardly able to produce so excellent
+an effect, in a pensiue humour
+(and not without cause) busies herselfe
+about humane obiects, and by
+perswasion and eloquence, insinuating
+the loue of vertue, equitie, and
+concord in the minds of men, draws
+multitudes of people to a society,
+makes them subiect to lawes, obedient
+to gouerment, and forgetfull
+of their vnbridled affections, whilst
+they giue eare to precepts, and submit
+themselues to discipline, whence
+followes the building of houses, erecting
+of townes, and planting of
+fields and orchards, with trees and
+
+the like, insomuch that it would not
+be amisse to say, that euen thereby
+stones, and woods were called together,
+and setled in order. And after
+serious tryall made and frustrated
+about the restoring of a body
+mortall; this care of ciuill affaires
+followes in his due place: Because
+by a plaine demonstration of the
+vneuitable necessity of death, mens
+minds are moued to seeke eternity
+by the fame and glory of their merits.
+It is wisely also said in the Fable,
+that Orpheus was auerse from the
+loue of women and mariage, because
+the delights of wedlocke and
+loue of children doe for the most
+part hinder men from enterprising
+great and noble designes for the
+publique good, holding posterity a
+sufficient step to immortalitie without
+actions.
+               Besides euen the very workes of
+wisedome, (although amongst all
+humane things they doe most excell)
+doe neuerthelesse meete with
+their periods. For it happens that
+
+(after kingdomes and commonwealths
+haue flourished for a time)
+euen tumults, and seditions, and
+warres arise; in the midst of which
+hurly burlies: first, lawes are silent,
+men returne to the prauity of their
+natures, fields and townes are wasted
+and depopulated, and then, (if
+this fury continue) learning and
+philosophy must needs be dismembred,
+so that a few fragments onely,
+and in some places will bee found
+like the scattered boords of shipwracke,
+so as a barbarous age must
+follow; and the streames of Helicon
+being hid vnder the earth vntill
+(the vicissitude of things passing)
+they breake out againe and appeare
+in some other remote nation,
+though not perhaps in the same
+climate.
+            
+            
+               
+               12.
+               COELVM, or Beginnings.
+               WEe haue it from the Poets
+by tradition, that Coelum
+was the ancientest of the Gods, and
+that his mēbers of generation were
+cut off by his sonne Saturne. Saturne
+had many children, but deuoured
+them as soone as they were borne.
+Iupiter onely escapt, who being
+come to mans estate, thrust Saturne
+his father into hell, and so vsurped
+the kingdome. Moreouer he pared
+off his fathers genitals with the same
+faulchin that Saturne dismembred
+Coelum, and cast them into the Sea,
+from whence came Venus. Not
+long after this, Iupiter (being scarce
+setled and confirmed in this kingdome)
+was inuaded by two memorable
+warres. The first of the
+Titans, in the suppressing of which
+Sol (who alone of all the Titans fauouring
+Iupiters side) tooke exceeding
+great pains. The second was
+
+of the Gyants, whom Iupiter himselfe
+destroied with thunderboults,
+and so all warres being ended, hee
+raigned secure.
+               This Fable seemes enigmatically
+to shew from whence all things
+tooke their beginning, not much
+differring from that opinion of philosophers,
+which Democritus afterwards
+laboured to mainteine, attributing
+eternity to the first Matter
+and not to the world. In which he
+comes somwhat neere the truth of
+diuine writ, telling vs of a huge deformed
+Masse, before the beginning
+of the six daies worke.
+               The meaning of the Fable is this,
+By Coelum may be vnderstood that
+vast concauity, or vaulted compasse
+that comprehends all matter: and by
+Saturne may bee meant the matter
+it selfe, which takes from its Parent
+all power of generating: for the
+vniuersality or whole bulke of matter
+alwaies remaines the same, neither
+increasing or diminishing in
+respect of the quality of its nature:
+
+But by the diuers agitations and
+motions of it were first produced
+imperfect, &amp; ill agreeing cōpositiōs
+of things, making, as it were certaine
+worlds for proofes or assaies,
+and so in processe of time a perfect
+fabricke or structure was framed,
+which should still reteine and keepe
+his forme. And therefore the gouerment
+of the first age was shaddowed
+by the kingdome of Saturne,
+who for the frequent dissolutions &amp;
+short continuances of things was
+aptly fained to deuoure his children.
+The succeeding gouerment was deciphered
+by the raigne of Iupiter,
+who confined those continuall mutations
+vnto Tartarus, a place signifying
+perturbation. This place
+seemes to bee all that middle space
+between the lower Superficies of
+Heauen and the center of the Earth:
+in which all perturbation and fragility
+and mortality or corruption
+are frequent. During the former
+generation of things in the time of
+Saturns raigne, Venus was not borne:
+
+for so long as in the vniuersality of
+Matter, discord was better &amp; more
+preualent then concord, it was necessary
+that there should bee a totall
+dissolution or mutation, and that in
+the whole fabricke. And by this
+kind of generation were creatures
+produced before Saturne was depriued
+of his genitalles. When this
+ceased, that other which is wrought
+by Venus, immediately came in, consisting
+in setled and preualent concord
+of things, so that Mutation
+should bee onely in respect of the
+parts, the vniuersall fabrick remaining
+whole and inuiolate.
+               
+                  Saturne they say was deposed &amp;
+cast downe into Hell, but not destroyed
+and vtterly extinguisht, because
+there was an opinion that the
+world should relapse into the old
+Chaos &amp; interregnum againe, which
+Lucretius praied might not happen
+in his time.
+
+                     
+                        Quod procul a nobis, flectat fortuna
+gubernans
+                        
+                           Et ratio potius quam res persuadeat
+ipsa.
+                     
+                     
+                        Oh guiding prouidence bee gratious,
+                        That this Doomes-day bee farre
+remou'd from vs.
+                        And graunt that by vs it may bee
+expected,
+                        Rather then on vs in our times
+effected.
+                     
+                  
+for afterward the world should subsist
+by its owne quantity and power.
+Yet from the beginning there was
+no rest: for in the celestiall Regions
+there first followed notable mutations,
+which by the power
+of the Sunne (predominating ouer
+superior bodies) were so quieted,
+that the state of the world should be
+conserued: and afterward (in inferior
+bodies) by the suppressing and
+dissipating of inundations, tempests,
+winds, and generall earthquakes,
+a more peacefull &amp; durable
+agreement and tranquility of things
+
+followed. But of this Fable it may
+conuertibly be said, that the Fable
+conteines philosophy, and philosophy
+againe the Fable: For wee know
+by faith, that all these things are
+nothing els but the long-since ceasing
+and failing Oracles of Sence,
+seeing that both the Matter and Fabrick
+of the world are most truly referred
+to a Creator.
+            
+            
+               13.
+               PROTEVS, or Matter.
+               THe Poets say that Proteus was
+Neptunes heard-man, a graue
+Syer, and so excellent a prophet, that
+hee might well bee termed thrice
+excellent: for hee knew not onely
+things to come; but euen things past
+aswell as present, so that besides his
+skill in diuination, hee was the messenger
+and interpreter of all Antiquities
+and hidden mysteries. The
+place of his abode was a huge vast
+caue, where his custome was euery
+day at noone to count his flock of
+
+Sea-calues, and then to goe to sleep.
+Moreouer he that desired his aduice
+in any thing, could by no other
+meanes obteine it, but by catching
+him in Manacles, and holding him
+fast therewith; who neuerthelesse
+to bee at liberty would turne himselfe
+into all manner of formes and
+wonders of nature, somtimes into
+fire, somtimes into water, somtimes
+into the shape of beasts and the like,
+till at length he were restored to his
+owne forme againe.
+               This Fable may seeme to vnfold
+the secrets of nature, and the properties
+of Matter. For vnder the person
+of Proteus, the first Matter
+(which next to God is the auncientest
+thing) may be represented: for
+Matter dwelles in the concauity of
+heauen as in a Caue.
+               He is Neptunes bond-man, because
+the operations and dispensations
+of Matter are chiefly exercised
+in liquid bodies.
+               His flocke or heard seemes to be
+nothing but the ordinary Species of
+
+sensible creatures, plants, and mettals:
+in which Matter seemes to diffuse
+and as it were spend it selfe, so
+that after the forming and perfecting
+of these kinds, (hauing ended
+as it were her taske) shee seemes to
+sleepe and take her rest, not attempting
+the composition of any more
+Species. And this may be the Morall
+of Proteus his counting of his
+flocke, and of his sleeping.
+               Now this is said to be done, not
+in the morning, nor in the euening,
+but at noone, to wit at such time as
+is most fit, and conuenient for the
+perfecting and bringing forth of
+Species out of Matter, duely prepared
+and predisposed, and in the middle,
+as it were, betweene their beginnings
+and declinations, which wee
+know sufficiently (out of the holy
+history) to be done about the time
+of the Creation: for then by the
+power of that diuine word (Producat)
+Matter at the Creators commaund
+did congregate it selfe (not
+by ambages or turnings, but instantly
+
+to the production of its worke
+into act and the constitution of Species.
+And thus farre haue wee the
+Narration of Proteus (free, and vnrestrained)
+together with his flocke
+compleat: for the vniuersality of
+things with their ordinary structures
+and compositions of Species
+beares the face of matter not limited
+and constrained, and of the flocke
+also of materiall beings. Neuerthelesse,
+if any expert Minister of Nature,
+shall encounter Matter by main
+force, vexing, and vrging her with
+intent and purpose to reduce her to
+nothing; shee contrariwise (seeing
+annihilation and absolute destruction
+cannot be effected but by the
+omnipotency of God) being thus
+caught in the straites of necessitie,
+doth change and turne her selfe into
+diuers strange formes and shapes of
+things, so that at length (by fetching
+a circuit, as it were) shee comes
+to a period, and (if the force continue)
+be takes her selfe to her former
+being. The reason of which constraint
+
+or binding will bee more facile
+and expedite, if Matter be laide
+hold on by Manacles, that is, by extremities.
+               Nowe whereas it is fained that
+Proteus was a prophet, well skilled
+in three differences of times, it hath
+an excellent agreement with the nature
+of Matter: for it is necessary
+that he that will knowe the properties
+and proceedings of Matter,
+should comprehend in his vnderstanding
+the summe of all things,
+which haue bene, which are, or
+which shall be, although no knowledge
+can extend so farre as to singular
+and indiuiduall beings.
+            
+            
+               14
+               MEMNON, or a youth too
+forward.
+               THe Poets say, that Memnon was
+the sonne of Aurora, who
+(adorned with beautifull armour,
+and animated with popular applause)
+came to the Troiane warre:
+
+where (in a rash boldnes, hasting vnto,
+and thristing after glory) he enters
+into single combate with Achilles
+the valiantest of all the Grecians,
+by whose powerfull hand he
+was there slaine. But Iupiter pittying
+his destruction, sent birds to
+modulate certaine lamentable and
+dolefull notes at the Solemnization
+of his funerall obsequies. Whose
+statue also (the Sunne reflecting
+on it with his morning beames) did
+vsually (as is reported) send forth a
+mournfull sound.
+               This Fable may be applied to the
+vnfortunate destinies of hopefull
+young men, who like the sonnes of
+Aurora (puft vp with the glittering
+shew of vanity and ostentation) attempt
+actions aboue their strength,
+and prouoke and presse the most valiant
+Heroes to combate with them,
+so that (meeting with their ouermatch)
+are vanquished and destroyed,
+whose vntimely death is oft accompanied
+with much pitty and
+commiseration. For among all the
+
+disasters that can happen to mortals,
+there is none so lamentable
+and so powrefull to moue compassion
+as the flower of vertue
+cropt with too sudden a mischance.
+Neither hath it beene often
+knowne that men in their greene
+yeares become so loathsome and odious,
+as that at their deathes
+either sorrow is stinted, or commiseration
+moderated: but that lamentation
+and mourning doe not
+onely flutter about their obsequies
+like those funerall birds; but this
+pittifull commiseration doth continue
+for a long space, and especially
+by occasions and new motions,
+and beginning of great matters,
+as it were by the morning raies
+of the Sunne, their passions and desires
+are renued.
+            
+            
+               
+               15.
+               TITHONVS, or Satiety
+               IT is elegantly fained that Tithonus
+was the paromour of Aurora,
+who (desirous for euer to enjoy his
+company) petitioned Iupiter that
+he might neuer dye, but (through
+womanish ouersight) forgetting to
+insert this clause in her petition, that
+he might not withall grow old and
+feeble, it followed that he was onely
+freed from the condition of mortality,
+but for old age, that came vpon
+him in a maruelous and miserable
+fashion, agreeable to the state of
+those who cannot die, yet euery day
+grow weaker and weaker with age.
+Insomuch that Iupiter (in commiseratio
+of this his misery) did at length
+metamorphose him into a Grashopper.
+               This Fable seemes to bee an ingenuous
+Character or description
+of pleasure, which in the beginning,
+&amp; as it were in the morning seemes
+
+to be so pleasant and delightfull that
+men desire they might enjoy &amp; monopolize
+it for euer vnto thēselues,
+vnmindfull of that Satiety and loathing,
+which (like old age) will
+come vpon them before they bee
+aware. And so at last (when the vse
+of pleasure leaues men, the desire &amp;
+affection not yet yeilding vnto
+death) it comes to passe that men
+please themselues onely by talking
+and commemorating those things
+which brought pleasure vnto them
+in the flower of their age, which
+may be obserued in libidinous persons,
+and also in men of military
+professions: the one delighting in
+beastly talke, the other boasting of
+their valorous deeds like Grashoppers,
+whose vigor consists onely in
+their voyce.
+            
+            
+               
+               16.
+               IVNOS SVTOR, or
+Basenesse.
+               THe Poets say, that Iupiter to
+enioy his lustfull delights tooke
+vpon him the shape of sundry creatures,
+as of a Bull, of an Eagle, of a
+Swane, and of a goulden shower: but
+being a Sutor to Iuno hee came in a
+forme most ignoble and Base, an
+obiect full of contempt and scorne,
+resembling indeed a miserable Cuckow,
+weather-beaten with raine &amp;
+tempest, nummed, quaking, and
+halfe dead with coulde.
+               This Fable is wise and seemes to
+bee taken out of the bowels of morallity,
+the sence of it being this,
+That men boast not too much of
+themselues, thinking by ostentation
+of their owne worth to insinuate
+themselues into estimation and
+fauor with men, the successe of such
+intentions being for the most part
+measured by the nature and disposition
+
+of those to whom men sue for
+grace: Who if of themselues they
+bee indowed with no guifts and ornaments
+of nature, but are onely of
+haughtie and malignant spirits (intimated
+by the person of Iuno) then
+are Sutors to know that it is good
+policy to omit all kind of apparance
+that may any way shew their
+owne least praise or worth: and
+that they much deceiue themselues
+in taking any other course. Neither
+is it inough to shew deformity in obsequiousnes,
+vnlesse they also appeare
+euen abiect and base in their
+very persons.
+            
+            
+               17.
+               CVPID, or an Atome.
+               THat which the Poets say of
+Cupid or Loue cannot properly
+be attributed to one and the selfe
+same person; and yet the difference
+is such, that (by reiecting the confusion
+of persons) the similitude
+may be receaued.
+               
+                  
+They say that Loue is the ancientest
+of all the Gods, and of all
+things els except Chaos, which
+they hould to bee a contemporary
+with it. Now as touching Chaos,
+that by the ancients was neuer dignified
+with diuine honour, or with
+the title of a God. And as for
+Loue, they absolutely bring him in
+without a father, onely some are of
+opinion that hee came of an Egge
+which was laid by Nox, and that on
+Chaos hee begot the Gods and all
+things els. There are fower things
+attributed vnto him, perpetuall infancy,
+blindnes, nakednes, and
+an Archery. There was also another
+Loue which was the yongest
+of the Gods, and he, they say, was
+the Sonne of Venus. On this also
+they bestowe the attributes of the
+elder Loue, as in some sort well applie
+vnto him.
+               This Fable tends and lookes to
+the Cradle of Nature, Loue seeming
+to bee the appetite or desire of the
+first matter, or (to speake more
+
+plaine) the naturall motion of the
+Atome, which is that ancient and
+onely power that formes and fashions
+all things out of Matter, of
+which there is no Parent, that is to
+say, no cause, seeing euery cause is as
+a parent to its effect. Of this power
+or vertue there can bee no cause in
+Nature (as for God, we alwaies except
+him) for nothing was before it,
+and therefore no efficient cause of
+it. Neither was there any thing better
+knowen to nature, and therefore
+neither Genus nor Forme. Wherefore
+whatsoeuer it is, positiue it is,
+and but inexpressible. Moreouer, if
+the manner and proceeding of it,
+were to be conceiued, yet could it
+not bee by any cause, seeing that
+(next vnto God) it is the cause of
+causes, it selfe onely without any
+cause. And perchance there is no
+likely hood, that the manner of it
+may bee conteined or comprehended
+within the narrow compasse of
+humane search. Not without reason
+therefore is it fained to come of an
+
+Egge which was layed by Nox. Certenly
+the diuine Philosopher grants
+so much. Eccl. 3. 11. Cuncta fecit
+tempestatibus suis pulchra, &amp; mundum
+tradidit disputationibus eorum,
+it a tamen vt non inueniat homo opus,
+quod operatus est Deus, a principio ad
+finem. That is, he hath made euery
+thing beautifull in their seasons, also
+he hath set the world in their meditations,
+yet cannot man find out
+the worke that God hath wrought,
+from the beginning euen to the end.
+For the principall law of Nature, or
+power of this desire, created (by
+God) in these parcels of things, for
+concurring and meeting together
+(from whose repetitions and
+multiplications, all variety of creatures
+proceeded and were composed)
+may dazzle the eies of mens
+vnderstandings, and comprehended
+it can hardly bee. The Greeke
+Philosophers are obserued to be very
+acute and diligent in searching
+out the materiall principles of
+things: but in the beginnings of
+
+motion (wherein consists all the efficacy
+of operation) they are negligent
+and weake, and in this that wee
+handle, they seeme to be altogether
+blind and stammering: for the opinion
+of the Peripatetickes concerning
+the appetite of Matter caused
+by Priuation, is in a manner nothing
+els but words, which rather sound
+then signifie any realty. And those
+that referre it vnto God, doe very
+well, but then they leape vp, they
+ascend not by degrees: for doubtles
+there is one chiefe lawe subordinate
+to God, in which all naturall things
+concurre and meete, the same that
+in the fore-cited Scripture is demonstrated
+in these words. Opus,
+quod operatus est Deus a principio vsque
+ad finem, the worke that God
+hath wrought from the beginning
+euen to the ende. But Democritus
+which entred more deepely into the
+consideration of this point after he
+had conceaued an Atome with
+some small dimension and forme, he
+attributed vnto it one onely desire,
+
+or first motion simply or absolutely,
+and another comparatiuely or in
+respect: for hee thought that all
+things did properly tend to the center
+of the world, whereof those bodies
+which were more materiall descended
+with swifter motion, and
+those that had lesse matter did on
+the contrary tend vpward. But this
+meditation was very shallow conteyning
+lesse then was expedient:
+for neither the turning of the celestiall
+bodies in a round, nor shutting
+and opening of things may seeme
+to be reduced or applied to this beginning.
+And as for that opinion
+of Epicurus concerning the casuall
+declination and agitation of the
+Atome, it is but a meere toy, and a
+plaine euidence, that he was ignorant
+of that point. It is therefore
+more apparent (then wee could
+wish) that this Cupid or Loue remaines
+as yet clouded vnder the
+shades of Night. Now as concerning
+his attributes: Hee is elegantly
+described with perpetuall infancie
+
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+desire to some indiuiduall nature,
+so that the generall disposition
+comes from Venus, the more exact
+sympathy from Cupid, the one deriued
+from causes more neere,
+the other from beginnings more
+remote and fatall, and as it were
+from the elder Cupid, of whom euery
+exquisite sympathie doth depend.
+            
+            
+               18
+               DIOMEDES, or Zeale.
+               
+                  DIomedes flourishing with great
+fame and glory in the Troian
+warres, and in high fauour with Pallas
+was by her instigated (beeing indeed
+forwarder then he should haue
+bene) not to forbeare Venus a iote,
+if he encountred with her in fight,
+which very boldly hee performed,
+wounding her in the right arme.
+This presumptuous fact hee caried
+cleare for a while, and being honored
+and renowned for his many heroicke
+deeds; at last returned into
+
+his owne countrey, where finding
+himselfe hard besteed with domesticke
+troubles, fled into Italy, betaking
+himselfe to the protection of
+Forreiners, where in the beginning
+he was fortunate and royally entertained
+by King Daunus with sumptuous
+gifts, raising many statues in
+honour of him throughout his dominions.
+But vpon the very first
+calamity that hapned vnto this nation
+whereunto he was fled for succor:
+King Daunus enters into a conceipt
+with himselfe that he had entertained
+a wicked guest into his family,
+and a man odious to the Gods
+and an impugner of their Diuinity,
+that had dared with his sword to
+assault and wound that Goddesse,
+whom in their religion they held it
+sacrilege so much as to touch. Therfore,
+that he might expiat his countreyes
+guilt (nothing respecting the
+duties of hospitality, when the
+bonds of Religion tyed him with a
+more reuerend regarde) suddenly
+slew Diomedes, commanding withall
+
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+time in their senses and memories.
+            
+            
+               19.
+               DAEDALVS, or Mechanique.
+               MEchanicall wisedome and industry,
+and in it vnlawfull
+science peruerted to wrong ends, is
+shadowed by the Ancients vnder
+the person of Daedalus, a man ingenious,
+but execrable. This Daedalus
+(for murthering his fellow seruant
+that emulated him) being
+bannished, was kindly interteined
+(during his exile) in many cities,
+and Princes Courts: for indeed he
+was the raiser and builder of many
+goodly structures, as well in honour
+of the Gods, as for the beautie and
+magnificence of cities, and other
+publick places: but for his works of
+mischeefe he is most notorious. It is
+he which framed that engine which
+Pasiphae vsed to satisfie her lust in
+companying with a bull, so that by
+
+this his wretched industrie and pernicious
+deuice, that Monster Minotaur
+(the destruction of so many
+hopefull youthes) tooke his accursed
+and infamous beginning, and
+studying to couer and increase one
+mischeife with another, for the security
+&amp; preseruation of this Monster
+hee inuented and built a Labyrinth,
+a worke for intent and vse
+most nefarious and wicked, for
+skill and workmanship famous and
+excellent. Afterward that he might
+not bee noted onely for works of
+mischeefe, but be sought after as
+well for remedies, as for instruments
+of destruction; hee was the
+Author of that ingenious deuice
+concerning the clue of threed, by
+which the Labyrinth was made passable
+without any let. This Daedalus
+was persecuted by Minos with
+great seuerity, diligence and inquiry,
+but he always found the meanes to
+auoid and escape his tyranny. Lastly
+he taught his sonne Icarus to flie,
+but the nouice in ostentation of his
+
+art soaring too high, fell into the
+Sea, and was drowned.
+               The Parable seemes to be thus:
+In the beginning of it may be noted
+that kind of enuie or emulation that
+lodgeth and wonderfully swaies and
+domineers amongst excellent artificers,
+there being no kinde of people
+more reciprocally tormented
+with bitter and deadly hatred then
+they.
+               The bannishment also of Dedalus
+(a punishment inflicted on
+him against the rules of policy and
+prouidence) is worth the nothing:
+for Artificers haue this prerogatiue
+to find enterteinment and welcome
+in all countries, so that exile to an
+excellent workman can hardly bee
+termed a punishment, whereas other
+conditions and states of life can
+scarce liue out of their owne country.
+The admiration of artificers
+is propogated and increast in forrein
+and strange nations, seeing it is a
+naturall and inbred disposition of
+men to value their owne countrimen
+
+(in respect of Mechanicall
+works) lesse then strangers.
+               Concerning the vse of Mechanicall
+arts, that which follows is
+plaine. The life of man is much
+beholding to them, seeing many
+things (conducing to the ornament
+of religion, to the grace of ciuill
+discipline, and to the beautifying
+of all humane kind) are extracted
+out of their treasuries: and yet notwithstanding
+from the same Megazine
+or storehouse are produced instruments
+both of lust and death,
+for (to omit the wiles of bandes) we
+well know how farre exquisit poisons,
+warlike engines, and such
+like mischeifs (the effects of Mechanicall
+inuentions) doe exceed the
+Minotaur himselfe in malignity &amp;
+sauage cruelty.
+               Moreouer, that of the Labyrinth
+is an excellent Allegory, whereby is
+shadowed the nature of Mechanicall
+sciences: for all such handicrafte
+works as are more ingenious
+and accurate, may bee compared
+
+to a Labyrinth in respect of subtilty
+and diuers intricate passages, and
+in other plaine resemblances, which
+by the eye of iudgement can hardly
+be guided and discerned, but onely
+by the line of experience.
+               Neither is it impertinently added,
+that hee which inuented the intricate
+nooks of the Labyrinth, did
+also shew the cōmodity of the clue:
+for Mechanicall arts are of ambiguous
+vse, seruing as well for hurt
+as for remedy, and they haue in a
+manner power both to loose and
+bind themselues.
+               Vnlawfull trades, and so by consequence
+arts themselues are often
+persecuted by Minos, that is by
+lawes, which doe condemne them
+and prohibit men to vse them. Neuerthelesse
+they are hid and retained
+euery where, finding lurking holes,
+and places of receipt, which was
+well obserued by Tacitus of the Mathematicians
+and figure flingers of
+his time in a thing not much vnlike;
+Genus (inquit) hominum quod in ciuitate
+
+nostra semper &amp; retinebitur &amp;
+vetabitur. There is a kind of men
+(faith hee) that will always abide in
+our Citie though always forbiddē.
+And yet notwithstanding vnlawfull
+&amp; curious arts of what kind soeuer,
+in tract of time, when they cannot
+performe what they promise, doe
+fall from the good opinion that was
+held of them (no otherwise then
+Icarus fell downe from the skies)
+they growe to be contemned and
+scorned, and so perish by too much
+ostentation. And, to say the truth,
+they are not so happily restreined by
+the raines of law, as bewraied by
+their owne vanitie.
+            
+            
+               20.
+               ERICTHONIVS, or Imposture.
+               THe Poets fable that Vulcan sollicited
+Minerua for her virginity,
+and impatient of deniall with
+an inflamed desire offered her violence,
+but in struggling his Seed fell
+vpon the ground, whereof came
+
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+mother they cast them behind their
+backs, which at first struck them
+with great amazement and dispaire,
+seeing (all things being defaced by
+the flood) it would be an endles
+worke to find their mothers sepulcher,
+but at length they vnderstood
+that by bones the stones of the earth
+(seeing the earth was the mother of
+all things) were signified by the
+Oracle.
+               This Fable seemes to reueale a
+secret of Nature, and to correct an
+error familiar to mens conceipts:
+for through want of knowledge,
+men thinke that things may take renouation
+and restauration from
+their putrefaction and dregs, no
+otherwise then the Phoenix from the
+ashes, which in no case can be admitted,
+seing such kind of materials,
+when they haue fulfilled their periods,
+are vnapt for the beginings
+of such things: wee must therefore
+looke back to more common principles.
+            
+            
+               
+               22.
+               NEMESIS, or the Vicissitude
+of things.
+               
+                  NEmesis is said to be a Goddesse
+venerable vnto all, but to bee
+feared of none but potentates and
+fortunes fauorites. She is thought
+to be the Daughter of Oceanus and
+Nox. Shee is purtrayed with
+wings on her shoulders, and on her
+head a Coronet; bearing in her right
+hand a iauelin of Ash, and in her
+left a Pitcher with the similitudes of
+Aethiopians engrauen on it: and
+lastly shee is described sitting on a
+Hart.
+               The Parable may bee thus vnfolded.
+Her name Nemesis doth
+plainly signifie. Reuenge or Retribution,
+her office and administration
+being (like a Tribune of the people)
+to hinder the constant &amp; perpetuall
+felicity of happy men, and to interpose
+her word, veto, I forbid the continuance
+of it, that is, not onely to
+
+chastice insolency, but to intermix
+prosperity (though harmles and in
+a meane) with the vicissitudes of
+aduersity, as if it were a custome,
+that noe mortall man should be admitted
+to the Table of the Gods but
+for sport. Truly when I read that
+Chapter, wherein Caius Plinius
+hath collected the misfortunes and
+miseries of Augustus Caesar, whom
+of all men I thought the most happy,
+who had also a kind of arte to
+vse and inioy his fortune, and in
+whose mind might be noted neither
+pride, nor lightnes, nor nicenes, nor
+disorder, nor melancholly (as that
+he had appointed a time to die of his
+owne accord) I then deemed this
+Goddesse to be great and powerfull,
+to whose altar so worthy a sacrifice
+as this was drawen.
+               The Parents of this Goddesse
+were Oceanus and Nox that is, the vicissitude
+of things, and diuine iudgement
+obscure and secret: for the alterations
+of things are aptly represented
+by the Sea, in respect of the
+
+continuall ebbing and flowing of
+it: and hidden prouidence is well
+set forth by the Night: for euen the
+nocturnall Nemesis (seeing humane
+iudgement differs much from diuine)
+was seriously obserued by the
+heathen.
+               
+                  Virgill Aeneid. lib. 2.
+                  —Cadit &amp; Ripheus instissimus
+vnus,
+                  Qui fuit ex Teucris, &amp; seruantissimus
+equi,
+                  Dijs aliter visum—.
+               
+               
+                  That day by Greekish force was
+Ripheus slaine,
+                  So iust and strict obseruer of the
+law,
+                  As Troy within her walles did
+not containe
+                  A better man: Yet God then
+good it saw.
+               
+               Shee is described with wings, because
+the changes of things are so
+sudden, as that they are seene, before
+
+foreseene: for in the Records of all
+ages, wee finde it for the most part
+true, that great potentates, and wise
+men haue perished by those misfortunes
+which they most contemned,
+as may be obserued in Marcus Cicero,
+who being admonished by Decius
+Brutus of Octauius Cesars hippocriticall
+friendshippe and hollow
+heartednes towards him, returnes
+this answere; Te autem, mi Brute, sicut
+debeo, amo, quod istud quicquid est
+nugarum me scire voluisti. I must euer
+acknowledge my selfe (Deare
+Brutus) beholding to thee, in loue,
+for that thou hast bene so carefull
+to acquaint mee with that which
+I esteeme but as a needles trifle to
+be doubted.
+               
+                  Nemesis is also adorned with a
+Coronet, to shew the enuious and
+malignant disposition of the vulgar,
+for when fortunes fauourites and
+great potentates come to ruine,
+then doe the common people reioyce,
+setting as it were a crowne
+vpon the head of reuenge.
+               
+                  
+The Iauelin in her right hand
+points at those, whom shee actually
+strikes and pierceth thorow.
+               And before those, whom shee destroyes
+not in their calamitie and
+misfortune, shee euer presents that
+blacke and dismall spectacle in her
+left hand: for questionles to men
+sitting, as it were, vpon the pinnacle
+of prosperity, the thoughts of death
+&amp; painfulnes of sicknes and misfortunes,
+perfidiousnes of friends, treachery
+of foes, change of state, and
+such like, seeme as ougly to the eye
+of their meditations, as those Ethiopians
+pictured in Nemesis her Pitcher.
+Virgill in describing the battell
+of Actium, speakes thus elegantly
+of Cleopatra.
+               
+               
+                  Regina in medijs patrio vocat agmina
+sistro,
+                  Nec dum etiam geminos à tergo
+respicit angues..
+               
+               
+                  The Queene amidst this hurly
+burly stands,
+                  
+                     
+And with her Countrey Timbrell
+calles her bands;
+                  Not spying yet where crawld behind
+her backe
+                  Two deadly Snakes with venom
+speckled blacke.
+               
+               But not long after, which way
+soeuer shee turned, troops of Ethiopians
+were still before her eies.
+               Lastly, it is wisely added, that Nemesis
+rides vpon an Hart, because a
+Hart is a most liuely creature. And
+albeit it may be, that such as are cut
+off by death in their youth, preuent
+and shunne the power of Nemesis,
+yet doubtles such, whose prosperity
+and power continue long, are made
+subiect vnto her, and lye as it were
+troden vnder her feete.
+            
+            
+               23.
+               ACHELOVS, or Battell.
+               IT is a Fable of antiquitie, that
+when Hercules and Achelous as
+riuals contended for the mariage of
+
+                  Deianira, the matter drew them to
+combate, wherein Achelous tooke
+vpon him many diuers shapes, for
+so was it in his power to doe, and
+amongst others, transforming himselfe
+into the likenes of a furious
+wild Bull, assaults Hercules and prouokes
+him to fight. But Hercules for
+all this, sticking to his old humane
+forme, couragiously encounters
+him, &amp; so the combate goes roundly
+on. But this was the euent, that
+Hercules tore away one of the Buls
+hornes, wherewith he being mightily
+daunted and greeued, to ransome
+his horne againe, was contented
+to giue Hercules in exchange
+thereof, the Anealthean horne, or
+Cornu-Copia.
+               
+               This Fable hath relation vnto the
+expeditions of warre, for the preparations
+thereof on the defensiue
+parte (which exprest in the person
+of Achelous) is very diuers and vncertaine.
+But the inuading party is
+most commonly of one sorte, and
+that very single, consisting of an armie
+
+by land, or perhaps of a Nauie
+by Sea. But for a King that in his
+owne Territorie expects an enemy,
+his occasions are infinite. He fortifies
+townes, he assembles men out
+of the countreyes and villages, hee
+raiseth Cittadels, hee builds and
+breakes downe bridges, hee disposeth
+garrisons, and placeth troopes
+of Soldiers on passages of riuers,
+on ports, on Mountaines, and ambushes
+in woods, and is busied with
+a multitude of other directions, insomuch
+that euery day he prescribeth
+new formes and orders, and
+then at last hauing accomodated
+all things compleat for defence, he
+then rightly represents the forme
+and manner of a fierce fighting
+Bull. On the other side, the inuader
+his greatest care is, the feare to bee
+distressed for victuals in an enemy
+Countrey. And therefore affects
+chiefly to hasten on battell: for if it
+should happen that after a fielde
+fought, he proue the victor, and as
+it were breake the horne of the Enemy,
+
+then certainly this follows that
+his enemy being strucken with terrour
+and abased in his reputation,
+presently bewraies his weaknes, and
+seeking to repaire his losse, retyres
+himselfe to some strong hold, abandoning
+to the Conqueror the spoile
+and sacke of his countrey and citties:
+which may well bee termed a
+type of the Amalthean horne.
+            
+            
+               24.
+               DIONYSVS, or Passions.
+               THey say that Semele Iupiters
+Sweet-heart (hauing bound
+her Paramour by an irreuocable
+oath to grant her one request which
+shee would require) desired that he
+would accompany her in the same
+forme, wherein hee accompanied
+Iuno: which he granting (as not able
+to deny) it came to passe that the
+miserable wench was burnt with
+lightning. But the infant which she
+bare in her wombe, Iupiter the Father
+tooke out, and kept it in a gash
+
+which hee cut in his thigh, till the
+moneths were compleat that it
+should be borne. This burden made
+Iupiter somewhat to limpe, whereupon
+the child (because it was heauy
+and troublesome to its Father,
+while it lay in his thigh) was called
+Dionysus, Being borne, it was committed
+to Proserpina for some yeeres
+to be nurs't, and being growne vp,
+it had such a maiden face, as that a
+man could hardly iudge whether it
+were a boy or a girle. He was dead
+also, and buried for a time, but afterward
+reuiued. Being but a youth
+he inuented, and taught the planting
+and dressing of Vines, the making
+also and vse of wine, for which
+becomming famous and renowned,
+he subiugated the world, euen to
+the vttermost bounds of India. He
+rode in a Chariot drawen with Tygers.
+There danc't about him certaine
+deformed hobgoblins called
+Cobali, Aoratus, and others, yea euen
+the Muses also were some of his followers.
+Hee tooke to wife Ariadne,
+                  
+forsaken and left by Theseus. The
+tree sacred vnto him was the Iuie.
+He was held the inuentor and institutor
+of Sacrifices, and Ceremonies,
+and full of corruption and cruelty.
+Hee had power to strike men
+with fury or madnes; for it is reported,
+that at the celebration of
+his Orgies, two famous worthies,
+Pentheus and Orpheus were torne in
+pieces by certaine franticke women,
+the one because he got vpon a tree
+to behold their ceremonies in these
+sacrifices, the other for making melodie
+with his harpe. And for his
+gests, they are in a manner the same
+with Iupiters.
+               
+               There is such excellent morality
+coucht in this Fable, as that Morall
+philosophy affoords not better:
+for vnder the person of Bacchus is
+described the nature of affection,
+passion, or perturbation, the mother
+of which (though neuer so hurtful)
+is nothing els but the obiect of apparent
+good in the eies of Appetite.
+And it is alwaies conceiued in an
+
+vnlawfull desire rashly propounded
+and obteined, before well vnderstood
+and considered, and when it
+beginnes to growe, the Mother of
+it, which is the desire of apparent
+good by too much feruency is destroyed
+and perisheth: Neuerthelesse
+(whilst it is yet an imperfect
+Embrio) it is nourished and preserued
+in the humane soule, (which is
+as it were a father vnto it, and represented
+by Iupiter) but especially in
+the inferiour parte thereof, as in a
+thigh, where also it causeth so much
+trouble and vexation, as that good
+determinations and actions are
+much hindred and lamed thereby,
+and when it comes to be confirmed
+by consent and habite, and breakes
+out, as it were, into act, it remaines
+yet a while, with Proserpina as with
+a Nurse, that is, it seekes corners and
+secret places, and, as it were, caues
+vnder ground, vntill (the reines of
+shame and feare being laid aside in
+a pampered audaciousnes) it either
+takes the pretext of some vertue, or
+
+becomes altogether impudent and
+shameles. And it is most true, that
+euery vehement passion is of a
+doubtfull sexe, as being masculine
+in the first motion, but faeminine in
+prosecution.
+               It is an excellent fiction that of
+Bacchus his reuiuing: for passions
+doe somtimes seeme to be in a dead
+sleepe, and as it were vtterly extinct,
+but wee should not thinke them to
+be so indeed, no, though they lay, as
+it were, in their graue; for, let there
+be but matter and opportunitie offered,
+and you shall see them quickly
+to reuiue againe.
+               The inuention of wine is wittily
+ascribed vnto him, euery affection
+being ingenious and skilfull in finding
+out that which brings nourishment
+vnto it; And indeed of all
+things knowen to men, Wine is
+most powerfull and efficacious to
+excite and kindle passions of what
+kind soeuer, as being in a manner,
+a common Nurse to them all.
+               Againe his conquering of Nations,
+
+and vndertaking infinite expeditions
+is an elegant deuice; For
+desire neuer rests content with what
+it hath, but with an infinite and vnsatiable
+appetite still couets and
+gapes after more.
+               His Chariot also is well said to be
+drawen by Tygers: for as soone as
+any affection shall from going afoot,
+be aduanc't to ride in a Chariot
+and shall captiuate reason, and
+leade her in a triumph, it growes
+cruell, vntamed, and fierce, against
+whatsoeuer withstands or opposeth
+it.
+               It is worth the nothing also, that
+those ridiculous hobgoblins are
+brought in, dancing about his Chariot:
+for euery passion doth cause,
+in the eies, face, and gesture, certaine
+vndecent, and ill-seeming,
+apish, and deformed motions, so
+that they who in any kind of passion,
+as in anger, arrogancy, or loue,
+seeme glorious and braue in their
+owne eies, do yet appeare to others
+misshapen and ridiculous.
+               
+                  
+In that the Muses are saide to be
+of his company, it shewes that there
+is no affection almost which is not
+soothed by some Art, wherein the
+indulgence of wits doth derogate
+from the glory of the Muses, who
+(when they ought to bee the Mistresses
+of life) are made the waiting
+maids of affections.
+               Againe, where Bacchus is saide to
+haue loued Ariadne that was reiected
+by Theseus; it is an Allegory of
+speciall obseruation: for it is most
+certaine, that passions alwaies couet
+and desire that which experience
+forsakes, and they all knowe
+(who haue paide deare for seruing
+and obeying their lusts) that whether
+it be honour, or riches, or delight,
+or glory, or knowledge, or
+any thing els which they seeke after,
+yet are they but things cast off,
+and by diuers men in all ages, after
+experience had, vtterly reiected and
+loathed.
+               Neither is it without a mysterie,
+that the Iuie was sacred to Bacchus:
+                  
+for the application holds, first, in
+that the Iuie remaines greene in
+winter. Secondly, in that it stickes
+too, embraceth, and ouertoppeth
+so many diuers bodies, as trees,
+walles, and edifices. Touching the
+first, euery passion doth by resistance,
+and reluctation, and as it
+were by an Antiparistasis (like the
+Iuie of the colde of winter) growe
+fresh and lusty. And as for the other
+euery predominate affection
+doth againe (like the Iuie) embrace
+and limite all humane actions and
+determinations, adhering and cleauing
+fast vnto them.
+               Neither is it a wonder, that superstitious
+rites, and ceremonies
+were attributed vnto Bacchus seeing
+euery giddy headed humour keepes
+in a manner, Reuell-rout in false
+religions: or that the cause of madnes
+should bee ascribed vnto him,
+seeing euery affection is by nature
+a short fury, which (if it growe vehement,
+and become habituall)
+concludes madnes.
+               
+                  
+Concerning the rending and
+dismembring of Pentheus and Orpheus,
+the parable is plaine, for euery
+preualent affection is outragious
+and seuere against curious inquiry,
+and wholsome and free admonition.
+               Lastly, that confusion of Iupiter
+and Bacchus, their persons may be
+well transferred to a parable, seeing
+noble and famous acts, and remarkable
+and glorious merits, doe sometimes
+proceed from vertue, and well
+ordered reason, and magnanimitie,
+and sometimes from a secret affection,
+and hidden passion, which
+are so dignified with the celebritie
+of fame and glory, that a man can
+hardly distinguish betweene the
+actes of Bacchus, and the gests of
+Iupiter.
+               
+            
+            
+               
+               25.
+               ATALANTA, or Gaine.
+               
+                  ATalanta who was reputed to
+excell in swiftnesse, would
+needs challenge Hippomanes at a
+match in running. The conditions
+of the Prize were these: That if Hippomanes
+wonne the race, he should
+espouse Atalanta; If he were outrunne,
+that then hee should forfeit
+his life. And in the opinion of all,
+the victorie was thought assured of
+Atalantas side, beeing famous as
+shee was for her matchlesse and inconquerable
+speed, whereby shee
+had bene the bane of many. Hippomanes
+therefore bethinkes him how
+to deceiue her by a tricke, and in
+that regarde prouides three golden
+apples, or balles which he purposely
+caried about him. The race is
+begunne, and Atalanta gets a good
+start before him. Hee seeing himselfe
+thus cast behind, being mindfull
+of his deuice, throwes one of
+
+his golden balles before her, and
+yet not outright, but somewhat of
+the one side, both to make her linger,
+and also to draw her out of the
+right course: shee out of a womanish
+desire, (beeing thus enticed
+with the beautie of the golden apple)
+leauing her direct race, runnes
+aside, and stoops to catch the ball:
+Hippomanes the while holds on his
+course, getting thereby a great start,
+and leaues her behind him: But shee
+by her owne naturall swiftnes, recouers
+her lost time, and gets before
+him againe. But Hippomanes still
+continues his sleight, and both the
+second and third times casts out his
+balles, those enticing delayes; and
+so by craft and not by his actiuitie
+winnes the race and victorie.
+               This Fable seemes allegorically
+to demonstrate a notable conflict
+betweene Art and Nature: for Art
+(signified by Atalanta) in its worke
+(if it be not letted and hindred) is
+farre more swift then Nature, more
+speedie in pace; and sooner attaines
+
+the end it aimes at, which is manifest
+almost in euery effect: As you
+may see in fruit-trees, whereof those
+that growe of a kernell are long ere
+they beare, but such as are grafted
+on a stocke a great deale sooner.
+You may see it in Clay, which in
+the generation of stones, is long ere
+it become hard, but in the burning
+of Brickes, is very quickly effected.
+Also in morall passages you may
+obserue, that it is a long time ere
+(by the benefit of Nature) sorrowe
+can be asswaged and comfort attained,
+whereas Philosophy (which is,
+as it were, Art of liuing) taries not
+the leasure of time, but doth it instantly,
+and out of hand; And yet
+this prerogatiue and singular agility
+of Art is hindred by certaine golden
+apples, to the infinite preiudice of
+humane proceedings: for there is
+not any one Art or Science which
+constantly perseueres in a true and
+lawfull course, till it come to the
+proposed ende or marke: but euer
+and anone makes stops, after good
+
+beginnings, leaues the race, and
+turnes aside to profite and commoditie,
+like Atalanta.
+                  
+                     
+                        Declinat cursus, aurum
+                              
+                                 
+                              
+                              que
+                            volubile
+tollit.
+                     
+                     
+                        Who doth her course forsake,
+                        The rolling gold to take.
+                     
+                  
+And therefore it is no wonder that
+Art hath not the power to conquer
+Nature, and by pact or lawe of conquest,
+to kill and destroy her: but
+on the contrary, it falles out, that
+Art becomes subiect to Nature, and
+yeelds the obedience, as of a wife to
+her husband.
+            
+            
+               26.
+               PROMETHEVS, or the State
+of man.
+               THe Ancients deliuer, that Prometheus
+made a man of Clay,
+mixt with certaine parcels taken
+from diuers animales, who studying
+to maintaine this his worke by Art
+
+(that he might not be accounted a
+founder onely, but a propagator of
+humane kinde) stole vp to heauen
+with a bundle of twigs, which hee
+kindling at the Chariot of the Sun,
+came downe againe, and communicated
+it with men: And yet they
+say, that (notwithstanding this excellent
+worke of his) he was requited
+with ingratitude, in a treacherous
+conspiracie: For they accused
+both him and his inuention to Iupiter,
+which was not so taken as
+was meet it should, for the information
+was pleasing to Iupiter and all
+the Gods. And therefore in a merry
+mood, graunted vnto men, not
+onely the vse of fire, but perpetuall
+youth also, a boone most acceptable
+and desireable. They being, as
+it were, ouerioyed, did foolishly lay
+this gift of the Gods vpon the backe
+of an asse, who being wonderfully
+opprest with thirst, and neere a
+fountaine, was tolde by a Serpent
+(which had the custody thereof)
+that hee should not drinke, vnlesse
+
+he would promise to giue him the
+burden that was on his backe. The
+silly Asse accepted the condition,
+and so the restauration of youth
+(sold for a draught of water) past
+from men to Serpents. But Prometheus
+full of malice, being reconciled
+vnto men, after they were frustrated
+of their gift, but in a chafe
+yet with Iupiter, feared not to vse
+deceit in Sacrifice: for hauing killed
+two Bulles, and in one of their
+hides wrapt vp the flesh and fat of
+them both, and in the other onely
+the bones, with a great shew of religious
+deuotion, gaue Iupiter his
+choise, who (detesting his fraude
+and hypocrisie, but taking an occasion
+of reuenge) chose that that
+was stuft with bones, and so turning
+to reuenge (when hee saw that the
+insolencie of Prometheus would not
+be repressed, but by laying some
+grieuous affliction vpon mankind,
+in the forming of which, hee so
+much bragged and boasted) commanded
+Vulcan, to frame a goodly
+
+beautifull woman, which beeing
+done, euery one of the Gods bestowed
+a gift on her; whereupon
+shee was called Pandora. To this
+woman they gaue in her hand, a
+goodly Box, full of all miseries and
+calamities, onely in the bottome of
+it, they put Hope: With this Box
+shee comes first to Prometheus, thinking
+to catch him, if peraduenture,
+he should accept it at her hands,
+and so open it: which he neuerthelesse,
+with good prouidence and
+foresight refused. Whereupon shee
+goes to Epimetheus (who, though
+brother to Prometheus, yet was of a
+much differing disposition) and offers
+this Box vnto him, who, without
+delay, tooke it, and rashly opened
+it, but when hee sawe that all
+kind of miseries came fluttering about
+his eares, being wise too late,
+with great speed and earnest indeauour,
+clapt on the couer, and so,
+with much adoe, retained Hope sitting
+alone in the bottome. At last
+Iupiter laying many and grieuous
+
+crimes to Prometheus his charge (as
+namely that he had stollen fire from
+heauen, that in contempt of his
+Maiestie, he sacrificed a bulles hide
+stuft with bones, that he scornfully
+reiected his gift, and besides all this
+that hee offered violence to Pallas)
+cast him into chaines, and doomd
+him to perpetuall torment: and by
+Iupiters command, was brought to
+the mountaine Caucasus, and there
+bound fast to a pillar that he could
+not stirre; there came an Eagle also,
+that euery day sate tyring vpon
+his liuar, and wasted it, but as much
+as was eaten in the day, grew againe
+in the night, that matter for torment
+to worke vpon might neuer decay.
+But yet, they say, there was an end
+of this punishment: for Hercules
+crossing the Ocean in a Cup, which
+the Sun gaue him, came to Caucasus,
+and set Prometheus at libertie, by
+shooting the Eagle with an arrowe.
+Moreouer in some nations there
+were instituted in the honor of Prometheus,
+certaine games of Lampbearers,
+
+in which they that striued
+for the prize, were wont to carie
+torches lighted; which, who so suffered
+to goe out, yeelded the place
+and victory to those that followed,
+and so cast backe themselues, so
+that whosoeuer came first to the
+marke with his torch burning, got
+the prize.
+               This Fable demonstrates and
+presseth many true and graue speculations,
+wherein some things haue
+bene heretofore well noted, others
+not so much as toucht.
+               
+                  Prometheus doth cleerely and
+elegantly signifie Prouidence: For in
+the vniuersality of nature, the fabricque
+and constitution of Man
+onely was by the Ancients pict out
+and chosen, and attributed vnto
+Prouidence, as a peculiar worke.
+The reason of it seemes to bee, not
+onely in that the nature of man is
+capable of a minde and vnderstanding,
+which is the seate of Prouidence,
+and therefore it would seeme
+strange and incredible that the reason
+
+and minde should so proceed
+and flowe from dumbe and deafe
+principles, as that it should necessarily
+be concluded, the soule of man
+to be indued with prouidence, not
+without the example, intention, and
+stampe of a greater prouidence. But
+this also is chiefly propounded, that
+man is as it were, the center of the
+world, in respect of finall causes, so
+that if man were not in nature, all
+things would seeme to stray and
+wander without purpose, and like
+scattered branches (as they say)
+without inclination to their ende:
+for all things attend on man, and he
+makes vse of, and gathers fruit from
+all creatures: for the reuolutions
+and periods of Starres make both
+for the distinctions of times, and
+the distribution of the worlds site.
+Meteors also are referred to the
+Presages of tempests; and winds are
+ordained, as well for nauigation, as
+for turning of Milles, and other engines:
+and plants, and animals of
+what kind soeuer, are vsefull either
+
+for mens houses, and places of shelter,
+or for raiment, or food, or medicine,
+or for ease of labour, or in a
+word, for delight and solace, so that
+all things seeme to worke, not for
+themselues, but for man.
+               Neither is it added without consideration,
+that certaine particles
+were taken from diuers liuing creatures,
+&amp; mixt &amp; tempered with that
+clayie masse, because it is most true
+that of all things comprehended
+within the compasse of the vniuerse,
+Man is a thing most mixt and compounded,
+insomuch that hee was
+well termed by the Ancients, A little
+world: for although the Chymicques
+doe, with too much curiositie,
+take and wrest the elegancie of
+this word (Microcosme) to the letter,
+contending to finde in man all
+minerals, all vegetables and the rest,
+or any thing that holds proportion
+with them, yet this proposition remaines
+sound and whole, that the
+body of man, of all material beings,
+is found to bee most compounded,
+
+and most organicall, whereby it is
+indued and furnished with most admirable
+vertues and faculties. And
+as for simple bodies, their powers
+are not many, though certaine and
+violent, as existing without being
+weakned, diminished, or stented by
+mixture: for the multiplicitie and
+excellencie of operation haue their
+residence in mixture and composition,
+and yet neuerthelesse, man in
+his originals, seemes to be a thing
+vnarmed, and naked, and vnable to
+helpe it selfe, as needing the aide of
+many things; therefore Prometheus
+made haste to finde out fire, which
+suppeditates and yeelds comfort
+and helpe, in a manner, to all humane
+wants and necessities: so that
+if the soule be the forme of formes,
+and if the hand be the instrument of
+instruments; fire deserues well to
+be called the succour of succours, or
+the helpe of helpes, which infinite
+waies affoords ayde and assistance to
+all labours and mechanicall artes,
+and to the sciences themselues.
+               
+                  The manner of stealing this fire
+is aptly described, euen from the nature
+of the thing: It was, as they say,
+by a bundle of twigs held to touch
+the Chariot of the Sunne: for twigs
+are vsed in giuing blowes or stripes,
+to signifie clearely, that fire is ingendred
+by the violent percussion,
+and mutuall collision of bodies, by
+which their materiall substances are
+attenuated, and set in motion, and
+prepared to receiue the heat or influence
+of the heauenly bodies, and
+so, in a clandestine manner, and as it
+were, by stealth, may be said to take
+and snatch fire from the Chariot of
+the Sunne.
+               There followes next a remarkable
+part of the parable, That men
+in steed of gratulation, and thanksgiuing,
+were angry, and expostulated
+the matter with Prometheus, insomuch
+that they accused both him
+and his inuention vnto Iupiter,
+which was so acceptable vnto him,
+that hee augmented their former
+commodities with a new bountie.
+
+Seemes it not strange, that ingratitude
+towards the authour of a benefit
+(a vice that, in a manner, containes
+all other vices) should
+find such approbation and reward?
+No, it seemes to be otherwise: for
+the meaning of the Allegory is this,
+That mens outcries vpon the defects
+of nature and Arte, proceed
+from an excellent disposition of the
+minde, and turne to their good,
+whereas the silencing of them is
+hatefull to the Gods, and redounds
+not so much to their profit: For they
+that infinitly extoll humane nature,
+or the knowledge they possesse,
+breaking out into a prodigall admiration
+of that they haue and enioy,
+adoring also those sciences they
+professe, would haue them be accounted
+perfect; they doe first of all
+shewe little reuerence to the diuine
+nature, by equalizing, in a manner,
+their owne defects with Gods perfection;
+Againe, they are wonderfull
+iniurious to men, by imagining
+they haue attained the highest step
+
+of knowledge (resting themselues
+contented) seeke no further. On
+the contrary, such as bring nature
+and Art to the barre with accusations
+and billes of complaint against
+them, are indeed of more true and
+moderate iudgements, for they are
+euer in action, seeking alwaies to
+finde out new inuentions. Which
+makes mee much to wonder at the
+foolish and inconsiderate dispositions
+of some men, who (making
+themselues bondslaues to the arrogancy
+of a fewe) haue the philosophy
+of the Peripateticques (containing
+onely a portion of Graecian
+wisedome, and that but a small one
+neither) in so great esteeme, that
+they hold it, not onely an vnprofitable,
+but a suspicious, and almost
+hainous thing, to lay any imputation
+of imperfection vpon it. I approue
+rather of Empedocles his opinion,
+(who like a madman, and of
+Democritus his iudgement, who
+with great moderation complained
+how that all things were inuolued
+
+in a mist) that wee knew nothing,
+that wee discerned nothing, that
+trueth was drowned in the depthes
+of obscuritie, and that false things
+were wonderfully ioynd and intermixt
+with true (as for the new Academie
+that exceeded all measure)
+then of the confident and pronuntiatiue
+schoole of Aristotle. Let
+men therefore be admonished, that
+by acknowledging the imperfections
+of Nature and Arte, they are
+gratefull to the Gods, and shall therby
+obtaine new benefits and greater
+fauours at their bountifull hands,
+and the accusation of Prometheus
+their Authour and Master, (though
+bitter and vehement) will conduce
+more to their profit, then to be effuse
+in the congratulation of his inuention:
+for in a word, the opinion
+of hauing inough, is to be accounted
+one of the greatest causes of hauing
+too little.
+               Now as touching the kind of gift
+which men are said to haue receiued
+in reward of their accusation (to wit,
+
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+hauing the vse of that celestiall fire,
+and of so many arts, are not able to
+get vnto themselues such things as
+Nature it selfe bestowes vpon many
+other creatures.
+               But that sudden reconciliation
+of men to Prometheus, after they
+were frustrated of their hopes, containes
+a profitable and wise note,
+shewing the leuity and temerity of
+men in new experiments: for if they
+haue not present successe answerable
+to their expectation, with too suddaine
+haste desist from that they beganne,
+and with precipitancy returning
+to their former experiments
+are reconciled to them againe.
+               The state of man in respect of
+Arts, and such things as concerne
+the intellect, being now described,
+the parable passeth to Religion: For
+after the planting of Arts followes
+the setting of diuine principles,
+which hypocrisie hath ouerspread
+and polluted. By that twofold Sacrifice
+therefore is elegantly shadowed
+out, the persons of a true religious
+
+man and an hypocrite. In
+the one is contained fatnes, which
+(by reason of the inflamation and
+fumes thereof) is called the portion
+of God, by which his affection and
+zeale (tending to Gods glory, and
+ascending towards heauen) is signified.
+In him also are contained the
+bowels of charity, and in him is
+founde that good and wholsome
+flesh. Whereas in the other, there is
+nothing but dry and naked bones,
+which neuerthelesse doe stuffe vp
+the hide, and make it appeare like
+a faire and goodly sacrifice: By this
+may well be meant those externall
+and vaine rites, and emptie Ceremonies
+by which men doe oppresse
+and fill vp the sincere worshippe of
+God, things composed rather for
+ostentation then any way conducing
+to true piety. Neither doe they
+hold it sufficiēt to offer such mock-sacrifices
+vnto God, except they also
+lay them before him, as if he had
+chosen and bespoke them. Certainly
+the Prophet in the person of God,
+
+doth thus expostulate concerning
+this choise. Esa. 58. 5. Num tandem
+hoc est illud ieiunium, quod ELEGI, vt
+homo animam suam in diem vnum
+affligat, &amp; caput instar iunceae demittat?
+Is it such a fast, that I haue chosen,
+that a man should afflict his
+soule for a day, and to bow downe
+his head like a Bull-rush?
+               Hauing now toucht the state of
+Religion, the parable conuerts it
+selfe to the manners and conditions
+of humane life. And it is a common,
+but apt, interpretation, by Pandora
+to be meant pleasure &amp; voluptuousnes,
+which (when the ciuill life is
+pampered with too much Arte, and
+culture, and superfluitie) is ingendred,
+as it were, by the efficacy of
+fire, and therefore the worke of voluptuousnes
+is attributed vnto Vulcan,
+who also himselfe doth represent
+fire. From this doe infinite miseries,
+together with too late repentance,
+proceed and ouerslowe the
+minds, and bodies, and fortunes of
+men, and that not onely in respect
+
+of particular estates, but euen ouer
+kingdomes and common-wealthes:
+for from this fountaine haue wars,
+and tumults, and tyrannies deriued
+their originall.
+               But it would bee worth the labour,
+to consider how elegantly and
+proportionably this Fable doth deliniate
+two conditions, or (as I may
+say) two tables or examples of humane
+life, vnder the persons of Prometheus
+and Epimetheus: for they
+that are of Epimetheus his sect, are
+improuident, not foreseeing what
+may come to passe hereafter, esteeming
+that best which seemes most
+sweete for the present; whence it
+happens that they are ouertaken
+with many miseries, difficulties and
+calamities, and so leade their owne
+liues almost in perpetuall affliction,
+but yet notwithstanding they please
+their fancy, and out of ignorance
+of the passages of things, doe entertaine
+many vaine hopes in their
+mind, whereby they sometimes(as
+with sweet dreames) solace themselues,
+
+and sweeten the miseries of
+their life. But they that are Prometheus
+his schollers, are men endued
+with prudence, foreseeing things to
+come warily, shunning and auoyding
+many euils and misfortunes.
+But to these their good properties
+they haue this also annexed, that
+they depriue themselues, and defraud
+their Genius of many lawfull
+pleasures, and diuers recreations,
+and (which is worse) they vexe and
+torment themselues with cares and
+troubles and intestine feares: For
+beeing chained to the pillar of necessitie,
+they are afflicted with innumerable
+cogitations (which because
+they are very swift, may bee fitly
+compared to an Eagle) and those
+griping, and, as it were, gnawing
+and deuouring the liuer, vnlesse
+sometimes, as it were by night, it
+may bee they get a little recreation
+and ease of mind, but so, as that they
+are againe suddenly assaulted with
+fresh anxieties and feares.
+               Therefore this benefit happens
+
+to but a very few of either condition,
+that they should retaine the
+commodities of prouidence, and
+free themselues from the miseries of
+care and perturbation; neither indeed
+can any attaine vnto it, but by
+the assistance of Hercules, that is,
+fortitude, and constancie of minde,
+which is prepared for euery euent,
+and armed in all fortunes, foreseeing
+without feare, enioying without
+loathing, and suffering without impatience.
+It is worth the noting also,
+that this vertue was not naturall to
+Prometheus, but aduentitiall, &amp; from
+the indulgence of another: for no
+in-bred and naturall fortitude is able
+to encounter with these miseries.
+Moreouer this vertue was receiued
+and brought vnto him from
+the remotest parte of the Ocean, and
+from the Sunne, that is, from wisedome
+as from the Sunne, and from
+the meditation of inconstancie, or
+of the waters of humane life, as from
+the sailing vpon the Ocean, which
+two Virgill hath well conioyned in
+these verses.
+
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+               
+               
+                  
+and betweene the Oracles of
+sense, and the mysteries of faith, vnlesse
+an hereticall religion, and a
+commentitious philosophy be pleasing
+vnto vs.
+               Lastly, it remaines that wee say
+something of the games of Prometheus
+performed with burning torches,
+which againe hath reference
+to arts and sciences, as that fire, in
+whose memory and celebration,
+these games were instituted, and it
+containes in it a most wise admonition,
+that the perfection of sciences
+is to be expected from succession,
+not from the nimblenesse and
+promptnes of one onely authour:
+for they that are nimblest in course,
+and strongest in contention, yet
+happily haue not the lucke to keepe
+fire still in their torch; seeing it
+may be as well extinguished by running
+too fast, as by going too slowe.
+And this running and contending
+with lampes, seemes long since to
+be intermitted, seeing all sciences
+seeme euen now to flourish most in
+
+their first Authours, Aristotle, Galene,
+Euclid and Ptolomie, succession
+hauing neither effected, nor almost
+attempted any great matter. It were
+therefore to bee wished, that these
+games in honour of Prometheus or
+humane nature were again restored,
+&amp; that matters should receiue successe
+by combate and emulation, &amp;
+not hang vpon any one mans sparkling
+and shaking torch. Men therefore
+are to bee admonished to rouse
+vp their spirits, &amp; trie their strengths
+and turnes, and not referre all to the
+opinions and braines of a few.
+               And thus haue I deliuered that
+which I thought good to obserue
+out of this so wel knowen and common
+Fable; and yet I will not denie
+but that there may bee some things
+in it, which haue an admirable consent
+with the mysteries of christian
+religion, and especially that sailing
+of Hercules in a Cuppe (to set Prometheus
+at libertie) seemes to represent
+an image of the diuine Word
+comming in flesh as in a fraile vessell
+
+to redeeme Man from the slauery of
+Hell. But I haue interdicted my
+penne all liberty in this kinde, lest
+I should vse strange fire at the altar
+of the Lord.
+            
+            
+               27.
+               SCYLLA AND ICARVS, or the
+Middle-way.
+               MEdiocrity or the Middle-way
+is most commended in morall
+actions, in contemplatiue sciences
+not so celebrated, though no
+lesse profitable and commodious:
+But in politicall imployments to be
+vsed with great heed and iudgement.
+The Ancients by the way
+prescribed to Icarus, noted the mediocrity
+of manners: and by the
+way betweene Scylla and Charybdis
+(so famous for difficulty and danger)
+the mediocritie of intellectuall
+operations.
+               
+                  Icarus being to crosse the sea by
+flight, was commanded by his Father
+that hee should flie neither too
+
+high nor too lowe; for his wings
+being ioynd with waxe, if he should
+mount too high, it was to be feared
+lest the waxe, would melt by the
+heat of the Sunne; and If too lowe,
+least the mistie vapours of the Sea
+would make it lesse tenacious: But
+he in a youthfull iollitie soaring too
+high, fell downe headlong and perished
+in the water.
+               The parable is easie and vulgar:
+for the way of vertue lies in a direct
+path betweene excesse and defect.
+Neither is it a wonder that Icarus
+perished by Excesse, seeing that Excesse,
+for the most part, is the peculiar
+fault of youth, as Defect is of
+age, and yet of too euill and hurtfull
+waies, youth commonly makes
+choise of the better, defect being alwaies
+accounted worst: for whereas
+excesse containes some sparkes of
+magnanimitie, &amp; like a bird claimes
+kindred of the Heauens, defect
+onely like a base worme crawles
+vpon the earth. Excellently therefore
+
+said Heraclitus, Lumen siccum
+optima anima. A drie light is the best
+soule: for if the soule contract moisture
+from the earth it becomes degenerate
+altogether. Againe on the
+other side, there must be moderation
+vsed, that this light be subtilized
+by this laudable siccity, and not destroyed
+by too much feruency. And
+thus much euery man, for the most
+part, knowes.
+               Now they that would saile betweene
+Scylla &amp; Charybdis must be
+furnished, as well with the skill, as
+prosperous successe of nauigation:
+for if their shippes fall into Scylla
+they are split on the Rocks: if into
+Charybdis they are swallowed vp of
+a Gulfe.
+               The morall of this parable (which
+we will but briefly touch, although
+it containe matter of infinite contemplation)
+seemes to be this, that
+in euery Art and Science, and so in
+their rules and Axiomes, there bee a
+meane obserued betweene the rocks
+
+of distinctions and the gulfes of
+vniuersalities, which two are famous
+for the wracke both of wittes and
+artes.
+            
+            
+               28.
+               SPHINX, or Science.
+               THey say that Sphinx was a
+monster of diuers formes, as
+hauing the face and voice of a virgine,
+the wings of a bird, and the talents
+of a Griphin. His abode was
+in a mountaine neere the Citie of
+Thebes, he kept also the high waies,
+and vsed to lie in ambush for travellers,
+and so to surprize them; to
+whom (being in his power) he propounded
+certaine darke and intricate
+riddles, which were thought to
+haue bene giuen and receiued of the
+Muses. Now if these miserable captiues
+were not able instantly to resolue
+and interprete them in the
+middest of their difficulties and
+
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+vnto it for its gratious countenance
+and volubilitie of tongue. Wings
+are added because Sciences and
+their inuentions, doe passe and flie
+from one to another, as it were in a
+moment, seeing that the communication
+of Science is as the kindling
+of one light at another. Elegantly
+also is it fained to haue sharpe and
+hooked talents, because the Axioms
+and arguments of Science doe so
+fasten vpon the mind, and so strongly
+apprehend and hold it, as that it
+cannot stirre or euade, which is noted
+also by the diuine Philosopher.
+Eccl. 12. 11. Verba sapientum (saith
+he) sunt tanquam aculei &amp; veluti claui
+in altum defixi. The words of the
+wise are like goads, and like nailes
+driuen farre in.
+               Moreouer, all Science seemes to
+be placed in steepe and high mountaines:
+as being thought to be a loftie
+and high thing, looking downe
+vpon ignorance with a scornefull
+eye. It may bee obserued and seene
+
+also a great way, and farre in compasse,
+as things set on the toppes of
+mountaines.
+               Furthermore, Science may well
+be fained to besette the high waies,
+because which way so euer we turne
+in this progresse and pilgrimage of
+humane life, wee meete with some
+matter or occasion offered for contemplation.
+               
+                  Sphinx is saide to haue receiued
+from the Muses diuers difficult
+questions and riddles, and to propound
+them vnto men, which remaining
+with the Muses are free (it
+may be) from sauage cruelty: for
+so long as there is no other ende of
+studie and meditation, then to
+know; the vnderstanding is not
+rackt and imprisoned, but enioyes
+freedome and libertie, and euen in
+doubts and variety findes a kind of
+pleasure and delectation: but when
+once these Aenigmaes are deliuered
+by the Muses to Sphinx, that is, to
+practise, so that it bee sollicited and
+
+vrged by action, and election, and
+determination; then they beginne
+to be troublesome and raging; and
+vnlesse they be resolued and expedited,
+they doe wonderfully torment
+and vexe the minds of men, distracting,
+and in a manner rending
+them into sundry parts.
+               Moreouer there is alwaies a twofold
+condition propounded with
+Sphinx her Aenigmaes; To him that
+doth not expound them, distraction
+of minde, and to him that doth, a
+kingdome: for he that knowes that
+which he sought to knowe, hath attained
+the end he aimed at, and euery
+artificer also commands ouer his
+worke.
+               Of Sphinx her riddles, there are
+generally two kinds; some concerning
+the nature of things, others
+touching the nature of Man. So
+also there are two kindes of Emperies,
+as rewards to those that resolue
+them: the one ouer nature, the other
+ouer men; for the proper and
+
+chiefe end of true naturall philosophy
+is to command and sway ouer
+naturall beeings, as bodies, medicines,
+mechanicall workes, and infinite
+other things; although the
+schoole (being content with such
+things as are offered, and pryding
+it selfe with speeches) doth neglect
+realties, and workes, treading them,
+as it were, vnder foote. But that
+Aenigma propounded to Oedipus
+(by meanes of which hee obtained
+the Thebane Empire) belonged to
+the nature of man: For whosoeuer
+doth throughly consider the nature
+of man, may be, in a manner,
+the contriuer of his owne fortune,
+and is borne to command,
+which is wel spoken of the Romane
+Arts.
+               
+                  Tu regere imperio populos, Romane
+memento:
+                  Hae tibi erunt artes.—
+               
+               
+                  
+                  Romane remember that with
+scepters awe
+                  Thy Realmes thou rule. These
+arts let be thy lawe.
+               
+               It was therefore very apposit, that
+Augustus Caesar (whether by premeditation
+or by chance) bare a Sphinx
+in his Signet: for hee (if euer any)
+was famous not onely in politicall
+gouernment, but in all the course of
+his life; he happily discouered many
+new Aenigmaes concerning the
+nature of Man, which if he had not
+done with dexteritie and promptnesse,
+he had oftentimes fallen into
+imminent danger and destruction.
+               Moreouer it is added in the Fable,
+that the body of Sphinx when
+shee was ouercome was laide vpon
+an Asse: which indeed is an elegant
+fiction, seeing there is nothing so
+accute and abstruse, but (beeing
+well vnderstood and diuulged)
+may be apprehended by a slowe capacitie.
+               
+                  Neither is it to be omitted, that
+Sphinx was ouercome by a Man
+lame in his feet: for when men are
+too swift of foot and too speedy of
+pace in hasting to Sphinx her Aenigmaes,
+it comes to passe that (shee
+getting the vpper hand) their wits
+and mindes are rather distracted by
+disputations, then that euer they
+come to command by workes and
+effects.
+            
+            
+               16.
+               PROSERPINA, or Spirit.
+               
+                  PLuto they say, being made king
+of the infernall dominions (by
+that memorable diuision) was in
+despaire of euer attaining any one
+of the superiour Goddesses in mariage,
+especially if he should venter
+to court them either with words or
+with any amorous behauiour, so
+that of necessitie he was to lay some
+plot to get one of them by rapine,
+
+taking therefore the benefit of opportunitie,
+he caught vp Proserpina
+(the daughter of Ceres, a beautifull
+virgine) as shee was gathering Narcissus
+flowers in the meadowes of
+Sicily, and caried her away with
+him in his Coach to the Subterranean
+dominions, where shee was
+welcomed with such respect, as that
+shee was stiled the Lady of Dis. But
+Ceres her mother, when in no place
+shee could finde this her onely beloued
+daughter, in a sorrowfull humour
+and distracted beyond measure,
+went compassing the whole
+earth with a burning torch in her
+hand, to seeke and recouer this her
+lost child. But when shee saw that
+all was in vaine, supposing peraduenture
+that she was caried to Hell,
+shee importuned Iupiter with many
+teares and lamentations, that shee
+might be restored vnto her again, &amp;
+at length preuailed thus farre, That
+if she had tasted of nothing in Hell,
+shee should haue leaue to bring her
+
+from thence. Which condition was
+as good as a deniall to her petition,
+Proserpina hauing already eaten
+three graines of a Pome-granat. And
+yet for all this, Ceres gaue not ouer
+her suite, but fell to prayers and
+moanes afresh. Wherefore it was at
+last granted, that (the yeere being
+diuided) Proserpina should by alternate
+courses, remaine one sixe moneths
+with her husband, and other
+six moneths with her mother. Not
+long after this Theseus and Perithous
+in an ouer hardy aduenture
+attempted to fetch her from Plutos
+bed, who being wearie with trauell
+and sitting downe vpon a stone in
+Hell to rest themselues, had not the
+power to rise againe, but sate there
+for euer. Proserpina therefore remained
+Queene of Hell, in whose honour
+there was this great priuiledge
+granted, That although it were enacted
+that none that went downe to
+Hell should haue the power euer to
+returne from thence, yet was this
+
+singular exception annexed to this
+law, that if any presented Proserpina
+with a golden bough, it should bee
+lawfull for him to come and goe at
+his pleasure. Now there was but
+one onely such bough in a spacious
+and shady groue, which was not a
+plant neither of it selfe, but budded
+from a tree of another kinde, like a
+rope of Gumme, which beeing
+pluckt of another would instantly
+spring out.
+               This Fable seemes to pertaine to
+nature, and to diue into that rich
+and plentifull efficacy and variety
+of subalternall creatures, from
+whom whatsoeuer wee haue is
+deriued, and to them doth againe
+returne.
+               By Proserpina the Auncients
+meant that aethereall spirite which
+(beeing separated from the vpper
+globe) is shut vp and detained vnder
+the earth (represented by Pluto)
+which the Poet well expressed
+thus.
+               
+                  
+                  Siue recens tellus, seducta
+                        
+                           
+                        
+                        que
+                      nuper
+ab alto
+                  Aethere, cognati retinebat semina
+coeli.
+               
+               
+                  Whither the youngling Tellus
+(that of late
+                  Was from the high-reard Aether
+seperate)
+                  Did yet containe her teeming
+wombe within
+                  The liuing seeds of Heauen, her
+neerest kin.
+               
+               This spirit is fained to be rapted
+by the Earth, because nothing can
+with-hold it when it hath time and
+leasure to escape. It is therefore
+caught and stayed by a sudden contraction,
+no other wise then if a
+man should goe about to mixe ayre
+with water, which can be done by
+no meanes, but by a speedy and rapid
+agitation, as may bee seene in
+froth, wherein the ayre is rapted by
+the water.
+               
+                  Neither is it inelegantly added
+that Proserpina was rapte as shee was
+gathering Narcissus Flowers in the
+valleyes, because Narcissus hath his
+name from slownesse or stupiditie:
+for indeed then is this Spirit most
+prepared and fitted to be snatcht by
+terrestiall matter, when it beginnes
+to be coagulated, and becomes as it
+were slowe.
+               Rightly is Proserpina honoured
+more then any of the other Gods
+bed-fellowes, in beeing styled the
+Lady of Dis, because this spirit doth
+rule and swaye all things in those
+lower Regions, Pluto abiding stupid
+and ignorant.
+               This Spirit the power celestiall
+(shadowed by Ceres) striues with
+infinite sedulity to recouer and get
+againe: for that brand or burning
+torch of Aether (which Ceres caried
+in her hand) doth doubtles signifie
+the Sunne, which enlightneth the
+whole circuit of the Earth, and
+would bee of greatest moment to
+
+recouer Proserpina, if possibly it
+might be.
+               But Proserpina abides still, the
+reason of which is accuratly and excellently
+propounded in the conditions
+betweene Iupiter and Ceres:
+For first it is most certaine there are
+two waies to keepe Spirit in solid
+and terrestriall Matter; the one by
+constipation or obstruction, which
+is meere imprisonment and constraint;
+the other by administration
+of proportionable nutriment, which
+it receiues willingly and of its owne
+accord: for after that the included
+Spirit beginnes to feed and nourish
+it selfe, it makes no haste to be gone,
+but is, as it were, linckt to its Earth:
+And this is pointed at by Proserpina
+her eating of a Pome granat; which
+if shee had not done, shee had long
+since beene recouered by Ceres
+with her torch, compassing the
+Earth. Now as concerning that Spirit
+which is in Mettals and minerals,
+it is chiefly perchance restrained by
+
+the solidity of Masse: but that which
+is in Plants and Animals, inhabites
+a porous body, and hath open passage
+to bee gone in a manner as it
+lists, were it not that it willingly abides
+of its owne accord, by reason
+of the relish it finds in its entertainment.
+The second condition concerning
+the six moneths custome, it
+is no other then an elegant description
+of the diuision of the yeere, seeing
+this Spirit mixt with the Earth
+appeares aboue ground in vegetable
+bodies during the summer months,
+and in the winter sinkes downe
+againe.
+               Now as concerning Theseus, and
+Perithous their attempt to bring
+Proserpina quite away; the meaning
+of it is, that it oftentimes comes to
+passe, that some more subtill spirits
+descēding with diuers bodies to the
+Earth, neuer come to sucke of any
+subalternall Spirit, whereby to vnite
+it vnto them, and so to bring it away.
+But on the contrary are coagulated
+
+themselues and neuer rise more,
+that Proserpina should bee by that
+meanes augmented with inhabitants
+and dominion.
+               All that wee can say concerning
+that sprig of gold is hardly able to
+defend vs from the violence of the
+Chymicks, if in this regarde they set
+vpon vs, seeing they promise by that
+their Elixar to effect golden mountaines,
+and the restoring of naturall
+bodies, as it were, from the portall
+of Hell. But concerning Chymistry,
+and those perpetuall sutors for
+that philosophicall Elixar, wee
+know certainly that their Theory is
+without grounds, &amp; we suspect that
+their practise also is without certaine
+reward. And therefore (omitting
+these) of this last part of the parable
+this is my opinion. I am induced
+to beleeue by many figures
+of the Ancients, that the conseruation
+and restauration of naturall
+bodies in some sorte was not esteemed
+by them as a thing impossible
+
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+                     〈1 page missing〉
+                  
+                  
+Coronets. So as euer since that
+time all the Muses haue attired them
+selues with plumed heads, except
+Terpsichores onely that was mother
+to the Sirenes. The habitation of the
+Sirenes was in certaine pleasant
+Ilands, from whence as soone as
+out of their watch-tower they discouered
+any ships approching, with
+their sweet tunes they would first
+entice and stay them, and hauing
+them in their power would destroy
+them. Neither was their song plaine
+and single, but consisting of such variety
+of melodious tunes, so fitting
+and delighting the eares that heard
+them, as that it rauished and betrayed
+all passengers. And so great was
+the mischiefe they did, that these
+Iles of the Sirenes, euen as farre off
+as a man could ken them, appeared
+all ouer white with the bones of
+vnburied Carcases. For the remedying
+of this miserie, a double meanes
+was at last found out, the one by
+Vlisses, the other by Orpheus. Vlisses
+                  
+(to make experiment of his deuice)
+caused all the eares of his companie
+to bee stopt with waxe, and
+made himselfe to be bound to the
+maine Mast, with speciall commandement
+to his Mariners not to bee
+loosed, albeit himselfe should require
+them so to doe. But Orpheus
+neglecting and disdaining to be so
+bound, with a shrill and sweet voice
+singing the praises of the Gods to
+his Harpe, supprest the songs of the
+Sirenes, and so freed himselfe from
+their danger.
+               This Fable hath relation to mens
+manners, and containes in it a manifest
+and most excellent Parable:
+For pleasures doe for the most part
+proceed out of the abundance and
+superfluitie of all things, and also
+out of the delights and Iouiall contentments
+of the minde; the which
+are wont suddenly, as it were, with
+winged entisements to rauish and
+rapt mortall men. But learning and
+education brings it so to passe, as
+
+that it restraines and bridles mans
+mind, making it so to consider the
+ends and euents of things, as that it
+clippes the wings of pleasure. And
+this was greatly to the honour and
+renowne of the Muses: for after that
+by some examples it was made manifest
+that by the power of philosophy
+vaine pleasures might growe
+contemptible; it presently grew to
+great esteeme, as a thing that could
+raise and eleuate the mind aloft that
+seemed to be base and fixed to the
+earth; and make the cogitations of
+men (which doe euer recide in the
+head) to be aethereall, and as it were
+winged. But that the Mother of the
+Sirenes was left to her feet and without
+wings; that no doubt is no
+otherwise meant, then of light and
+superficiall learning, appropriated
+and defined onely to pleasures, as
+were those which Petronius deuoted
+himselfe vnto, after he had receiued
+his fatall sentence, and hauing his
+foot, as it were, vpon the threshold
+
+of death sought to giue himselfe all
+delightfull contentments, in so
+much as when he had caused consolatory
+letters to be sent him, hee
+would peruse none of them as Tacitus
+reports) that should giue him
+courage and constancie, but onely
+reade fantasticall verses, such as
+these are.
+
+                     
+                        Viuamus, mea Lesbia, atque amemus,
+                        Rumoresque Senium Seueriorum,
+                        Omnes vnius aestimemus Assis.
+                     
+                     
+                        My Lesbia, let vs liue and
+loue;
+                        Though wayward Dottards
+vs reproue,
+                        Weigh their words light for
+our behoue.
+                     
+                     
+And this also;
+
+                        Iura Senes nôrint, &amp; quid sit fasque
+nefasque
+                        Inquirant tristes, legumque examina
+seruent.
+                     
+                     
+                        Let doting Grandsires know the
+lawe,
+                        And right and wrong obserue
+with awe:
+                        Let them in that stricte circle
+drawe.
+                     
+                  
+               
+               This kind of doctrine wold easily
+perswade to take these plumed Coronets
+from the Muses, &amp; to restore
+the wings again to the Sirens. These
+Sirenes are saide to dwell in remote
+Iles, for that pleasures loue priuacie
+and retired places, shunning alwaies
+too much companie of people. The
+Sirenes songs are so vulgarly vnderstood
+together with the deceits and
+danger of them, as that they need
+no exposition. But that of the bones
+
+appearing like white cliffes; and descryed
+a farre off, hath more acutenesse
+in it: For thereby is signified,
+that albeit the examples of afflictions
+be manifest and eminent; yet
+doe they not sufficiently deterre vs
+from the wicked enticements of
+pleasures.
+               As for the remainder of this parable,
+though it be not ouer mysticall,
+yet is it very graue and excellent:
+For in it are set out three remedies
+for this violent enticing mischiefe;
+to wit, two from Philosophy,
+and one from Religion. The
+first meanes to shunne these inordinate
+pleasures is, to withstand and
+resist them in their beginnings, and
+seriously to shunne all occasions
+that are offered to debaush &amp; entice
+the mind, which is signified in that
+stopping of the Eares; &amp; that remedie
+is properly vsed by the meaner
+and baser sorte of people, as it were,
+Vlisses followers or Marriners;
+whereas more heroique and noble
+
+Spirits, may boldly conuerse euen
+in the midst of these seducing pleasures,
+if with a resolued constancie
+they stand vpon their guard, and
+fortefie their minds; And so take
+greater contentment in the triall
+and experience of this their approued
+vertue; learning rather throughly
+to vnderstand the follies and vanities
+of those pleasures by contemplation,
+then by submission. Which
+Salomon auouched of himselfe,
+when hee reckoning vp the multitude
+of those solaces and pleasures
+wherein he swamme, doth conclude
+with this Sentence;
+               
+                  Sapientia quoque perseuerauit mecum.
+               
+               
+                  Wisedome also continued with
+mee.
+               
+               Therefore these Heroes, and Spirits
+of this excellent temper, euen
+in the midst of these enticing pleasures,
+can shew themselues constant
+
+and inuincible, and are able to support
+their owne vertuous inclination,
+against all headdy and forcible
+perswasions whatsoeuer; as by the
+example of Vlisses that so peremptorily
+interdicted all pestilent counsels
+and flatteries of his companions, as
+the most dangerous and pernicious
+poisons to captiuate the mind. But
+of all other remedies in this case,
+that of Orpheus is most predominant:
+For they that chaunt and resound
+the praises of the Gods, confounde
+and dissipate the voices and
+incantations of the Sirenes; for diuine
+meditations doe not onely in
+power subdue all sensuall pleasures;
+but also farre exceed them in sweetnesse
+and delight.
+               FINIS.
+            
+         
+      
+   
+

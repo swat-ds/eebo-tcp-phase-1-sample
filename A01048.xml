@@ -1,0 +1,1857 @@
+
+   
+      
+         
+            Fames memoriall, or The Earle of Deuonshire deceased with his honourable life, peacefull end, and solemne funerall.
+            Ford, John, 1586-ca. 1640.
+         
+         
+            
+               1606
+            
+         
+         Approx. 65 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2003-01 (EEBO-TCP Phase 1).
+            A01048
+            STC 11158
+            ESTC S105633
+            99841360
+            99841360
+            5937
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01048)
+            Transcribed from: (Early English Books Online ; image set 5937)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 925:10)
+         
+         
+            
+               
+                  Fames memoriall, or The Earle of Deuonshire deceased with his honourable life, peacefull end, and solemne funerall.
+                  Ford, John, 1586-ca. 1640.
+               
+               [56] p.   
+               
+                  Printed [by R. Bradock] for Christopher Purset, dwelling at the signe of the Mary Magdalens head neer Staple Inne in Holborne,
+                  At London :
+                  1606.
+               
+               
+                  Dedication signed: Io: Forde.
+                  In verse.
+                  Printer's name from STC.
+                  Signatures: [A]⁴ B-G⁴.
+                  Running title reads: The Earle of Deuonshire deceased.
+                  Reproduction of the original in the Henry E. Huntington Library and Art Gallery.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Devonshire, Charles Blount, --  Earl of, 1563-1606 --  Poetry.
+            
+         
+      
+      
+         
+            2002-05
+            TCPAssigned for keying and markup
+         
+            2002-06
+            AptaraKeyed and coded from ProQuest page images
+         
+            2002-07
+            Olivia BottumSampled and proofread
+         
+            2002-07
+            Olivia BottumText and markup reviewed and edited
+         
+            2002-08
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            
+               FAMES
+MEMORIALL,
+OR
+The Earle of Deuonshire
+Deceased:
+With his honourable life, peacefull end,
+and solemne Funerall.
+            —quis talia fando
+            Mirmydonum, Dolopumue, aut duri miles Vlissi
+            Temperet à lachrimis?—
+            AT LONDON
+Printed for Christopher Purset, dwelling at the signe of
+the Mary Magdalens head neer Staple Inne
+in Holborne, 1606.
+         
+         
+            
+            
+            To the Rightly right Honorable Lady,
+the Lady Penelope, Countesse
+of Deuonshire.
+            
+               
+                  MOST NOBLE LADY,
+had the blessings whilō
+bestowed, and too soon
+depriued, beene as permanent,
+as they were
+glorious: the world had
+not then had such a generall
+cause of iust sorrow
+to bewaile, nor I of perticular griefe to inscribe,
+the present losse of so worthy a lord: but
+a most sad trueth it is, Fate may be lamented, neuer
+recalled: vpon which infallible axiome, desperate
+of all possibility, either of regaining the
+same, or hoping his peere▪ as much as in the
+reache of my weake talent lay (vnusuall to this
+stile) I haue endeuored to register his memory,
+whose memory will grace my labors. To you,
+
+(excellent Lady) it was intended, to you it is addressed:
+not doubting, but whatsoeuer hath
+beene of him sayd, and trewly saide, your honourable
+fauour, will allow the fauourable
+protection of your expressest patronage, who
+whiles he liued endowed you and iustly endowed
+you, with all the principalles of his sincerest
+hart, and best fortunes. Let not therfore
+(worthy Countesse) my rasher presumption,
+seeme presumpuous folly, in the eyes of your
+discreeter iudgement, in that without your priuitie
+(being a meere straunger alltogether
+vnknowne vnto you) I haue thus aduentured,
+to shelter my lines, vnder the well-guided conduct
+of your Honorable name: grounding my
+boldnes vpon this assurance, that true gētility
+is euer accōpanyd (especially in your sex, more
+specially in your selfe) with her inseparable
+adiunct, singular Humanity, principally towards
+those, whom neither Mercenary hopes or seruile
+flattery, haue induced to speake but with
+the Priuiledge of troth. And as for such, who
+misdeeme virtue without cause, innocency
+shall pitty them, though not eagerly with mortall
+
+hate: yet simply with naked truth to which
+enuy is euer opposite. Thus (Madame) presuming
+on your acceptance, I will in the meane
+while, thinke my willing paynes (hitherto
+confined to the Innes of Courte studyes
+much differente) highlie guerdoned,
+and mine vnfeathered Muse (as
+soone dead as borne) ritchly
+graced, vnder the plumes
+of so worthy a protectresse.
+            The honourer and louer of your
+noble perfections,
+Io: FORDE.
+         
+         
+            
+            To eache affected Reader.
+            
+               PEruerse construction of a plaine intent,
+               NEither is scorn'd, respected, or dispis'd:
+               LOsing of their sleight loues, who neuer meant,
+               PEculiar knowledge, willingly is pris'd,
+               CONTEnted happinesse, Secured peace,
+               
+                  OF selfe content is euer happiest ease.
+            
+            
+               DEVOtion to the carelesse is meer folly,
+               
+                  NO SHallow enuy of malicious IRE,
+               
+               Can moue my resolution, grounded wholly
+               On hopes of better iudgement, I desire
+               The fauour of my fauourers, not any
+               Vnwilling eyes, I striue not to please many.
+            
+            Non omnibus studeo,
+non maleuolis.
+         
+         
+            
+            To Master Iohn Forde of the Middle
+Temple, vp on his Fames Memoriall,
+this Madrigall.
+            IF that renowmed Lord (whose powerfull fame,
+            in strength of wars, and calmes of peace exceeded)
+            hath after death purchas'd so great a name,
+            that it must prosper as it hath proceeded:
+            Then must in time those spightfull plants be weeded;
+            which liuing yet, him liuing would haue choaked:
+            and those sweet wittes touch'd with a sacred flame
+            of his ritch virtues, shall aduance the same.
+            But thou (by those deserts in him prouoked
+            that song his honours which so much exceeded;
+            whose pleasant pen in sacred water soaked
+            of Castaly did register his worth)
+            Reapest much part of honour for thy pen,
+            through him: faire mirror of our Englishmen,
+            whom with due dignity thy Muse set fourth.
+            BAR: BARNES.
+         
+         
+            In eundem.
+            Viuit, in aeternum viuet Dux inclitus armis,
+            Mountioyus: viuet Forde Poema tuum,
+            Maior vterque suo genio. Vi carminis Heros,
+            
+            Materiae faelix nobilis autor ope,
+            T. P.
+         
+      
+      
+         
+            
+            
+            THE
+EARLE of Deuonshire
+deceased.
+            
+               SWIFT Time the speedy purseuant of heauen,
+               Sommons to glorious virtues canoniz'd,
+               The lasting volume where worth roues vneuen
+               In brazen characters immortaliz'd;
+               Where merit liues imbrac't base scorne despis'd:
+               Linckt to vntainted Truth sprong from the same,
+               Begets his eaglet-towring daughter Fame.
+            
+            
+               Fame, she who long coucht her emperiall crowne,
+               Within the blinded darke of swarthy night,
+               Sores now aloft triumphant vp and downe,
+               With radiant splendour gayer then the light,
+               And by how much more known so much more bright,
+               Proclaimes aloud defiance to disdaine,
+               Which hir with thoughts prophane shold entertain.
+            
+            
+               Nor doth she lacky in this vale of mud,
+               This razed world, but still in state arise,
+               Lifting her plumed crest from out the flood
+               Of Sea and Land: whiles she with wonder flies
+               About the circle of the toplesse skyes:
+               And Spirits most heroicke doth enflame,
+               With adoration of hir sacred name.
+            
+            
+               
+               Base Feare the onely monument of slaues,
+               Progenitor to shame, skorne to gentilitye,
+               Herauld to vsher pesants to their graues,
+               Becomes abiected thoughts of faint seruility,
+               Whiles hauty fame adornes nobility:
+               Planting hir gorgeous throne vpon the crest,
+               Of honour casked in a royall breast.
+            
+            
+               This makes grosse dregges of soules admire the verse
+               Of shrill strayn'd Artsmen whose Ambrosiack quills
+               Whiles they desert's Encomions sweet rehearse,
+               The world with wonder and amazement fills,
+               Affrighted with the threats of horrid ills:
+               Astonishing the chaffe of pampered men,
+               With high rear'd accents of their golden pen.
+            
+            
+               O that some sacred poet now suruiu'd,
+               Som Homer to new mourn Achilles losse,
+               Our deare Achilles losse, of life depriu'd,
+               Who liuing, life in dangers death did tosse,
+               Not daunted with this hazard or that crosse:
+               O that he liu'd with scholyes most deuine,
+               To cote and add one worthy to the nine.
+            
+            
+               The nine had past for saints, had not our time
+               Obscur'd the beames of their bright splendent prayse,
+               By a more noble worthy whose sublime
+               Inuicted spirit in most hard assayes,
+               Still added reuerent statues to his daies,
+               Surmounting all the nine in worth as far,
+               As Sol the tincture of the meanest star.
+            
+            
+               
+               Now houering fame hath vail'd hir false recluse,
+               Makes reputation and beleefe her warrant,
+               Wonder and trueth hir conuoy to traduce
+               Hir train of shouts accomplishing hir errant,
+               Venting concealed virtue now apparant:
+               Imprints in Canons of eternall glorye,
+               Worth's monumentall rites, great Mountioyes story.
+            
+            
+               Great MOVNTIOY? were that name sincerely scand,
+               Mysterious Hieroglificks would explane,
+               Each letter's allegory grace the hand,
+               By whom the sence shold learnedly be drawn
+               To stop the dull conceits of wits prophane:
+               Diuing into the depth of hidden art,
+               To giue but due to eache deseruing part.
+            
+            
+               That is with homage to adore thy name,
+               As a ritch relique of memoriall,
+               A trophey consecrated vnto fame,
+               Adding within our hearts historiall,
+               High Epithetes past hyperbolicall▪
+               
+               Yet all to meane to ballance equall forrage,
+               And sympathize in ioincture with thy courage.
+            
+            
+               Liue, ô liue yee whom poets deck with lyes,
+               Raising your deeds to fames which neuer end,
+               Our Patriot staynes your fictions, no disguise
+               Of painted prayse his glory shall extend,
+               His owne great valour his deserts commend:
+               Such is his sounding notice all do know it,
+               No poet can grace him, he euery poet.
+            
+            
+               
+               None him, He all can grace, his very story
+               Giues lawrell to the Writer crownes of bay,
+               The title of his name attributes glory,
+               The subiect doth the Authors skill bewray,
+               Inlarging still his theame and scope to say:
+               Nor is one found amongst a world of men,
+               Who perfect can, his actions with his pen.
+            
+            
+               Had he himselfe like lulius Caesar wrote,
+               Whiles as he liu'd his owne acts commendation,
+               In fluent Commentaryes vs'd to cote
+               Eche hazards conquest by a trew probation,
+               Exemplify'd with termes of arts relation:
+               Then had he wingd in height of fame for euer,
+               His fame his name (as now) been razed neuer.
+            
+            
+               Goe yet Ritch-stiled Peere and ouertake,
+               (Thy selfe shalt priuiledge thy selfe by merit)
+               Thy soules-vnited Essex for whose sake,
+               Thou didst aduance thy loue, which did inherit
+               The deere reuersion of his elate spirit:
+               Then go great Montioy lustre of this age,
+               Pace still thy name in pompous equipage.
+            
+            
+               When first his birth product this prime of hope,
+               An impe of promise mild procliuitie;
+               Gratious aspects euen in his Horoscope,
+               Praedominated his natiuity,
+               Alotting in his arme nobility:
+               That being nobly borne he might perseuer,
+               Inthro'nd by fame nobilitated euer.
+            
+            
+               
+               Now when his infant yeares waxt mellow ripe,
+               Ballac't in pithy scales of youths discresion;
+               As past the childish feare, feare of a stripe,
+               Or schools correct with deeper graue impression,
+               He scorn'd the mimick thoughts of base condition:
+               By earnest documents foreshowing wholy,
+               His iust contempt of vnreguarded folly.
+            
+            
+               For hauing suckt the rudiments of learning,
+               
+                  Grammars Elixar iuice and quintessence,
+               He soon approu'd his iudgement by discerning
+               Applying with industrious diligence,
+               To follow studies of more consequence:
+               Then by a syllogistick kind of warre,
+               He ruminates on thoughts which nobler are.
+            
+            
+               He learnes sharp-witted logick to confute;
+               With quick distinctions, sleights of Sophistry,
+               Inritching his ritche knowledge doth it sute,
+               And sounds the depth of quaint philosophye,
+               Himselfe the mirror of morality:
+               And proues by instance Aristotle lyes,
+               Who yong mens aptnesse to the same denies.
+            
+            
+               He studies it, yet is himselfe the subiect,
+               Subiect of ciuill virtues, chiefe of good,
+               Arts pith and natures dearling, honours obiect
+               As noble by his wit as by his blood,
+               Honour and wisedome on his forehead stood:
+               Thus now to court he goes there to remain,
+               For court should none but nobles entertain.
+            
+            
+               
+               Noble he was, witnesse his elate spirit
+               Whose vnappalled stomak scorn'd compare,
+               Noble he was, witnesse his peerlesse merite,
+               Which stain'd competitours, witnesse his rare
+               Renown'd examples do the same declare:
+               Noble he was, in that he could not brooke
+               To haue his equall, or for sword or booke.
+            
+            
+               O had his auncestors but heretofore
+               Dream't such a sonn should spring from out their lyne,
+               They might haue truely grieu'd, and euermore
+               Haue blusht to thinke on it, that one diuine
+               Shold be their ofspring, deeming it a signe
+               Of a lesse glorious happinesse for them,
+               Better might they haue drawn their race from him.
+            
+            
+               The happy they that are or shalbe euer,
+               Deducted from the issue of this bloud,
+               Immortall be this name worn-wasted neuer,
+               The Index to trew fame, happy the good
+               Allyed in him by kin or Brotherhood:
+               Such his desert nor time nor malice term'd it,
+               His youth first promis'd and his yeares confirm'd it.
+            
+            
+               For being now appendant to the court,
+               His presence was the court to draw it to him
+               The saints of that smooth Paradise resort
+               With pleasure to behold, beholding woo him,
+               And what their fauours can they vow to do him:
+               Yea he reioyc'd the earths great deity,
+               That such a subiect grac'd hir empery.
+            
+            
+               
+               Here he began to tast the fragrant smack,
+               The catapotion of heart-easing loue,
+               Here he perseuerd to assault the wrack,
+               Of supple passion, prouing to disproue,
+               That any soyle firm-setled thoughts should moue:
+               Here was he first who taught what should be done,
+               How Ladyes shold be lou'd, seru'd, wood and woon.
+            
+            
+               In this secured solace of sweet peace;
+               He nurc't his yonger ioyes, not wholy bent
+               To wanton, sicke, lasciuious, amours ease
+               But to more primer passions of content,
+               of ciuill mirth and iocond merriment:
+               Mirth in his looks, and virtue in his toung
+               Fresh as the balme, smooth as the Mermaides song.
+            
+            
+               Actiuity abroad, daliance in chambers,
+               Becomes a perfect courtier, such was he,
+               What mayden breast so nice, as locks of amber
+               Could not inchant with loues captiuity?
+               Free spirits soone are caught when slaues go free:
+               What vncontrouled soule is so precise,
+               As may, yet will not tast earths paradise?
+            
+            
+               
+                  Mountioy (the mounting ioy of heauens perfection)
+               Was all a man should be in such an age,
+               Nor voyd of lou's sence, nor yoakt in subiection
+               of seruile passion, theame for euery stage,
+               Honour for him did honours pawne ingage:
+               Be witnesse slanders selfe, who must auow
+               Virtue adornd his mind, triumph his brow.
+            
+            
+               
+               Nor did the pleasure of these courtly sports,
+               Indeer him to the softnesse of such ease
+               His euer-mounting thought far more imports,
+               The thirst of fame such form'd Ideas please,
+               The resty delicates of sweet disease:
+               To run a race at tilt, to catch the ring,
+               Did greater glory to his proiects bring.
+            
+            
+               Let smooth-chind Amorists be cloyde in play,
+               And surfet on the bane of hatefull leisure,
+               Let idle howres follies youth betray,
+               Vnto the idle shame of boundlesse pleasure,
+               Such petty apes of silke want reasons measure:
+               Great Mountioy saw such loosnes of the witty
+               Which seing did not more disdain then pity.
+            
+            
+               No, his deep-reaching spirit could not brooke
+               The fond addiction to such vanity,
+               Reguardfull of his honor he forsooke,
+               The smicker vse of court-humanity,
+               Of rurall clownage or vrbanity:
+               He lou'd the worthy and endeuoring prou'd,
+               How of the worthy he might be belou'd.
+            
+            
+               Now he delights to see the faulcon sore,
+               About the top of heauen: then to chase,
+               The nimble Buck, or hunt the bristled Bore
+               From out the Sty of terror, now the race;
+               Barriers and sports of honorable grace:
+               Not games of thriftlesse prodigality,
+               But plots of fame and fames eternity.
+            
+            
+               
+               For after toyes of courtshippe he affaies,
+               Which way to manage an vntamed horse
+               When, how, to spur, &amp; rayn, to stop, and raise,
+               Close sitting, voltage of a manlike force,
+               When in career to meet with gallant course:
+               As Centaures were both horse and men: so he
+               Seemd on the horse nor could discerned be.
+            
+            
+               Such priuate exercise which limn'd the way
+               To publique reputation was his scope;
+               Ech howr grac'd howr, &amp; each day grac'd day
+               With further expectation of great hope
+               Nor did his youth his noble leuels stoppe:
+               He aymd at high designes, and so attaynd
+               The high assigns to which his spirit aymd.
+            
+            
+               Lo heere the pith of valour moulded fast,
+               In curious workmanship of natures art:
+               Lo here the monuments which euer last,
+               To all succeeding ages of desert,
+               Noble in all, and all in euery part:
+               Records of fame, and characters of brasse,
+               Containing acts, such acts conceit do passe.
+            
+            
+               Triumphant soule of such a princelike Lord,
+               O I coulde dry the fountaines of myne eyes,
+               Vpon thy coffins hearse and euery word,
+               Which sorow shold out-sigh or grief implies
+               I could resolue two drops of sacrifice:
+               And spend them on the euer gaping womb
+               Of the vnseason'd earth thy sacred tombe.
+            
+            
+               
+               The sweetest cygnet of thy comforts heauen,
+               Thy lifes last paradise, thy hearts first loue
+               Could not bemoan the losse of thee bereuen
+               With more sweet-piercing plaints then I haue stroue,
+               To volly my discomforts yet approue
+               (Deer creature) thy to deerly bought distresse,
+               By vulgar censures base vnhappinesse.
+            
+            
+               But ah be still thy selfe, let not defame,
+               Of the rude Chaos aggrauate thy woes
+               The multitudes blind slander is no shame;
+               Rusticity his ioy by malice knowes,
+               The better best in iudging better showes:
+               Let grosse vnciuill hinds reguardlesse sleepe,
+               Remember thou thy losse, remembring weepe.
+            
+            
+               So mayst thou knightly youth who wert his friend,
+               Companion to his chamber and his bed,
+               His lou's much largesse did to thee extend,
+               And made the rumor of thy name be spred,
+               Euē to thy natiue West wher thou wert bred:
+               Ah do not him forget who honourd thee
+               With perfect rites of mutuall amitie.
+            
+            
+               Nor canst thou stop the floodgates of thine eyes,
+               Great Peer of worth, and state who grieu'd thy thrall,
+               For Peerlesse Essex strife who sought to rise,
+               In vertuous honour which procur'd thy fall
+               
+                  Deuonshire bewayld thy dangers bitter gate
+               Then in requitall of much more then this
+               Sigh thou for him, still loue, and cherish his.
+            
+            
+               
+               As much graue patron of sage wisedoms lore,
+               Mayst thou lament thy friendes vntimely race,
+               Who euer fauour'd thee cause thou hast bore,
+               (Whiles he was Ireland's viceroy) thy great place,
+               Of treasurer in most respected grace:
+               His death deserues thy teares to solemnize
+               His ceremonious funerall obsequies.
+            
+            
+               Ye safe secured fathers of wise peace,
+               Iust senators and magistrates in aw,
+               Wealthy home-breaders which ingrosse your ease,
+               Ye learned legists of contentious law,
+               Ye rulers all who him victorious saw:
+               Feare ye like strokes as him of life depriues,
+               He was a brazen wall to guard your liues.
+            
+            
+               Double toung-oyled courtiers whose neat phrases,
+               Do modell foorth your wittes maturity,
+               In honied speeches and sick-thoughted graces,
+               Cloking your soules in sins obscurity,
+               Yet fan your lightnesse in security,
+               Weep on his reuerent coarse: for such as he
+               Now is, (not as he was) your selues shall be.
+            
+            
+               But ô forsaken souldiers ye haue lost,
+               The Atlas of your hopes your staffe your stay,
+               The staffe and stay of your ambitious boast,
+               Who guerdon'd you with seruices due pray,
+               On him the burthen of your treasure lay:
+               Reason commands your sorow for whose sake,
+               Himselfe all toile of paines would vndertake.
+            
+            
+               
+               Like Mars in arms triumphant ye haue seene,
+               This warlike champion whose vndanted mind
+               Was neuer yet appall'd but still hath been,
+               Steeled against the worst, nor hath, declin'd
+               To dull distrust but euermore enshrind
+               In goodly views of horror ready prest,
+               To purchase glory by his hands vnrest.
+            
+            
+               Witnesse (ye wars of Belgia) who tell,
+               Of his eternall fame heroique spirit
+               Incomparable height which did excell,
+               The common height of common stomacks merit
+               He lineally did thirst of worth inherit:
+               A chronicle of lasting memory,
+               A president of matchlesse souldery.
+            
+            
+               Let euery priuate action of desert,
+               Be theames for other pen's to labour in,
+               My quill shall onely knowne reports insert:
+               Who publicke credence and belief may win
+               Not to be taxt with fictions Ideots sin
+               Time cannot wrong nor enuy shall not wound,
+               The lawfull right of his due praises sound.
+            
+            
+               O who will lend me som deep-mouing stile?
+               Or add vnto my bluntnesse quick conceit?
+               What gentle goddesse wil vouchsafe a smile
+               To mine vnpolisht muse? what tempting bait
+               Of formall grace vpon my lynes will wayte?
+               What power diuine of some more angell woman,
+               Will make me thinke my verses more then cōmon?
+            
+            
+               
+               Flint-hearted Lycia may with mild aspect,
+               Cast vp the sigh of some fore-matched skorn
+               And in the mixture of disdayns neglect,
+               My death-bewayling scope of griefe adorne,
+               Reuiuing dulnesse of a wit forlorne:
+               Amongst the fansies of hir riuall louer,
+               Some groane with this deere nobles funerall couer.
+            
+            
+               No beauty full of change forbeare thy care,
+               An Angell more celestiall payes hir vowes,
+               Vpon her lord deceasd who did not spare,
+               To gratifie the frontyres of hir brows,
+               With as much pleasure as content allowes:
+               Thou Lady on my lines cast fauors glory,
+               Whiles I inscribe great Mountioys Irish story.
+            
+            
+               When fickle chance and deaths blindfold decree,
+               From the tribunall seat of awfull state,
+               Had hurried downe in black calamity
+               Renowned Deuoreux, whose aukward fate,
+               Was misconceited by fowle enuies hate:
+               Back was he cal'd from Ireland to come home,
+               And noble Mountioy must supply his roome.
+            
+            
+               Looke how two heart-vnited brothers part,
+               The one to slaughter, th'other to distrust,
+               Yet sorowing each with other pawns his hart
+               As being loath to goe, yet go they must,
+               Either to horror and a death vniust:
+               So Essex parts with Mountioy, ether mourning
+               The losse of others sight as nere returning.
+            
+            
+               
+               So Mountioy parts with Essex, and now flies
+               Vpon the wings of griefes to tents of terror;
+               Or els to vaunt his name aboue the skies,
+               Or leaue his liuelesse carkasse as a mirror
+               Of monumented feare to friends of error:
+               Vowing reuenge should on that land extend,
+               Which wrought the downfal of his worthiest friend.
+            
+            
+               Vnblessed soyle (quoth he), rebellious nation,
+               Which hast with trechery sent troups to death,
+               Butcher of valiant bloods, earths reprobation,
+               Heauens curse and natures monster drawing breath,
+               By others wracks (as triall witnesseth)
+               Since by the meanes of thee my friend hath dy'd,
+               Mine arme shall scourge the loosenesse of thy pride.
+            
+            
+               Incenc'st with rage and treble-girt with force
+               Of Iustice, force and valour on he goes,
+               With sword and fire voyd of a smooth remorse,
+               He greets the strength of his half-conquered foes,
+               And on them yoakes of bondage doth impose:
+               or all must yeeld to mercy, or els flie,
+               Yet flying all must fight, and fighting die.
+            
+            
+               But ô far be it from the height of fame,
+               To triumph on submission, he would not
+               Not tyrant-like in bloodshed boast agayne,
+               He hated it as to his worth a blot,
+               By lenitie more honour hath he got.
+               He was as by his fauorites appear'd,
+               More fear'd then lou'd, yet much more lou'd thē feard
+            
+            
+               
+               Destruction to the stiffneck't rebells stoute,
+               (Stout in their headlong miseries) was bent,
+               Ruine vnto the false inconstant route;
+               But fauour to the willing still he meant,
+               A perfect noble mind's trew document:
+               A rule infallible experience bred,
+               To striue for conquest, spare the conquered.
+            
+            
+               What myriades of hosts could not constraine,
+               He by his courteous mildnesse brought to passe
+               What all deuoyr of mercie could not traine,
+               By his victorious power enforced was,
+               Both words of milk, and thunderbolts of brasse
+               Attended on the pleasure of his nod,
+               They deemd him for a humane demy-god
+            
+            
+               And thou Tyrone the idole most adored,
+               Amongst the superstitious mutiners,
+               Whose deepe ambitious reach was still implored,
+               To raise more millions of treacherers,
+               Of homicidiall cruell slaughterers:
+               Euen thou thy selfe, when any traitor spake
+               of Mountioy, at that very name didst quake.
+            
+            
+               That verie name did prostitute the heart
+               of mischief-breeding counsailes in the dust;
+               In hearing of that name they felt the smart,
+               of vanquisht dread as augur to distrust,
+               Which was by feare inthral'd, by doubt discust:
+               
+                  Mountioy a name importing threats of thunder,
+               Frustrating hopes of life, and life asunder.
+            
+            
+               
+               
+                  Mountioy a name of grim seuerity,
+               
+                  Mountioy a name of meeknes peace and loue,
+               
+                  Mountioy a name to rayne temerity,
+               
+                  Mountioy a name which vertue did approue,
+               
+                  Mountioy a name which ioy did euer mooue:
+               
+                  Mountioy a charter of inuicted fame,
+               Yet Mountioy was far greater then his name.
+            
+            
+               His name which stretcht beyond the boundlesse limits,
+               Of all the oceans empire and made knowne
+               His hauty chiualry in forraine climates,
+               VVhich by the trumpe of glore was lowdly blowne,
+               In courtes of greatest princes of renowne:
+               Each palace with an eccho speaking shrill,
+               Rosounded his fayre deeds of honour still.
+            
+            
+               The wily Irish whose inueterate hate,
+               Vnto the lawes of Iustice nere would bow,
+               Whose sleightes no powr of power could abate,
+               Or euer vndermine before till now,
+               VVith gentle menace of a pliant brow:
+               This man more then a man, this god in arms,
+               Vnited ceasing plots of further harmes.
+            
+            
+               Now they began to see, and seeing feele
+               The sweet of concord, bitternesse of warre,
+               The sharpe reproofe of double-edged steele,
+               The peace of peace how wretched brawlers are
+               How blessed the secure, content doth farre
+               Exceed contention, better shun wars toile,
+               Then euer liue in faction by the spoile.
+            
+            
+               
+               The sonne against the Father long oppos'd,
+               The Vnkle with the nephew at debate,
+               The friend with troupes of foe-like friends inclos'd.
+               Brother with brother set in mortall hate,
+               Kin which with Kin did kindred violate:
+               Duty, alliance, frindship blood, and loue:
+               All striuing he to concord all did moue.
+            
+            
+               Peeres in defiance of each others greatnesse,
+               Nobles complotting nobles speedy fall,
+               He reconcil'd, &amp; made thē tast the sweetnes,
+               Of happy league &amp; freed them from the gall
+               Of steepe destructions ruine, ruines thrall:
+               Tygers and lions, bores, and raging Bulles,
+               Hath he atton'd with Leopards &amp; Wolues.
+            
+            
+               A land of penury scarcity, and want
+               He hath inritcht with plenty, ease and store
+               A land where humain reason was most scant
+               He hath endow'd with wisdomes sacred lore
+               Accosting it more fertile then before:
+               A land of Barbarous inhumanitye
+               He hath reduc't to blessed piety.
+            
+            
+               Now had he ripened all his hopes at full,
+               Imparadiz'd his soule in deare content
+               And wrought the nature of a people dull
+               To what his glory aym'd at when he meante,
+               To set a period to his banishment:
+               And greete his natiue soyle with much desire
+               To get a guerdon'd fauour for his hyre.
+            
+            
+               
+               Now did he feed his laboures with delight
+               Of viewing his diuiner soueraigne,
+               presenting conquests of well mastred spight:
+               vnto her gracious loue, and thence obtaine,
+               Hir willing acceptation as a gaine
+               Of reward after toyle, and glad hir yeares,
+               In strengthning hir dominions chasing feares.
+            
+            
+               But ô ere he could apprehend that ioye
+               She flew from earth to bewtifye the heauen,
+               
+                  Eliza dy'de, death's iauelin did destroy
+               The euer boast of England fate had weauen
+               The twist of life, and hir of life bereauen
+               She dy'de and left the worlde in tears of terror
+               To weepe hir losse and woonder at her mirror
+            
+            
+               Neuer it was her hap to see that land
+               which long had boyld in stern rebellious treason
+               To be subdu'de vnto her mild commaund
+               And vaunt the Trophey of that peacefull season
+               Malice did euer blind their sences reason:
+               She dy'de ere rumour could that ease relate
+               The newes was happy, but for hir to late.
+            
+            
+               To late for her and for our Lord to late
+               Hir death for him too soon, but shorte anon
+               Distrust was turnd to trust, for in greate state
+               England's Maecenas in succession
+               was soone made know'n by praclamation
+               And vndertooke the Burthen of the crowne
+               Aduauncing merit low disgrace threw downe
+            
+            
+               
+               As Caesar led his captiue slaues to Rome
+               To grace his triumph magnify his fame
+               So now did Mountioy with Tyrone come home
+               Victorious, welcome, adding to his name
+               (By fauour of our King who gaue the same)
+               A Style of honour to his blood innated
+               
+                  Deuonshieres ennobled Earle was created.
+            
+            
+               In Robes of peace accoutrements of rest
+               He was aduanc't a Counsayllour and ioy'd
+               The soft fruition of a grauer breast
+               Not with the Brunt of warrefare more annoyde
+               Nor with the dint of hazard ouercloyde
+               But sate with iudgment to discerne of lawes
+               Which he had guarded with his swordes applause.
+            
+            
+               In him was England two fould fortunate
+               He was her champion and her Senator
+               Both to defend her good and moderate
+               To fight both for her safety, and confer,
+               Both to encourage subiects and deter
+               Reuollter's from offending, both in one
+               And one in both himselfe he was alone.
+            
+            
+               Thus louing all he liu'd belou'd of all,
+               saue some whome emulation did enrage
+               To spit the venom of their rancour's gall,
+               Which dropt vpon themselues &amp; made the stage
+               A publique Theater for follyes badge
+               Their shame will still outliue theyr memory
+               Onely remembered in infamy.
+            
+            
+               
+               Such poorer in desert then ritch in woorth,
+               Are but as shadowes which appear but are not,
+               Such but disgorge lanck indiscretion forth,
+               Of needlesse repetitions which declare not
+               Trew grounds, when for the trueth it self they care not,
+               Yet hold themselues abusd and highly scorne,
+               To brooke the chance to which themselues at born.
+            
+            
+               Go weake betraiers of your witlesse madnesse?
+               Your malice will reuert vpon your breasts,
+               Not lookes of grauer nicenesse nicer sadnesse,
+               Can shadow imputations of vnrests,
+               His greater spirit at your fondnesse iests:
+               You vex your selues, not him, and make men gaze,
+               At your own wrōgs which your own tōgues do blaze
+            
+            
+               Sinck blind detraction into lowest earth,
+               Lest ballad-rimers tyre their galled wits,
+               Scornes to their patrones making iuycelesse mirth,
+               To grosse attentors by their hired writs,
+               Dispraise with such poore hackneys better fits:
+               Well may such enuy those heroyicke deeds,
+               There apprehensions leane conceit exceeds.
+            
+            
+               Fame-royallized Deuonshire setled now,
+               In well-deserued place of eminence,
+               The expectance of his wisedom doth allow,
+               By cancelling affayres of consequence,
+               And by endeuours of sage diligence:
+               Approues his greatnesse, largesse to applie
+               The fruits of dear-experienc't pollicy.
+            
+            
+               
+               Not puft with weening self-affected pride,
+               Common to vpstart honours counterfeite,
+               But fauouring the worthy he suppli'd,
+               Deserts necessities, and made the height
+               Of his aduancement on their needs to waite
+               "True noblenes with breth sucks noble spirits
+               "When bastard broods conceite but bastard merits.
+            
+            
+               Men rais'd to flote of fortune from the mud,
+               Of low deiection and at length grown great,
+               Forget that they are men, and scorn the blood
+               Of meane allyance, boasting in the seat
+               Of empire which ambition doth beget:
+               Such not esteeme desert but sensuall vaunts,
+               Of parasites and fawning sycophaunts.
+            
+            
+               Be tyrants kings to such seruility?
+               And peasants seruile to such currs of shame?
+               
+                  Deuonshire the issue of nobility:
+               Auoyded rumor of such foule defame,
+               True virtue grac'd his mind, applause his name:
+               Applause his name, which whiles the heauens diuine
+               Containe their lights vpon the earth will shine.
+            
+            
+               True virtue grac'd his mind be witnesse euer,
+               The prouident forecare of wise discretion,
+               His wary prudence which did still endeuor
+               To hold him from the wrack of spights impression,
+               From faith approu'd he neuer made digression:
+               "That is true prudence when deuoyd of feare,
+               "A man vntoucht himselfe vpright doth beare.
+            
+            
+               
+               Trew vertue grac'd his mind in which was grounded
+               The modest essence of firme Temperaunce
+               Which neuer was with fortunes chaunge confounded
+               Or troubled with the Crosse of fickle chaunce,
+               Distrust his spirit neuer could enhaunce
+               That man is perfect temperate whose life
+               Can neuer be disturb'd but free from strife.
+            
+            
+               Trew virtue grac'd his mind, witnesse his courage
+               His resolution armed Fortitude
+               Witnesse his stomack's prime which striu'd to forrage
+               Extreames euen by extremityes subdu'de
+               Slaues with the eys of pitty he reuiew'd
+               He who can Conquer miseryes in neede
+               Enioyes the height of fortitude indeede.
+            
+            
+               Trew virtue grac'd his minde, witnesse at last
+               His sober cariage, twixt the scales of measure
+               Who when he was in awe of Iustice plac't
+               Studyed how to the meanest to doe pleasure
+               So rare a guift in such a man's a treasure:
+               Sincerest Iustice is not to decerne
+               But to defend, ayde, further and confirme
+            
+            
+               True virtue grac'd his mind, witnesse all these
+               Which in his person were essenciall
+               Ready to helpe the poore, the great to please
+               In rites of honour, neither greate or small
+               Would he prefer, but merit paiz'd them all
+               Since all these vertues were in him combin'd
+               Truth will auow true vertue grac'd his mind:
+            
+            
+               
+               Not in the wrack of Prodigality
+               Nor thriftlesse riot of respectlesse meane
+               Did he extend his liberalitye
+               But to his honors credit, where was seen
+               Apparent worthinesse, he still hath been
+               A Patron to the learned and a propp,
+               To fauour studyes now dispised cropp.
+            
+            
+               Thou marrow of our English poesy
+               Thou life and blood of verse canst record this,
+               The Bounty of his zeale can gratifye
+               Thy labour's of endeauors: what was his
+               He graunted to thy muses happiest blisse
+               A liberall Mecaenas to rewarde thee
+               A Lord of speciall fauour to reguard thee.
+            
+            
+               By firm allegiance, courtesie, and kindnesse,
+               vnto his prince, his peeres, his frindes in deer'd:
+               By sterne constraint, meek scorne, &amp; willing blindnes,
+               Of all his foes, backbiters grudgers fear'd
+               He in his life-time euermore appeard
+               Peace, pitty, loue, with mildnesse, ease, and rest,
+               Rul'd, forgaue, ioyde, his soule, his wrongs, his breast
+            
+            
+               Linck't, in the gracefull bonds of dearest life
+               vniustly term'd disgracefull he enioyd,
+               Contents aboundance, happinesse was rife
+               Pleasure secure, no troubled thought annoyd
+               His comfort' sweetes, toyle was in toyle destroyd
+               Maugre the throat of malice, spight of spight
+               He liu'd vnited to his hearts delighte.
+            
+            
+               
+               His hearts delight who was that glorious starre
+               which bewtified the value of our lande,
+               The lightes of whose perfections brighter are
+               Then all the lampes, which in the lustre stand
+               Of he auens fore head, by discretion scan'd
+               Wits ornament, earth's loue, loues Paradise
+               A Saint diuine, a bewty fairly wise.
+            
+            
+               A bewtye fayrely-wise, wisely discreete
+               In wincking mildely at the toong of rumour,
+               A saint, meerely diuine, diuinely sweete,
+               In banishing the pride of idle humour
+               Not relishing the vanity of tumour:
+               More then to a female of so high a race;
+               With meekenesse bearing sorrowssad disgrace.
+            
+            
+               A sad disgrace? ô that the eyes of sence
+               Should prye into the nature of the worst
+               Poore fortunes enuy greatenesse eminence,
+               Because themselues in worldly cares are nurc't.
+               Deluding types of honour as accurst
+               When they themselues ar most accurst of all
+               Who being lowest lower cannot fall.
+            
+            
+               Euen as a quire of modell-tuning birds,
+               Chirping their layes in natures pliant straine,
+               Euen so these courtiers flow'd in termes of words,
+               Vntill the Nightingale in sweet complaine,
+               Did vrge the rest as rauisht to refraine:
+               So this heart-stealing goddesse charm'd their eares,
+               To heare her fluent wit, they blush at theirs.
+            
+            
+               
+               Let merit take hir due, vnfeed I write,
+               Compel'd by instance of apparent right,
+               Nor choa'kt with priuate hopes doe I indite,
+               But led by trueth as knowne as is the light,
+               By proofe as cleere as day, as day as bright:
+               I reck not taunting mocks, but pity rather
+               The foolish ofspring of so vaine a father.
+            
+            
+               
+                  Deuonshire I write of thee a theam of wonder
+               Wonder vnto posterity succeeding,
+               A stile importing fame as lowde as thunder,
+               Sounding throughout the world: the times yet breding
+               Shall deifie thee by thy stories reading:
+               Making large statues to honorifie
+               Thy name, memorialls rites to glorifie.
+            
+            
+               As oft as Iames the monarch of our peace,
+               Shall be in after chronicles recited,
+               In that to heau'ns applause and subiects ease
+               
+                  England and Scotland he in one vnited,
+               A sight with which true Britains were delighted:
+               So oft shalt thou eternall fauour gaine,
+               Who recollected'st Ireland to them twaine.
+            
+            
+               A worke of thankes in strengthening the force
+               Of such an entire Empire now secure,
+               A world within it selfe which whiles the course
+               Of heauen continueth lasting wil endure
+               Fearelesse of forraign power, strong and sure
+               A bulwarke intermur'd with walls of Brasse,
+               A like can neuer bee, nor euer was.
+            
+            
+               
+               Twas the Puissant vigour of thine arme,
+               T'was the well-labouring proiect of thy braine
+               Which did allay the further feare of harme,
+               Inriching Brittayn with this happy gaine
+               Of blessed peace which now it doth retaine,
+               It was thy warye resolution brought it,
+               It was thy ready pollicy that wrought it.
+            
+            
+               Thou wer't a Phoenix, such a bird is rare
+               Rare in this wodden age of avarice,
+               When thirst of gold, not Fame may best compare,
+               with those of choycest wo th'rich men are wise,
+               "Honest, if honesty consist in vice
+               "Strong purses haue strong frinds he hath most praise
+               "who hath most wealth: ô blindnesse of our dayes?
+            
+            
+               Dye thoughtes, of such corruption we intend
+               To shew the substāce not the shadowed gloze,
+               The praise we speake of doth it selfe commend
+               And need's no ornament vnlike to those
+               who by proconion's virtue doth impose
+               A taske vpon our quill, not what we would,
+               Doe wee inferr but what in right we should.
+            
+            
+               He whom we treat of was a president,
+               Both for the valiant and iudicious,
+               Both Mercury and Mars were resident;
+               In him at once, sweet words delicious,
+               And horryd battaile were to him auspicious:
+               Both armes and arguments to force or traine,
+               To win by mildnesse, or by threats constraine.
+            
+            
+               
+               Two speciall beauties chiefly did adorne
+               His faire vnblemisht soule and spotlesse mind,
+               To god religious he himselfe hath borne,
+               With zealous reuerence in zeale enshrind,
+               And to his prince still loyall euer kind:
+               At thon's monarchick gouernment he trembled,
+               'Cause it the others deity resembled.
+            
+            
+               Deuout in feruency of ardent loue
+               Vnto the value of saluation,
+               The due respect of sou'raignty did moue,
+               Vnto his princes throne an intimation
+               Of feare, not mask't in smooth dissimulation:
+               He of his race hereafter may be voucht,
+               That he was sound in both, in both vntoucht.
+            
+            
+               What more yet vnremembred can I say,
+               And yet what haue I sayd that might suffice?
+               He was the trophey of a greater day,
+               Then time would euer limit to our eyes,
+               He was a peere of best approued guise:
+               He was the best, the most, most best of all,
+               Heauen's pride, earths ioy, we may him iustly call.
+            
+            
+               Heauens pride? for heauen into him infus'd,
+               The quintessence of ripe perfection,
+               No guift on him bestow'd he hath abus'd,
+               But betterd by his better lifes direction,
+               Keping contempt of virtue in subiection:
+               A penitentiall contrite votary,
+               To sanctimonious taintlesse purity.
+            
+            
+               
+               Earth's ioy, for in the earth he liu'd renown'd
+               By all the excellency of natures art
+               With all the boast and pith of honor crown'd
+               That royalty to merit could impart,
+               The wreathe of ioyes was set beneath his hart
+               The light of worth's delight, the Pharaos tower
+               Which was refulgent by his Lordly power.
+            
+            
+               Thus in the iollity of humane pleasure
+               Aduaunc't to steps of state and high degree
+               Beloued and ador'd in equall measure
+               Of greatest and the meanest fates decree,
+               Bent power against his power, for (aye me)
+               (Fye on that for) whiles he in glory stood,
+               Of worldly pompe cold droop't his noble blood.
+            
+            
+               O what Heraclitus would spare his eyes
+               To show'r teares in showers and distill
+               The liquid of a greeu'd hearts sacrifice
+               Which will consume it selfe, what dolefull knell
+               Of pearcing grones will sigh the worst of ill
+               The worst of ill, the worst of cruell fate,
+               Could spit euen in the bitternesse of hate
+            
+            
+               All yee who hitherto haue read his story,
+               Iust Panegyrickes of Heroyque deedes,
+               Prepare your eyes to weep, your harts to sory
+               The wracke of darknesse which from death proceedes,
+               The murther of delight which murther breedes,
+               Loe heere an alteration briefly chaung'd
+               Now all but ioy, now from all ioy estrang'd.
+            
+            
+               
+               ô Coward times why doe you keepe your dayes?
+               ô Orbes of heauen why doe you runne your course?
+               ô seas why doe not floods your waues vprayse
+               And ne're reflow agayne with moderate sourse?
+               ô Sun why dost not quench thy beames hot force
+               ô why doe all things certaine setled tarye,
+               Saue men's short liues who still vnconstant vary.
+            
+            
+               Instance vnpartiall death, deafe sorrow's subiect
+               Pleasures abater, fickle youth's dispiser
+               Headstrong in malice, in affected obiect
+               To euery sence, the subtile slye inticer
+               To guilded hopes, the heauen's wil's reuisor
+               Instance his triumph, instance his sure dart
+               Which misseth none, hits home still to the hart.
+            
+            
+               Now had the season enterteyn'd the spring
+               And giu'n a welcome to the dayes of mirth,
+               When sweet harmonious birds began to sing
+               With pleasant roundelayes which grac'd the earth,
+               By long expectance of the blossomes birth,
+               When at the dawne of Floraes trimmed pride
+               Ere shee persum'd the ayr, greate Deuonshiere died.
+            
+            
+               He dy'de, a sullyde word, a wore of ruth:
+               For euer be it stamp't in misery:
+               Feareful vnto the old, hated of youth,
+               Markt with the fingar of calamity:
+               Blotted from light of day, nights Herauldry,
+               He dy'de, briefe accents but enduring woe
+               The letters for whole dates of griefes may goe.
+            
+            
+               
+               Torment of mischiefe how thou grat'st my breast,
+               Mischiefe of torment how thou rackst my soule,
+               Vnhappy cares how is your heart distrest,
+               Wretched vnhappinesse which dost controwle
+               The blisse of comfort, and alike enroule
+               Sad fortune in the dust, break life asunder,
+               Death is lifes miracle, scorns thanklesse wonder.
+            
+            
+               Wonder ô wonder of short breathed error,
+               A relique consecrated to defame,
+               A curb vnto the wise to fools a terror;
+               A terror of contempt, feare hate and shame,
+               A black obliuionizing of worths name:
+               A razer out of memory the merit,
+               Of many noble peers and peerlesse spirit.
+            
+            
+               Who dy'd? not he whose mungrell baser thought
+               Was steeped in the puddle of seruility,
+               Not he who daies of easie softnesse sought,
+               But threats of horror fitting his nobility,
+               To coronize high-soar'd gentility:
+               Who di'd? a man? nay more a perfect saint
+               Leauing the world in tears of sad complaint.
+            
+            
+               Life ah no life but soone extinguisht tapers?
+               Tapers? no tapers but a burnt outlight
+               Light? ah no light but exhalutions vapors
+               Vapours? no vapoures but il-blinded sight?
+               Sight? ah no sight but hel's eternall night?
+               A night no might but picture of an elfe?
+               Ah elfe? no elfe but very death it selfe.
+            
+            
+               
+               Then life is death, and death the farthest goale
+               Of transitory frailty to conclude
+               The freedom of the while-imprisond soule,
+               And stop the streames of heat by death subdu'd
+               To wan and chilly cold, fates hand is rude:
+               None fauouring the limit of an howr,
+               But doth all sort of states alike deuour.
+            
+            
+               Deuour thou them and surfet on the baite,
+               Of thine insatiate rapine? exercise
+               The vtmost of thy vengeaunce nor delay it?
+               Let meagre gluttony yet tyrannise,
+               To vse extreames? thy power we despise:
+               Kill whom thou darst, since Deuonshire did depart,
+               We scorn the malice of thine enuious dart.
+            
+            
+               Sleep still in rest, honor thy bones enshrine,
+               (Victorious lord) sweet peace attend thy graue,
+               Mount thy best part with angels wings diuine;
+               About the throne of Ioue in quires to craue
+               By madrigalls the ioyes that thou wouldst haue.
+               So euer shall while dates of times remaine
+               The heauens thy soule, the earth thy fame containe.
+            
+            
+               If to be learned in the Arts of skill
+               If to be bewtifi'de with choyce of nature,
+               If to be guiltlesse from the soyle of ill
+               (Saue soyle of sclaunder) if the perfect feature,
+               Consist in being heauen's quaintest architecture
+               Then euer shall while dates of times remayne,
+               The heauens thy soule the earth thy fame contayne.
+            
+            
+               
+               If to be fear'd and lou'd be humane glory,
+               If to be dow'd with plenty of desert,
+               If to be chronicled in honours story:
+               If youth which graue discretion did conuert
+               It selfe in commendation may insert:
+               Then euer shall while dates of times remaine,
+               The heauens thy soule, the earth thy fame containe.
+            
+            
+               If wisedom stand in checking rasher follie,
+               If virtue do depend on perfect zeale,
+               He in the one was wise, in th'other holy;
+               If to reguard the prosperous common weale,
+               Be shewes of commendation to reueale.
+               Then euer shall while dates of times remaine,
+               The heauens thy soule, the earth thy fame containe.
+            
+            
+               If to be virtuous, zealous, valiant, wise,
+               Learned, respectiue of his countries good,
+               Vpright, in case of conscience precise,
+               Iust, bounteous, pitifull, noble by blood,
+               Be to deserue the name of liuely-hood.
+               Then euer shall while dates of times remaine,
+               The heauens thy soule, the earth thy fame contayne.
+            
+            
+               For thou wast all of these too high for earth,
+               Therefore more fit for heauen where thou rainest,
+               The angells ioy'd thy soules delightfull mirth,
+               And therefore fetcht thee hence, whereby thou gainest
+               The fruit of paradize where thou remainest:
+               And euer shalt remaine from vs bereauen,
+               Great as thou wast on earth, more great in heauen.
+            
+            
+               
+               But ô giue leaue ere I forbeare my pen,
+               Thy worth in what I may t'exemplifie,
+               And set thee as a president to men,
+               The due of thy desert to amplifie,
+               And thy humanity to deifie:
+               Of thy much merit to cast vp the summe,
+               Thus be thy epitaph, and here thy tombe.
+            
+            
+               
+               His Tombe
+The Epitaph.
+               
+                  The course of time hath finisht now his breath,
+                  whom brunt of war could neuer force to death:
+                  whose thirst of worth the world could not suffice,
+                  within a bredth of earth contented lyes.
+                  betwixt the gods and men doubly deuided,
+               
+               
+                  His soule with them, his fame with vs abided;
+                  In this his life and death was counteruaild,
+                  He iustly liu'd belou'd, he dy'd bewaild.
+               
+               
+                  Aud so his happy memorie,
+                  Shall last to all posterity.
+               
+               
+                  
+                  Day weareth day, howre consumes howr,
+                  Years years, and age doth age deuour;
+                  The man who now beholds the sun,
+                  Ere it decline his life is done.
+               
+               
+                  So by this great Lord doth appeare,
+                  Whose honoured bonesly buried here;
+                  Whose bones though they interred lye,
+                  His glorious name will neuer dye:
+               
+               
+                  But liue in praise,
+                  To after daies.
+               
+               
+                  
+                  Here lies he dead who liuing liu'd in Fame,
+                  Consumd in body, fresh reuiu'd in name;
+                  His worthy deeds exceeded tearme of date,
+                  Alike his praise will neuer stoope to fate.
+               
+               
+                  For who is he that can suppose,
+                  That stones, great Deuonshire could enclose;
+                  Whose noble acts renowned were,
+                  Whiles as he liued euery where:
+                  
+                     England reioyced in his valours due,
+                  VVhich Ireland felt, and feeling did it rue:
+                  but now by destiny heere sleeps he dead,
+                  Whiles as his glory through the world is spred.
+               
+               
+                  Vrging the greate in emulation,
+                  Of his true honours commendation.
+               
+               
+                  
+                  No one exceeds in all, yet amongst many,
+                  Yea amongst all he could do more then any;
+                  Though more then mortall virtue grac'd his mind,
+                  He was vnto a mortall end confin'd:
+               
+               
+                  and forc'd to yeeld vnto deaths force,
+                  who in his shaft hath no remorse:
+                  Princes, beggars, great and small,
+                  he spareth none, he killeth all.
+               
+               
+                  So did he rob high Deuonshire of his breath,
+                  whose worth in spight of death will out liue death;
+                  aduantage such his merit doth retaine,
+                  He in his name will liue renewd againe.
+               
+               
+                  And so though death his life depriue,
+                  His life in death will new reuiue.
+               
+               
+                  By
+                  cruell dint
+                  of death's respectlesse dart,
+                  Greate Deuonshires soule
+                  did from his bodye parte:
+                  And left his carkasse in this earthly slime,
+                  whiles his fames essence to the skies did clime:
+                  Roauing abroade, to fill the latter dayes
+                  With woonder of his IVST deserued prayse:
+                  So that eache AGE will in the time to come,
+                  Admire his worthinesse, and mourne his TOMBE:
+               
+               
+                  Which they shall euer count a shrine,
+                  Of some deceased saint diuine.
+               
+               
+                  
+                  Lo here
+                  I reste,
+                  who liuing
+                  was adored,
+                  with all the honour
+                  Loue could haue implored:
+                  what earthly pomp might beautify my name,
+                  In pryde of glorie I enioyde the same:
+                  A Champion euer readye to defende her,
+                  A Senatoure preste alwayes to commend her:
+                  Though with my harts delight my life is grac't,
+                  Yet I in peace of death was crost at last:
+               
+               
+                  And now entombed here I lie,
+                  A mirror in eternity.
+               
+               
+                  
+                  O what so ere thou be that passest by,
+                  Looke on this hearse and weepe thy eye-lids dry,
+                  The monument of worth, the angells pleasure,
+                  which hordeth glories ritch inualued treasure:
+                  The reliques of a saint an earthly creature,
+                  Clad in the perfect mould of angell feature:
+                  who liues euen after life, now being dead,
+                  welcome to heauen in earth canonized.
+               
+               
+                  The shoutes of fame,
+                  Echoe his name.
+               
+               
+                  
+                  In blessed peace and soule-vnited rest,
+                  Here sleeps the carkasse of a peer most blest;
+                  VVhose downfall all the plots of cursed fight
+                  Could not procure, or terrifie his might:
+                  but euermore he tam'd the pride of folly,
+                  and castigated drifts of slaues vnholy,
+                  Yet death at last with force of vigor grim,
+                  VVhen he had conquered many, conquered him.
+               
+               
+                  and here amongst the quiet numbers,
+                  Of happy soules he sweetly slumbers.
+               
+               
+                  
+                  The boast of Brittaine and the life of state,
+                  The pith of valour, noblenesse innate,
+                  Foes scourge, friends hopes, sustainer of the poore,
+                  whom most men did imbrace, all men adore.
+               
+               
+                  Fautor of learning, quintessence of arts,
+                  Honours true liuelihood, monarch of harts,
+                  The sacred of spring of a virtuous womb,
+                  Lyes here enshrined in this hallowed Tombe.
+               
+               
+                  From out whose Phoenix dust ariseth,
+                  
+                     Renowne, which earths whole globe inticeth.
+               
+               
+                  
+                  Loe heer nine tombes, on euery tombe engrau'd,
+                  Nine Epitaphs shewing that worthyes nine
+                  For each peculiar on a Toomb hath crau'd;
+                  That their deserts who while the liu'd did shine
+                  Might now be monumented in their shrine,
+                  Yet all those nine no glory hence haue gain'd
+                  For Deuonshire in himselfe all nine contain'd
+               
+               
+                  The nine poore figures of a following substance
+                  Did but present an after ages mirrour.
+                  Who should more fame then they deseru'd aduance
+                  And manifest the truth of that times error
+                  Including Deuonshiere earth's admired terrour,
+                  For all the Poets who haue sung of them
+                  Haue but in mistery adored him.
+               
+               
+                  O now droppe eye-balls into sinck of mudd?
+                  Be harsh the tunes of my vnfeathered muse?
+                  Sorrow suck vpp my griefes? consume the blud,
+                  Of my youths mirth? let meager death infuse,
+                  The soule of sadnesse to vntimely newes?
+                  Dead is the hight of glory, dead is all
+                  The pride of earth which was angelicall.
+               
+               
+                  Ah that the goddesse whome in heart I serue
+                  (Though neuer mine) bright Lycia the cruell
+                  The cruell-subtile would the name deserue
+                  Of lesser wise? and not abuse the Iewell
+                  Of witt, which adds vnto my flame more fuell,
+                  Hir thoughts to elder merits are confin'd
+                  Not to the solace of my yonger mind.
+               
+               
+                  
+                  Bee't so? yet on the theame of this Ile spend
+                  The residue of plaintes and euer mourne
+                  The losse of this greate lord, till trauayles send
+                  More comfort to my wretched hart forlorne,
+                  Who since at home disgrac'd abroade is borne
+                  To sigh the remnant of my wearied breath
+                  In lamentation of his haplesse death,
+               
+               
+                  Sheath vp the sword of war, for Mars is dead
+                  Scale vp the smoothed lippes of Eloquence,
+                  For flowing Mercury is buried,
+                  Droope wisedome Numas graue intelli gence,
+                  Is vanisht, Affrican's stout eminence,
+                  In Deuonshire lyes obscur'd, for he alone
+                  Exceeded all, they all dide in him one.
+               
+               
+                  
+                     Charles the greate is dead who farre excelled
+                  
+                     Charles whome former times did call the great
+                  
+                     Charles who whilome whils on earth he dweled,
+                  Adorn'd the exaltation of his seat
+                  By the alarum of deaths grim retreate,
+                  Is mustered to the camp from whence he came
+                  
+                     Cherub's, and Seraphims of datelesse fame.
+               
+               
+                  O that a man should euer be created
+                  To eternize his glory heere on earth:
+                  Yet haue his pompe of glory soone abated,
+                  Euen at the present issue of his birth
+                  And loose the Trophey of that instant mirth
+                  Heere is the guerdon'd meede of victory
+                  No sooner to atchieue, assoone to dy.
+               
+               
+                  
+                  Is death the rewarde of a glorious deede?
+                  Is death the fee of valour? is desert
+                  Repayd with death shall honours gayne Proceed
+                  By losse of life? ô then a cowards heart
+                  Of earthly comfort hath the better part
+                  Then better liue in peace and liue, then trye
+                  The brunt of conquest and reguardlesse dye.
+               
+               
+                  Dye thoughtes of such disgrace dye thirst of state.
+                  Dye thoughts of empty ayr'd ambition
+                  Dye thoughtes of soring maiestyes elare
+                  Dye inclination to conscript condition
+                  Dye pride of Empyre sou'raignetyes commission,
+                  All that in soule of life may bee estem'd
+                  Oh dye, fatte cannot be with bribes redeem'd.
+               
+               
+                  Dye portly hunger of eternity
+                  Dye hott desires of vnbounded pleasure,
+                  Dye greediness of false prosperity,
+                  Dye giddie solace of ill suted leisure,
+                  Dye hopes of hoorded canker-eaten treasure
+                  Ambition, Empire, glory, hopes and ioy
+                  For euer dye, for death will all destroye.
+               
+               
+                  For death will all destroy as he hath donn,
+                  In seising to his strong remorslesse gripe
+                  All triumphs Noble Deuonshiere euer wonn,
+                  Plucking the blossomes of his youth vnripe
+                  And make them yeeld vnto his thanklesse gripe:
+                  But, ahwhy should we task his dart uneuen
+                  Who took from earth what was more fit for heauē.
+               
+               
+                  
+                  He was more fitte for heauen then to suruiue
+                  Amongst the chaffe of this vn season'd age,
+                  Where new fantastick ioyes doe seek to thriue
+                  By following sensuall toyes of follyes rage,
+                  Making the glosse of vice true vertues badge:
+                  He saw that shame which misery begun it,
+                  Seing he did it scorne and scorning shun it.
+               
+               
+                  Hence sprung the venom of impoysoned hate,
+                  Poore malediction's sting, who did despise
+                  Bright honor's stamp, which in his bosome sate,
+                  For that he could not brooke to temporise
+                  With humours masked in those times disguise:
+                  But let dogs barke? his soules aboue theyr anger
+                  They cannot wound his worth with enuies slander.
+               
+               
+                  He sleepes secured and in blessed slumber's
+                  of peacefull rest he carelesse rests in peace,
+                  Singing lowd antheames with the sacred numbers
+                  Of happy saints, whose notes do neuer cease:
+                  But euermore renewing fresh increase
+                  Whiles he doth sing and angels pleasure take,
+                  We mourne his death and sorry for his sake.
+               
+               
+                  Not for his sake but for our haplesse owne,
+                  Who had so rich a prise and did not know it,
+                  Iewell's being had for Iewel's are not know'n,
+                  For men in happy fortune doe foreslow it,
+                  The value when 'tis lost doth chiefly shew it
+                  So wretched is our blindnesse, and so hate full,
+                  As for the guifts we haue we are vngratefull.
+               
+               
+                  
+                  Euen as a poring scholler who hath read
+                  Some Cosmographick Booke, and finds the prayse
+                  Of some delitious land deciphered
+                  Cast's sundry plots how by what meanes and wayes,
+                  He may per take those pleasures, months and dayes,
+                  Being spent he goes and rauisht with the mayne
+                  Of such delight he nere returnes agayne,
+               
+               
+                  So Deuonshiere by the Bookes of inspiration
+                  Contemplating the ioyes of heauens content
+                  In serious thoughts of meditation
+                  Which he in perfect zeal had long time spent
+                  Thirsting to be immortall hence he went,
+                  He thither comes and glorying it in that speare
+                  Vnmindfull of this home, he triumphes there.
+               
+               
+                  Long may he triumph ouer topping cloudes,
+                  Of our all-desperate mouldes vexation,
+                  Pittying the sorrow which our danger crowds
+                  With ioylesse taste of true ioyes desolation,
+                  Whiles he enioyes his soules high delectation
+                  Long may he liue whom death now cannot moue
+                  His fame below, his spirit wings aboue.
+               
+               
+                  Aboue the reach of humane witts conceite
+                  Aboue the censure of depraued spight
+                  Aboue earths paradizes counterfeyt.
+                  Aboue imagination of delight,
+                  Aboue all thoughts to think or pens to write
+                  Ther doth he datelesse dayes of comfort spend,
+                  Renowned in his life, blest in his end.
+               
+            
+            
+               
+               Anagramma ex Camdeno.
+CAROLVS BLVNTVS.
+Bonus, vt sol clarus.
+               
+                  IN life vpright and therefore rightly good,
+                  
+                  Whose glory shind on earth and thence a Sunn
+                  
+                  By his renowne as cleere hee's vnderstood,
+                  Whose light did set when as his life was done:
+                  Bright as the sun, good euer to aduance,
+                  
+                  The soule of merit spurning ignorance.
+               
+               
+                  
+                     Good in the virtue of his powerfull arme,
+                  Which broughte more peace to peace, chac't feares of harm,
+                  And whiles he liu'd a wonder maz'd the light,
+                  
+                     Two suns appeared at once, at once as bright:
+                  For when he dyde and left his fame behind,
+                  One Sunn remaynd, the truest Sun declin'd.
+               
+               
+                  Dignum laude virum,
+                  Musa vetat mori.
+               
+               
+            
+         
+      
+   
+

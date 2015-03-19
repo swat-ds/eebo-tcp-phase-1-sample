@@ -1,0 +1,889 @@
+
+   
+      
+         
+            [The abridgement of logique]
+            Evans, Lewis, fl. 1574.
+         
+         
+            
+               1568
+            
+         
+         Approx. 49 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2005-03 (EEBO-TCP Phase 1).
+            A00454
+            STC 10588
+            ESTC S118327
+            99853534
+            99853534
+            18919
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A00454)
+            Transcribed from: (Early English Books Online ; image set 18919)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 885:03)
+         
+         
+            
+               
+                  [The abridgement of logique]
+                  Evans, Lewis, fl. 1574.
+               
+               [48] p.   
+               
+                  H. Denham,
+                  [London :
+                  1568?]
+               
+               
+                  Authors name on A2r reads: Lewis Euans.
+                  Title from running title. Imprint and suggested publication date from STC.
+                  Signatures: A-C.
+                  Imperfect; torn affecting text and lacks title page.
+                  Reproduction of the original in the Bodleian Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Logic --  Early works to 1800.
+            
+         
+      
+      
+         
+            2004-09
+            TCPAssigned for keying and markup
+         
+            2004-10
+            SPi GlobalKeyed and coded from ProQuest page images
+         
+            2004-11
+            Judith SiefringSampled and proofread
+         
+            2004-11
+            Judith SiefringText and markup reviewed and edited
+         
+            2005-01
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            To the Right Reuerende Father in God, and his singuler good Lord, Edmund, Bishop of London, Lewis Euans wisheth much helth, long life, with encrease of all right godly Honor.
+            
+               WHEN I CONsider, which thing I oftentimes do with my selfe, right Honorable, of what knowledge, sharpen
+                  •
+               sse of witte, and in
+                  •
+               ustrie, the learned and wise Philosophiers of aūcient times were, I se cause both to reioyce, and to be sorie: reioyce we 
+                  〈◊〉
+               , for that through their most excelle
+                  ••
+                labors, it hath pleased almightie God, such is his goodnesse, so to open vnto vs the secrete workings of nature, and knowledge of sundrie things, which frō many, were of a long time before secret and hidden: againe, sorie we m
+                  ••
+                be, to
+
+see such singular instrumentes prouided for our welth and benefites, not only to be vtterlye ignorant in the moste comfortable, most hygh, and infallible doctrine, in the knowledge of their Creator, of our Redeemer and Maker, but also (whereat needes muste we lament) to be so dotinglye wedded vnto theyr owne willes, as wilfullie, or rather willinglie, and that (alas) without anye reason to yelde them selues bonde slaues and wretched captiues vnto the detestable seruitude, and most execrable bondage that euer sithens the creation of man reigned, vnto the embracing, I will not say of the euill, but of the most wicked, horrible, and monstruous Idolatrie of the heathens: that is, to worship the Sunne, to adore the Mone, to reuerence the Stars, to honor the fire, to take for thei
+                  •
+                Gods the brute beastes of the earth, to esteeme for their Sauiours, some Rauenyng Fowle of the aire, and (if all that be not madnesse and abhomination inoughe) further to praye vnto most venemous snakes, to seeke helpe of vglie serpents,
+
+to accompt them for Goddes, to keepe, seede, and honor them. O blinde harts! ô darkenesse palpable! ô learning to no purpose auailable! we may therfore wel say vnto such, yea, be he otherwise neuer so perfect an Orator, neuer so profound a Philosopher, Sapientia tua, &amp; scientia tua, haec est quae decepit te: thy worldly wisdome, thy ouer curious knowledge, his, this, is it that hath blinded, beguiled, deceyued thee. For touching the excellencie of learning, and worthinesse of eloquence, if we weigh well, but the flowing stile of the incomparable Cicero, what can be more pleasant? what maye with greater vehemenc
+                  •
+               e perswade? what can with more efficacie disswade? who, to be briefe, may but with much admiration embrace it? likewise, if we consider the great wisedome of Socrates, who is to be accompted (this of the heathens I speake) so woorthie? so excellent? so perfect as he? Plato also was very famous, so were both the Catoes, Pythagoras, Sophocles, and Demosthenes, with many more: and yet how frowardlie, nay how frantikly these wandered from the right way, from the
+
+acknowledging of one God, and the same of a diuine essence, liuing, vnderstanding, of an infinite power, wisedome and goodnesse, true, bounteous, iust, chaste, and mercifull, which is the father, the sonne, and the holy ghost, three persons, and one God, how farre I say, and how wickedlie, from this they haue strayed, so euident it is, that for their sakes how should we but be sorie? for ours, how can we but reioyce? but what? haue they erred in nothing, but in the doctrine (which thing is verie all) of our creation, and redemption? haue they not in their owne doings oftentimes so foolishly reasoned, as, i
+                  •
+                wee fauour
+                  •
+               d them not much, wee might seeme iustly to saye, that almost they had no reason? and not to speake of Protagoras follie, nor of Diagoras his impietie,
+                  De nat. deo. lib. 1. to let all others passe, what if wee ripped vp the doings but of him whom amongst them all, I fauour most, of eloquent Cicero I meane? might we not therin sometimes see, verie small proofes? espie sclender reasons? and finde suche childishe shiftes? as better in my iudgement it were, to denie in some places the
+
+woorke, than to acknowledge it for the doings, in other things of so incomparable a man? for to prooue his diuination, what I pray you among other things alleageth he?
+                  De diuin. lib. 1. two Snakes forsooth (so he sayth) were taken in the house of a noble and wise man, one Ti. Gracchus, vnto whom the wise men (for so I name them, whome the Persians call Magos: the Aegyptians Prophetas: the Assyrians Chaldaeos: and the Indians Gymnosophistas) they being asked what these Snakes signified, did saye: that if he did let the Male escape, then should his wife shortly after die: if the Female, then should he. The Female was let gone (for, loth a Gods name he was, that P. Affricanus his daughter, being a yong gentlewoman should die) so he himselfe in fewe dayes after accordingly died. A worthie proofe of a thing neuer able to be proued Well, if anye of the twaine, sayth he, should escape, by that meane, the man, or the wyfe must nedes die. But as he had choyse to keepe which he woulde, so was he bound by no necessitie to let go anye. Why then kept
+
+he not both? he was a wise man, why saued he not therby as well his owne life, as his wiues? after the same maner myght we easilye confute (were it not to long) the famous Oracle at Delphi, the cutting of a whetstone with the rasour by Tarquinius, the dreame of Aeneas, and al such incredible, lewde and whetstone lies. But let Cicero herevnto (for so he doth) make this aunswere. What subtiltie is this, by trifling to condemne things, confirmed by yeares and antiquitye of time? nay, what follie is it, without any reason, to receiue dreames and fonde fables, found out we know not how, why, nor by whō? yet it is contained in blinde chronicles, it is of authoritie. Yea, but ipse dixit (were the authoritie better than of those, qui sui quaestus causa, fictas suscitant sententias) hindereth the learner, letting him from adiudging what in eche thing is right. In reasoning (as Cicero himself saith) the authoritie is not so much, as is the weight of the reason to be sought for, &amp; required. What? is this, will some say the opinion of Cicero? is not his first booke of
+
+Diuination written in the name of his brother Quintus? that I graunt. And yet, it is the doings of Tullie, it is his owne worke, and (though it pleaseth him therin to try his wit) his verie and full mind, as the same may well appeare aswell in other of his workes, as speciallye in hys writing vnto A. Caecinna, wherein he affirmeth, that no signes can be surer, that none may be more certaine, than Diuination. But let his first passe, and come vnto the seconde. Denieth he not therein, not onely dreames, whereof I speake not, but also visions? not only 
+                  〈 in non-Latin alphabet 〉
+               , as therein the difference is pretye,
+                  Suidas:
+                but also 
+                  〈 in non-Latin alphabet 〉
+               , and yet we read that in the verie booke of God, how Daniel, S. Peter, S. Iohn, with others saw visions, regarded, estemed and expounded them. But here a while to omit the heathens, I would that we likewyse, euen we that are Christians, shoulde not trust ouermuch vnto authorities, vnto the writings, I meane, and coniectures of man, it is modestie to be allowed, and prudencie to be praysed, if we so reade them, as
+
+               S. Aug. did the writings of S. Cyprian: that is,
+                  Aug. lib. 2 contra quendam Donatist.
+                
+               Quod in eis diuinarum scripturarum authoritati congruit, cum laude eius accipio: quod autem non congruit, cum pace eius respuo, that which agreeth in the same with the authority of diuine scriptures, to his prayse I receiue: but which agreeth not, that with his fauour I forsake, &amp; leaue. Where let none thinke, that I contemne authorities, but only wishe, Sine ratione vt non valeret authoritas, that authoritie without reason or scripture, should not take place, and preuaile. For to saye the troth, some receyued of many as authorities, be so fonde, vt aures à cōmemoratione abhorreant. Peter (saith some) denied Christ, that he might follow him, and not for feare. O follie! ô madnesse! the scripture is plaine. A farre off followed Peter, he feared, yea, he was greatly afrayde. Some also affirme that S. Iohn died not, but was caried aliue, as Enoch, and Elias into Paradys
+                  ••
+               , and yet at his sepulchre is Manna, saye they, as it were bubling vp, euen vntill this daye, a sepulchre he had, he was buried, and notw
+                  •••
+               standing all this, he died not. Alas, what weake authorities be these? nay,
+
+what foolish, and intollerable dreaming is this, about the scriptures of God? againe, such as childishlye do vnderstand, that the Lorde wil discend into a valley, vpō the side of the mount Olyuet, there to iudge the worlde, is not therein their wisedome so small, and their writings so fonde, as whether is most foolish, it is hard to tell? Further, there be which alleage, that our Sauiour in no respect feared death, and that he was nothing afrayde of his passion. But the scriptures be altogether otherwise. For he himself sayth, My soule is heauye, euen vnto death. Of whom likewise the Euangelist thus speaketh,
+                  Marc. 14. 
+               Christ began to feare, and to be sorowfull.
+               
+                  Ibidem.
+                Let them therefore be ashamed, which thinke that our Sauiour, in respect of his manhode, feared not death, and that he did not through feare of his passion say Transeat à me calix iste,
+               
+                  Math. 26. 
+               let this cuppe passe from me. There is moreouer, which write, that though our sauiour suffered, yet he felt no paine, though he were scourged, and wounded, yet he felt no smart, no griefe, no dolor, that all his passion was
+
+               sine sensu poenae, without feeling of paine. What? when he cried,
+                  Math. 27 
+               Eli, Eli, lamasabachthani? Lord, Lord, why hast thou forsakē me? Were not then his paines great? his dolors vnspeakeable? his griefe exceding? Oh, our infirmities he bare,
+               
+                  Esa. 54. 
+               and our sorowes did he sustein. Wherfore, may wee not see, how slender sometimes, are the writings, and authoritie of man? howe farre from the purpose they estray? and how plainelye in some places they differ, from the Prophets, Apostles, Euangelists, and holy Ghost? And to returne vnto the heathens againe, in whose workes although manie things be found vntrue, supersticious and lewde, yet thorowe them, as meanes, we haue attained the ryght entrie into Artes, the readye way how to vnderstand liberall sciences, and the playne path into the pleasaunt park of al laudable studies. And amongst all such benefits, which we thus at their handes haue receyued, no one seemeth more excellent, so profitable, and so to be accepted, as is the Arte of reasoning, which onelie (as the Prince of Orators 
+                  De leg. lib. 2.sayth) doth conteine the whole skill of
+
+thorowly seeing and adiudging, what both is, and ought to be in euery matter. Yea, and that man, as sayeth the diuine Philosopher Plato, which vtterly in thys Arte is ignorant, seeth nothing else, were he otherwise neuer so rich and renowmed, but the verie shadowes, and hollow bare images of things. Therefore haue I thought it (my singular good Lorde) worth the labor, if wee in our tongue, as the Latines haue done in theirs, shoulde some briefly, &amp; some at large, so set forth this Art (which I may worthily term the verie treasure house of sciences, the Casket of Iewels, the ground of all good studies, and the very nurse of right perfect knowledge) as it maye at the length appeare, that like as the Latine is nothing inferiour vnto the Greke, so our tongue may in time, either be comparable with both, or at the least (somewhat to graunt thē) not much inferior vnto the second. Which my smal labour howsoeuer done, although in value little aboue the apple giuen by the poore man, vnto Artaxerxes Memor, I haue yet bene bolde to dedicate,
+
+and offer vnto your honor. First, as a token and pledge of the vnfeined good will which (not to speake of your great clemencie) for sundrye good causes, I am bounde to beare during lyfe, towardes your good Lordship: then, that vnder your protection, the same being published, the malice of Momus might be weakened, and the spite of Zoilus abated. For it cannot be but Logique hath enimies, but reason hath foes, but one industrious sometimes shall haue aduersaries. Thus humbly I craue that your honor would, with such hart and countenance receiue it, as thereby I may be encouraged (if it shall please God, so to ayde me) to beginne, and goe forwarde with greater things.
+            
+               Your humble Orator Lewys Euans.
+            
+         
+         
+            
+            Ludouicus Euans, optimarum artium studiosissimis. S. D.
+            
+               QVoniam cum omni vtilitate, quam dij hominibus, doctissimi viri, dederunt, ars aliqua (Ciceronianis enim quā saepissimè, &amp; libenter vtimur) coniuncta est, per quam illa vtilitas subinde percipi, tradi
+                  
+                     
+                  
+                  que
+                possit: non possum non saepè multum
+                  
+                     
+                  
+                  que
+                admirari, quibusdam quid venire possit in mentem, eorum vt industriam, &amp; studia
+
+reprehendant, eorum labores, &amp; ingenia contemnant, qui dialecticam anglicè aedendam esse, at
+                  
+                     
+                  
+                  que
+                eam vel illiteratis in sua cuius
+                  
+                     
+                  
+                  que
+                lingua tradendam, quàm autem praeclare vestrum esto iudicium, censuerunt. Mihi profectò multùm, diu
+                  
+                     
+                  
+                  que
+                cogitanti, quanam re nostris possem hominibus prodesse, nulla impraesentiarum maior, nulla praeclarior occurrebat, quàm si dialecticae artis, hoc est dicere, rationis viam traderem meis cōterraneis. Est
+
+nan
+                  
+                     
+                  
+                  que
+                eiusmodi hominibus vtilitati ratio, ea vt illis nihil à deo vtilius, nihil praestantius, nihil pulchrius dari posse videatur. Qua cum, quod est etiam ars quaedam coniuncta, &amp; ea quidem longè omnium clarissima, quae Logica dicitur, &amp; quae quasi disserendi quaedam magistra est, quis vsquam adeò immanis, quis vnquam tam barbarus extitit, ea vt suos priuari desyderet? ea vt suos ornari, vel ex animo non optet? Hoc fuit in causa, clari, praestantes
+                  
+                     
+                  
+                  que
+               
+               
+viri, quod ego magnificam hanc artem, anglicis iam literis, &amp; succinctè illustrandam putarem. Cui sententiae vos si nihil praeuertendum putatis, erit tum reliquum, vt lucubratiunculam hanc qualemcun
+                  
+                     
+                  
+                  que
+                meam, iniquorum contra morsus, acerbitatem, &amp; calū
+               niam, candide defendatis. Hoc si feceritis, erit cum id mihi tam gratū, quàm quod gratissimum: tum à vestra arte, humanitate, ingenio, &amp; literis non alienum. Valete.
+         
+      
+      
+         
+            
+            The Abridgement of Logique.
+            
+               
+                  LOgique is an Arte to define the nature of things,What Logique is. to deuide them into parts, to knit true arguments, and to detect the false.
+            This Arte consisteth of two parts:Logique deuided. thone in finding out matter, and shewing the places, whence all Arguments doe spring: the other in adiudging and framing of suche matter founde, aptlye togither, and for the purpose.
+            The ende of Logique is probably to reason of any matter set forth.
+            This Arte (being onely reason) naturally is engraffed in vs,To wha ende Logicke serueth. but yet nowe so darkened, as we haue much néede of the precepts thereof, and that to instruct, and remember vs, of such things, as by nature we haue.
+            Now in this Art are inuented fiue common wordes, seruing to shew forth,Fiue common wordes. howe farre other wordes doe extende, and howe
+
+much they contayne in them. Neyther is there any word, which is not comprehended vnder one of these common wordes: and they be these, ye 
+               Generall, the Speciall, the Difference, the Propertie, the Accident, &amp; herevnto is also added euery proper name, or that which supplieth the roome thereof.
+            
+               Generall.The Generall is a worde which is spoken of manye, that differ in their Specialles, as a liuing creature comprehendeth a man, a horse, a dog. &amp;c. and euery Generall hath diuers Specials, &amp; is spoken euermore of them all: as a trée comprehendeth in it self, a Peare trée, an Apple trée, a fig trée. &amp;c.
+            The Speciall is a worde whereof the sorte or kinde is conceiued in minde:Speciall. as a man, a horse. &amp;c.
+            
+               DifferenceThe Difference is a word which serueth to discerne one Speciall from another, as to be endued with reason, is the difference betwéene man, and a beast.
+            
+               PropertieThe Propertie is a word which declareth a naturall pronesse, and maner of doing, which agréeth vnto one Speciall, and to the same onlie, and that alwayes: as the propertie of Grammer is to speake and write
+
+truly: of Logique to teache aptly, and by a naturall meane: of Musicke to sing: of Arithmetick to number. &amp;c.
+            The Accident is that,Accident. which maye both be present and also absent, without any detriment vnto the substance, wherein it is: as a man may be merie and sorie. &amp;c. And here you must note, that the Accident is two wayes to be considered: eyther separable from the substance, as mirth from man, or else vnseparable, as heate from fire. But yet in thought, heate may be separated from the fire.
+            The special vse of these fiue cōmon wordes is,The vse of the .v. common wordes. that we vse not the Generall for the Speciall, nor the Speciall for the Generall.
+            
+            There are also in this Art certaine words called ye 
+               most general,
+               Most generall. which do chiefly serue to this purpose, that we confound not ye substances, or inwarde nature of things with the Accidents: and they be in number ten, the Substance, the Quantitie, the Qualitie, the Relation, the maner of doing, the suffering, When, Where, the Seatling, and the apparayling.
+            
+            A substance is the inwarde nature of aSubstance
+               
+thing, only in mind separated from the Accidents, as God, Man, a Lion. &amp;c.
+            
+               
+                  A substance.
+                  
+                     
+                        Without body
+                        
+                           
+                              God,
+                           
+                           
+                              Aungelles,
+                           
+                           
+                              The soule of man.
+                           
+                        
+                     
+                     
+                        with body
+                        
+                           
+                              Without mixture
+                              
+                                 
+                                    Fyre.
+                                 
+                                 
+                                    Ayre.
+                                 
+                                 
+                                    Water.
+                                 
+                                 
+                                    Earth.
+                                 
+                              
+                           
+                           
+                              compounded of diuers elements.
+                              
+                                 
+                                    A liuing thing as a creture.
+                                    
+                                       
+                                          Hauing the sence of feeling,
+                                          
+                                             
+                                                Endued with reason, as man.
+                                                
+                                                   
+                                                      Socrates
+                                                   
+                                                   
+                                                      Plato.
+                                                   
+                                                
+                                             
+                                             
+                                                Without reason: as beastes.
+                                                
+                                                   
+                                                      Cattell.
+                                                   
+                                                   
+                                                      Fish.
+                                                   
+                                                   
+                                                      Fowle.
+                                                   
+                                                
+                                             
+                                          
+                                       
+                                       
+                                          Without sence of feeling, as
+                                          
+                                             
+                                                A tree.
+                                             
+                                             
+                                                A shrubbe.
+                                             
+                                          
+                                       
+                                    
+                                 
+                                 
+                                    Wythout lyfe.
+                                    
+                                       
+                                          Stones.
+                                       
+                                       
+                                          Mettalles.
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+            ¶This table sheweth the order of euerye substance and kinde: and also teacheth how ye maye define any thing, as if you will knowe what man is.
+            
+               
+               Man is a substaunce with bodie, compound of diuerse elements, liuing, hauing the sense of féeling, &amp; endued with reason.
+            A Quantitie is the greatnesse of a thing,Quantity. and it is by two means perceyued, by sight, and by feeling, and his propertie is to be deuided, as an Ell into quarters, a shilling into pence, an Oration into sentences. &amp;c.
+            
+               Quantitie is two wayes considered,Quantitie deuided. the one as by asking how great, long, or broade a thing is: the other, by asking how many things there be.
+            
+               Qualitie is all (except Quantitie) which is subiect vnto the senses of man,Qualitie. and they be two wayes to be considered: either of the bodie: as coulours, soundes, smellings, tasting, féeling: or of the minde, as sciences, vertues and affections.
+            The Relation is a name giuē vnto things not by nature, but in the respect of an other:Relation. as when I say a maister, I must vnderstand seruants or scholers that he hath, in respect of whom he is so called. And there are two things here to be marked ye 
+               grounde of euery thing, and the ende whervnto it hath respect: as a maister is the grounde in that
+
+he teacheth, and hath respect vnto his scholler which is taught: againe, the Scholler is the ground in that he is taught, and hath respect vnto his maister which teacheth him.
+            
+               The maner of dooing.The maner of doing, is a relation vnto that which is done, or suffred: as to loue, is a relation or action, towardes the thing which is loued. And herevnto may we referre the dutie of euery man: as to teach, to write, to play the lawyer or merchaunt. &amp;c.
+            
+               Suffring.The suffering, is a relation of the sufferer vnto the dooer, or the effect of the maner of doing: as to be loued, taught, writtē. &amp;c.
+            
+               Where.
+               Where, is a worde which comprehendeth the description of places, or sheweth where any thing is done: as in Englande, at home, at London, at Cambridge, in the schoole, in the church. &amp;c.
+            
+               When.
+               When, is a word, shewing at what time a thing is done: as this day, to morow. &amp;c.
+            
+               Setling.The Setling, is the disposition, gesture, or order of the body, as when it lieth, sitteth, standeth. &amp;c.
+            
+               Apparayling.The Apparayling, either sheweth with what thing any bodie is couered, as with a cloke, coate, gowne, chaine, scepter, mace, or
+
+that which one possesseth, as golde, landes, wife. &amp;c. or that which cōtaineth anie thing, as the ship holdeth or containeth wares, men. &amp;c. Further, wheras at the beginning, I sayd, that Logique was an Art to define the nature of things: as thus you maye define or expresse what man is, man is a lyuing creature endued with reason.
+               A definition deuided.
+Now you shall note that a definition is foure wayes to be considered: for eyther it is Essentiall, which consisteth of the Generall and Difference, as in the aforesayde definition of man: or it is causall, whē the causes be expressed, as Béere is a drinke made of water, Hoppes, and Mault: or else it consisteth of the parts, as Matrimony is the coupling togither of man and wife: or else it consisteth of the Accidentes, as the Euening is a tyme wherein shadowes be most long.
+            Thus as a definition declareth what a thing is, so sheweth a deuision howe manye things are comprehended in the same: and it is also foure wayes to be considered, that is, the deuision of a worde,A deuision deuided. as tyme signifieth an hearbe, and also this instant: the deuision
+
+of the Generall into his Speciall: as a liuing creature is deuided into a man, a Lion, an Asse. &amp;c. The diuisiō of the whole into his partes, as a bodie into an heade, breast, bellie, féete, and handes: the deuision of the substance into his Accidents: as Cicero was a Philosophier, an Orator and an Astronomer. After that we haue so shewed what Logique is, what ye 
+               common words, and the most generall are, what a definition, and what a deuision is, we wyll briefly speake of the knitting of wordes togither in a Proposition.
+            
+            
+               Proposition.A Proposition is a perfect sentence: shewing a reason true or false: as Man is a liuing creature. And euerye Proposition doth consist of two partes, the one whereof somewhat is spoken, the other which is spoken of any thing: as in this sentence, Man is a liuing creature, a liuing creature is spoken of man, so that man is that wherof it is spoken. Euerye perfect sentence is two wayes deuyded,Proposition deuided. eyther it is single, as modestie is a vertue: or else it is double, as if modestye be a vertue: it is praise worthy.
+            
+               Againe, a Proposition is eyther true or false: true, as, all men are mortall: false, as, no men are mortall. Also it is either affirmatiue or negatiue: as, vertue is good, vertue is not good: it is further eyther vniuersal, as, all men are honest, or perticular, as, some men are honest, or indefinite, as, vertue is the chiefe good thing: or singular, as, Cicero is a perfect Orator.
+            The vniuersall proposition hath generall signes, as these, all, none. &amp;c.
+            
+            The perticular hath perticular signes, as, some one, the most part, oftentimes.
+            
+            The indefinite hath no signe. And the singular hath to the one part a nowne proper.
+            The vse of a proposition,The vse of a proposition. or perfect sentence, is briefly to comprehend, and to couch togither in one sentence, the full summe of a long and large discourse: as in the second booke of the Aeneides of Uirgill. Troye was destroyed by the Graecians.
+            
+            The repugnancie of propsitions,The repugnancie of a proposition. is the diuersitie of two perfect sentences, consisting of two, and the selfe same partes. And of these repugnant propositions there be
+
+foure:A proposition repugnant deuided. the one altogither contrarie, as all men are liers, no men are liers: the other perticuler contrarie, as some men are liers, some men are no liers: the thirde contradictorie, as all men are liers, some men are no liers: the fourth (so to speake it) is subalterne, as all vertues are to be praised, some vertue is to be praysed.
+            
+               
+                  
+                     
+                        A table of the repugnant propositions.All men are good.
+                     
+                        Altogither contrarie.
+                     
+                     No men are good.
+                  
+                  
+                     
+                        Subalterne.
+                     
+                     
+                        Contradictorie. Contradictorie.
+                     
+                     
+                        Subalterne.
+                     
+                  
+                  
+                     Some men are good.
+                     
+                        Perticular contrarie.
+                     
+                     Some men are not good.
+                  
+               
+            
+            
+               The vse of the repugnancy.The diuersitie of these perfect sentences, is most necessarie to discerne the truth from
+
+that which is false: for as blacke and white being ioyned togither, the difference is soone espied: so if you ioyne two dissonant proposicions, you shall easilye discerne the true, and finde out the false.
+            Then followeth the turning of propositions,The vse of the turning of a proposition which serueth for the euident opening of them, for the making of short argumentes, and for the reducing of the seconde, and thirde figure into the first.
+            The turning of a proposition,The turning of a proposition. is when the first parte, and latter of the same, are turned, the one into the others roume: as, some priestes are good men, some good men are priestes.
+            
+               A plaine turning of a proposition, is,A plaine turning. when the parts of the same, do supplie thone the others place, the same signes alwayes vnchaunged: as, no good man is an vsurer, no vsurer is a good man.
+            An accidentall turning,
+               An accidentall turning. is when ye same signes doe not remaine: and by this are the perticulers gathered of the vniuersals: as all men are liuing creatures, some liuing creatures are men.
+            Hitherto hauing briefly set forth al single
+
+wordes, and their nature, we will nowe shewe how to frame an Argument.
+            
+               An argument.An argument is the proouing of a perfect sentence set forth, whereof before it was, or might be doubted.
+            
+               An argument deuided.An argument is deuided foure wayes, into a perfect argument, an vnperfect, an induction, and an example.
+            
+               A pefrect argument.A perfect argument consisteth of thrée propositions, whereof the first is called the proposition at large, the seconde is named, the lesse, and the thirde is termed the conclusion: as for example.
+            
+               
+                  At large.Euerie vertue is to be praysed:
+               
+                  The lesse.Modestie is a vertue,
+               
+               
+                  Conclusion.Therefore modestie is to be praysed:
+            
+            And here you must well note one worde, called the double repeate, conteyned in the two first propositions, which in ye aforesayd argument is this word vertue, for it knitteth togither the two first propositions, prouing the thing, and neuer entreth into the conclusion.
+            As for rules concerning a perfect argument to be obserued, to one marking well, though onelye his figures and moodse they
+
+are not so néedefull.
+            The figures appertaining vnto a perfect argument are three: the first, the seconde,3. figures. the thirde.
+            The first figure is when the double repeate is placed in the former part of the first proposition, and in the latter of the seconde.1. figure.
+            
+            And vnto this first figure there doeth belong foure moodes, which be nothing else, than words inuented,4. Modes· that only by the vowels of the same, the qualitie and quantitie of the proposition maye be knowne, that is, whether it be vniuersall affirmatiue, or vniuersall negatiue, perticuler affirmatiue, or perticular negatiue: the moodes or the wordes are these: Barbara, Celarent, Darij, Ferio: the vowels whereof are thus to be considered.
+
+                  
+                     A signifieth A proposition vniuersal affirmatiue
+                  
+                  
+                     E signifieth An vniuersall negatiue.
+                  
+                  
+                     I signifieth A particular affirmatiue.
+                  
+                  
+                     O signifieth A particular negatiue.
+                  
+               
+These things thus being well marked, you may by euerie one of the saide foure moodes frame an argument, which euermore must be made from the general bnto the special,
+               
+as thus.
+
+                  
+                     Bar- All liuing creatures are of Gods creation:
+                  
+                     ba- All men are liuing creatures,
+                  
+                     ra. Therfore all men are of Goddes creation.
+               
+               
+                  
+                     Ce- No iustice is a vice:
+                  
+                     la- All pietie is iustice,
+                  
+                     rent. Therfore no pietie is a vice.
+               
+               
+                  
+                     Da- All filthinesse is to be auoyded:
+                  
+                     ri- Some pleasure is a filthinesse,
+                  
+                     j. Therfore, some pleasure is to be auoyded.
+               
+               
+                  
+                     Fe- No Arte is to be contemned:
+                  
+                     ri- Logique is an Arte,
+                  
+                     o Therefore Logique is not to be contemned.
+               
+The second figure hath the double repeat in the last rehersed parte of both propositions,2. figure. and it hath also foure moodes,
+               4. Modes which be these: Cesare, Camestres, Festino, Baroco, the vowels wherof as before, are most to be considered.
+            
+               
+                  Ce- No good men doe robbe their neighbours:
+               
+                  sa- All theeues doe rob their neighbours,
+               
+                  re. Therefore no theeues are good men.
+            
+            
+               
+                  Ca- All drunkardes doe hate good diet:
+               
+                  mes- No good men doe hate good diet,
+               
+                  tres. Therfore no good men are drunkards.
+            
+            
+               
+               
+                  Fes- No wisemen doe boast themselues▪
+               
+               
+                  ti- Thraso doth boast himselfe,
+               
+                  no. Therefore, Thraso is not wise.
+            
+            
+               
+                  Ba- Al good mē are thākful to their benefactors
+               
+                  ro- Nero was vnthankefull to his benefactor,
+               
+                  co. Therefore, Nero was no good man.
+            
+            The third figure hath the double repeate in the former part of both propositions,3. figure. and there be sixe moodes, appertayning vnto the same: Darapti, Felapton, Disamis,
+               6. Moods. 
+               Datisi, Bocardo, Ferison, the vowels lykewise wherof, are as afore, specially to be considered.
+            
+               
+                  Da- All drunkardes are to be punished,
+               
+                  rap- All drunkardes are excessiue drinkers,
+               
+                  ti. therfore, excessiue drinkers are to be punished
+            
+            
+               
+                  Fe- No lawfull matrimonie is to be rebuked,
+               
+                  lap- All lawfull matrimonie haue dissentions,
+               
+                  ton. therfore, some dissētiōs are not to be rebuked
+            
+            
+               
+                  Di- Some learned men be heretiques:
+               
+                  sa- All learned men haue knowledge,
+               
+                  mis. therfore some hauing knowlege, are heretiks
+            
+            
+               
+                  Da- All knowledge is necessary vnto a Diuine,
+               
+                  ti- Some knowledge is Philosophie:
+               
+                  si. Philosophie is necessarie vnto a Diuine.
+            
+            
+               
+               
+                  Bo- Some man is no drunkarde.
+               
+                  car- Euerie man is a liuing creature,
+               
+                  do. therfore, some liuing creature is no drūkard
+            
+            
+               
+                  Fe- No man is an asse,
+               
+                  ri- Some man is a liuing creature:
+               
+                  son. Therfore, some liuing creature is no asse.
+            
+            Here I haue shewed the thrée figures, what they are, and their examples, and yet sufficient it is, that we vse the first, and the second, for the thirde (as in that Melancthon, and others doe verie well write) you may refuse.
+            
+               An argument of a nowne proper.There is further an other argument vnto this thirde figure referred, in the which the double repeate, in the first part of both propositions, is a nowne proper, as
+
+                  Dauid in possessing his owne, did not offend:
+                  Dauid was a christian,
+                  Therefore, a christian in possessing hys owne doth not offend.
+               
+            
+            An vnperfect argument, is where one proposition is omitted,An vnperfect argument. and that eyther for breuitie, or else, for that the part omitted, is otherwyse vndoubtedlye knowne well ynough:
+
+as▪
+            
+            Drunkennesse is an euill thing,
+            Therfore, it is to be auoyded.
+            Wherevnto if you adde the Proposition at large, which is wanting, that is, euerye euill thing is to be auoyded, then your argument shall bée perfect, in the moode Darij, of the first figure.
+            
+            This vnperfect argument consisteth partly of likelyhoodes,Note. and partly of infallible reasons, therefore it must be foreséene, that lykelyhoodes bée not taken for necessarie reasons.
+            An Induction, is,An Induction. when we make an vniuersall conclusion, vpon a sufficient number of proper names: as thus,
+            Red Wyne maketh one warme:
+            Hippocras maketh one warme:
+            Spanishe Wyne maketh one warme:
+            French Wyne maketh one warme▪
+            
+            Tyre maketh one warme:
+            Neyther is there any vnlyke example,
+            Therfore, al wynes maketh one warme.
+            An Example,
+               An exāple. is the applying of a lyke thing, or reason, from one person, to an other: as,
+            
+               Thy father against King Priamus was not so cruell,
+            Therefore, you ought not, agaynst thys man to be so cruell.
+            Here vnto are referred the Fables of Poets, Prouerbs, and Parables.
+            
+               A heaping argument.There is an other kinde of reasoning, called a heaped argument, which is when the laste worde of the one proposition is, and that throughout the argument, repeated in the first part of the second, and that also when voyces necessarily agréeing thervnto, that is, when the generall, speciall, causes, and effect, are ioyned togither: as,
+            Idlenesse bréedeth riotousnesse,
+            Riotousnesse bréedeth pouertie,
+            Pouertie bréedeth theft,
+            Therefore idlenesse, bréedeth theft.
+            Now it remayneth (where as I shewed before, that of perfect Sentences, some bée single and some double, and hauing spoken as briefely, so sufficiently of the single) that we speake somewhat of a double proposition, and that before I doe set forth the places, whence all arguments doe spring.
+            A double proposition consisteth of two
+
+single, knit togither with some coniunction, eyther conditionall,
+               A double propositiō. as if iustice be a vertue, it is praise worthy: or Disiunctiue, as, eyther it is day, or else it is night: or else Copulatiue, as loue being vnlawfull, is not to be praised.
+            A conditionall proposition is euermore true when the partes are so knit together, that the latter must néedes follow vpon the first.
+            A disiunctiue is then true, when one of the partes is true.
+            A copulatiue is onely then true, when both the partes are true.
+            
+               Of the seconde part of Logique, which is, of the finding out of an Argument.
+               
+                  A Place is the seat,A place. or resting corner of an Argument, and whence we are warned, how to grounde or talke, and to laye the foundation of our reason, of which places some are appertayning vnto persons, and some vnto thinges, but vnto the persons doe belong these which followe, and from thence we thus doe reason: as from,
+               
+               The Countrie,
+               
+               He is a Grecian: therefore, light, inconstant, and disceitfull.
+               The kinde,
+               
+               Shée is a Woman: therefore, vnapt for warres.
+               The Parents,
+               
+               He is king Henry the eights sonne: therfore valyant.
+               The Age,
+               
+               He is old: therfore to be asked counsell of.
+               Bringing vp,
+               He was Lucius Scholler: therefore an Heretique.
+               
+                  Art, or trade of lyfe,
+               
+               He is a shoemaker: therefore no louer of liberall Sciences.
+               
+                  Fellowship,
+               
+               He liued alwayes with drunkards: therfore, what maruell, if he be a drunkard?
+               
+                  Maner of doing,
+               
+               I did it not through anger, enuy, rashenesse, but being thought vpon, &amp; of a long time considered: therfore, it was well done, and perfect.
+               
+                  Maner of dying.
+               
+               
+                  Enoch, and Elias were taken a lyue vp into Heauen: therefore, they are become blessed.
+               
+                  Signes,
+               
+               Shée is brought to bed: therfore, no maid.
+               
+                  Antecedent,
+               
+               He sought a good whyle a gone to robbe me: therefore it is possible, that he robbed mée now.
+               
+                  Consequent,
+               
+               He fled: therefore, it is probable that he committed this offence.
+               The places of things are all suche, as be not of the persons, and from them we reason thus: as from,
+               
+                  Definition,
+               
+               
+                  Fortitude is a vertue, fighting in the quarrel of right: therfore it is praise worthy.
+               
+                  Generall,
+               
+               He is no lyuing creature: therfore no mā.
+               
+                  Speciall,
+               
+               He is a man: therfore, a lyuing creature.
+               
+                  Difference,
+               
+               He is endued with reason: therfore, a mā.
+               
+                  Propertie,
+               
+               He barketh: therefore, he is a Dogge.
+               
+               
+                  Hole,
+               
+               It is a house: therfore, walles, a roufe. &amp;c.
+               
+                  Yoked wordes,
+               
+               He doth wisely: therfore, he is a wise mā.
+               
+                  Efficient cause,
+               
+               God hath ordeyned the Magistrate: therfore we ought to obey hym.
+               
+                  Matter,
+               
+               He wanteth cloath: therfore, he can haue no coate.
+               
+                  Fourme,
+               
+               This Table is well preporcioned, therefore, it had a good workeman.
+               
+                  Ende,
+               
+               Publique Schooles doe cause men to be ciuill: therefore they are to be erected.
+               
+                  Effect, or euent,
+               
+               They of India do heare the word of God: therfore, they are of God.
+               
+                  Relation,
+               
+               He is Constancius father: therefore, not his sonne.
+               
+                  Contrary,
+               
+               The water is hoate: therfore, not colde.
+               
+                  Priuation,
+               
+               It is darke: therefore, not light.
+               
+               
+                  Contradictorie,
+               
+               Iohn wryteth: therfore, that Iohn should now not write, it is impossible.
+               
+                  Greater,
+               
+               Hector could not ouercome Achilles: therfore Paris might lesse doe it.
+               
+                  Lesser,
+               
+               It is lawfull vpon the Sabbaoth daye to saue an Oxe: therefore it is more lawfull to saue a man.
+               Now it remayneth, that we speake somewhat, of the discerning, and vnderstanding of vntrue arguments, which two wayes are speciallye considered, for eyther is, the fault in the forme onely, that is in the consequence: or else in the matter, or things. And if the fault be in the consequence, you maye then reiect the whole argument, shewing the fault of the consequence: as,
+
+                     In al holy men now liuing there is sinne:
+                     Adulterie is sinne.
+                     Therfore in all holy men lyuing, there is adulterie.
+                  
+               
+               Here may you denie the consequence, and so reiect the argument. And the reason therof is, that in the second figure of meere adfirmatiues
+
+(as the moodes there teach you) there can nothing follow. Marke therefore diligently your figures, and moodes, and then is the fault of the consequence soone espied. But if the fault be in the matter, or things, then haue we thrée wayes to reiect, and confute the same, eyther by denying the vntrue proposition, shewing the vntruth thereof, out of the place, or seate of things, as out of the definition, diuision, causes, and such others: as,
+
+                     A flattering, and a dissembling kinde of speach, doth not become Philosophers:
+                     Eloquence is a flattering, and a dissembling kinde of speach.
+                     Therefore Eloquence doth not become Philosophers.
+                  
+               
+               Here may you denie the lesse proposition, shewing that the definition of Eloquence is not right, for Eloquence is an Arte to set foorth thinges well and plainely, and in a méete, and perfect kinde of speach.
+               Or else by distinguishing of the things ambigous, and doubtfull: as,
+
+                     
+                        Iohn. 
+                              •
+                           .No sinner is heard of God:
+                     All men héere lyuing are sinners:
+                     
+                        Therefore no man here lyuing, is heard of God.
+                  
+               
+               Here are the proposition at large, and the lesse to be distinguished, for of sinners, some doe repent, some doe not, therefore of such onely as repent not, the first proposition is true, also the lesse proposition is to be distinguished, for as all men are sinners, so are some without repentance, and some haue repented, in whome notwithstanding yet remayneth naughtie affections, and lewde desires.
+               Or else in reproouing the false proposition, by shewing a contrarie example: as,
+               No Legates ought in their iourneys to be hindered:
+               Therefore, this ought not be hindered.
+               Here we may aunswere vnto the antecedent thus: that if a Legate going from Flaūders through France: into Hispaine, doe carie with him Letters, or anye thing hurtfull vnto the realme of France: he may be hindered, taken, and punished: as they of Athens, tooke the Legates of the Lacedemonians, going to the king of Persia: and as the Romaines tooke the Legates of
+
+                  Hannibal, going to ye king of Macedonia. And thus I adiudge to be ynough, for the vnderstanding of arguments, and for the discerning of the faultes of the same, whether it be in the forme, or matter.
+               Thus hauing most briefely considered ouer, both the partes of reason, that is, how to frame an argument, and how to adiudge of the same, the labour being small, and the commodity great, let none therein omit such diligence, but that he thereby at the length, may vnderstande the truth, finde not falshood, conceyue the certaintie of things, and so shake off fonde opinions, selfe will, obstinacie, childishe brawlings, and errors, for than the sight of truth, what can bée more excellent? on the other side, what is so to be hated, as the wallowing in the foule myre of ignoraunce? What therein is so to be abhorred as the opinion of Pyrro? or as in that the iudgement of the Academikes? who doe alleage all things to be vncertaine, &amp; doubtfull, this foolishnesse, I might well say, this madnesse, séeketh to ouerthrowe the most singuler gifte of God, that is, truth, it endeuoreth to abolish all artes, and stay of life,
+
+it laboureth to bereaue vs of the knowledge of God, which being, howsoeuer ingraffed in the nature of man, is (all being Gods gifts) by true arguments to be made manifest, by good reasons to be opened, and by sure conclusions to be confirmed. But where as some arguments grounded vpon manye of the places aforesayd, may seme right weake, and of small force, therein it shal be the part of the discrete, and wise reader, so to weigh, and consider them, as he, discerning likelyhoodes from truth, probalitie from playne proofes, maye onely embrace the veritie, and following the same, maye be alwaies thankfull vnto God, whose worthy praise (as Plato saith) doth most at large in all Artes and Sciences appere.
+               
+                  Epitomes dialecticae finis, Ludouico Euans, Brytanno autore.
+               
+               
+               
+                  
+                     Aug:
+                  
+                  THe knowledge of reasoning is of a great force to all kinde of questions, which are in the holy Scriptures to be weig
+                        •••
+                     , and made manifest.
+               
+               
+                  
+                     Hieron.
+                  
+                  What peruerse doctrine soeuer is in the worlde, and smelling out of worldly wisedome, is thought strong, the same by Logique is ouerthrowne, and as sparkes of 
+                        〈◊〉
+                      is dashed in péeces.
+               
+               
+                  
+                     Rodolph Agricola.
+                  
+                  It is certaine that Logique is profitable, if to be dec
+                        •
+                     yued, &amp; to take falshood for truth, and truth for 
+                        〈◊〉
+                      
+                     
+                        〈◊〉
+                      adiudge vnprofitable.
+               
+               
+               
+               
+            
+         
+      
+   
+

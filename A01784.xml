@@ -1,0 +1,913 @@
+
+   
+      
+         
+            A glasse of the truthe
+            Henry VIII, King of England, 1491-1547.
+         
+         
+            
+               1532
+            
+         
+         Approx. 96 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2004-05 (EEBO-TCP Phase 1).
+            A01784
+            STC 11919
+            ESTC S109575
+            99845222
+            99845222
+            10109
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01784)
+            Transcribed from: (Early English Books Online ; image set 10109)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 50:03)
+         
+         
+            
+               
+                  A glasse of the truthe
+                  Henry VIII, King of England, 1491-1547.
+               
+               [80] p.   
+               
+                  By Thomas Berthelet,
+                  [[London] :
+                  [1532?]]
+               
+               
+                  Attributed to King Henry VIII.
+                  A dialogue between a lawyer and a divine concerning Henry VIII's proposed divorce from Catherine of Aragon.
+                  Printer's name from colophon; publication date conjectured by STC.
+                  Signatures: A⁴ B-E F⁴.
+                  Running title reads: A dialoge.
+                  Reproduction of the original in the British Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Henry --  VIII, --  King of England, 1491-1547 --  Early works to 1800.
+            
+         
+      
+      
+         
+            2003-12
+            TCPAssigned for keying and markup
+         
+            2004-01
+            SPi GlobalKeyed and coded from ProQuest page images
+         
+            2004-02
+            Olivia BottumSampled and proofread
+         
+            2004-02
+            Olivia BottumText and markup reviewed and edited
+         
+            2004-04
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            A glasse of the truthe.
+         
+         
+            
+            
+            TO THE REDERS. ❧To the gentill reders and syncere louers of truthe.
+            
+               YOu shall haue here, gentill reders, a small dialoge betwene the Lawyere &amp; Diuine: wherin if there lacke suche eloquence, suche dryfte of argumentes and conueyance of reasons, as parauenture ware requisite, and as ye shall desyre: yet we shall moste entierly pray you, that where we be nat sufficient to supplye the same, to content your selfe with this our rudenesse, declarynge the pure truthe alone: whiche you shall be right sure to fynde in this poore treatyse. For here haue you no newe allegatyon of mans inuention or imaginatiō: but onely taken of the scripture of god, of the counsels and ordinances of the churche vniuersall, of mooste auncient popes and other holy doctours wryttinges, with the factes and authoryties of blessed men besyde, withoute wrythinge or wrestynge of any of them: beyng taken of whome and of none other I am sure you will say it is to be estemed
+
+for a most assured truthe. Prayenge you most benigne reders that tho some wolde saye that they be nat truely alleged, rather to gyue credence to so many approued vniuersities whiche affirme our allegations to be true: than to the asseueration of any other, specially of some fewe affectionate persones, whiche do or may endeuour to denye the same. And nowe therfore to tell you the very truthe, this same is the grounded cause why this lytell worke beareth his name, whiche is the Glasse of truthe. For it is plainly the same clere glasse, within the whiche ye shall see and beholde (if ye loke well and leysurely in it) the playne truthe of our mooste noble and louinge princis cause: whiche by vnmete and vnkynde handelinge hathe hytherto had so ouerlonge a staye. The whiche doutlesse if we well considre, is moche more our hynderance than his. For his lacke of heyres male is a displeasure to him but for his life tyme: as lackinge that whiche naturally is desyred of all men to haue childerne. But our lacke shall be permanent so longe as the worlde lasteth: excepte that god prouide.
+
+For tho we haue a female heyre, whiche is bothe indued with moche vertue &amp; grace in many dootes and gyftes, yet if a male might be atteyned it ware moch more sure, if we well perpende and pondre many vrgent &amp; wayghtie causes. Amongest whiche this one, is depely to be forsene, that if the female heyre, shall, chaunce to rule, she can nat cōtinue longe without an husbande. whiche by goddes lawe, muste than be her gouernour and heed, and so finally shall directe this realme. But who that shulde be, with the contentement of the subiectes, me thinketh, it were harde to excogitate. For proximitie of blode, is to great a lette to some, otherwise mete for that purpose, except we wolde be so beestly to put our necke eftsones in the snare of this erronious prohibited errour, whiche is, and hathe ben alwayes detested by the moste parte of all the famous clerkes of christendome. The punisshement whereof, were to terrible to be suffered, and also to abhominable to be harde of, emonges christen folke. On thother side, to other some, it were daungerous, leste we shulde
+
+make thē superiours to vs, ouer whome, we clayme superioritie, seynge the manne must rule the woman. Others outwarde mete personages our sklender wittes can nat comprehende. And as touchinge any mariage within this realme, we thinke, it were harde to deuise any condigne and able person, for so highe an enterprise, moche harder, to finde one, with whome the holle realme wolde &amp; coulde be contented to haue him ruler and gouernour. Wherfore we thinke the establysshement of titles is nat so surely rooted nor yet so entierlye mainteyned by the female as by male. Whiche well consydered syns the vnion of all titles do remayne and be collocate in him onely, we oughte of duetie (if oure wittes may thereto extende) to excogitate all wayes to vs possible, howe we might atteyne the succession of heyres male. And that way ones founde, erenestly with celerite to putte in vre: in no wise sufferinge this wayghtie &amp; vrgent cause to be lenger differred or delayed, by those whiche do but vsurpe to them selfes an honoure and vayne glory contrary to many generall counsels and
+
+their owne lawes also: as more playnly shall appere in this litell treatise of truth. For els accordynge to an auncyent prouerbe,
+                  Mora trahit periculum.
+                To longe abode is causer of moch daungere, we might be moche indemnyfyed and hyndered. Farthermore you shall in this Glasse see, howe that nowe it ought to be ordred after our simple iugementes: so to haue a good and perfitte ende, moste for his honour and quietyng of conscience, for oure great welthe, &amp; for the prosperite of this his noble realme. And nowe this same is the truth, of whiche scripture saieth.
+                  Magna ueritas, et fortior prae oībꝰ, non est cum en quic
+                        
+                           
+                        
+                        que
+                      iniquum. 3. Esdrae. 4. That great is the truth, of strength and power of boue all: with it there is none iniquite, none ylle dealynge, none obstinate and frowarde bablynge, no malicious backebytynge, no sclaunderous and factious enforsinge. This is the sole truth lefte vntill her selfe. Without all vayne ostentation, without inuentinge or borowynge of ydell titles and inscriptions, withoute colourynge dissemblynge, pretense and all outwarde paintynge. Ye shall fynde here the mere truthe (as we truste) withoute all malignyng, rayling gestyng and detractynge
+
+of them, that of truthe no suche haue deserued: the whiche it may be your lotte to see and here some where els. Moche more we might induce to sette forthe and adourne this Glasse of truth before you, saue that the processe folowyng shall sufficiently and moche better perfourme the same, to the which I hooly remitte you: euermore mooste hartely prayenge you godly myldly &amp; without all yll affection to emprynte well in youre hartes this mere and syncere truthe, and so to folowe it that you may do a thinge acceptable to the pleasure of almyghtie god, and contentation of our souerayne and prince. And thus fare ye well in god louing brotherne.
+         
+      
+      
+         
+            
+            A DIALOGE.
+            
+               
+                  THE LAVYER.
+               We semeth, it is wisely and truely saide, that the right way is euer the nerest waye: &amp; likewyse the playne way moste sure, to trye all maner of truth by.
+            
+            
+               THE DIVINE.
+               I thinke that it be true, whiche you speke: but you speke so obscurely, that I wotte nere what you meane therby. If you meane it by the ymitation of Christ,That our sauiour Christ is the ryght and playne waye. whiche beareth wytnesse of him selfe, sayeng I am the ryght way, I am the true way, and I am the perfyt lyfe: thanne are you in the right. And if you meane the playne waye to be moste sure, bycause that Christe saieth he is the dore by whiche we muste entre in, this youre sayenge canne nat be amended. whervnto god him selfe exhorteth vs also by his prophete, sayeng ye christen mē loke ye iudge a right.
+            
+            
+               THE LAVYER.
+               The better for my purpose. For the cause why I speke it, is for the great weightye cause of christendome: concernynge the kynges seperation fro the quene. It is tossed and tourned ouer the hye mountaynes, laboured and vexed at Rome,
+
+from iudge to iudge,The dangerous and vnmete handelynge of our soueraygnie rightful cause. without certayne ende or effecte: beinge very perillous for his hyghnesse, and moche more daungerous (if god helpe not) for vs his poore and louinge subiectes. Whiche if it had ben ordeined in the right and due cours, that is to saye within the realme, and so by the metropolitane examined and discussed,That the cause ought to be ordred within this realme. as lawe &amp; reason wolde it shulde haue ben, there had ensued in this ryght way or this tyme an honorable ende and purpose: to the great welthe of this realme and quietnes of christendome. The lettars wherof what so euer they be, me thinketh ought to be detested of al good englysshe people and subiectes.
+            
+            
+               THE DIVINE.
+               One of the chiefe lettars is and hathe be the lawyers opinion: whiche wolde attribute to the pope the heed of theyr lawe al maner of power.Howe some lawyers to moche attrybute vnto the pope. wherby beinge well descante (as they can well ynoughe) at lengthe shall be no lawe, but onely his wyll. For and if he myght dispence with goddes lawe, and all other, and ordren them as he wyll (as lawyers say that he may) than what foly were it to obserue goddis lawe or any other, but
+
+only inuestigate and serche to knowe the popes wyll in euery thynge, and that to folowe accordyngly? whiche ones atteyned were the lawyers hoole glory. For who shulde be sette by thanne but onely lawyers / bycause they extolle his authorytie so hye?
+            
+            
+               THE LAVYERE.
+               you enserch and folowe the frenche prouerbe to moche.
+            
+            
+               THE DIVINE.
+               Whiche is that?
+            
+            
+               THE LAVYER.
+               Who sercheth fyndeth.
+                     Qui serche troue.
+                   For surely if without affection we shulde speke, we lawyeres attribute to moche authoritie both to our maister &amp; to our selfes also.
+            
+            
+               THE DIVINE.
+               I haue harde verely fewe of your secte so plainely confesse the truthe. Neuerthelesse it is to my great comforte to remēbre that it is my fortune to mete with so syncere a man beinge (as I trust) so entierly my frende: whiche is dedicate to truthe and not to professyon.
+            
+            
+               THE LAVYER.
+               I wotte what I shulde do, but I wotte nere what frailtie wyll lette me do.
+            
+            
+               THE DIVINE.
+               If wyll be purely good / the olde prouerbe shall folowe. Nihil difficile uolenti, God wyll ayde the wel willer alway.
+            
+            
+               THE LAVYER.
+               
+                  That beinge true, and bycause you haue some thynge touched vs lawyers: you gyue me boldnesse farthermore to commune with you, and aske of you, if dyuines be nat partly to blame as well as we: that this great cause goeth no better forwarde.
+            
+            
+               THE DIVINE.
+               All I can nat excuse. For some of vs be as heedy as you:The truthe of god with out worldly respectes to be regarded and yet our lernynge leadeth vs nat to it: as youres dothe you. For we shulde onely regarde the maker of all lawes and the mere truthe: and nat vanities of this worlde, nor eke affections.
+            
+            
+               THE LAVYER.
+               Ye saye wel frende. That wolde to our lorde the lerned men of the worlde moste specially of this realme wolde folowe this lesson, and vse it in dede. For as I perceyue &amp; here, some of them folowe more affections and respectes: than goddes worde onely and truthe.
+            
+            
+               THE DIVINE.
+               Who taught you I praye you to hytte so truely the nayle on the heed? I thynke in dede that if worldlynesse were nat loked for, there wolde mo agree to the truthe than hytherto hath: though there be a meruaylous great nombre that hath agreed ther
+
+to al redy in dede.
+            
+            
+               THE LAVYERE.
+               That worldly respectes maye happe to fayle them, that trusteth therto: &amp; where be they than? Me thinketh farthermore a great foly in them to auenture vpon so sklendre a groūde both soule and body.
+            
+            
+               THE DIVINE.
+               Truthe ye say, wher of is great pitie, that lerned men specially, regarde not more the worlde to come than the worlde present: and that they vnite not them selfe in opinion.Great pitie that all lerned men be nat of one opiniō in this one truthe. Whiche thing sheweth a great lacke of grace, and an ouermoche addiction to pryuate appetites, mixed with to moche heedynesse and obstinacy. And yet there is but one truth in this matter.
+            
+            
+               THE LAVYER.
+               I meruayle than, why many thus call this matter disputable, seinge that there is but one truthe therein: and why that truthe is not imbraced and opēly shewed by all lerned men.
+            
+            
+               THE DIVINE.
+               As to the fyrst, though some call it so, I se no reason why they shulde saye so:That this cause is nat disputable, as a thing of doubte. excepte they wolde say, that nothing is taken for truthe in this worlde. For I do esteme, that there be fewe articles of our faythe, the whiche be approued by mo autenticke
+
+authorities, mo prouable ye inuincible reasons / by moo laudable customes and vsages: than this cause is on the kinges syde. And syns it is so, me thynketh hit is nat disputable as a doubte in lawe. As to the seconde I feare me that lacke of executynge in dede of that whiche we professe by mouthe, is a great lacke there vnto. For our lyues and religyon be many tymes farre a sondre, I praye our lorde amende hit, whanne hit shall be his pleasure. But as to the fyrste, bycause I thynke hit nat disputable, I shall declare you somme reasons whiche do perswade me to thynke so.
+            
+            
+               THE LAVYER.
+               Mary I pray you lette vs here mo. For one I haue herde al redy, whiche me thynketh very vehement. If the remenant folowe, I shall for my parte be meruailously satisfyed.
+            
+            
+               THE DIVINE.
+               Fyrste it is to vnderstande, that accordynge to the sayenge of the prophet Dauyd.
+                     Verbum dn̄i manet in aeternū. Spal.
+                   The worde of our lorde god is mooste sure and euer abydeth. Syns that so is infallible, it must nedes folowe, that it, whiche he vtterly forbyddeth in the negatiue, may
+
+no wyse be attempted.
+                     Nullus acci piat uxorem fratris sui, et nō licet tibi habere uxo rem fratris.
+                   Thanne in this case, that is to saye. A man ought nat to mary his brothers wyfe: It is in the Negatyue forbodden, in the Leuityke bothe .xviij. and .xx. chapitres. And therfore in no wyse hit is to be attempted / specially with vs that be chrysten people.A mā to mary his brothers wyfe is forbidden bi the lawes of god.
+               
+            
+            
+               THE LAVYERE.
+               I thynke this hardde to be assoyled: neuerthe lesse the lawe Deuteronomyke semeth to assoyle the same.
+            
+            
+               THE DIVINE.
+               Nay surely, if hit be well vnderstande. For in the begynnynge that lawe semeth to propoune and lymytte certayne poyntes and circumstaunces, without the whiche that lawe ware no lawe: as playnely by the texte hit selfe it dothe manifestly appere.Playne circumstāces &amp; profes / that the litteral sence of the Deuteronomy law was to the Iues onely. That is to saye, fyrste as whanne they dwelled together: the seconde whan he dyed without issue: the thyrde, to suscytate the brothers sede: the .iiij. that his fyrste sonne shulde be called by his brothers name: the fyfte cause and grounde of that lawe was that the name within the Tryebe shulde nat be forgotten nor abrogate in Israell: moste speciallye the
+
+trybe of Iudas, wherof it was prophecyed that our lorde shulde come of. Neuerthelesse to the intent that ye myghte well perceyue that this lawe was trulyer to be obserued in the mysticall sense / than in the litterall, and that mooste specially nowe by vs christen men: the smalnes of the payne whiche foloweth it, declareth it full well, as by the text folowynge you may well perceyue. And yet it is left also to the arbitrement of him that succedeth to take or refuse her at his pleasure and will: sufferynge a ryght small and easy punisshement, as tofore: whiche is lymytte in the aforesayd chapitre. And to shewe that it shuld nat be but in the misticall sense obserued by vs christen men:Onely the mistical sēce of the Deuteronomye lawe is for christen men &amp; nat litterally, saynt Austen sayeth thus, Euery preacher of the worde of god is bounde so to laboure in the gospell, that he styre vp sede to his brother departed, that is to Christ, whiche dyed for vs: and the sede so suscytate must haue the name of him deꝑted, that is of Christ: Whervpon we be called Christians. So therfore we plainly be nat boūde to kepe and fulfylle this lawe carnally as by bodely
+
+generation after the aforesayde significacion and takynge of it: but spiritually in a truthe fulfylled. Holy Isidoure in the selfe same maner sayth as doth saynt Austen. Saynte Ambrose also sayeth, that the sentence hereof is taken mystically. And as for any example, in whom this were fulfylled litterally, there hath ben none shewed / as he affirmeth. Nowe me thynketh therfore (though we make the moste we can of it) this lawe of Deuteronomi was but a speciall lawe, gyuen onely to the Iues: as ye may well perceyue by the aforesayd circumstances in the texte it selfe, seruynge onely for those expressed intentes: whyche amonge vs christen men nother hathe nor may be in any wise obserued, as taken of that lawe: but be clerely abrogate, anulled, and in no wyse to be vsed. For who nowe a dayes thinketh him selfe bounde, to suscitate his brothers sede: or to haue his sonne called by his brothers name? Or who thinketh him selfe bounden nowe to the groundsell and very foundacion of this lawe of Deuteronomy,
+                     Ipsa basis et fundamentū Deut. legis.
+                   whyche is here in this chapitre? As to contynewe
+
+the inherytaunces, and to supporte the names of the trybes in Israell onely?
+               And that this is the full intente and grounde of this lawe: it may be gathered very welle by the very texte of the same lawe:
+                     Quando fratres habitauerint simul, et unus ex eis abs
+                           
+                              
+                           
+                           que
+                         liberis morruus fuerit Deute. 25. where it sayeth. Whan brotherne dwelle together, and one of them dyeth withoute yssue or chylderne. Whiche makethe a playne argumente and sure proffe, that excepte he dyed withoute yssue, his wyfe shulde in no wyse marye the other. Thanne to haue yssue for suscitacion of sede and continuaunce of the brothers name in Israell (as it well appereth) is the cause of this lawe. Whiche also maketh it appere euidently, that this lawe is merely ceremoniall, as that is institute for certeyne people onely / for certeyne place and certeyne tyme.This Deuterono. lawe ceremoniall whyche is nowe clene abrogate. For I am sure no man wyll saye, that we oughte to marye for that intente nowe a dayes. These thynges be so euident and manifest, that me thinketh with out a man wyl not se, he must nedes perceyue, that this lawe of Deuteronomye / wherof we speke nowe, was onely made for the Iewes: and that we christen men
+
+be clerely 
+                     〈…〉
+                   seruitude and bondage of the 
+                     〈…〉
+                   of the ceremonyes of that 
+                     〈◊〉
+                   excepte that he wyll haue Christ 
+                     〈…〉
+                   fore to comme agayne, and 
+                     〈…〉
+                   vs christen men to playe the 
+                     〈◊〉
+                   Iewes. Besyde these profes vppon the very texte, the mooste parte of the auncient authors also do declare this lawe of the Deuteronomye to be abolytte. And that excepte bothe circumstaunces in euery parte and also the grounde were obserued: it coulde neuer haue serued. For they be so mixed together in precepte, that the one can not well stande without the other, and duely be kepte, as it oughte to be. Wherfore this Deuteronomyke lawe takethe nothynge awaye my formare argumente, nor yet assoyleth any parte therof.
+            
+            
+               THE LAVYERE.
+               By the feyth I owe to god, you speke felly.
+            
+            
+               THE DIVINE.
+               Naye, I coulde speake moche more yet in declarynge of that lawe, were it not that I promysed you to shewe you the reasonnes, why that this matter is not disputable.
+            
+            
+               THE LAVIERE.
+               I praye you, syns we be
+
+entred in to this matter, lette vs haue more of it: to the intent we may trie our owne conscience the better in it.
+            
+            
+               THE DIVINE.
+               Syns you nedes wyll haue me coughe out all, I wyl tell you more of my mynde. The Deuteronomie lawe in this case coulde ylle quadrate or agree with the Leuiticall, except the intent and circumstaunces therof be well considered as tofore. And also that this terme brother in that place be well vnderstāde and cōsydered.Note the takyng of this worde brother.
+               
+            
+            
+               THE LAVIERE.
+               Why, I pray you, is there more mistery of that worde in the Deuteronomy, than in the Leuitike?
+            
+            
+               THE DIVINE.
+               Ye forsoth, for in the Leuitike it can nor may be takē for other than for the very brother, the texte beinge iudge it selfe. But by the Deuteronomike, as many taketh it: is ment the nexte of the bloode after the degrees ꝓhibite / though he be but kynsmā. And so it might well stande with the Leuiticall amongest the Iewes. The whiche interpretacion is well approued also by the playne history of Ruth. But these thinges be so hylye entreted in many other workes and treties, that it were but
+
+a losse of 
+                     〈…〉
+                   any more of it. wherfore 
+                     〈◊〉
+                   nowe to retourne to my formar
+                     •
+                   purpose, &amp; to declare you the reste of my reasons.
+            
+            
+               THE LAVYERE.
+               These in dede haue ben more entreated on, than the matter which you haue propouned. Wherefore syns it is your plesure, I pray you go forth withall. Yet I ensure you I haue nat harde so profoūdely that other matter declared in my lyfe, for so short &amp; a briefe declaration.
+            
+            
+               THE DIVI.
+               I am glad though without my desert, that this my declaration pleaseth you so well. And nowe I wyll go forth with the rest of my minde.
+               Firste I esteme the worde of our lorde god aboue all thynges,
+                     Verbum dei nec fallit, nec fallitur. The prohibition Leuitical general for al peple. Nō facietis ex oībus abhominationibꝰ istis. tā indigena q̄ colonus, qui peregrinat apud uos. Leuit. 18. that nother deceyueth nor yet is deceyued: which saith that no man shall take in maryage the wyfe of his brother. And secondely I noote, that he in the same chapitre commaundeth this nat onely to the Iewes, but as well to all maner of people: saieng these wordes. You shal do none of these abhominations: nother you that be here borne dwellers of this countrey nother any straungere, what so euer he be, that
+
+commeth emonge you. Euery man that doeth any one of these abhominations, shall perysshe fro the myddes of his people.
+                     Omnis aīa quae fecerit de abominationibus his quippiā: peribit de maedio populi sui. ibidem.
+                   By these wordes it may well appere that god dothe nat prohibite these offences only to the Iewes, but also to al maner of people. For he sayeth, euery man who so euer he be that dothe any of these abhominations, shall perysshe. If god hym selfe had not determyned this lawe to be morall, he wolde neuer haue commaunded it to all maner of people. For fewe places there be (as I thynke) in scripture (I may well say) none, whiche be generally prohibite: that be nat also moral. And it is moreouer to be thought that god wolde nat so generally haue for bydden it, so extremely prohibite hit, so horribly to haue detested it by his owne wordes: callynge it in some place offence of his precept,The soore worde that god him self vseth in gyuynge the prohibitions Leuitical. in some contamination, in some place a greuous faute, an vngoodly and vnlauful thyng, in some place abhomination, in some execration: excepte these were morall, and excepte hit were also his very wyll that folke shulde generally forbere and detest them. These wordes
+
+(as semeth me) be so fereful, so terrible, and of christen people so to be pondered, that the weyght and greuousnes of them, can scant, without great grace, be condignely imprinted or impressed in our hartes. wherfore me thinketh we ought all with meke spirites to calle for grace, and to endeuour our selfes by all wayes to atteyne the same: to thintent it might the more habundantly flowe in vs, &amp; not obstinately or carnally to withstande it, whan many tymes it is offered vs. For it is a great faute, and a great lacke of grace, whan men hath truthe offered to them: and they wyllfully to withstande the same.
+            
+            
+               THE LAVYERE.
+               In good faythe I neuer marked this, nor yet vnderstode so parfitely in my lyfe. For surely it is meruaylously to be noted, and yet with more reuerence to be obserued: in so moche that nowe me thynketh I perceyue a very shamefastnes to entre into any suche acte / whiche excepte the acte were vnlauful,
+                     Verecundia
+                   neded nothyng.
+            
+            
+               THE DIVINE.
+               Nowe ye begynne to fele somewhat and to fynde the truth. For scripture in the same chaptre
+
+confirmeth your sayenge, alleginge these wordes.
+                     Nō reuelabis turpitudinē uxoris fratris tui, quia turpitu do fratris tui est. Le. 18. There is shame in discouering the vnclennesse of thy brothers wyfe. Thou shalt not discouer it. For it is the vnclennesse of thy very brother. Hereby we may well perceyue, that there is a vilenesse, a contrarietie to vertue herein. For els we neded not to be ashamed of it. And I do thynke verely, that who so euer wolde maynteyne the other parte, can not denye,
+                     Contrarium honesto. Turpitudo ex se.
+                   but that it is agaynst honestie, whiche is very vertue: but that it is of it selfe very vnclennesse: It is (as I haue rehersed here by goddes owne wordes) a sore faute. It is contaminacion, abhominacion, execracion. Wherfore I meruaile, that christen men do not tremble to here it, and moche more feare not wittingly to do it, or auisedly to continue in it. For surely there can be nothinge of the spirite of god:
+                     Non ex spiritu.
+                   that can induce man to it. If for carnall affections &amp; worldly policies men shulde perswade it, howe moche that were to be detested by a man of pure and syncere conscience: I reporte me to any man, that is indued with a perfight and playne garment of
+
+truthe. That for any welthe of this worlde wolde breake or seeke colours to breake so hye a precepte of the maker of all worldes. Wherfore these whiche we haue afore rehersed, beynge so euidently declared by his owne mouthe, as the texte hit selfe dothe affirme it, whan hit sayeth, I am your verye lorde, the whiche commandeth you this:
+                     Ego dominus deꝰ uester Leui. 18. me thinketh that we christen folke ought to iuge this cause nat disputable, but all redye iudged by the Iudge of all iudges.Thiscause nat nowe disputable / but all redy iudged of god. And so manfullye to withstande in goddes quarelle the maynteyners and supporters of the contrary: Seynge that oure mayster so extremely prohybyteth and with suche abhomination detesteth hit.
+               Other thynges there-be also, whiche moueth me meruaylously, to thynke that this is nat disputable. And those be these.
+               Fyrste the auncient authors,Auncient authors. the whiche wryteth of hit. Wherin they in detestynge hit do shewe manifestly theyr opinion and playnely gyue theyr iudgement in it. For if it were good or hereafter might be good: they beyng so hyghly
+
+lerned &amp; so hooly, wolde neuer so greatly abhorred hit.Counsels. Secondly the counsels for the most parte (whiche speaketh of hit) dothe vtterly dampne hit. Specially (as semeth me nowe) Constance counsell,Constāce counsell. in disapprouyng the opinions of Wycliffe. For that coūsell saieth, that who so euer be of that opinion that this prohibition leuiticall, Let no man mary or otherwise take and vse his brothers wyfe,
+                     Nullus accipiat uxorem f
+                           ••
+                        s sui Leuit. 18. with other there: be only prohibitions made by man and nat by god, &amp; holdeth the same: they incontinently to be estemed and taken as very Paynemes and mere heretikes by the churche.Heresy to mainteyne the cō
+                     trarye to this came. Farthermore that none, what so euer he be, shall dare other to preche, to teche, to hold, or in any wise alledge any of Wycliffes articles: other of the .xlv. fyrste condempned, or of the other .CC.lx. articles: of the whiche this same afore rehersed was one. Wherfore it may euidently appere nowe, that this matter is nat disputable, but all redye iudged and concluded: syn hit is determyned, that he shall be taken for a very heretyke that holdeth or vpholdyng disputeth the contrary. The thirde is, that
+
+the hoole consent of all the indifferente vniuersities of christendome doth plainly determyne and consent,The cōsent of all indifferent vniuersities. that this prohibition Leuiticall is nat onely a thynge prohibite by the lawes of god &amp; nature: but also that it is a square and very rule, by the whiche christen men oughte to be ordred &amp; lyue by. Syn they take it thus, that is to say: that this is a precepte and a direction, by whiche we christen menne ought to lyue by, and the lawe Deuteronomyke a thinge ceremoniall, whiche is abolytte: I meruaile that folke be nat a shamed to calle this matter disputable or to holde agaynst hit. Moche more I wondre what groūde they haue, or wold fordge the contrary of this matter vpon: seing that first it is (as me thinketh) all redy iudged by goddes owne wordꝭ, by generall counsels, by the hole consente of al indifferent vniuersities of christendome, ye and by a great noumbre of other lerned men: whose scales and handes be redy to be shewed. It is also emonge vs christen men imprinted in our hartes in maner (as who wolde say) from one to another, fro the father to sonne,
+                     Per manus traditionem
+                   to deteste
+
+hit. And doutlesse emonge good folke it hath bene and is in manere so abhorred, that scarsely they can finde in theyr hartes to here speake of hit. So than that I take it an hoole acceptation of the churche of christendome, syn the beginning of the fayth.This truth accepted fro the beginninge of the church hytherto. Wherfore any more to doubte of hit, or to calle hit disputable, and nat to repute hit as alredy iudged. I see no grounde why, and thinke it dampnable. Alas, me thynketh that lerned men holdinge agaynste this opinion, tho they seme to be of the churche: they be not in dede. For they holde an opinion contrarye to the opinion accepted by the hole churche. Wherfore these wordꝭ of scripture maye well be layed ageynste them, where Christe sayeth. Who so that is nat on my syde,
+                     Qui non est 
+                           〈…〉
+                         me est. Math. 12. is on the syde agaynste me. So that by these wordes verifyed in them, hit well appereth that they be nat of Christes churche. Farthermore I am sure that some of them wyll saye there be dyuers cases heresies: whiche I dare boldly say haue nat suche grounde and fundation in truthe: nother of scripture, nor of good authours, ne yet of generall
+
+counsels, nother haue benne accepted by the due ordre, whiche commeth frome one to an other as this hathe: wyllynge the lay fee to beleue them in these matters, and yet wyll nat they gyue place them selfe to this matter: so hyghlye proued and by so many wayes determyned. Who can beleue them in theyr perswasions: whanne they beleue nat nor gyue place to the truthe? Nat callynge truthe that, whiche fantasye iudgeth truthe: but that, whyche is approued truthe. Therfore me thynketh they sclaundre sore the churche, or els moche them selfes. As who wolde saye there were no truthe therein: whanne they so sheweth them selfe of contrarye opinions. For if there be a truthe (as good men thynke that there is) it oughte vniuersally to be taken, to be preched and taught for a truthe.
+                     Omnis doctrina diuinitus inspirara utilis est ad docendum. 2. ad Tim 3. For all doctrine inspired by god, is good and holsome to be taughte, as sayeth saynt Poule) and nat by sinistre affectyons to be hydde hyndred and detracted, lyke as therein some do. Wherfore to the entent to reduce them to one flocke,
+
+to a concorde and to one assent:
+                     Vt fiat unum ouile. Io. 10. I thinke it were necessarye that the prince and his people shulde nat gyue credence to them in those thynges, whiche they on so moche lesse grounde so desire and require to haue kepte and obserued: vntylle they gyue place to this, and suche other: as scripture dothe plainly declare and determyne, with lyke assent of generall councels, and of auncient sayntes and doctours. And I thynke, so that if they myght haue the one which they be affectionate to,
+                     Vnū ouile et 
+                           ••
+                        us pas
+                           ••
+                        r.
+                   graunted them: they wolde soone gyue place to the other. And so myght there be made one flocke and one sheparde of hit, one heed and gyde and a sorte vnder him of one mynde and concorde. The whiche as for my parte, I praye god sende vs shortely.
+            
+            
+               THE LAVYERE.
+               These be wonderfulle thynges to here, and oughte moche to moue the hartes of all trewe subiectes: and that specially sin they concerne theyr kynges soule helth, his welthe and there realme also.Our bounden duetie to oure prince. Alas, is hit nat great pitie, the prince hauing so manifest and playne groundes for hym, he beynge also so louing
+
+to vs as he is, so glad &amp; so harty to take paynes for this his cōmune welthe: that we, whiche that be his subiectes, shuld be to him so vnnaturall, that other for other considerations worldly, or for reportes of sinistre persons, shulde lette to do our very duetie to him? ye and leauynge the playne truthe, rather to beleue maligners agaynst his cause, whiche soweth more diuision than obedience: &amp; nat accordinge to our very dueties to stycke fastly and surely vnto hym, whiche is in the very ryght. Tho parauenture he say lytell, yet may hit fortune that he marketh all. Wherfore bothe duetie and reuerence with feare, is to be had to hym, whiche is so louynge and harty to vs: to the intent that these beyng ioyned bothe on his parte and oures:Malignitye &amp; yll report to be withstande. we may withstande the malignitie of all backebyters and sclanderers: and vtterly in our hartes conceyue, that it is farre from our duetie of allegiaunce to beleue vntrue reportes and false malignations agaynste our souerayne. And herein we ought to emende our fautes, and from hensforthe nat to suffre any suche reportes: but man
+
+fully to withstāde, who so euer wolde vse them selfe to the cōtrary, other in worde or dede. And in this doynge, I thynke there shulde be roted the greattest vnion betwene the heed and bodye that euer was sene or harde of. Which shulde fulfyll and perfyght that wyse sayenge of Salust.
+                     Concordia pnaeres crescunt, discordia maximae dilabuntur. De bello Iu guithi.
+                   Where is peace and concorde, smalle thynges encreasyth and commeth to moche: by debate and discorde where is moste, hit soone fayleth and slydeth awaye. Wherfore I praye god sende vs his lyght of grace, specially to kepe this betwene our heed and vs.
+            
+            
+               THE DIVINE.
+               By my truthe, I thinke there can nat be a better exhortation, thanne you haue here giuen vs all. For so longe as no membre halteth or is in payne▪ the hole body must nedes be the healer. But nowe that hytherto we agree so well, I muste be as homely with you, as you haue bene with me: prayenge you to assoyle me certeyne questions of lawe: lyke as I haue assoyled you in diuinitie.
+            
+            
+               THE LAVYERE.
+               I ware to blame els. But I muste praye you fyrste to assoyle me one question more, whiche I
+
+wolde fayne knowe.
+            
+            
+               THE DIVINE.
+               What is that I praye you?
+            
+            
+               THE LAVYER.
+               Of the power of the pope, in dispensation with the lawe diuine.
+            
+            
+               THE DIVINE.
+               Of that to entrete at length were nowe to shorte a tyme. And hit hath also bene wrytten of by so many authors, that hit ware harde for me to say any thynge therin, the whiche hathe nat ben sayd. But yet for your pleasure I wyll assaye somme thynge, as hit shall occurre to my mynde. Yet one thinge I muste knowe youre wyll in, ere that I procede any farther.
+            
+            
+               THE LAVYERE.
+               What is that I beseche you?
+            
+            
+               THE DIVINE.
+               Mary syre, this is hit, whether you wyll that I shulde shewe you whatte the olde auncient doctours do saye, or what the modernes, whiche somewhat flattereth the popes authoritie, sayeth: other elles declare you myne opinion, taken out of bothe, whiche I truste shall nat be farre frome truthe?
+            
+            
+               THE LAVYERE.
+               The auncient doctours and many also of the modernes opinion hathe benne declared herin in many other bokes and warkes:
+
+of whiche I haue sene some bothe of laten and englysshe. But is there, say you, difference emongest other of their opinions?
+            
+            
+               THE DIVINE.
+               Ye forsothe, for some of the modernes smake to moche of your lawe, in wrestyng of scripture for auauncement of dignite: whiche the olde fathers do clene forbydde and contempne: and lykewise also dyuers other modernes. Wherby you may well perceiue that there is some alteration emōge them.
+            
+            
+               THE LAVYERE.
+               That is true. But whiche thynke you do beste?
+            
+            
+               THE DIVINE.
+               They that do leste attribute, arrogancy rule and dominion to the spiritualtie.
+                     The pope can nat dispence with the lawe of god &amp; nature
+                     
+                        Quare nos trāsgredimi ni praeceptū dei propter traditiones uīas. Ma. 15. Scriptura ꝓphetica non est humanae intpretationis. 2. Petri. 1.
+                   For sure hit wyll be at length els their vtter confusion: hit is so abhominably at this day abused and presumed on. But nowe to my matter. The scripture sayeth these wordes, why do you breke or transgresse the commandement of god for your owne traditions? And also these wordes. The prophetical and holy Scripture is not of mans interpretacion. With this moreouer, scripture must nedes stande vnlosed. All these auncient authors also, whiche here foloweth,
+
+do say,
+                     Non potest solui scriptura. Ioan. 10. Augusti.
+                   accordingly to holy scripture, that the pope can nat dispence with other the lawe of god or nature. Saynt Augusten, besydes other places, in the epistole, whiche he wryteth Ad Glorium Eleusinum, sheweth that he is vnder the general counsell. Wherfore moch the more he must nedes be vnder the lawe of god. Saynt Ambrose in his boke de Paradiso affirmeth the same.
+                     Ambro. Bernardus.
+                   Lykewise saint Bernarde bothe in his epistle Ad Adam mona chum, and in his boke de dispensatione et prae ceptis. Holy popes also that were in the olde tyme, do confesse the same:
+                     
+                        Fabianus papa.
+                     
+                     
+                        Marcellinus papa.
+                     
+                     
+                        Vrbanus papa.
+                     
+                     
+                        Zozimus.
+                     
+                   As Fabianus papa in his epistle Ad orientales. Mercellinus papa in his epistole Ad orientales. Also Vrbanus papa in. 25. q. 1. Sunt quidam. Zozimus papa in de statutis gentiū. Where he sayth that agaynst the statutes and decrees of fathers, the see of Rome can nother make ne chaunge nothyng. Moche lesse ayenst the scriptures and statutes of god.
+                     Damasus. Innocentius
+                   
+                  Damasus papa ad Aurelium Archiepiscopū
+                     ▪ Innocentius papa in ca. litteras. Besyde these, other auncient authors confirme the same: as Basilius magnus in regula monachorum.
+                  
+                     Basilius. Beda. Isidorus.
+                   
+                  Beda in expositione epistolae Petri. Isidorus ca. Si is
+
+qui preest. With these agreeth as in one also these lattre diuines,
+                     Posteriores Theologi.
+                   
+                  Alexandre de Halys, Scotus, Occham, Richardus de media Villa, Albertus, Iacobus de Lauzanna, Altissiodorensis, Franciscus de Maronis, Gerson, Durandus, Gabriel Biel, Herueus, Bernardus de Trilla, Antoninus Florentinus, Ioan. Lupus, and many mo: whiche do playnely affirme, that no man canne proue that the poope maye dispense with other the lawe of nature, or the lawe of god. Wherfore hit foloweth well, that this beynge the lawe of god (as hit hath bene bothe well and playnely afore declared and proued) as me thynketh hit is euidente, hit is easye bothe to perceyue and beleue: that syn it is thus grounded on the very lawe of god, hit is also indispensable. Nowe than more ouer seynge that this case is also determyned as well by auncient authours as by generall counsels, ye and holy popes owne confessions: and seyng also that all these doth agre both modernes and other, with the full consent of the moste parte of all the Vniuersities &amp; lerned men at this houre within christendome, that this case is indispensable: me
+
+thinketh gretly that we ought (this matter being so euidently opened &amp; declared) clerely &amp; holy to beleue this: and as true subiectes to stycke with our souerayne &amp; prince, in this his iust doynge &amp; laudable act. For (as me semeth) it is a sinful &amp; an vnnatural al demeinour of subiectes, what synistre laboure so euer be made to the cōtrary, to mysdeme their prince: that in so waightie a cause he wolde be seducid, and vse affections. Whiche hytherto rayning the .xxiij. yere ouer vs and more hath shewed hym selfe in all his doinges but iust indifferent &amp; most vpryght. And I, for my parte,The cause of the peoples blyndenesse. do rather arrecte this blindnes of the people, more to ignoranci with a litle to moche lightnes in credence to light folke, the whiche goeth about to seduce them: than to any other acte of vnnaturall duetie. For I thynke verely that there was neuer prince amonge vs, that euer was better beloued, nor that hathe deserued more to be. Wherfore nowe vsynge the sayinge of seynt Poule,
+                     Hortamuruos. 2. Corynth. 6. I do exhort you in our lord god, that you his subiectis do exonerat your selfes of al maner of groūdes or occasiōs that might
+
+brede any vnkyndnes in his hart toward you. And also his maiestie (you with al due reuerence so doynge) to continue his well approued zeale and feruent loue, alwayes hytherto shewed emonge you, to the intent aforesayd: whiche is that we may haue, accordinge to Christes owne wordes, one flocke and one heed.
+            
+            
+               THE LAVYERE.
+               On my faythe you haue satisfyed me both with great and many authorities, and (as me thinketh) also with inuincible reasons. I pray god myn answeres to your questions, may satisfie you as well and with as moche truthe: as youres hathe done me.
+            
+            
+               THE DIVINE.
+               I doubte nat but they shall, For your intente, as a man maye iudge, and your lernyng also, is of that integrite: that otherwise than truth can nat succede, so farre as the lawe can say. Wherfore I pray you answere me firste, to this question. Might this cause be harde and ware hit a due course that hit shulde be harde within this realme, as in the beginninge of this mattere me thoughte you sayde?
+            
+            
+               THE LAVYERE.
+               Syre, I nat onely affirme that hit myghte be:
+
+but also I vtterly protest,That this cause oughte to be herd herewith in the realme / &amp; determined. that hit ought to be so. For as it was ordeyned in the counsell of Nyce, and lykewyse in other generall counsels of the world, that euery cause shulde be decyded where it first beganne: euen so this cause beinge fyrst begonne here in Englande, shulde likewyse haue ben here in Englande determyned.
+            
+            
+               THE DIVINE.
+               In my iudgement ye speake reason: but howe shall I knowe, that you speke law? For I here somtime in other cases, that lawe &amp; reason diffre: &amp; good reason is nat alwaye called lawe.
+            
+            
+               THE LAVYERE.
+               You say in some parte well. For in dede all reason is nat lawe: but this you may be sure of, that contrary to al reason is no lawe: tho men somtyme be otherwyse borne in hande. And in this case conformably to reason, as I haue begonne to shewe you: hit was prouyded and ordeyned in dyuers counsels, that none shulde be called out of the prouince.Authorite of counsels. Whiche counsels are &amp; ought to be taken for lawes establisshed by the assent of all christen men: whiche muste stande and take effect.
+            
+            
+               THE DIVINE.
+               Ye name the counsell of Nyce, and other
+
+also. Nowe I pray you, let vs here howe they speake herein: that we may be the more sure.
+            
+            
+               THE LAVYER.
+               First the Nycene counsell sayeth thus.The Nycene counsell. ca. vi. The olde and antycke custome let hit be kepte thorowout Egypt, Lyby, &amp; Penthapoly, so that the bisshoppe of Alexandre haue the power of them: for there is a lyke custome of the citye of Rome. Lykewise at Anteoche also, &amp; other prouincyes let theyr customes and priuileges be kepte within theyr churches. Looke this be kepte,
+                     Cap. v.
+                   that they which be excommunicate of theyr bisshoppes: of none other be receyued to communion. Forsothe the power or confirmation thorowe euery Prouince shall perteyne to the Metropolitane.
+                     Cap. iiii.
+                  
+               
+               By this it may well appere. that there is or ought to be a speciall iurisdiction or power within euery prouince: in ecclesiasticall obseruatiōs &amp; decidinge of causes. But that this may be so moche the more playne, you shall here what ysidoure sayeth to this purpose in the preface of the boke of counsels.
+                     Isidorus in praefa.
+                   Hit is manifeste (saieth he there) that suche thinges whiche
+
+chanceth thorowout euery prouince? that the Sene or counsel of the same prouince must ordre and dispense them: as it is playne to haue ben decreed and ordeyned by the Nicene counsell. It is redde also (saieth he) in an epistle of pope Innocence in this wise:
+                     Epistola Innocentij.
+                   If any triall of cause besynes or contenty on arise amonge clerkes and lay men, or betwixte clerkes of hyer or lower degre: what so euer they be: it pleased and hathe bene ordeyned, that accordynge to the Nycene counsell all the bysshoppes of the same prouince be gathered to gether: and so the iudgement of the cause to be fynisshed &amp; haue his full ende. Thus you see playne what is the mynde of Nicene counsell herein: euen so as we haue broughte hit in for.
+            
+            
+               THE DIVINE.
+               But syre, syn that Isidoure sayeth that there be mo chaptres of the Nycene counsell than these whiche we haue and be expressed communely in the boke, of the which he saith also that this is one: howe is it that you haue broūght vs in here whiche is plainly conteyned there, to confirme this purpose?
+            
+            
+               THE LAVYER.
+               That haue
+
+I done truely, bicause it maketh moche as semeth me, and I haue affirmed no more than may well be take of it. Nowe yf it seme nat so playne to you and other for this purpose: by that yet whiche is added of Innocence and Isidoure, it may well and fully appere, that this our purpose and position is plainely conteyned emong the chapiters of the Nycene coū
+                  sell, if it ware hooly had: whether that be it or parte of it, or no. The counsell Affricane to pope Boniface, moche maketh for the same. Yet to satisfie you and all other the more herein, you shall here howe this is also proued and confirmed by the great counsell of Constantinople, wherin it is written thus:
+                     Conci. constantinopolianum.
+                   It is manifeste and playne that thorowout al and euery prouince the prouinciall Sene or counsell ought to administre and gouerne al thinges there accordynge to that is diffined by Nycene counsell. Can you or any other thynke, but that this is a sufficient profe, that this is the verye decree of Nycene counsell: excepte you wyll nedes pretende ignoraunce, other elles peruersely denye bothe these authors
+
+and counselles generall? More ouer the coūsell Constantinopolitane agreeth here vnto, where it sayeth thus. Accordynge to the canons, the bysshoppe of Alexandre lette hym gyde onely those thynges the whiche be within Egypte. The bysshoppes of the orient lette them gouerne onely the orient. &amp;c. But if it chaunce them to be called out of theyr administration, lette them nat go: for other ordinaunces to be made, or for other dispensations ecclesiasticall: but (as is tofore rehersed) in euery prouince the prouincyall Sene muste ordre and gouerne all thynges, whiche be (as it is there vnderstande) mere spirytuall. Wherevnto sayeth the historye Tripertyte,
+                     Historia tripartita. li. 3. ca. 7. that the fathers in the counselle of Constantinople defyned, that if any cause arose within any prouynce: hit shulde be fynysshed by the counsell of the same prouynce.
+                     Conci. Calcedonense.
+                   The Calcedonense counsell draweth nere after the same, where it determineth, that a cause shulde begynne afore the owne bysshoppe: and frome hym to the counsell of the prouynce. The same counsell decreed,
+
+that according to the fathers rules twise in the yere through out euery prouynce the bysshoppes shulde come to gether: where euery thynge that came amonge them, shulde haue his due correction and ordre. Farthermore the epistle, whiche the Affricane counsell sente to pope Celestine,
+                     Epistola cō
+                        ci. Affricani ad Celestinū papam.
+                   sheweth well this pourpose, and witnesseth also the Nicene decree: where thus it is written. The Nycene decrees most plainly hath committed bothe clerkes of lower degree and also bisshoppes to their owne primates. For they moste wysely ye and iustly perceyued, that all matters what so euer they were, oughte to be finisshed &amp; ended, where they were begonne. They vnderstode full well, that the grace of god wyll fayle no prouynce: by the whiche the right and equite may well and wysely be sene of the prestes of Christe, and mooste fastly and constantly holden and fulfylled of them. Specially bycause it is gyuen and graūted to euery man: tha
+                     •
+                   if he be greued with the sentence of 
+                     〈◊〉
+                   iudges, to appele to the coū
+                  sell of hi
+                     •
+                   
+                  
+                     ••
+                  ouince, other els to the vniuersal co
+                     •••
+                  ell. Whiche laufully can not
+
+be denyed, but is approued by these wordes folowinge in the sayde counsaile. Except that there be any man, whiche beleueth, that our lorde god wyll rather inspire rightuous iugement into a particuler person / than to a great nombre of vertuous and wel disposed ꝑsons, gathered to gethers in counsaile by his spirite and ordenance. For how can the iugementes of be yonde the see, be firme &amp; stable, vnto the whiche those persons, that be necessari, can not be brought / either bicause of age, or for many other impedimētes? And as for that any Legates shulde be sente as from thy holynes side, we fynde it not ordeined or decreed in any coūsaile of fathers. For in all the coūsayles, that we coulde fynde of Nycene, we coulde fynde no suche thinge. The .vij. counsell Carthaginense, and Melitane also sayth well to the same in this maner.
+                     Conci. Carthaginense. 7. et Mileta.
+                   It hath pleased and is decreed, that prestes, deacons, and other clerkes of lower degree, if in their causes they complayne of their bysshoppes iudgementes: that the bysshoppes whiche dwell by, here the cause: and suche as shall be taken to the cause,
+
+by the consent of their bysshoppes, lette them finysshe all that is betwene them. But if they thynke mete to appele, lette them nat appele farther, than to the coū
+                  sels within Affrycke, or to the primates of their owne prouince. Who that wolde thinke that they ought to appele beyond the sees, lette them be take of none within Affrike for christen men, or as any of their communion.
+               Ouer and aboue all these, the counselle of Antioche decreeth in this maner.
+                     Conci. Anti ochenum.
+                   For ecclesiasticall causes, controuersyes, busines or matters, whiche aryseth, to be dissolued and eased: we haue thought and decreed to suffice that thorowe euery prouince, a counsell of the bisshoppes be had euery yere twyse. The fyrst to begyn the thyrde weke after Easter, the seconde the fyrste day of Octobre. And in these counsels muste be present with them bothe preestes and diacons, and all other, whiche feleth them selfe agreued: so to tary and abyde the sentence of the counsell. Nother it may be lauful for any, to make these counselles within them selfe without the knowledge of their Metropolitanes:
+
+to whome it is certeine that it is gyuen and graunted to gyue iudgement of all causes. Besyde these counsels Eginius the poope decreeth also,
+                     Eginius papa.
+                   that if for ouermoche farrenes, vnmetenes of tyme or sorenesse of the waye, it be greuous and paynefull to bringe a cause to the see of Rome: that it be had to the primate.
+            
+            
+               THE DIVINE.
+               If these be so as ye alledge them, and as I doubte nothynge but that they be, it muste nedes be as ye haue sayde: that this cause ought to be determyned within this realme. For it is nat possyble that the pope maye well dispence, immute or breke these counsels.
+            
+            
+               THE LAVYERE.
+               You take hit verye well. For howe maye the bysshoppe of Rome or any other primate, be so bolde as to breake the canons: the whiche euerye one of them voweth to kepe? and solemply professeth the same? If he shulde so do:The poope voweth and professeth to kepe the Canons, &amp; may not breke the same. ware he nat to be deposed, accordynge to that the counselle Carthaginense decreeth? Who coulde thynke that one Bysshoppe myghte destrue the actes of so many hooly fathers, made with theyr one assente, accordynge
+
+to the profession of blessed Gregorye?
+            
+            
+               THE DIVINE.
+               You speke cuyn as the thynge it selfe wolde haue you.
+                     Ne dimittas legem manis tuae. prouerb. 1. For syn it is sayde by Salomon, Leaue not or breake not thy mothers law: who coulde thynke, that the church of Rome, whiche in dede is but a doughter of the churche vniuersall, myght destroye the lawe of her mother? Dothe not holy Poope Leo saye with an open voyce: That thoughe there were nowe made a greatter counselle, than was the Nicene: it might not derogate our foure counselles.The poope ought to rule by the lawe of god and coūsels: and can nat dispēce against the canons. Therfore the pope of Rome oughte to rule the Churche of Rome by the vniuersall counselles and the lawe of god: and no wyse the contrarie.
+            
+            
+               THE LAVYERE.
+               Sothly as ye say. Therfore he can not dispence agaynst the canons. For who can dispence with hym selfe? Or who can without faute breake that he hath openly professed? Forsothe if he do agaynste this his profession, he dothe therby depose him selfe / as sayeth the counsell Carthaginense.
+            
+            
+               THE DIVINE.
+               And well worthy. For bycause (as sayeth our sauiour Christe) the seruant
+
+is nat bygger than the maistre, nor the Apostel or he that is sent bigger than he that sente hym, syn that Christe came nat to breake the lawe but to fulfylle the same: the pope of Rome can nothing do agaynst the lawe of his mother the churche vniuersall: whose Canons he hathe professed to kepe with solempne vowe, in the which vowe he can nat dispence with hym selfe, nother any other can, syn he hathe none superioure in spiritualtie.
+            
+            
+               THE LAVYERE.
+               That suche is the poopes vowe and open profession, besydes other places, appereth well by the counsels of Constance and Basyle, and by the boke of bysshops whiche is called diurnus:
+                     Iuo Epistola .lx.
+                   as sheweth the great clerke Iuo in his epistole. Where he is erenest that the olde traditions and customes ought nat to be remoued or broken by any priuate lawes or newe traditions. For agaynst the statutes of the fathers the authorite of the see of Rome can nothynge do, ne chaunge. with vs (sayth he there, whiche is pope Zozimus sayenge also) lyueth and remayneth antiquite so roted and fast grounded, that it will nat away:
+                     Zozimus.
+                  
+                  
+to the whiche the decrees of fathers hath gyuen and establisshed suche reuerence. Wherfore the poopes of Rome be or oughte to be the kepers or mainteiners and nat the breakers of the holy canons. Thus sayeth Leo, thus sayeth Bonifacius, and thus sayeth poope Gelasius. Pope Celestine affirmeth,
+                     Celestinus papa.
+                   that he thynketh ylle of the pope, ye the worste that can be: whiche thynketh that he maye ordeyne any thynge agaynst the canons.
+            
+            
+               THE DIVINE.
+               The holy doctours and diuines also agreeth well with this. Especiall saynte August. in the epistle Ad Glorium tofore rehersed, is playn in this. Pope Zozimus (as ye knowe) is clere in it.
+                     Damasus papa. Hilarius.
+                   Pope Damasus, Hilarius with other will no breche or transgression of the canons without an ineuitable necessite: the whiche (as they say) god forbyd. Therfore (as sayeth Gerson) it is an excedyng and an vnruly errour of them:
+                     Gerson.
+                   the whiche sayeth that the deliberation or counsell of the pope weyeth aboue the delyberation of the churche or counsell generall. Or that affirmeth that the pope is nat bounde to folowe the counsell and obey
+
+the same: except that he wyll.
+            
+            
+               THE LAVYERE.
+               Certeynely you come well to the purpose. For the holy coūsell of Constance decreeth also the same, in these wordes.
+                     Conci. constantien.
+                   Euery man of what so euer state or dignite that he be, ye though he be the pope: is bounde to obey the generall counsell: in these thinges whiche perteyne to our christen faythe, to the helpe and extirpation of a Scisme, and generally to the reformation of the churche of god: in the heed and in the membres. It decreeth moreouer thus, who so euer, of what so euer state or dignite that he be, ye though he be pope hym selfe: wyl disdayne or refuse to obey the cōmandementes statutes or ordinances of this coū
+                  sell, or of any other general coūsell, nowe made or hereafter to be made vpon the premisses, or suche as perteyne vnto thē: excepte he amende this faute, ought to be putte to due penance and condingly punysshed: with recourse (if nede shall be) to other helpes of the lawes.
+            
+            
+               THE DIVINE.
+               Trewely if this be thus as here you haue well induced, as semeth me, hit can nat be auoyded, but that the
+
+Pope oughte to conforme hym selfe to the canons and decrees of counsels, and not to dispence agaynst them, and so moche the lesse he may dispēce with the law of god.
+            
+            
+               THE LAVYER.
+               That can no wyse be denyed. For betwene goddes lawe &amp; mans (sayth Innocence, of whom we spake before amonge other lawiers) there is so great a difference,No dispensation agaynst the lawe of god. that against the lawe of god may neuer be dispensed: about mannes lawes may be had dispensation sometyme: as necessite and vtilite shall require.
+            
+            
+               THE DIVINE.
+               Well sayde. But ye lawiers many times speke so erenestly for bothe partes / and alledge your glosees so thycke: that men vnlerned in that facultie / can not telle whome to truste. And welle I wotte, that in this poynt some lawyers say nay. For if they agreed, all the matter shulde haue ben or this tyme done.
+            
+            
+               THE LAVYERE.
+               Truely this, as ye say, chaunceth ofte tymes amonge vs lawyers, in dede. But not in that we be lawyers / but in that we be men fascioninge our knowlege and opinion in lawe, as it may serue best for our purpose. And he is called but
+
+a slendre aduocate or proctour in lawe, that of one lawe &amp; texte or other, can nat shape argumentes fytte for his clyentes part. Herein is no defaut in the lawe, but in the abusers of the lawe.
+            
+            
+               THE DIVINE.
+               Marye of them that vse them selfe thus, scripture sayeth in dede.
+                     Lacerata est lex, et non peruenit ad finem iudicium Habacuc. 1. a.
+                   The lawe is lacerate and fynal iudgement can nat be had laufully. So that this sayeng whiche foloweth also, be it neuer so generall of it selfe, may well most specially be applyed to them to.
+                     Ois homo mēdax. spal. C.xv.
+                   Euery man is full of lyenge. But howe shall I trust you than that you speake lawe to me in this great cause: rather than them that speake on the other syde?
+            
+            
+               THE LAVYERE.
+               The authorite of generall councels, and the very popes owne confessions suffiseth to that. Very naturall reason also shall confirme that my sayenge to be trewe. For it is true that lyke as euery priuate persone in his case hath dayly his doubt decyded by the iudges of his countrey,Apte comparison. and in the cōmon lawe of the realme the matter is tryed by the iury of that countrey, and in the popes lawe no man shall be called two dayes iourney out of his
+
+countrey: euen so haue princes in tymes paste accordinge thervnto obteyned sentences in lyke case. And if you wyll take the peyne to loke ouer and fully to considre, the generall counsels, whiche I tofore rehersed vnto you: ye shal than finde that not onely it myght, but also that it ought so to be. And reason (as I haue shewed) is herevnto conformable, that the cause shulde rather be harde and discussed, where it may be knowen playnly / &amp; euery poynt duely enserched &amp; examined: than where all parties be ignorant in the matter, as at Rome.
+            
+            
+               THE DIVINE.
+               Why than doeth the poope wrēge to enterprise to knowe af the matter at Rome?
+            
+            
+               THE LAVYERE.
+               So saye the generall counsels, so doth diuers holy popes confesse, so sayth the vniuersite of Parise, so saythe the vniuersite of Orleance, so saith a great nombre of clerkes in Italy, so saith all that be not ledde by affection to saye on the other syde.
+            
+            
+               THE DIVI.
+               You shewe so many counsels, popes assentes, great authorities, &amp; also so playne definitions of so noble vniuersites, which affirme your sayeng: that
+
+no man can but thinke it true that ye say. Wherin certes (as me thinketh) the authoritie of the general coūsels and popes owne sayenges gyueth suche faith to the cause: that it is vnreasonable to be denied: specially considerynge and weyenge that also the vniuersities say and expresse the same. Whiche of lykelyhode wolde not distayne their honour and reputacion in the worlde, with theyr great blame rebuke &amp; iuste damnacion of god and the world: ī swaruing fro the truth. I thinke therfore surely that you say true: and I meruayle moche, that the pope agreeth not to that truthe.
+            
+            
+               THE LAVY.
+               As to that I can not say. For it were an yll birde, that wold defile his owne nest. But neuerthelesse we se here a truth affirmed by many general counsels / by many popes, by many other authors, and also by noble vniuersites, by so many gret lerned men: &amp; the same is neuer the more folowed, but the contrarye therof executed, (right nat withstāding) against our prince &amp; souerayne lorde. Whiche pitieth myne hart, &amp; al true subiectes I thinke, within his realme. Nat doutynge with goddes
+
+grace but that nother he nor we wyll suffre so preiudicial an iniurie to be inferred to this realme, and so pernicious an exā
+                  ple for all christendome.
+            
+            
+               THE DIVI.
+               That is surely so. Wherfore I dout not (god assistinge vs) but that this his realme, wyl rather sticke with hym in this his manifeste right / accordynge to their duetie:Our duetie and obediēce we owe to our prince. than put their neckes vnder the yoke of the pope, or his, at pleasure lawes. For god cōmandeth obediēce to the prince, &amp; so doth he not to the iniuries of the pope:In what the poope is not to be obeyed. but willeth vs rather to withstāde them, as by diuers textes and holy mens examples, it shal here after appere. God (sayth saint Bernarde) cōmandeth vs to do that is good,
+                     Bernardus.
+                   &amp; to leue that is yl. Now if that man, whom he hath gyuen p̄eminence to &amp; sette him aboue vs, wolde thinke to the contrarie, &amp; cause vs other to leaue that is good, or to cleue to that is yll &amp; forbidden of god: there his commandement is boldly to be refused. For it is farre out of ordre to breke thyn obediēce thou owest to god, for thyn obedience towarde man. Wherfore saith saint Augustine.
+                     August.
+                   If he that is in power aboue
+
+the, as to whom thou owest thyn obedience, commande the to do any thynge, that thou oughtest nat to do: there contemne and refuse his power. If he byd the do one thynge, and god an other: obeye god contempnynge hym. If that man byddeth, god forbydde: shall I (sayeth saynt Bernarde) here man, and nat here and obeye god?
+                     Bernardus.
+                   Therfore (as sayeth holy Basile) if we be bidde of any man to do that is contrarye to the commaundementes of Christe:
+                     Basilius ma.
+                   there is hye tyme for vs to say, we be bounde more to obeye god thanne men. I boldely do affyrme (sayethe blessed Symon de Cassia) that the vicare of Christe is nat exempte from the preceptes of the lawe of god,
+                     Simon de Cassia.
+                   nother can exempt any other fro the same: nor can gyue lycence to syn or to do amysse.
+            
+            
+               THE LAVYER.
+               All this you speke here, is very well agreing also, with the popes owne lawes. For if his commaundement (saieth Innocence) conteyne heresy,
+                     Innocentius
+                   or bethought lykely to trouble greatly the hole churche, or that other yll shulde happen thereby: a man ought nat to obey, though it be cōmāded
+
+vnder the payne of excommunication: in the whiche he falleth whan that he obeyeth nat. And if a man be excommunicate (saieth Abbot) bycause he dothe that is good,
+                     Abbas.
+                   or wyll nat do that is yll: the sentence of excommunication is none.where excō
+                     munication is as none. And if the sentence of excōmunication be manifestly vniust: it is as none.
+            
+            
+               THE DIVINE.
+               Thus the good archebysshop of Canturbery Laurence successoure of saynt Austen,
+                     Laurentius Archiepiscopus Cantua.
+                   wolde for none entretee of the poope nor yet commination of cursinge, assoyle hym whom he had ryghtfully accursed for the maryenge of his mother in lawe.
+                     Sāctus Dunstanus.
+                   Lykwise saint Dunstane wold in no wise obey the pope, though he prayed hym, monisshed hym, and straitly commaunded hym to assoyle the Erle, whom he had afore excōmunicate for the marienge and reteining of his nye kyns woman: vntyl he had put her from him. For this same was euermore in his mouthe, god forbydde that for the cause of any mortall man. I shuld contempne the lawe of my lorde god. Euen so the good bysshoppe Sampson had rather abyed and suffre al parels of excommunication,
+                     Sampson episcopus.
+                  
+                  
+than to do that he sawe he myght nat do by the lawe of god. The noble clerke and good bysshoppe of Lyncolne Roberte Grosthede also wroote vnto the pope,
+                     Robertus Lincoln.
+                   whiche hadde made (as he knewe well) an vnlaufull requeste vnto hym: that suche enforcementes he muste nedes say naye to, and rebell. Wherfore nowe if it fortune hereafter, that the poope or any other spirytuall persone wolde for sinistre affection or encrease of authoritie interdicte, excommunicate, or sende any inhibition to interrupte the iustenes of this cause, other elles the dewe procedynge in the same, accordynge to the diffinitions afore: in that case (as me thynketh) bothe the kynge, his spirituall and laye subiectes also, shulde manfully in god withstande them, and stycke in theyr myndes and dedes to the manfull vertuous and hooly sayenge of all the blessed apostles: whiche is, that we oughte rather to obeye god thanne men. And no doubte but that in our so doynge we shall haue lyke rewarde of the same our maker: as these holy men and blessed Bysshoppes hadde:
+
+with moo, the whiche dydde folowe the same steppes.
+            
+            
+               THE LAVYER.
+               By my faythe you speake to verye good reason, but I can not say, that our lawe agreeth to this reason.
+            
+            
+               THE DIVIN.
+               No, I thynke that well. But the foundation and very stone, which you shulde groūde your lawe vpon, doth establisshe vs, to condescende to the sayde reason. For the Churche of god hath his foundation sette vppon a firme and stedfaste stone of truth and faythe: and not vpon the mutable and wylfull pleasure of Peters successours. But your lawe doth so moche attribute to man (as moderne glosers dothe expoune) that it wolde make man, whiche is but frayle and caduke / directour, gouernour / and as superiour to the very worde of god: whiche is (as the prophete sayeth) alway permanent, what simple witte or slendre fayth wolde thinke or beleue, that god in setting forth his lawes and preceptes, had (as a man wolde say) so vnauisebly considered and commaunded them, that any wyse they shuld nede of mans reformacion, or that he dyd create man, to be superiour to his
+
+worde and wyl? Me thinketh verily that it is to great an arrogancy for man so to vsurpe apon his maker. Wherfore nowe let this passe: and answere me (I praye you) to an other question in lawe.
+            
+            
+               THE LAVYER.
+               What is that nowe?
+            
+            
+               THE DIVINE.
+               This same. If a man shuld cōmune with you of the lawe, and aske you whether the decrees and decretalles (whiche you emonge you do call lawes) with the opinions of doctours, whyche wryteth of them, be directed in their iust execution merely and in all cases by truth or no: what wolde ye answere?
+            
+            
+               THE LAVYERE.
+               What wolde I answere? Mary this do I answere: that the lawe in his due course exercised, ought to be directed by truthe onely.
+            
+            
+               THE DIVI.
+               And what call ye truth? That? whiche appereth in dede only: or that by report? And if by reporte, whether that whiche some men say &amp; depose, is true: or onely that all men say and holy agree vnto, is true?
+            
+            
+               THE LAVYER.
+               If the dede do appere euidently,what is to be tane for truthe. than it is greatly to be consydered &amp; weyed: and if nat than it is to be referred to that whiche the ancient
+
+fathers approued in law, or the assent of counsels generall do saye, and affirme to be true and lawe. And if (as in a rare case) it fortune some tyme that the truthe can nat be fully gathered or made plainly to appere, than iudgementes and opinions of doctours, soundyng to reson so farre as mans witte can comprehende, and nat discrepant from goddes lawe: be to be ensued &amp; folowed.
+            
+            
+               THE DIVI.
+               Herein may somtyme fortune an errour.
+            
+            
+               THE LAVYER.
+               That is truth. For in the iustice of this worlde that is truth, which the lawes receyueth for truth, and whan the lawes receyueth it, than it is as truth in the syght and iugement of men: though in the syght of god it be nat so. God seeth al with his owne eies: &amp; therfore his iustice is most perfit / &amp; is directed alwayes occordynge to a moste perfitte truthe. Man trusteth other mens eies and tounges / and sometyme his owne sensis, whiche maye erre: and therfore foloweth and admitteth in stede of truth the lykelyhode of truthe and the lykelyhode approued by the lawe. Whervpon it foloweth that what the lawe callethe
+
+truthe, is to be taken for a truthe: vntylle the contrary may euidently appere. For if manne shulde neuer take for the truthe: but onely that the dedes shewed of truthe, there 
+                     〈◊〉
+                   seldome appere truthe to men 
+                     〈…〉
+                   matters. The dede vanyssheth 
+                     〈◊〉
+                   passeth ouer, ne can be permanente 
+                     〈◊〉
+                   testimonie of the truthe is preserued by the lawe: whiche wylleth faythe to be gyuen to sufficient wrytinges and sayenges in that behalfe. And if you require farther declaration hereof: me thynketh that it apperethe welle in this example. Who can shewe the truthe of his owne lynadge or parentage, but by auctoritie of the lawe, by whiche lawe wytnesse proueth the mariage of the personages, and byrthe of the chylde vpon the woman maried? Whervpon the lawe concludeth the generation of the husbande as father: whether it be so in dede or no.The laufull profe of boly knowlege And so it is in profe of the truthe of carnall copulation and bodily knowledge. Wherin there is no wytnesse communely that depose of the very acte, but onely of the nere circumstaunces precedynge or folowynge
+
+the acte: as age of the two parties conueniente and lykely there vnto / with conuersation in bedde and other place at libertie for that acte. Wherevpon the lawe concludethe for a truthe, the acte of copulation to haue ensued, &amp; so in other cases of lyke fashion.
+            
+            
+               THE DIVI.
+               Why syr, if this be thus, as ye saye: than shall it lytell auayle the quene to alledge,That the quenes allegynge to the cōtrary nothyng auayleth. that she was nat knowen by prince Arthur. For sure I am, ther be witnesse, &amp; (as I haue harde say) of the noblest mē of this realme, that knew prince Arthure &amp; the quene at the tyme of their mariage, and knewe them bothe to be of competent age, feete apte &amp; prone to that naturall acte: bedded to gether at sondrye tymes, lyuynge at libertie, in one house beynge: no lette or impediment in lawe why they shulde nat, but many prouocations of nature why they shulde accomplysshe their natural desire in that be halfe.
+            
+            
+               THE LAVYER.
+               I thynke the quene wyll neuer erenestly alledge that matter: which hath nat only no probabilite of truth / but also that beinge proued, whiche you speke of: that is to say, the
+
+mariage, liuinge, beddinge, and cōuersation together of her and prince Arthure, a plaine conclusion to the cōtrarie.
+            
+            
+               THE DIVINE.
+               There be many mo specialtes than these: that go nere the matter. For some men of great house say / and (as I am enfourmed) depose vpon theyr othe: that prince Arthur dyd report hym selfe vnto them,Prince Arthurs owne reportes. that he had carnally knowen her. And that at diuers tymes, to some at one tyme / to some at a nother: so that his sayenges were many times reiterate. Whyche me thynketh gyuethe moche greatter faythe, in so moche that it is not to be thought, that al these tymes he shulde speke for ostentacion and bostynge of hym selfe onely. For at some tyme of these it doth appere by attestacion of credible folkes, wherof some were his seruā
+                  tes nere about him at that tyme: that he spake it for mere necessite, demaundynge and desyrynge drinke incontinently vpon his great labours, in the mornynge very erely to quenche his thyrste: answerynge whan the question was asked hym, why sir and be ye nowe so drye? Mary if thou haddeste bene as osten in Spayne this
+
+nyghte as I haue bene: I thynke verely thou woldest haue ben moche dryar. Another thinge there is more, whiche hath a meruelous apperaunce in it to declare that she shulde be knowen by prince Arthure: and that is this. Incontinent after his dethe the name of a prince belonged to hym that is nowe our souerayne lorde and kynge, excepte his brother had chyldren: &amp; so without creation or any other solemnite streight waye so to be called therby. Whiche if it shulde nat so haue folowed, shulde haue ben a mere iniurye illated by his father to hym: without some other meruaylous great consideration. So it was his brother beinge dede, vpon suspicion that she hadde ben with childe, and beynge also certifyed by the princes counsell, that they and she bothe thoughte the same:
+                     
+                        〈…〉
+                      for what cause the name of prince was differred our 
+                        〈◊〉
+                     . the name of prince was differred from our souerayne lorde that nowe is by the space of a moneth &amp; more, in whiche tyme it was likely the truth to be knowen. And so me thinketh there can be no more vehemēt nor almost a playner trial of her to be knowen, than this: beinge with al well considered howe
+
+wel auisedly the noble king his fader dyd always procede in all his actes &amp; dedes. Ye &amp; a thirde there is also, wherby it can nat be denied but that this her ostētacion &amp; affirmation is nothinge true. And that now is euidently proued by an instrumēt called a Brefe, whiche she by her selfe or her proctour produced in publyke iudgement before the Legates in her defence: bycause our soueraynes counsell founde fautes in the bulle, whiche were sufficient in lawe (as lawyers do affirme) thoughe the pope might dispense (as he may nat ī
+                  dede) to annihilate &amp; fordo the mariage bitwene the king and her. For where one of the fautes, whiche the kinges counsell foūde, was that after the dethe of prince Arthur, in suinge for dispensation, the atteyned a bull / wherof the suggestion was not true: Beinge in one place (as it was saide) in the bull Forsan cognitam, as who sayeth, may fortune knowen. Whiche maketh a doubte of that thynge, whiche she knewe well ynoughe before. And thereby it may well be coniectured, that she feared to telle the trewthe, lest that the pope, perceyuynge that she had bene
+
+knowen by prince Arthoure, wolde neuer haue dispensed with this lattre maryage. Or elles in dede if she had nat be knowen, she neded nat to haue putte in, these termes at all. And thereby emonges other thinges the kinges counselle thoughte, that this bulle was subrepticious and noughte: bycause the trewe meanynge of the supplycatyon was nat purely and trewely declaredde in the same. She thanne fearynge that by this faulte and other, whyche were founde in the sayde Bulle, she shulde fayle of her purpose: dydde accordynge as tofore is sayde, in her defence exhybyte this brieffe: thynkynge thereby to take away al these doubtis, whiche were founde in the Bulle, and specially that of Forsan cognitam. But in this (as scripture saith, obscurati sunt oculi eorum, Both her eies &amp; her coūsels were blynded. For wher they went about to hele some smal soores, they opened a great woūde: &amp; in the Brefe confesse cognitam, without Forsan: which is to say, that she was knowen without parauenture.Howe the brefe which was purchased for fautes in the bul manyfestely sheweth that she was knowē by prince Arthur. Whiche maketh (as me thinketh) to euident a profe, that
+
+she shulde be knowen by prynce Arthure / &amp; so plainly sheweth it that it can nat be denyed. For nowe if ye marke it well, it is confessed bothe by hym &amp; her: though she liste to say nowe the contrary, &amp; that in iugement.
+            
+            
+               THE LAVYER.
+               I meruaile than, that men wyl yet doubt whether it be true or no: that the law approueth so for truth, where these probations appereth so playne.
+            
+            
+               THE DIVINE.
+               I will tell you why. Bycause her grace sayth her selfe, that she was nat carnally knowen, and she sayth that she knoweth it better than al the worlde beside.
+            
+            
+               THE LAVYERE.
+               It can not be denied, but that she knoweth it best of folke nowe liuing. But prince Arthur whan he lyued knewe vtterly as wel as her grace. Who hauing no cause why at that tyme to say otherwise than the truth, she nat denieng at that tyme that same, said than the cō
+                  trary of that the quene nowe alledgeth, whan it maketh moste for her purpose so to say, beinge wytnesse in her owne cause and partie for her owne defence / without any matter to iustifye her so sayenge: sauynge onely her sole suche allegacion.
+
+One mans or womans sayenge singular, be he or she of neuer suche dignite auctorite prerogatiue or preeminence,Howe the quenes sayeng can not proue. by the law shal nat make faith in an other mans cause, whiche nothynge apperteyneth to him. Wherfore there can be no reason ne lawe to maynteyne that the quene in her owne cause shuld haue credite and be beleued, or yet her sayeng regarded in that behalfe. And assuredly to speke, it is impossible by due and laufull profe to proue true this her sayenge by her selfe in dede, at this houre: seynge that she hath bene knowen syns. And as for wordes, it is to open in lawe, that the husbandes attestatyon makynge for the mariage is to be preferred to the womans deniall in that case. So that if there were no more but prince Arthurs owne sayenge, the lawe willeth that credytte shulde be gyuen to him &amp; nat to her. And if she wold go about to proue it by recordes, it is to be cō
+                  sidered,How vnlikely shulde be her recordis testimonye. that they which she wolde nowe bring to testifi this, her nat to be knowen: must be of those which were here present with her. Which were sent than purposely, rather to testifi the cōtrary. For it was
+
+at that tyme the thinge which her father &amp; mother bothe moost desired, to here of succession of theyr two bodyes: and to vnderstande that bitwene them was carnall copulatyon. Whereby it may euidently appere (what so euer they nowe saye) that they came than rather to approue the contrary, than that which she wolde bringe them to testifie nowe. For who can thinke that they which brought the doughter of their kinge to be maried vnto the sonne and heyre of a king, wolde than seke for wayes, wherby they might after proue, that she ware nat carnally knowen by him: that they brought her for? And I reken that nother she nor eke her witnesse can make in this matter any due proue, admithable in lawe: seyng also that one of the parties is deed, who to make answere had as moche interest, as she to denye it.
+            
+            
+               THE DIVI.
+               I knowe nat your lawe, but me thinketh you speke reason: that we shulde take for the truthe whiche is laufully approued for truethe, what so euer the partie say to the contrary. Consideryng that truthe (as ye haue declared) dependeth vpon the trewe approbacyon
+
+in the lawe, and nat vpon the bare demonstration of the acte.
+            
+            
+               THE LAVIER.
+               You take it right. And therfore if my father &amp; mother bothe wolde denye me to be their sonne: I shall (if I haue laudable testimonye) proue the contrary, al though they wil neuer so ernestly both defend &amp; mainteyne their denial: alleagynge that they knowe the truthe better than all the worlde after, as they do in dede. But their knowlege helpeth nat where no fayth is to be gyuen to thē. And the question is nat what they know: but what is to be bileued.
+                     None to be beleued in his owne cause.
+                     
+                        A iuuene cupido credatur reddita uirgo?
+                     
+                   And truly no man is to be beleuid in his owne matter. And (as one sayd) may a man bileue that a mayden accōpanieng with a yonge mā of lust (being no let thervnto) shal returne as she was a mayden? Meanyng beleue it who that wolde, for he wolde nat. Prince Arthurs and the quenes conuersation togyther in bed and house, beinge both of lauful age, with these other probations tofore rehersed, so clerely setteth forthe the truthe of carnall knowledge: that the quenes asseueration to the contrary, nor yet her dissemblynge profes (if
+
+she haue any) can blemysshe the same in any vpright true or indifferent mans opinion. Wherfore I meruel that other she or any, that maketh pretense of loue towarde her, wyll allege or cause to be alleged so mere an vnprouable excuse, in so hie a cause. The doinge wherof to my iugement hath greatly derogate bothe her &amp; their credite: not onely in this case, but in all other also.
+            
+            
+               THE DIVIN.
+               These thinges be so pythily spoken &amp; set forthe, that they can not be auoyded. Wherfore sins the truthe fauoreth our princis cause so moche: lette vs his subiectes than not omyt nother our zele ne yet our obediēce to hym accordinge to our allegiance: nor our duetie to god in assistinge the truthe,Our office and duetie to god and our kynge. as is the part and office of a true christen man. For surely we oughte by our alleagiance to defende him and his doinges agaynste all maligners, bothe in wordes &amp; dedes. For againste maligners god hym selfe exhorteth vs by his prophete, whan he sayeth. Be not desirous to folowe the malignere.Beware maligners. Than syn we be forbydden to folowe them in general termes and generally cōmanded to auoyde them: moche
+
+more he forbyddeth vs in that is agaynst our prince and soueraine.
+                     
+                        Principi populi tui non maledices. exo. 22.\
+
+                        In cogitatione tua regi ne detrahas. Ec. 10.
+                   Alas, what ingratitude, ye and that vnnatural were in vs, if we shulde other wise do? Or howe coulde we wyl or desire of our prince that poynte of kyndnes, as towarde vs &amp; our causes: which we refuse vnto him warde? Howe myght we desire of hym not to be lyght in creditte / whan he hereth complaynte of vs: whan we be so light to beleue all tales inuented ageynst hym &amp; his most rightuous intent? Or howe can we be so bolde to desire his grace of his most hye goodnes &amp; fauour, and to assist vs in our ryghtuous causes: whan we do not frankely assiste hym, ye &amp; offre vs to lyue and dye in this his iuste cause &amp; matter?
+            
+            
+               THE LAVYER.
+               Me thynketh, this matter toucheth vs as moche almoste as him. Sauynge onely his conscience. But as for the worlde, moch more. For in his time no man can interrupt him:Our moste louing princis true endeuoure is moche more for vs than hym. nor there is no besines in title. But afterwarde if the ordre be not set bi him or that he dye: it is harde to say, howe many shal repent it. Wherfore I thinke of both, it is more requisite for vs than for him: to haue this
+
+mattre at an honorable ende.
+            
+            
+               THE DIVINE.
+               But howe might that be?
+            
+            
+               THE LAVYER.
+               Mary I thynke that the way might be founde well ynough, if the hole heed &amp; body of the parliament wold set their wyttes and good wylles vnto it. For no doubt, but that it ought to be determyned within this realme: as plainly ynough it appereth bifore.
+            
+            
+               THE DIVINE.
+               Surely you say well. For me thynketh, the succession of this realme, ought nat to be ordered by forreins. For if it shulde, and we to accepte the same: they were rulers and orderers of this realme,An abusion intollerable and nat the king &amp; his parliament. And than doutlesse this realme were as euyll in condition as sclaues of Turkes: whiche I pray god defende it fro. For seynge that there is nothyng to be determined but the faute of beynge knowen or nat knowen, which I thynke is euidently ynough proued alredy: there is no place so conueniente to trye the truthe of that matter as this 
+                     ••
+                  alme.Howe the cause may haue his ende. Wherfore me thinketh the kinges highnes and his parliament shulde e
+                     •••
+                  stly prese the metropolitanes of this realme (there vniuste
+
+othe made to the pope nat withstādyng) to set an ende shortly in this. And to take a greatter regarde to the quietyng of his graces conscience and this realme: than to the ceremonyes of the popes lawe. For by goddes lawe they be bounde to the obedience of their prince, and to seke also the quietation and peacesablenes of this realme: whiche ought to be regardyd more than any mans lawe. Whiche I truste they beynge of suche sincerite as I take them of / will nat lette to do whan it shall be put to them, who so euer say nay: answeringe whan nede shall be accordyng to their auncient and vertuous predecessours. Rather we ought to obey god than men.
+                     Magis oportet obedire deo q̄ hominibꝰ. Act. v. Per oratio.
+                   And thus this lyttell tretise shall make his ende. Prayenge the reders that if any thynge be amysse in it, to arrecte it rather to lacke of discrecyon than of good wyl. And though ꝑauēture in opening of the cause some be indirectly touched, farther maye happe than pleaseth them: we humbly desire them to reken, that if we coulde haue by our simple wyttes deuised any other way so plainly and truely to haue opened this cause: we
+
+wolde moche rather haue done it than thus. But in declarynge the truthe we mynde to halte for no respecte. Wherfore we praye them to holde vs excused. And thoughe parauenture that the wyse mans prouerbe, The tellynge of truthe bredeth ofte displeasure,
+                     Veritas odi um parit.
+                   shall take effecte in vs: me mynde not (and god before) to spare eyther to telle it, or with our lyues to maynteyne it: seinge that Christe him selfe sayeth: I am the verye truthe, and eterne lyfe. Whiche abydethe them,
+                     Ego sum ueritas &amp; uita Ioan. 14. that folowe the truth. And where as we thynke, that it is hardely possible for any man to endite or conueye any worke of suche sorte, that no man shall fynde a faute therin specially captious folke and maligners:Ageynst malygners and raylynge bablers. Whiche rather whan they haue founde a ryght small faute, wyll go about to ieste and rayle on it / ye though no faute at all, yet rather wyll so do of all that pleaseth them not, than to come to the remanaunt in the iustificacion of the matter: we moste entierly praye you louinge reders, that if any suche ye nowe or here after shall here of, whiche wolde cōtradict or againe say this pore treatise
+
+of truthe, nat to gyue credence vnto thē, tyll they can proue the contrarye hereof. And that sothly, nat by their gestes, their faces &amp; crakes, whiche is al out of frame: but (as it ought truely) onely by good scripture, good auncient authors, generall counsels, vertuous and holy popes owne sayenges, famous vniuersities, and infinite clerkes and lerned mens opinions, concurring with olde ancient customes and vsages: and that syn our sauiour Christes owne tyme, as we haue declared in this our poore treatise all redy for our parte. And an other thinge there is also / whiche we truste shall cause you to gyue the lesse credytte to who so euer wolde maligne at this worke,The sure pyllars this worke leaneth to. whiche is this. That this worke standeth with vertue and clennes. The whiche truthe all the contrary parte can nat denye. And therfore hit oughte rather to be embraced. And doutlesse the contrarye thereof is vyce and vnclennes, whiche oughte vttrely therfore to be dispysed. And this sure we are, that dyuers of the moste reputed personages in lernynge, whiche taketh the the contrary part of that we do,
+
+haue sayd to men of great creditte: that if this matrimony were to be made, they wolde neuer condescende vnto it, nor euer aduise any man to attempte any suche. Wherof we now gather, that they iuged it naught: though for some respect nowe ī this time they do cloke the cōtrary. For if it were good or laufull (as nowe they wolde make pretence it were) why shulde they haue said, as tofore is rehersed? And sins they haue confessed so farre: this vrgēt reason must kepe them within the list whiche is this. That thynge, whiche is ones nought in goddes lawe morall: can neuer be good, but by his onely alowāce: as moste parte of counsels generall and good outhors do determine. Wherfore in this theyr so sayenge, we maye well thynke, that they verely confessed the effecte of this our treatise. Whiche if they nowe contrary in worde or bede, or hereafter shall: can not be well taken in indifferent eares, but estemed to procede of to moche lyghtnes, or of subornynge, or elles of to great affection and cleuynge to theyr owne opinion. Wherfore, if they so do, we thinke, that lyttel creditte
+
+shulde be gyuen vnto them. And we doubte not, but that your myndes and affections are suche to your most louyng prince: that nowe syn ye knowe them, suche theyr sayenges shall nothynge hindre his well deserued estimation amonge you. And therfore efte sone we most hartely pray you gentyll reders, that nother sinistre affection, nor yet malycious reporte, do hynder the acceptynge of this our treatise in your hartes and iugementes: otherwise than that if you had matters to do before our prince and his coū
+                  sell, ye wolde they shulde do in your iuste petitions and causes. For you muste remembre that Christe commandeth vs, to do as we wolde be done to. Where he wylleth it of eche to other emonge vs al: wyll he nat that moste of all we obserue 
+                     〈◊〉
+                  , 
+                     ••
+                  empst our most louynge prince and souerayne No dout but so wylleth and comandeth our sauiour Christ. In whom fare ye well moste gentyll reders, euer to inclyne and fauour moste the truthe.
+            
+         
+      
+      
+         
+            ¶
+                  〈…〉
+                CVM PRIVILEGIO.
+            
+         
+      
+   
+

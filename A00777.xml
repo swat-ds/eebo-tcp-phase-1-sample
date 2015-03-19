@@ -1,0 +1,1037 @@
+
+   
+      
+         
+            Diseases of the soule a discourse diuine, morall, and physicall. By Tho. Adams.
+            Adams, Thomas, fl. 1612-1653.
+         
+         
+            
+               1616
+            
+         
+         Approx. 158 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2004-03 (EEBO-TCP Phase 1).
+            A00777
+            STC 109
+            ESTC S100388
+            99836230
+            99836230
+            488
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A00777)
+            Transcribed from: (Early English Books Online ; image set 488)
+            Images scanned from microfilm: (Early English Books, 1475-1640 ; 817:12)
+         
+         
+            
+               
+                  Diseases of the soule a discourse diuine, morall, and physicall. By Tho. Adams.
+                  Adams, Thomas, fl. 1612-1653.
+               
+               [8], 74 p.   
+               
+                  Printed by George Purslowe for Iohn Budge, and are to be sold at the great south-dore of Paules, and at Brittaines Bursse,
+                  London :
+                  1616.
+               
+               
+                  Reproduction of the original in the Henry E. Huntington Library and Art Gallery.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Sin --  Early works to 1800.
+            
+         
+      
+      
+         
+            2003-06
+            TCPAssigned for keying and markup
+         
+            2003-07
+            Apex CoVantageKeyed and coded from ProQuest page images
+         
+            2003-10
+            Olivia BottumSampled and proofread
+         
+            2003-10
+            Olivia BottumText and markup reviewed and edited
+         
+            2003-12
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            DISEASES of the SOVLE: A DISCOVRSE
+            DIVINE, MORALL, AND PHYSICALL.
+            BY Tho. Adams.
+            
+            
+               SEN.
+               
+                  Desinit esse remedio locus, vbi quae fuerunt Vitia, Mores sunt.
+               
+            
+            
+            LONDON, Printed by George Purslowe for Iohn Budge, and are to be sold at the great South-dore of Paules, and at Brittaines Bursse.
+            
+            1616.
+         
+         
+            
+            
+            TO THE TRVLY Iudicious, and worthily eminent in his Profession, Mr. WILLIAM RANDOLPH, Doctor of Physicke.
+            
+            
+               Worthy Sir,
+            
+            
+               IT will seeme strange to those, that better know my vnworthinesse then your merits, that I should administer Physicke to a Physician. But my Apologie is iust; conuincing rather them of ignorance, then my selfe of presumption. It is not a Potion, I send, but a Prescript in paper; which the foolish Patient did eate vp, when he read in it written, Take this. Neither do I send it, to direct you, but that you should rectifie it. So the poore Painter sent Appelles a Picture, to mend it, not to commend it. That which tastes of Philosophie in it, is but so much of those axiomes and rudiments, as I gather'd in the Vniuersitie in a short time, and haue had much opportunity to lose since. Somewhat is chym'd out of experience; wherein I may say, Necessit as was ingenii largitor: as Plinie writes of the Rauen; who labouring of thirst, and spying a vessell with
+
+some little water in it, but so deepe as she could not reach, filled the vessell with stones; till the heauier matter sinking downewards, raysed vp the lighter to her easie apprehension. My owne ill health forced me to looke into that poore Cisterne of knowledge, which I had: and finding it almost drie, I assayed by some new contemplations, to raise it vp to experience; which now, behold, runnes ouer, and (without diminution to it selfe) is communicatiuely dispersed to others. Only doe you vse it, as I desire you should my selfe: if it be in health, conserue it: if foule purge it. For my owne part, I am content, that no happie meditation of mine should be vt Curia Martis Athenis; or like some precious mysterie, which a Practitioner will get money by, whiles hee liues; but suffer none els to vse, when hee is dead: for hee resolues, it shall die with him. It is more Morall, then Physicall; and yet the greater part Theologicall. wherein I haue most satisfied my owne conscience, in ayming at that punctuall Center, and blessed Scope, whither all endeuours should looke; the straitening our warped Affections, and directing the Soule to heauen. And in this passage, (you must pardon mee) I feare not to say your memory at least, if not your vnderstanding, may hereby be helped. My Medicines are not very bitter; but nothing at all sweete to a sensuall palate: learning from Saluian; that Quae petulantium auribus placent, aegrotantium animis non prosunt. For my soule, I prescribe to others that, which I desire euer to take my selfe; such sauing Recipe's, as Gods holy Writ hath directed mee. For my Body,
+               
+though I would not haue it lamed by my owne neglect, that it might leane vpon the staffe of Physicke; hauing not so much health to spare, as might allow some vnthrifty expence of it on surfets: yet when it is sicke, I desire no other Phisician then your selfe. Perhaps a great number of men are of my mind, and frequent are the knocks at your Study-dore: but I am sure that all those desires are not enflamed with that light of knowledge, which I haue of your sufficiency, through much priuate conference. Rudenesse or prolixitie do ill in an Epistle, and worse when both together; and may perhaps please a mans selfe, and none els. I haue done, when I haue (yet once againe) chaleng'd your promised Iudiciall of vrines: which if you make publike, you shall haue the like addition to my singular thankes. Till a good gale of opportunity waft my self ouer to your Sudbury, I haue sent you this Messenger of that loue and seruice, shall euer be ready to attend you; desiring that, as it hath found the way to you, you would giue it your Passe to the World; and (if it grow poore with contempt) your Legacie of approbation. Wingraue in Buck. May vlt.
+            
+            
+               Your Worships in all iust references of loue,
+THO. ADAMS.
+            
+         
+         
+            
+            
+            TO THE READER.
+            
+               THE Title of this Booke requires some Apologie. There is a bookelately conceiu'd in Scotland, and born in England, which both promiseth in the Frontispice, and demonstrates in the Module, the method and matter here proposed. Whereof I cannot speake, hauing onely cursorily perused some page or two of it, but not of the worthinesse. Because that hath the prioritie of the time, and transcen. dencie in quantitie of mine, I haue reason to feare, that this will be thought but the spawne of that: or an Epitome: or at best, that it is begot out of imitation. Herein I must seriously propose, and engage my credite to the truth thereof: that this was committed to the Stationers hands, perused and allowed by authoritie: yea, and with full time to haue bene printed, and perhaps an impression sold, before that of Master Iohn Abrenethys came out. What dilemma's were in the Book-sellers head, or what reasons for such slacknesse and reseruation, are to mee as mysticall, as his profession. Neither doe I pleade thus out of any affected singularitie, as if I were too good to imitate so worthy a man: but onely to haue punctually and plainly deliuered the truth hereof: leauing it to thy censure, and vs all to the grace of God.
+            
+               T. A.
+            
+         
+         
+            
+            A Generall Table of all the particular Diseases, contained in this Booke.
+            
+            Page
+            
+               THe Induction. 1
+               The Method. 2
+               
+                  Disease 1. Of Head-ache and Braine-sicknesse. 3
+               
+                  Disease 2. Of Inconstancie, a kinde of staggers. 7
+               
+                  Disease 3. Of Madnesse and Anger. 12
+               
+                  Disease 4. Of Enuie, a consumption. 17
+               
+                  Disease 5. Of Idlenesse, the Lethargie. 20
+               
+                  Disease 6. Of the Dropsie and Couetousnesse. 23
+               
+                  Disease 7. Of Usurie, and Caninus appetitus, or the doggelike appetite. 27
+               
+                  Disease 8. Of Pride. 33
+               
+                  Disease 9. Of the Palsey and timorous suspicion. 35
+               
+                  Disease 10. Of Immoderate Thirst, and Ambition. 39
+               
+                  Disease 11. Of inflammation of the reines, or lustfulnesse. 44
+               
+                  Disease 12. Of the rotien Feuer, or Hypocrisie. 48
+               
+                  Disease 13. Of Fluxe and Prodigalitie. 52
+               
+                  Disease 14. Of the Iaundeys and Profanenesse. 55
+               
+                  Disease 15. Of Apoplexie and Securitie. 57
+               
+                  Disease 16. Of windinesse in the stomake, and vainglory. 60
+               
+                  Disease 17. Of the Itch or the Busie-body. 63
+               
+                  Disease 18. Of stinking breath and flattery. 67
+               
+                  Disease 19. Of short windinesse and wearinesse of doing well. 70
+            
+         
+      
+      
+         
+            
+            THE SOVLES Sicknesse: A DISCOVRSE DIvine, Morall, and Physicall.
+            
+               The Induction.
+               
+                  THE Sicknesse of this World is Epidemicall, and hath with the inuisible poyson of a generall pestilence infected it to the heart. For Uice in manners, as Heresie in doctrine, distilleth insensible contagion into the fountaine of Life; and dum 
+                  Bellar. in praes. Tom. 1. Controu. 
+                  vnum interficit, centum alios inficit, in killing one, banes many. Whether ex daemonis iniuria, vel ex hominis incuria, from the Diuels malice, or mans securenesse, Iniquity is growne from a mist to a Mysterie, Ignorance to Arrogance, nescience to negligence, 2. Thes. 2. 7. simple imprudence to politicke impudence, and I know not how, too much light hath made men blind. At first they knew not when they sinned, now they would know to iustifie their sins: they defend that, wherein they offend, and buy Sicknesse with as great expence of time, wit, money, as the anguished Atheist would health.
+               
+                  
+                  Sickenesses in mens Soules are bred like diseases in naturall, or corruptions in ciuill bodies; with so insensible a progresse, that they are not discerned, till they be almost desperate: as the franticke endures not bonds, nor the Lethargicall noise: or as it was once sayd of the Romanes, that they could neither endure an ill Emperour, nor obey a good one: so wee may say of our selues (no lesse then Liuy of that State) Nec vitia nostra, nec remedia 
+                  Decad. lib. 1. 
+                  ferre possumus: wee can better brooke our maladies, then our remedies. There is, say Physicians, no perfect Health in this world; and man, when hee is at best, enioyes but a neutrality. But the Physicians of the Soule complaine further: That wee are all as an vncleane thing, 
+                  Esay. 64. 6. 
+                  and all our righteousnesse are as filthie ragges, &amp;c. and in many 
+                  Iames 3. 2. 
+                  things wee sinne all. We may say with the Prophet, not so much for our punishments, as our sinnes, The whole head is sicke, and the whole heart faint. From the sole of the foote, euen vnto the head, there is no soundnes in it; but wounds 
+                  Esay 1. 5. 6. 
+                  and bruises and putrifying sores.
+               
+            
+            
+               The Methode.
+               TO pursue this Argument, I would willingly dispose the tenour of my speech into this method, 1. to describe the disease, 2. to ascribe the signes, 3. to prescribe the remedie. And whereas Physicians begin their medicinall institutions or instructions at the Head, as the most noble part of the body; the principall seate of the wits, the beginning of all the organicall sences, and the proper house and habitation of the animall vertue; (though Philosophie attributes that supereminent dignitie to the Heart) and I (for metaphors sake) without contention suffer my selfe to be led after their rule; behold, I apply to the Head first: which if I could cure, it would more easily discerne the infirmities of the descending parts. In
+
+the Head and other corporall parts there are many diseases, which I will not contend to find out; desiring onely to say (not all, but) enough. I will borrow so Non ego cuncta meis amplecti versibus opto. much Timber out of Galens wood, as shall serue me for a scaffold to build vp my Morall discourse.
+            
+            
+               Head-ach and Braine sickenes. Disease. 1.
+               
+                  HEad-ach is diuers, say Phisicians, according to the causes; proceeding some of colde, some of hot; of drinesse, of moisture, of blood, of choler, of flegme, windynesse, drunkennesse, of an offending stomacke. There is an Head-ach called the Migram, Hemicrania, possessing lightly one side of the Head, and distinguished by a seame that runnes along in the skull. There is a disease in the Soule not vnlike this, and they that labour of it, are cald Braine-sicke men. They may haue some pretty vnderstanding in part of their heads, but the other part is strangely sicke of crochets, singularities, and toyish inuentions; wherein because they frolicke themselues, they thinke all the world fooles that admire them not. They are euer troubling themselues with vnnecessary thoughtfulnesse of long or short, white or blacke, round or square; confounding their wits with Geometrical dimensions, &amp; studying of Measure out of measure. A square cap on another mans head, puts their head out of square, and they turne their braines into dry wooll, with storming against a garment of linnen. New Albutij to moote the reasons, why if a Cap fell down, it brake; if a Spunge, it brake not; why Eagles fly, and not Elephants. There be such students in the Schooles of Rome; what shalbe done with an Asse, if he get into the Church to the Font vncouered, and drinke the water of Baptisme: vpon the strange hazard of a Clarks negligence, and an Asses thirst entring the Church, which are vncertaine,
+
+they make themselues Asses in certaine. Or if a hungrie Mouse filch the Body of our Lord, &amp;c. Braue wits to inuent Mouse-traps. These curiosities in humane, but much more in diuine things, proue men braine-sicke.
+               
+               
+                  Cause.
+                  THe Cause of the Migram, is the ascending of many vaporous humours, hot or cold, by the veines or arteries. The Cause of this spirituall Migram, or braine-sicknesse, is the vnkindly concurrence of ignorance, arrogance and affectation, like foggy mistes and cloudes, obscuring &amp; smothering the true light of their sober iudgements; and bearing their affections like a violent winde, vpon one only point of the Compasse, new-fangled Opinion. Like the Gyants sonne, they must haue sixe toes on a foote: they hate, not to be obserued, and had rather be notorious, then not notable. Opinion, is a foote too much, which spoiles the Uerse. New Physicke may bee better then olde, so may new Philosophy; our studies, obseruation, and experience perfecting theirs: beginning, not at the Gamoth, as they did, but as it were at the Ela: but hardly new Diuinitie; not that an ancient errour should be brought out against a new truth. A new truth? nay, an old newly come to light: for Errour cannot wage Antiquity with Truth. His desire is to be crosse to regularity; and should he be enioined a Hatte, a Cappe would extremely please him: were he confined to extemporall and enthusiasticall labours, he would commend premeditation and studie; which now he abhorres, because they are put on him. He is vnwise in being so bitter against Ceremonies: for therein hee is palpably against himselfe, himselfe being nothing else but Ceremonie. Hee loues not the beaten path; and because euery foole (sayth he) enters at the gate, hee will climbe ouer the wall, whiles
+
+the dore of the Church stands open, hee contends to Iohn 10. 1. creepe through the windowe. The Brain-sicke are no lesse then drunke with Opinion; and that so strangely, that sleepe which helps other drunkards, doth them no good. Their ambitious singularity is often so violent, that if it be not restrained, it growes to a kind of frenzy, and so the Migram turnes into the Staggers. Heerein, because we will not credit their Positions, nor receiue their Crochets in our set Musicke, they reele into the lowe-Countries.
+               
+               
+                  Signes and Symptomes.
+                  
+                     Physicions say of the Migram-affected, that in the violent fit of the passion, they can abide: 1. No noyse or lowd speech: 2. Not cleare light: 3. Not to drinke Wine: 4. Nor almost to moue at all, &amp;c. Our Braine-sicke Nouelist is described by such tokens.
+                  1. Lowd speech hee loues not, except from his owne lippes. All noise is tedious to him, but his owne: and that is most tedious to the companie. Hee loues to heare himselfe talke out of measure. He wonders, that the senses of all his hearers doe not get vp into their eares, to watch and catch his mysteries with attention and silence; when as yet himself is more Non-resident from his theme, then a discontinuer is from his charge.
+                  2. The cleere light he cannot endure, for his braine is too light already. He presumes, that his head containes more knowledge then tenne Bishops; and wonders that the Church was so ouerseene, as to forget him, when offices were disposing, or places a dealing; and because he can get none, railes at all for Antichristian. He is the only wise man, if he might teach all men to iudge him, as he iudgeth himselfe: and no starre should shine in our Orbe, without borrowing some of his light. Hee offers to reforme
+
+that man, that would informe him; and presumes of so much light, that if himselfe were set, our world would be left without a Sunne.
+                  3. Wine he hates, specially when it is powred into his wounds: (as the Fathers interpret the Samaritans wine to the wounded man, to clense and purge him.) Reproofe and hee are vtter enemies; no man is good enough to chide him: wholsome counsell, which is indeed Wine to a weake soule, he accounts Vineger; nothing so pleaseth him as his owne Lees. Opinion hath brewed him ill, and he is like water scared out of the wits.
+                  4. He must not bee moued, nor remoued from what hee holdes: his will is like the Persian law, vnalterable. You may moue him to choler, not to knowledge: his braine is turned, like a Bell rung too deepe, and cannot be fetcht backe againe. His owne affectation is his pully, that can moue him; no engine else stirres him. A man may like him at first, as one that neuer heard musick doth the Tinkers note on his kettle; but after a while, they are both alike tedious. There is no helpe for his auditour, by by any excuses to shift him off; if he haue not the patience to endure an impertinent discourse, hee must venter the censure of his manners, and run away. His discourse is so full of parentheses, as if he were troubled with the rhume, and could not spette. He is euer tying hard knots, and vntying them, as if no body had hired him, and therefore he must finde himselfe worke. If hee light on the sacred Writ, he conceitedly allegorizes on the plainest subiect, and makes the Scripture no more like it selfe, then Michols Image in the bed vpon a pillow of Goates haire, was like Dauid. He carries bread at his backe and feedes vpon stones. Like a full fedde Dogge, he leaues the soft meate to lye gnawing vpon bones: that wee may say of him, this man hath a strong wit, as wee say, that dogge hath good teeth.
+               
+               
+                  
+                  Curation.
+                  THe way to cure the Migram is diuers, according to the cause; either by cutting a veine, purging, revulsiue or locall remedies. But the sanation of this Brainsicke malady is very difficult: insomuch, that Salomon sayth, There is more hope of a foole, then of one wise in his owne conceit. For he imagines the whole world to be sick, and himselfe only sound. I might prescribe him the opening of a veine which feedes this disease, that is, affectation: the itching bloud of singularity let out, would much ease him. Or a good purge of humility to take him down a little, because he stands so high in his owne imagination: and full vessels, to preuent their bursting must haue timely vent. Or a little opium of sequestring him from businesse, and confining him that hee might take some sleepe; for his braines want rest. Or a little Euphorbium of sound admonition and fit reproofe dropped into his eare warme. Some Euphrasia or Eye-bright would do well. Vnctions, if lenifying, will do no good, nor any of the former, I doubt; except a strong pill of Discipline goe with them. The speciallest remedy is Discipline, as the Father sayd, when hee heard his sonne complaine of his head; my head, my head, commanded a seruant; Carry 
+                     2. King 4. 19. 
+                     him to his Mother: so for these men so troubled with the Head-ach, deliuer them to their mother, let the Church censure them.
+               
+            
+            
+               Inconstancie, a kinde of staggers. Disease. 2.
+               THere is a Disease in the Soule called Inconstancie, not vnfitly shadowed to vs by a bodily infirmity, possessing the superiour part of man, vertigo, a swimming in the
+
+head, a giddinesse, or the Staggers. The disease in the body is described to bee an astonishing and dusking of the eyes and spirits, that the Patient thinkes all that he seeth to turne round, and is sodainly compassed with darknes. The paralel to it in the Soule, is Inconstancie, a motion without rule, a various aspect, a diuersifying intention. The Inconstant man is like a Pour contrell; if hee should change his apparell so fast as his thought, how often in a day would he shift himselfe? He would be a Proteus too, and vary kinds. The reflection of euery news melts him, whereof he is as soone glutted. As he is a Noune, hee is only adiectiue, depending on euery nouel perswasion: as a Verbe, he knowes only the Present Tense. To day hee goes to the Key to bee shipped for Rome, but before the Tyde come, his tyde is turn'd. One party thinke him theirs, the aduerse theirs: he is with both, with neither, not an howre with himselfe. Because the Birds &amp; Beasts be at controuersie, he will be a Batte, and get him both wings and teeth. He would come to heauen, but for his halting: two opinions (like two Water-men) almost pul him a-pieces, when he resolues to put his iudgement into a Boat, and goe somewhither; presently he steps backe, and goes with neither. It is a wonder, if his affections, being but a little luke-warme water, do not make his religion stomack-sicke. Indifferencie is his ballast, and Opinion his sayle: he resolues, not to resolue. He knowes not what he should hold; hee knowes not what hee doth hold. He opens his mind to receiue motions, as one opens his palme to take a handful of water; he hath very much, if he could hold it. He is sure to dye, but not what religion to dye in; he demurres like a posed Lawyer, as if delay could remoue some impediments. He is drunk when he riseth, and reeles in a morning fasting. He knowes not whether he should say his Pater noster in Latine, or English; and so leaues it and his prayers vnsayd. Hee makes himselfe ready for an appointed feast; by the way hee
+
+heares of a Sermon, he turnes thitherward, yet betwixt the Church gate, and Church dore, hee thinkes of businesse and retires home againe. In a controuerted point hee holdes with the last reasoner hee either heard or read, the next diuerts him; and his opinion dwels with him, perhaps so long as the teacher of it is in his sight. He will rather take drosse for gold, then trie it in the fornace. Hee receiues many iudgements, retaines none, embracing so many faiths, that he is little better then an Infidell.
+               
+                  Causes.
+                  THey giue a double cause of this disease in the bodie; either the distemperature and euil affectednesse of the braine; or an offence giuen to it from the mouth of the stomack: vapours, grosse and tough humours, or windy exhalations, either lodging in the braine, or sent thither from the stomack, turning about the animall spirits: hence the braine staggers with giddinesse. This spirituall Inconstancie ariseth from like causes. If it be in religion, it proceeds from cloudy imaginations, fancies, fictions, and forced dreames, which keepe the mind from a sober and peacefull consideratenesse. Multitude of opinions, like foggy vapours, mist the intellectuall faculty, and like reuerberated blastes whirle about the spirits. Hee sees some Ceremoniall deuisions in our Church, and therefore dares not stedfastly embrace that truth, which both parts without contention teach and obserue. So leaues the blessing of his mother, because hee beholds his brethren quarrelling: whiles he sees the vnreconcileable opposition of Rome and vs, which he fondly labours to atone, he forsakes both, and will now be a Church alone. Thus his brest is full of secret combates, contradictions, affirmations, negatiues, and whiles he refuseth to ioine with others, he is diuided in himselfe: And yet will rather search
+
+excuses for his vnstayednesse, then ground for his rest. He lothes Manna after two dayes feeding, and is almost weary of the Sunne for perpetuall shining. If the Temple pauements be euer worne with his visitant feete, hee will runne farre to a new Teacher: and rather then be bound to his owne parish, he will turne Recusant. He will admire a new Preacher, till a quarter of the sand is out; but if the Church dores bee not locked vp, he cannot stay out the houre: what he promiseth to a Collection to day, he forgets, or at least denies the next morning. His best dwelling would be his confined chamber, where his irresolution might trouble nothing, but his pillow. In humane matters, the cause of his variablenesse is not varied, but the object. Hee is transformable to all qualities, a temperd lumpe of waxe to receiue any forme, yet no impression stickes long vpon him. he holds it the quicknesse of his wit, to be voluble.
+               
+               
+                  Signes and Symptomes.
+                  THe signes of this disease in the body, are a mist and darkenesse, comming vpon euery light occasion. If hee see a wheele turning round, or a whirle-poole, or any such circular motion, he is affected with giddinesse. The Symptomes of the Spirituall Staggers are semblable. Hee turnes with those that turne, and is his neighbours Chameleon. He hates staiednesse as an earthen dulnesse. He prosecutes a businesse without feare or wit; and reiecting the patience to consult, falls vpon it with a peremptory heat: but like water once hot, is soonest frozen, and instantly he must shift his time and his place; neither is hee so weary of euery place, as cuery place is weary of him. He affects an obiect with dotage, and as superstitiously courts, as an Idolator his guilded block: but it is a wonder, if his passionate loue out-liue the age of a wonder, 9. daies. He
+
+respects in all things noueltie aboue goodnesse; and the childe of his owne braines, within a weeke hee is ready to iudge a Bastard. Hee salutes his wits after some inuented toy, as a Seruing-man kisseth his hand, when instantly on another plots arising, hee kickes the former out of dores. He puls downe this day what hee builded the other, now disliking the site, now the fashion, and sets men on worke to his owne vndoing. Hee is in his owne house, as his thoughts in his owne braine, transient guests: like a Haggard, you know not where to take him. He hunts well for a gird, but is soone at a losse. If hee giues any profession a winters entertainment, yet hee is whether for a penny the next Spring. He is full of businesse at Church, a stranger at home, a Scepticke abroad, an obseruer in the street, euery where a foole. To conclude, their owne vnfaithfulnesse making the Inconstant thus sick, there is an accession of the Lords plague; he addes dotage as a punishment of wilfull dotage. The Lord hath mingled a peruerse spirit in the 
+                     Esay 19. 14. 
+                     midst thereof: and they haue caused Egypt to erre in euery worke thereof, as a drunken man staggereth in his vomit.
+                  
+               
+               
+                  Cure.
+                  FOr the curing of this bodily infirmity, many remedies are prescribed: odoriferous smels in weaknesse, the opening of a veine in better strength, cupping glasses applyed to the hinder part of the head, with scarification, gargarismes and sternutatory things, together with setting the feet in hot bathes, &amp;c. To cure this Spirituall Staggers, let the Patient bee purged with Repentance for his former vnsetlednesse: let him take an ounce of Faith to firme his braines; let his repose be on the Scriptures, and thence fetch decision of all doubts; let a skilfull Physician order him, a good Minister. Let him stop his eares to rumours, and fixe his eyes on Heauen, to bee kept from
+
+distracting obiects. Let him keepe the continuall dyet of Prayer, for the Spirit of illumination; and thus he may be recouered.
+               
+            
+            
+               Madnesse and Anger. Disease 3.
+               THe next disease I would describe, is Phrenzy or Madnesse. Now though Physicians do clearly distinguish betwixt these two, Phrenzy and Madnesse; calling Phrenzy an inflammation of the braine without a Feuer; or an impostumation Galen. bred and ingendred in the pellicles of the braine, or pia mater: and Mania or Madnesse, an infection of the former cell of the head, without a Feuer: the one abusing the imagination, the other rauishing the memory; I list not to dispute or determine. That which serues my intention, is to conferre either of these passions, with a Spirituall disease of like nature, Anger. Irafuror breuis. It is a madnesse, I am sure, I am not sure how short. I doe not ask for men passionlesse, this is hominem de homine tollere. Giue them leaue to be men, not mad men. Iraoptimo loco donum Dei: &amp; magna est ars, irasciverbis praemeditatis, 
+                  Ierem. 
+                  &amp; tempore opportuno. Anger in the best sense is the gift of God, and it is no small art, to expresse anger with premeditated termes, and on seasonable occasion. God placed Anger amongst the affections ingraffed in nature, gaue it a seate, fitted it with instruments, ministred it matter whence it might proceed, prouided humours whereby it is nourished. It is to the Soule as a nerue to the body. The Philosopher cals it the Whetstone to fortitude, a spurre intended to set forward Vertue. This is simply rather a propassion, then a passion.
+               But there is a vicious, impetuous, franticke anger, earnest for priuate and personall grudges; not like a medicine to cleare the eye, but to put it out. This pernicious disease of the Soule hath degrees. 1. It is inhumane; Tygers
+
+deuoure not Tygers, this rageth against kind and kindred. 2. Impious; it rageth often against God; as that Pope vpon a field lost against the Frenchmen: Sic esto nunc Gallicus. So, turne French now, &amp;c. 3. Mad; for it often rageth against vnreasonable creatures, as Balaam striking his Asse; how much is such a man more irrationall and bestiall, then the Beast he malignes? 4. It is more then mad, striking at insensible things: as Xerxes wrote a defying letter to Athos a Thracian mountaine. Mischieuous Athos, lifted vp to heauen, make thy quarries passable to my trauell, or I will cut thee downe, and cast thee into the sea. But his reuenge was neither vnderstood, feared, nor felt. So the Affricans being infested with a North winde, that couered their corne fields with sand from a mountaine, leuied an army of men to fight with that wind; but were all buryed vnder the sand. So Darius, because a Riuer had drowned him a white Horse, vowed to cut it into so many Channels, that a woman with child might go ouer drie-shoo'd. We haue some so madly impatient with a storme, wind &amp;c. which might answere them, as Rabshaceh told the Iewes: Am I 
+                  Esay 36, 10. 
+                  come hither without the Lord? it is he that sent mee. This anger is imediatly directed against God: the heart speakes Atheisme, only in other words. 5. It is vnnaturall, for it Insanit: cum aliena nequit, sua pectora rodit. maligneth a mans selfe. It is full of consternation and amazement, and neuer vseth violence, without torment to it selfe. It thinks to offer wrong, and indeed suffers it.
+               
+                  Ipsa sibi est hostis vesania, seque furendo-Interimit. As the franticke or drunkard doe that, intoxicate, which sober, they would quake to thinke of; so these irefull, direfull men (or rather beastes) dare in their fits play with Serpents, mingle poysons, act massacres, whereat their awaked soules shudder.
+               The higher the person in whō this phrenzy raigns, the 
+                     Basil. In potestate nihil nisi potestatem respicere. greater the fault. The Master-Bee hath no sting, the rest haue: the greater power, the lesse passion. It is a Statetyrannie, in authority to minde nothing but authoritie.
+
+                  Posse &amp; nolle, nobile. It is noble to may and wil not. When a rayling wretch followed a Heathen Prince with obloquies all day, and home to his dores at night, he requited him with commaunding his seruant to light him home to his house with a torch. Damascen makes three degrees of anger; Bilem, Iracundiam, Infensionem: Choler, Wrath, heauy Displeasure. Some haue added a fourth.
+               1. The first hath a beginning and motion, but presently ceaseth; wee call this Choler. Like fire in stubble, soone kindled, and soone out. These are like gun-powder, to which you no sooner giue fire, but they are in your face. They say, these hot men are the best natur'd; but I say then, the best are naught. These are stung with a nettle, and allayd with a docke.
+               2. The second is not so soone conceiued, but takes deeper holde in the memorie. This fire is neither easily kindled, nor easily put out: like fire in Iron, which hardly taking, long abideth. These men are like greene logges, which once set on combustion, continue burning day and night too.
+               3 The third entertaine this fire sodainly, and retaine it perpetually, not desisting without reuenge. These are like fire, which bewrayeth not it selfe without the ruine and waste of that matter wherin it hath caught: this worst.
+               4 The fourth is a moderate Anger, not soone incensed, but quickly appeased: and this is the best, because likest to the disposition of God, who is mercifull and gracious, 
+                  Psal. 103. 8. 
+                  slow to anger, and plenteous in mercie, ready to forgiue.
+               
+                  Causes.
+                  
+                     PHrensie is caused by abundant bloud, or choler occupying the braines or the filmes therof: the more adust this choler is, the more pernicious the madnes. The cause of anger, is the giuing to Passion the dominion ouer Reason.
+
+                     Seneca sayes, Causa iracundiae opinio iniuriae est: the cause of anger is the conceit of iniurie. Such a man gets vp on De ira lib. 1. cap. 22. the wilde Iade his choler, and spurres him on, hauing no bridle of moderation to hold him backe. His conuersation is so full of cholericke fits, as a booke of tedious parentheses, that they marre the sense of his life. He is like an egge in rosting, hopefull to be good meate, but it growes too hot on a sodaine, and flyes in your face not without a great noyse. Anger is able to turne Dametas into Hercules furens, teaching him that is strong to fight, him that is not Ira forti producit lacertes, imbelli linguam. to talke: whilest the lightning of his rage lasts, hee thunders out a challenge, but after a little calme meditation, sounds a retreat. He menaceth the throtes of his enemies, though they be many, and sweares loud hee will be their Priest, hee meanes Executioner. But if you compare his threatnings and his after-actions, you would say of them, as that wise man sheering his hogges: Here is a great deale of crie, but a little wooll. His enemies are worse feared then hurt, if so they be in personall presence, as he is in sober iudgement a little out of the way.
+               
+               
+                  Signes and Symptomes.
+                  THe Phrensie is easily seene, and needs not to be described by signes. Physicians giue many, I will say no more but this. If the madnesse proceed from bloud, they are perpetually laughing; if of choler, they rage so furiously, that bands only can restraine them from doing violence. The Symptomes of this spirituall madnesse, rash and furious anger, are many, visible and actuall.
+                  1. Swelling of mind so high and so full, that there is no room for any good motion to dwel by it. Iratumor mē
+                        tis, and makes a man like the Spider-poyson'd toade. In this raging fit, Reason, Modesty, Peace, Humanitie, &amp;c. runne from him, as seruants from their mad master, or Mise
+
+from a Barne on fire. 2. Contumely without any distinguishing respect of friend, fōe, aliant, familiar, reuiles any, fratrem
+                           
+                              
+                           
+                           que
+                        , patrem
+                           
+                              
+                           
+                           que
+                        . 3. Violence of hands, sauage and monstrous behauiour: Like the troubled Sea, when it 
+                     Esay. 57. 20. 
+                     cannot rest, whose waters cast vp mire and dirt: fuming and foming, like a muddy channell: a distorted countenance, Sen. de. ira. Lib. 1. Cap. 1. sparkling eye, foule language, hasty hands. If the angry man, and the drunkard had a glasse presented them, how hardly could they be brought againe to loue their owne faces!
+               
+               
+                  Cure.
+                  TO cure this Bedlam passion, (leauing the other to deeper iudgements in that profession) both nature and Grace haue giuen rules. Naturall reason; that an angry man should not vndertake any action or speech, till hee had recited the Greeke Alphabet; as a pause to coole the heate of choler. That angry men should sing to their passions, as Nurses to their Babes 
+                        〈 in non-Latin alphabet 〉
+                      
+                     haste not, cry not. Maximum remedium est irae, mora. The best remedy for Anger is delay. What a man doth in anger, Sen. de ira. Lib. 1. Cap. 28. hee lightly repents in cold bloud.
+                  That we should keepe our corrupt nature from prouoking obiects, as a man that hath Gunpowder in his house, keepes it safe from fire. That we should conster all things in the best sense: a good disposition makes a good exposition, where palpablenesse doth not euince the contrary. That suspicion is a payre of bellowes to this madde fire. That Ielousie and selfe-guiltinesse are the angry mans Eues-dropper and Intelligencer. That the Earth suffers vs liuing to plow furrowes on her backe, and dead, opens her bowels to receiue vs: a dead earth conuincing a liuing earths impatience. Scripture. That anger resteth in the bosome of fooles. That the wrath of man doth not accomplish
+
+the righteousnesse of God. That vnaduised anger is culpable of iudgement. Let him take some herbe of Grace, an ounce of Patience, as much of Consideration how often he giues God iust cause to be angry with him; and no lesse of meditating how God hath a hand in Shimeies rayling, that Dauid may not bee angry: mixe all these together with faithfull confidence, that God will dispose all wrongs to thy good; hereof be made a pill to purge choler. To conclude, let reason euer be our Iudge, though passion sometimes be our sollicitour.
+
+                        Parit ira furorem;
+                        Turpia verba furor, verbis ex turpibus exit
+                        Ira, ex hac oritur vulnus de vulnere lethum.
+                        
+                           Wrath kindles fury, fury sparkes foule words,
+                        
+                        
+                           Those let out wounds and death with flaming swords.
+                        
+                     
+                  
+               
+            
+            
+               Enuie a consumption. Disease. 4.
+               
+                  ENuie fitly succeeds anger, for it is nothing else but inueterate wrath. The other was a franticke fit, and this is a consumption; a languishing disease in the body, the beginning of dissolution, a broching of the vessell, not to be stopped till all the liquor of life is run out: what the other tabe is in the body, I list not to define, by reason that this spiritual sicknesse is a consumption of the flesh also, and a pining away of the spirits: now since they both haue relation to the body, their comparison would be confusion. Enuie is the consumption I singularly deale withall, which though I cannot cure, I will hopefully minister to.
+               
+                  Cause.
+                  THe cause of Enuie, is others prosperitie; or rather an euil eye shot vpon it. The angry man hath not himself, the enuious must haue no neighbour. Hee battens at the
+
+maligneds misery; and if such a man riseth, he fals as if he were Planet-strucke. I know not whether he could indure to be in Paradise with a superiour. He hates to bee happy with any company. Enuie sits in a mans eyes, and wheresoeuer through those windowes it spyes a blessing, it is sicknesse and death vnto it. Inuidus petat a Ioue priuari vno oculo, vt auarus quòd priuetur ambobus. The enuious man would have happily one of his eyes put out, as the couetous should lose both. A Physician beeing asked what was the best helpe to the perspicuity of the eyes, affirmed, Enuy: for that like a perspectiue glasse would make good things appeare great things.
+
+                        Fertilior seges est alienis semper in agris;
+                        Uicinum
+                              
+                                 
+                              
+                              que
+                            pecus grandius vber habet. Ouid.
+                        
+                     
+                  
+                  He is euen quarrelling with God, that his neighbours field beares better corne, and thinkes himselfe poore, if a neere dweller be richer. Hee will dispraise Gods greatest blessings, if they fall besides himselfe: and grow sullen (so farre as he dares) with the Prince, that shal promote a better deseruer. There is no law perfect, if hee was not at the making it. Hee vndertakes a great worke, and when hee cannot accomplish it, hee will giue leaue to none other. No man shall haue that glory, which hee aspired and missed. An Aesops dog in the manger; because he can eate no hay himselfe, hee will starue the horse. Poyson is life to a Serpent, death to a man: and that which is life to a man, his humidity and spettle, they say is death to a Serpent: the rancorous sustenance which a malicious man liues of, is the misery and mischiefe to a good man; and a good mans prosperous felicity is the malicious mans death. God hath in iustice appointed it to be a plague to it selfe. Among all mischiefes it is furnished with one profitable qualitie; the owner of it takes most hurt. Carpit
+                           
+                              
+                           
+                           que
+                        , &amp; carpitur vna: supplicium
+                           
+                              
+                           
+                           que
+                         suum est.—vt Aetna seipsum,
+                  
+                  
+                     Sic se non alios, inuidus igne coquit.
+                  
+                  The enuious is a man of the worst diet, and like a strange
+
+Cooke, shewes himselfe; nay, and conceates pleasure in pining: so that his body, at last, hath iust cause to sue his soule on an action of dilapidations. He finds fault with all things, that himselfe hath not done. He wakes, whiles his enemie takes rest. Parum est, si ipse sit foelix, nisi alter fuerit infoelix. His affections are like lightning, which commonly Feriunt summos fulgura montes. scorch the highest places. He creepes like a Canker to the fairest flowers. By putting in a superfluous syllable, he hath corrupted one of the best words, turning amorem into amarorem, loue into bitternesse. A Philosopher seeing a malicious man deiected, asked him, whether some euill had happened to himselfe, or some good to his neighbour.
+               
+               
+                  Signes and Symptomes.
+                  THe Signes of this disease are giuen by the Poet.
+
+                        —videt intus edentem
+                        Vipereas carnes, vitiorum alimenta suorum. Met. 2.
+                        
+                        Pallor in ore sedet, macies in corpore toto;
+                        Nunquam recta acies; liuent rubigine dentes:
+                        Pectora felle virent, lingua est suffusa veneno.
+                     
+                  
+                  A pale face without bloud, and a leane body without any iuyce in it, squint eyes, black teeth, a heart full of gall, a tong tipp'd with poison. Amazednes makes the face pale, griefe drinkes vp the bloud, looking on mens prosperitie makes the eyes squint, and cursing, the teeth blacke. It were well for him on earth, that he should dwell alone. It is pittie hee should come into heauen; for to see one starre excel another in glory, would put him againe out of his wits. I wonder, when he is in hell, whether hee would not still desire superiority in anguish, &amp; to sit in the chaire, though he receiue the more torments. The enuious man is so crosse to God, that he is sure of punishment: hee hath in present one like to the nature of his offence. For his sinne, whereas GOD brings good out of euill, hee brings euill out of good. For his punishment, whereas
+
+euen euill things worke together to the good of the good, euen good things worke together to his euill. All the happinesse lights on him that is enuied; for it goes well with him, with whom the malicious thinkes it goes too well.
+               
+               
+                  Cure.
+                  HIs Cure is hard, euen as with a tabe in the body: too much Physicke makes him worse. Crosses are fitly called Gods physicke; whereby if God will cure him, hee must minister them to those hee hates. Strange! that one man should bee healed, by giuing physicke to another. Two simples may do him good, if he could bee wonne to take them: a scruple of content, and a dramme of charity. If these be giuen him, (well stirred) in a potion of repentant teares, he may be brought to wish himselfe well, and others no harme, and so be recouered.
+               
+            
+            
+               Idlenesse, the Lethargie. Disease 5.
+               
+                  IDlenesse in the soule is a dangerous disease as the Lethargie in the body. The very name of Lethargie speakes the nature: for it is compounded of 
+                     〈 in non-Latin alphabet 〉
+                   
+                  forgetfulnesse, and 
+                     〈 in non-Latin alphabet 〉
+                   
+                  slothfull; and so consequently is defined to be a dul obliuion. The Idle man is a piece of base heauy earth, moulded with muddy and standing water. Hee lyes in bed the former halfe of the day, deuising excuses to preuent the afternoones labour. Hee cannot endure to doe any thing by himselfe, that may be done by Attourney. Hee forestalls perswasion inducing him to any worke, by forecasting the vnprofitablenesse: he holds businesse mans cruellest enemie, and a monstrous deuourer of time. His body is so swolne with lazy humours, that he moues like a tunne vpon two pottle pots. Hee is tempted to couetice, for no other reason, but to bee able to keepe seruants; whom hee
+
+will rather trust, then step out to ouersee. Neither summer nor winter scape the blame of his lazinesse: in the one it is too hot, in the other too colde to worke. Summer hath dayes too long, winter nights too cold; hee must needes helpe the one with a nap at noone, the other with a good fire. He was very fit to be a Monke: spare him an early masse, and he will accept it: yet howsoeuer, he wil rather venture the censure, then forsake a lazy calling.
+               
+                  Cause.
+                  THe Cause of the Lethargie is abundant flegme, ouermuch cooling the braine, and therby prouoking sleep; which putrified in the braine, causeth a feuer. The cause of Idlenesse is indulgence to the flesh, a forgetfulnesse of the end of our creation, a wilfull digression from man: for the lazy wretch is a dormouse in an humane huske. To man motion is naturall, the ioints and eyes are made to moue; and the mind is neuer asleep, as if it were set to watch the body: Sleepe is the image of death, sayth the Poet: and therefore the Church-sleeper is a dead corps, set in his pew like a coffin, as if the Preacher were to make his funerall Sermon. He sings out haruest like the Grashopper; therfore may at Christmas dance for and without his dinner. He riseth at noone to breakefast, which he falls to vnwashed, and remoues not out of his chaire without a sleepe. Whilst hee sleepes, the enemy ouersowes the field of his heart with tares. Hee is a patient subiect for the diuell to worke on, a cushion for him to sit on, and take his ease: his miserie is, that his damnation sleepeth not. His bed is his hauen, his heauen, and sound sleepe his deitie.
+
+                        The standing water stinkes with putrefaction: Du Bart.
+                        
+                        And vertue hath no vertue, but in action.
+                     
+                  
+                  If he be detain'd vp late, he lyes downe in his cloathes, to saue two labours: nothing shall make him bustle vp in the night, but the house fired about his eares; which escaping,
+
+he lyes downe in the yard, and lets it burne. Hee should gather mosse, for he's no rolling stone. In this hee is a good friend to his Countrey, he desires no innouation: he would scarse shift ground tenne leagues, though from a cottage to a Mannour. He is so loth to leaue the tap-house in winter, that when all leaue him, he makes bold with the chimney corner for his Parlour. If euer (in a 
+                        ••
+                     gne) hee lights vpon a humour to businesse, it is to game, to cheate, to drinke drunk, to steale, &amp;c. and falls from doing nought to doe naughtily; so mending the matter, as you haue heard in the fable, The diuell mended his dames legge; whē he shuld haue put it in ioint, he brake it quite apieces.
+               
+               
+                  Signes and Symptomes.
+                  
+                     SYmptomes of the Lethargie are a great pulse, beating seldome, as if it were full of water; a continuall pronenesse to sleepe, that they are scarcely compelled to answer a question. You may know a lethargicall Idle man, by a neglected beard, vnkemb'd hayre, and vnwash'd face, foule linnen, cloathes vnbrushed, a nasty hand smelling of the sheete, an eye opening when the eare receiues your voice, and presently shut againe; as if both the organs were stiffe with excretions. Hee hath a blowne cheeke, a drawling tongue, a leaden foote, a brazen nose: he gapes and gaspes so often, that sometimes hee keepes his mouth open still, as if he had forgotten to shut it.
+               
+               
+                  Cure.
+                  TO cure the Lethargicke, there are required many intentions; not without frictions, scarifications, sharpe odours, and bloud-letting, &amp;c. To cure the Idle, it should more properly belong to Surgery then Physicke; for there is no medicine like a good whip, to let out his lazy bloud; and a good dyet of daily labour, which some skilfull Bedle
+
+must see him take; put him into the bath at Bridewell, to take away the numnesse of his ioynts, and scowre off his rust, and so he may be recouered.
+
+                        Fac bene, fac tua, fac aliquid, fac vtile semper:
+                        Corrumpunt mores otia praua bonos.
+                     
+                  
+               
+            
+            
+               The Dropsie and Couetousnes, Causes. Disease. 6.
+               PHysicians say, that the Dropsie is an errour in the digestiue vertue in the liuer, bred of the abundance of salt and waterish flegme, with the ouer-feeding of raw and moist meates. It is distinguished into three sorts, Ascites, Tympanites, and Anasarca, or Hyposarca. Ascites is, when betweene the filme called Peritonaeum (which is the Caule that couers the Entrailes) much watery humour is gathered. Tympanites ariseth from windinesse and flatuous causes gathered into the foresaid places. Hyposarca is, when the humours are so dispersed through the whole body, that all the flesh appeares moyst and spungy. Our spirituall Dropsie couetousnesse, is a disease bred in the soule, through defect of faith and vnderstanding. It properly resides in the inferiour powers of the soule, the affections; but ariseth from the errours of the superiour intellectuall facultie; neither conceiuing aright of Gods all-sufficient helpe, nor of the worlds all-deficient weakenesse.
+               
+                  Signes.
+                  THe corporall Dropsie is easily knowne by heauinesse, swelling, puffing vp, immoderate desire of drinke, &amp;c. The spirituall likewise (though it leanes the carkasse) lards the conscience; at least swels and puffes it vp: and as if some hellish inflammation had scorched the affection, it thirsts for Aurum potabile without measure. The Couetous man is of Renodaeus his opinion, that argentum plurimum valet ad cordis palpitationem, siluer is good against the heart-panting. The Wise man cals it a disease, an-euill disease, and almost Eccles. 6. 2.
+                     
+incurable. The Couetous hath drunke the blood of oppression, wrong from the veines of the poore: and behold, like an vndigestible receit, it wambles in hisstomack; he shal not feele quietnesse in his belly. This is an epidemiall sickenesse.
+                     
+                        Aurum omnes, victa iam pietate, colunt.
+                        
+                           Religion giues riches, and riches forgets religion.
+                        
+                        Religio dat opes, paupertas Religionem:
+                        Diuitiae veniunt, Religio
+                              
+                                 
+                              
+                              que
+                            fugit.
+                     
+                  
+                  Thus doe our affections wheele about with an vnconstant motion. Pouertie makes vs Religious, Religion rich, and riches irreligious. For as, Pauperis est rogare, so it should be Diuitis erogare. Seneca wittily and truly, Habes pecuniam? vel teipsum vel pecuniam habeas vilem necesse est. Hast thou money? either thou must esteeme thy money vile, or be vile thy selfe. The Couetous man is like a two-legd Hog: whiles he liues, he is euer rooting in the earth, and neuer doth good, till he is dead; like a vermine, of no vse till vncased. Himselfe is a Monster, his life a riddle: his face (and his heart) is prone to the ground; his delight is to vex himself. It is a question whether he takes more care to get damnation, or to keepe Curans quasi corvrens. Auarus quasi auidus aeris. it; and so is either a Laban or a Nabal, two infamous churls in the old Testament, spelling one anothers name backeward. He keeps his god vnder lock and key, and somtimes for the better safety, in his vncleane vault. He is very eloquently powerfull amongst his poore neighbours; who for awfull feare listen to Pluto, as if he were Plato. He preuails very farre when he deales with some officers; as a Pharisee with Christs Steward, Tantum dabo, tantus valor in quatuor syllabis: so powerfull are two words. He preuailes like a sorcerer, except he light vpon a Peter: Thou and thy money be damned together. His heart is like the East Indian ground, Acts 8. where all the mines bee so barren, that it beares neither grasse, herbe, plant, nor tree. The lightnesse of his purse giues him a heauy heart, which yet filled, doth fill him with more cares. His medicine is his malady: he would quench his auarice with money, and this inflames it, as oyle feeds
+
+the lampe, and some harish drinkes increase thirst. His proctour in the law, and protector against the law, is his money. His Alchymie is excellent, he can proiect much siluer, and waste none in smoke. His Rhetoricke is how to keepe him out of the Subsidie. His Logicke is to prooueheauen in his chest. His Mathematicks, Omnia suo commodo, non honestate mensurare, to measure the goodnesse of any thing by his owne profite. His Arithmaticke is in Addition and Multiplication, much in Substraction, nothing in Diuision. His Physicke is to minister gold to his eye, though he starue his body. His Musicke is Sol, re, me, fa: Sola res me facit; that which makes me, makes me merry. Diuinitie he hath none: Idolatry enough to his money: Sculptura is his Scriptura, &amp; he hath so many Gods as images of coin. He is an il haruest man, for he is all at the rake, nothing at the pitchfork. The diuell is a slaue to God, the world to the diuell, the couetous man to the world; he is a slaue to the diuels slaue; so that his seruant is like to haue a good office. He foolishly buries his soule in his chest of siluer, when his body must be buried in the mould of corruption. When the Fisher offers to catch him with the Net of the Gospell, he strikes into the mudde of Auarice, and will not be taken. The Dropsie of his 
+                        〈 in non-Latin alphabet 〉
+                      doth Senectute iuuenescere. Cicero calleth it 1. Tim. 6. 10 De Senect. an absurd thing, Quò minus viae restat, eò plus viatici quaerere. He sels his best graine, and feeds himselfe on mouldy crusts: he returnes from plough, if hee remember that his cupboord was left vnlockt. If once in a Raigne he inuites his neighbors to dinner, he whiles the times with friuolous discourses, to hinder feeding; sets away the best dish, affirming it will bee better cold: obserues how much each guest eateth, and when they are risen and gone, falleth to himselfe, what for anger and hunger, with a sharpe appetite. If he smels of Gentility, you shall haue at the nether end of his boord a great Pasty vncut vp, for it is filled with bare bones; somewhat for shew, but most to keepe the nether messe from eating. Hee hath sworne to die in debt
+
+to his belly. He deducts from a seruants wages the price of a halter, which hee cut to saue his master, when hee had hung himselfe at the fall of the market. He lends nothing, nor returnes borrowed, vnlesse it be sent for; which if hee cannot deny, he wil delay in hope to haue it forgotten. To excuse his base and sordid apparrell, hee commends the thriftinesse of king Henrie, how cheape his clothes were. His fist is like the Prentices earthen boxe, which receiues all, but lets out nothing til it be broken. He is in more danger to be sand-blinde, then a Goldsmith. Therefore some call him anidum, a non videndo. Hee must rise in the night with a candle to see his corne, though hee stumble in the So did a wretched cornehoorder. Prodigus non habebit, sed auarus non habet. straw and fire his barne. He hath a lease of his wits, during the continuance of his riches: if any crossestarts away them he is mad instantly. He would flay an Asse for his skin, and like Hermocrates dying, bequeath his owne goods to himselfe. His case is worse then the prodigals: for the Prodigal shall haue nothing hereafter, but the Couetous hath nothing in present.
+               
+               
+                  Cure.
+                  FOr his cure much might bee prescribed; specially as they giue in the corporall Dropsie, purge the humour that feeds it. When the Couetous hath gotten much, and yet thirsts, a vomit of confiscation would doe well, and set him to get more. It was a good morall instruction that fell from that shame of Philosophy Epicurus, the course to make a man rirh, is not to increase his weath, but to restraine 
+                     Si quem diuitem efficere voles, non est quod opes augeas, sed tollas cupiditatem. 
+                     his couetous desires. The Apostles counsell is to fly it, and all occasions, occupations that may beget or nourish it. Remember, saith a Schooleman, that though homo be de terra, &amp; exterra, yet non ad terram, nec propter terram. Man is on the 
+                        Eph. 5. Lomb. Polychron. lib. 5. cap. 10. earth, of the earth, but not for the earth, &amp;c. I haue read of one Iohn Patriark of Alexandria, asparing and strait-handed
+
+man, that being earnest at his prayers, there appeared to him a Uirgin with a crowne or garland of Oliue leaues: he desiring to know her name, she called her selfe Mercie: requiring her intent, she requested him to marry her, promising him much prosperitie on that condition. Hee did so, and found himselfe still the richer for his mercifull deedes. She may offer her selfe long enough in these dayes ere she be taken. Mercie may liue a mayde, for no man will marry her. Valerius Maximus speakes of one Gilianus, a famous Romane, that besides hospitality to strangers, paid the taxes of many poore, rewarded deserts vnsued to, bought out the seruitude of captiues, and sent them home free: how few such like can an English Historiographer write of? I would we had such a Gilianus amongst vs, so it were not from Rome. Well then, let the Couetous remember his end, and the end of his riches, how certaine, how vncertaine they are! And intend his couertice to a better obiect. Quis alius noster est finis, quam peruenire ad regnum cuius nullus est 
+                     Aug de ciuit. lib. 22. cap. 30. 
+                     finis? What else should bee our end, saue to come to the kingdome that hath no end! His cure is set downe by God: I leaue the receate with him. They that will be rich, fall into 
+                     1. Tim. 6. 9. 10. 11. 17. 
+                     temptation and a snare, and into many foolish and noysome lusts, which drowne men in perdition and destruction. For the loue of money is the roote of all euill, &amp;c. But thou, O man of God, flie these things, and follow after righteousnesse, &amp;c. Charge them that are rich in this world, that they bee not high minded, nor trust in vncertain riches, &amp;c. but that they be rich in good works, &amp;c. The place is powerfull; let the Couetous reade, obserue, obey, repent, beleeue, and be saued.
+               
+            
+            
+               Vsurie, and Caninus appetitus, or the dog-like appetite. Disease 7.
+               NExt to the Dropsie of Couetice, I would place the immoderate hunger of Usurie; for as the one drinks,
+
+so the other feedes to satisfie; and the former is not more thirsty after his cupping, then the latter is hungry after his deuouring. Some haue compared Usurie to the Gout, (by reason of that diseases incidency to Vsurers) which is an vnnatural humour flowing to the extreame parts. It is either Arthritis, an articular disease, which we call a ioyntsickenesse: or Podagra, a paine inuading the ioynt of the great toe, or the heele, or some inferiour parts of the foote: this like a strong charme bindeth a man to his chayre. Musculus sayes, that Diuines shall reforme Vsurie, when Physicians haue cured the Gout: the sinne and the disease are both incurable. And that will one day racke the conscience, as this the sinewes. Herein the meerely Couetous and the Vsurer differ: the Couetous to be rich, would vndergoe any labour, the Vsurer would be rich, yet vndergoe no labour; therfore like the gout-wrung, desires to sit stil. I haue thought fitter to compare it with the dog-like appetite; which cannot refrain from deuouring meat without measure; which the stomake not able to beare, they fall to vomiting like Dogs: hence againe hunger is excited to more meate, and much meate prouokes spewing: so that their whole life is nothing else but a vicissitude of deuouring and vomiting.
+               
+                  Causes.
+                  IT is caused through colde distemper of the stomake, or through vicious and sharpe humours, which gnaw and sucke the mouth of it: or through vnmeasurable dissipation of the whole body, which lightly followes the weaknes of the retentiue vertue. This animall hunger is raised partly from the coldnes of the heart, for there is no charitie to warme it; partly from corrupt affections, which like vicious humours gnaw and suck the conscience dry of all viuiditie, whether of grace or humanity; partly through
+
+the weake retention of any good instruction, whether from the Scriptures of God, or writings of sobermen.
+               
+               
+                  Signes and Symptomes.
+                  THe corporal disease is easily perceiued, by insatiate feeding, which yet ministers almost no vertue to the body, but it is rather made lean, and wasted therwith; the skinne is rarefied, the body made fluid and apt to much egestion, &amp;c. An Vsurer is knowne by his very lookes often, by his speeches commonly, by his actions euer. Hee hath a leane cheeke, a meagre body, as if hee were fedde at the diuels allowance. His eyes are almost sunke to the backeside of his head with admiration of money. His eares are set to tell the clocke; his whole carkase a meere Anatomie. Some Usurers haue fatter carkases, and can finde in their hearts to lard their flesh, but a common meagernesse is vpon all their consciences. Foenus pecuniae, funus animae. Some spinne Usurie into such fine threeds of distinction, that they take away all the names whereby it offends: and because R. is a dogged letter, and they conceiue a toothlesse practice, Interest, Usury, and all termes with R. in them shall be put out: and the Usurer shall be called only, one that liues vpon his moneies. All his reaches are at riches: his wit workes like a Mole, to digge Moral. par. 2. himselfe through the earth into hell. Plutarch writes strangely of Hares, eodem tempore &amp; parere, &amp; alere, &amp; alios concipere foetus; at one time to bring forth, nourish and to conceiue. Your Usurer makes his money truly do al these Populus me si bulat at mih plaudo ipse domi. Hor. at once. He drownes the noyse of the peoples curses, with the musicke of his money; as the Italians in a great thunder, ring their bels, and shoote off their Cannons, by an artificiall noyse of their owne, to dead the naturall of broken cloudes. His practice mockes Philosophy, Quòdex nihilo nihil fit, and teaches of nothing to get something. He is a ranke Whore-master with his mistresse Pecunia, and
+
+liues vpon the lechery of mettals. He doth that office for the Diuell on earth, that his spirits doe in hell, whip and torment poore soules. His blowes are without fense; except men (as Strepsiades desired) could plucke the Moone out of the skies, his month and day will come.
+                  Nature hath set a pitch or terme in all inferiour things, when they shall cease to increase. Old cattell breede no longer; doted trees deny fruit: the tired earth becomes barren: only the Usurers money, the longer it breeds, the lustier; and a hundred pounds put out twenty yeeres since, is a great great Grand-mother of two or three hundred children: pretty striplings, able to beget their mother againe in a short time.
+
+                        Each man to heauen his hands for blessing reares;
+                        Only the Vsurer needs not say his prayers.
+                        Blow the Wind East or West, plenty or dearth,
+                        Sicknes or health, sit on the face of earth,
+                        He cares not: Time will bring his money in:
+                        Each day augments his treasure and his sinne.
+                        Be the day red or blacke in Calender,
+                        Common, or holy fits the Vsurer.
+                        
+                        He starues his carcase; and true money's slaue,
+                        Goes with full chests, and thin cheekes to his graue.
+                     
+                  
+                  Hee hath not his gold so fast, as his gold him. As the couetous takes away the difference betwixt the richest Mine and basest mould, vse: so this pawne-groper spoiles all with ouer-vsing it. It is his ill luck that the beames of wealth shine so full vpon him: for riches like the sunne fires and inflames obiects that are opposed in a diameter, though further remoued; but heateth kindly, when it shines vpon a man latetally, though neerer. He shrinks vp his guts with a staruing diet, as with knot grasse; and puts his stomake into his purse. He sels time to his customers, his food to his coffer, his body to languishment, his soule to the Diuell.
+               
+               
+                  
+                  Cure.
+                  HIs Cure is very desperate: his best reprehension is deprehension: and the best purge is to purge him out of the land. Hiera picra Galeni is a soueraigne confection to clarifie him. Let him be fed, as Physicians prescribe in the cure of the corporall disease, with fat suppings: and let him drink abundantly, till he forget the date of his bonds. Turne him out from the chimny-corner into some wildernesse, that he may haue a cold and perspirable aire. Giue him a good vomit of Stibium, till he hath spued vp his extortions. Let his dyet-drinke be repentance, his dayly exercise restoring to euery man his gotten interest. Giue him a little Opium, to rocke his cares a sleepe: and when he is cold, make him a good fire of his Bils and Bonds. Giue him a Iulep of the Gospel, to beget in him the good blood of faith. If nothing worke with him, let him make Psal. 15. his will, and heare his sentence, that hee shall neuer dwell with the blessed.
+                  
+               
+            
+            
+               Pride and the Pleurisie, Disease 8.
+               THe Pleurisie is defined to be an inward inflammation of that vpper skinne, which girdeth the sides and the ribbes: and therefore is called dolor lateralis. Pride is a pursie affection of the soule, Lege, modo, ratione carens: Without law, for it is rebellious: without measure, for it delights in extreames: without reason, for it doth all things with precipitation. The proud man is bitten of the mad dogge, the flatterer, and hence runs on a garget.
+               
+                  Causes.
+                  THe Pleurisie is caused of an abundance of hote blood flowing vnnaturally to the foresayd place: or by the engendring of cold, grosse, and viscous humours, gathered
+
+into the voyd place of the brest, or into the lungs. This spirituall disease ariseth from a blown opinion of ones selfe: which opinion is either from ignorance of his owne emptinesse; and so like a Tumbrell full of nothing but aire, makes a greater sound, then a vessell of precious liquour: or from arrogance of some good, which the owner knows too well. He neuer lookes short of himselfe, but always beyond the mark, and offers to shoote further then he looks, but euer fals two bowes short, humilitie and discretion.
+               
+               
+                  Signes and Symptomes.
+                  THe Symptomes of the Pleurisie are difficult breathing, a continuall Feuer, a vehement pricking on the affected side. The proud man is knowne by his gate, which is peripateticall, strutting like a new Church warden. He thinkes himselfe singularly wise, but his opinion is singular, and goes alone. In the company of good wits he fenceth in his ignorance with the hedge of silence, that obseruation may not climbe ouer to see his follies. He would haue his iudgment for wearing his apparell passe vnmended, not vncommended. Hee shifts his attire on some solemne day twice at least in twelue houres; but cannot shift himselfe out of the Mercers bookes once in twelue moneths. His greatest enuy is the next Gentlemans better clothes: which if he cannot better or equallize, he weares his owne neglected. His apparell carries him to Church, without deuotion, and he riseth vp at the Creed to ioyne with the rest in confession, not of his faith, but his pride: for sitting downe hides much of his brauery. He feeds with no cheerfull stomake, if he sit not at the vpper end of the table, and be cald young master, where he is cōtent to rise hungry, so the obseruant company weary him with drinking to: on this condition he giues his obligation for the shot. Hee loues his lying glasse beyond any true friend; and tels his credulous auditors, how many Gentlewomen haue runne
+
+mad for him: when if a base femall seruant should court him, I dare wager, he proues no Adonis. If he were to die on the block as Byron, he would giue charge for the composition of his lockes.
+               
+               
+                  Pride.
+                  
+                     PRide is of the feminine gender; (therefore the more intolerable in a masculine nature:) much Ciuet is vnsauory: Nō bene olet, quae bene semper olet. She that breaths perfumes Ierom. artificially, giues her selfe to haue naturally corrupted lungs. This woman hath neither her owne complexion nor proportion: for she is both painted, and poynted together. She sits moderator euery morning to a disputatiō betwixt the combe and the glasse: and whether concludes best on her beauty, caries her loue and prayse. Howsoeuer, of men saith the Poet: Forma viros neglecta decet. Indeed Amor. there is no gracefull bahauiour like humilitie. This fault is well mended, when a man is well minded: that is, when he esteemes of others better then himselfe. Otherwise a proud man is like the rising earth in montenous places: this swels vp monte, as he mente: and the more either earth aduanceth it selfe, perpetually they are the more barren. Hee liues at a high saile, that the puffy praises of his neighbors may blow him into the inchanted Iland, vaineglory. He shines like a Gloeworme in a darke village, but is a crude thing when he comes to the Court. If the plethorie swels him in the veine of valour, nothing but well-beating can hold him to a man. If euer hee goes drunke into the field, and comes off with a victorious parlee, hee would swell to a sonne of Anak.
+                  
+               
+               
+                  Cure.
+                  THe Pleurisie is cured by drawing out some bloud frō the veine, that hath relation to the affected part. A
+
+Clister is very good, together with some fomentations. It is helped much by cupping, I doe not meane, drinking. God prescribes the cure of Pride, by precept and patterne. Precept. Humble your selues vnder the mighty hand of God: the reason is giuen; for God resisteth the proud, and giueth grace 
+                     1. Pet. 5. 6. 
+                     to the humble. Patterne. Take my yoke vpon you, and learne of me, for I am meeke and lowly in heart; and you shall find rest vnto 
+                     Mat. 11. 29. 
+                     your soules. The Master is worth your hearing, the lesson your learning, the recompence your receiuing. The cure hereof is hard, for all vices are against humilitie: nay, all vertues are against humilitie; as many are proud of their good deeds: nay, humilitie hath an opposition against humilitie, as if she were false to her owne person. Saepe homo de vanae gloriae contemptu vanus gloriatur: so that often, humility by a prodigious and preposterous birth, brings forth pride. Pride doth make a wise-man a foole; cōtinues him a foole, that is so; the opinion of his owne wisedome excluding all opportune possibility of receiuing knowledge. Powre precious iuice into a vessell full of base liquor, and it runs besides. That instruction is split, which you offer to infuse into a soule so full of selfe affectation. Many a man had proued wise, if he had not so thought himselfe. If the ayre of his pride bee inclosed in a baser bubble, attire, it is the more vile: for the generation of his sinne is produced from the corruption of himselfe. God made him a man, he hath made himselfe a beast; and now the Taylor (scarce a man himselfe) must make him a man againe: a braue man, a better man than euer Nature left him. Thus he is like the Cynamon tree, the bark is better then the body; or some Vermine, whose case is better then the carkase.
+                  For his cure, open his pleuriticke veine with the sacrificing knife of the Law; and tell him, that the cause of his pride is the effect of his sinne. That wickednesse brought shame to nakednesse, and apparell hides it; whereof being proud, he glories in his own halter. Strip him of his gawdy clothes, and put him in a Charnel house, where he may
+
+reade visible lectures of mortality and rottennesse.
+               
+            
+            
+               Palsey and timorous suspicion. Disease 9.
+               THe former sicke were Tumidi, these are Timidi: they were bold to all euill, these are fearefull to all good. The palsey is a disease, wherein one halfe of the body is endamaged in both sense and mouing. Of that disease which is called Paralysis, Resolution, or the dead palsey, wherin somtimes sense alone is lost, somtimes motion alone, and somtimes both together perish, I intend not to speake. It is (proportion considered) more dangerous to the body, then I would imagine this disease to be to the soule. I would cō
+                  pare it to that corporal infirmity, which Physicians call Tremorem, and some vulgarly the palsey; wherein there is a continuall shaking of the extremer parts: somewhat aduerse to the dead palsey: for that takes away motion, and this giues too much, though not so proper and kindly. This spirituall disease is a cowardly fearefulnesse, and a distrustfull suspicion, both of actions and men. He dares not vndertake, for feare of hee knowes not what: he dares not trust, for suspicion of his owne reflection, dishonestie.
+               
+                  Cause.
+                  THis euill in the body is caused generally through the weaknesse of the sinewes, or of the cold temperature of nature, or accidentally of cold drinke taken in Feuers. Old age and feare are not seldome causes of it. This spirituall palsey ariseth either from the weaknesse of zeale, and want of that kindly heate, to be affected to Gods glory, or from consciousnesse of selfe-corruption, therby measuring others. The first is Fearefulnesse, the second Distrustfulnesse.
+                  
+               
+               
+                  
+                  Signes and Symptomes.
+                  THe Signes of the palsey are manifest; of this not very close and reserued. He conceiues what is good to be done, but fancies difficulties and dangers, like to knots in a bul-rush, or rubbes in a smooth way. Hee would bowle well at the marke of Integrity, if he durst venture it. Hee hath no iourney to goe, but either there are bugges, or he imagines them. Had he a pardon for his brother (being in danger of death) and a Hare should crosse him in the way, he would no further, though his brother hang'd for it. He owes God some good will, but he dares not shew it: when a poore plaintiffe cals him for a witnesse, hee dares not reueale the truth, lest he offend the great aduersary. He is a new Nicodemus, and would steale to heauen, if no body might see him. He makes a good motion bad by his fearefulnesse and doubting; and hee cals his trembling by the name of conscience. Hee is like that Collier, that passing thorow Smithfield, and seeing some on the one side hanging, he demaunds the cause; answere was made, for denying the Supremacie to King Henry: on the other side some burning, he askes the cause; answered, for denying the reall presence in the Sacrament: some, quoth he, hang'd for Papistry, and some burn'd for Protestancie? then hoyte on a Gods name: chill bee ne're nother. His Religion is primarily his Princes, subordinately his Land-lords. Neither deliberates he more to take a new religion, to rise by it; then he feares to keepe his old, lest he fall by it. All his care is for a ne noceat. Hee is a busie inquirer of all Parliament acts, and quakes as they are read, lest hee be found guilty. He is sicke, and afraide to dye, yet holds the potion in a trembling hand, and quakes to drinke his recouery. His thoughts are an ill ballance, and will neuer be equally poysed. Hee is a light vessell, and euery great mans puffe is ready to ouerturne him. Whiles CHRIST stands on
+
+the battlements of heauen, and beckens him thither by his word, his heart answeres, I would faine be there, but that some troubles stand in my way. He would ill with Peter walke to him on the pauement of the Sea, or thrust out his hand with Moses, to take vp a crawling Serpent, or hazard the losse of himselfe, to find his Sauiour. His minde is euer in suspicion, in suspension, and dares not giue a confident determination either way. Resolution, and his hart are vtter enemies, and all his Philosophy is to be a Sceptick. Whether is worse, to doe an euill action with resolution that it is good; or a good action with dubitation that it is euill, some body tell me. I am sure neither is well: for an euill deede is euill, whatsoeuer the agent thinke; and for the other, Whatsoeuer is not of Faith, is sinne. Negatiuely, this rule is certaine and infallible: It is good to forbeare the doing of that, which wee are not sure is lawfull to bee done. Affirmatiuely; the worke being good, labour thy vnderstanding so to thinke it.
+                  
+                     Feare rather then profit hath made him a flatterer; and you may reade the statutes and his Land-lords disposition in the characters of his countenance. A Souldier, a Husband-man, and a Marchant should be ventrous. He would be Gods Husband-man, and sow the seeds of obediēce, but for obseruing the wind &amp; weather of great mens frowns. He Eccles. 11. 4. Luke 11. 13. would be Gods factor, but that he feares to lose by his Talent, and therefore buries it. He would be Gods souldiour, but that the world and the diuell are two such shrewd and sore enemies. He once began to prosecute a deed of charitie, 2. Tim. 2. 3. and because the euent crossed him, he makes it a rule to do no more good by.
+                  As he is fearefull of himselfe, so distrustfull of others, carrying his heart in his eyes, his eyes in his hands: as hee in the Comedy, Oculatae mihi sunt manus, credunt quod vident: Hee knowes nothing by himselfe but euill, and according to that rule measures others. Hee would faine bee an Vsurer, but that hee dares not trust the Law
+
+with waxe and paper. He sweares damnably to the truth of that he affirms; as fearing otherwise not to be beleeued, because without that othing it, he will credit none himself. The bastardy of swearing lays on him the true fatherhood. Hee will trust neither man nor God without a pawne: not so much as his Taylor with the stuffe to make his clothes: he must be a Broker, or no neighbour. Hee hath no faith; for he beleeues nothing, but what he knowes; and knowledge nullifies beleefe. If others laugh, he imagines himselfe their ridiculous obiect: if there bee any whispering, conscius ipse sibi, &amp;c. it must be of him without question. If he goes to law, he is the aduocates sprite, and haunts him worse then his owne malus genius. Hee is his owne Cater, his owne Receiuer, his owne Secretary; and takes such paines, as if necessitie forced him, because all seruants hee thinks theeues. He dares not trust his mony aboue ground for feare of men; nor vnder ground for feare of rust. When he throwes his censures at actions, his lucke is still to goe out: and so whiles he playeth with other mens credits, he cousins himselfe of his owne. His opinion lights vpon the worst sense still; as the Fly, that passeth the sound parts to fastē on a scab; or a Dorre, that ends his flight in a dunghil. Without a Subpaena these timorous cowherds dare not to London, for feare lest the citie aire should conspire to poison them: where they are euer crying, Lord, haue mercie on vs, when as Lord, haue mercie on vs is the special thing they feared. The ringing of bels tunes their hearts into melancholy; and the very sight of a corps is almost enough to turne them into corpses. On the Thames they dare not come, because they haue heard some there drowned: nor neere the Parliament-house, because it was once in danger of blowing vp. Home this Embleme of diffidence comes, and there liues with distrust of others, and dies in distrust of himselfe; onely now finding death a certaine thing to trust to.
+               
+               
+                  
+                  Cure.
+                  THe Cure of this bodily shaking is much at one with that of the Palsey; specially if it be caused of cold and grosse humours. To helpe a man of this spirituall trembling, these intentions must be respected. First, to purge his heart by repentance, from those fowle and feculent corruptions, wherewith it is infected: and being cleane himselfe, he will more charitably censure of others. Then teach him to lay the heauiest loade on himselfe, and to spare others. True wisedome from aboue is without iudging, 
+                     Iam. 3. 17. 
+                     without hypocrisie. The wisest men are the least censurers: they haue so much a doe to mend all at home, that their neighbours liue quietly enough by them. Set him a good affection, and he will haue a good construction. Minister to his soule a draught of charitie, which will clense him of suspition: for Charitie thinkes no euill. None? It thinkes no 1. Cor. 13. 5. euill, vnlesse it perceiue it apparantly. To credite all were sillinesse; to credite none, sullinnesse. Against his timorousnesse he hath an excellent receit, set downe by God himselfe. Feare not the feare of the wicked; but sanctifie the Lord 
+                     Esa. 8. 12. 13 
+                     of hosts himselfe: let him be your feare, let him be your dread. The way for him to feare nothing as he doth, is to feare one thing as he should. Awfull reuerence to God doth rather bolden, then terrifie a man. They that trust in the Lord, shall be as mount Sion, which cannot be remooued, but abideth for euer. 
+                     Psa. 125. 1. They may be moued, they cannot bee remoued, from what is good, from what is their good, their god. This course may cure his paralyticke soule; only if it shall please God, to be his Physician.
+               
+            
+            
+               Immoderate Thirst, and Ambition. Disease. 10
+               THere is a disease in the bodie called immoderate thirst; which is after much drinking desired and answered, a
+
+still sensible drinesse. By this I would (I suppose not vnfitly) expresse that spirituall disease, Ambition, a proud soules thirst, when a draught of honour causeth a drought of honour; and like Tullies strange soyle, much raine of promotion falling from his heauen the Court, makes him still as drie as dust. He is a most ranke Churle, for he drinkes often, and yet would haue no man pledge him.
+               
+                  Cause.
+                  THe disease is caused in the body, through abundant heate drying vp moysture: and this is done by hot, cholericke, or salt humours engendred in the stomake, or through Feuers burning or Ecticke.
+               
+               
+                  Signes and Symptomes.
+                  THe Signes of the disease are best discerned by the patients words. The cause of Ambition is a strong opinion of honour; how well he could become a high place, or a high place him. It is a proud couetousnesse, a glorious and Court-madnes. The head of his reason caught a bruise on the right side, his vnderstanding; and euer since he followes affection, as his principall guide. Hee professeth a new quality, called the art of climbing: wherin he teacheth others by patterne, not so much to aspire, as to break their neckes. No staire pleaseth him, if there be a higher; and yet ascended to the top, he complaines of lownesse. He is not so soone layd in his bed of honour, but hee dreames of a higher preferment, and would not sit on a seate, long enough to make it warme. His aduancement giues him a fresh prouocation; and he now treades on that with a disdainfull foote, which ere-while hee would haue kissed to obtaine. Hee climbes falling towers, and the hope to scale them, swallowes all feare of toppling downe. Hee is himselfe an Intelligencer to greatnes, yet not without vnderofficers
+
+of the same ranke. You shall see him narrow-eyed with watching, affable and open-brested like Absolon, full of insinuation so long as he is at the staire-foote: but when authoritie hath once spoken kindly to him, with Friend, sit vp higher, he lookes rougher then Hercules; so bigge, as if the riuer of his bloud would not bee banked within his veines. His tongue is flabellum Diaboli, and flagellum iusti: bent to scourge some, flatter others, infect, infest all. Agrippina, Neros mother, being told by an Astrologer, that her sonne should be Emperour, but to her sorrow: answered, Let my sorrow be what it will, so my sonne may get the Empire. He hath high desires, low deserts. As Tully for his Pindinessus, he spends much money about a little preferment; and with greater cost then the captaine bought his Burgesship, hee purchaseth incorporeall fame; which passeth away, as swift, as time doth follow motion; &amp; whose weight is nothing but in her name, wheras a lower place well managed, leaues behinde it a deathlesse memory. Like a great winde, he blowes downe all friends that stand in his way to rising. Policy is his post-horse, and he rides all vpon the spurre, till he come to None-such. His greatest plague is a Riuall.
+
+                        Nec quemquam iam ferre potest Caesarue priorem,
+                        Pompeiusue parem. Iuuen. Sat. 2.
+                        
+                        Tolluntur in altum, vt lapsu grauiore ruant.
+                     
+                  
+                  He is a child in his gaudy desires, and great Titles are his rattles, which still his crying, til he see a new toy. He kisses his wits, as a Courtier his hand, when any wished fortune salutes him: and it tickles him, that he hath stolne to promotiō without Gods knowledg. Ambitio ambientium crux. Ambition is the racke, whereon hee tortureth himselfe. The court is the sea, wherein he desires to fish: but the net of his wit and hope breakes, and there he drownes himselfe. An old courtier being asked what he did at Court, answered, I doe nothing, but vndoe my selfe.
+                  
+               
+               
+                  
+                  Cure.
+                  FOr the bodily disease, caused of heate and drinesse, Physicians prescribe Oxicratum, a drinke, made of vineger and water sodden together: a chiefe intention in them, is to procure sleepe, &amp;c. To cure the immoderate Thirst of Ambition, let him take from God this prescript: He that exalteth himselfe, shall be brought low: but he that humbleth himselfe, shall be exalted. That he, who sets himselfe downe in the lower room, heares the masters of the feasts inuitation, Friend, sit vp higher. That a glorious Angell by ambition became a Diuell; and a Lucifer of his sonnes, the king of Babylon, that said, I will exalt my throne aboue the starres of God, is brought downe to hell, and to the sides of the 
+                     Esa. 14. 14. 
+                     pit. That the first step to heauens Court, is humilitie. Blessed are the poore in spirit, for theirs is the kingdome of heauen. That Mat. 5. 3. he, who walkes on plaine ground, is in little danger to fall; if he do fall, he riseth with small hurt: but he that climbes high, is in more danger of falling; and if he fall, of killing. That the great blasts of powerfull enuie ouerthrow Oakes and Cedars, that oppose their huge bodies; and passe through hollow Willowes, or ouer litle shrubs, that grow vnder the wall. That the higher state is the fairer marke for misfortune to shoote at: That which way soeuer the ambitious man lookes, he finds matter of deiection. Aboue him, behold a God casting an ambitious Angell out of heauen, Luk. 1. 48. an ambitious king from the societie of men: but so respecting the lowlinesse of his handmaiden, that all generation call her blessed. Below him, behold the earth, the wombe that he came from, and the tombe that must receiue him. About him, behold, others transcending him in his best qualities. Within him, a mortall nature, that must die, though he were clad in gold; and perhaps an euill conscience stinging him, whose wounds are no more eased by promotion, then a broken bone is kept by a tissue-coate from aking. That
+
+there is a higher reckoning to be made of a higher place. That like citie-houses, that on small foundations carry spacious roofes, his owne toppe-heauy weight is ready to tumble him downe. That he mounts vp like a seeled Doue, and wanting eyes of discretion, he may easily light in a puddle. That he is but a stone tossed vp into the aire by fortunes sling, to receaue the greater fall. That for want of other malignant engines, he begets on himselfe destruction. That Tiberius complained of fortune; that hauing set him vp in so high a monarchie, shee did not vouchsafe him a ladder to come downe againe. That the honours of this world haue no satisfactory validitie in them. The poore labourer would be a farmer: the farmer after two or three deare years aspires to a yeoman: the yeomans sonne must be a Gentleman. The Gentlemans ambition flies Iustice-height. He is out of square with being a Squire, and shoots at knighthood. Once knighted, his dignitie is nothing, except worth a noble title. Then, hee thinkes himself, whiles a meere Baron, a bare on: the world must count him a Count, or he is not satisfied. He is weary of his Earldome, if there be a Duke in the land. That granted, hee thinks it base to be a subiect: nothing now contents him but a crowne. Crowned, hee vilifies his owne kingdome for narrow bounds, whiles he hath greater neighbours; he must be Caesar'd to an vniuersall Monarch. Let it bee granted, is he yet content? No, then the earth is a molehill, too narrow for his mind, and hee is angry for lacke of Elbow-roome.
+
+                        Vnus Pellaeo Iuueni non sufficit orbis:
+                        Aestuat infoelix angusto limine mundi.
+                     
+Last to be king of men is idle, hee must Deified: and now Alexander conceits his immortalitie, and causeth Temples and Altars to be built to his name. And yet, being thus adored, is not pleased, because he cannot command heauen, and controll nature. Rome robbed the world, Sylla Rome, and yet againe Sylla himselfe, not content till then, when
+
+aduancement hath set him vp as a Butte, hee cannot bee without the quiuer of feares. Thus the largest draught of honour this world can giue him, doth not quench, but inflame his ambitious thirst. Well, let repentant humiliation pricke the bladder of his blowne hopes, and let out the windy vapours of selfe-loue. And now let him hunger and thirst after righteousnesse, and on my life he shall be satisfied. 
+                     Mat. 5. 6.
+                  
+               
+            
+            
+               Inflammation of the reines, or lustfulnesse. Disease 7.
+               AMong many diseases incident to the reines, as the Diabetes, vlcers, the stone there, and the emission of bloudy vrine, there is one called inflammation of the reines. To this not vnfitly, by comparing the causes, Symptomes, and cure of either, I doe liken Lust: the Scripture cals it by a generall name, Vncleannesse. Couetousnes is commonly the disease of old age, Ambition of middle age, Lust of youth: if it extends further, it portends lesse helpe.
+               
+                  Causes.
+                  THe Causes of the bodily disease are giuen to be. First, corrupt humours. Secondly, drinking of many medicines. Thirdly, vehement ridings. Consider these in our comparison, and tell me, if they sound not a similitude. There is corruptio perdita, whence comes eruptio pestifera. Prouocatur libido, vbi deficit; reuocatur, vbi desinit. Medicines are inuented, not to qualifie, but to calefie; as if they intended to keepe aliue their concupiscence, though they dead their conscience.
+               
+               
+                  Signes and Symptomes.
+                  THe Signes are many. There is a beating paine about the first ioynt of the backe, a little aboue the bastard
+
+ribs, &amp;c. with others, which modestie bids couer with the cloke of silence. The Lustfull man is a monster; as one that vseth,
+
+                        Humano capiti ceruicem iungere equinam.
+                     
+                  
+                  He affects Popery for nothing else, but the patronage Hor. of fornication, and frankenesse of Indulgence. Hee cites Harding frequently, that common Courteghians in hote countreys, are a necessary euill: which hee beleeues against Gods expresse prohibition, in a hoter climate then Italie. There 
+                     Deut. 23. 17 
+                     shall be no whore of the daughters of Israel: then certainely no whore-master. He thinks it; if a sinne, yet peccadillo, a little sinne; and that the venereall faults are veniall, at least venall. Thus he would be a Bawd to the sinne, if not to the sinners. He is carelesse of his owne name, of his owne soule: iniurious to his own minion, whom he corrupts: to his bastard, whom he brings vp like himselfe. He increaseth mankind, not for loue to the end, but to the meanes. His soule is wrapped in the trusse of his senses; and a whore is the Communis terminus, where they all meete. Hee hath no command ouer his owne affections, though ouer countreys; as our moderne Epigrammatist of Hercules. 
+                     Owen Epigr.
+                     
+                        Lenam non potuit, potuit superare leaenam;
+                        Quem fera non valuit vincere, vicit hera.
+                     
+His practice is, as it is sayd of some Tobacchonists, to drie vp his purse, that he may drie vp his bloud, and the radicall moisture.
+
+                        Nil nisi turpe iuuat, curae est sua cui
+                              
+                                 
+                              
+                              que
+                            voluptas; Amor. 1.
+                        
+                        Haec quo
+                              
+                                 
+                              
+                              que
+                            ab alterius grata dolore venit.
+                     
+                  
+                  The delight of his wickednesse is the indulgence of the present, for it indures but the doing. He neuer rests so contentedly, as on a forbidden bed. Hee is a felonious picklocke of Virginities, and his language corrupts more innocent truth, then a bad Lawyers. Hee is an Almanack from eighteene to eight and twenty; if hee scapes the fire so long. He can neuer call his haires and his sinnes equall; for as his sins increase, his haires fal. He buyes admission
+
+of the Chambermaid with his first fruits. He liues like a Salamander in the flames of lust, and quencheth his heat with fire; and continues his dayes vnder Zona Torrida. He spends his forencone with Apothecaries; the afternoon of his daies with Surgions: the former beget his miserie, the latter should cure it. Euery rare female, like a wandring Planet, strikes him: hence he growes amazed. His eyes are the trap-dores to his hart; and his lasciuious hopes sucke poyson from the fairest flowre. Hee drownes himselfe in a womans beauty, which is Gods good creation, as a melancholy distracted man in a Crystall riuer. When conscience plucks him by the sleeue, and would now after much importunacy speake with him, he bids her meet him at fifty: hee chargeth repentance attend him at master Doctors. When his lifes sunne is ready to set, he marries, and is then knocked with his owne weapon: his owne disablenesse, and his wiues youthfulnesse, like bels ringing all in. Now his common theme is to bragge of his young sinnes; and if you credit his discourse, it shall make him farre worse then hee was. At last, hee is but kept aboue ground by the art of Chirurgery.
+               
+               
+                  Cure.
+                  FOr his cure, let him bloud with the law of God: Thou shalt not commit adultery. That the righteous God tryeth 
+                     Psal. 7. 9. 
+                     the heart and the reines: euen the place, where his disease lyeth. That
+
+                        Si Renum cupis incolumem seruare salutem,
+                        Sirenum cantus effuge, sanus eris.
+                     
+                  
+                  That breuis est voluptas fornicationis, perpetua poena fornicatoris: 
+                     Owen Epig. the pleasure of the sinne is short, the punishment of the Ieron. sinner eternall. That
+
+                        Nuda Uenus picta est, nudi pinguntur amores:
+                        Nam, quos nuda capit, nudos amittat oportet.
+                     
+                  
+                  That his desired cure, is his deserued poyson. Age and
+
+sleepe are his infalliblest Physicians. Disease is the mortifier of his sinne, and cures it with an issue. That no black shield of the darkest night, no subtill art can hide or defend from Gods impulsiue sight. That, as a moderne Poet of ours:
+
+                        Ioy grauen in sense, like snow in water wasts.
+                        Without conserue of vertue nothing lasts.
+                     
+That hee walkes the high-way to the diuell; and Windes downe the blinde staires to hell. That as it is called a noble sinne, it shall haue a noble punishment. That he hath taken a voyage to the kingdome of darknesse; and is now at his iournies end, when lust leaues him ere he discharge it. Let him obserue S. Pauls medicine: Fly fornication: Euery sinne that a man doth, is without the body: but hee that 
+                     1. Cor. 6. 8. 
+                     committeth fornication sinneth against his owne body. And This is the will of God, euen your sanctification, and that yee 
+                     1. Thes. 4. 3. 
+                     should abstaine from fornication. Let him shunne Opportunity as his Bawde, and Occasion as his Pandar. Let him often drink that potion, that Augustine at his conuersion. Let 
+                     Confes. lib. 8. cap. 12. Rom. 13. 13. 
+                     vs walke honestly as in the day time, not in rioting and drunkennesse, not in chambering and wantonnesse, &amp;c. But put ye on the Lord Iesus Christ, and make not prouision for the flesh, to fulfill the lusts thereof. Phisicians prescribe, for the reines inflammation, cooling things, cataplasmes, bathes, &amp;c. A speciall intention to cure this burning concupiscence, is to coole it with the teares of penitence. Weepe for thy sins; and if the disease growe still strong vpon thee, take the antidote God hath prescribed, Marriage. It is better to marrie then to burne. Marriage is honourable in all, and the bed 
+                     1. Cor. 7. Heb. 13. 4. 
+                     vndefiled: but Whoremongers and Adulterers God will iudge. Much exercise doth well to the cure of this Inflammation. When our affections refuse to sit on the nest of Lust, and to keepe it warme, the brood of actuall follies will not be hatched. How Aegistus (not without companie) became an Adulterer,
+
+                        In promptu causa est, desidiosus erat. For.
+                        
+                        
+                           
+Otia si tollas, periere Cupidinis arcus.
+                     
+                  
+                  
+                     Cupid shootes in a slugge, and still hits the sluggish. This intemperate fire is well abated by withdrawing the fewel. Delicates to excite Lust, are spurres to post a man to hell. It is fasting spettle, that must kill his tetter. Uncleannesse is the bastard begot of Gluttony and Drunkennesse. Sine Cerere &amp; Baccho friget Uenus. When the mouth is made a tunnell, and the belly a barrell, there is no contentment without a bed and a bed-fellow.
+               
+            
+            
+               The rotten Feuer, or Hypocrisie, Disease 12.
+               AMongst almost innumerable kinds of Feuers; there is one called, 
+                     〈 in non-Latin alphabet 〉
+                  , or febris putrida, the rotten Feuer: which is a feuer of one fit, continuing many dayes without any great mutation. Therefore it is called of some, continens febris, a stable and constant feuer. Hereunto I haue likened a rotten disease in the soule, called Hypocrisie; which is nothing els, but vice in Vertues apparell.
+               
+                  Cause.
+                  THis corporall disease is caused, when the humours doe putrifie and rot equally within the vessels. It is not ingendred in those that bee leane and slender, or of a thinne and rare state of body, or of a colde temper; but in those that bee hot and abound with bloud, fleshy, grosse and thicke-bodied. Me thinks this malady smels very like Hypocrisie; which is a rotten heart, festred and putrified with habituated sins, there with great delight and indulgence reserued: not incident to those that haue a weake, thinne, and slender opinion of themselues; that through humility haue a leane and spare construction of their owne deserts: no; nor to them that bee of a cold temper and disposition to religion, not caring either to bee good, or to seeme so:
+
+but to those that haue a grosse and a blowne conceit of themselues, swelling into an incomprehensible ostentation, and implacably hot in the persecution of that, they inwardly affect not.
+               
+               
+                  Signes and Symptomes.
+                  ROr the Signes of this putrid feuer, they be not externally discerned; except you feele the pulse, which beats thicke, quicke, and vehement. The Hypocrite is exceedingly rotten at core, like a Sodome apple, though an ignorant passenger may take him for sound. He lookes squintey'd, ayming at two things at once, the satisfying his owne lusts, and that the world may not be aware of it. Bonus videri non esse; malus esse non videri cupit. They would seeme good, that they might be euill alone: not seeme euill, lest they might not then be euill so much. Oues visu, Vulpes actu, actu: hauing much angell without, more diuel within: a villenous Host dwelling at the signe of, Friend.
+                     
+                        Tuta frequens
+                              
+                                 
+                              
+                              que
+                            via est, per amici fallere nomen.
+                        Tuta frequens
+                              
+                                 
+                              
+                              que
+                            licet sit via, crimen habet,
+                        
+                           Which one thus wittily englisheth:
+                        
+                        A safe and common thing it is,
+                        through friendship to deceiue.
+                        As safe and common as it is,
+                        'Tis knauery, by your leaue.
+                     
+                  
+                  He is on Sunday like the Rubricke, or Sunday-letter, zealously red; but all the weeke you may write his deedes in blacke. He fryes in words, freezeth in workes; speakes in elles, doth good by inches. He is a rotten tunder shining in the night: an ignis fatuus, looking like a fixed starre: a painted sepulcher, that conceales much rottennesse: a crude Gloe-worme shining in the darke: a stinking dunghill couer'd ouer with snow: a fellow of a bad course, and good discourse: a loose hung Mill, that keepes a great clacking, but grindes no grist: a lying hen, that cackles when shee
+
+hath not layd. He is like some tap-house, that hath vpon the painted walls written, Feare God, be sober, watch and pray, &amp;c. when there is nothing but swearing and drunkennesse in the house. His tongue is hot as if he had eaten pepper, which workes coldly at the heart. Hee burnes in the shew of forward profession; but it is a poore fire of zeale, that wil not make the pot of Charitie seeth. He is in company holy and demure, but alone demurres of the matter; so shuts out the diuell at the gate, and lets him in at the posterne.
+                  His words are precise, his deeds concise; hee prayes so long in the Church, that he may with lesse suspicion prey on the Church: which he doth the more peremptorily, if his power bee answerable. If his place will afford it, his grace will without question. He beares an earnest affection to the Temple, as a hungry man to his meate, onely to deuoure it. They say, come, let vs take to our selues the houses of 
+                     Psal. 83. 12. 
+                     God in possession. We pray for their conuersion, but if there be no hope, we must vse the next words of the Psalme: Oh my God, make them as a wheele: like the stubble before the wind. 
+                     Uerse 13. They can abide no point of Popery, but only this, Churchrobbing. Euery thing the Papists vsed but this is superstition. Some are so charitable, that hauing got the tythe-corne frō the Church, they reserue from the presented Incumbent their petty tythes also: like monstrous theeues, that hauing stole the whole piece, aske for the remnants. Nay, it is not enough, that they deuoure our Parsonages, but they also deuoure our persons, with their contumelious slanders. Aduantage can make his religion play at fast and loose; for he only so long growes full of deuotion, as hee may grow full by deuotion. His arguments are weake or strong, according to his cheare; and he discourses best after dinner. Selfe-conceit swels him, and popular applause bursts him. He neuer giues the law good words, but when it hath him vpon the hippe. Like a kind Henne, hee rules and feedes his chickens fat, starues himselfe. Hee forceth
+
+formall precisenesse, like a Porter to hold the dore, whiles diuels dance within. He giues God nothing but shew, as if he would pay him his reckoning with chalke; which encreaseth the debt. If euer his almes smell of bounty, hee giues them in publicke. He that desires more to be seene of men then of God, commend mee to his conscience by this token, he is an Hypocrite. Hee couers his rauenous extortions, and couetous oppressions, with the shew of small beneficences; &amp; so may for his charitie go to the diuel. Indeed, gentilem agit vitam sub nomine Christiano: Hee liues Hieron. ad Celant. Tom. 1 fol. 109. Turke vnder the name of Christian. Hee is false in his friendship, hartlesse in his zeale, proud in his humilitie. He railes against enterludes, yet is himselfe neuer off the stage, and condemnes a maske, when his whole life is nothing els. He sends a begger from his gate, bountifully feasted with Scripture sentences; and (though he likes them not) so much of the Statutes, as will serue to saue his money. But if euery house were of his profession, Charities hand would no longer hold vp pouerties head. What his tongue spoke, his hands recant; and he weepes when he talkes of his youth, not that it was wicked, but that it is not. His tongue is his dissimulations lacquay, and runs continually on that errand: hee is the Strangers Saint, his neighbours Sycophant, his owne Polititian: his whole life being nothing els, but a continuall scribbling after the set Copy of Hypocrisie.
+                  
+               
+               
+                  Cure.
+                  FOr his cure, there is more difficultie then of the rotten feuer. In this, two speciall intentions are vsed; bloudletting, and drinking of coole water, &amp;c. But alas! what medicine should a man giue to him, whom he knowes not to be sick? His heart is rotten, his huske, faire and sightly. The core of his disease lies in his conscience; and like an onyon, is couered with so many pils, that you would not
+
+supect it: Their best Physicke is that, God giues to Israel: Cleanse thy heart from iniquitie, Oh Ierusalem, that thou maist 
+                     Ier. 4. 14. 
+                     be saued: how long shall thy vaine thoughts remaine within thee? If this serue not, let them reade Christs bill, his denunciation against them, so often menaced, Wo vnto you, hypocrites. I would tel them, that simulata sanctitas, duplez iniquitas; and their life is so much the more abominable, as they haue played the better part. But I referre them to the White-Diuell.
+                  
+               
+            
+            
+               Fluxe and Prodigalitie. Disease 13.
+               THere bee diuers Fluxes according to Physicians: Lienteria, a smoothnesse of the bowels, suffring the meate to slide away not perfectly digested: Difenteria, which is an exulceration of the bowels; (whereof also they make foure forts:) Tenasmus, which is a continuall prouocation to seege, that the patient can neither deferre, nor eschew, yet vents nothing but slime. The Fluxe Diarrhea is the generall, as being without exulceration or inflammation. To this I compare Prodigalitie, which is a continuall running out.
+               
+                  Cause.
+                  THe corporall disease is caused: First, either by debilitie of the instruments that serue to digestion. Secondly, or through abundance of nourishment, moyst and viscous soone corrupted. Thirdly, or through weakenesse of the retentiue facultie. The similitude holds well in the causes of Prodigalitie. There is first a weakenesse of his vnderstanding &amp; brain, to digest that which his friends left him. Secondly, abundance of goods hath made him wanton; and the most part being slimy and ill gotten, it wasts like Snow, faster then it was gathered. Thirdly, the debilitie of his retentiue vertue is a special cause. For Prodigalitie is pictur'd
+
+with the eyes shut, and the hands open; lauishly throwing out, and blindly not looking where.
+               
+               
+                  Signes and Symptomes.
+                  THe Symptomes of this disease are manifest. He is an out lyer, and neuer keepes within the pale. He runnes after liberalitie and beyond it. Hee is diametrially opposite to the Couetous; and the difference is in the transposing of one Aduerbe. The one, dat non rogatus: the other, non dat rogatus. One hand is his receiuer, but like Briareus, he hath an hundred hands to lay out. He would beare Dissipatoris, non dispensatoris officium. His father went to the diuel one way, and he will follow him another: and because hath chosen the smoother way, he makes the more haste. Parasites are his Tenterhookes, and they stretch him till he bursts; and then leaue him hanging in the raine. You may put his heart in your pocke; if you talke to him bare-headed, with many parentheses of your worship: there is no vpstart buyes his titles at a dearer rate. He loues a well furnished table; so he may haue three Ps. to his guests: Parasites, Panders, and Players: the fourth he cannot abide, Preachers. He wil be applauded for a while, though he want (almost) pitie, when he wants. Like an houreglasse turn'd vp, he neuer leaues running, till all be out. He neuer lookes to the bottome of his patrimony, til it be quite vnrauelled; and then (too late) complains that the stocke of his wealth ranne course at the fag-end. His father had too good an opinion of the world, &amp; he too much disdaines it. Herein he speeds, as he thinkes, a little better; that those that bark'd at his Sire like dogs, fawne vpon him, and licke his hand like Spaniels. He vyes vanities with the Slothfull, and it is hard to say, who wins the game; yet giue him the bucklers: for Idlneesse is the coach to bring a man to Needome, Prodigalitie the post-horse. His father was no mans friend but his owne; and he (saith the Prouerbe) is no mans foe else: of what age soeuer, he is
+
+vnder the yeares of discretion; and if Prouidence doe not take him Ward, his heires shall neuer be sought after. His vessell hath three leakes, a lasciuious eye, a gaming hand, a deified belly; and to content these, hee can neither rule his heart, nor his purse. When the shot comes to be payd, to draw in his company is a quarrel. When he feeles want, (for till then he neuer sees it) he complaines of Greatnes for ingratitude, that hee was not thought of when promotions were a dealing. When his last acre lies in his purse, he proiects strange things, and builds houses in the ayre, hauing sold those on the ground he turnes malecontent, and shifts that hee neuer had, Religion. If hee haue not learn'd those trickes that vndid him, Flattery and Cheating, he must needs presse himselfe to the warres. Hee neuer before considered adposse, but advelle, and now hee forgets velle, and lookes onely to posse. Take him at first putting forth into his sea of wealth and profusenesse, and his fulnesse giues him Mant.
+                     
+                        —Languentis stomachum, quem nulla ciborum,
+                        Blandimenta mouent, quem nulla inuitat orexis:
+                     
+His stomach so rasping since his last meale, that it growes too cowardly to fight with a chicken: then he cals for sport like sawce to excite appetite; and when all failes, thinks of sleepe, lyes downe to finde it, and misseth it. In the conniuence of his securitie, harlots and sycophants rifle his estate, and then send him to robbe the hogges of their prouander, Ioues nuts, acornes. In short time he is dismounted from his coach, disquantitied of his traine, distasted of his familiars, distressed of his riches, distracted of his wits; and neuer proues his owne man, till he hath no other. At last, after his houering flight, hee drops to a center, which is a roome in the Almes house, that his father built.
+               
+               
+                  Cure.
+                  FOr his Cure; (I will not meddle with his estate, I know not how to cure that; but for his soule) let him first take
+
+a pill of Repentance: for howsoeuer hee hath scowr'd his estate, he hath clog'd his conscience, and it must be purged. Binde vp his vnruly hands, so lauish and letting flye. Pull off from his eyes that filme of errour, that hee may distinguish his reproouing friends from his flattering enemies. Coole his luxurious heate with Solomons aftercourse, the banket of his pleasures being done: that for al these things God will bring him to iudgement. That beggerie Eccl. 11 9. Luk. 15. 13. is the heire apparant of riote, as the yonger sonne in the Gospell (wee haue too many such yonger brothers.) That his answer to those that admonish his frugalitie, is built vpon a false ground: My goods are my owne, as the Parasites said of their tongs: whereas he is not a Lord, but Psal. 12. 4. Luke 16. 2. a Steward, and must one day reddere rationem dispensationis. The bill of his reckoning will bee fearefull. Item, for so many oathes. Item, for so many lies. Item, for drunkennesse. Item, for lust, &amp;c. Nay, and Item for causing so many Tauerne Items, which were worse then Physicke bils to his estate. To conclude, if Death finde him as Bankerout of spirituall, as of worldly goods, it will send him to an eternall prison.
+               
+            
+            
+               The Iaundeis and Profanenesse. Disease 14.
+               
+                  ICterus or the Iaundeis, is a spreading of yellow choler or melancholy all ouer the body. To this I compare Profanenesse, which is an epidemiall and vniuersall spreading of wickednesse throughout all powers of the soule.
+               
+                  Cause.
+                  THe Iaundeys is caused sometimes accidentally, when the bloud is corrupted by some outward occasiō with out a Feuer; or through inflammation and change of the naturall temperament of the liuer; or through obstruction of the passages which goe to the bowels, &amp;c. The causes
+
+of Profanenesse are an affected ignorance, a dead hart, a sensuall disposition, an intoxicate reason, an habituated delight in sinne, without sense, without science, without conscience.
+               
+               
+                  Signes and Symptomes.
+                  THe Symptomes of both the Iaundeys and Profanenesse need no description: their externall appearance discolouring, the one the skinne, the other the life, saue both Physicians much labour; if it be true, that the knowledge of the disease is halfe the cure. He hath sold himselfe to wickednesse, for the price of a little vanity, like Ahab; or let a Lease, not to expire without his life. At first sight you would take him for a man; but he will presently make you change that opinion, for Circe's cup hath transform'd him. His eyes are the casements, that stand continually open, for the admission of lusts to the vncleane rest of his heart. His mouth is the diuels trumpet, and sounds nothing but the musicke of hell. His hand is besmeared with aspersions of bloud, lust, rapine, theft; as if all the infernall serpents had disgorged their poysons on it. Hee loues Sathan extremely, and either swimmes to him in bloud, or sailes in a vessell of wine. His heauen is a Tauerne, whence hee neuer departs, till hee hath cast vp the reckoning. Hee is ready to sweare, there is no God, though hee sweares perpetually by him. Religion is his footstoole, and Policy his horse, Appetite his huntsman, Pleasure his game, and his dogges are his senses. He endeuours by the continuance of his sports, to make the motion of pleasure circular, and the flame of his delight round, as the Moone at full, and full as bright. The point of his heart is touched with the Load-stone of this world, and he is not quiet but toward the North, the scope of wickednesse. He hath bowled his soule at the marke of sensuality, and runs to hell to ouertake it. If the diuell can maintaine him a stocke of
+
+thoughts, let him alone for execution; though to bastard his owne children, and water on his fathers graue. To conclude, he is but a specialtie of hell antedated and striues to be damned before his time.
+               
+               
+                  Cure.
+                  HIs Physick, as in some Iaundeis, must be strong of operation; for the drynesse of the ones stomacke, of the others conscience, doth eneruate the force of medicines. The speciall intentions of his cure are strong purgations and bloud-letting. If the law of God doth not purge out this corruption from his heart, let him bloud by the law of man: manacle his hands, shackle his feete, dispute vpon him with arguments of yron and steele: let him smart for his blasphemyes, slanders, quarrels, whoredomes: and because he is no allowed Chirurgion, restraine him from letting bloud. Musle the Wolfe, let him haue his chaine and his clogge, bind him to the good behauiour: and if these vsuall courses will not learne him continence, sobrietie, peace, try what a New-gate and a grate will doe. If nothing, let vs lament his doome. Their end is damnation, whose 
+                     Phil. 3. 19. 
+                     God is their bellie, and whose glorie is in their shame, who minde earthly things.
+                  
+               
+            
+            
+               Apoplexie and Securitie. Disease 15.
+               THe Apoplexie is a disease, wherin the fountain &amp; originall of all the finewes being affected, euery part of the body loseth both mouing &amp; sense; all voluntary functions hindred, as the wheels of a clocke when the poyse is down. To this I liken Securitie, which though it be not sudden to the soule, as the other is to the body; yet is almost as deadly. There may be some difference in the strength of opposition, or length of obsession; all similitudes run not like Coaches on foure wheeles: they agree in this, they
+
+both lie fast a sleepe; the eyes of the ones body, of the others reason shut, and they are both wtihin two grones of death.
+               
+                  Cause.
+                  THe cause of the Apoplexie is a flegmaticke humour, cold, grosse, and tough, which abundantly fils the ventricles of the braine. The cause of Securitie, is a dusking and clouding of the vnderstanding with the blacke humours, and darke mists of selfe-ignorance; a want of calling himselfe to a reckoning, till he be non-suted.
+               
+               
+                  Signes and Symptomes.
+                  THe Signes of the corporall are more palpable, then of the spirituall sickenesse. The parish of his affections is extremely out of order; because Reason his Ordinary doth not visite; nor Memorie his Churchwarden present; (or if it at all, Omnia bene.) Neither doth Understanding the Iudge censure and determine. Hee keepes the chamber of his heart lock'd, that meditation enter not, and though it be sluttish with dust and cobwebs, will not suffer repentance to sweepe it. He looseth the fruit of all crosses; and is so farre from breaking his heart at a little affliction, that a sharpe twitch stirres him not. Whereas a melting heart bleeds at the least blow, he feeles not the sword drinking vp his bloud. Most men sleepe nigh halfe their time, he is neuer awake: though the Sunne shines, he liues in sempiternall night. His soule lies at ease, like the rich mans, and is loth to rise. Custome hath rocked him asleepe in the cradle Luk. 12. of his sinnes, and he sleepes without starting. His Securitie is like Popery, a thicke curtaine euer drawne to keepe out the light. The Element hee liues in, is mare mortuum. He is a foolish Gouernour, and with much clemency and indulgence nurseth rebellion; neither dare he chide his affections,
+
+though they conspire his death. Hee is the Antitype to the fabulous Legend of the seuen Sleepers. Policy may vse him as a blocke, cannot as an engine. Hee is not dangerous in a commonwealth; for if you let him alone, he troubles nobody.
+               
+               
+                  Cure.
+                  THe Cure of the Apoplexie is almost desperate. If there be any helpe, it is by opening both the Cephalica veines; and this course speeds the patient one way. Securitie, if it sleepes not to death, must be rung awake. There are fiue bels, that must ring this peale.
+                  First, Conscience is the Trebble, and this troubles him a little: when this bell strikes, hee drownes the noyse of it with good fellowship. But it sounds so shrill, that at last it will be heard; especially if God puls it.
+                  Secondly, Preaching is the Stint or the Certen to all the rest. This is Aarons Bell, and it must be rung loude to wake him: for lightly he begins his nappe with the Sermon, and when the parish is gone home, hee is left in his seate fast asleepe: yet this may at last stirre him.
+                  Thirdly, another Bell in this ring, is the death of others round about him; whom he accompanyes to the Church with a deader heart then the corps; knowes he is gone to iudgement, yet prouides not for his owne accounts at that Audite. It may bee, this spectacle and a mourning cloake may bring him to weepe.
+                  Fourthly, the oppressed Poore is a Counter-tenor, and rings loude knels of mones, grones, and supplications, either to him for his pitie, or against him for his iniury. If this bell, so heauily tolling, do not waken him, it will waken God against him. Their crie is come vp into the eares of the 
+                     Iam. 5. 4. 
+                     Lord of Hostes.
+                  
+                  Fifthly, the Tenour or Bow-bell is the abused creatures; the rust of the gold, the stone out of the wall crying against
+
+the Oppressor: the corne, wine, oyle, against the Epicure.
+                  Happily this peale may wake him. If not, there is yet another goade, affliction on himselfe, God cutting short his hornes, that he may not gore his neighbours: and letting him bloud in his riches, lest being too ranke, hee should grow into a surfet: or casting him downe on his bed of sickenesse, and there taking sleepe from his body, because his soule hath had too much. If neither the Peale nor the Goade can waken him, God will shoote an Ordinance against him, Death. And if yet he dies sleeping, the Archangels Trumpe shall not faile to rowse him. Awake then, thou that sleepest, and arise from the dead, and Christ shall giue thee 
+                     Ecl. 5. 14. 
+                     light.
+                  
+               
+            
+            
+               Windinesse in the stomacke, and vaine-glory. Disease 16.
+               
+                  INstation in the stomake hath some correspondence with vaine-glory in the soule: a disease in either part of man ful of ventositie, where all the humour riseth vp into froth.
+               
+                  Cause.
+                  
+                     VVIndinesse is ingendred through flegmaticke humours in the stomake; or through meates dissolued into vapours by deficiencie of kindely heate. The cause of vaineglory is a vaporous windy opinion of some rare quality in himselfe: which though it bee but an atomus, he would blow (like an Alchymist) to a great masse. But at last, it either settles in a narrow roome, or vanisheth into fome.
+               
+               
+                  Signes and Symptomes.
+                  
+                     SYmptomes of the corporall disease are a swelling of the stomake, empty belchings, much rumbling of wind in
+
+the bowels, which offring to descend, is turned backe againe. You shall easily know a vaine-glorious man: his own commendation rumbles within him, till he hath bulked it out; &amp; the aire of it is vnsauory. In the field, he is touching heauen with a launce; in the street, his eye is still cast ouer his shoulder. He stands vp so pertly, that you may know he is not laden with fruite. If you would drinke of his wisedome, knocke by a sober question at the barrell, and you shall finde by the sound, his wits are emptie. In al companies, like chaffe he will be vppermost: hee is some surfet in natures stomake, &amp; cannot be kept down. A goodly Cipresse tree, fertile only of leaues. He drinks to none beneath the salt; and it is his Grammar rule without exception, not to conferre with an infetiour in publike. His impudence will ouer-rule his ignorance to talke of learned principles; which come from him, like a treble part in a base voyce, too bigge for it. Liuing in some vnder-staire office, when he would visite the countrey, he borrowes some Gallants cast sute of his seruant, and therein (Player-like) acts that part among his besotted neighbours. When he rides his masters great horse out of ken, hee vaunts of him as his owne, and brags how much he cost him. He feeds vpon others curtesie, others meat: and (whether more?) either fats him. At his Inne he cals for chiekens at spring, and such things as cannot be had; whereat angry, he sups according to his purse with a red Herring. Farre enough from knowledge, he talkes of his castle, (which is either in the aire, or inchanted) of his lands, which are some pastures in the Fairy-ground, inuisible, no where. He offers to purchase Lordships, but wants money for earnest. He makes others praises as introductions to his own, which must transcend; and cals for wine, that hee may make knowne his rare vessell of deale at home: not forgetting to you, that a Dutch Marchant sent it him, for some extraordinary desert. He is a wōder euery where; among fooles, for his brauery, among wisemen for his folly. He loues an Herald for a new Coate,
+                     
+and hires him to lye vpon his Pedigree. All Nobility, that is ancient, is of his allyance; and the Great man is but of the first head, that doth not call him, Cousin. When his beames are weakest, like the rising and setting Sunne, hee makes the longest shadowes: whereas bright knowledge, like the Sunne at highest, makes none at all; though then most resultance of heat, and reflection of light. He takes great paines to make himselfe derisory; yet (without suspecting it) both his speech and silence cries, Behold mee. He discommends earned worth with a shrugge, and lispes his enforced approbation. Hee loues humility in all men, but himselfe, as if hee did wish well to all soules but his owne.
+                  There is no matter of consequence, that Policy begets, but he will be Gossip to, and giue it a name, and knowes the intention of all proiects, before they be full hatched. Hee hath somewhat in him, which would bee better for himselfe, and all men, if he could keepe it in. In his hall, you shal see an old rusty sword hung vp, which he swears killed Glendower in the hands of his Grandsire. He fathers vpon himselfe some villanies, because they are in fashion; and so vilifies his credit, to aduance it. If a newe famous Courteghian be mentioned, he deeply knowes her: whom indeede he neuer saw. He will be ignorant of nothing, though it be a shame to know it. His barrell hath a continual spigot, but no tunnell; and like an vnthrift, he spends more then he gets. His speech of himselfe is euer historicall, histrionicall. He is indeed admirations creature, and a circumstantiall Mountebanke.
+               
+               
+                  Cure.
+                  FOr the cure of the corporall disease, you must giue the Patient such medicines, as diuide and purge phlegme; with an extenuating dyet. To cure this windy humour of vaine-glory, S. Paul hath a sharpe medicine: That his glory 
+                     Phil. 3. 19.
+                     
+                     is in his shame. Prescribe him, that the free giuing all glory to God, is the resultance of the best glory to man. The counsell of both Law and Gospell meetes in this. Let not the wise man glory in his wisedome, nor the strong in his strength, nor 
+                     Ier. 9. 23. 1. Cor. 10 17. 
+                     the rich in his wealth; but let him that glorieth, glorie in the Lord. That he hath nothing, (which is good) that he hath not receiued; and it is a shame for the Cisterne not to acknowledge the Fountaine. That the praise of good deserts is lost by want of humilitie. That there is none arrogant, but the ignorant: and that if hee vnderstood himselfe, his conceited sea is but a puddle, which euery iudicious obseruers plummet findes shallow, and muddy. That trafficking for the fraught of mens praises for his good worth, Hee suffers 
+                     Chryshom. 24 ad pop. Ant. 
+                     shipwracke in the hauen; and loseth his reward there, where hee should receiue it.
+                  
+               
+            
+            
+               The Itch, or the Busy-body. Disease 17.
+               THe Itch is a scuruy disease; a man would not think the soule had any infirmity to sample it. You shall finde the humor of a Busie-body, a contentious intermeddler very like it. The Itch is a corrupt humour betweene the skin and the flesh, running with a serpedinous course, till it hath defiled the whole body. Thus caused.
+               
+                  Cause.
+                  NAture being too strong for the euill humours in the body, packs them away to the vtter parts, to preserue the inner. If the humours be more rare and subtil, they are auoided by fumosities and sweat: if thicker, they turne to a scabious matter in the skin: some make this the effect of an inflamed liuer, &amp;c.
+               
+               
+                  
+                  Signes and Symptomes.
+                  IF this Itching curiositie take him in the Cephalica veine, and possesse the vnderstanding part, l e mootes more questions in an houre, then the seuen Wise men could resolue in seuen yeeres. There is a kinde of downe or curdle on his wit, which is like a Gentle womans train, more then needes. Hee would sing well, but that he is so full of Crochets. His questions are like a plume of feathers, which fooles wil giue any thing for, wise-men nothing. He hath a greater desire to know where Hell is, then to scape it: to know what God did before he made the world, then what he will do with him when it is ended. For want of correcting the garden of his inuentions, the weedes choke the herbes; and he suffers the skinne of his braine to boile into the broth. He is a dangerous Prognosticator, and propounds desperate riddles; which he gathers from the coniunction of Planets, Saturne and Iupiter; from doubtfull Oracles out of the hollow vaults and predictions of Merlin. He dreames of a cruell Dragon, whose head must bee in England, and taile in Ireland; of a headlesse crosse, of a popish curse. And Our Lord lights in our Ladies lappe, and therefoee England must haue a clappe. But they haue broken day with their Creditors, and the Planets haue proued honester, then their reports gaue them. Thus as Bion said of Astronomers, he sees not the fishes swimming by him in the water, yet sees perfectly those shining in the Zodiacke. Thus if the Itch hold him in the theoricall part. If in the practicall;
+                  His actions are polypragmaticall, his feete peripateticall. Erasmus pictures him to the life. He knowes what euery Marchant got in his voyage, what plots are at Rome, what stratagems 
+                     Enchirid. mil. Chan. 
+                     with the Turke &amp;c. Hee knowes strangers troubles, not the tumultuous fightings in his owne bosome, &amp;c. His neighbours estate he knowes to a penny; and wherein he failes,
+
+he supplyes by intelligence from their flattered seruants: he would serue well for an Informer to the Subsidie-book. He delayes euery passenger with inquiry of newes; and because the countrey cannot satiate him, hee trauels euery terme to London for it: whence returning without his full lode, himself makes it vp by the way. He buyes letters from the great citie with Capons; which he weares out in three dayes, with perpetuall opening them to his companions. If he heares but a word of some State-act, he professeth to know it, &amp; the intention, as if he had bene of the Counsell. He heares a lie in priuate, and hastes to publish it; so one knaue guls him, hee innumerable fooles, with the strange Fish at Yarmouth, or the Serpent in Sussex. Hee can keepe no secret in, without the hazzard of his button. He loues no man a moment longer, then either he will tell him, or hears of him newes. If the spirit of his tong be once raised, all the company cannot coniure it downe. He teaches his neighbor to work vnsent for, and tels him of some dangers without thankes. He comments vpon euery action, and answers a question ere it be halfe propounded. Alcibiades 
+                     Laert. mille drachm. hauing purchasd a dog at an vnreasonable price, cut off his tayle, and let him run about Athens; whiles euery man wondred at his intent, hee answered, that his intent was their wonder, for he did it onely to be talk'd of. The same Authour reports the like of a gawish Traueller that came to Sparta, who standing in the presence of Lacon a long time vpon one leg, that he might be obserued &amp; admired, cryed at the last: Oh Lacon, thou canst not stand so long vpon one legge. True, said Lacon, but euerie Goose can.
+                  
+                  His state, belike, is too little to finde him worke; hence he busieth himselfe in other mens common wealths: as if he were Towne-taster: hee scalds his lips in euery neighbours pottage. If this Itch proceed from some inflammation, his bleach is the breaking out of contention. Then he hath humorem in cerebro, in corde tumorem, rumorem in lingua. His braine is full of humour, his heart of tumour, his toung
+
+of rumour. He spits fire at euery word, and doth what hee can to set the whole world in combustion. He whispers in his neighbours eare how such a man slandered him: and returnes to the accused party (with like secrecy) the others inuectiue. He is hated of all, as being indeed a friend to none, but Lawyers and the Diuell.
+               
+               
+                  Cure.
+                  FOr his Cure; if his Itch proceede from a Moone-sicke head, the chiefe intention is to settle his braines; lest Act. 26. 24 Deut. 29. 29 
+                     too much learning make him madde: as Paul was wronged. Giue him this Electuary. That secret things belong to the Lord, and reuealed to vs and our children for euer. That the Iudgements of God are, soepe secreta, semper iusta: and therefore it is better mirari, quam rimari. That in seeking to know more then he ought, he knows not what he should. That gazing at the starres, he is like to fall into the lowest pit.
+                  If his Itch bee in his fingers, and that he growes like a Meddler in euery bodies Orchyard, let him apply this vnction. That he meddle with his owne businesse. That he recall his prodigall eyes, like wandring Dinahs, home; and teach thē another while to looke inward. That he be busie in repairing his own hart; for of other meddling comes no rest.
+                  If his disease proceed from a greater inflation or inflammation, thus sharpely scarifie him: That sowing discord among brethren, is that seuenth abomination to the Lord. That as Prou. 6. 19. Gen. 49. 7. troublesome men seeke faction, they shall meete with fraction; and as they haue a brotherhood in euill, so they shall bee 
+                     Senee. de ira. lib. 2. cap. 3 4. 
+                     deuided in Iacob, and scattered in Israel. That cum pare contendere, anceps est; cum superiore, furiosum: cum inferiore, sordidum. If thy enemy be equall, yet the victorie is doubtfull. If low, parce illi, it is no credit to conquer him. If great, parce tibi, fauour thy selfe, contend not. Serua parcem domi, pacem
+
+Domini. Loue peace, and the God of peace shall giue thee the peace of God, which passeth all vnderstanding.
+                  
+               
+            
+            
+               Stinking breath and Flattery. Disease 18.
+               THe Flatterer hath a disease very odious, foetorem or is, a stinking breath. The corporall disease is caused, 1. sometimes through putrefaction of the gummes. Secondly, sometimes through hote distemper of the mouth. Thirdly, sometimes through corrupt and rotten humours in the mouth of the stomach. Fourthly, and not seldome through the exulceration of the lungs. The maine cause of Flattery is a kinde of selfe-loue; for he onely commends others, to mend himselfe. The communis terminus, where al his frauds, dissimulations, false phrases and praises, his admirations, and superlatiue title meete, is his purse. His tongue serues two Masters his great-ones eare, his owne auarice.
+               
+                  Signes and Symptomes.
+                  IF the cause of this Stench be in the mouth, it is discerned: if in the vicious stomake, or vlcerate lungs, it is allayd by eating; and not so forcible after meates as before. So the Flatterers stomake is well layd after dinner; and til he grow hungry againe, his adulatory pipes goe not so hotely. His meanes come by obseruance, and though hee waite not at table, he serues for a foole. He is after the nature of a Barber; and first trimmes the head of his masters humour, and then sprinkles it with Court-water. He scrapes out his diet in curtsies; and cringeth to his glorious obiect, as a little Curre to a Mastiff: licking his hand, not with a healing, but poysoning tongue. Riches make many friends: truly; they are friends to the riches, not to the rich man. A great proud man, because hee is admired of a number of hang-byes, thinkes he hath many friends. So the Asse, that carryed the goddesse, thought all the knees bowed to her, when they reuerenced her burden. They play like flyes in his beams,
+
+whiles his wealth warnes them. Whilst like some great Oke, he stands high and spreads farre in the forrest, innumerable beasts shelter themselues vnder him, feeding like hogges on his acornes: but when the axe of distresse begins to fell him, there is not one left to hinder the blowe. Like burres, they sticke no longer on his coate, then there is a nappe on it. These Kites would not flocke to him, but that he is a fat carkase. Seianus, whom the Romans worship in the morning as a Semi-god, before night they teare apieces. Euen now stoopes, and presently strokes. You may be sure, he is but a gally-pot, full of hony, that these wasps houer about; and when they haue fed themselues at his cost, they giue him a sting for his kindnesse.
+                  The Flatterer is young Gallants Schoole-master, and enters them into booke-learning. Your cheating Tradesman can no more bee without such a Factor, then an Vsurer without a Broker. The Foxe (in the Fable) seeing the Crow highly perch'd, with a good morsell in his mouth, flattered him that he sung well, with no scant cōmendations of his voyce: wherof the Crow proud, began to make a noyse, and let the meat fall: the foolish bird seeing now himselfe deceiued, soone left singing, and the Foxe fell to eating. I need not morall it. The Instrument his tongue is tuned to anothers eare; but like a common fidler, he dares not an honest song. He lifts vp his Patrone at the tongues end, and sets him in a superlatiue height; like a Pharos, or the eye of the Countrey, when he's indeede the eye-sore. Hee sweares to him, that his commending any man is aboue a Iustice of peaces letter; and that the eyes of the Parish waite vpon him for his grace. Hee insinuates his prayse, most from others report: wherein (very rankely) he wrongs three at once. He belyes the named commender, the person to whom this commendation is sent, and most of all himselfe, the messenger. Whilst he supplies a man with the oyle of flatterie, hee wounds his heart; like thunder, which breakes the bone, without scratching the
+
+skinne. Hee seldome speakes so pompously of his friend, except hee be sure of Porters to carry it him. Hee is the proud mans eare-wig, and hauing once gotten in, impostumes his head. A continent man will easily find him; as knowing, that it is as euill, laudari à turpibus, as ob turpia. One being asked, which was the worst of beasts, answered; of wild beasts the Tyrant, of tame beasts the Flatterer. Like an ill Painter, because hee cannot draw a beautifull picture, he is euer limbing deformities and diuels: so the Flatterer, ignorant of goodnesse, layes faire colours vpon foule iniquities. This cunning wrastler stoopes lowe, to giue the greater fall, and wisheth to his obiect, as a whore to her Louer, abundance of all goods, except onely sober wits. Hee studies all the weeke for preuentions, to keepe his Patron on the Sunday from Church: a Sermon and hee are antipodes. Lest his Obserued should take him into the light, and looke on him, he keepes him perpetually hoodwink'd with the opinion of his owne knowledge; admiring his deeds for sanctimonious, and his words for Oracles. Sometimes Conscience is his riuall-aduocate, and pleades against him in his Patrons heart: but because the Iudge is partiall on his side, and his periurous tale runs so smooth with the graine of his affections, hee giues Conscience the check-mate. In short, hee is (at last) one way a Pandar, Cosenages Factor, sinnes Magician, and a pleasing murderer, that with arrident applauses tickles a man to death.
+               
+               
+                  Cure.
+                  TO cure this stinking breath of Adulation, giue him a vomit. Pro. 24. 24. 
+                     He that sayth to the wicked, Thou art righteous, him shall the people curse; nations shall abhorre him. But to them 
+                     Verse 25. 
+                     that rebuke him, shall be delight, and a good blessing shall come vpon them. As (not seruing our Lord Iesus Christ, but his owne 
+                     Rom. 16, 18.
+                     
+                     belly) by good words and faire speeches he hath deceiued the harts of the simple; so he hath most deceiued himselfe, and beene no lesse his owne foole, then others knaue. Tell him, that his beginning is hatefull to God, his end to men also. His great friend did no more loue him in his dreame, then hee will hate him waking: as a sicke man, after the receite of a loathsome potion, hates the very cruze, whereout he dranke it. And lightly, what hee hath got by flattering fooles, he spends vpon knaues; or worse, and dyes full of nothing but sinnes and diseases. Let him soundly repent, reforme himselfe, informe others, whom hee hath deformed; become a friend to goodnesse, and so to himselfe and others. Repentance and Obedience can only make his breath sweet.
+               
+            
+            
+               Short windednesse and wearinesse of doing well. Disease 19.
+               THe Asthma is caused by abundance of grosse &amp; clammy humours, gathered into the gristles, or lappets of the lungs: or through some distillations, wherewith the Trachea arteria, or wind-pipe is repleate.
+               
+                  Cause.
+                  THe causes of this spirituall Short-windednesse, are 1. want of Faith, which is the true life-bloud of courage against all difficulties. 2. want of Patience, to hold out in the working vp of saluation. 3. a feeble hope, not supposing the recompence to the worth of their labours.
+               
+               
+                  Signes and Symptomes.
+                  THe Signes of both the diseases are palpable: the Physician may easily iudge of his Patient, the Patient of himselfe. He prayes for a brunt very zealously, but like a
+
+hasty showre soone ouer. You shal haue him the first man at Church, on a Sabboth morning, and the first man out. He layes the foundation of an Almes-house, and so leaues it. He shootes vp, like Ionas gourd, in a night, and next day withers. Hee is in religious practices, like the Spring in that windy month, March many forwards. He riseth faire, as a Summer-sunne, but is soone clouded: no man rides faster at first putting forth, nor is sooner weary of his iourny. A little onwards to heauen, he quandaries, whether to go forward to God, or with Demas to turne back to the world. The light of his deuotion is euer anon in the ecclipse, and his whole life rings the changes; hot and cold, in and out, off and on, to and fro: he is peremptory in nothing, but in vicissitudes. Hee is early vp and neuer the neere; saluting Christ in the morning, but none of those that staied with him: therefore losing his reward, because he wil not tarry working in the Vineyard till night. He purposeth to go to God, Mat. 15. 32. and in the fit of his deuotion tels him so, but still breakes promise. One told Socrates, that he would faine trauel to Olympus, but he feared his ability to hold out the iourney. Socrates answered him, I know you walk euery day a little, put that together in a continuing straitnesse, and you shall come whither you desire. This man rowes (as we al should do) against the stream; &amp; whiles he neglects 2 or 3. strokes, he is carried down further in an houre, then he can recouer in a day. He loues, like a horse, short iourneys: &amp; walks on so warily, wearily, timorously, that he tels his steps, and his stops; and reckons euery impediment to a rub &amp; a thorne.
+               
+               
+                  Cure.
+                  FOr his cure. Pro ratione victus, as they prescribe for the Asthma, which is a disease in the body, to auoid perturbations of the mind: so let this Orthopnick, for the help of his mind, auoid needless perturbations of the body. He is troubled, like Martha about many things, but forgets the better part.
+                     
+Giue him some iuyce of Bulapathum, which is the herbe patience. For he hath neede of patience, that after he hath done the 
+                     Heb. 10. 36. 
+                     will of God, he might receaue the promise. Hee considers not that heauen is vp an hill, like Olympus with the heathen, mount Sion with the Christian, and therfore thinks to get thither per saltum, not per scansum. Assure him, that Saluation 
+                     Phil. 2. 12. 2. Pet. 1. 10. must be wrought vp, and Election made sure by diligence. That vincenti dabitur; not to him that flyes, nor to him that knockes a bout or two, nor to him that faints and yeelds, but To him that ouercomes. That who continues to the end shal be 
+                     Reu. 2. &amp; 3. Mat. 24. 13. 
+                     saued. That it was a shame to see Lot incestuous with his daughters in the Mount, that kept him chaste in Sodome: to see Noah mocked of his son for drunkennesse, by whose righteousnesse his sonne scaped. That he hath many incouragements, Christ calling, the Father blessing, the Spirit working, the Angels comforting, the Word directing, 2. Thes, 3. 13 Gala. 6. 9. Esa. 28. 12. the Crowne inuiting: all tuning him this one lesson, Bee not weary of weldoing. For in due season we shall reape, if we faint not: and after our weary labour finde rest.
+               
+            
+            
+               The Conclusion.
+               INnumerable are the bodies infirmities; introitus vnus, innumeri exi-tus, there being but one meanes of comming into the world, infinite of going out; and Sickenes is Deaths Leger▪ Ambassador. But they are few and scant, if compared to the souls; which being a better peece of timber, hath the more teredines breeding in it: as the fayrest flower hath the most Cantharides attending on it. The diuell loues the soule as the iewell, the body of the rinde or huske, as if it were without the other a dead commoditie, and would stinke in his hands. He cryes as the king of Sodome to Abrahrm, Da mihi animus▪ caetera cape tibi. If hee can corrupt this, hee knowes the other will fall to corruption of it selfe: for the soule workes by motion, the body but by action for the soules seruant. Now sathan was euer ambitious
+
+and will not care for the waiting Maide, if he may get the mistresse; or vseth the other but for his better conueyance and insinuation to this. And because it beares the narrow portraiture and image of that Creator hee emulates, this he seekes the more violently to deface. Let the body enioy the light and warmth of the Sunne, so hee can enwrap this in the cold clouds of darke night. A darke night indeed, wherein many soules do liue; hauing the little windowes or loope-holes of reason shadowed by the curtaines of fleshly lusts. Night is a sad, heauy, and vncomfortable time, to the vnresting body (a nurse of anguished thoughts at whose dugges sorrows and dreames lie continually sucking:) thinking euery houre an Olympiade, till the Sunne ariseth: so is the soules darkenesse, if securitie hath not rocked asleepe; and custome (which is the apoplexy of bed-rid nature, and wicked life) obstupefied her; an vnquiet, turbulent, and peacelesse time: with such hurrying tempests within, that the body tumbles vpon a soft bed, and after many experienced shiftings findes no ease.
+               There be three things, say Physicians, that grieue the body. First, the cause of sicknesse, a contranatural distemper, which lightly men bring on themselues, though the sediments rest in our sinne-corrupted nature. Secondly, sickenes it selfe. Thirdly, and the coincidents, that either fellow it, or follow it. In the soule there be three grieuances. First, originall prauitie, a naturall 
+                     〈 in non-Latin alphabet 〉
+                  , procliuitie to euil, contradiction to good. Secondly, actuall sinne, the maine sicknesse: Thirdly, and the concomitant effects, which are punishments corporall and spirituall, temporall and eternall. For all sinne makes worke; either for Christ, or Sathan: for Christ, to expiate by his bloud, and the efficacie of that once performed, euer auailable passion; or for the diuell, as Gods executioner to plague. Many remedies are giuen for many diseases: the sum is this; the best Physician is Christ Iesus, the best Physicke the Scriptures. Ply the one, fly to the other: let
+
+this teach thee, he must cure thee: that expresse image of his Fathers person, and brightnesse of his glory, in whom the graces of God shine without measure: oft haue you seene in one heauen I
+                        •
+                     b. 1. 3. many starres; behold in this Sonne, as in one starre many heauens: for in him dwelleth all fulnesse. let vs flye by our faithful prayers to this Physician, and intreate him for that Colos. 1. 19. medicine, that issued out of his side, water and bloud, to cure all our spirituall maladies. Fusus est sanguis medici, vt fiat medicamentum aegroti. And when in mercy he hath cured vs, let our dyet be a conuersation led after the canon of his sacred Truth: that whatsoeuer become of this fraile vessell, our flesh, floting on the waues of this world, the passenger our Soule may bee saued in the day of the Lord Iesus.
+               
+               Amen.
+            
+            FINIS.
+            
+         
+      
+   
+

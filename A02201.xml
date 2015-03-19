@@ -1,0 +1,829 @@
+
+   
+      
+         
+            The true and perfecte newes of the woorthy and valiaunt exploytes, performed and doone by that valiant knight Syr Frauncis Drake not onely at Sancto Domingo, and Carthagena, but also nowe at Cales, and vppon the coast of Spayne. 1587.
+            Greepe, Thomas.
+         
+         
+            
+               1587
+            
+         
+         Approx. 28 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2004-03 (EEBO-TCP Phase 1).
+            A02201
+            STC 12343
+            ESTC S105774
+            99841500
+            99841500
+            6086
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A02201)
+            Transcribed from: (Early English Books Online ; image set 6086)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 385:12)
+         
+         
+            
+               
+                  The true and perfecte newes of the woorthy and valiaunt exploytes, performed and doone by that valiant knight Syr Frauncis Drake not onely at Sancto Domingo, and Carthagena, but also nowe at Cales, and vppon the coast of Spayne. 1587.
+                  Greepe, Thomas.
+               
+               [24] p.   
+               
+                  By I. Charlewood, for Thomas Hackett,
+                  Printed at London :
+                  [1587]
+               
+               
+                  Dedication signed: Thomas Greepe.
+                  In verse.
+                  With a title-page woodcut.
+                  Publication date from STC.
+                  Signatures: A-C⁴.
+                  Running title reads: The worthy enterprises of Sir Frauncis Drake.
+                  Reproduction of the original in the Henry E. Huntington Library and Art Gallery.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Drake, Francis, --  Sir, 1540?-1596 --  Early works to 1800.
+               Drake, Francis, --  Sir, 1540?-1596 --  Poetry.
+            
+         
+      
+      
+         
+            2003-04
+            TCPAssigned for keying and markup
+         
+            2003-05
+            SPi GlobalKeyed and coded from ProQuest page images
+         
+            2003-10
+            Jonathan BlaneySampled and proofread
+         
+            2003-10
+            Jonathan BlaneyText and markup reviewed and edited
+         
+            2003-12
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            The true and perfecte Newes of the woorthy and valiaunt exploytes, performed and doone by that valiant Knight Syr Frauncis Drake: Not onely at Sancto Domingo, and Carthagena, but also nowe at Cales, and vppon the Coast of Spayne. 1587.
+            
+            Printed at London by I. Charlewood, for Thomas Hackett.
+         
+         
+            
+            
+            To the Right Honourable and hys singuler good Lord, George Clifford, Earle of Cumberland: Thomas Greepe wysheth long life, encrease of honor, with happy and eternall felicitie.
+            
+               
+                  RIght Honorable, reuerentlie regarding your most worthie &amp; condign
+                  •
+                fame, together with your most rare vertues, and finding such correspondence in both, as seemeth inseperable, I coulde not chuse but in all humilitie to offer to the handes of so noble a personne, (beeing a louer of all vertuous attempts) this rude vnpublished worke, more true in effect then fine in forme, and better for example (though rudelie written) then to be obscured, if penned by the best. The worke is a true breefe discourse of the most rare and worthy exploytes, performed by the right worshipfull Sir Frauncis Drake Knight, and his consortes in the fortunate Isles, which although the trueth thereof be not vnknowne to your Honor, yet the vulgar sorte of people in the Realme hauing hearde, and yet wanting the veritie of the fame, 
+                  •
+               ay by the pamphlet be the better aduertised. The which by howe much the playner it is written by mee, the better it is to be vnderstoode
+
+of the simplest, who in this case I seeke most to pl
+                  ••
+               se, 
+                  〈◊〉
+                my selfe a rude Countriman, brought vppe 
+                  ••
+               nie yeeres in Husbandrie, and more knowledge in Culturing of lande, then in descriptions of conquestes of Countries: Notwithstanding, weighing your honourable Lordships affabilitie &amp; courtesie in nature, to take well in worth the meanest thinges (extending to the encouragement of vertue &amp; valor, vvhereof you are patron) I presume the more to presse your Honour, to vouchsafe the acceptation and patronising of this small work of so great worth, in respect of the honourable action of so vvorthie men. Who neither number could daunt, nor force of vvall and shot keepe out, whereby it may be seene vnto the vvorlde, that God vvhich hath alvvayes defended his seruaunts in former ages▪ hath not let to shevv a miracle by these in our latter dayes. And so humbly crauing pardon of your honor for this presumption ministred, I rest a continuall beseecher of the almightie for your Lord
+                  •
+               hips most happy health vvith increase of honor in this life, and in the other euerlasting felicitie. Amen.
+            
+            
+               
+                  Your Honors for euer at commaundement in the Lorde, Thomas Greepe.
+               
+            
+         
+         
+            
+            To the Reader.
+            
+               HEere hast thou gentle Reader set forth vnto thee, the most woorthy and valiant exploytes and enterpryses, lately atchiued and doone by that valiant Knight, Syr Frauncis Drake &amp; others, not pend in lofty verse, nor curiously handled, but playnely and truely, so that it may be well vnderstood of the Reader, for there is nothing can more profitte thy posteritie heereafter, then the leauing in memory so worthy a thing, for how shoulde we know the woorthy deedes of our Elders, if those learned Poets and Historiographers had not sette them downe in wryting, as Iosephus for the state of the Iewes: Homer and Euripides for the Grecians: Titus Liuius for the Romaines: Quintus Curtius for the life of Alexander the great, and so of all others. At what time heretofore was there euer any English manne that did the like. as well for hys Nauigation and long trauell, and GOD bee praysed for hys good successe, to the greate terror and feare of the enemie, he beeing a man of meane calling, to deale with so mightie a Monarke.
+            
+               But nowe may the enemie see what woulde come to passe, if our gracious Queene woulde bende her whole force against them, therfore great cause haue we to be thankfull to God for so gracious a Princesse, and so prosperous and flourishing a common welth as this is, wherein we enioy, peace, welth, and tranquillitie, more aboundantly then any other Nation vnder the Sunne at this day. The Lorde long continue it for his names sake, and thus I ende, by dding thee farewell in the Lorde.
+         
+      
+      
+         
+            
+            The true and perfect Newes of the worthy and valiant exploytes atchiued and doone by that valiaunt Knight, Syr Frauncis Drake.
+            
+               TRyumph O England and reioyce,
+               And prayse thy God vncessantly
+               For thys thy Queene that pearle of choyse
+               Which God doth blesse with victory.
+               In Countryes strange both farre and néere,
+               All raging foes her force doth feare.
+            
+            
+               Yée woorthy wights that doo delighte,
+               To heare of Nouels straunge and rare,
+               What 
+                     〈…〉
+                   by a famous Knight
+               May please you marke I shall declare.
+               Such rare exploytes performde and doone
+               As none the like hath euer woone.
+            
+            
+               First call to minde howe Gedeon,
+                  
+                     Iosua cap. 3.
+                  
+               
+               But with thrée hundred fighting men
+               The Medians hoste he ouercame
+               A thousand to eche one of them.
+               He did suppresse Idolatry
+               The Lord gaue him the victory.
+            
+            
+               So likewise by Gods mighty hande
+               Syr Frauncis Drake by dreadfull sworde
+               Did foyle hys foes in forraine lande,
+               Which did contemne Christes holy word.
+               And many Captiues did sette frée
+               Which earst were long in misery.
+            
+            
+               
+               Twenty fiue Ships were then preparde,
+               Fifteene Pinnasses braue and fine
+               Well furnished for his safegarde
+               Preuenting foes that would him tyne.
+               With Masters good and Marriners 
+                     〈◊〉
+                  
+               
+               As euer tooke charge I dare compare.
+            
+            
+               The best Nauigators in this lande
+               Conferde with him vnto thys ende.
+               By thys famous knight to vnderstand
+               Theyr valors to atchieue and wende
+               In Countryes straunge beyond the sea,
+               If God permit who can say nay.
+            
+            
+               The Bonauenture a shyp royall
+               Cheefe Admirall then of the fléete
+               Sir Frauncis Drake chiefe Generall
+               As by desertes he was most méete.
+               Most worthy Captaynes of hand and hart
+               In thys boon voyage then tooke hys part.
+            
+            
+               The Primrose next, Uize-Admirall
+               Appointed by theyr best deuise
+               Captayne Frobisher Uize Generall
+               A valiant Captayne ware and wyse.
+               Captayne Carelell they did ordayne,
+               Liefetenant Generall on the mayne.
+            
+            
+               The Ayde a royall shyppe and hotte
+               The Gallien wyll conuict her foes,
+               The Sea-Dragon she spares no shott
+               The Talbott barkes where ere she goes
+               The Whyte Lyon her foes wyll smart
+               And all the rest wyll take her part.
+            
+            
+               
+               At Plimmouth they remayned a space,
+               Till all their Ships were furnished:
+               Their gouernment, good fame and grace,
+               Throughout the Realme is published.
+               Their sayles displaide the Seas t'atchiue.
+               September, Anno eighty fyue.
+            
+            
+               Before which month was fully doone,
+               At Bayon first they did ariue:
+               The Towne perforce they might haue wonne,
+               But they pretended not to striue,
+               By Parlée then they did agrée:
+               The Generall vsed them courteously.
+            
+            
+               The men of Vigo in raging ire,
+               Then made great bragges them to molest:
+               Yet in the ende at theyr desire,
+               He graunted them theyr owne request.
+               For he was loth these Townes to inuade:
+               For hindring of our Marchants trade.
+            
+            
+               Then setting sayle from thence in hast,
+               To the Canaries swift they flye:
+               Thrée hundred Leagues by count were past,
+               Ere they the Towne of Palme came nie.
+               These proude Townesmen enuying theyr fléete,
+               Th
+                     ••
+                   shot at them in great despite.
+            
+            
+               Let not these Townesmen be to bolde,
+               I wish them not to bragge or vaunt:
+               Twas not theyr Gunnes nor force that could,
+               Once make our English harts to daunt.
+               If wynde and waues had not so wrought:
+               Full déerely they theyr pride had bought.
+            
+            
+               
+               This famous fléete sayles on their way,
+               To Sancto Yuago they were bent:
+               Short of this Towne thrée leagues I say,
+               Twelue hundred men on shore were sent.
+               On Nouember the seauentéene day,
+               With Captaines stoute to kéepe the way.
+            
+            
+               Their noble Generall sayles about,
+               But all the fléete rode néere the 
+                     •
+                  owne:
+               Most valiant Captaines with souldiours stoute,
+               Then marching foorth through vale and downe.
+               To méete their Generall in the morne
+               As it was pointed earst beforne.
+            
+            
+               Their foes hauing intelligence
+               They were beset by sea and land:
+               They dare not prooue experience,
+               The Drake by force for to withstand.
+               They fled that night and durst not stay
+               Preuenting so theyr Enemies pray.
+            
+            
+               Then in the morne rathe as the sunne,
+               The towne they entred valiantly:
+               From place to place the Souldiours runne,
+               Séeking to finde commoditie.
+               Both coyne and plate some chaunst to find
+               Which they had hid and left behind.
+            
+            
+               Of victualles there they founde good store,
+               With wine and suger of the best:
+               Then quietly praise God therefore,
+               They made a worthy victors feast,
+               Their Masking robes of costly price
+               Our men for bréeches did deuise.
+            
+            
+               
+               Fouretéene dayes they kept this towne,
+               With honour, fame, and victory:
+               Theyr Idoll gods eche where puld downe,
+               With all theyr fond Idolatry.
+               With brasse Ordenaunce of good weight:
+               They ballast their ships which were light.
+            
+            
+               Two little townes in the same Ile,
+               Th'one Domingo, th'other Pray:
+               These men theyr Fryers did beguile
+               They left theyr Townes and ranne away.
+               The Fryers thought they would haue fought
+               To holde theyr Masse, as they them taught.
+            
+            
+               For they had promist them before
+               If that they wo
+                     •
+                  ld fight for theyr masse:
+               For all theyr sinnes they had in store,
+               They should be pardoned more and lesse.
+               But they so sore did feare the Drake
+               
+               They let theyr Fryers stand to stake.
+            
+            
+               The Marriners this while prouide,
+               For victuals and fresh water store:
+               All thinges were brought aboorde that tyde
+               As their Maisters wild them before.
+               To Parlée then they did refuse,
+               Whereby they wrought theyr owne abuse:
+            
+            
+               The Generall minding to depart
+               Commaundes his men in hast aboorde
+               Then lifting vp both handes and hart,
+               Most thankfully they praise the Lord.
+               For giuing them such victory:
+               Without bloodshed or ieoperdie.
+            
+            
+               
+               A long course then from thence they runne,
+               Nine hundreth Leagues or they did stay:
+               To one straunge Ile at length they come,
+               Where sauadge people bare the sway.
+               Though wyld and nakte, yet nothing straunge:
+               Theyr trifles for nifles faine would chaunge.
+            
+            
+               In fifty leagues sayling from thence,
+               Straunge Ilands more they did descry:
+               Then Hispaniola came in presence,
+               With Sancto Domingo presentlie.
+               The chéefe Citty for theyr behooue:
+               Where they their valor ment to prooue.
+            
+            
+               Their Generall then prudently,
+               Preuenting the perrill of his men:
+               The gaynest way for their safetie,
+               With discréete heads concluding then
+               One thousand men should martch by land
+               With Captaines stout to guide their band.
+            
+            
+               Taking leaue of their Generall,
+               After the court'sey of merry England:
+               On Gods most holy name they call,
+               To strength them with his mightie hande.
+               They martched foorth then in their way
+               Their Generall sayles about by Sea.
+            
+            
+               When néere this Towne our men were séene
+               A troupe of Horsemen issued out:
+               And vaunted brauely on the gréene,
+               Minding to compasse them about.
+               Our fore winges helpe with their small shot:
+               Made them retire to saue theyr coate.
+            
+            
+               
+               Their Ordenaunce plast amid their gate,
+               Whereas they thought our men would venter:
+               Though daungerous, no way saue that,
+               So easie was for them to enter.
+               Their foes discharge a péece or twayne:
+               Yet as God would but two were slayne.
+            
+            
+               Courage, courage, our Captaines crie,
+               Good Souldiours now lets fight like men:
+               Then all at once ranne valiantly,
+               Their shot discharged, with weapons then,
+               They lay one loade on either side:
+               Though fiue to one▪ yet durst not bide.
+            
+            
+               Their Gunner priming of his péece,
+               Sawe them come running in a rage.
+               Let Linstocke fall, away he flées,
+               And all the rest as for a wage,
+               To saue theyr liues if it might bée:
+               Our English Souldiers made them flée.
+            
+            
+               Their Generall busied all this while,
+               His shippes ancoring before the Towne:
+               His Gunners and theyr mates likewise,
+               With thundring shot then made them frowne.
+               They battered both at Towne and fort:
+               And in the fielde none dared to sporte.
+            
+            
+               Then for theyr Ladies helpe they pray,
+               
+                  Miserecordia how chaunceth this:
+               Our Fryars said no Masse to day,
+               For want of leasure they did misse.
+               Their Gods likewise they did desire:
+               But Saint Domingo could not heare.
+            
+            
+               
+               Then sore afrayd they gan to trudge,
+               Some with fardle and some with packe:
+               Unto the Woods for theyr refuge,
+               To shroud themselues they did not slacke.
+               The General landes without annoy:
+               His Captaines then met him with ioy.
+            
+            
+               They entred the Towne then valiantly,
+               And tooke possession of the same:
+               And spred their Ensignes triumphantly,
+               Great valours they atchiue by fame▪
+               
+               
+                  
+                     The towne wonne on New yeres Day.
+                  Then trumpets sound the Souldiours shift:
+               They prayse God for their New yéeres gift.
+            
+            
+               Theyr enemies fled with such great hast,
+               They left their rostmeate on the spit:
+               Hennes and Chickins well crombd and baste,
+               Tables couered ready to sitte.
+               Wine and suger they found good store:
+               Their guests were come vnlooked for.
+            
+            
+               Their beds were made their Chambers drest,
+               The Curtines drawne braue and fine
+               Theyr parrell brusht and finely prest
+               Sir you shall choose but this is mine.
+               Some Iewels were hid in walles and chest,
+               Then some they found and some they mist.
+            
+            
+               By good aduise and gouernment,
+               Thys towne one month they then possest
+               Theyr famous dames by Rulers sent,
+               With costly presents of the best
+               Praying the Generall courteously
+               He would vouchsafe spare theyr Citty.
+            
+            
+               
+               The Marriners the while prouide,
+               For victualles and fresh water swéete:
+               With other commodities beside,
+               Which was conuaide aboord the fléete.
+               Commaundement then was giuen straight way:
+               All men aboorde without delay.
+            
+            
+               Then presently they sayled thence,
+               To one ritch Iland they were bent:
+               But winde and storme turnd their pretence,
+               And other course then they inuent.
+               With Carthagena they set at last:
+               Where all theyr fléete their Anchors cast.
+            
+            
+               This towne was strong, well fenst about,
+               Foure hundred souldiours vnder pay:
+               Foure hundred Indians in a scoute,
+               Besides their townesmen in aray.
+               For they had newes the Drake would come:
+               And they thought sure to be his doome.
+            
+            
+               Theyr forte well mande and fortressed,
+               Fiue Sconces wherein good Ordenaunce was:
+               Thrée Gallies then were amplified,
+               With fiftéene péeces of good Brasse.
+               Full little then they feared the Drake:
+               For they thought sure to make him quake.
+            
+            
+               One mischéefe more they doo deuise,
+               Whereby they thought to spoyle our men:
+               Many poysoned prickes in sundry wise,
+               Amidst their way they fastened then.
+               To pricke their shinnes they did purpose:
+               But the Lord God did that disclose.
+            
+            
+               
+               Nine hundred men were set one land,
+               And marching foorth then all by night:
+               Untill they came vnto the strande,
+               Where prickes with poysoned heades were dight.
+               The water lowe as Gods will was:
+               Twixt strand and seas they safely passe.
+            
+            
+               Then in the morne before daylight.
+               They came full in theyr Enemies face:
+               Then all at once with force and might,
+               They ran vppon them in a race.
+               For all their force and thundring shot:
+               One of theyr Sconces soone they got.
+            
+            
+               As God shut vp the Lyons Iawes,
+               From noying his Prophet Daniell:
+               And eke preserued from tyrantes pawes,
+               The thrée children of Israell.
+               And saued them in the Ouen so hotte:
+               So he conuayd away their shotte.
+            
+            
+               Our Captaines then most valiantly.
+               To courage their Souldiours for to fight:
+               Did ieoperd themselues then formostlie,
+               Which made their enemies dread their might.
+               Boldned souldiours, put foes to shame:
+               To winne their countrie honour and fame.
+            
+            
+               From Sconce to Sconce then they retyre.
+               Theyr lofty harts right soone were quailde:
+               They left their holdes and fled for feare,
+               Then with theyr héeles they best preuaile.
+               And as they fled straung newes they tell:
+               These be no men but féendes of hell.
+            
+            
+               
+               Their Ordenaunce and artillerie,
+               Which in their holdes did then remaine
+               Our men atchiue with victory
+               The Towne like c
+                     •
+                  se they won certaine.
+               Their Ensignes then they did display:
+               Upon theyr walles none 
+                     •
+                  urst say nay.
+            
+            
+               The Souldiours then séeke for their pray,
+               Some for their bellyes likewise did care:
+               Though breakefast sharpe now care away,
+               Their dinners swéete and wholesome fare.
+               Bread and victuals they found good store:
+               With wine and suger as erst before.
+            
+            
+               They made a Sconce amidst the stréete,
+               And plast great Ordenaunce in the fame
+               To charge the watch when't came to night,
+               To daunt their foes their rage to 
+                     〈◊〉
+                  .
+               Being shot o
+                     •
+                   their thundring 
+                     •
+                  ound▪
+               
+               So shooke theyr Church, the roofe fell d
+                     •
+                  wne.
+            
+            
+               This Towne also they kept a space,
+               And eke the Fryery there beside:
+               These Townesmen then with humble grace,
+               Besought the Generall at that tide.
+               To release their towne he would vouchsaue
+               And they would gyue what he would haue.
+            
+            
+               All things prouided orderly,
+               And brought vnto the waters side
+               Munitions and artillerie,
+               Was all imbarked at that tide,
+               The Marriners without delay:
+               These thinges aboorde with spéede conuay.
+            
+            
+               
+               The Generall with his company,
+               Then in a Frigat 
+                     ••
+                  tlie plaste:
+               And all his Souldiours in a route,
+               In Pinnasses with him then past.
+               The Castle which first did them annoy:
+               As they past by they did destroy.
+            
+            
+               Then when aboord their shippes they come,
+               They were receyued ioyfully:
+               A peale of Gunnes with thundring soun
+                     •
+                  ,
+               For one houre space euen pearst the skie.
+               Theyr Drumes strooke vp their Trumpets soūd
+               Theyr victories which doo abound.
+            
+            
+               Their yardes a crosse hoyst at the toppe,
+               Theyr Anchors wayde then presently:
+               Theyr sayles displayd, their good ships loppe,
+               The Mariners standes their tackling by.
+               Eche Helme belayd with good respect:
+               As skilfull Maisters did directe.
+            
+            
+               Recording then their victories,
+               Which they had wonne by Gods great might:
+               And eke the sundry ieoperdies:
+               They had escaped day and night.
+               They yéeld God thankes most hartely:
+               Both for his ayde and victory.
+            
+            
+               Then homeward as their course did lie,
+               At sundry Iles they put a shore:
+               Their former wantes for to supply,
+               With victuales and fresh water store.
+               At Florida they did ariue:
+               Saint Augustine for to atchiue.
+            
+            
+               
+               These townesmen trusting in their strength,
+               Then fiercely set against the Drake:
+               Yet he and's men preuaile at length,
+               When they were faine theyr towne forsake,
+               Which when he had possest with fame:
+               Upon humble sute releast the same.
+            
+            
+               This towne they wan most valiantly,
+               As they did all the rest before:
+               The Lord was still their victory,
+               Whose name be praysed euermore.
+               And yeeld to Drake his due and right:
+               Let fame extoll this noble knight.
+            
+            
+               His rare attempts performed and doone,
+               With honour, fame and victory:
+               The like before who euer wonne,
+               That you can call to memorie.
+               Therefore I pray for Englandes sake:
+               The Lord preserue the noble Drake.
+               
+            
+            
+               When siedge is layd to towne or forte,
+               And then the same bée yéelded straight:
+               The valour's then of small report,
+               And the exploites of no great waight.
+               But where with force they bide the brunt:
+               Theyr conquestes are of great account.
+            
+            
+               
+                  Vlisses with his Nauie great,
+               In ten yéeres space great valour wonne:
+               Yet all his time did no such feate,
+               As Drake within one yéere hath doone.
+               Both Turke and Pope and all our foes:
+               Doo dread this 
+                     
+                        •
+                     rake where ere he goes.
+            
+            
+               
+               After he had such 
+                     •
+                  alours wonne,
+               And ouercame the enemie:
+               To merry England he wo
+                     •
+                  ld returne,
+               The pleasants land in, Christientie.
+               At Portesmouth then by Gods good grace:
+               With all his fléete 
+                     〈◊〉
+                   in short space.
+            
+            
+               When tidinges came vnto the Courte,
+               Sir Frauncis Drake was newe came home:
+               Her highnes hearin
+                     •
+                   this report,
+               Her grace was glad that he was come.
+               And all her Lords with one accord
+               For hys safe returne praysed the Lord.
+            
+            
+               To Portesmouth then there did resort,
+               Right worshipfull from Citty and towne:
+               This Knight to welcome to the porte,
+               With honor, fame and great renowne.
+               His valiant Captaines and gentles bloode,
+               They welcomed home with ioyfull moode.
+            
+            
+               His entertainement at the Courte,
+               With his Captaines of worthy fame:
+               I néede not stand to make report,
+               Sith brute eche where hath spred the same.
+               Yet once againe for Englands sake:
+               Pray God spéede well the noble Drake.
+               
+            
+            
+               His valiant minde, his secrete skill,
+               By flying Fame eche where is spred:
+               His loyall loue his méere good will,
+               To Quéene and Realme both séene and read.
+               Sith God is dooer of the same:
+               Let vs all prayse his holy name.
+            
+            
+               
+               Through him he got great victories,
+               Through him he did his foes dismay:
+               Through him he scapt great ieoperdies,
+               And perrill both by Land and Sea.
+               Who hath preserued by his great might:
+               Our Quéene and realme yéeres twenty eyght.
+            
+            
+               God saue our Quéene of merry England,
+               His sacred word long to maintaine:
+               Her Graces Nauie and royall bande,
+               Through his good grace may long remaine.
+               Lord blesse her counsell and kéepe them aye:
+               With all true Subiects night and day.
+            
+            Finis
+            
+               quoth Thomas Greepe.
+            
+         
+         
+            
+            To the right reuerende, godly learned Father, my very good freend, M. Iohn Fox, preacher of the word of GOD.
+            MAister Fox, whereas we haue had of late such happy successe against the Spanyardes, I doo assure my selfe that you haue faithfully remembred vs in your good prayers, and therefore I haue not forgotten, breef
+                  •
+               ly to make you pertaker thereof. The 19. of Aprill wee arriued within the Rode of Calles where we found very manie shipping, but amongst the reste 32. of exceeding burden, lade, and to be laden with prouision, &amp; prepared to furnish the Kinges Nauie, intended with all speede against England, the which when wee had boorded, and also furnished our seuerall Ships with prouision as wee thought sufficient, wee burnt: And although by the space of two dayes and two nights that wee continued there, we were stil endaungered, both with thundring shott from the Towne, and assailed with the roaring Cannons of twelue Gallyes: yet wee suncke two of them, and one greate Argosey, and still auoyded them with very small hurt, and so at our departure we brought away foure ships of prouision, to the great terror of our enemies,
+
+and honor to our selues, as it may appeare by a most curteous Letter written vnto me with a Flagge of truce, by Duke Petro, Generall of the Gallyes. But where as it is most certayne, that the king doth not onely make speedy preparatiō in Spayne, but likewise expected a verye great Fleete from the Straytes, and dyuers other places, that shold ioyne with his forces to inuade England: We purpose to sette apart all feare of daunger, and by Gods furtheraunce to proceede by all the good meanes we can deuise to preuent theyr comming, wherfore I shall desire you to continue faithfull in remembraunce of vs in your prayers, that our purpose may take that good effect, as God may be glorifyed, his Church, our Queene and Country preserued, and these Enemies of the trueth vtterly vanquished, that we may haue continuall peace in Israel. Frō aboord her Maiesties good Ship the Elizabeth Bonauenture.
+            
+            
+               Your louing freende, and faythfull Sonne in Christ Iesus. Frauncis Drake.
+            
+            
+               Our enemies are many, but our protector commaundeth the whole world, let vs all pray continually, and our Lorde Iesus wyll heare vs in good time mercifully.
+               
+                  Frauncis Drake.
+                  Wrytten by the hands of M. Pynner. 
+               
+            
+         
+      
+   
+

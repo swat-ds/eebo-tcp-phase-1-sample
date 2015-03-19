@@ -1,0 +1,2842 @@
+
+   
+      
+         
+            The manuell of Epictetus, translated out of Greeke into French, and now into English, conferred with two Latine translations. Herevnto are annexed annotations, and also the apothegs of the same author. By Ia. Sanford
+            Manual. English
+            Epictetus.
+         
+         
+            
+               1567
+            
+         
+         Approx. 108 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2007-10 (EEBO-TCP Phase 1).
+            A00301
+            STC 10423
+            ESTC S101652
+            99837460
+            99837460
+            1781
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A00301)
+            Transcribed from: (Early English Books Online ; image set 1781)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 495:7)
+         
+         
+            
+               
+                  The manuell of Epictetus, translated out of Greeke into French, and now into English, conferred with two Latine translations. Herevnto are annexed annotations, and also the apothegs of the same author. By Ia. Sanford
+                  Manual. English
+                  Epictetus.
+                  Sandford, James.
+               
+               [8], 36, [4] leaves   
+               
+                  By H. Bynneman for Leonard Maylard,
+                  Imprinted at London :
+                  Anno. 1567.
+               
+               
+                  A translation of: Enchiridion.
+                  The penultimate leaf is foliated 37.
+                  With a final colophon leaf.
+                  Reproduction of the original in the Henry E. Huntington Library and Art Gallery.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Ethics, Ancient.
+            
+         
+      
+      
+         
+            2006-11
+            TCPAssigned for keying and markup
+         
+            2006-11
+            AptaraKeyed and coded from ProQuest page images
+         
+            2007-01
+            Jonathan BlaneySampled and proofread
+         
+            2007-01
+            Jonathan BlaneyText and markup reviewed and edited
+         
+            2007-02
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            The Manuell of Epictetus,
+Tranſlated out of Greeke
+into French, and now into Engliſh,
+conferred with two Latine Tranſlations.
+            Herevnto are annexed Annotations, and
+alſo the Apothegs of the ſame Author.
+By Ia. Sanford.
+            
+               
+                  OMNIA TEMPVS HABENT
+               
+               printer's device of Henry Bynneman
+            
+            Imprinted at London by H. Bynneman
+for Leonard Maylard. ANNO. 1567.
+         
+         
+            
+            Tetraſticon ad Reginam.
+            Scilicet exiguū (Princeps mitiſsima) quicquid
+            Expromit liber hic, non tamen exiguum
+            Si te reſpicias, magni non muneris instar
+            Si libri ſenſum non erit exiguum.
+         
+         
+            
+            To the moſt high and
+vertuous Princeſſe, ELIZABETH by
+the grace of God, of England, Fraunce
+and Ireland Queene, defender of the faith,
+long health and perpetuall felicitie.
+            
+               
+                  ALthoughe I haue not
+attained (moſt ſoueraign
+Lady) to that ripeneſſe
+in knoweledge and profoundneſſe
+in lerning, as
+they haue, who bothe in
+reding and writing haue
+ſpente almoſt the whole
+courſe of their age. Yet foraſmuch as paynefull
+practize ioyned with diligent ſtudie, bringeth
+to effect ſome thing worth the labour, I toke in
+hand this little Boke, as a triall in the true trade
+of interpreting. Which done, I thought not my
+trauaile myſſpent, but worthie to be publiſhed
+abrode for a common vſe and commoditie, and
+meete that of all eſtates he be vſually read, dayly
+to be had in hande, and continually to be had in
+remembraunce: for if a man reade this, and in
+reading conſider it with a quiet minde voide of
+all care and ſolicitude, and being attentiue vpon
+one thing wherin he is conuerſant, he ſhal find
+(as I ſuppoſe) nothing more excellent, nothing
+more commodious, nothing more godly to be
+taughte and ſhewed vs, than the ſumme of thys
+
+Boke, and the principal pointes herein comprehended
+and contained, which are theſe:
+            Hurt no man. Obey God and nature.
+Suffer iniuries. Deſerue wel of al men as
+nigh as thou mayst. Take in good parte
+whatſoeuer chaunce without thy default.
+Vſe ſuch things as are giuē for the neceſſitie
+of life, as if thou didst not vſe them,
+and gladly to reſtore the ſame when God
+or Fortune (as we commonly ſay) requireth
+the ſame. Repoſe and accompt felicitie
+in an vpright and quiet minde. Finally
+recreate and content thy ſelf in the
+diuine adminiſtration of worldly things,
+as very iust and wiſe, and to vs auaileable,
+althoughe ſometimes it ſeeme very
+grieuous.
+            Theſe things ſo great, ſo profitable, ſo needefull
+to be knowen, ſo auaileable for well framing of
+life, if we ſhut it within the cheſt of our mind,
+it is far from that we ſhould be void of all perturbatiōs
+and trobleſome motions of the mind,
+that we ſhould be in felicitie, and leade our life
+both well and wealthilie. You may coiecture
+(moſt gracious and ſoueraigne Lady) that in dedicating
+this Boke vnto your highneſſe, I mene
+to inſtruct one better learned than my ſelfe, and
+as the Prouerbe is SVS MINERVAM, the
+
+which doubtleſſe is fartheſt off from my cogitations:
+for it is the ſigne of a man bereft of his
+witte, and not of a ſounde and perfecte minde,
+to carrie wood into the Wood, and to caſt water
+into the Sea. What ſhoulde I ſpeake of the
+goodly vertues wherewith you are adorned?
+            What ſhoulde I ſet forth and with prayſes extol
+your excellent endowments both of minde and
+bodie, which cauſe in all men an admiration?
+            For the Greeke tong you are to be compared to
+ZENOBIA Queene of the Palmirians, who
+was very skilfull in the Greeke language, and
+in the Latin not ignorant. For Eloquence you
+may be likened to CORNELIA mother of the
+Gracchi. For the embracing of the holy and ſacred
+ſcripture you are to be numbred with FABIOLA
+and MARCELLA women wel lerned
+and ſtudious of the heauēly veritie. In brief▪
+you may be reconed as EVSTOCHIVM was,
+who in hir time bicauſe of hir litterature and
+profoundneſſe in knowledge, was called Nouū
+orbis prodigiū. Your knowledge in the French,
+Spaniſh and Italian tong I nede not declare, for
+vertue nedeth no commendation, nor delighteth
+to be ennobled with gay gloſsing communication:
+for where the ſunne caſteth his gliſtering
+beames, the light of the candell is diminiſhed
+and obſcured. This Stoick Philoſopher EPICTETVS
+wrote this worke in a large Volume,
+in his mother tong, and was abbreuiated by one
+
+ARRIANVS a Grecian into this forme, and
+entituled it Enchyridion, than the which there
+can be no Booke to the wel framing of our life
+more profitable and neceſſary. The Authoure
+whereof although he were an Ethnicke, yet he
+wrote very godly &amp; chriſtianly, and as he ſpeaketh
+in other tongs, ſo nowe he ſhall ſpeake in
+the Engliſhe language, and vnder your Graces
+protection ſhalbe publiſhed to the commoditie
+of many. Moſt humbly beſeeching your highneſſe,
+to accepte and take in good parte this
+little Booke, offring it as a pledge of
+my bounden dutie towards
+your highneſſe, &amp; affection
+towardes
+my countrie.
+❧ 
+               ❧
+            
+            
+               Your highneſſe moſt humble
+and loyall ſubiect Iames Sanforde.
+            
+         
+         
+            
+            To the Reader.
+            
+               THis booke (gentle Reader)
+is entituled a Manuell,
+which is deriued
+of the Latin word Manuale,
+and in Gréeke
+is called Enchyridion,
+bicauſe he may be contained 
+                  〈 in non-Latin alphabet 〉
+               
+that is, in the hand. It is a diminutiue
+of Manus, as it were a ſtorehouſe, &amp;
+which ought always to be had in hād,
+as the hādle in the ſword. This word
+Enchyridion doeth not onely ſignifie a
+Manuel, but alſo a ſhort dagger, which
+is vſed in the warres, or a Poineado.
+Wherefore ſome do entitle this boke
+Enchyridion, yt is, a ſhort Dagger: for
+like as ye Dagger defēdeth a mā from
+his enimie, euē ſo this little booke doth
+defend one in perfectneſſe of minde, &amp;
+ſaueth him frō the filthy fogge of wicked
+vices. The title of eyther of theſe
+may be wel applied to the boke, ye one
+reſpecting the quantitie, the other the
+matter in the booke comprehended.
+            The wordes contained in him, are of
+
+greate force and full of efficacie, to
+moue mennes myndes, for euery man
+may knowe his affections in him, and
+to the amending of them, he is ſtirred
+as it were with a pricke. His ſtile or
+maner of wordes is brief, and voyd
+of all elegancie in wordes, very
+much like the Pithagorean
+Precepts, which they
+call Diathecae.
+            
+            Fare wel gentle Reder, and
+accept in good part
+theſe my labours.
+         
+         
+            
+               
+               In Sanfordi Epictetum Anglum. E. L.
+               IMpiger extremis rediens Mercator ab Indis
+               Has inquit merces India fuſca tulit.
+               Et ſilet, &amp; vendit, ſatis &amp; laudaſſe putatur
+               Et precium nummi nobile pondus habet,
+               India fuſca tulit: quid tum ſi Graecia ferret?
+               Quid ſi Roma tulit? Gallia ſiue tulit?
+               Graecia, Roma, ſuis pretiū num mercibus addūt?
+               Gallia ſi quid habet, nū quo
+                     
+                        
+                     
+                     que
+                   pondus habet?
+               Si modo pondus habet, pōdus feret iſte libellus,
+               Qui nunc eſt Anglus, qui modo Gallus erat,
+               Graecia quem vidit Graecū, quē Roma Latinum,
+               Quem
+                     
+                        
+                     
+                     que
+                   nouos docuit lingua Britanna ſonos:
+               Impiger ad noſtras quem tu Mercator ad oras
+               Attuleras SANFORD, ſic quo
+                     
+                        
+                     
+                     que
+                   ſanctus eras.
+               Sic quo
+                     
+                        
+                     
+                     que
+                   ſanctus erit labor hic tuus, &amp; liber idē
+               
+               Et ſi ſanctus erit nobile pondus habet.
+               Nobile pondus habet ſuauiſsimus ore Britānus,
+               At magis ore ſacer nobile pondus habet.
+            
+            
+               Eiuſdem Edmundi Lewkener
+Libri ad Lectorem Proſopopeia.
+               VErba libri
+                     
+                        
+                     
+                     que
+                   docent ſacrae munimina vitae,
+               Virtus eſt clarae nobilitatis iter,
+               Eliſij Campi vitae ſunt munera ſacrae,
+               At comes eſt magnae nobilitatis honos.
+               In me diuinae lucet virtutis Imago,
+               Atque ego ſum vitae dux ſine labe tuae.
+               Ergo ſi coelos, ſi non contemnis honores,
+               Tu face quod iubeo munus vtrumque feres.
+            
+         
+         
+            
+            Againſt curious Carpers.
+            
+               CArp not ye cankred zoiles al, the men
+               Whoſe labour ſpente in paynfull toyle
+hath ben
+               To blaſe the badge and banner braue diſplay
+               Of noble vertues force and craggie way.
+            
+            
+               The byting Theon &amp; Daphitas bolde
+               VVith all the railing rable manifolde
+               Of zoilus ſect ceaſe biting chaps to vſe
+               Againſt ſuch, who on learnings lore doe
+muſe.
+            
+            
+               The learned Homer, and Praxitiles,
+               
+               To taūting talk, &amp; miſreports wer theſe
+               Subiect. Therfore ſhould I eſteme my ſelf
+               T'eſcape the iarring iawes of zoilus elfe?
+            
+         
+         
+            
+            The life of Epictetus.
+            
+               
+                  EPictetus a noble Philoſopher
+in the Stoick
+profeſſion was born of
+ſeruile parents in Hieropolis
+a Citie of Phrigia,
+who albeit he was
+a bond man, lame, and in extreme penurie,
+yet he doubted not earneſtely
+to affirme that he was a friend to the
+Gods, in two verſes very well knowen
+among the Gréekes, whiche are
+cited both of Macrobius and Aulus
+Gellius, and be theſe:
+
+                  
+                     
+                        〈 in non-Latin alphabet 〉
+                     
+                  
+                  
+                     
+                        〈 in non-Latin alphabet 〉
+                     .
+               
+Which are of a certaine Writer trā
+               ſlated
+into Latine after this manner:
+
+                  Seruus Epictetus genitus ſum corpore
+claudus,
+                  Paupertate irus, Dijs &amp; amicus ego.
+               
+And may thus be Engliſhed:
+
+                  Of ſeruile kinde I borne was,
+                  hight Epictete by name,
+                  
+                     
+In ſubſtance pore, to God a friend
+                  and eke in body lame.
+               
+            
+            He ſerued in Rome one called Epaphroditus
+familiar with the Emperour
+Nero. And liued in Rome all the
+time of Marcus Antonius raigne.
+But when Domitian tooke rule in
+hande, he went from Rome to Hieropolis
+where he was borne, ſuppoſing
+that to be true, whiche is in the Tragicall
+Poet. Patriam eſse cuiuſque, vbi
+quis recte ageret, that is:
+
+                  A man his countrey is euen there
+                  Where of God and man he ſtands in feare.
+               
+            
+            He did reade in Plato (of whome he
+was a diligent Reader and follower)
+in that Dialogue which is entituled
+Primus Alcibiades, or De natura hominis,
+that he properly and verily was
+a man, whoſe ſubſtaunce altogether
+did conſiſte in the reaſonable mynde,
+accompting the minde only to be mā,
+and ye body but an inſtrument. Wherfore
+whatſoeuer was withoute thys
+man, he thoughte theſame nothing to
+appertaine vnto hym, neyther dyd he
+
+declare that only in wordes or bokes,
+but alſo in hys life: for he did ſo withdrawe
+himſelfe from the care &amp; loue of
+outwarde things, ſo litle regarding
+hys body, or any thing thereto belonging,
+that at Rome hys houſe had no
+dore, for there was nothing at all in it
+but a bad beggerly bed of little value.
+Lucian the Sirian writeth
+that Epictetus was after his
+death ſo eſtemed, that
+an earthen candleſticke
+that he
+had, was ſold for fifty
+pounds.
+         
+      
+      
+         
+            
+               
+               
+The Manuel of Epictetus
+            
+               Cap. 1. ¶What things are in man, and what are not.
+               
+                  OF al things which are,A diuiſion of things. ſome
+are in vs, ſome are not. In
+vs are Opinion, Endeuor,
+Deſire, Eſchuing, &amp; briefly
+al that which is our worke. In vs are
+not our Body, Poſſeſſions, Honours,
+Souerainties,The natural condition of things. and ſummarily al that
+which is not our worke. Then the
+things which are in vs are frée and
+franke by nature, and can not be prohibited,
+empeached, nor taken away.
+But ſuch things as are not in vs, bée
+ſeruile, féeble, and may be prohibited,
+empeched and taken away, as things
+vnto other men belonging, and not
+ours.
+            
+            
+               Cap. 2. ¶Of the domage which proceedeth of taking
+the one for the other, and of the profit in good
+Iudgement.The effects of a good and euill iudgement.
+               
+               IF the thinges which are franke and
+frée, thou ſhalte eſtéeme and Iudge
+
+ſeruill, and the thinges which are not
+oures, thou thynke proper, thou ſhalt
+be ſorrowfull, thou ſhalte be troubled,
+thou ſhalt finde thy ſelfe encombred, &amp;
+ſhalte miſcontente thy ſelfe with God
+and men. But if thou thinke onely the
+things thyne, which truely are thine,
+and the things other mennes, which
+truely are other mens, no man wyll
+conſtrayne thée, no man wyll hinder
+thée, thou ſhalt blame no body, thou
+ſhalt accuſe no body, thou ſhalt do nothing
+againſte thy wyll, no man ſhall
+hurte thée, and moreouer thou ſhalte
+haue no enimy. For in nothing which
+is hurtefull thou canſt not be perſwaded.
+            
+            
+               Cap. 3. ¶That other mens matters muſt be omitted,
+our owne muſt be ſeene vnto, and that we can
+not do both.
+               THen if thou deſire ſuch things,
+remember that thou oughteſte
+not beyng greatly mooued and
+troubled, to take them in hand:
+but eyther altogether thou oughteſte
+
+to reiecte them,Our conſideration is to be ſtirred vp and a diligēt preparation to be vſed. or for a tyme laye thē
+a ſide, and before al things to be carefull
+ouer thy ſelfe. But if thou deſire
+theſe things, that is to rule, to be rich,
+to haue thine to proſper, peraduenture
+thou ſhalte not aſpire to all theſe
+things,One can not ſerue vertue and vanitie. bicauſe thou doeſt deſire alſo
+the chefeſt. So by no maner of means
+thou art able to attain vnto ye things
+which giue felicitie &amp; libertie to man.
+               
+                  Annotations.
+                  
+                     All theſe things) That is rule, riches. &amp;c.
+bicauſe thou doeſt deſire the chiefeſt)
+that is, theſe things which Philoſophie giueth,
+Libertie, tranquillitie of the mynde, and ſecuritie.
+               
+            
+            
+               Cap. 4. ¶Howe we oughte to behaue oure ſelues in
+euery ſharpe imagination.
+               IN any ſtrong and ſharpe Imagination,We muſt refrain our cō
+                     ſent before the matter bee plainely perceiued.
+thou muſt accuſtome thy ſelfe
+immediatly to conſider, that this is
+nothing elſe but Imagination, and
+that in déede it is not as thou déemeſt.
+Afterward ſearch it out, and examine
+it, with theſe rules whiche thou haſte.
+
+Firſt and principally by this, whether
+the thing concerne the things whiche
+are in vs, or the things which are not.
+And if it be of the things whiche are
+not in vs, haue incontinently thys in
+remembrance: That belongeth nothing
+to me.
+               
+            
+            
+               Cap. 5. ¶What thing it is that one ought to deſire, &amp;
+one ought to flee.
+               CAll to remembraunce,A vain flight from diſcommodities maketh a man miſerable, &amp; a depriuing of deſires maketh a man vnfortunate. that the
+promiſe and the end of deſire is,
+enioying of the thyng deſired:
+and that the promiſe and ende
+of eſchewing is not to fall into that,
+whiche one oughte to flée: He then
+which cōmeth not to enioy, but is depriued
+of the promiſe of his deſire, is
+not happy, but vnfortunate, and whoſo
+falleth on ye, which he declineth, is miſerable.
+If thē onely thou decline that
+which is not agreable to the nature
+of the things whiche are in vs, thou
+ſhalt neuer chaunce into that, whiche
+thou ſhalt flee. But if thou thinkeſt to
+
+erempt thy ſelfe from ſickeneſſe death
+or frō pouertie, or altogether ſhunne
+them, thou ſhalt finde thy ſelfe vnhappy.One newely entred in the doctrine of vertue ought not to take to much vpō him.
+Wherfore thou muſt ſet apart all
+the eſchuing, and auoiding of ſuche
+things as are not in vs, and tranſpoſe
+theſe into them which are againſt the
+nature of things, whiche be in vs. As
+touching deſire, thou muſt altogether
+ſet it aſide at this preſent. For if thou
+couet the things which are not in our
+power, it muſt néedes be, that thou be
+fruſtrate. Howe and after what ſorte
+thou muſt deſire the things which are
+in vs, thou art yet vncertaine. As for
+endeuoure and refraining of ye minde
+vſe it ſleightly with reaſon, and a reſted
+deliberation.
+               
+                  Annotations.
+                  
+                     Promiſe of deſire, It is a certain faining of
+deſire ſpeaking with a mā. To the vnlearned ſort
+the wordes ſhould be more plaine▪ if he had thus
+ſpoken: when thou doeſt deſire any thing, haue
+a cōfidence to obtaine it, &amp; to haue thy deſire. &amp;c
+that which is not agreable to ye nature
+of the things which are in vs, Againſt
+theſe things verely do repugne, falſe opinion,
+
+naughtie &amp; corrupt appetite, all the perturbatiōs
+of the minde, whiche the Stoicke Philoſophers
+would haue to be in mans power: not ſo peraduenture
+that they appeare not (for that were
+more beſeming God than man) but that they
+obeye reaſon. Trāſpoſe theſe into them
+which ar againſt the nature of things
+which be in vs. Theſe words ſeme vnto the
+vnlearned obſcure, which had ben more lighter
+and eaſy, if he had written thus: To abhorre falſe
+opinions, foliſh and euil deſires, diſhoneſtie, and
+diſworſhip. For as thou mayeſt flee theſe thinges,
+ſo thou mayeſt eſchewe them.
+               
+            
+            
+               Cap. 6. ¶Howe we oughte to eſteme the thinges
+wherein we take pleaſure, or which bryng vs
+profite.
+               IN euery thing, whiche doth eyther
+delite thée,The nature of the thing derely loued is to be conſidered. or whiche are profitable
+vnto thée, or which thou loueſt, thou
+muſt diligently conſider the qualitie,
+beginning at the leaſt thyngs. If
+thou loue a pot, ſay in thys manner: I
+loue a pot, theſame beyng brokē, thou
+ſhalte not diſquiete thy ſelfe, for thou
+diddeſt well knowe, that he was fragile
+and brittle. Likewiſe if thou loue
+
+thy ſonne, or thy wyfe, ſaye that thou
+doeſt loue a man: if one or other chāce
+to dye thou ſhalt not be troubled, bicauſe
+thou dyddeſt conſider well that
+he was mortall.
+               
+                  Annotations.
+                  
+                     If thou loue a pot, Albeit Epictet, as a diſpiſer
+of riches, bringeth forth examples of vyle
+thyngs, as of baynes, lactuce, and other of that
+ſort: yet Simplicius hath a more apte worde: If
+thou hādell or toſſe a pot: that is, a brittle thing
+that cānot abyde or ſuffer toſſyng, or hitting againſt
+the walles, as glaſſe, wherof Publiā ſayth,
+Fortune is as brittle as glaſſe, whiche when it
+ſhineth, it is broken. Peraduenture he alluded to
+Diogenes Tonne.
+               
+            
+            
+               Cap. 7. ¶How a man ought to take a matter in hand
+that we may be voide of perturbation, &amp; firſt by
+meditation.
+               WHen yu doeſt take any thing
+in hande,The circumſtāces of euery buſineſſe are to be conſidered. thou muſte ſet before
+thy eyes ye qualitie therof:
+as if thou wylt goe to the
+baines, cōſider with thy ſelfe diligētly
+all that which may happen, &amp; what
+
+they do. Some caſt water, ſome are
+driuen out of their places, ſome doe a
+thing to the rebuke of an other, and in
+the meane ſeaſon other picke &amp; ſteale.
+In doyng thys thou ſhalt more certainely
+and conſtantly bryng thy matter
+to paſſe, if finally thou ſaye I wyll
+bath my ſelfe, and obſerue thy purpoſe
+vnto nature agréeable, and ſemblably
+in all things thou ſhalt not do amiſſe.
+For after this ſort if any harme befall
+while thou arte in the baine, this ſaying
+ſhal be in a redineſſe: I would not
+onely obſerue this, but alſo would not
+ſwarue from my purpoſe whiche is
+agréeable vnto nature, whiche I ſhall
+not performe, if I take diſpleaſauntly
+the things which happen and befall.
+            
+            
+               Cap. 8. ¶Howe to put awaye our perturbations, thorowe
+the conſideration of the nature of ſuche
+things,We are troubled with opinions, not with the things them ſelues. as trouble vs.
+               THe things do not trouble men,
+but the opinions whiche they
+conceyue of them, as for example:
+
+death is not terrible (thē it would
+haue ſo ſéemed to Socrates) but bicauſe
+the opinion of death is terrible,A wiſe man is without complaint.
+death ſemeth terrible. Then when we
+are brought in the briers, or be troubled,
+or that we do bewaile our owne
+ſtate, let vs not blame others but our
+ſelues, that is to ſay our opinions.
+               
+                  Annotations.
+                  
+                     Death is not terrible, If either the ſoule
+be extinguiſhed with the body, or be trāsferred
+and caried into a better place. But if thou ſhalte
+be puniſhed for thy offences, it is a daungerous
+matter, and a harde caſe, excepte thou be fenſed
+with the buckler of true pietie.
+               
+            
+            
+               Cap. 9. ¶The reaſon and proufe of the former precept
+with an aſsignation of thre ſorts of men.
+               THe vnlerned accuſeth other in
+his owne propre faulte. He that
+begynneth to haue knowledge
+accuſeth him ſelfe. The learned
+accuſeth neither an other, neither him
+ſelfe.
+               
+                  Annotations.
+                  
+                     
+                     The vnlerned, That is he, which conſidereth
+not what things are his owne, and what ar
+an other mannes: who requireth all things to
+be done according to his wil and pleaſure, that
+which neither may be done, neither perhappes
+ought not. Himſelf for he doth acknowledge
+hys faulte, and alſo is intentiue and diligente about
+it, leaſte that he ſtumble againe at the ſame
+ſtone: that is, leſt that he claime or attribute other
+mens right to himſelfe.
+               
+            
+            
+               Cap. 10. ¶That the glory in exteriour and outwarde
+things is vayne.
+               GLory not in thy ſelfe for the excellencie
+of an other thing.We muſt auaunt in the riches of the minde, and not in the gifts of fortune. It
+ſhoulde be tollerable, if a horſe
+aduaunting himſelf ſhould ſay:
+I am faire. But thou when in boſting
+thy ſelfe, thou doeſt ſay, I haue a faire
+horſe: remember that thou doſt glorifie
+thy ſelfe for the beautie which is in
+the horſe.The vſe of opinion is propre vnto man. What haſte thou then? Nothing
+biſides the vſe of opinion.
+               Therefore when in the vſe of opinion
+thou ſhalt gouerne thy ſelfe according
+to nature, then thou ſhalt haue wherwith
+
+to auaunte thy ſelfe, for in any
+commoditie which is thine, thou wilte
+glorifie thy ſelfe.
+               
+                  Annotations.
+                  
+                     The vſe of opinion, This ſemeth obſcure
+to the vnlearned. But it is euen as he ſhould ſays
+In all things we ought not to follow appetite,
+or the common opinion, but the iudgement of
+reaſon. For to vſe well opinion, is nothing elſe
+than to iudge well of all things, and to obey
+reaſon, not affection.
+               
+            
+            
+               Cap. 11. ¶What outwarde things are graunted vs, and
+howe we ſhould vſe them, by a ſimilitude.
+               EVen as in Nauigation,We oughte in al things principally to be mindful of God. when
+men make their abode at any hauen,
+if ye Mariner goeth to lande
+for freſhe water, and it hapneth
+that incidently by the way, he thinketh
+to gather cockles or oyſters, yet
+neuertheleſſe he ought to haue regard
+of the ſhippe, and oftentimes to looke
+back, whether ye Maſter calleth: and
+if he call thée, leaue all behinde, and
+returne to the ſhippe, leaſt that thou
+
+being bond like a beaſt, be not drawen
+by force to the ſhippe. Euen ſo it is, in
+the courſe of our life, as if for a cockle
+or an oiſter, there be gyuen vs a wife
+and a childe, or other things, which
+we holde deare, and wherin we take
+pleſure, they ought not to put vs from
+our purpoſe vnto nature agréeable:
+But if the maſter do call, run vnto the
+ſhippe, leauing theſe things behinde,
+not looking backe towards them. But
+if thou be olde, go neuer farre from
+the ſhip, leaſt that thou being called,
+do fail, &amp; that thou be not conſtrained.
+For he which willingly followeth not
+neceſſitie, by force and maulgre his
+téeth ſhe draweth him.
+               
+                  Annotations.
+                  
+                     Leaſt yt thou being called doſt fail. He
+ſpeaketh not of the outwarde power, but of the
+imbecillitie and weakneſſe of the might: which
+the greter it ſhalbe whē age cōmeth on vs with
+more few things the mind is to be occupied: for
+bicauſe it is very difficulte to be voide of theſe,
+and to fulfill that which Philoſophie commandeth.
+A ſingle perſon (if other things be correſpondent)
+may be in his life time, cōtented with
+
+a little, and die with a more pacient minde. A
+wife, children, and familie, do more trouble and
+diſquiete the husbande and father, being as well
+in good healthe, as ſicke, than his life. I vnderſtande
+the ſhippe, either to be Philoſophie, or the
+trade of our life: the ruler and maiſter of the
+Shippe to be GOD: to whom when he calleth,
+who ſo obeyeth not either is entreted as a ſlaue,
+or elſe is vtterly forſaken.
+               
+            
+            
+               Cap. 12. ¶How we may enioy outward things without
+fault or trouble.
+               WIſh not that the thyng which is
+done,We muſte not couet in vaine, that which is impoſſible. be done according to thy
+pleaſure and will. But wiſh that it be
+done, euen as it is don, and thou ſhalt
+be happie. Sickneſſe is an impedimēt
+of the body, not of thy purpoſe, except
+thou wilt thy ſelfe.A wel framed mynde is diſturbed with nothing. Halting is an impediment
+of the legge or foote, and not
+of thy purpoſe, and ſo conſider in euerie
+inconuenience whiche may befall,
+and thou ſhalte finde the impediment
+to appertaine to an other, and not to
+thée.
+               
+                  Annotations.
+                  
+                     
+                     Halting is an impediment of ye foote,
+not of thy purpoſe. But thou wilt ſay whē
+thou art purpoſed to goe a iourney (namely if
+thou want a horſe, or a waggon) halting hindereth
+thee. Epictet wil anſwer &amp; ſay: If thou ſhalt
+follow my precepts, thou ſhalt begyn no iourney,
+whiche thou art not hable to atchieue. So
+the more and greater the impedimentes of the
+body ſhall be, ſo much the more thou ſhalt ſuppreſſe
+appetite, and ſhalte take fewer things in
+hande. But thou doſt ſay, that this is the impediment
+of purpoſe, and therefore very troubleſome.
+Epictet denieth it to be an impediment,
+to deſire nothing raſhly and in vaine: but affirmeth
+it to be the propre part &amp; office of a Philoſopher.
+Verily, euen a foole doth vnderſtande
+this, that it is better to make appetite obey reaſon,
+than to burne in vaine deſires. The impediment
+to appertaine to another and
+not to thée) If he would graūt the foote to be
+a part of the body, (neither doeth he denie it) &amp;
+the bodie to be part of man (which he ſeemeth
+to denie) when his foote is poiſtered &amp; ſhakled,
+the bodie is alſo cūbred, the body being cumbred,
+mā hym ſelfe at leaſt wiſe partely is cumbred,
+but if the body be the inſtrument of man,
+doutleſſe it cā not be denied, but that the inſtrument
+being mutilate and vnperfect, the worke
+ſhalbe more vnperfect and vnmeete. For thou
+ſhalt haue the ouerthrowe, if thy Sworde or
+Dagger lacke hiltes and handle.
+               
+            
+            
+               
+               Cap. 13. ¶Of the remedies which we haue againſt all
+accidentes.
+               IN euery accident thou muſt incontinently
+conſider what puiſſaunce &amp;
+ſtrēgth thou haſt to withſtand that
+whiche is hapned.The power of the mind ought to reſiſt aduerſity &amp; naughty deſires. If any miſchiefe
+befall vnto thée, thou ſhalt finde vertue
+whiche is good and holſome, as againſt
+voluptuouſneſſe, continencie.
+If laboure be offred thée, thou ſhalte
+finde ſtrength: if wrong, pacience: and
+if thou ſhalt thus accuſtome thy ſelfe,
+thou ſhalt neuer be troubled with ymaginations.
+               
+                  Annotations.
+                  
+                     Thou ſhalt not be troubled with imaginations)
+That is, thou ſhalt neuer be ouercome
+and ſubdued with pleaſure and ſorrowe,
+but ſhalt conquere naughtie deſires, and affections,
+by the helpe of wiſedome and vertue.
+               
+            
+            
+               Cap. 14. ¶What maner of men we oughte to ſhewe
+oure ſelues, when we loſe outwarde worldly
+goodes.
+               
+                  
+NEuer ſay that thou haſte loſte
+any thing,We do neuer loſe our goods, but reſtore thē, to him of whom we receiued them, that is to God. but that thou haſte
+reſtored it. If thy ſonne die, he
+is reſtored. Thy liuelode is taken
+away, haſt thou not reſtored it?
+But he which depriued thée of it, is an
+yll man. What matter maketh it to
+thée, by whome he which gaue it, hath
+eftſoones taken it? Haue a care and regarde
+to all things, keping and vſing
+them (during the time only that thou
+haſte them in thy cuſtodie) as things
+vnto other men belongyng, euen as
+the wayfaring man dothe to his lodging.
+            
+            
+               Cap. 15. ¶That a man ought not to loſe the quietneſſe
+of mynde, for exteriour and worldly things.
+               IF thou wilt profite thy ſelf,The garniſhing of the minde is to be regarded aboue all things. let paſſe
+theſe cogitations. If I ſhall not be
+carefull of my affaires, I ſhall not
+haue wherwith to liue. If I correct
+not my ſeruāt, he will be naught. For
+it is farre better to famiſh without ſorowe
+and feare, than to liue in abundance
+
+with a troubled minde. And it is
+much better, that the ſeruant ſhoulde
+bée faultie, than thou whiche art his
+maiſter vnhappy. Then thou muſt begin
+with the leaſt things, the Oyle is
+ſpilte, the Wine is ſtolne. Conſider
+with thy ſelfe, that quietneſſe and ſecuritie
+of the mind coſt thée ſo much:
+for nothing is fréely gotten. If thou
+call thy ſeruant, imagine it may ſo fal
+out, that he heareth thée not, or hearing
+thée, to doe nothing whiche thou
+wouldeſt haue him do. But that he is
+not worth ſo much, that for him thou
+ſhouldſt be troubled.
+               
+                  Annotations.
+                  
+                     It is far better to famiſh. &amp;c. It may be
+asked not without a cauſe whether ſo greate
+conſtancie may agree with mans nature, that it
+may ſuffer and endure extreme hunger?
+               
+            
+            
+               Cap. 16.We muſte take paciently the euill opinion of the multitude conceiued of vs. ¶That for the eſtimation of the people we
+ought not abandon vertue.
+               IF thou wilte profit thy ſelfe, be not
+diſpleaſed, if for outwarde things,
+
+thou ſeme to other madde or foliſh.
+               
+                  Annotations.
+                  
+                     If thou wilt profit That is to ſay in Philoſophy
+and garniſhing of the mind. For he vnderſtandeth
+and meaneth that progreſſiō, wherby
+the tranquillitie and libertie of the minde is
+increaſed. Be not diſpleaſed, if for. &amp;c. For
+who ſo regardeth not pleaſures, riches, &amp; honor,
+namely if he may obtaine them: of all men he is
+accompted a foole, namely in theſe dayes. But in
+times paſt diuers Philoſophers and good mē for
+the loue they had to vertue abandoned al worldly
+wealth and promotions, as Crates, Diogenes,
+and thys our Epictete.
+               
+            
+            
+               Cap. 17. ¶Againſt vaine glory.
+               SEke not to ſéeme learned and experte
+in any thing,It is hard to doe many things at once. and if to any
+thou doeſt ſeme, truſt not thy ſelf:
+for thou knoweſt it is not eaſy for
+a man to kepe hys purpoſe agreable
+vnto nature, and to embrace exteriour
+things, but it muſt néedes be, that he
+which is careful of one, ſhould be negligent
+in the other.
+            
+            
+               
+               Cap. 18. ¶What things we oughte to deſire, &amp; what
+we ought not.
+               IF thou wilt haue thy wife,We do in vaine ſeke to kepe thoſe things inuiolable, which are not in our power. thy children,
+and thy frends to liue for euer,
+thou art a foole. For thou wilt haue
+in thy power the things whiche are
+not, &amp; wilt haue ye things to be thine,
+which are belonging to other mē. And
+ſo if thou wilt not haue thy ſeruaunte
+to offende, thou art a foole, for yu wilte
+haue vice to be no vice. But if thou
+wilt not be fruſtrate of that whiche
+thou doeſt deſire, this thou maieſt do:
+herein then exerciſe thy ſelfe.
+               
+                  Annotations.
+                  
+                     For thou wilt haue vice to be no vice,
+He meaneth (as I ſuppoſe) that boyes and al maner
+of men, by nature are inclined to vice: and
+that vices cannot be repelled, but by philoſophie
+which yong and tender age is not able to receyue.
+               
+            
+            
+               Cap. 19. ¶What things make vs bonde, and what free.
+               
+                  
+HE is Maſter and Lord of any
+man,Who is a maiſter. to whome (nil he will he)
+he maye either giue or take awaye.
+He then which will be
+frée, let him neither deſire, nor flée any
+thing, which is in an other man hys
+hande, and power, otherwiſe of neceſſitie
+he ſhal be conſtrained to ſerue.
+               
+                  Annotations.
+                  
+                     He is Maſter of any man. &amp;c. How many
+Maiſters then hath Fortune layed vpon vs?
+Howe many more do we laye vpon vs, thorowe
+the inſaciable deſire of tranſitorie thinges?
+               
+            
+            
+               Cap. 20. ¶A rule to electe and chooſe things preſent▪
+paſt, and to come, by a ſimilitude.
+               REmēber that thou muſte make
+compariſon of thy lyfe to a banket:Such things as are offred are to be taken: ſuche things as are denied vs, are not to be deſired.
+where if the meate ſtande
+before thée, thou muſte take it
+modeſtlie: if he, whiche doth bring it,
+doe paſſe by thée, ſtaye hym not, or if
+he be not yet come to thée, be not ouer
+gredy thereof: but ſtay vntill he come
+to thée. In like manner thou muſt diſpoſe
+
+thy ſelf, towards thy children, towards
+thy wyfe, towards greate men,
+and towards riches, ſo at length thou
+ſhalt be worthie the table of ye Godds.
+But if thou take not that which is ſet
+before thée, but doeſt refuſe it: then
+thou ſhalt not only be worthy of their
+table, but to be their companion: for
+when Diogenes, and Heraclitus and
+other like to them did thus, worthily,
+and of very good righte they were diuine,
+and ſo were accompted.
+               
+                  Annotations.
+                  
+                     Worthy the table of the Goddes)
+He ſignifieth, that the deſpiſing of outwarde &amp;
+worldly things is a certaine heauenly thing, &amp;
+that it maketh a man like to God. They wer
+diuine, &amp; ſo were accompted. Arrogantly
+doubtleſſe, and ignorantelye. For howe farre
+doth euen the excellenteſt man that euer was
+differ from the leaſt part of the Godhead?
+               
+            
+            
+               Cap. 21. ¶By what meanes we muſte gouerne oure
+Imagination about ſuch things, as ſeme to be
+eſchewed.
+               
+                  
+WHen thou doeſt ſée any man
+ſorrowful,We muſte haue regard to humanitie in ſuche ſort, that the quietneſſe of minde be retained. and torment hym
+ſelf either bicauſe he hath no
+tidings of his ſon, either bicauſe
+he is dead, either bicauſe he hath
+ſpent all, beware enter not into imaginatiō,
+that this maketh him vnhappy:
+but haue redilie in remembraunce
+that it is not the accident, which troubleth
+him (ſeing it tormenteth not an
+other) but his opinion conceyued therof.
+But if thou fall in talke with him,
+accommodate thy ſelf to his perturbation,
+and moreouer if the matter ſo require,
+wéepe alſo with him for companie:
+but take héede that thou ſorrowe
+not inwardlie.
+            
+            
+               Cap. 22. ¶That it lieth not in vs to chooſe the ſtate of
+our life, but to vſe it euen as it chaunceth, by a
+very apte ſimilitude.
+               THou muſt remember that thou
+arte one of the players in an enterlude,We muſte paſſe the whole courſe and time of our life, according to Gods will.
+and muſt plaie ye parte,
+which the authour thereof ſhall
+
+appoint, thou muſt play be it lōg, be it
+ſhorte. If he appointe thée to play the
+begger, ye Creple, ye Prince, or the priuate
+perſon, do it well and wittilie, for
+it lieth in thée to play that part, whervnto
+thou art appointed, and in an other
+to chooſe and appoint thée.
+               
+                  Annotations.
+                  
+                     Which the authors therof ſhall appoint,
+That is, whether he be a comicall, or a
+tragical Poet? As concerning the very mater the
+Greeke Epigram doth declare.
+                  
+                     
+                        
+                           〈 in non-Latin alphabet 〉
+                        ,
+                     
+                        
+                           〈 in non-Latin alphabet 〉
+                        .
+                  
+                  Which may thus be engliſhed:
+
+                        What is our life? a gawiſh game
+                        a ſweete delighting play.
+                        Then cares in gaming lay a ſide,
+                        or liue a miſer aye.
+                     
+                  
+                  
+                     Nazianzenus doeth almoſt ſignifie
+the ſame, but with a more grauitie and
+pietie, in theſe verſes worthy to be
+
+had in remembraunce.
+                  
+                     Mens age ſuspice, terrenas age despice
+ſordes,
+                     Corporis à vitijs ne ſubigare caue,
+                     Quam breuis est haec vita? beatos ſomnia
+ludunt:
+                     Sors vaga ſic alios, ſic alios
+                           
+                              
+                           
+                           que
+                         rotat.
+                     Vita diu durat, nulla peritura ſub aeuo
+                     Sancta: labor fructu non caret ille ſuo.
+                  
+                  Which may after this ſorte be Engliſhed.
+                  
+                     O minde ſearch high and heauenly things,
+                     deſpiſe this earthelie pelfe:
+                     Beware, to laweleſſe luſting fleſhe
+                     thou ne ſubdue thy ſelfe.
+                     How ſone ar ſpent our brittle dais?
+                     they dreame, that ſwim in bliſſe:
+                     So thoſe and thoſe not all alike
+                     doth fickle fortune kiſſe.
+                     A life enſuing godly lawes
+                     ſhall neuer cleane decaye:
+                     So trauaile ſpent in holie deedes
+                     his hired meede doth paye.
+                  
+               
+            
+            
+               
+               Cap. 23. ¶By what meanes we ought to gouerne our
+Imagination, in looking for diuers things.
+               IF thou take the croking of a crow
+to be vnluckie,A wyſe man taketh profite by euery chaunce. lette not that imagination
+moue thée, but iudge immediatly
+in thy ſelf, and ſay: That portendeth
+nothyng to me, but eyther to
+my body, or to my poſſeſſion, or to my
+eſtimation, or to my wyfe, or to my
+children: but as touchyng my ſelfe,
+they ſignifie nothing but good, at leaſt
+wiſe if I will: for what ſo euer ſhall
+chaunce, it lieth in mée to haue the
+profite and commoditie of it, if I will.
+               
+                  Annotations.
+                  
+                     If thou take the croking. &amp;c. We haue
+in ſtede of diuination by flying and crying of
+birdes Aſtrologie: Which if by yerely reuolutions
+&amp; progreſsions of the ſtarres, it threatten
+damages and dangers, let vs not vſe Epictet his
+counſell, but godly prayers.
+               
+            
+            
+               Cap. 24. ¶Howe to be vnconquerable, being the cauſe
+of the former precepte, and as it were the concluſion.
+               
+                  
+THou mayeſt bée inuincible,We muſte take in hand things agreable to oure ſtrength. if
+thou neuer enter into battaile,
+for thou art vncertain, whether
+it lye in thée or no, to haue the
+the victorie.
+               
+                  Annotations.
+                  
+                     Thou mayeſt bée vnconquerable.
+This ſaying dependeth vppon the diuiſion of
+things made in the beginning. They are conquered,
+which couet other mens goodes, that is,
+ſuche as belong to the body, and are placed in
+fortunes hande. They conquere, whiche reſiſte
+naughtie opinious and deſires, ſo that they contende
+according to the lawe.
+               
+            
+            
+               Cap. 25. ¶Which is the readieſt way to vertue.
+               TAke héede that in following thy
+imaginatiō thou ſay at no time,He that ſeketh for all good things of him ſelfe, he doth neither maruell at any mā, nor enuyeth any.
+the man is happie, whom thou
+doeſt ſée auaunced eyther to honour,
+or authoritie, or renoumed: for
+if the ſubſtance of goodneſſe be in the
+things, which are ſubiecte to vs, there
+nether enuie, nor emulatiō taketh any
+place. Then thy purpoſe is not to be
+
+Emperour,There is one way to libertie: the deſpiſing of outwarde things. or King, but frée, &amp; frāke.
+But vnto that thing there is but one
+certaine waye, that is, the contempte
+of ſuch things as are not in vs.
+               
+                  Annotations.
+                  
+                     For if the ſubſtaūce of goodneſſe. &amp;c.
+The vnderſtanding of this ſentence is vttered
+ſtoicallie in darke wordes. He which ſeeketh all
+good things of himſelfe, is of a quiet mind: who
+ſo is of a quiet minde, he doeth neither enuie,
+nor emulate. For ſeing that lack of paine called
+in Latin Indolentia excludeth all perturbations:
+                        
+                           〈 in non-Latin alphabet 〉
+                        
+                     
+verely it excludeth enuie and emulation. But if
+theſe affections do rule in any: it is manifeſtlie
+gathered thereof, that he is farre from the tranquilitie
+of the minde, and doth not obey the
+preceptes of Philoſophie.
+               
+            
+            
+               Cap. 26. ¶A ſolution of them which ſeme to let the
+things before mentioned, &amp; how a man ſhould
+not be angrie.
+               REmember,No man is hurt, but of himſelfe. that he, which taunteth
+or beateth, is not ye author
+of reproch, but the opinion conceiued
+of ye ſame as reprocheful.
+Then when any doeth kindle thée to
+
+wrath, vnderſtande that thou art moued
+to anger thorow thine opinion.
+Wherefore eſpeciallie endeuoure thy
+ſelfe,Delay eſtablyſheth iudgement. that imaginations plucke not cō
+                  ſente
+from thée, for if thou ſhalte once
+ſuppreſſe it for a certaine time, thou
+ſhalt more eaſilie be thy own Miaſter.
+            
+            
+               Cap. 27. ¶How to learne, and ſet our minde in highe
+thinges.
+               SEt before thy eyes, deathe, baniſhment,
+and all things which ſéeme
+terrible, but eſpecially death: in
+ſo doing, thou ſhalt not thinke vpō
+baſe and vile things, and ſhalte neuer
+be excéeding couetous.
+               
+                  Annotations.
+                  
+                     And ſhalt neuer be exceding couetous.
+Syracides affirmeth,Syracides. that the imagination of
+death, and God his iudgemente doth feare vs frō
+ſinne. Which if it do: we are taught to ſuffer aduerſitie
+much more paciently, &amp; to deſpiſe proſperitie,
+bicauſe of their ſorrow and profit, which
+endureth for a little ſpace.Cicero. So Cicero. All pleaſure
+ſayth he is to be eſtemed as nothing, which
+
+when it is paſte, it is as if there had ben none at
+all. But in great griefe of the bodie and anguiſh
+of the minde, one houre ſeemeth longer than a
+whole yeare.
+               
+            
+            
+               Cap. 28. ¶The ſeconde part, wherein he doeth pointe
+him out which hath already profited. And doth
+firſt diſſolue ſuch things, as come in vre to the
+ſtudents of Philoſophie.
+               AS ſoone as thou haſte determined
+to leade a perfect lyfe,A Philoſopher ought not to regarde the mockery of the people. prepare
+and addreſſe thy ſelf to be
+ſcorned and mocked of many,
+and to heare what they ſpeake of thée,
+wherof commeth this ſodain ſageneſſe
+and grauitie? whereof commeth this
+ſadneſſe? laye aparte thy ſadde ſowre
+countenance. But yet reteine &amp; kepe
+theſe things which ſéeme beſt to thée,
+in ſuch ſorte, as if this were the front
+where God hath ordained and placed
+thée to fight.Conſtancie getteth victorie. And if thou perſiſt in the
+ſame things, they whiche before haue
+mocked thée, will haue thée in admiration:
+but if like one fléeing awaye,
+thou gyue ouer thy enterpriſe, thou
+
+ſhalte be double as much mocked and
+ſcorned.
+               
+                  Annotations.
+                  
+                     Lay apart thy ſad ſowre coūtenāce.
+That is, a muſing countenance, ſad grauitie and
+hautineſſe of minde. And it appeareth by this
+ſhorte and quicke ſentence of Menander,Menāder that
+this was the countenance of Philoſophers. They
+which loke ſtately, ſay, that Solitarineſſe is mete
+for meditation.
+               
+            
+            
+               Cap. 29. ¶That boſting deſtroyeth the ſtate of a Philoſopher,
+in ſhewyng wherevnto he oughte to
+leane.
+               IF it chaunce at any time, that thou
+giue thy ſelf to the things which are
+not in vs, and that thou doſt deſire
+to pleaſe any man, vnderſtand that
+at the ſame preſent thou art fallen frō
+thy ſtate.By this worde Philoſopher is ment a wiſe man. Wherefore in all things let
+this ſuffiſe thée, to bée a Philoſopher:
+But if thou doſt couet to ſéeme to any
+a Philoſopher, let it be to thy ſelf, and
+that ſhall be ſufficient.
+               
+                  
+                  Annotations.
+                  
+                     If it chaunce at any tyme that thou
+giue thy ſelf. &amp;c. He forbiddeth the deſire of
+glorie, &amp; ſeeking for oſtentation, which affectiō
+it will be long before it take place in good and
+learned men. He woulde haue a Philoſopher to
+kepe him ſelf within the limittes of his conſcience,
+as an oyſter within his ſhell, and to iudge
+that, the moſt noble ſhew of his vertue. Thou
+art fallen from thy ſtate, That is to ſaye,
+thou arte vanquiſhed.
+               
+            
+            
+               Cap. 30. ¶How to aunſwere to ſuch ſtayes as woulde
+hinder a man from wiſedome.
+               LEtte not theſe cogitations torment
+thée,That a Philoſopher euen of ſmall ſubſtaunce, may muche profit the common wealth▪ by teaching of vertue &amp; hys good example. I ſhall not be in honor
+nor in place, where I ſhall be regarded:
+for if to bée without honour
+is an ill thing, thou canſt not be
+in euill for an other thing, no more
+than in a diſhoneſt thing. Is it in thée
+to beare rule, or to be bidden to a banket?
+No. What is this then, but to
+be without honour? and howe ſayeſt
+thou, that thou ſhalte not be eſtemed,
+whom it behoueth to to medle in thoſe
+
+things onely which are in our power,
+in which thou mayſt beare a great
+ſway and ſtroke. But thou wilt ſay I
+can not profit my friends. What doeſt
+thou call to profite?How a wiſe man aideth his friends. ſhall they haue no
+mony of thée? neither wilt thou make
+them citizens of Rome? But who told
+thée that theſe things be in vs, &amp; other
+mens workes? Who can gyue to an
+other that he himſelf hath not? Get it,
+(ſay they) that we may haue it, alſo.
+If I may get it,We ought to require of euerye mā but ſuch things as he maye and ought to performe. kéeping my ſelfe modeſt,
+faithful, and valiant, ſhew me the
+way, and I will get it. If ye thinke it
+méete, that I ſhould loſe my goods, that
+you ſhould get ſuch thinges as are not
+good, ſée your ſelues haue vnreaſonable
+and vngratefull you are? But if
+thou preferre a faithfull and ſincere
+friende before money, herein help me,
+and thinke it not méete that I ſhoulde
+doe the things whereby I ſhould looſe
+modeſtie and fidelitie: But I can not
+ſuccoure nor ayde my coūtrey.How a wiſe mā helpeth his coūtrey. What
+doeſt thou call ſuccoure &amp; aide? That
+it ſhall not haue of thée, nor by thy
+
+meanes, faire &amp; ſumptuous buildings,
+nor baines? What then? hath it not
+ſhooes by the Shoemaker and Armour
+by the Armorer? It is ſufficient when
+euery vocation doth his work. If thou
+get it a faithfull and modeſt member,
+doeſt thou thinke, that thou bringeſt
+it but a little profit? very great doubtleſſe.
+In ſo doing thou arte not vnprofitable
+to it. In what ſtate ſhall I be in
+my coūtry? in that thou maiſt, keping
+alwayes fidelitie and modeſtie. But if
+ſuppoſing to aide it thou looſe modeſty
+and fidelitie, what profit ſhalt thou do
+to it, which arte become impudent and
+diſloyall.
+               
+                  Annotations.
+                  
+                     Thou canſt not be in euil for an other
+thing, This ſentence dependeth vpon the opinion
+of the ſtoicks, that only honeſty is good, &amp;
+onely vice is naught. The contempt and deſpiſing
+of me, if I do my duety, is not my vice, therfore
+neither my euill, but theyr vice and euyll
+who of a peruerſe iudgement &amp; naughty mind
+do contemne, diſpiſe, and miſuſe mee without
+cauſe. Shewe mée the way, He ſignifieth
+that ryches and dignitie is gotten by nothyng
+
+elſe but by deceit, and for that cauſe a good man
+ought to deſpiſe them. Neither doth he ſpeake
+of them, which ſhewe themſelues vnworthy of
+honoure, and they are the cauſe, that they are not
+regarded. A faithfull and ſincere friend,
+Nowe a daies moſt men had leiffer to haue money.
+Neither do they thinke that a poore friend
+may help vs in any thing. So are endowed maidens
+preferred before them, who are chaſte, and
+well brought vp, if perhaps there be any ſuche,
+and doe ſo continue. Wherefore the wowers
+peraduenture are to be pardoned, who in ſo vncertayne
+a hazarde of chaſtitie, &amp; honeſtie, had
+rather to abyde the vnquietneſſe of riche than of
+poore wiues. Neither hath it Shooes by
+the Shooemaker, nor Armour by the
+Armourer. The ſence is: ſumptuous buildings
+bains, and the citie of Rome is no more to be required
+of a Philoſopher, than weapons of the
+Shooemaker, or Shooes of the Smyth: ſeyng
+that it is the duety of a Philoſopher, to traine vp
+his countrey men in vertue, as it is the Shoemakers
+duetie to make Shooes, and the Smithes,
+Weapons.
+               
+            
+            
+               Cap. 31. ¶A continuation of the ſolution of ſuche
+things as do hinder him which doth beginne to
+ſtudye philoſophie and wiſedome, in ſhewing
+that a man ſhould not moue himſelfe, for that
+which chaūceth to an other &amp; that he hath nothing
+of an other without giuing of his owne.
+               
+                  
+IS there any placed before thée at a
+feaſt?We muſt enuie no man, and reioyce of an others good fortune. or was reuerēce done to him
+before it was done to thée? or is
+he preferred before thée in coūſaile?
+If theſe things be good, thou muſt reioyce,
+that thy neighbour hath them:
+if they be ill: then be not ſorrowfull,
+bicauſe they chāced not to thée. Then
+remember in giuing thy minde to nothing
+elſe,A benefit cō
+                     monly is giuen for pleaſure and ſeruice. but to the things which are
+in vs, thou canſt not attaine to the
+like things, which other doe in them
+which are not in vs. Howe may it bée
+done, that a man frequentyng not thy
+houſe ſhall haue like thynges as hée
+whiche haunteth thy houſe, or he that
+ſeketh not friendſhip and fauoure, as
+he which doth? or he which doth not
+pleaſe and praiſe the, as he which doth
+pleaſe and praiſe thée? Thou ſhalte be
+vniuſt and vnſaciable if thou haue not
+payde for ſuche thinges as thou haſte
+bought, but doeſt require to haue them
+
+for nothing. Admit the caſe I could not
+buye lectuce for a halfe penny,Who ſo lacketh cōmoditie lacketh alſo coſt and diſquietneſſe if any
+then buy a half peny worth of lectuce,
+and thou doſt buy none: think not thy
+ſelf in worſſer caſe &amp; to haue leſſe then
+he, which hath bought lectuce: for as
+he hath bought ſo thou haſt not giuen
+thy halfpenny. Euen ſo it fareth, thou
+art not bidden to a mans feaſt, becauſe
+thou haſte not giuen him aſmuche as
+his feaſte coſte him. He ſelleth it for
+praiſe, he ſelleth it for ſeruice. Giue
+him then (if thou thinke it good) the
+pryce, for the whiche he ſolde it thée.
+But if thou wilte not performe that
+and take theſe things, thou arte vnſatiable
+and fooliſh. Haſt thou giuen nothing
+in ſteade of the feaſt? Yes mary,
+for thou haſt not praiſed him, whome
+thou wouldeſt, and haſte not ſuffered
+him in his portly going.
+               
+                  Annotations.
+                  
+                     If theſe thinges be good, Bycauſe they are
+good, they are ſorrowfull that they coulde not
+
+attaine to them: bicauſe they be euill, they are
+glad, that they are chaunced to other, And haſt
+not ſuffered. &amp;c. Pride and ambitious ſalutations
+of riche men do ſeeme to be vnderſtoode
+in this place very troublous to a ſimple and
+learned man, in like maner ſalutations, retinues,
+praiſes. But perhaps rich men giuen to pleaſures,
+going in their pompe, were wonte on euery
+ſide to leane and cleaue to Paraſites.
+               
+            
+            
+               Cap. 32. ¶What thinges are common euen according
+to the will of nature.
+               THe purpoſe and will of nature,We muſt not iudge otherwiſe of oure owne miſfortune than of other mens.
+may be iudged by theſe things,
+in which we differ not one from
+an other: as for exaumple, if a
+mans ſeruaunt breake his Maiſters
+cuppe or any other thing, incontinently
+it is ſaide this is a thing which oftē
+                  times
+chaūceth: remember then when
+thine is broken, that thou be the ſame
+maner of man, as thou were when the
+other mans cuppe was broken. And ſo
+do in greater thyngs. If a mans child
+or wife chaunce to dye, there is no mā
+                  
+but will ſaye incontinently this is naturall.
+Notwithſtanding euery man
+when any of his is dead, he doth lamēt
+and bewaile pitifully: But we muſte
+remember how we are diſpoſed, when
+we haue hearde any ſuche thing of others.
+            
+            
+               Cap. 33. ¶Howe one ought to vnderſtande the nature
+of yll.
+               EVen as the white whereat Archers
+ſhoote,It is in our choyſe whether we wil be troubled with the opinion of yl things. is not ſet ther, wher
+it may not be ſtricken, ſo it is of
+the nature of ill in this worlde,
+for it is not ſet out to be embraced,
+but to be eſchued: as if goodneſſe were
+ſette for the white, and euill were all
+that, wher the white were not, beſides
+the white, the Archer hath an ample
+and large ſpace to ſhoote frō the white:
+ſo without the onely marke of goodneſſe
+on euery ſide is placed euil, which
+is as eaſy to be done and committed,
+as it is difficill to hitte the white, or to
+doe good.
+            
+            
+               
+               Cap. 34. ¶We ought not abandon our minde to wrath
+for iniuries done: and how to take in hand our
+enterpriſes.
+               IF any deliuer thy body to the firſte
+he meteth, it wil greue thée excedingly:
+but when thou doeſt yelde thy
+minde to the firſt that commeth, as
+when thou arte wronged, thy mynde
+is troubled and heauy, arte not thou
+aſhamed?A premeditation and a diligent preparatiō putteth away ignomie and repentance. Before thou take any thing
+in hande, conſider firſt the beginning,
+and the ſequele, &amp; then take it in hand.
+If thou do not ſo thou ſhalte neuer be
+certaine and ſure in thy enterpriſes,
+not regarding that which may befall,
+but after when any diſhoneſt thinges
+chaunce, thou ſhalte be aſhamed.
+               
+                  Annotations.
+                  
+                     If any deliuer thy bodie to the firſt he
+meteth, He argueth from a leſſe thing to a
+more, after this ſort: thou wilt be angrie with
+them, which gaue power to any to violate thy
+bodie (ſuch is the condition of them whiche are
+baniſhed) how much more oughteſt thou to be
+angrie with thy ſelfe, whiche art wont to giue
+
+power to euerie man to hurte thy minde, wheras
+it lieth in thee not to be hurt of any man at
+all?
+               
+            
+            
+               Cap. 35. ¶An effectuall example to conſider what
+may befall in euerie thing which we ſhall take
+in hande.
+               WIlt thou cōquere at ye playes
+Olimpia?
+                  Temeritie is the mother of lightneſſe and inconſtancie. And I by ye faith
+of my bodie: for it is a verie
+honourable thing, but conſider
+wel the beginning, and the ſequele
+and then take the matter in hande.
+Thou muſt order well thy ſelfe, &amp; vſe
+neceſſarie meats, abſtaine frō delicate
+and daintie things, and exerciſing thy
+ſelfe, according as it is expediente for
+the time and houre appointed, be it
+hote or colde, not drinking water or
+wine, if occaſiō ſo require. And briefly
+thou muſt commit thy ſelfe whollie to
+the chiefe of the games as to the Phiſicion
+in doing that whiche he ſhal appoint
+thée. Afterward enter into fight,
+and ſometime to haue thy hand hurt,
+
+thy foote out of ioynte, to ſwallowe
+downe much duſt, to receiue gréeuous
+ſtrokes, and otherwhile after all this
+to be vanquiſhed. When thou haſte
+conſidered all theſe things, if thou be
+willing, go and fight, otherwyſe thou
+ſhalt be like the little boyes which are
+now wraſtlers, nowe ſwordplayers,
+nowe trumpetters, forthwith players
+in tragedies. So thou alſo now a fighter,
+now a ſwordplayer, afterward an
+Oratour, at length a Philoſopher: but
+throughly nothing at al, but as an Ape
+thou doeſt counterfait and reſemble al
+things, and nowe one thing ſhall lyke
+thée, now an other: for thou haſt not
+done thy enterpriſe aduiſedly, in foreſéeyng
+the circumſtances, but aduenturouſlie
+following a lighte and colde
+deſire. So the greater number, when
+they ſée a Philoſopher, or when they
+heare ſay that Socrates ſpeaketh wel,
+(but who can ſpeake ſo well as he?)
+they will incontinentlie diſpute and
+reaſon of Philoſophie, and ſearche the
+cauſes and nature of things. Man firſt
+
+conſider the thing, &amp; the qualitie therof,
+and then enterpriſe it.Bothe the thyng and our nature is to be conſidered and compared together. Afterwarde
+trie whether thy nature be able to endure
+that whiche may happen. Wilte
+thou be a wraſtler? behold thy armes,
+thy thighes, and thy loines: For nature
+mother of all things, hath framed
+euery man to ſome particular thing.
+Doeſt thou thinke that endeuouring
+thy ſelfe about theſe things yu mayeſt
+liue as thou haſt bene accuſtomed? As
+to drinke ſo much as thou wer wont,
+to be angrie ſo muche as thou were
+wont? Thou muſt be vigilante, thou
+muſt trauell, thou muſte ſet aſide thy
+proper affaires, thou muſte be mocked
+of boyes, diſpiſed of all the world, and
+in all things to haue leſte authoritie,
+be it in honoure, in office, or in iudgement,
+and in all other affaires.Conſtancie is to be obſerued. Then
+conſider al theſe things, and loke whether
+in their ſtéede, thou haddeſt leiuer
+to haue reſt and libertie, without
+any perturbation. But if thou haddeſt
+not leiuer to haue it, ſée that thou take
+not in hande many things, to the ende
+
+that (as I haue tolde thée) like little
+boyes, thou be not now a philoſopher,
+now a lawyer, afterward an aduocate
+laſtlie the Proctor of Ceſar. All which
+things knitte in one, can in no wiſe agree:
+for it muſt néedes be that thou be
+either a good or an ill man, that thou
+addict thy ſelfe to interiour or exteriour
+thinges: that thou poſſeſſe the
+place of a Philoſopher and well aduiſed
+man, or of a Foole and Ideote.
+               
+                  Annotations.
+                  
+                     At the playes Olympia. Olympia
+were playes as running, wreſtling, and ſuche other
+faictes of actiuitie accuſtomablie kepte in
+the honour of Iupiter Olympicus, at Piſa &amp; Helides
+Cities in Greece. Man firſte conſider,
+He ſignifieth as to wraſtling, to leaping and rū
+                     ning,
+al are not meete, ſo neither to Philoſophie,
+both haue neede of pacience of bodie &amp; minde.
+Of which things, whoſo is deſtitute, he ſhal be
+rather a counterfayt then a very wraſtler &amp; Philoſopher.
+Thou muſt be mocked of little
+boyes,) Verely Philoſophers were wonte of al
+men to be diſpiſed, but great ſtoute champions
+were in admiration.
+               
+            
+            
+               
+               Cap. 36. ¶That dueties do ariſe of nature, and that they
+are conſidered howe a man ſhoulde behaue him
+ſelfe towardes any man, nexte of the dueties towards
+men.
+               DVtie is meaſured by mutual affections.We muſte do our duetie towards all men, although other mē do not their duetie towards vs.
+If thou haue a father,
+thou muſt regarde and honoure
+him: giue place to him in all
+things, and if he chide or beate thée, indure
+it. He is a naughtie father thou
+wilt ſay. Nature hath enioyned vs the
+obedience of the father without mention
+of good. Arte thou not ioyned by
+nature with a good father? No, but
+with a father. Wherfore do thy dutie
+towards him, and conſider not what
+he doth: but do ſuch things, whereby
+thou maieſt kepe thy purpoſe agreable
+to nature. No man will hurte thée excepte
+thou wilte. Thou ſhalte be then
+hurted, when thou ſhalte thinke thy
+ſelfe hurt. So thou ſhalt do the dutie of
+neyghbour to neyghbour, of Citizen
+to Citizen, of lord to lord, if thou accuſtome
+thy ſelfe to conſider the mutuall
+
+affections.
+               
+                  Annotations.
+                  
+                     By mutuall affections. Affections are vſed
+as a certaine rule to meaſure dueties by.
+               
+            
+            
+               Cap. 37. ¶What our dueties are towards GOD, and how
+to behaue vs in his doings.
+               THe principall point of honoring
+God, is to thinke well of him, to
+beleue that he is, that he hath
+created all things, and that well
+and iuſtly he gouerneth them:Their religion is nothing worth whiche do not place felicitie in the riches of the minde. afterward
+to obey him, accepting al things
+that he doth, as procéeding of a very
+good intent. In ſo doing, thou ſhalte
+not blaſpheme God, neither ſhalt thou
+accuſe him of negligence. Thou arte
+not able to do this, otherwiſe, excepte
+thou withdraw thy ſelf frō the things
+which are not in vs, and placing good
+and ill in them which are in vs. But if
+thou eſtéeme any of the things, which
+are not in vs, to be good or ill, thou
+muſt of neceſſity, when thou doeſt not
+
+attaine to that whiche thou wouldeſt,
+or when thou doeſt fal into that which
+thou doeſt ſhunne, blame and hate the
+cauſe of ſuch an accidēt which is good.
+All liuing creatures haue this by nature,Tull. 1. Offic.
+that they flée and eſchewe ſuche
+things, and ſéeme vnto them noyſome,
+and their cauſes: but contrarywiſe
+they ſearch, &amp; maruell at theſe things
+which ſéeme to bring profite, and the
+cauſes of them. He then which thinketh
+himſelfe hurte, can take no delite
+in that which vnto him ſéemeth hurtefull.
+So it is impoſſible that a man
+hurte may reioyce. And hereof it commeth
+to paſſe that the ſon doth checke
+the father, when the father maketh
+him not partaker of the things, which
+ſéeme good vnto him. This is that,
+which made diſcorde betwene Polinix
+and Eteocles, bycauſe they eſtéemed
+rule good. For this cauſe the huſbandman,
+for this cauſe the Mariner, for
+this cauſe the Marchant, for this cauſe
+they which looſe their wife and childrē
+do oftentimes defile and deteſt God,
+
+for wheras vtilitie is,Where as vtilitie is, there is pietie. there is alſo pietie.
+Wherfore he that doth endeuor to
+deſire and flée that, euen as he ought,
+by the ſame meanes he obſerueth and
+kéepeth pietie.He preferreth the rites of a coū
+                     trey before the truthe. As touching offerings
+and oblations let euery man doe them
+according to the guiſe of his countrey:
+purely, without ſuperfluitie, according
+to his abilitie, without negligence or
+nigardſhippe.
+               
+                  Annotations.
+                  
+                     Whereas vtilitie is, there is pietie,
+O wonderfull ſentence, and alſo wicked to ſee
+to: but ſo applied that it vncouereth the disſimulation
+of mans minde, and can ſcarce be nothing
+more agreeable to religion. Guiſe of his
+countrey. Foraſmuche as pietie conſiſteth in
+the mind, he thinketh that we ſhould not much
+regarde ceremonies. Which if it mighte be perſwaded
+to ſome men which are in theſe dayes,
+we ſhould liue more quietlie. It mighte be perſwaded,
+if we woulde rather endeuoure to lyue
+according to religion, than to diſpute of religiō:
+if we were rather deſirers of the veritie than of
+vanitie, that is, of ambition, of emulation, of couetouſneſſe,
+of reuengemente, and of ſuche like
+
+confuſions and deſtructions of the minde, if
+there be any other.
+               
+            
+            
+               Cap. 38. ¶What maner of man he ought to be that cō
+                  meth
+to a Diuinour, and how to vſe diuinations,
+wherin reſteth our duetie towardes God, and towardes
+our ſelues.
+               IF thou deſire and ſeke to knowe
+that which is to come of any thing,The diuinour is not to be counſeled of our duetie, but of the ſu
+                        •
+                     
+                     ceſſe of certaine actiōs
+firſt thou muſt vnderſtande yt thou
+art ignoraunt of that ſhal come, and
+therefore thou doeſt goe to the Diuinour
+to knowe it of hym. Notwithſtanding
+if thou be wiſe thou arte not
+ignoraunt what it is, nor the qualitie
+therof. For if it be among the number
+of the thinges whiche are not in vs,
+truelie it is neceſſarie, that it be neither
+good nor ill. Remoue then from
+thée (if thou go to the Diuinour) al deſire
+&amp; eſchuing other thou ſhalte come
+to him trembling and quakyng. But
+when thou ſhalt vnderſtande, whatſoeuer
+ſhall befall to appertain nothing
+to thée, and of thée not to be paſſed vpō
+                  
+thou mayeſt vſe it well, and no man
+ſhall forbid thée. Therfore goe &amp; aſke
+counſaile of God, as of him who can
+giue thée very good, and after he hath
+giuen thée counſaile, remember whō
+thou haſt called to counſaile, &amp; whoſe
+counſaile thou haſt deſpiſed. Coūſaile
+may be demaunded of the Diuinour
+(as Socrates ſayeth) for ſuch things,
+whoſe conſideration is referred to the
+end, the knowledge of which ende, occaſion
+cannot be giuen by any maner
+of meanes, nor any arte. And therfore
+thou muſt not aſke counſaile of the
+Diuinour, whether thou ſhalt put thy
+life in daunger for thy country, or for
+thy friend, if nede require, for if he perceiue
+any vnluckie ſigne, it is altogether
+manifeſt, that it ſignifieth death,
+or ſome impedimente of thy bodie, or
+baniſhment: but reaſon telleth &amp; perſwadeth
+thée, that thou muſte put thy
+ſelfe in daunger for Countrey, or for
+thy friend whē néede requireth. Giue
+eare then to that which the great Diuine
+Apollo ſayeth, who did chaſe
+
+out of his temple, the man, which helped
+not his frend being in daunger of
+death.
+               
+                  Annotations.
+                  
+                     Remember whome thou haſt called
+to counſaile, It muſt needes be, that the cunning
+of the diuinours, ſouthſayers, was in diuination
+very great. Otherwiſe a man of ſo greate
+grauitie woulde not haue accompted their prophecies,
+for diuine aunſwers.
+               
+            
+            
+               Cap. 39. ¶Dueties towards our ſelues, &amp; firſte of ſuch
+as tende to the conſtancie of maners, and what
+thinges let it, and chiefly of talke and ſilence.
+               THou muſt preſcribe a rule and
+faſhion,We muſt determin who and what maner of men wee will be. which from hence forth
+thou ſhalte obſerue when thou
+art alone and when thou art in
+companie. Let ſilence be kept for the
+moſt part: or let neceſſarie things be
+talked of, and theſame in fewe words.
+But if the time require thée to ſpeake,We muſte rule our tongue.
+ſpeake: but not of all thinges, not of
+the combate betwene fenſers, not of
+rūning with horſes, not of wraſtlers,
+
+not of meates &amp; drinkes triflingly, nor
+principally of men, in praiſing or blaming
+them, or comparing them with
+others. And if thou be able, chaūge thy
+familiars Communication into that
+which is honeſt and comelie. But if
+thou be enuironed with ſtraungers,
+holde thy peace.
+               
+                  Annotations.
+                  
+                     Enuironed with ſtraungers, He vnderſtandeth
+thoſe men, whome bicauſe of their eſtimation
+and authoritie he dareth not admoniſhe.
+               
+            
+            
+               Cap. 40. ¶Of laughing.
+               LAughe not muche,Laughter. nor at all communication,
+neither a loude.
+            
+            
+               Cap. 41. ¶Of Othes.
+               SWere not,Othes. neither make an othe
+if it be poſſible for thée. But if
+thou canſt not otherwiſe do, do it
+
+when it ſhall be nedefull.
+            
+            
+               Cap. 42. ¶What conuerſation may do.
+               FRequent not the bankets and familiaritie
+of the cōmon ſort,Bankets. and
+ſtraungers. But if occaſion ſo require,
+be mindeful and take héede
+that thou become not one of the common
+ſort. And vnderſtande thou that
+he which wreſtleth with the defiled,
+muſt néedes be defiled alſo.
+            
+            
+               Cap. 43. ¶Of the vſe of ſuche things as belong to the
+bodie.
+               AS touching the body, take ſuch
+things as ſhal be to his vſe and
+alſo be profitable for the mind,
+as meate, drinke, apparell, harbour.
+But as touching daintie and delicate
+diſhes, thou muſt altogether reiect
+them, and baniſhe them from thée.
+            
+            
+               Cap. 44. ¶Of the acte of Nature.
+               
+                  
+TOuching Venerie we ought as
+muche as is poſſible, to leade a
+chaſt life before mariage. But if
+we be cōſtrained, we muſt take
+nothing but that which is lawful: not
+withſtanding reproue them not which
+vſe it, in blaming them, and auaūting
+thy ſelfe abroade, that thou doeſt not
+vſe it.
+               
+                  Annotations.
+                  
+                     In blaming them. Chriſtian charitie commaundeth
+that ſinners ſhould be reproued, and
+obſtinate perſons to be eſchued.
+               
+            
+            
+               Cap. 45. ¶Againſt anger, and what manner of men we
+ſhould ſhewe our ſelues towards backebiters.
+               IF any bring thée worde,An yl report is not to bee paſſed vpon. ſuch a man
+miſreporteth and backebiteth thée.
+Excuſe not that which he hath ſaid,
+but make this aunſwere: he is ignoraunt
+of many other great faults, and
+imperfections which are in me, otherwiſe,
+he woulde not onely haue ſayd
+this.
+            
+            
+               
+               Cap. 46. ¶How to behaue our ſelues in ſhewes and
+triumphes.
+               IT is not requiſite to frequent often
+the ſhewes and turnaments.Shewes are to be ſeene with a quiet minde. But if
+at any time occaſion requireth, ſée
+that thou ſéeme not to fauoure any
+man more than thy ſelfe, that is, wilt
+thou onely haue that done whiche is
+done: and him only to conquer, which
+conquereth? For ſo thou ſhalte not
+be empeched. Abſtaine thy ſelf altogether
+frō ſhouting, frō conſenting countenaunce,
+and let not thy geſture be
+ſad and graue, but ſomewhat merry.
+At thy returne from the ſhewes, talke
+not much of the thinges whiche haue
+ben there done or ſaid, ſeing they auail
+nothing to thy amendement.
+            
+            
+               Cap. 47. ¶Of the deſire of ſuche as go to heare others
+communication.
+               APproch not néere them, whom
+thou ſéeſt to commen apart, and
+be not thou preſent if it be poſſible,
+
+or as ſeldome as thou mayeſt.
+But if thou be preſente kepe in ſuche
+wiſe thy conſtancie, that thou ſhewe
+thy ſelfe voyde of all perturbations.
+            
+            
+               Cap. 48. ¶When one hath to ſpeake with a noble perſonage.
+               IF thou haue any thing to do eſpecially
+with ſuche as are of noble
+blood,In meetings, we muſt folow the examples of wiſe men. and great authoritie. Cōſider
+what Socrates or Zeno haue done
+herein, or the wiſeſt man yt euer thou
+diddeſt knowe, and ſo thou ſhalte not
+be in doubte, howe thou muſt behaue
+thy ſelfe.
+               
+                  Annotations.
+                  
+                     What Socrates or Zeno,
+                      That may be gathered
+out of bothe their ſayinges and doings,
+foraſmuch as we haue not any thing written of
+neither of them. But vnleſſe thou ſhalt be endewed
+with the learning and conſtancie of them
+both fooliſh imitatiō will turne thee to ſhame.
+And perhappes they obſerued not euery where a
+ſeemelineſſe and grace.
+               
+            
+            
+               
+               Cap. 49. ¶How we ought to prepare our ſelues, when
+we goe to ſpeake with a man of honoure.
+               WHen thou wilt go to ſuch a man
+as is of greate honoure,The difficult comming to noble men is to be ſuffered. preſuppoſe
+in thy minde, what may chaunce,
+that (poſſibly) thou ſhalt not be receiued,
+that thou ſhalte be ſhutte oute of
+doores, that the gate ſhall not be opened,
+or that he will not regarde thée.
+Afterwarde ponder with thy ſelfe, if
+with all theſe thyngs, it bée expedient
+for thée to go to him: and when thou
+ſhalte come before him, ſuffer and endure
+that which ſhalbe done, and ſaye
+not to thy ſelfe: I deſerue not to be
+thus entreated: for it is to common a
+thing to reproue and blame the thinges
+which are not in vs.
+            
+            
+               Cap. 50. ¶When we meete with many men, how to
+frame our communication.
+               IN company ſpeake not ouermuche,
+nor beyonde meaſure, of thy déedes,
+
+neither of thy daungers: for it can
+not ſo much contente other to heare
+them as thy ſelfe to reherſe them.Laughter is not to bee moued. Sée
+alſo that thou moue no laughter by
+thy communication, for that (I wote
+not how) engendreth diſdaine, and alſo
+cauſeth that no reuerence is giuen
+to thée by them which are preſent. And
+very often leadeth thy communication
+to filthy and diſhoneſt talke:Ribauldrie is to be abhorred. But
+if it befall, and that the matter and
+time require it, reproue him that ſhall
+vſe ſuch ribauldrie and filthyneſſe. If
+not, at the leaſt ſhewe and declare by
+ſilence and ſhamefaſtneſſe, that ſuche
+communication doth diſpleaſe thée.
+            
+            
+               Cap. 51. ¶Howe to reſiſt pleaſure.
+               IF thou cōceyue any pleaſure in thy
+minde,It is better to deſpiſe than to embrace pleaſure. be circumſpecte (euen as in
+other things) that ſhée beguile thée
+not, but examine the matter, &amp; take
+ſpace to deliberate on it. Afterwarde
+conſider both the times, that is to ſay,
+the time wherin thou doſt enioy pleaſure,
+
+and the time wherein after the
+enioying of it thou mayſte repent thée
+for hauing enioyed it. And afterwarde
+reproue thy ſelf, and conſider how wel
+at eaſe and contented thou ſhalte bée,
+if thou abſtaine thy ſelfe, and in ſo doing
+thou doeſt commende thy ſelfe.
+But yf the matter ſéeme to require
+thée to doe▪ it, beware that hir flatteries,
+hir ſwéeteneſſe, and hir inticements
+ouercome thée not, but conſider
+how farre better it ſhall be, if thou be
+able to winne the victorie of that conflicte.
+            
+            
+               Cap. 52. ¶That we oughte not to leaue off our good
+purpoſe, what ſoeuer men ſay.
+               WHen thou arte reſolued to do any
+thing,Oure duetie oughte to moue vs, and not the communication of the people and haſt not yet done
+it, refuſe not to be ſéene in doing therof,
+although other may iudge amiſſe
+thereof, for if thou do euill, thou muſte
+geue ouer thy worke: if thou do wel,
+feare them not who wrongfully, and
+without cauſe ſhall reproue thée.
+            
+            
+               
+               Cap. 53. ¶Of the honeſtie that we ought to keepe at
+the table.
+               WHo hath ſaid:We muſte not haue regard to our owne luſte but to the Communaltie. it is daye, and
+it is night, taking the propoſition
+ſeuerally we ought to
+agrée, but to vnderſtande it
+together, it is not to be receyued. So
+at the table to chooſe for our ſelues the
+greateſt, &amp; the beſt parte of the meate,
+is a greate commoditie towardes the
+bodye, but it is againſt the honeſt participation
+that we ought to haue at
+the table. Then if at any time thou be
+bidden to a banket,In feaſtes modeſtie is to be obſerued. remēber that thou
+muſte not onely haue regarde to the
+meate, for the profite of thy body: but
+alſo to honeſtie, and to behaue thy ſelf
+at the table, as thou oughteſt.
+               
+                  Annotations.
+                  Wheras before he compared our life to a feaſt,
+let this precept be applied to all the parts of our
+life: and euery where let there not be a reſpecte
+to our priuate deſire and vtilitie, but of equitie &amp;
+ſocietie, &amp; let the will of the feaſter, that is God,
+be conſidered.
+               
+            
+            
+               
+               Cap. 54. ¶That we ſhould not vndertake more than
+we are able to do.
+               IF thou haue taken more in hande,We ought to meaſure our ſtrēgth in al things
+than thou arte able to atchieue or
+bring to paſſe: thou ſhalt not bring
+it to effect, and alſo haſt omitted that
+which thou were able to performe.
+            
+            
+               Cap. 55. ¶That we ought to be circumſpect aſwell to
+ſaue the minde harmeleſſe, as the body.
+               EVen as in going thou doeſt take
+héede that thou ſteppe not vppon
+a nayle,We muſt endeuour to haue a perfect minde. or that thou wreaſte not
+thy foote: ſo in leading thy life
+take héede, that thou hurte not thy
+minde, the gouerneſſe of all thy doinges,
+which if we obſerue in al things,
+we ſhall without daunger take them
+in hande.
+            
+            
+               Cap. 56. ¶Of the poſſeſsion of ſuche things as belong
+to the body.
+               
+                  
+THe bodie is to euery man the
+forme of riches,A few thinges are ſufficient for nature, but infinite ſubſtance ſuffiſeth not couetouſneſſe as the foote is of
+the ſhooe. If then in thys thou
+perſeuer, thou ſhalte kepe the
+meane: if thou excede, thou muſt néeds
+as it were, fall downe headlong: as if
+thou be more curious about the faſhiō
+of the ſhooe, then is nedeful for ye foote,
+thou wilt make him of golde, after of
+purple, laſte of all ſet with ſtuddes of
+gold: for there is no end of that thing
+which hath once paſſed meaſure.
+            
+            
+               Cap. 56. ¶For maydens vnmaried.
+               WOmen after .xiiij. yeares of age
+are called of louers Ladies:Modeſtie in women is more to bee regarded, than theyr beautie. for
+after this age men (to the end to company
+with them) endeuoure wholly to
+pleaſe them. To obtaine then mennes
+good will afterwarde they become very
+curious in trimming and decking
+themſelues. Wherfore they muſte be
+admoniſhed, that for no other cauſe
+we eſteme them, but bicauſe they are
+modeſt, wiſe and honeſt, bearing reuerence
+
+and obedience to their huſbandes.
+            
+            
+               Cap. 57. ¶That more care is to be had of the mynde
+than of the bodie.
+               TO perſiſte and continewe in
+things which belong to the bodie,We muſt be ſtow much time in garniſhing of the minde, but a little in the body
+for pleaſures ſake, as in
+much exerciſe, in muche trimming,
+&amp; adorning of the bodie, is ſigne
+of an abiecte minde, and verie muche
+ſwaruing from nature, and alſo it is
+a ſigne of conſenting to ſuperfluitie:
+for we embrace pleaſure, and reioyce
+in things which we allowe. We muſt
+thinke then the excéeding care of the
+bodie to be frō the purpoſe: but principallie
+we muſte be carefull of that
+whereof the bodie is but the inſtrument,
+that is, the minde.
+            
+            
+               Cap. 58. ¶A precept to learne pacience
+and meekeneſſe.
+               
+                  
+WHen any hath miſuſed thée either
+in word or déede, remember that
+he doth ſuppoſe it to be done and ſaide
+according to his dutie. Wherfore it is
+impoſſible for him to followe thy aduiſe
+and counſaile, but his own. But
+if he iudge amiſſe, he is hurt whiche is
+deceyued. For if any do iudge hidden
+truthe to be a lye, the truthe hydden is
+not hurte, but he which ſhal be deceyued.
+If ſo be then thou be perſwaded,
+thou ſhalt ſhewe thy ſelfe gentle and
+paciente towards him that hath iniuried
+thée. And at euerie thing thou
+ſhalt ſay, it hath ſo pleaſed him.
+               
+                  Annotations.
+                  
+                     He doth ſuppoſe it to be done according
+to his dutie. Pletho putteth vs in mind
+of the ſame,Pletho. that alſo we ſhoulde be blamed,
+which are able to perſwade one thing, and can
+not induce others into our opinion. But thou
+wilt ſay, oftentimes vnreaſonable and ſlaunderous
+men know that ſuch things as they do are
+diſhoneſt and ſhamefull for them to do. Epictetus
+maketh aunſwere: they ar ſo much the more
+worſe &amp; miſerable: but thou art neuer the more
+worſe and miſerable. But their diſhoneſtie is to
+
+me a damage, bicauſe they hurte my eſtimation,
+bicauſe they diminiſh my ſubſtāce, bicauſe they
+doe afflict my body by violence or witchcraft,
+bicauſe they hinder my cōmodities? Epictet wil
+make aunſwere, that theſe are none of thine, but
+other mens, and to appertaine nothing to thee.
+Wherof much is ſpoken of before. The hidden
+truth, As it is in Sophocles in Electra, Oreſtes
+was not therfore dead, bicauſe he had perſwaded
+himſelfe to bring his bones ſhutte in a
+coffin to Egiſthus and others.
+               
+            
+            
+               Cap. 59. ¶That all things partely do agree the one
+with the other, and partly do diſagree.
+               EVery thing hath .tj. handels, one
+whereby it may be carried,The handle of humanitie and not of immanitie is to be taken. the other
+whereby it may not. If thy
+brother be yll condicioned, take
+him not by that whereby he is yll condicioned,
+for it is the handle whereby
+he cannot be carried, but take him by
+that, whereby he is thy brother, and
+whereby he is nouriſhed with thée, in
+ſo doing thou ſhalt take him by ye handle,
+whereby he ought to be carried.
+            
+            
+               
+               Cap. 60. ¶That bicauſe of knoweledge, or hauing
+more than other, we cannot inferre that we are
+better.
+               THeſe words agrée not together
+I am richer than thou,We muſte not triūph of the giftes of fortune, but of the riches of the minde. therfore
+better. I am wiſer &amp; better learned
+than thou art, therfore I am
+better: but theſe agrée farre better. I
+am richer than thou art, then my poſſeſſion
+is better than thine. I am wiſer
+and better learned than thou arte,
+my words then are better than thine,
+but thou art neither thy poſſeſſion nor
+yet thy communication.
+               
+                  Annotations.
+                  
+                     But thou art neither. &amp;c. Thou wylte
+ſay, yea: but bicauſe of riches, eloquence, and power,
+I am much regarded. The ſame doth Epictet
+reproue, who thinketh good onely wiſedome
+and vertue to be much ſet by. What man
+except he were a very naughtie and wicked flatterer,Nero.
+hath had Nero the Emperour in greate eſtimation,
+although beſides his ryches and Empire,
+he were eloquent, a Poet, and a Muſician?
+The minde of a perfect man abhorreth to allow
+thoſe, whoſe foliſhneſſe and diſhoneſtie is knowen,
+
+in what faſhion ſoeuer honour for a ſhewe
+be giuen to them, bicauſe of the giftes of fortune,
+and corrupte conuerſation.
+               
+            
+            
+               Cap. 61. ¶Of an exact iudgement in things.
+               IF any waſhe himſelfe ſpéedily, ſaye
+not that hée waſheth himſelf naughtily,Not onely the deede it ſelfe, but the cauſe of the dede is to be conſidered.
+but ſpedily. If any drinke much,
+ſay not that he drinketh naughtily,
+but muche, for if thou knowe not why
+he doth it, howe doeſt thou know that
+he doth naughtily? So it ſhall chaunce
+that we doe receyue and ſupporte the
+fantaſies and imaginations of ſome,
+and to other we agrée.
+            
+            
+               Cap. 62. ¶Againſt glorie and oſtentation. And firſt as
+touching knowledge.
+               REpute not thy ſelfe a Philoſopher
+in any caſe:Philoſophie is not to be declared by words, but by deedes. nether diſpute
+not much of precepts, but rather
+put ſome thing in execution, as
+at the table, teach not how one ſhould
+eate his meate, but eate as it behoueth
+
+thée.Nothyng muſt be ſpoken vnaduiſedly. For remember that Socrates did
+ſo ſet aſide all oſtentation. But if at any
+time theſe precepts come in queſtion,
+ſpeake as little as is poſſible, for it
+is daungerous to vomite that which
+the ſtomacke hath not well digeſted.
+And if it chaunce, that a man tell thée,
+that thou knoweſt nothing, and that it
+moueth thée not,The Sheepe declare by their wooll and milke how much they haue eaten. vnderſtande that this
+is a great entraunce of thy worke, for
+the ſhéepe vomiting vp their graſſe, declare
+not to ye Shepherds how muche
+they haue eatē, but digeſting it within
+they ſhewe wtout their fine wooll and
+milke. Thou therfore ſhewe not, neither
+vtter thy learning to ye rude and
+ignoraūt: but declare ſome effects outwardly
+of that being well digeſted.
+            
+            
+               Cap. 63. ¶Againſt the boaſting of ſobrietie and ſufferaunce.
+               GLory not thy ſelfe to haue mortified,Oſtentation is to be eſchued.
+empaired, and weakened
+thy body thorough abſtinence:
+Neither if thou haſte dronken
+nothing but water, ſaye not at euery
+
+occaſion, I drinke nothing but water.
+But conſider how much more abſtinēt
+the poore are, who craue almes, ſuffering
+and enduring muche more than
+thou. Furthermore conſider howe many
+perfections and vertues thou haſte
+not, which other haue. But if thou wilt
+exerciſe thy ſelf in paine and pacience,
+do it by thy ſelf, and ſéeke not to aduertiſe
+other of it, as they do who ſuffring
+wrong of great men, ſette images on
+fire, &amp; ſay, we are vndone, to the end to
+moue &amp; aſſemble the people. For a bragger
+is altogether mindefull of worldely
+things, and turneth topſie turuie the
+goodneſſe of paciēce and abſtinence, bicauſe
+he determineth the ende of them
+is to haue, the good opinion and prayſe
+of many.
+            
+            
+               Cap. 64. ¶The deſcription of a triple qualitie or propertie,
+that is, of the vnlearned, of the Philoſopher,
+and of him that beginneth to learne.
+               THe condicion and ſtate of the vnlearned
+is, to looke for of hym ſelfe
+
+neither profite nor damage, but of outwarde
+thyngs. The ſtate and condicion
+of the philoſopher is, to looke for of
+himſelfe all vtilitie and diſcommoditie.
+The ſigne of him which beginneth to
+profite is,The ſignes of him whiche profiteth that he diſpraiſe no man, that
+he praiſe no mā, that he cōplaine of no
+man, yt he accuſe no mā, that he ſpeake
+nothing of himſelf, as though he were
+any body, or knewe any thing. When
+he ſhal be at any tyme empeched or diſturbed,
+he blameth none but himſelfe.
+And if one commende him, he mocketh
+him couertly which cōmendeth him, if
+he be diſpraiſed, he purgeth nor iuſtifieth
+himſelf: but liueth like a ſicke perſon
+fearing to moue &amp; troble any thing
+within him before he be recouered. He
+ſetteth apart all appetite, and fléeth the
+thinges which are againſte the nature
+of them whiche are in vs. He vſeth a
+light endeuour aboute all things, and
+paſſeth not whether he be tearmed a
+Foole or an Ideote. And (in briefe) he
+watcheth himſelfe, as his Enimie and
+Spye.
+               
+                  
+                  Annotations.
+                  
+                     That he dyſpraiſe no man, That is
+through curioſitie and too much diligence in other
+mens matters, or prouoked thoroughe ſelfe
+loue: Epitecte commendeth Agrippinus, but
+why? that other ſhoulde follow his example. He
+reproueth other, wherefore? that they ſhoulde
+be amended.
+               
+            
+            
+               Cap. 65. ¶That learning is not only to be expounded
+but alſo to liue according as it doth preſcribe.
+               IF any do auaunte that he can well
+interprete and expounde the ſentences
+of Chriſippus,
+                  They are Grāmarians not Philoſophers, whiche doe expounde the preceptes of wiſe men, &amp; follow them not. ſay with thy ſelf,
+if Chriſippus had not writtē darkly,
+&amp; obſcurely, I ſhould haue nothing
+wherewith to auaunte my ſelfe. But
+Chriſippus hath not written, to the
+ende he would be interpreted, but to
+the end that according to his doctrine
+we ſhould liue. If then I vſe his preceptes,
+then ſhall I attaine to ye goodneſſe
+of them. But if I maruell at the
+interpretation, or if I can well interprete
+it my ſelfe, I maruel at the Grā
+                  marian,
+
+not at the Philoſopher, or elſe
+play the Grāmarian not the Philoſopher.
+But what auaileth it to haue
+founde written remedies, to vnderſtande
+them well, and being ſicke thy
+ſelfe not to vſe them?
+            
+            
+               Cap. 66. ¶That we ought to perſeuer in goodneſſe.
+               THou muſt be ſtable and firme in
+thy good purpoſe and deliberation
+of life,Preceptes are to be obeied, and wordes are not to be regarded. euē as in a law. Perſeuer
+therfore, euē as if in trāſgreſſing,
+thou ſhouldeſt incurre the
+crime of impietie. And whatſoeuer mē
+talke of thée, regarde it not, for that belongeth
+not to thée.
+            
+            
+               Cap. 67. ¶That we ought not to deferre from day to
+day, for to leade a perfect life.
+               HOw lōg yet wilt thou deferre
+to eſteme thy ſelfe at any tyme
+worthy of theſe thinges which
+are ſo excellēt, and not to trāſgreſſe
+
+one? But if frō day to day thou
+doſt deferre ye time, thou doſt not auāce
+but hinder thy ſelfe. Then incontinētly
+accuſtome thy ſelfe to liue as perfecte,
+and to vſe well all accidents and
+chaunces. And in euery thing ſuppoſe
+that the combate is ready for thée, and
+neglecte no time, for that daye in the
+which thou doeſt not profit, thou doeſt
+receyue damage. After this manner
+Socrates became the wiſeſt of al. But
+yf thou bée not yet Socrates, thou
+oughteſt to liue as, one that would become
+Socrates.
+               
+            
+            
+               Cap. 68. ¶Three places in Philoſophie, and the order
+of them together.
+               THe firſte and moſte neceſſarie
+place is that which appertaineth
+to the practiſe of knowledge:Precepts are better than the cauſe of preceptes, and the Methode of demonſtratiōs. as,
+not to lye. The ſeconde whiche
+appertaineth to demonſtrations: as,
+how commeth it to paſſe that this is
+demonſtration? What demonſtration
+is? what cōſequence is? what fighting
+
+is? what is true? what is falſe? Therefore
+ye thirde place is neceſſarie for the
+ſeconde, the ſeconde for the firſt. The
+moſt neceſſarie of all, and wherein to
+reſt our ſelues is the firſt. But we doe
+contrary, for we ſtay our ſelues in the
+thirde, and therein beſtow all our ſtudie,
+and make no accompt of the firſt,
+but are alltogether negligente. And
+how? For we make leaſinges, and notwithſtanding
+wée haue well néere alwayes
+no other thing in our mouthe,
+why and wherefore we oughte not to
+lye.
+               
+                  Annotations.
+                  
+                     Not to lye. And this is the actiue or morall
+part. We ſhould not lye. This is called the
+iudiciall or naturall part. To demonſtrations.
+This is logike and Rhetoricke, wherby
+we proue and trie the truthe, and diſproue that
+which is falſe.
+               
+            
+            
+               Cap. 69. ¶Three ſentences of the auncientes to be had
+in minde. Of the which the firſt is of Cleantes,
+the ſeconde of Euripides, the thirde of Plato.
+               
+                  
+LEt vs alwayes haue theſe thrée
+thinges in memorie and before
+ our eyes. The firſt is, Neceſſitie
+draweth all thinges (will we nill
+we) euē as God hath appointed, wherfore
+he which willingly followeth it, is
+ wiſe. The ſeconde is if I recoile and
+giue back, I ſhal be naughte, &amp; ſpite of
+my téeth wéeping and wailing I muſt
+ néedes follow. But the third, O Crito
+If it ſo pleaſe god, ſo be it. Anitus trulie
+and Melitus may well kill me, but
+to hurte me, it lieth not in their power.
+               
+                  Annotations.
+                  ¶It is maruell that this morall and auailable
+ſaying of Epictetus was omitted, 
+                        〈 in non-Latin alphabet 〉
+                     ,
+that is, Beare and Forbeare, whiche be
+vſed very often, and doth in a manner comprehende
+al that whereof mencion is made at large
+in this boke.
+               
+            
+         
+         
+            
+            ¶The Poeſie of Epictetus
+which he vſed as hys badge
+or Cogniſaunce.
+            
+               
+                  
+                     
+                        〈 in non-Latin alphabet 〉
+                     .
+                  Suſtine &amp; abstine
+                  Suſtaine and refraine.
+               
+            
+            The tranſlater vpon the ſame.
+            SVſtaine al wrong and iniurie,
+            and neuer ſée thou pine
+            At any thing, which fortune blinde
+            doth claime not to be thine.
+            Endure the loſſe of worldlye wealth
+            and couet chiefely thys:
+            A quiet minde, a godly life
+            which makes thée liue in bliſſe.
+            Refraine wt pompe to vaunte thy ſelfe
+            in fraile externall things,
+            Seing to this wearing waſting world
+            thou nothing with thée brings.
+            Sée thou expell not from thy minde
+            and quite from it diſplace
+            Al vertuous actes and holie déedes,
+            though ſome ſéeke to deface
+            Thée, in whoſe minde is fullie fixte
+            the trade to vertues way
+            
+               
+By pleaſant ſhewe of filthie vice
+            which leadeth men aſtray.
+            For ſome there are, who whē they ſée
+            one folowing vertues lore,
+            From vertue hard, to eaſie vice
+            they ſéeke him to reſtore.
+            Abſtaine from wrathe in matters all
+            from Othes and laughter great,
+            From naughtie and yll companie,
+            from all delicious meate:
+            From giuing eare to ſecrete talke
+            and from dame Venus fielde
+            Retire thy ſelfe, and take in hande
+            of chaſtitie the ſheilde.
+            
+               Suſtaine, Refraine, theſe ar two words
+            which great importaunce haue,
+            And if with reaſon thou them ſkan.
+            from damage much do ſaue.
+         
+         
+            
+            The Apophthegs or quicke
+Sentences of Epictetus.
+            
+               
+                  EPictetus ye 
+               Stoike Philoſopher
+ſeing a certain
+fellowe voide of al good
+condicions, hauing a
+bolde ſpirite to ſpeake
+yet to an ill intente, giuing his minde
+to the ſtudy of Philoſophie: he with
+a loude voyce cryed out on the faythe
+of God and man, reprouing the man
+in theſe wordes: O man ſée whether
+the veſſell be cleane, wherin thou doſt
+put theſe things. For if thou ſhalte of
+arrogancie poure them in, they wil periſhe:
+if they ſhall putrifie, they wil become
+vrine, or vineger, or worſe than
+theſe, if worſe may be. He ment, that
+learning inferreth great hurt and damage,
+if it happen vpon a mind which
+is corrupted with yll affections: &amp; the
+more excellente euery learning is, the
+greater hurte it cauſeth if it happen
+on a naughtie man: like as there is
+no thing more better then a good diuine,
+
+ſo there is nothing more peſtilēt
+then an ill diuine. Gellius. lib. xvij. cap.
+xix. &amp; Eraſmus. li. vij. Apoph.
+            
+            He on a time hearing of a certaine
+man yt would eaſilie be flattered, ſaid,
+the crowes plucke dead mens eies out
+of the carkaſſes and that not withoute
+a cauſe, for none which is depriued of
+life, hath the vſe of hys ſight. But flatterers
+corrupting the mindes of them
+which are aliue, do take away al their
+ſighte. Stob. Antonius in Meliſſa. part.
+.j. ſer. lii.
+            
+            He counſelled that we ſhoulde conſider
+thrée maner of wayes: the man
+with whome we are conuerſaunte:
+whether he be better than we oure
+ſelues are, or inferiour, or equall vnto
+vs. It is méete to heare diligently, &amp;
+obeye him whiche is better then oure
+ſelues, modeſtly to perſuade the yonger
+or inferioure, and to agrée wt thy
+equall. And truly by this meanes thou
+ſhalt neuer fall in contention when
+thou art in cōpany. Stob. ſerm. iij. de Tē
+                  perantia.
+Although this be before among
+
+the precepts, yet I thought good
+againe to repeate and recken it alſo
+in this place. For as the prouerbe is,
+Bis &amp; ter quod pulchrun eſt repetendū:
+yt is, that which is goodly ought twice
+and thrice to be ſayd or repeated.
+            He being demaunded, what man
+was riche. To whom (ſayed he) that is
+ſufficient which he hath. Strob.
+            
+            He ſayd that the Gods did not hate
+ſuch, as in this life doe contende and
+wraſtle wt diuers miſeries. The Philoſophers
+meaning was, that aduerſitie
+was vnto men auailable: to whom
+if things do proſper according to their
+deſire, they are ſo vexed wt the Furies,
+that is, with anger, couetouſneſſe and
+luſt, ye through their proſperitie, they
+moue ye Gods to wrath. This is foūde
+in Bruſonius Conturſin us. li. ij. Exempl.
+He being demaunded, by what meane
+a man might purchaſe an honeſte reporte,
+he aunſwered. If thou wilt haue
+a good name, learne to ſpeake well,
+when thou haſt learned to ſpeake wel,
+endeuoure to do well, and by this
+
+meanes thou ſhalt get a good reporte.
+            He being demaunded howe a man
+might procure ſorrow to his ennimie,
+ſayd: If a man do ſo frame and diſpoſe
+hymſelfe, that he do all good things.
+            The ſame was accuſtomed to ſaye,
+that it was more neceſſarie to cure the
+ſoule than the body, ſeing that it is bet
+to dye, than to leade an ill life. Antonius
+in Meliſsa, part .i. Ser. lviij.
+            
+            The ſame was wont to call ſuch as
+ſhewed thē ſelues to be Philoſophers
+by their beard, garmēt, and bragging
+wordes, Factis procul, verbis tenus, hauing
+their déedes farre of, &amp; their wordes
+at hande.
+            The ſame was wont to ſay, that a
+life ioyned with fortune, was like vnto
+a violent floud of water. For it is
+troubled, and full of dirte, and
+harde to enter into it, it is
+violent, roring, and cō
+               tinueth
+a ſhorte
+ſpace.
+            FINIS.
+         
+      
+      
+         
+            
+            Imprinted at London
+in Pater Noſter Rowe, by Henrie
+Bynneman, for Leonarde
+Maylard. And are to be ſold in
+Paules Churchyarde,
+at the ſigne of
+               
+the Cock.
+1567.
+         
+      
+   
+

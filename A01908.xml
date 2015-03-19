@@ -1,0 +1,725 @@
+
+   
+      
+         
+            The maydens dreme compyled and made by Chrystofer Goodwyn, in the yere of our Lorde. M.CCCCC.xlij
+            Songe de la pucelle. English.
+         
+         
+            
+               1542
+            
+         
+         Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2007-01 (EEBO-TCP Phase 1).
+            A01908
+            STC 12047
+            ESTC S105755
+            99841481
+            99841481
+            6067
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01908)
+            Transcribed from: (Early English Books Online ; image set 6067)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 517:06)
+         
+         
+            
+               
+                  The maydens dreme compyled and made by Chrystofer Goodwyn, in the yere of our Lorde. M.CCCCC.xlij
+                  Songe de la pucelle. English.
+                  Goodwin, Christopher.
+               
+               [16] p. : ill.  
+               
+                  Imprynted by me Robert wyer, for Richarde Bankes,
+                  [[London] :
+                  [1542]]
+               
+               
+                  Largely a translation by Goodwin of: Le songe de la pucelle.
+                  In verse.
+                  Caption title.
+                  Printer's and publisher's names from colophon.
+                  Signatures: A-B⁴.
+                  Reproduction of the original in the Henry E. Huntington Library and Art Gallery.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+      
+      
+         
+            2006-01
+            TCPAssigned for keying and markup
+         
+            2006-04
+            SPi GlobalKeyed and coded from ProQuest page images
+         
+            2006-05
+            Andrew KusterSampled and proofread
+         
+            2006-05
+            Andrew KusterText and markup reviewed and edited
+         
+            2006-09
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            ¶The maydens dreme Compyled and made by Chryſtofer Goodwyn, In the yere of our Lorde. M.CCCCC.xlij.
+            
+               
+            
+            
+               ¶The Prohemye of the Authour.
+               
+                  BEholde you yonge Ladyes, of hyghe parentage
+                  And you yonge virgyns, of eche degre
+                  Here is a pamphlet, euen mete for your age
+                  Where as in a myrrour, you maye lerne and ſe,
+                  Howe vycyous loue, you ſhulde eſchewe and fle
+                  Hauynge alway ſhamfaſtnes, ī your maydenly face
+                  Then can you neuer myſſe, of vertue and grace.
+               
+               
+                  
+                  ¶To loue I counceyll you, neuer enclyne
+                  Excepe onely, it be for maryage
+                  To the entent, to haue therby lyne
+                  yet in that caſe, take hede you not rage
+                  For haſty loue cōmonly, ryght ſoone wyll aſwage
+                  And beware that you loue not, before you be wyſe
+                  Leſt you repent you, more ofter than twyſe.
+               
+               
+                  ¶Yet dyuers in loue, hath had happy chaunce
+                  I ſpeke by my ſelfe, and many one mo
+                  That of perfyte chaſte loue, haue ben in the daunce
+                  And ſped to our myndes, yet for to do ſo
+                  Thouſandes haue myſſed, and fynyſſhed in wo
+                  Therfore I rede you, take good aduyſement
+                  Of good abydynge, none can repent.
+               
+               
+                  ¶Called is the name, of this lytell boke
+                  The (Maydens dreme) whiche I hope ſhalbe
+                  For your erudycions, yf you therin loke
+                  Many a good inſtruccyon, here ſhall you ſe
+                  Howe vertue to enſue, and vyce for to fle
+                  For herein is contayned, both golde and glaſſe
+                  They that worke well, ſhall well brynge to paſſe.
+               
+               
+                  ¶Thus to god, I do you cōmyt
+                  Prayenge you to accept, this my lytell warke
+                  For that it is ſo rudely done, is but for lacke of wyt
+                  Howe be it euery man, can not be a clarke
+                  Nor euery byrde flye, ſo hyghe as the larke
+                  Ye wot what I meane, thus fare you well
+                  Happy be they, that folowe good councell.
+               
+            
+            ¶Thus endeth the Prologue.
+         
+      
+      
+         
+            
+            ¶The maydens Dreme.
+            
+               IN the luſty, freſſhe moneth of may
+               When the byrdes reioyſe, euery glad ſperyte
+               With theyr venerien voyces, ī the dawne of the day
+               Then I whiche had not ſlept, of the hole nyght
+               By Morpleus ſodaynly, had loſt my ſyght
+               Whiche ī a golden ſlombre, right ſoone had me caſt
+               Recheles youth, oft ſlepyth full faſt.
+            
+            
+               ¶As ſoone as I in, this ſlombre was brought
+               Two perſons meſemyd, appered in my ſyght
+               The one ſayd (fayre loue) chaūge you muſt your thought
+               For come is the daye, paſſed is the nyght
+               Of chyldyſſhe ygnoraunce, wherfore of ryght
+               you muſt nowe lerne, what you are come to
+               your yeres ſhall enſygne you, what you ſhall do.
+            
+            
+               ¶You are, ſhe ſayd, fayre, freſſhe, and goodlye
+               Of all your membres, well proporcyoned
+               One of the mynyoneſt, vnder the ſkye
+               Amyable, pleaſaunt, and well fauored
+               Wherfore you ſhulde do, a great myſded
+               yf to your age, you applye not your reaſon
+               For eche thynge ought, to be taken in ſeaſon.
+            
+            
+               ¶I neuer knewe, a more goodly mayden
+               More comely of body, ne fayrer of vyſage
+               In your apparell, ſo freſſhely beſene
+               All correſpondent, vnto your ſwete age
+               Your whyte quauerig dugges, wold make a mārage
+               Of nature and loue, you be the chefe marke,
+               Good is the workman, that fortunatly doth marke,
+            
+            
+               
+               ¶Of reaſon and wyſdom, you haue ſuffycyent
+               As a mayde, of tender an age
+               In you there wanteth, none intendement
+               You are both wyſe, be dyſcrete and ſage
+               You be alſo extracte, of noble lynage
+               Yet all this we maye, as nothynge repute
+               Onles in due ſeaſon, be gathered the frute.
+            
+            
+               ¶Yf I were a man, beleue me for certayne
+               To be my loue, I wolde you requyre
+               For of all other, you be the moſt ſouerayne
+               Of bewtye, fauoure, and freſſhe attyre
+               There is none lyuynge, but wolde you deſyre
+               Your excellent bewtye, wolde a ſaynt moue
+               Ryght happy is he, that hath a fayre loue.
+            
+            
+               ¶The mayden.
+               
+                  THen with that, made they a pawſe
+                  Theſe two ſemblaunces, that I haue of tolde
+                  The one approched nyghe, promotynge her cauſe
+                  The other was not, fully ſo bolde
+                  Her mynde yet to vtter, I parceyued ſhe wolde
+                  Thus wt me ī my ſlombre, they wonderly wrought
+                  Sowndly they ſlepe, that taketh no thought.
+               
+               
+                  ¶Thus as I was, ſlomberynge in my ſlepe
+                  The ſwete ſygnyfiaūce, of my dreme I gan to deuyſe
+                  Alſo what were theſe Ladyes, I toke buſy kepe
+                  That had with me reaſoned, in ſo ſtraunge wyſe
+                  Then theyr apparell, I dyd well aduyſe
+                  Wherin were gret letters, which I dyd rede wt eaſe
+                  Alwayes newe thynges, doth meruaylouſly pleaſe.
+               
+               
+                  
+                  ¶Theſe letters forthwith, I began for to ſpell
+                  And ſet them togyther, with all myne entent
+                  As a mayden that coulde not, rede very well
+                  yet at the laſt, I knewe what they ment
+                  The names of theſe ladyes, that were ſo gent
+                  In them were contryued, wherfore to my mynde
+                  He that well ſercheth, ſhall alwaye well fynde.
+               
+               
+                  ¶The one was named (Amours) a noble dame
+                  Rychely arayed, and it had ben a quene
+                  As a lady of great renowme and fame
+                  Whiche we call loue, ſo freſſhely beſene
+                  The other was ſhamfaſtnes, yt worketh loue moche tene
+                  To wycked loue contrary, euer ſhe is bent
+                  Symple was her chere, and alſo her rayment.
+               
+               
+                  ¶Loue then began, with me for to reaſon
+                  So dyd ſhamfaſtnes, when ſhe ſe her tyme
+                  They tolde me many, a goodly ſermon
+                  Comynge before me, as ſtrayght as a lyne
+                  And gaue me great batayle, eche one in theyr tyme
+                  Aſſaylynge me with wordes, that perſed my harte
+                  Great is the aſſaulte, where none wyll aſtarte.
+               
+               
+                  ¶Loue.
+                  ¶Loue ſpake fyrſte, and to me ſhe dyd ſaye
+                  My fayre mynyon doughter, ſo tender and yonge
+                  Acuſtome thy youth, to ſporte and to playe
+                  To daunce and to lute, with many a ſwete ſonge
+                  To haunte wanton company, to daly amonge
+                  For fro me thou haſt not, yet ſcaped the traſe
+                  youth muſt aquyte her, or ſhe from the paſſe.
+               
+               
+                  
+                  ¶Shamefaſtnes.
+                  ¶Then anſwered ſhamefaſtnes, in ſentence ſhorte
+                  My fayre doughter, you ſhall not do ſo
+                  For euyll is the worlde, beware of reporte
+                  If you ſo offended, howe ſhulde you then do
+                  your louers wolde deſpyſe you, and leue you in wo
+                  So ſhulde you be ſhamed, in euery towne
+                  Bewtye is nothynge, without good renowne.
+               
+               
+                  ¶Loue.
+                  ¶Shame whiche of feare, is engendryd &amp; ſpronge
+                  With this her doughter, Shamefaſtnes
+                  Neuer dyd good, to them that be yonge
+                  (Sayd loue) for youth to deceyue doughteleſſe
+                  They are euermore redy, to put them in preſſe
+                  Beleue her not fayre mayde, for all her pratle
+                  For age can nothynge, but bable and tatle.
+               
+               
+                  ¶Shamefaſtnes.
+                  ¶Ha my dere dought, howe ſore were you to blame
+                  If ſuche an euyll woman, you dyd byleue
+                  Not worth a feſtue, were then your good name
+                  For euery creature, then wolde you repreue
+                  Whiche at the laſte, full ſore ſhulde you greue
+                  Therfore beware, loſe not your byrgyuyte
+                  A vyrgyn is a name, of great honour &amp; oygnyte.
+               
+               
+                  ¶Loue.
+                  ¶If you gyue credence, to this daſtardly ſhame
+                  you ſhall neuer be ſet by, a putred oynyon
+                  Take nowe your pleaſure, lyke a luſty yonge dame
+                  Or euer that youth be, departed and gone
+                  Wherfore chuſe, ſome goodly companyon
+                  With whom you maye take, all your luſt &amp; pleaſaūce
+                  There is no treaſure, without ſuffycyaunce.
+               
+               
+                  
+                  ¶Shamefaſtnes,
+                  ¶Suche lyght counceyll, ſo ſoone to byleue
+                  And after to take therby, ſome dyſeaſe
+                  With grat payne you ſhulde, your ſelfe then releue
+                  Wherfore I wyll tell, that ſhulde you beſt pleaſe
+                  Suche haſty loue, is not worth a peaſe
+                  To caſt awaye your ſelfe, euyll were ye quayntaunce
+                  For haſty loue, engendreth repentaunce.
+               
+               
+                  ¶Loue.
+                  ¶To ſuche a yonge damoyſell, it doth appertayne
+                  To be fryſke, both ioyous, and Iolye
+                  And when in ſuche poynt, ſhe doth her mayntayne
+                  To counte her amyſſe, it were a great folye
+                  For ſhe that with youth, can daunce beſt and dalye
+                  Is counted moſt noble, be it mayden or wyfe
+                  We haue in this worlde, no more but a lyfe.
+               
+               
+                  ¶Shamefaſtnes.
+                  ¶Helas, aduyſe the, or euer thou ſmarte
+                  Or els thou ſhalt be, lyke a marche hare
+                  Lyftynge thy hed vp, euyn lyke a harte
+                  That thorowe the worlde, is chaſed with care
+                  From ſuche foly, my doughter, alwaye beware
+                  Be ſobre and ſymple, and kepe the at home
+                  A maybe is not ſet by, when her ſadnes is gone.
+               
+               
+                  ¶Loue.
+                  Yea thou art thy mothers onely darlynge
+                  Therfore thou mayſte, loue ſecretely
+                  In goodnes and honour, care for nothynge
+                  Prayſed therfore, thou ſhalt be hyghly
+                  At Bankettes and playes, be preſent dayly
+                  At great feaſtes &amp; tornays, where moſt people reſorte
+                  To moche to be fearefull, doth greatly dyſcomforte.
+               
+               
+                  
+                  ¶Shamefaſtnes.
+                  ¶To be tymorous in youth, as ſemeth me
+                  Is a ſygne, greatly for to be prayſed
+                  For feare with youth, alwaye ſhulde be
+                  For recheles youth is, to be dyſpyſed
+                  Wherfore drede is a ſygne, as I haue deuyſed
+                  Of puet and clene chaſtyte, in mayden and wyfe
+                  Eche noble harte, ought to drede a ſhamfull lyfe.
+               
+               
+                  ¶Loue.
+                  ¶Is it then ſhame, for to be Ioyous
+                  And for to pleaſe, the people therby
+                  What ſhulde we be, of other ſcrypulous
+                  Or for that enſueth, to care for ſo greatly
+                  Who that in youth, wyll lyue ſolytary
+                  Prouyth by reaſon, to haue a weke ſpyryte
+                  The aſſaye (at the laſte) makyth the warke perfyte
+               
+               
+                  ¶Shamefaſtnes.
+                  ¶Other to auayle, thy ſelfe for to harme
+                  Is no great wyſdome, as ſemeth me
+                  I ſwere to the, by this ryght arme
+                  If thou to loue aſſent, thou doeſt great folye
+                  For thoughe thou, to thouſādes ſet forth thy beaute
+                  They wyll therfore eſteme ye, but lyke a beeſt ſauage
+                  Fylthy is the water, out of the ryuage.
+               
+               
+                  ¶Loue.
+                  ¶Thynkeſt thou it ſynne, for to beholde
+                  Vpon theyr freſſhe couſers, theſe galantes ſo gaye
+                  Betraped in ſylke, ſyluer, and golde
+                  Whiche with ſpeare &amp; ſheld, at the iuſtes doth aſſaye
+                  Manfully to wyn, the pryſe yf they maye
+                  Whiche won thorowe your loue, they gyue you the prayſe
+                  Thus amorus hartes, reioyſen alwayes.
+               
+               
+                  
+                  ¶Shamefaſtnes.
+                  ¶Thou canſt not do, to be more defamed
+                  Then of a louer, to haue the name
+                  For ſoneſt by hym, thou ſhalt be ſhamed
+                  That flaterynge in Amours, wyll call the his dame
+                  God kepe the from ſuche, perpetuall ſhame
+                  Or to be in ſuche a haſarde, for to deſyre
+                  A grene bough wyll bren, yf it be in the fyre.
+               
+               
+                  ¶Loue.
+                  ¶Reknowlege the goodes, gyuen the by nature
+                  That ſo largely hath endued ye, wt vertꝰ manyfolde
+                  And eke ther wt hath formed the, ſo fayre a creature
+                  That it is a great pleaſure, the for to beholde
+                  Leaſe not therfore thy tyme, aduenture and be bolde
+                  Leſte thou yelde accompt, at the daye of dome
+                  We ought to take hede, of that ſhall after come.
+               
+               
+                  ¶Shamefaſtnes.
+                  ¶The more goodly that nature, hath the formed
+                  And with the more bewtye, ſhe hath the furnyſſhed
+                  So moche more wt grace, thou ſhuldeſt be endoctryned
+                  And with great vertues, for to be garnyſſhed
+                  For yf thy harte to euyll, then be enployed
+                  For euermore, thou ſhalt loſe thy good name
+                  Well doth they watche, that flyeth fro ſhame.
+               
+               
+                  ¶Loue.
+                  ¶It were no nede (me thynke) the to warne
+                  If euer loue, had done the dyſpleaſure
+                  Or to moue the therto, ſo it were for thy harme
+                  Rede the hyſtoryes, and thou ſhalt fynde I am ſure
+                  What payne noble parſons, for loue wolde endure
+                  Yea were ſhe neuer ſo hygh a prynces
+                  To loue or be loued, wolde put her in prees.
+               
+               
+                  
+                  ¶Shamefaſtnes.
+                  ¶Some ladyes I thynke, hath ben conuerted
+                  With dyſſolute loue, them ſelfes to acquaynte
+                  Whiche after ryght ſore hath them repented
+                  In makynge many a dolefull complaynte
+                  Better thou were of that to make reſtraynte
+                  Then forthwith to repent, as it were paſt and gone
+                  For a thynge that is done, remedye is none.
+               
+               
+                  ¶Loue.
+                  ¶Dyd not kynge Arthurs moſte noble wyfe
+                  Yſode polixiene, and alſo medee
+                  And many mo ladyes, of excellent lyfe
+                  To Amorus loue, gyue all theyr ſtude
+                  Whiche hath gyuen them a name of perpetuyte
+                  Nowe of this tell me, who can them reproue
+                  They neuer had Ioye, that neuer dyd loue.
+               
+               
+                  ¶Shamefaſtnes.
+                  ¶Who that wold ſerche, theyr ſtoryes thorow out
+                  Shulde fynde theyr ende, to be nothynge honorable
+                  For dolorouſly all they endyd, without dout
+                  As god be vnto me fauorable
+                  Therfore be not to them agreable
+                  Of examples there be, mo then one or two
+                  Laſcyuyous loue, doth fynyſſhe in wo.
+               
+               
+                  ¶Loue.
+                  ¶Narciſſus that to loue, wolde neuer aſſent
+                  Was chaunged by a fountayn, as in Ouid we fynde
+                  By the goddes ſharpe, and ryghtfull Iudgement
+                  Be neuer therfore, ſo hawte nor vnkynde
+                  But loue them agayne, whoſe harte yu haſt &amp; mynde
+                  So ſhalt thou loue, for loue optayne
+                  Honorable loue, is neuer in vayne.
+               
+               
+                  
+                  ¶Shamefaſtnes.
+                  ¶Suſanne for her chaſtyte, of god was preſerued
+                  Bycauſe to folyſſhe loue, ſhe wolde not condyſcend
+                  Saued ſhe was, from beynge defoyled
+                  Her honoure to kepe, ſhe dyd euer entend
+                  Hard was her begynnynge, vyctoryous was the end
+                  Therfore lerne this of me, both mayden and wyfe
+                  To dred toffend god, is a blyſſed lyfe.
+               
+               
+                  ¶Loue.
+                  ¶One maye well loue, without vyllanye
+                  Or that any dyſhonour, therby ſhulde aryſe
+                  For yf that any vyllayne, do thynke any folye
+                  God can correct hym, in ſondery wyſe
+                  In all honoure (my doughter) do not deſpyſe
+                  To loue, as nature doth entend
+                  They that do as they ought, do not offend.
+               
+               
+                  ¶Shamefaſtnes.
+                  ¶Swete and atrayant, is the enterynge in to loue
+                  It is hony with gall, and myrre confycte
+                  The begynnynge dowſe, the end bytter to proue
+                  For it wyl leue the aſſoone, as it ſeeth the diſcomfyte
+                  In wo and care, wherfore it were great profyte
+                  Neuer therin to enter, for all the kynde femynyne
+                  For in the tayle, lyeth all the venyme.
+               
+               
+                  ¶Loue.
+                  ¶When a ſecrete man, you do parceyue and fynde
+                  Hym truely to loue, you nede not to drede
+                  So that he be loyall, ſecrete and kynde
+                  In louynge ſuche one, you can not yll ſpede
+                  For eche of you ſhall haue to your mede
+                  All your pleaſure togyther, with great Ioye &amp; ſolace
+                  One can not loue, in euery place.
+               
+               
+                  
+                  ¶Shamefaſtnes.
+                  ¶Nothynge there is, ſo ſecretely hyd
+                  But it is openly knowen, to all at the laſt
+                  There was neuer woman, ſo well aſſuryd
+                  That to couer her cryme, yet had the caſt
+                  But out it muſt, by ſome euyll blaſt
+                  For feare to euery haſcard, then muſt thou enclyne
+                  Loue can departe, when ſhe ſeeth tyme.
+               
+               
+                  ¶Loue.
+                  ¶Herken (my ſwete loue) is it not great owtrage
+                  That is thus ſpoken, by this ypocryte
+                  Helas, what wylt thou do, with thy yonge age
+                  Shalt thou paſſe it ouer, as in the darke nyght
+                  And thus cowardly, to put loue to flyght
+                  Not payeng the trybute, of thy yonge dayes
+                  Warkes be not fynyſſhed, without the aſſayes.
+               
+               
+                  ¶Shamefaſtnes.
+                  ¶My ſyſter to loue, without flaterynge
+                  Engendreth good loue, withouten fable
+                  But the ſtroke of the matraſſe, aft loſed is the ſtryng
+                  If it flye farre, is not very ſtable
+                  So cordiall loue, to all agreable
+                  If it be put to farre, at aduenture
+                  With payne can forget, ſuche is her nature.
+               
+               
+                  ¶Loue.
+                  ¶If nature wolde forfet, aboue yet is dame reaſon
+                  For to withdrawe, and in tyme to correct
+                  To thende that none ſhulde be deceyued at no ſeaſon
+                  Therfore thou mayſt loue, withouten ſuſpect
+                  Of any creature, for to be detect
+                  If thou rule the by reaſon▪ I ſwere by god on hye
+                  For reaſon doth gouerne, aboue the ſterry ſkye.
+               
+               
+                  
+                  ¶Shamefanes.
+                  ¶Who truſteth all vpon reaſon, as ſemeth me
+                  May theyr good name, aduenture to farre
+                  But who that, his neygbours howſe doth ſe
+                  To be brennynge, in flamynge fyre
+                  To ſaue theyr owne, had nede haue deſyre
+                  Leſt other lykewyſe, by theyrs ſhulde them warme
+                  They are wyſe can beware, by an others harme.
+               
+               
+                  ¶Loue.
+                  ¶Eche one may knowe, and it is no fable
+                  That a fayre mayden, that wyll haue no loue
+                  Semyth to be folyſſhe, nyce, and vnſtable
+                  And knoweth no goodnes, ne none wyll proue
+                  Whoſe iye as a ſlepe, neuer doth moue
+                  Without facyon, good mayntayne or maner
+                  To haue knowlege, is a great treaſure.
+               
+               
+                  ¶Shamefaſtnes.
+                  ¶To haue ſobre knowlege, I counte it not yll
+                  Without couetynge, to be ſubtyll wyſe
+                  From pratelynge language, kepe your tonge ſtyll
+                  For that is in a mayden, the mother of all vyce
+                  Be ſymple in chere, in anſwere take aduyſe
+                  Speke but lytell, onles ye be demaunded
+                  For in moche clatter, many lyes are dyſcharged.
+               
+               
+                  ¶Loue.
+                  ¶Yea, let them ſaye, what they ſaye wyll
+                  That mayden, hath no maner of goodnes
+                  That alwaye from loue, wyll kepe her ſelfe ſtyll
+                  None ſhall her comforte, in her dyſtres
+                  For euery creature, is loued doughtles
+                  For theyr graces, and good condycyon
+                  A mayden ought not, to be a rebellyon.
+               
+               
+                  
+                  ¶Shamefaſtnes
+                  ¶Haue ſhame alwayes, before your iyes
+                  When you ſhall be to loue eſpryſed
+                  The worlde ſhall loue you, in the more goodly wyſe
+                  And you ſhall not therby, of god be deſpyſed
+                  Thus let alwaye your empryſe, be wyſely conduted
+                  To god I cōmende you, for done is my meſſage
+                  Who good counceyll beleueth, is counted as ſage.
+               
+            
+            
+               
+                  ¶The mayden.
+                  THen dyd I thanke, theſe ladyes both twayne
+                  For the good counceyll, that they dyd me gyue
+                  Promyſynge I wolde, do my buſy payne
+                  Neuer toffende, whyle that I dyd lyue
+                  With yt dame Aurora, of my dreme dyd me depryue
+                  Wherwith all ſodaynly from my ſlepe I abrayde
+                  Pleaſaunte dremes, maketh folke well a payde.
+               
+               
+                  ¶When I fully was awake, out of this ſlombre
+                  I thought oft of that in my ſlepe I had ſeen
+                  And many tymes in my mynde, I dyd it remembre
+                  For I wolde therof fayne, perfyte haue been
+                  Thus at the laſt I had it ſo grauen
+                  In my harte that I coulde not put it awaye
+                  Dremes often are true, it can be no naye.
+               
+               
+                  ¶Then when I was vp, I went for to fynde
+                  If by aduenture I coulde, get one to wryght
+                  For I had fyxed holy my mynde
+                  My dreme to enpreſſe, yf that I myght
+                  Thus founde I one, that dyd it gladly endyght
+                  Whoſe pen to be ſwyfte, I dyd greatly deſyre
+                  Longe taryenge on ryuers, oft is great daungyre.
+               
+               
+                  
+                  ¶Thus haue I recited it worde for worde
+                  As in my dreme I dyd it fynde
+                  As well as I coulde in my mynde it recorde
+                  One ſence vnwrytten not leuynge behynde
+                  And yf I haue fayled, it was not my mynde
+                  Wherfore accept my good wyll, I hartely you pray
+                  The moſt expert is not aſſured alwaye.
+               
+               
+                  ¶And yf therbe cōteyned of neuer ſo ſmall ſubſtaūce
+                  Any thynge herein, worthy of memory
+                  Or that therby any maye take theyr pleſaunce
+                  Let them the gyue credence as they ſe cauſe why
+                  Herein yet maye you lerne, howe to auoyde foly
+                  And yf the name hereof you wolde wete
+                  The maydens dreme, called is this pamphlete.
+               
+            
+            
+               ¶Lenuoy of the Authour.
+               
+                  GO forth lytell boke, and do thy ſelfe preſent
+                  Vnto my yonge ladyes, &amp; maydēs of eche a ſtate
+                  Prayenge them with the to be content
+                  And alſo with me that do the dedycate
+                  Vnto them cheyfly, wyſſhynge them fortunate
+                  And althoughe the metre, deuoyde be of eloquence
+                  Yet is therin to be noted, many a good ſentence.
+               
+               
+                  ¶Wherfore good vyrgyns all, I hartely you pray
+                  For to take in gree, this my lytell payne
+                  Howbeit I knowe well, that no man may
+                  Take in hande a warke, but ſome wyll it dyſdayne
+                  But as for the Iugement, of any ſuche lyght brayne
+                  I force not, ſo you therby I not offende
+                  Whom alwaye (god wot) to pleaſe I do entende.
+               
+            
+            
+               
+               ¶The Authours name.
+               
+                  THus Adue, myne owne mayſtreſſes all
+                  To (Chryſt) I cōmende you, that ſytteth on hye
+                  Vnto whom my prayers, I (Offre) ſhall
+                  That wt hym you may reygne, aboue the ſterry ſkye
+                  So I requyre you all hartely
+                  (Good) virgyns to praye that I maye (wyn)
+                  The eternall Glory, in auoydynge ſyn.
+               
+            
+            ¶Thus endeth this lytell boke called the Maydens dreme.
+         
+      
+      
+         
+            ¶Imprynted by me Robert wyet, For Richarde Bankes.
+            ¶Cum priuilegio Regali.
+            
+            
+         
+      
+   
+

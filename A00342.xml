@@ -1,0 +1,1064 @@
+
+   
+      
+         
+            The complaint of peace. Wryten in Latyn, by the famous clerke, Erasimus [sic] Roterodamus. And nuely translated into Englyshe by Thomas Paynell.
+            Querela pacis. Selections. English
+            Erasmus, Desiderius, d. 1536.
+         
+         
+            
+               1559
+            
+         
+         Approx. 102 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2003-01 (EEBO-TCP Phase 1).
+            A00342
+            STC 10466
+            ESTC S120574
+            99855770
+            99855770
+            21272
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A00342)
+            Transcribed from: (Early English Books Online ; image set 21272)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 422:23)
+         
+         
+            
+               
+                  The complaint of peace. Wryten in Latyn, by the famous clerke, Erasimus [sic] Roterodamus. And nuely translated into Englyshe by Thomas Paynell.
+                  Querela pacis. Selections. English
+                  Erasmus, Desiderius, d. 1536.
+                  Paynell, Thomas.
+               
+               [96] p.   
+               
+                  In Paules Churchyard, by Ihon Cawoode, one of the prynters to the Quenes Maiestye],
+                  [Imprinted at London :
+                  Anno domini 1559.
+               
+               
+                  A translation, by Thomas Paynell, of a selection from: Erasmus, Desiderius.  Querela pacis.
+                  Imprint from colophon.
+                  Running title reads: The complaynt of peace.
+                  Signatures: A-F.
+                  Reproduction of the original in the British Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Peace --  Early works to 1800.
+            
+         
+      
+      
+         
+            2002-01
+            TCPAssigned for keying and markup
+         
+            2002-01
+            SPi GlobalKeyed and coded from ProQuest page images
+         
+            2002-02
+            TCP Staff (Michigan)Sampled and proofread
+         
+            2002-02
+            TCP Staff (Michigan)Text and markup reviewed and edited
+         
+            2002-03
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            THE COMplaint of peace.
+            Wryten in Latyn, by the famous Clerke Erasimus Roterodamus.
+            
+            ¶And Nuely translated into Englyshe by Thomas Paynell.
+            Anno domini. 1559.
+         
+         
+            
+            
+            ¶ To the Ryghte Honorable Lorde Antonie Uicounte Momtegue, Knyght of the Right Honorable order of the Garter.
+            
+               ERasimus Roterodamus, one of the excelenste Clerkes of oure tyme, perceyuynge and felynge the worlde to be waueryng, troublesome, vnquiet, and euery where bended and inclined to warre and myscheyfe, coulde not temper hym selfe, nor yet his penne, but neades he must write vnto the worlde this true and eloquent complaint the whiche I haue translated and dedicated vnto youre Lorshyp, as vnto a father and a supporter of peace, &amp; quietnes, intytuled the complaynte of Peace. And serchynge very narowlye for a place for peace to reste herselfe in. He in his tyme, coulde no wheres, no not amonge Princes (as he sayth) nor Cardinales, Bysshops, Prestes, Lawers, Maried men, nor amonge Scole men, nor Diuines, nor yet amonge Religious mē, find wher to bestowe her quietly: such tempestes, and surges of Controuersye a rose in euery Citie and Region throughoute all Christendome, that peace was and is exiled euen from those, that to thensample of all others shoulde haue enbrased her, the whiche truely yf Christes trewe Relygion had bene amonge
+
+
+
+them, wolde moste louyngelye and quyetlye haue receyued her, and mooste tenderlye retayned her. And euen nowe euerye mannes headde, as I coniecture and perceyue is busye &amp; vnquyet, gyuen al to newfanglenes, the very mother of all commotions vprores, debates, battel and murther: the mother of al ryetus and lycentius lyuynge, and of lewde lybertie sedycion and tre
+                  •
+               son, the very roote and begynnynge. Euery man is nowe redy to inuade other, to spoyle, to robbe, to de
+                  •
+               ace Cyties, townes and burrowes. Thus through Mars and Bellona, and for lacke of vnytie and peace Cities are spoyled &amp; Ciuill lawes, the presente ayde and mayntenaunce of the common weale put to scylence. Thus Marchauntes are robed both by sea and by lande, thus the innocente husbandman is vtterlye vndone, thus Kyngdomes are empouereshed, honest Matrons defyled, Uirgins defloured, incest and sacralege supported, and thee world on euery side redy to decay, &amp; al this (as I haue said) for lacke of true peace in Christ, y• which causeth men to be of one accord in fayth, confyrmable in purpose, and lyke in humilitie and diliction. God of hys goodnes sende vs thys P
+                  •
+               ace. For why the peace of thys worlde, is rather a dyscorde than a Peace: of the whych and the commodytyes thereof wyth the 
+                  •
+               ncommodytyes of warre, an
+                  •
+                howe Peace is turmulyd and toste from poste to pyller. Erasymus in thys complaynte mooste syncerelye and euydenlye dothe teache vs, the whyche as it is mooste eloquentlye and pleasauntlye wrytten, soo it is to those that 
+                  •
+               auour and receaue the truthe, mooste true and pleasa
+                  •
+               nte.
+            
+               Thus oure Lorde preserue youre Lordeshyppe euer and euer, and sende vs the Peace that passeth all vnderstandynge, and that neuer shall haue ende.
+            Amen.
+         
+      
+      
+         
+            
+            
+            ¶The complainte of Peace.
+            YF mortall men (so it were for theyr commoditie) wold soo disdaine me, eiect me, and vtterly vndo me, that hath not deserued it. I would euen nowe lament my iniury, and their iniquitie: but whan they euen at thys present doo driue me, the spring and founten of all felicitie, from them vtterly lost and caste awaye, and cal vnto them the sea of all calamitie, theyr infelicitie, is more to be bewayled than is my iniury, whose ch
+                  •
+               unces I am enforsed to lamēt and to haue pitie on them, with whom I had rather be angery and miscontentyd. For why to driue his louer from hym, howsoeuer he driueth or reiecteth hym is vnkindnes
+                  •
+                to disdaine him that hath deseruid thankes vnthankefulnes
+                  •
+                and to afflict and vndo the parente and
+
+
+
+keper of all men, is a wycked thynge. But semeth not this an extreme demē
+               
+               
+                  •
+               y and madnes, to thynke them selues vnworthy of so excellent commodityes, the which I doo bryng with me, and for these willynglye to call fo
+                  •
+                soo cruell a heape of all euylles? It is semelye and mete to be angerye with the euyll: but what other thynge canne we doo than be wayle those, that are soo dryuen and toste with furys? she whyche certenlye are for noo nother cause more to be lamentid, thā that they lament not them selues, nor for no other cause more vnhappy, than that they perceue not their infelicitie. For it is a certaine grece and steppe to helth, to knowledge the greatnes of hys infirmitie, and sickenes. For yf I peace prays
+                  •
+               d by the voyce of the Godes and men be the founten,
+                  
+                     •
+                  eace. parent nurysher, augmenter and defender of all good thynges, that other the ayer hath or the earth. Yf withoute me there is nothynge flouryshynge no wheres, nothyng sure
+                  •
+                nothynge pure nor holy, nothynge pleasaunte vnto menne, nor thank
+                  •
+               full vnto the Goddes.
+                  
+                     •
+                  arre. Yf warre
+
+
+
+contrarye to a
+                  •
+               l thynges, be the sede of all euylles. A certen Occean Sea of all naturall thynges, wheresoeuer they be. Yf all flouryshyng thinges through the vice of this, doo putrify, thynges incresyd doo dye, thynges vnderset doo fall, thynges well and subs
+                  •
+               ancyall builded do peryshe, and that are swete, waxe so w
+                  •
+               e. Fynallye yf it be a thyng so far from holynes, that it be a most presente pestylence of al go
+                  •
+               lynes and religion. Yf there be nothyng more vnfortunate than thys one thyng vnto men, nor nothynge more hatefull vnto the Gods. I praye the by the immortall Gods. Who shall beleue these to be men. Whoo shal beleue that there is any cr
+                  •
+               m of wysedome in them, that with so greate charges, so greate stody, so greate trauell, so many cra
+                  •••••
+               esses, soo manye cares, soo many perylles do stody to cast me of, &amp; woulde bye suche a heape of euylls soo dearelye
+                  •
+                Yf wylde beastes after thys maner woulde despyse me, I woulde beare it more eas
+                  •
+               lye, and impute thee iniury done vnto me, to nature, where
+
+
+
+with the cruell inclination of nature, had done cruellye. Yf I were hatyd of dumme beastes. I would forgeue theyr ignoraunce because that strength of the mynde is denyed them, the which onely canne perceaue my gyftes. O vnworthy thinge, and more than prodigious: nature hath creatyd man indued with reason, and that receuyth the wyll and mind of God, beneuolence and concorde and yet I doo soner obtayne a place among wyld beastes, howe wylde and howe brutyshe soeuer they be, than amonge men. And the confederations of soo manye celestiall circles, albeit theyr motion and power is not all one, yet they contynue and lyue thus manye yeares. The powers of the Elementes stryuynge amonge them selfes, doo defend with equall wayte, eternal peace, and they in soo greate a discorde, with a mutuall consente and exchaunge doo noryshe concorde. And howe faythfull a consent and agrement of theyr membres is there in the body of Beastes, and howe readye is theyr mutuall defence? What thing is there more vnlyke than
+
+
+
+is the body and the soule; and yet with howe streyte an amitie hath nature bounde these two together, certes the seperation of them declareth it, therfore as life is nothing else,Lyfe. but the societie of the body &amp; the soule, so the helth of al the qualities of the body is concord.Concor
+                     •
+                  
+                The vnreasonable bestes do lyue euerye one in his kynde ciuillye and in good agrement. Elephantes doo liue in sondrye flockes Swyne and shepe paster together. Craynes and Iayes do flye together in companyes. Storkes the maysters of pitye haue theyr assembles. Dolphines doo defende them selfes wyth mutuall offices and dueties. The politike concorde that is among Antes and Bees is knowen. But wherto go I forwardes to speake of these thynges, the whiche, notwithstandynge they lacke reason, yet they lacke not perceauyng. Thou mayst knowe, that in trees and herbes there is a certaine amitie. Some be baron, except thou ioyne a male vnto them, a vyne embraseth an elme, a peach a vine, insomuch that insensable thinges, seme yet to perceaue the benefytes
+
+
+
+of peace. And as these thynges haue not the powre of perceuynge, soo that they haue lyfe, yet they are borderers vnto those thynges that perceiue. What is so brutyshe as the kynde of stones: and yet thou shalt say that they haue the sense of peace and concord. So an Adamant draweth yerne vnto hym, and drawne, doth holde it. There is also agrement among ye most sauage and wild beastes. The wyldnes of Lyons doth not apere amōg thē selues. A Bore doth not moue nor shake his fy
+                  •
+               ry 
+                  •
+               uske agaynst a bore. And among Linces ther is peace. A Dragō sheweth no cruelnes agaynst a Dragon. And the prouerbes haue adournyd the concord of wulues. I wyll adde that semeth to be more marueilous, the wycked spirites, throughe whom the concord and peace of those ye be in heauen, and of men was first broken, and nowe is broken, are in leage among
+                  •
+                them selues, and defende that theyr tyranny such as it is, with consent and agrement men onely, whom of all other vnamitie becommeth, the which principallye haue mooste nede thereof
+
+
+
+nother nature so myghtye and effectuous in other thynges canne accord, nor instruction ioygne together, nor so many commodities procedyng of concord, vnite them, nor the felynge and experyence of so many euyls reduce and bring them to mutual loue and concorde. The figure and forme of all men is 
+                  •
+               ommen, and the selfe same voyce, and wher as al other kynde of beastes do dyffer mooste cheyfely amoug them selues in forme and fashion of bodyes, the vygure and force of reason is geuen and appoynted to man onely, the whych is vnto them and amonge them so commen, that it is commen to no nother beastes, &amp; speache the principall conciler of amitie &amp; frendshyp, is geuen vnto mā, the sedes of all discipline &amp; vertuous are commonlye grafte in him, a gentle &amp; a meke wytte bending to mutual beneuolēce yt which of it selfe deliteth to be beloued, and is plesant to do good vnto other, excepte a mā thrugh euil cupidities &amp; lustes be as it were with Circes medicines corruptid,Circes. &amp; of a man through degeneration &amp; going out of kynd be made a beast? Of this certēly ye vulgar &amp; cōmō peple
+
+
+
+whatsoeuer dothe pertayne to mutuall beneuolence, doo call it humanitie and gentlenes, Nature vnto thys hath addyd teares,
+                  
+                     •
+                  eares. a document and experience of an exorable nature, where by yf anye offence perchaunce hath happenyd, or any smale cloude duskyd the clearenes of amitie, they maye easelye be made frendes againe. Lo by howe many reasonnes and wayes nature hath taught concorde: And yet not beynge contente with these inticementes of peace, shee would not that amitie should be onely pleasaunt vnto man, but also necessary. And therefore she hath soo parted and diuided the gyftes aswell of the body, as of the soule, that there is no man so wel furnished, but that nowe and than he maye be releuyd and holpen by the offyce of the inferiours. Nor she attributh nor geueth not the selfe same, nor yet the lyke vnto all men, that this inequalitie myghte be made equall throughe mutuall loue and amitie. Diuers thinges come forth of diuers countrise, that the very vse of them should teache mutuall merytes and deseruynges. Unto
+
+
+
+other beastes, she hath attributed armur and helpe, where with they shulde defende them selues, onelye manne she hath brought forth without knowledge and feable, nor noo otherwyse in sauegarde, than by confederations and mutuall necessitie.Necessitie. Necessitie inuented cytyes, and necessitie hath taught the societie and felowshyp that is among them, that they ioynyng theyr strength and power together, should repell the vyolence of wylde beastes, aud robbers. For in worldly thynges there is so litle helpe that mankynde euen at the begynnyug of lyfe, hadde peryshed, yf matrymonyall concorde had not nouryshed and broughte hym vppe. Nor man shoulde not haue bene borne, and borne euen at the begynnyng of lyfe, should by and by haue peryshed, and lost lyfe: yf the frendly hand of the mydwyfe, and frendely
+                  •
+                piety of the nurse, had not holpen the infante. And nature hath planted vnto thys vse, those vehemente lytle fyers of pyetie, that thee parentes loue euen that, that as yet they haue not sene. And vnto thys she hath added the mutuall
+
+
+
+pietie of the chyldren to theyr parents, that theyr imbicilitie and weakenesse myghte mut
+                  •
+               allye be 
+                  •
+               ubleuatyd and suckeryd by theyr ayde and helpe, and that it 
+                  •
+               yght be vnto all lyke plausible and fauorable, and of the Grekes called mooste aptelye A
+                     •
+                  tipelargosis, that is a mutuall retaliation or compensatyon of benefyte
+                  •
+                vnto thys are added the bandes of kyndred, and of affinitie. In some there commeth the symilitude of wyttes, of stodies, and of shape the surest rec
+                  •
+               nciler of beneuolen
+                  •
+               e. In many a certen secrete sense and felynge of ye mynd, a maruelous great spurge and prouocation to mutual loue and amitie, where at oure elders muche maruelde
+                  •
+                and ascrybe it to the wyl and powre of God. With thus many arguments nature hath taughte peace and concorde. With thus many inticements she hath inuytyd vs vnto her, with soo manye cordes she draweth vs with soo manye thynges, she compelleth vs. And after al these thinges, what effectuous infernal fury to hurt man, these thynges beyng broken, cast a syde, and shaken of, hath
+
+
+
+plantyd in the heartes of man this insatiable fury of fytynge? And but that the vse and custome doth fyrste take a waye the admiration, and than the sense of the euy
+                  ••
+               , who would beleue that these men were indued with reason, that with continuall discord, controuersies, &amp; warres contend and striue among them selues. Finally they trouble and confounde al places, both haloued and prophane with rapine bloude, and ruine. Nor there are no confederations, be they neuer so holy, that can seperate and diuide them furiously ragyng agaynst them selues, to the mutuall destruction of them selues. Yea yt nothing had bene put or added vnto it, the commen vocable or name of a man, had bene sufficient for agrement amonge men. But be it so that nature, the which is of great force among brute beastes, profited nothing among men: shall Chryst therfore be of no force, n
+                  •
+               r powre among chrystians? Let the doctryne of nature be of lytle effecte, yet among beastes that haue no vnderstandyng, it hath great force and strengthe. But forasmuch as the doctrine of Christ
+
+
+
+is much more excellent thā the doctrine of nature, why dothe it not perswade ye thynge vnto those that professe her, the which one of al other thinges she moste principally doth coūsel: that is Peace &amp; mutual beneuolence: or at leaste waye, teach him to forget this so wicked &amp; soo cruel madnes of making of war. Whā I here the vocable &amp; nature of man, by &amp; by I rune vnto him as vnto a creature borne properly for my welth, trusting yt it shalbe leful for me to rest ther, &amp; whan I here the title of christē men, I make ye more hast vnto thē, hauing truely good hope to reigne am
+                  •
+               nge them. But here amōg these (I am a shamed and loth to speake it) the places of iudicature, ye coū
+               sel 
+                  •
+               hamber, ye courtes, the tēples do so rumble &amp; sound euerye wher wt debates &amp; strifes, that the like is no wheres amōg the Ethnikes. Insomuch yt wher as the company of aduocates is ye gretest part of the misery &amp; calamitie of mā,Aduo
+                  
+                     ••
+                  te
+                     •
+                  . yet this is but a smale matter &amp; a solitariousnes to the troubles of those yt goo to lawe. I behold the Citie, by and by I haue good esperaunce &amp; hope, that there at leaste
+
+
+
+waies is good agremēt &amp; concord amōg those yt the self same waules do enclose,Cities. ye self same lawes do rule and gouerne, &amp; as caryd in one shippe, a commen perill and daunger dothe contayne. But O wretch as I am, y• here also doth find all thinges defiled wt dissention, &amp; soo, that scarsely it is lefull to find any house, in the which I may haue a place for a fewe dayes. I leue of the vulgar and commen people,Uulga
+                     •
+                   people. the which after the course of the Sea, are drawne wt their owne formur and troubelous motions. Now I come vnto the court of Princes, as into a cercerten port &amp; hauen.Courte No dout (quod I) amōg thē there shalbe a place for Peace. For they are more prudent &amp; wise then the cōmen people, they are the eye of ye people. Furthermore they are placid in hys stede &amp; rome, that is the docter and Prince of concorde, of whome truely I am commtndyd to all men, but specially vnto these. And al thinges doo promys me well. I see gentle salutatyons, amorus, embrasynges, merye banketes, and all other duetyes and offyces of humanytye.
+            
+               But o vnworthy thing, it was not lawfull amonge these to beholde the onelye shadowe of true peace and concorde. Al thinges were coule
+                  •
+               yd and fayned, and with open factions and secret dissentions and hatredes corruptid. And finally I insomuch do fynde that amonge these there is no seate for Peace,Note. that from hence commeth the sprynges and begynninges of al dissention and warres. But whether after thys shall I vnfortunate turne me, seing that hope hath soo oftentimes deceuyd me? But Princes are rather mightier then lernid, and are ledde more by cupiditie and lust, thā by the right iudgement of the mynde. I wyll conuey my selfe to the companye of eruditie and learnyd men. Good letters make men.
+                  
+                     •
+                  earned 
+                     •
+                  en. But Philosophy more than men. Diuinitie maketh thē godes. It shalbe lawefull for me thus dryuen aboute with so many circutes to reste among these men. But alas for sorowe, beholde here in like maner a newe kind of warre not so bluddye, but nolesse folyshe and madde. One scole varieth frō a nother, &amp; asthough the truth of thinges
+
+
+
+were chaunged, by the place, so certaine decres trauayle not ouer the Sea, certen passe not ouer the Alpes, nor certayne swime not ouer the Rhene: yea in ye selfe same vnyuerstie the Logicians maketh warre with the Rhetoricien, &amp; the Diuine dothe dyscorde with the Lawer. And in the selfe same kynde of profession and learnynge, thee Scotysse dothe fyghte with the Tho
+                  •
+               iste, the Nomynale with the Reale, the Platonyst with the Peripatike, in somuch yt in most smal matters, they agre not, and often tymes they stryue moste cruelly for a matter of nothynge, vntyll the heat of the dysputacion doth waxe more and more from argumentes to slaunders, and from slaunders to buffettes. And albeit the thynge be not doone nother with daggers nor speres, yet with ther poisoned and venimouse styles they wounde eche other
+                  •
+                &amp; with bytynge tethe and tauntes, they teare one another, and one against the others, fame do violētly moue &amp; shake the deadly dartes of theyr tonges. Whether shal I turne me, that so oftē haue prouid that I am deceiued? What remayneth
+
+but onely religion,Religiō. a secrete as it were &amp; a holy anker whose profession, notwt
+               standing it be the cōmen profession of al christians, yet they do moste peculiarlye professe it with title, apparel, &amp; ceremonies, yt commenly are commēded by the name of pr
+                  •
+               istes. These therfore do put me beholding al things in good hope, y• there is a hauen prepared for me.
+
+                  
+                     〈1 paragraph〉
+                  
+                The whyte garmentes nobilitatid with my own color, do please me. I se crosses, the tokens &amp; notes of peace. I here the swete name of a brother, the argumēt of a singuler charitie. I here the salutations of peace very happy through ye ioyful pronunciation of thinges, yt be to come. I behold &amp; se the communion of al things a colledge ioyned together, al one temple, the selfe same lawes, the quotidian &amp; dayly conuentes.
+                  
+                     〈1 paragraph〉
+                  
+                Who doth not trust yt here shalbe a place for peace? But O vnworthy thyng, the colledge doth not almost neuer agre with the Byshoppe. Thys is a smale matter, but that they thrugh dissentiō must also be deuided amōg thē selues. How many preistes be ther, that are not at debate &amp; strife 
+                  •
+               ith
+
+
+
+some other preist? Paule doth iudge it a thing not to be borne, that one christen man shuld go to the lawe with another &amp; should a preist striue with a preist?1. Cor. 6 &amp; a byshop with a byshop? But perhappes some one will forgeue these mē, because that through long continuaunce &amp; vse, they are come in a maner to the company of prophane and laye mē, inasmuch as they haue begune to possesse the selfe same thynges with them. Goo to. Let them hardly vse theyr ryght, the which as it were they doo desende by prescription. Yet th
+                  •
+               re remayneth one kinde of men, the which are so bounde to religion, that yf they woulde desyre it, they can by no meanes shake it of, noo more than a tortuse her house or shell. I shuld hope to haue a place amonge these, but that my hope soo oftentymes frustratid, had taught me vtterlye to despere. And yet because I wyll leue nothyng vnproued, I wyll experiment it and proue it. Thou sekest for an ende of this matter. I departyd from noo men more gladly. For what thynge shoulde I hope for, whan teligion doth not agre wt religiō.
+
+
+
+There are as many factions, as there are feloweshyppes. The Dominicales are at debate with the Minorities. The Benedictines with the Bernardynes: as many names, so many Religions, so many euen o
+                  •
+                purpose, diuers ceremonies, because that nothing should agre: euery man is pleasyd with hys owne, and hateth &amp; condemneth other mens. The sel
+                  •
+               e same felowshippe is through factions dyuyded. The obseruauntes speake euyll of the Coletes, and bothe they of the third kynde, 
+                  •
+               he which haue their name of the Conu
+                  •
+               ntes called Cō
+               uentuales, and yet there is no agremēt among them. I nowe as it is mete and mistrusting al thinges, desyred to hyde my selfe in some litle monasterye, yt truely and vnfainedly were in quiet. Thys thing I shal saye againste my wyll, the which would to god warre not mooste true. Hetherto I haue found none, that with ciuill, hatred and braulinges was not infected. A shame it is to rehearse what vnprofitable strifes &amp; debates the elder men which are to be fered and reuerencid for their bearde and cloke sake,
+
+
+
+doo excite and styrre of tryfylles &amp; vaine maters. And finally howe greatly learnyd they seme vnto them selues, &amp; howe holy. Yet some lytle hope smyled vpon me, that somewheres among so manye Mariages,Maryage. some maner of place, should be geuen me. For what doth not a commen house, a commen bed, and commen chyldren prom
+                  •
+               s? Furthermore y• mutual lawe of their bodies, so that yu shalt rather beleue thē to be one body made of two, than to be two. But that mooste myscheues Eris and contention is also cropen hether,Eris. and through the dissencion of theyr myndes diuideth those, that with so many bondes are bounde. And yet I shall soner chaunce to haue a place amonge these, than among those which with so many titles, so many di
+                  •
+               ers garmentes, so many ceremonies professe or absolute charitie. But finally I desiryd thys that at the least way, a place might be appointed me in the brest of some one man. But yet that chaunsyd not, for the selfe same man dothe stryue and fyghte with hym selfe, reason maketh warre with the affections, and furthermore
+
+
+
+affection, whilst pitie draweth one wai and cupiditie a nother, striueth with affection. Againe lust swadeth one thing, and anger another, ambitiō one thing, co
+                  •
+               ituousnes another. And being such men, yet they are not a shamid to be cal
+               
+                  •
+               ed christians, albeit that they do vtterly discorde from the thinge that is vnto Chryst most cheyfe and peculier. Contemplate and behold his vniuersal life.The lyfe of Christ What other thinge is it, than the doctrine of concord, &amp; mutual loue? What other thyng doo hy
+                  •
+                commaundements inculcate and repete, what hys parabl
+                  •
+               s but Peace, but mutuall charitie? Dyd that noble Prophette Esaias inspyred with the celestiall spirite, and shewing that Chryst the reconciler of al thynges should come: promys that he shoulde be a ruler, or an ouer thrower of Cities? A warrier? A triumpher? Noo no. What then? A Prince of peace,Esa. 9 and because he woulde that he shoulde be notyd and vnderstandyd to be the best of all other: he notyd hym of that thynge, that he iudgyd, the beste of all thynges. Nor it is no maruell that it semed so to Esaias
+
+
+
+whan that Syllius the etnich poet wrote of me in thys sorte and maner.Sillius. Peace of all thinges that nature gaue vnto man is best.Peace. And that mistical poet doth agre vnto thys man sayinge.Psa, 75
+                     •
+                  
+                His seate is made in peace. He said in peace, not in Hostes. He is a Prince of peace, he loueth peace, he is offended with discorde. And againe Esaias calleth peace a worke of Iustice,Esa, 32, mening (if I be not disceyuyd) the selfe same that Paule mente, and he of troubulous Saule, was made peasable, and the doctour of peace, with what brest, with what eloquen
+                  •••
+                dyd he preferrynge charytye aboue all other gyftes of the spryte,1, Co, 13 thū
+               der oute my prayse vnto the Corynthyans? whye shoulde I not glorye to be praysyd of so lawdable a man?He, 13. This manne sometymes callethe hym the God of peace.Collo, 3
+                     •
+                  
+                In another place he calleth hym the peace of God: manifestlye declaryng these two to cleaue and agre among them selues, that there canne be noo peace, where GOD is not presente, nor that God can be there, where peace is not present.
+            
+               Lykewy
+                  •
+               e we rede in holye Write, the Angells of Peace to be called meke and the ministers of God:Psame 103. so that by it selfe
+it is manifest, whom we ought to take for the Angells of warre. Harken vnto me ye excellent warryers. Beholde vnder whose ensygnes ye warre. Certes vnder hys, that fyrst sowde dissention &amp; discorde betwene God and man. What calamitie so euer mā doth fele, he ought to ascribe it to his dyssention and dyscorde. A lyght matter it is that certen men do argue that God in holy Wryte, is called the God of Hostes, and ye God of vengaunce: For why there is a grete difference betwene the God of Iewes, and the God of Christen men, although that of their owne nature they are one, and the selfe same God. Or yf the olde titles do please vs, go to, let hym be the God of Hostes, so that thou take and vnderstand the sharpenes and front therof to be y• consent of vertue, by whose aide and helpe good men destroy vyce. Lette him be the God of vengaunce,Esaie. 1 
+                     •
+                   Reg. 12. soo thou take vengaunce for the correctiō of vice, and dost referre the bloudye occision of
+
+
+
+men, wherewith the bokes of the Heabrues, are replenished, not to ye cutting and terynge of men in peces
+                  •
+                but to thee driuinge awaye of wycked affections oute of the brest and mind of man. But to folowe on that we purposyd. As ofte as the secret and diuine letters do signifye absolute felicytye they doo it by thee name of Peace. As Esayas,Esai. 32. my people (sayeth he) shall sit in the beutifulnes of Peace. And another,Psalme 124. Peace (sayeth he) vpon Israell. Againe Esaias doth maruell at the feete of those that denunce Peace, that denunce good thynges. Whosoeuer bringeth tidings of Christ,Esai. 52 bringethe tidinges of Peace. He yt dyuulgath warre, diuulgath hym that is mooste vnlyke Chryste. Goo to nowe, What thynge dyd drawe the sonne of God into the Earth, but that he myght
+                  •
+                reconcile the world vnto the father, and ioygne men amonge them selues, with an indissoluble charitie, and laste of all that he myghte make man hys frende. He was than an Ambasadoure for me, he dyd my busynesses.1. Psal. Re. 22. And therefore Salomon woulde beare his type and figure,
+
+
+
+the which vnto vs is called peasable.1, Psa, Reg, 22 Howe great soeuer Dauid was. yet because he was a warrier, because he was defyled with bloude,1, Psa, Reg, 22, 
+                     •
+                  8. he is not suffered to buylde the house of god. Nor he deseruid not in thys parte, to beare the type and figure of peasable Chryst. Nowe O thou warrier, ponder thys in the meane while, yf warres receauyd &amp; done by the commaundemente of God do prophane men, what shall they doo, whom ambition, anger, &amp; fury doth perswade? Yf the bloud of Ethnikes, being shed dothe polute the meke kyng, what shall the great 
+                  •
+               ffusion of christen bloud doo? I pray ehe O thou christen Prince, yf thou be truely a christian, beholde the Image of thy Prince, obserue &amp; marke how he entred into his kingdom, howe he proceded, howe he departed hence, &amp; thou shalt easely vnderstande, howe he would haue the to rule, mary that peace and concord might be the some &amp; conclusion of al thy care &amp; rule. Dyd the Aungells whā Christ was borne, blowe vp their warlyke trumpetes? The Iewes vnto whom war was ꝑmitted, hard the
+
+
+
+sounde of the trumpetes. These begynnynges were mete and conueniente for those,Leui, 19, to whome it was laweful to hate their enemies. But ye Angells of Peace sing another maner of song to the people of Peace. Do they call men to war? or doo they promys vyctoryes? or tryumphe? Noo. What than at last? They denounce Peace, &amp; the congruences wt the oracles of the Prophetes. And they denounce it not to those that breth oute murders and warre, that shewe them selues fearce to battel, but to those whiche with good wyll are inclinyd to concord. Let men culler and say what they wyl to their own destruction &amp; hurt: Yf they loued not war, they would not thus stryue with continuall warres amonge thē selues. Go to. What other thing dyd Chryst him selfe beinge of a good age teache. What other thing did he exprese than Peace? And nowe &amp; than he salutid his Disciples wt the good lucke of peace. Peace be vnto you.L
+                     •
+                  c. 24, And he prescribed vnto his ye forme of gretinge, as onelye mete &amp; worthi for christē 
+               
+                  •
+               ē.Roma, 1, And ye Apostles not obliuious &amp; forgetfull of thys
+
+
+
+precepte and commaundement, begyn theyr Epystles with Peace: and wyshe Peace vnto those whom they syngularly well doo loue. He wyssheth an excellent thynge that wyssheth helth: but he that dothe desyre peace, desyreth the sume and conclusion of all felicitie. And marke with what solicitude aud care he nowe departyng thys worlde, commē
+               deth Peace, the which he so often times in all hys lyfe tyme commendyd. Loue ye (sayth he) one a nother as I haue loued you.Io, 15, And agayne.Io. 14. I geue you my peace, I leue you my peace. Do ye heare what he leueth vnto hys? Doth he leue thē horsses? or a gard? or an Enpeire? or riches? none of al these thyngs. What thā? he geueth peace, he leueth peace, Peace wt his frends, Peace wt his enemies. Now I wold thou shoulst cōsider, what he after the mysticall supper, the tyme of hys death beyng nowe at hand, with those hys laste prayers, desyrred of hys father. I suppose that he whyche knewe that whatsoeuer he demaunded he should obtaine it,Io. 11. would aske no vulgar nor no commen thynge. O holye
+
+
+
+father (saieth he) kepe them in my name that they maye be one as we be.Ioan. 1
+                     •
+                  
+                See I beseche you, howe noble a concorde C
+                  •
+               rist doth aske for hys. He sayde not that they maye be of one mind, but that they may be one, nor that after euerye maner, but as we (sayeth he) be one: the which after a most perfect and a vnspeacable way are the self same. And by the way declaryng that men by this way &amp; meanes onely, must be sauid, yf they among them selues doo nourysh mutual peace and concord. The Princes of this worlde do note and marke theyr men, &amp; speciallye in the tyme of warre, wyth some notable note and signe, that they maye be knowen from other. But see and beholde with what note or badge Chryst hath markyd his: certes with no other thā with the note of mutuall cha, ritie, sayinge.Ioan. 1
+                     •
+                  
+                By thys badge and note men shall knowe that ye are my dyscyples, not yf ye be so or so apareled, not if ye fede vpon thys or that meate, nor yf ye fast onely, nor yf ye swallowe vp soo many psalmes, but yf ye loue one anothere, nor that after the commen sorte,
+
+
+
+but as I haue louid you. The preceptes of the Philosophers are innumerable, and the commaundementes of Moyses and of the kinges are diuers and many, but my precepte (sayethe he) is but one, tha
+                  •
+                is, that ye loue together. And prescribing vnto them one forme of praying dothe he not euen at the begynnynge warne them of a marueilous concorde? Oure father sayeth he, it is the prayer of one, it is the common peticion of all men
+                  •
+               
+               
+                  
+                     〈1 paragraph〉
+                  
+                they are al one house, al one familye, all depend of one father,
+                  
+                     〈1 paragraph〉
+                  
+                and howe agreeth it then that they shoulde make continuall warre among them selues? With what mouth or boldnes dost thou call vpon the commen fa
+                  •
+               her, yf thou thrust thy swerd into thy brothers bowells? And nowe because he woulde that this one thing should settell most depely in the myndes of hys, with how many sygnes, with howe many parables, with howe many preceptes hath he repetyd the stody of concorde?Iohn. 10 He namethe him selfe a shepherd, and his seruaun
+                  •
+               es shepe. And I praye you, who euer sawe shepe fight with shepe: Or what shall
+
+
+
+woules doo, yf the folde teare one another? whan the vine doth call hym selfe the rote, and the braunches hys, what other thing doth he expresse than vnanimitie. It shoulde seme a prodigious thing worthy to be pourgid by sacrifice, if in the selfe same vine one braunche shoulde warre with a nother: and is it not a monstrus thynge, yf a christyan shal fight with a christian? Finallye yf any thing be secret and holy vnto chrysten men, that should be very holy &amp; depely setteled in their mindes, that Christe in those extreme and last commaundements making as it were his last will &amp; testament deliuerd, commendinge those things vnto his children, y• which he desyred shoulde neuer be forgotten. And what other thing doth he teach, cōmyt, cōmaund, pray or desire in al these thinges, but mutual loue amōg his?Ioan. 1
+                     •
+                  
+                What doth ye communion of that holy bread &amp; amiable cup decre, but a certē new &amp; an indissoluble cōcord. But whā he perceiued ye peace coulde not stand where men striued for offices, glorye, riches, &amp; to be reuengid: he doth then vtterly exstirpe
+
+
+
+oute of the mindes of his suche affectyons and vtterly forbiddeth them not to resist euyll,Math. 5. &amp; if they may he commaundeth them to do good to those that haue not deseruyd it,Math. 5. and to praye and wyshe them wel, that wishe other that is euil. And seme they vnto them selues to be christians, that for euery light iniury do drawe the greattest part of al the world to war? He commaundeth that a prince should play the minister among his people, nor that he in no other thing shulde excell other, but that he be better than other, and that he ayde and helpe many. And yet some be not ashamed for a smal accesse and pece of grounde to be addid and annexed vnto theyr territorye, to styrre vp so greate tumultes. He teach it vs to liue with out anye store, after the vse and custome of byrdes &amp; lyllyes. He forbyddeth vs to extend our carefulnes vnto the next day.Math. 9. It is his wil and minde, that all we should depende from heauen.Mat, 19, He excludeth all riche men frō the kingdome of heauen, and yet certen men feare not for a lytle mony vnpaid, the whiche parauenture is not oyinge
+
+
+
+nor dewe, to shede somuche humayne bloude. And in these dayes, these seme most iust causes of making of war. And truely Christ doth no nother thing, commaundynge them to learne one certen thing of hym,Mat. 11. to be meke of minde and not fearce:Math. 5, and what he commaundeth the gyft to be left before the aulter, and not to be offerd before thou be in frendship with thy brother, dothe he not manifestly, teach vs, that concorde is to be preferd aboue al other thinges, nor noo sacrifice to be thankefull vnto God, except he commēd it? God refusid ye Iewes giftes, a kyd perchaunce or a shepe, the which yt they which were at debate dyd offer: &amp; dare christen mē thus makinge war among them selues offer vp that holy sacrifice? Nowe whan he lyketh him selfe vnto a henne, gathering her chyckens vnder her winges,Mat, 13. with howe apte a signe dothe he paynte concorde? He is a getherer, and howe doth it agre, that we christen men shoulde be kytes? To the selfe it pertaynethe, that he is called the corner stone, contayning and ioigning both the walles together: and
+
+
+
+doth it not agre that his vicars shoulde moue al the worlde to battell and war, and 
+                  •
+               o
+                  •
+               gne kingdomes to kingdomes?
+                  
+                     〈1 paragraph〉
+                  
+                And they,
+                  
+                     〈1 paragraph〉
+                  
+                as they bost them selues, haue that hygh reconciler to their prince, and yet by noo meanes they can be reconcyled to them selues. He reconcilyd Pilate and Herode,Lu. 23. and yet he cannot brynge hys to concorde. He that was defendyd doth rebuke Peter as yet halfe a Iwe, the whiche in iop
+                  •
+               riye of hys lyfe was redy to defend hys Lorde and mayster, &amp; commaundyd hym to put vp his swerd:Ihon. 18 and amonge chrysten men, the swerde euen for euerye lyght matter is drawne oute agaynst christians. Woulde he be defendyd with the swerde, that dyinge prayde for 
+                  •
+               he authors of his death? All christen mens letters and bokes,
+                  
+                     •
+                  u, 23. whether thou rede the old or the newe testament, do sounde nothyng else but peace and vnanimitie:
+                  
+                     〈1 paragraph〉
+                  
+                and all the lyfe of christen men dothe intreate of nothyng else but of warre. What cruelnes is 
+                  ••
+               ys more th
+                  •
+               n bestlye,
+                  
+                     〈1 paragraph〉
+                  
+                the whyche with soo manye thynges can not be ouercomde, nor mitygaty
+                  •
+               . But let them eyther
+
+
+
+leue of the glorye of the tytle of christyanitie, or else expresse the doctryne of Chryst by concorde. Howe longe shall the lyfe striue with the name? Beutify youre houses and your garments with the Image of the Crosse, asmuche as it shall please you: Chryste shall not knowledge noo nother note nor signe, but that that he him self prescribed, that is, the signe of concorde.Actes .1. The Apostles being assembled together sawe him goinge into Heauen, and getheryd together they were commaundyd to tary for the celestiall and heauenlye sprite. And he promysyd that he would continually be conuersaunte among those that were assembled, because no man should hope 
+                  •
+               or truste Chryste to be anye where presente in warres. Nowe, what other thing is that fyery and flamyng sprite, than charytye? There is nothyng more commen thā fyer, and fyer without any dammage or losse is kyndled with fyer. Wylt thou knowe that the spyryte is the parente of concorde? Beholde the ende.Actes .4. He sayth that they were al of one harte and mynde.
+            
+               Remoue the sp
+                  •
+               it
+                  •
+                from the bodye, by &amp; by the whole composition of the members shall fall and decaye. Take Peace awaye, the whole societie of a christyan lyfe doth peryshe. Many diuines doo at this presente affirme, that the celestiall sprite is in fudyd by the Sacramentes: if they preach and say the truth, where is the peculier 
+                  •
+               ffect of the sprite,
+                  
+                     〈1 paragraph〉
+                  
+                one hart &amp; one mynde? but yf they be fables, why doo they so great honor vnto these thinges? Truelye I haue sayde and spoken these thynges, that christen men should be the more a shamyd of theyr maners,
+                  
+                     〈1 paragraph〉
+                  
+                &amp; not that I would remoue or take anye thinge from the Sacramentes. And y• it hath pleasyd christen men to be called the church, of what other thing dothe it monyshe vs,
+                  
+                     〈1 paragraph〉
+                  
+                but of vnanimitie? What gremente is there betwene hostes &amp; the churche? thys doth sounde a congregation, and that a dissention: yf thon glorifye that thou art apart of the Church, what hast thou to do wi
+                  •
+               h war?Note. Yf thou be remouid from the churche, what hast thou to do with Chryst? Yf the self same house receyue you a
+                  •
+               l, yf ye haue a commen
+
+
+
+prince, if ye war al for one, yf ye be consecratid &amp; instructed with lyke Sacramentes, yf ye enioye lyke gyftes, yf ye be nouryshed with lyke s
+                  •
+               ipendes, yf the like rewarde be askyd and demaundyd, whye doo ye make suche tumultes among you? We see that there is amōg these wycked souldiers, the which being hyred for wages, euen to the minister of slawter, gret concord, and for no nother cause, but that they go to war vnder the selfe same ensignes, and cannot soo many thynges ioygne those, that professe pietie? Is there nothing done by so many Sacraments? Baptisme is the common Sacramente of all other,Baptism by thys we are borne againe to Christe
+                  •
+                and cut of from the wo
+                  •
+               ld, are grafte in the mē
+               bers of Chryste. What thing can be soo much it selfe, as the members of ye selfe same body? Of this therfore there is nother bond nor fre, Barbariā nor Gr
+                  •
+               ke, man nor woman: but all are the selfe same in Christe, the which reduceth all thynges vnto concord. A lytle bloud tastyd on both partes o
+                  •
+               t of 
+                  •
+               he cup,Note. dothe so ioyne the Scythes, that they tarye
+
+
+
+nor delay not to die for theyr frend.
+                  
+                     •
+                  mitie. And amitie is a secrete and a bolye thynge among the Ethnickes, the whiche a cō
+               men table hath conciled: and shall not that heauenly breade,Note his place for the sa
+                  
+                     •
+                  ramente 
+                     •
+                  f the 
+                     •
+                  ulter. and that mistical cuppe contayne and kepe christen men in loue &amp; amitie, the which Christ him selfe hath ordaynyd, the whiche daylye they doo renewe in the sacrifices? Yf Chryst hath done nothyng there and in these thynges. What nede now so many Ceremonies? yf he went about a serius matter, why doo we asthoughe he had done some light mater, neglecte i
+                  ••
+                Dare any mā be so bold to come to that table the note of amytye, or to the bankette of Peace, that preparethe warre agaynste chrystyans, that prepareth to lease them, for whome Chryst dyed, to drawe theyr bloude, for whom Chryste shed his bloude &amp; O brestes more than adamātynes, in so many things ther is societie and felowship, &amp; in life soo inexplicable debate. The selfe same lawe of birth is vnto al men, &amp; the self same necessitie of age &amp; death. All we haue the selfe same prince of kinde, and the selfe
+
+
+
+same author of religiō: we are al redemed wt the selfe same bloud &amp; cōsecratid with the selfe same sacrifices, &amp; nouryshyd with the selfe same sacramēts, and whatsoeuer gift cōmeth of these it commeth frō the self same founten, &amp; equally it is commē vnto all. We haue al but one church, &amp; the self same reward shall all mē haue. And the celestial Iherusalē wher vnto christē mē do suspire &amp; breth, is namid of ye vision of peace, wher of ye church in the mene while doth sustayne &amp; bere the figur
+                  •
+               . And how chaunsith 
+                  •
+               t thā that this doth so gretlye differ frō yt ensāple? Hath diligent nature profitid so litle, hath Christe him selfe wt all hys cōmaundemen
+                  •
+               s, with so many misteries &amp; signes made nothing perfect? yea euilthinges (as the prouerbe saieth) reconcile those yt be euill.The lyf
+                     •
+                   of man. What is more frayle that the lyfe of mā, what is shorter? vnto how many infirmities &amp; chaū
+               ches is it subiect? And yet seinge it hath more euylls of it selfe than it can well beare or suffer, yet they as mad menne call vnto them selfes the greatest part
+                  •
+                of all euylles.
+            
+               So greate blyndnes dothe occupye the myndes of men,
+                  
+                     〈1 paragraph〉
+                  
+                that they see nothing of all these thynges: they are soo dryuen &amp; that hedlyng, that they breke and cutte of al the bandes of nature and of Christ, and of confederations,
+                  
+                     〈1 paragraph〉
+                  
+                They fyghte in all places and often, nor ther is no measure nor no ende. Nation with natyon, Citie with Citie, Faction with Faction, Prince with Prince is hurt and destroyed, and for the folyshenes or ambition of two men, the which shal shortly as it were with a feuer peryshe, humayne maters are troubled and torned vpsyde downe. But I wyll leue of the tragydies of the olde warre. Let vs repete the Actes of a tenne yeares sense. Among what nation dyd they not fight both by sea and by land moost cruellye? What region whas not moysted &amp; wet with christen bloud? What ryuer, what sea was not infectid and dyed with humayne bloude. O shame, they fyghte more cruellye than Iewes, than Ethnyckes, than wyld beastes. What war soeuer the Iewes hadde, it was made agaynst straungers, the which christen
+
+
+
+men should make against vice, with the which there is now agrement, &amp; warre is made againste men. And yet Gods commaundement led the Iewes to battell. But ambition,Ambiti
+                     •
+                  
+                  ̄
+                (yf thou Iudge thee thinge truely all cullers set apart) dothe violently hale christen men clene ouerwarth: and anger a very euyll counseyler,Anger, doth dryue them, and vnsaciate cupiditie of hauing doth drawe thē. They were busy with foriners, christen men are in leage with Turkes, and amonge them selues they haue warre. The desyre of glorye most commonly did stirre the Ethnicke tyranes to warre, and yet they dyd soo subdue the Barbarus and wylde nations, that it was expedyent for them to be subdude, and that the victor should stody to be fauerd of those that were subdude: And they labord asmuch as was possible that the victorye might be with out bloud, that an honest fame and renome mighte be vnto hym that wanne, and the victors benignitye a solace to those that were subdued. But I am shamyd to remember for howe lyght and vayne causes christen princes
+
+
+
+prouoke the wo
+                  •
+               ld to war.The cau
+                     •
+                  e whi pryre is make warre. This prince doth finde out, or fayneth some olde or currupte title, asthoughe it w
+                  •
+               re some great mater, who should gouerne &amp; rule the kingd
+                  •
+               me, so that the commoditie &amp; profit of the comē wele were sene vnto. He findethe a faute that some what (I cannot well tell you what) is omyttyd in the confederation and leage of a hundred ti
+                  •
+               les and articles. Thys man is priuatelye offendyd with hym for hys spouse deceytfullye c
+                  •
+               nueyed away, or for some lyght worde or mery scoffe frely spoken. And ther be (the which thing of all other is most scelerate and wickid) that through a tyrannicall deceyte (because the fele and perceiue their powre, by the concord of the people to decaye, &amp; by their dissention to be stablyshyd) doo subourne and apoynt them, that of purpose shall moue war, that they may dy
+               
+                  •
+               ide those that be ioyned, and the more licentiously and frely robbe and spoyle the vnfortunate people. Other there be most nocent, the whiche are nouryshed with the damages and losse of the people, and in the tyme of peace haue lytle
+
+
+
+to do in the commen wele. What infernall furis could send in such poysen into a christen hart?Dione
+                     ••
+                  
+                  us. Who hath taught christen men this tyranny? The which neither any Dionisius, nor any Mezentius hath knowne.Mezentious They are rather bestes than men, and onely noble by tyranny, nor no wheres noble nor wyse, but to doo hurte and mischefe, nor neuer in accorde and agrement, but to oppresse the commen welth. And they that do these thynges, are taken and acceptid for christians, and euery where thus pollutyd approche and come to the holye churches and Aulters. O mooste pestylente personnes, worthye to be into thee extreme Ilands exiled. Yf chrysten men be the members of one body, why dothe not euerye man reioyce of other mens felicitie and fortune? Now yf that kingdome whiche bordereth vpon a nother doo floryshe in welth, it is thoughte in a maner to be a iuste and a laweful cause to make warre. For what other thinge (yf we wyll speake the truthe) hathe mouyd, or shall moue soo manye
+
+
+
+to teare the kingdome of Fraunce with armes,Fraunce and th
+                     •
+                   high prais there
+                     •
+                  f. but because it is the most floryshynge of all other? There is no kyngdome more ample and wyde: nor noo wheres a more noble Senate, no whers a more famous vnyuersitie, no wheres more greater concorde, and for ye cause most hyghest in power. The lawes floryshe no wheres so greatlye, Religyon no wheres more vntouchyd nor with ye inter medlyng of Iewes as among the Italions co
+                  •
+               ruptid, nor infectid with ye neyg
+                  •
+               bered of Turkes or Mores as among the Spanierdes, and the Hugariens. Germanye (so that I speake nothynge of the Bohemes) is into soo many kynges diuided, that there is no maner a face of anye kyngdome. Fraunce onely is as it were an vndesiled flowre of the christian dominion, and as a most sure castell, yf perchaunce anye tempest should aryse, is many wayes inuadyd, and with so many craftes and deceites molestyd, nor for noo not her cause, but that they should be, yf there were in thē any vayne of a christian mynde, mooste fayne and glad of. And vnto these wy
+                  •
+               
+               kyd
+
+
+
+dedes they pretende a good and a iust title, thus they past &amp; make awaye, to amplyfy and to enlarge the empeir
+                  •
+                of Chryst. O monstruous thinge, they thinke that the commen wele of chrystendome is not wel counseylid nor prouided for, excepte they ouerthrowe thee most beutifull and most fortunate parte of christendome. What, that intreating and doing of those thynges, they passe the wyld beastes in cruelnes. All kinde of beastes fyght not, nor the conflictes of beastes ar not as we haue said before, and it is more often to be repetyd &amp; spoken of, that they maye the better remē
+               ber it, but agaynst a contrarye kynde of beastes. An Adder doth not byte an Adder, nor a Lynxe doth not teare a Lynxe in pecys. And agayne, whan they fight they fighte with their owne weapons. Nature hath armid them, mē are borne vnarmyd. O GOD immortall, with what weapens doth anger arme a mā? Christians doo inuade christen men wt the ingines of hell. Who canne beleue that gounes were the inuention of mā? Nor they runne not with so thicke, nor
+
+
+
+with a multitude soo harde closyd together to their mutuall destruction. Who euer sawe tenne lyons fyghte with ten bulles? But howe often doo twentye thousand chrystyans fyghte with weapons with soo manye chrysten menne? So muche pleas
+                  •
+               re it is to hurte, and so much pleasure to offende and to drawe oute the bloude of their Brethren. Nor beastes for the most parte fyght not, but whā hunger, or the care of their yonglinges do cause them to rage. But what iniury is there so light vnto christen mē, that semeth not a sufficient and a mete cause and occasyon of warre? Yf thee comminaitye shoulde doo these thinges, they myghte pretende ignoraunce, yf they were youngemen, lacke of knowledge might excuse them, if they be prophayne personnes, the qualitie of thee personne woulde alienate the cruelnes of the dede. But nowe we see that the seede of warre dothe mooste cheyfelye sprynge of those,Note. by whose counsell and moderatyon it was meete and conuenient, the motions of the people shuld be swagyd. The ignoble and contemnyd
+
+
+
+bulgar people doo buylde excellent Cytyes, and edifyed, ciuylye they doo rule them, and gouernynge them, they inryche them. Gouernours and rulers krepe into those Cytyes, and as waspes and dorres they secretelye doo conueye and stele that, that by other mens industrye and laboure is prouyded and gotten: and that, that of manye is wel hepyd together, of a fewe is ill spente: and that, that is well buylded, is most cruellye broughte to ruyne. Yf they remember not the olde, lette who so wyll remember with him selfe, the battels &amp; warres that haue bene foughtenne and made thys tenne yeare, and wayinge the causes, he shall fynde that they for the prynces causes haue bene begoune, and endyd with the greate dammage and losse of the people, vnto whome they nothynge pertaynyd. And that, that in tymes paste amonge the Ethnickes and gentylles was estemyd fylthy an hore hedde (as he sayth) to were an helmette,Note. that is nowe laudable and praise worthy among christen men.Naso, An olde souldyer vnto Naso is a fylthye
+
+
+
+thing, and vnto these, a warrier of three 
+                  •
+               core and tenne, is an excellent thynge. Yea, nor preistes truelye are not ashamed, whome in time paste,
+                  
+                     ••
+                  . 16. God in that bluddye and vnmeke lawe of Moyses, would not they should be defiled wyth anye bloude. Diuines the masters of the christian lyfe, are not ashamyd, the professours of the absolute religion are not a shamyd. Byshoppes are not ashamyd, Cardinals, and the vicars of Chryst are not a shamyd to be the authors and fyre brandes of that thing, the which Christ so greatly hath derestyd. How doo myters and helmetes agree? what hathe a crosyer or a shepe hooke to doo wyth a swerde? what hath the gospell boke to do with a shylde? Howe doth it agre to salute the people with peace, and to stir and prouoke the worlde to mooste trobelous battells? to geue peace with the tounge, and in dede to sende in warre? Doste thou with the selfe same mouthe,
+                  
+                     〈1 paragraph〉
+                  
+                where wyth thou preacheste peasable Chryste laude and prayse warre? Syngest thou wyth the selfe same trumpet GOD and Satan? Doste thou couerid
+
+
+
+with a coule incite at the holy Sermon, the symple vnto murder the whyche of thy mouth lokydde for the Euangelycall doctryne? Doste thou occupyinge the place of the Apostles, teache that, that is contrarye to the preceptes of the Apostles? Arte thou not aferde, leaste that, that was sayde and spoken of Chrystes messengers (howe goodlye be the fete of those that shewe forthe Peace,Ro. 10. good tydynges. and helthe) be turnyd cleane contrarye? Howe fylthy is the tounge of preystes exhorting vnto warre, incytynge to euyll, prouokynge to death and murder? Amonge the Romaynes as yet wyckedly religious, he that toke vpon hym to be thee hygh Byshop dyd assure with an othe, as the custome was to kepe hys handes clene and pure from bloude, and so, that beinge hurte he shoulde not be reuengyd.Uaspa
+                  
+                     •
+                  an. And Tytus Uaspacyan an Ethnycke Emperour kept and performyd the faythe of thys othe constantlye, and it is praysyd of the Ethnycke wryters. But O shamefastnes vtterlye
+
+
+
+taken from manne, preystes dedycated amonge Chrysten men vnto GOD, and Mounckes the whiche pretende a further holynes than these, inflame mē to murders and slaughters. And they make of the trumpette of the Gospell Mars trumpet, and forgettynge theyr dignytie, they curse and runne vpp
+                  •
+                and downe, and suffer all thynges, so they maye styrre vppe warre, and throughe these men, Princes (the whiche peraduentre woulde be quyte) ar
+                  •
+                inflamed to warre, by whose auctorytie, it was meete and conuenyente, that they beynge in tumultes and stryfe, shoulde haue bene quyet. Yea they them selfes, (the whiche thynge is more prodygyous and wonderfull) doo fyghte, and euen for thee selfe same thynges, that the Phylosophers amonge the wycked contemned, the contempt whereof is, peculyer and proper vnto menne apostolycall. A fewe yeares synce, whan the worlde was violentlye drawen by a certayne fatall sore and dysease vnto warre: the euangelycall preachers, that is the gray and the blacke Fryers, song
+
+
+
+and blewe vp theyr trumpets and kindled them more and more, that of theyr owne accorde were inclyned to furiousnes. Among Englyshe men, they encoraged them agaynst the Frenchemen, and amoge the Frenchmen, they hartoned them agaynste thee Englyshemen, they instygated and prouoked al men to warre. No man prouoked to peace, except one or two, &amp; for me to haue named them, was vnto them in a maner death. The holy Byshoppes forgettyng theyr dignitie and professyon, ran hether and thether sharpening and troubling most diligently the publyke sores &amp; plages of the world. And on ye one part they pricte forwardes Pope Iuly, &amp; on the otherside Kings, as though they were not madde ynoughe of them selfes, to haste &amp; to set forwards the warre, &amp; yet we cloke this manifest madnes wt magnificent tytles. To this point a lytel we wrest ye lawes, the w
+                  •
+               itings of good men, &amp; the w
+                  •
+               r
+                  •
+               es of Scripture most shamefully, I wil not say wickedli. Yea ye thing is almost come to this point, yt it is folishnes &amp; wickednes too, once to opē thy mouth against war,
+
+
+
+and to prayse that, that is onely praysed by the mouth of Chryste. He semeth to counsell the people very slenderly, and to fauer the prince very litle, that counseleth the thing of all other most helthsome, and disswadeth from the thynge of al thinges most pestilent. Now preistes doo folowe the Hostes. Byshoppes bere a rule in the Hostes, and leuynge their churches, they do Bellonas busynesses.Bellona. Yea warre doth nowe ingender and make preistes, it maketh Byshops, it maketh Cardinales, of the which honorable tytles the legate of the campe is had and estemid worthye of the successours of the Apostles. And it is the lesse to be marueld at, yf they, whome Mars engendred, doo desyre warre. And to thentent the sore should be the worse to be helyd, they culler such wickednes with the figure and face of pietie. The ensignes and standardes haue c
+                  •
+               osses. The wicked souldier and hyryd for monie to teare &amp; murdre men, doth bere before hym the sygne of the crosse,Of Chri
+                  
+                     ••••
+                   crosse &amp; that, that onely is able to disswade warre, is the sygne of war. O thou wicked souldiour,
+
+
+
+what hast thou to do with ye crosse? with these and such mindes and dedes. Dragons, Tigers, and Woules drawe together. Thys signe is his that hathe wonne, not by war, but by death, which sauid and lost not, the whych thing the enemies with whome thou hast to doo, yf soo be thou be a chrysten man, maye most chefely warne the, &amp; how ye maiste obtayne the vpper hand. Thou making hast to destroye thy brother, dost bere ye ensygne of helthe, and with the crosse dost lese and destroye him, that is sauyd by the crosse. What a thing is this, that men euen from those secrete and reuerent Sacramentes runne to warre (for these also are brought into the hoste, in the which most specially is representyd the chefest concord of christen men) and drawe theyr nakyd swerdes agaynste their brethren, and make Chryst a loker one (yf he vouchesafe there to be presente) of suche a wycked dede, as of all other is mooste acceptable and gratious v
+                  •
+               to the wycked spyrites. Fynallye the Crosse of Chryste, whych thyng is most absurde and not to be harde, dothe
+
+
+
+shyne and is secrete and holy in both the hostes and battells. What a monstrus thynge is thys? Dothe the Crosse fight againste the Crosse? Doth Chryst make war against Christ? Thys sygne of a chrysten name is wont to feare the enemies? Why doo they fight against that, that they adore and worshyppe? I bes
+                  •
+               che you,Our lordes praier what dothe the souldyer pray in these Sacryfyces. Oure Father. O vnshamefaste face, darste thou call hym father, that goest aboute to sleye thy Brother? Halowid be thy name. Howe canne the name of GOD be more dishonestyd than wyth these tumultes that are amonge you. Thy kyngedome come. Prayste thou soo, that wyth suche aboundaunce of bloud goest aboute tyrannye? Thy wyll be fulfyllyd in Earthe, as it is in Heauen. Hys wyll is to haue Peace, and preparest thou warre? Thou of oure commen father desyrest dayly bred, and yet thou dost burne thy Brothers corne, and haddest rather it shoulde peryshe as concernynge thy selfe than profyt hym. Now wt what mouth shalte yu say thys,
+
+
+
+And forgeue vs oure 
+                  •
+               respasses, as we forgeue those that trespasse agaynst vs, that dost make hast to sley thy Brother? Thou that with thy owne peryll doste drawe thy brother into peryl and daunger, dost praye, that thou mayst auoyde the daunger of tentation. Thou desyrest to be deliueryd from euyl, by whose instincte and motion, thou cra
+                  •
+               tly g
+                  •
+               ste about to do thy brother al euil &amp; mis
+                  •
+               hif. Plato denide it to be calde war,Plato. that ye Gretians shuld moue agaynst ye grekes, it is seditiō saith he. And vnto these, war is sacrete and holy, the which a christyan for euery light cause, &amp; wt such s
+                  ••
+               ldiours &amp; armur, maketh agaynste another. The lawes of ye Ethnickes do cast him sowde in a bagge of leather into a ryuer that doth moyst or wet his swerd with the bloud of his brother. Are they lesse brethren whom Christ hath coplid, than they whome consanguinitie hath ioygned? And yet here is a rewarde for the paracyde. O the myserable chaunce of those that war. He yt ouercūmeth is a paracyde, &amp; he that is ouerthrowne, doth peryshe, and yet that notwithstandyng,
+
+
+
+he because he went about to murder his parents, is culpable of paracide. And after all this, they detest and curse the Turkes as wycked personnes and alienate from Chryste, euen asthoughe that they, whan they do these thynges, were chrystyans, or asthoughe a more pleasaunte spectable coulde be exhybytyd vnto the Turkes,
+                  
+                     〈1 paragraph〉
+                  
+                than yf they sawe them wyth mutuall and lyke weapens kyll them selues. The Turkes doo sacryfyce vnto deuylles, but whan there is noo sacryfyce more acceptable vnto them, than yf one chrystyan sley another, what other thynge dost thou then but that, that they doo? Furthermore the wycked sprytes (whan that he in lyke maner that kylleth, and he that is kyllyd are made a sacrifice) haue a doble sacrifyce, who so fauerth the Turkes, or is a frend vnto deuylls, doth oftē
+               tymes offer suche lyke sacrifices. But I longe sense do here what excusys witty and wyse mē shal make to their owne destructiō. They cōplaine that they are compellyd, and drawne vnto warre agaynst theyr wylles. Laye of thys vyser,
+
+
+
+and excuse, awaye wyth thes
+                  •
+                coulers, counsell with thy owne breste and conscience, thou shalte fynde that anger, ambition, &amp; folyshenes do drawe the hether, and no necessitie: except paraduenture thou vnto this ende dost mesure necessitie, yf in all poyntes it satisfyth not thy mynde. Carrye these fayre wordes vnto the people,Gal
+                     •
+                  . 9. god is not derided, nor with cullers deceyuyd. And in the mene whyle, solem supplications &amp; processions are made, peace is desirid, &amp; prayd for with gret and loude clamurs, we crye oute with marueilous gret lowinges, graunt vs peace we praye thee: here vs. Shall not god iustly annswere these. Why do ye laugh me to scorne? ye praye me to put of, that wyllynglye ye do call vnto you, ye refuse by prayer
+                  •
+                that ye are authors of. Yf euery offence causeth warre, who hath not a cause to complayne hym? Mannye thynges chaunce betwene the husbande and the wyfe, the whyche must be wynckydde at, excepte thou hadst rather that beneuolence and loue shuld be broken. And yf there be anye such sprunge
+
+
+
+amonge prynces, what nede is there by and by to be drawne to warre? There be lawes, there be lerned men, there be worshyppefull Abbotes, there be reuerent B
+                  •
+               shoppes, by whose helthesume counsell the tumultes of thynges may be composyd and swagyd. Why doo they not rather make these men arbytrers, the whyche they cannet obtayne to be soo vniust vnto them, but that they shall departe with lesse hurt, than they shoulde by the experience and profe of war.Note. There is scacely any peace so eui
+                  •
+               , but that it is better, than the most equal war. First ponder euery singuler thing, that requyreth, or that bringeth in war, and thou shalt perceiue how gret gaine thou shalte haue.The Popes 
+                     •
+                  uc
+                     ••
+                  ritie The auctoritie of the Pope is mooste excellent, but whan na
+               
+                  •
+               ions and princes do striue tumultuously with wicked warre, and that manye yeares, where is then the Popes auctoritie, where is the powre than next 
+                  •
+               nto Chryste? In thys thynge 
+                  •
+               ertaynelye it shoulde be shewed, yf they were not b
+                  •
+               wnde with like cupidities. The pope calleth to war, men doo obeye, the selfe
+
+
+
+same calleth to peace, why doo they no
+                  •
+                obey in like maner? Yf they rather desir peace, why did they ioyfully obey Iulye the author of war:Iuliu
+                     •
+                  . no man scacely obeied Leo prouoking to peace &amp; concord. Yf the Popes authoritie be most holy, Certes it ought than to be most in force, as ofte as he prouoketh to that, that christ dyd teache mooste speciallye. But they whome Iulius coulde styrre vnto mortall war,Leo. whan Leo that mooste holye Pope prouoking thē by so many menes to christian religion could not do ye same do declare that vnder the pretence of the Churche. they haue seruyd their owne lustes and cupidities, so that I saye nothinge more sharpely. Yf euen from the hearte ye doo hate war, I shall counsell you, howe ye may defend concord. Perfect peace doth not consiste in affinites, nor in ye confederations of men, of thee which we do oftētimes perceiue and se, ye wares do rise &amp; spring. The fountens wher out this euil dothe breke, muste be purgid, euil cupidities &amp; desires doo engēder these debates and tumultes. And whilst euery mā doth serue &amp; please hys affectiōs, ye cōmē wele in ye mene seson is
+
+
+
+afflictyd and troubled, and yet noo man attaineth the things ye he by euil menes and wayes doth desyre.An exhortation vnto princes Let princes be wyse for the profit of the people, and not for their owne profite: and let thē truely be wyse, that they maye mesure their maiestie, their felicitie, their riches, their glory wyth those thynges, that truelye and in dede make men greate and excellent. Let them be of s
+                  •
+               che a mynde towardes the commen weale, as a father is towardes his familye. A kynge shall esteme and iudge hym selfe greate and noble, yf he commaunde and rule those that be good, and happy, yf he make his fortunate and welthy, and noble, yf he commaunde and gouerne those that are free, and rych, yf he haue rych subiects. And floryshyng, yf he haue Cities that floryshe with perpetuall Peace. And ye noble men and magistrates shall ensue and folowe the mynd of the prince, and shall measure all thinges with the cō
+               moditie and profite of the commē wele, and by this wayes &amp; meanes they shall far more iustly prouide for their owne commodities. Shall a kynge that is of
+
+
+
+this minde, besone mouid to extort monye of his subiectes, to geue it vnto a barbarus and a straung souldier? Shal he driue his to famyne and hunger, to enriche certē wickid Capitaines? Shall he obiecte and cast his subiectes liues to so many daungers? I thincke no. Lette him thus far exercyse his empeire, that he beyng a man, remember that he ruleth men, a freman, fre men, and at lest, a christen man, christen mē. And in like maner the people shal so far forth honor hym, as it shall seme profitable for thee commen welth, nor a good prince shuld aske, nor exacte no nother thinge. The consent and agremente of the citizens, shal diminishe the cupidities of an euyl Prince. Let the cause of priuate commoditie, be farre of from them bothe. Lette great honor be shewed vnto those that exclude warre, and that by wyt or counsell shall restore concord, and that goth aboute by all meanes, not to gather to gether a greate strengthe and force of men and munition, but that there be no nede of them. The which most goodlye act and dede we rede that DioclitianusDiocli
+                     ••
+                  
+                  anus,
+
+
+               
+one among so many empereurs, in hys minde and thought conceyued. But yf warre cannot be auoydyd, yet let it be so vsyd, that the myschyfe thereof maye fall vpon their heddes, that gaue the occasion and causes thereof. Nowe the princes make war in sauegard, the captens encrece thereby, the greteste parte of the euills and losses is powryd vpon the husband men and commen people, vnto whom the warre pertayneth not, nor that gaue no cause nor occasion ther of. Where is the wisedome of the prince yf he waye not these thynges? There must a mene be founde, wherby it maye be appoynted that Empeirs chaung not nor as it were walke not vp &amp; downe so often,Note. for the renouation and renuynge of thinges dothe engender tumultes, &amp; tumultes warre. And this may easelye be done, yf kinges children were maryed within the borders of their dominyon, or if it so like him to marye thē to the borderers, for so the hope of succession is cut of frō thē al. Nor let it not be lawful for the prince to alienate or to sell anye part of his dominion, asthough free cyties
+
+
+
+were priuate lande. For the cities which are rulid by kinges are fre cities, and they which tyrannes ouerpresse doo serue. Nowe by the alteration of suche mariages it chaunsith that he that is borne among Iryshe men, shal sodenlye rule those of Inde: or else he that rulid ye Syrians, shal sodenly be kyng of England, so it chaunseth that neither of thee realmes hath a prince, for whilst he leauith the fyrst, of the last he is not knowen, and vnto them he is as a man borne in a nother worlde. And in the mene seson that he purchaseth ye, whylst he ouer cōmeth it, whles he stablisheth it, he cō
+               sumeth &amp; destroith the other, &amp; sometime whylst he stodeth to embrace bothe, he scacelye mete to rule one, leseth both. These princes wil once agre what eche of thē ought to rule and gouerne, &amp; y• no affinitie shal e
+                  •
+               ther extend, or diminishe the borders of their dominion once geuē &amp; delyuerd vnto thē, nor no confederations exstirpe nor destroy thē. And euery one of them shal labour and trauell asmuche as he may possible, to adurne his part &amp; portiō, &amp; geuing al his stody &amp; diligence
+
+
+
+vnto that parte onelye, shall trauayle to leaue it enryched with al goodnes and ryches vnto his chyldren. And by this menes it shal come to passe, that in all places all thynges shall floryshe. But amonge them selfes they muste be coupled and confederated not with affynytes,
+                  
+                     •
+                  owe 
+                     •
+                  rinces 
+                     •
+                  ughte to 
+                     〈◊〉
+                   confede
+                  
+                     ••
+                  yd. nor with factious socyetes, but with pure and syncere amytie, &amp; cheyfly with cōmen and lyke stody of forderyng and encresyng the common welthe. Let him succede the kyng that is eyther next of kyn, or iudged most meete by the suffrages and voyces of the people, and let it suffyce other to be reputed and counted noble amonge those that be honest. It is a kyngly thynge not to know pryuate affections,Note. but to esteme al things for the publyke and common vtylytie. Forthermore a Prynce shall exchewe longe peregrenacions, yea he shulde neuer wyll ne desyre to passe beynge thee boundes and borders of his kyngdome: and he shal remembre the saying approued by the longe cōsent of worlds. The forhed is more excellent, than is ye hinder part. A Prince shal esteme him self to be
+
+
+
+enryched not by the takyng awaye of other mens, but yf he encrease his owne. Whan warre must be entreted &amp; spoken of, let hym not call yonge men to counsayle vnto whome warre is pleasaunte and swete, because they are vnexperte,Cal none of these to counsell. how muche euyll and myscheyfe it hath and conteyneth: nor those, vnto whome it is profytable that publyke tranquilytie be troubled: nor those the whiche are nouryshed and made fat with the calamyties of thee people. He shall call wyttye auncient and olde men, whose mercy and beneuolence is knowen vnto the countrye. Nor let not war be moued for the pleasure or lust of one or two, the whiche once begonne is not easelye ended. It is a moste peryllous &amp; a daungerous thing, except it be taken in hand by the consent of all the people. The occasyons and causes of warre muste euen oute of hande beforetolde and declared. But yet certayne must be wynked at, for gentylnes shall inuyte and prouoke gentylnes. Some tymes peace muste be boughte. And yf thou caste what warre shall consume and waste,
+
+
+
+and that thou shalte kepe thy Cytizyns from destruction, it shall seme, although thou dyddest bye it full dearelye, to be boughte for lytell. And whan a greate d
+                  •
+               ale moore, besydes the bloude of thye Cytizyns, shoulde haue bene spente in warre: thou shalte reken howe greate and manyfolde euylles thou exchuidst, and howe muche goodnes thou defendidst, so shalt thou not repente the of thy expenses and charges. In the meane tyme lette Byshoppes doo theyr offyce and dueties. Lette Preystes be truelye Preystes. Lette Monkes remembre theyr professyon. Let Dyuynes teache that is worthye and meete for Chryste. Let all menne conspyre agaynst warre. Let all menne barke agaynst it. Lette all menne preache, extole and inculcate peace pryuatelye and apertlye. Then yf they cannot brynge it to passe that it be not ended by the swerde, yet certes they shall not approue it, nor be present thereat, nor that any honoure by theyr aucthorytie be hadde or gyuen too suche a wycked, or to suche a suspecte thynge.
+            
+               Let it be suffycyente for those that be slayne in battell, to be buryed in Prophayne and vnhallowed grounde. And yf there be any good in this kynd, the whiche surelye are very fewe, they shall not for these thynges be defrauded or lease theyr rewarde. But the euyll and wycked, the whyche are manye, shall not be pleased that thys honours be taken from theym. I speake of these warres that commonlye Chrysten men make agaynst Chrysten men. Nor I meane nor thynke not soo of those, that with a symple and a relygyous stodye, and dylygence doo repell thee vyolente inc
+                  •
+               rcyons of thee Barbaryens, and with theyr owne peryll defende the publyke and common tranquylytie. Nowe the Trophees and sygnes of theyr victoryes, dyed and stayned with the bloud of those, for whose saluacyon Chryste shedde his bloude, are auaunced and set vp in temples among the Images of the Apostles and Martyres: as thoughe that hereafter it be a Relygious worke not to be made Martyres but too make Martyres. It were suffycyente ynoughe
+
+
+
+that these thynges were kepte in a place of iudgement, or in an armary, for it is not conuenient yt any thing defylyd with bloude, shoulde be receuid into the holy churche, the which oughte to be most clene and pure. Preistes consecratid vnto God shuld not be presente, but to destroye and disanull warre, for if they consent and agre vnto these thynges, and euery where inculke and repete the same, it wylbe of greate force &amp; strength. But if this be a fatall disese of mans wyr, that be no meanes it cannot endure with out war, yet let this euyll then rether be shed against the Turkes,How turkes shuld be aluryd to christ. althoughe it were better to alure them by doctrine, good dedes and by the innocency of lyfe to Christes religion, thē to inuade them with war. But if war (as I haue sayde) cannot in no wyse be auoided, yet that were a liter &amp; an 
+                  •
+               esier harme, than that christen men should so wickedly make war and be hurt and destr
+                  •
+               yde among them selfes. And if mutuall charitie do
+                  •
+                not vnite them, some commen enemye by some meanes or other shall ioygne them, soo that there
+
+
+
+shalbe as it were a certayne concorde, althoughe that true concord be absente and lackynge. Finally it is a great part of peace, from the hart to wyll Peace. All such vnto whom peace is plesaunt, do receaue al occasiōs of peace, y• things which do withstande it, either they neglecte them, or ells they remoue them, &amp; suffer manye thinges, so tha
+                  •
+                soo greate goodnes may be safe and sounde. They searche the begynnynge and causes of war, the thinges that pertaine to peace, they prayse them, or else they dissemble them, but that that doth tende towards warre, they encrese and make it worse. I am a shamyd to open for howe vayne &amp; tryflynge maters they exci
+                  •
+               e and stirre greate tragedies, a
+                  •
+               d howe great tempestes doo ryse of so smale sparcles. Thē that greate multitude of iniuryes is remembred, and euerye man dothe heape on hys owne euills and iniuryes done vnto him, but in the mene space of good dedes there is noo remembraunce, but depe forgetfulnes, soo that thou shalte truelye swere, that they desyre, and couette warre.
+            
+               And oftentimes their are pryuet matters of princes, the which cōpel ye world to war. But the cause why that warre shuld be takē in hand, should be publike and more thā euident. But whā ther is no cause they faine causes of dissentiō abusing ye vocables of coūtris &amp; regions to ye nourishmēt of hatreds, &amp; noble men do nourishe &amp; encrese this error of ye folyshe people, &amp; abuse it to their owne profyte and commoditie, &amp; certē preistes also doo nourishe these things. The englishe mā is enemi vnto ye french mā, for no nother cause, but yt he is a french mā. The englyshe mā for no nother cause doth hate a Scot, but bicause he is a Scot. The Germaine is at debate with the frenchman, the Spaniarde wt them bothe. O ouerwartnes. The vaine vocable of ye place disioyneth men. Why shuld not so many thinges rather reconcile thē? Thou Englishe man dost hate a french man, why dost not thou a man, rether be welwillyng vnto mā? a christian man vnto a christian. Why can so voyde and soo lyght a matter do more with these men, than so manye bandes of nature, or of
+
+
+
+Chryst? The place doth seperate and diuide mens bodies, but not theyr minds
+                  •
+                In times past the Rhene separatyd the french man from the Germaine, but the Rhene doth not separate a christian frō a christian. The mountens pyrines dyuide the Spaniardes from the Italiens, but the same diuide not the communion of the Churche. The Sea diuideth englyshe men from frenche men, but it dyuideth not the societie and felowshyppe of relygyon. Paule the Apostle disdayneth to here these voyces among christē men.1. Cor. 
+                     •
+                  
+                I am Apollos, I am Cephas, I am Paules disciple. Nor he suffereth not wycked names to diuide Chryste reconcylynge all thynges: and we iudge the commen vocable and name of a country to be a graue and a wayghty cause why one nation should bende towardes the destruction of a nother. Nor thys surely vnto somme mennes myndes is not suffycyente, for thou doste here that shrewdelye and of purpose they doo seke occasyons of debate and dyuysyon, they dyuyde Fraunce and those thynges wyth vocables, the whyche nother
+
+
+
+sea, mountens, nor true names of regions diuide. Of French men they make Germaines, that throughe the felowshyppe of the name, amitie shoulde not growe and encrece. Yf a Iudge in odious actions, as of diuorse, doth not lightlye receyue theyr controuersies, nor admit euery probation, why do these men in a thinge of all other most odious, admit euery vayne and lighte cause? But let them rather thinke and take the mater as it is, that thys worlde is the commen countrye of all men. Yf the tytle of the countrye do reconcile all men, borne of the selfe same elders, yf affynytye of bloude makethe frendes, yf the churche be one famyly and equallye commen to al men, yf the selfe same house do couple and ioygne frendshyppe, it is mete that wyse and witty men should hange and cleue to thys parte. Thou sufferest and berist sume thynges with thy father in lawe, and for noo nother cause but because he is thy wyues father, and beryst thou nothynge wyth hym that in feloweshyppe of relygyon is thy brother? Thou forgeueste many thinges for the
+
+
+
+propinquintie and nighnes of kindred, and forgeuest thou nothing for the affinite of religion? Truely ther is no bād that bindeth more streyghtlye,A very
+                     •
+                   sure hād. than the sodalitie and felowship of Christ. Why is that thing onely before our eies, that doth exulcerate and hurte the harte? Yf thou fauer peace thinke thus rether, in thys he hath hurtyd me, but at other tymes he hath often profited me: or by some other mans impulsiō he hath hindred and hurted me. And as they that call men to concorde laye the causes of dissention that were betwene Agamē
+               non &amp; Achilles (as Homere doth write) to the Godes Aten,Aten. so let those thinges that at no time can be excusyd, be imputyd to desteny, or yf ye will, to some euyl God, and let hatred be translatyd from men into these thinges. Why are they wyser to their owne destruction, than to defende felicitie? why are they more quicker of sighte to euill, than to good? They that are sumwhat more wyse doo or euer they go aboute any priuate mater, delyuer, consyder, and loke aboute them: but they, theyr eies beynge closid
+
+
+
+and shut vp, cast them selues hedling into warre, namely whan it is once begunne, it cannot be auoydyd, yea of a litle, it is made great, and of one, many, and of an vnbluddy, a bluddy, and chefely whan that thys tempest doth not afflicte and punyshe one or two, but in lyke maner incloseth al men. Yf the cō
+               men people do lyghtly waye these thinges, yet it is the princes and the nobilyties parte to ponder and way them. It is the preistes parte by al meanes to stablyshe these thinges, and to laye them vnto the wyllynge and vnwyllynge, they wyll cleue and take place, yf they be harde in all places. But doste thou make warre? Fyrste beholde what maner a thing peace is, and what war is. What profytte Peace bryngeth, and what 
+                  •
+               uyll and disprofite warre bryngeth, and so shalte thou perceaue whether it be expediente to permytte and chaunge peace for war. Yf it be a thing to be marueylde at, a kyngedome floryshynge euerye where with all thynges, with cities wel builded, with feldes wel 
+                  •
+               anerid &amp; tild, with verye good lawes,
+
+
+
+with moste honest disciplines, wt moste holy maners: thinke with thy selfe, yf I make war, this felicitie shalbe troubled by me. On the other syde, if thou at any time hast sene the ruine of Cityes, thestretes decayed &amp; broken, the churches consumyd with fire, the feldes desolate,The frutes of warre. and this miserable spectacle and syghte, as it is, is sene, thinke this to be y• frute of warre and battell. Yf thou thinke it greuous to bring into thy country such a scelerate and fylthy company of hiryd souldiours, to nouryshe &amp; fede thē with the dammage &amp; losse of thy Citizins, to serue them, to slatter them, yea and to commit thy selfe &amp; thy helth to theyr arbytriment, loke that thou thinke this to be the condition of war. Yf thou abho thefte, warre dothe teache it, yf thou detest paracide, that is learnt in war. For howe shal he feare beyng moued to sley one, that hyrid for so light a stipend doth sleye and murder soo manye? Yf the neglectynge of the lawes be mooste presente pestilence of a cōmen wele,The neglecting of Lawes. the lawes in yt time of war, shal kepe silēce, yf thou esteme adultery, incest &amp; filthier
+
+
+
+thinges than those to be fylthye, war is the mayster of all these thinges. Yf impietie and the neglecting of religion be the spring of al euills,The spring of 
+                     •
+                  l euils. these thyng
+                  •
+               s by the tempestes of war are ouerthrown
+                  •
+               . Yf thou iudge the state of that comenwele to be euill, wher they that ar worst may doo most, in war they that are most scelerate and most euyll, do reygne.Note. And theyr workes whome in time of Peace thou woulst crucify and hange vppe, in war are chefest and most regardid. For who canne better lede an armye be bywayes, than an exercised thefe? whoo shall more strongelye robbe other mens houses, or spoyle Churches, than a breaker downe of walles, or a sacrilegious person? Whoo shall more coragiouslye smyte hys enemye, or with his swerde drawe oute hys bowells, than a swerd player, or a paracide? Who is so meete to set Cities a fyer
+                  •
+                or ingentes of war, than he that is a burner of houses? who shall so wel contemne the perils of fludes and seas, as a pirate exercised with long robbery? Wilte thou manifestlye knowe &amp; see, howe wicked a th
+                  •
+               ng that
+
+
+
+warre is, marke and consider those wel that doth make it.Note. Yf vnto a religious prince nothing should be more acceptid than the helth and welfayre of his subiectes, this man most speciallye shoulde hate war. Yf it be a princes felicitie to rule &amp; gouerne his daughters, he muste most chefely embrace peace. Yf we shuld principally wyshe vnto a good prince, that he might rule those that were best, he must nedes detest warre, where outeflo with the pumpe of all impietie. Yf he thinke al yt his citizins do possese to be hys, he be all menes must nedes auoide war, ye which, so that it chaūce happely, doth consume all mens substaunce, and the thing that hath bene purchasid and gotten by honest artes and menes, must be spent vpon a cruel sorte of hang mē. Now they most diligētly must way this thinge, that euery mans one cause doth flatter hym, and that euery mans hope doth please hym, and whan it is moste often very euil, yet vnto him that is mouyd it semeth most right and equal, and this doth often times deceiue thē. But faine the cause to be most iust, faine the
+
+
+
+ende of the war to be moste profitable &amp; prosperous: cast with thy selfe the incō
+               modities wher with the war was made and the cōmodities the which thou hast obtaynyd and gotten by the victory, and marke whether to wynne be of so gret a valure.The incommodities of warre. An vnbludlye victorye dothe scacely chaunce at any time. And nowe thy men be polutid wt humaine bloude. Besides this, count the losse of maners and publike discipline, the which with no vtilitie and profite can be restoryd. Thou consumest thy tresure, yu spoildst thy people
+                  •
+                yu dost burdē those yt be good, thou dost stir &amp; prouoke the vnhonest to myschife, nor after that ye war is fynyshed y• reliques thero
+                  •
+                ar not by &amp; by pacifide. Handy craftes, &amp; occupations do decaye, the exchaunges &amp; resortinge together of marchaūtes are shut vp. And to inclose thy enemy, yu art compelde to exclude thy s
+                  •
+               l
+                  •
+               e frō many regions and countries.Peace makethe al things commen. Before the war, al regions &amp; countryes that borderd vpon the were thine, for peace by ye exchaūge of things make al thinges cōmen. See &amp; beholde how gret a thing yu hast done, the dominion
+
+
+
+whiche is chefelye thine, is nowe scacely thine. And to besege a litle town how many ingents of war &amp; tentes are nedeful? And to ouerthrow a very town nedes must yu make &amp; build a coūterfete, but yet thou mightest with lesse charge haue builded a very towne. And to lette thy enemy to comforth yu as a banyshed man frō thy countrye, dost slepe vnder ye cope of heauē. It would haue cost ye lesse to baue buylded newe walles, than to batter &amp; throwe thē downe with bombardes and ingentes of warre, that are buylded. Here I dare not rekē ne counte what sommes of monye haue rune thorowe the exactors, receuers, and Captens fingers, y• which is no smale part. And if thou shulst reuoke &amp; call euerye singuler thing to the iuste accountes: I willingly wold suffer thou shulst euerye where eiect me, if yu find not that peace mighte haue bene boughte for the halfe parte of the expensis. But if thou shulst remit any part of iniurye, thou woulste repute thy selfe to be of a smale corage. Yea there is noo probatyon more certenne of an abiecte,Note. and of an
+
+
+
+vnkyngly mynde, than to be reuenged. Thou thynkest that sumwhat it should diminyshe thy maiestie, yf hauyng to do with some Prince bordering vpon the, &amp; perchaūce thy kinsman, or affyne, &amp; that in times past had done for the, thou shulst remytte parte of thy ryghte.
+                  
+                     〈1 paragraph〉
+                  
+                But howe muche more abiectly doste thou dyspyse thi maiesty, whan that now &amp; than thou shalt be compelled to please the Barbarus cōpanyes &amp; vylest dregges of all scelerate &amp; myscheuous persons, the which shall with golde neuer be fylled nor satisfyed? whyles that thou as meeke and with prayers doste sende Ambasadours vnto the Cares a most vile &amp; hurtful people?
+                  
+                     •
+                  ares. whylst thou cōmittest thy life, &amp; thy peoples goods &amp; substaūce to their faith that haue neyther consideracion nor holynes. But yf peace shal beseme to haue any iniqitie, beware yu thinke not thus, this I lease,
+                  
+                     〈1 paragraph〉
+                  
+                but I bi peace so much. For a subtiler disputer shal say, I wold yf the thing perticulerly pertained vnto me, sone graūt it. I am a prince &amp; whether I wil, or ni
+                  •
+               , I rule ye cōmon welth. He shal not litely cōmense nor begyn war, that
+
+
+
+loketh vpon nothing els, but that is publyke, but truly we se the contrary, &amp; that al causes of war be nouryshed and fed of those things, that pertaine nothing vnto the people. Wilte thou defende this or that part of thy dominion, what is this vnto the people? Thou w
+                  •
+               lt be reuēged vpon him that hath forsaken thy daughter, what is this to the common welth? to expende and way these thinges, &amp; to forese them, is the point of a very wyse man, &amp; of a noble Prince. Who at any tyme hath ruled more at large, or more nobly or gloriously than Octauius Augustus?Augustus. Atis also desyred to giue vp and resygne his Empere,Atis. yf he had sene any other Prince more profitable for 
+                  •
+               he cō
+               mon welth. This sayinge of a certayne Emperour is of noble Authors merytoryously &amp; worthely praised. My chyldren, saith he, shal spare me, if any other can better gouerne and coūsell the common welth. These good wyls &amp; myndes the hethen shewe vnto the cōmon wele. But as cōcerning Christes religiō, christē princes esteme christē people so litel,Note. that eyther they wil with the most greuous
+
+
+
+destruction of the worlde reuenge their cupidites &amp; lustes, or els fulfil thē. Nowe I doo here certaine other in this wise say the contrary, deniyng thē selfs to be in sauegard, except th
+                  •
+               i may sharply repell the violence of ye wicked.Antoni
+                  
+                     •
+                  i. Why were not the onely Antonini the meke &amp; the Philosopher among the innumerable Emperous of Rome, inuaded? but bicause no man ruleth more surely than he,Note. that is prest &amp; redy to giue that ouer, that he gouerne
+                  •
+               h for a cōmon welth, &amp; not for him selfe. And yf nother ye s
+                  •
+               nse of nature, nor ye respect of pietie shal nothinge moue you, nor yet so great calamitie, certes ye shame of a christen name shal reduce your mindes to cōcord. How great a porcion of the world do christen men possesse? And yet this is that Cytie sytuated vpon the highe mountaine, &amp; made a spectacle both vnto god &amp; man. But what shall we thynke, that ye enemies of a chrysten name do meane and speake, what infamie they vomyte oute agaynst C
+                  •
+               rist, whan they se 
+                  •
+               hat christen men do stryue amonge them selfes for lighter matters than the Et
+                  •
+               nikes,
+
+
+
+more cruelly thā the wicked, with more cruell ingents of war thā they? Whose inuencion was the bumbarde &amp; gunne,Go
+                     •
+                  nes. was it not the inuēcion of christen men? And that the thinge might be more disdained, they name them by the names of the Apostles, &amp; their Images are graued vpon them. O cruell derision. Shal Paule the continuall exhorter of peace, cast ani deuelishe ingent of war against a christ
+                  •
+               n man? Yf we desyre to bringe the Turkes to Christes religion, let vs fyrst be christianes. Nor they shal neuer beleue it, yf they se the thyng that christ aboue al thinges doth moste detest, to be no wherse more cruellye vsed, than among christen men. And that Homere ye Ethnike doth much maruyle at among Ethnikes, whan that there is a societie of pleasaunte and sweete thinges, as of slepe, meate, drynke, of daunces, and musyke, and that of vnlucky war there is no socyetie, and this is moste true among theim, vnto whom thee name of war ought to be abhominable. Rome that furious warrier in times past, ha
+                  •
+               h
+
+
+
+sene at certen tymes her temple of Ianus spard and shut vp.Ianus temple. And howe dothe it agre that amonge you, there are noo dayes vacant from war? With what boldenes shall ye preache Christ the author of peace vnto thē, whan that ye wt continuall dissention do stryue amonge youre selues? And nowe what mynde &amp; corage thinke you, that youre discorde doth adde and geue vnto the Turkes? There is nothinge more esye, than to ouercome those, that are at debate. Wil ye be fearefull vnto them? Be at vnytie and concorde, why doo ye willyngelye thinke your selues vnworthye of the iocundite and pleasure of thys presente lyfe: and wyll ye fall from the felicitye that is to come?
+                  
+                     •
+                  he life of man. The lyfe of man of it selfe is subiecte to many mysfortunes, concorde shall remoue a great parte of the moles
+                  •
+               iousnes &amp; grefe, whilst that wt mutual officis the one either doth comforte, or else doth helpe &amp; aide the other. Yf any good thing chaūce, it shal cause the concord to be the sweter, &amp; the more common, whilst one f
+                  •
+               end geueth parte vnto his frend, &amp; awe willer reioyseth
+
+
+
+for his welwyllers sake. Howe vayne thynges are they &amp; howe sone shal they peryshe, for the whiche their is suche a tumulte among you, dea
+                  •
+               h vnto al men is at hand,Deathe. aswell vnto kings as vnto ye commen people. What tumultes shal a vile wretch styr vp, ye shortly after shall vanishe a way as it were smoke? Eternitie is at hād. Wherto serueth it to striue and laboure for these thinges like vnto shadose, asthoug thys life were immortal. O miserable wretches, yt beleue not that fortunate &amp; happy lyfe of the good, nor hope not for it, shameles personnes that promyse thē selues ye same to be the waye and iorneye from the wars, whā yt the life of the good,The lyfe of the good. is no nother thing than a certen vnspecable communiō of fortunate and happy soules, seyng that nowe that thing shal fullye &amp; perfectlye chaunce, that Christ so diligently prayd hys heuēly father for, that they mighte be so ioined together, as he was ioyned vnto hys father.Ioan. 
+                     ••
+                  
+                And howe canne it be mete for this high cōcord, except that in the mene while ye asmuche as ye maye do, thinke vpon it. And as an Angel is
+
+
+
+not sodenly made of a stinking glutten, euen soo a companion of Martyres and Saintes is not sodenly made of a sanguinolēt and bluddy warrier. Go to, ther is shed inough, yea more thā ynough of christē bloud, &amp; yf y• be litle, of humaine bloud, we haue furiously ynough strouē mutually to destroy eche other. We hetherto haue done sacrifice ynough to the furis &amp; to hell, we haue long ynough fed the Turkes eies, ye fable is endid. At the leste wyse at length let vs a
+                  •
+               ter the myseryes of the warres to longe borne and sufferde, waxe wyse, whatsoeuer hetherto hath bene done vndiscretelye and folyshely, let it be imputyd to the destenye and necessitie of thynges. Let thee obliuiousnes and forgetfulnes of thee euylls that be past, the whiche in tyme past haue pleasid prophane men, please chrysten men, and here af
+                  ••
+               r geue your diligence with commen counsells to the stody of peace.Uerye good coū
+                  
+                  
+                     ••
+                  ll. Aud soo geue your stody and diligence, that it maye soo be made and bounde, not with bandes made of flaxe, but with adamantyne and sure bandes, that it neuer be broken. I call
+
+
+
+vnto you O ye princes, at whose becke and commaundement the matters and busynesses of men most cheyfelye do depende, and that among men do bere the Image of Chryst: Knowledge the voice of your prince calling vnto peace, esteme that all the worlde weryid with longe warre, doth desyre thys of you: yf it displease any manne, it is ryght and mete to geue and to attribute it to the publyke and common felycitye of all men. It is a greater and a watyer matter, thā that maye be neglectyd for lyghte causes. I cal vnto you O ye preists cōsecratid vnto god, expresse &amp; declare that wt al your stody, that ye knowe to be mooste thankeful vnto god, &amp; re
+                  •
+               oue that, that is 
+                  •
+               nto him most hatyd. I call vnto you O ye diuines, preache y
+                  •
+               u the Gospell of peace, sing continuallye peace vnto ye people. I call vnto you O ye Byshopes, that in ecclesiasticall dygnytye doo excell other, see that your aucthoritie be of powre and force to bynde Pea
+                  •
+               e wyth eternall band
+                  •
+               s. I call vnto you that are pryuate Magestrates, that youre wyll be an ayde and an
+
+
+
+helpe to the wysedome of kynges, &amp; to ye mercy and iustice of Byshoppes. I confusely call vnto you that are named by the name of a christen name, that ye wt cōsentyng mindes do conspire and consent vnto this thing. Shewe you here of what powre that ye concorde of the multitude is, against the tyrannye of the nobles. Unto this let al men bringe together al that euer they haue. Let eternall thinges ioygne them, whom nature wt so many thinges hath ioygned, &amp; Christ with manye mo. Let euerye man with cōmen stodies do, that equallye pertayneth to the felicitie of al men. Al things do inuite vs to this. Fyrst ye sense of nature,The thinges that in
+                     •
+                  yteih vs to peace. &amp; (as I may sai) humanitie it selfe. Furthermore Chryste the Prince &amp; author of al humaine felicitie. And besides al these thinges, so many cōmodities of peace, and so many calamities of war. Unto this the mindes of princes, inclininge to concorde, God as it were euen nowe inspiringe them, doo call vs. Behold that peasable and meke Leo,Leo, playing the part of the vicar of Christ, hath desployde and set forth his ensigne vnto
+
+
+
+all men inuityng vs to peace. Yf ye be true shepe, folowe youre pastore. Frances the most christen french king,Fr
+                     •
+                  ncis. not by title onely, doth call vs, yt which is not greuyd to by peace, nor in noo place hath any regarde of his maiestye, so he may prouide and helpe the cōmen and publike peace, teachynge thys to be truely a noble and a kynglye worke, to do well for man kinde. Here vnto doth that most noble prince Charles a yonge man of an vncorrupt indole and signyfication of vertue,Charles. doth call vs. Nor the Emperoure Maximilian dothe not abhore thys.Maximilyan, Kynge Henrye the .viii. Nor that noble kinge Henry of Englande dothe not refuse it. It is mete that all other shoulde wyllynglye ensue and folowe the ensample of soo greate and myghtye princes. The most part of ye people detest war, &amp; praye for peace. A fewe whose wycked felycytie doth depend of ye publike infelicitie, doth wishe for war, and whether it be righte or no that theyr dishonestie should be of more valure and force, than the wyll of all good men, iudge you. Ye se that hetherto there is nothinge done by confederations,
+
+
+
+nothing auaunsid by affinities, nothing by violence, nothing by reuengyng. Nowe on the other side proue what placabilitie &amp; benificence may do, war soeth warre, &amp; vengaunce draweth vengaunce. Nowe grace shall engēder grace, and benefite shalbe inuityd by benefite, and he shal seme moste kinglye y• graunteth &amp; forgoeth most of his right. It succedeth not y• is done by humaine stody. But Chryst him selfe shal prosper godlye counsell, the which he being author and gide shal see to be receiuid. He shalbe present &amp; fauorable, he shal helpe vs, and fauer the fauerers of ye thinge, that he so greatly fauerth, &amp; publike vtilitie, shal ouercome priuate affections. And whilst peace is prouydyd for, and euerye mannes fortune made better, Princes kyngdomes, yf they rule those that be good and religious, and raygne more by lawes, than by armes, shalbe amplifide: the dignitie of noble menne greater and trueer, the quie
+                  •
+               nes of preistes more tranquill, the quietnes of the people more plentiful, &amp; their fertilytye more quiet, and the name of Chryst to
+
+
+
+the enemies of Christes crosse more ferefull. And finallye euerye one shalbe to 
+                  •
+               che other, and al vnto all louynge and pleasaunt, and aboue al thinges thankefull vnto Chryst, whom to haue plesid, is the hiest felicitie.
+            I haue sayde.
+         
+      
+      
+         
+            ¶IMPRINTED AT London, in Paules Churchyard, by Ihon Cawoode, one of the Prynters to the Quenes Maiestye.
+            Cum priuilegio Regiae Maiestatis.
+         
+      
+   
+

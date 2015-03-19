@@ -1,0 +1,481 @@
+
+   
+      
+         
+            A sermon of ecclesiastical benediction preached at Oundle at a visitation, Apr. 14. 1619. by Master Samuel Gibson, minister at Burleigh in Rutland.
+            Gibson, Samuel.
+         
+         
+            
+               1620
+            
+         
+         Approx. 74 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2009-03 (EEBO-TCP Phase 1).
+            A01700
+            STC 11838
+            ESTC S102994
+            99838753
+            99838753
+            3141
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01700)
+            Transcribed from: (Early English Books Online ; image set 3141)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 1067:05)
+         
+         
+            
+               
+                  A sermon of ecclesiastical benediction preached at Oundle at a visitation, Apr. 14. 1619. by Master Samuel Gibson, minister at Burleigh in Rutland.
+                  Gibson, Samuel.
+               
+               [4], 36, 29-30 p.   
+               
+                  Imprinted by F[elix] K[ingston] for William Barringer, at the great north-doore of Pauls,
+                  At London :
+                  1620.
+               
+               
+                  Printer's name from STC.
+                  Reproduction of the original in the Henry E. Huntington Library and Art Gallery.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Sermons, English --  17th century.
+            
+         
+      
+      
+         
+            2007-07
+            TCPAssigned for keying and markup
+         
+            2007-08
+            Apex CoVantageKeyed and coded from ProQuest page images
+         
+            2008-02
+            Emma (Leeson) HuberSampled and proofread
+         
+            2008-02
+            Emma (Leeson) HuberText and markup reviewed and edited
+         
+            2008-09
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            A SERMON OF ECCLESIASTICAL BENEDICTION: Preached at Oundle at a Viſitation, Apr. 14. 1619. by Maſter SAMVEL GIBSON, Miniſter at Burleigh in Rutland.
+            
+            DEVT. 10. 8.
+            The Lord ſeparated the Tribe of Leui, to beare the Arke of the Couenant of the Lord, to ſtand before the Lord, to miniſter vnto him, and to bleſſe in his name.
+            
+               BY WISDOME PEACE BY PEACE PLENTY. 
+               printer's device: two hands clasping each other below two cornucopias, with a caduceus above
+            
+            
+               AT LONDON Imprinted by F. K. for William Barringer, at the great North-doore of Pauls. 1620.
+         
+         
+            
+            
+            To the Reader.
+            
+               CHristian Reader: This Sermon enſuing, being by command of publike Authority preached at a Viſitation, or publique meeting of Ministers, gaue ſuch content and comfort generally to all the Auditory, both for the ſoundneſſe of the matter, and fitneſſe of the argument, and ſpecially becauſe it is a point ſo ſeldome ſo fully handled: that many of vs fellow-labourers in the Miniſterie, haue beene earneſt ſuiters to the Author (and haue preuailed) to commit it to Preſſe, both to renew the memory of many good things then we heard, and through our weakeneſſe loſt them againe; but chiefely that others might be made partakers of the ſame ſpirituall good things with our ſelues. Wherein wee haue done much like thoſe good natur'd Lepers, 2. Kings 7. 9. who hauing once tasted, and plentiouſly refreſhed themſelues with good things in the Aramites Tents, were preſently deſirous to communicate the ſame with others alſo. We do not well, ſaid they, this day is a day of good tydings, and we hold our peace: if we tarry til day-light, ſome miſchiefe will meet vs. Now therfore, come, let vs go, and tel it to others. Kneweſt thou but the ſufficiencie of the man of God that penned and ſpake it, his ſound knowledge in the Truth, his good order of teaching, his honeſt life &amp; cōuerſation, his good report with all men, his wiſe, peaceable, &amp; diſcreet cariage of himſelf amidſt our infinite diſtracting controuerſies: ſurely all theſe could not but ſweetly allure thee, or rather violently
+
+draw thee on to the peruſing of this ſhort Treatiſe. The Author of it ſtands vp as a worthy Minister of God, in the midſt of foure other Brethren, all the Sonnes of one Father, all learned, religious, godly Preachers, a happie Off-ſpring of Bleſſed Parents, a liuely mirrour of Gods bleſsing vpon ſuch as conſecrate their posterity to the holy Miniſtery. They are right Samuels, firſt, by their Parents giuen to God, &amp; againe, giuen of God to the ſeruice of the Tabernacle. Let vs reioyce in the good of Sion, and bleſſe God for the abundant 
+                  〈 in non-Latin alphabet 〉
+                of his Spirit in our dayes, if euer, plenteouſly powred forth vpon our olde men, and vpon our young men, the Prophets and ſonnes of the Prophets, for the worke of the Miniſtery, for the gathering together of the Saints, for the building vp of the body of Chriſt.
+            Thus aſſured of much comfort and profit vnto thee, if thou wilt vouchſafe the paines to reade it ouer, heartily crauing thy prayers and praiſes to the Lord of all Spirits, both for the Author himſelfe, and alſo for vs all his louing Brethren, we doe humbly commend thee to God, and to the Word of his grace, which is able to build thee further, and to giue thee an inheritance among all them that are ſanctified. Farewell in the Lord.
+            
+               Thine in the Lord Ieſus, The Miniſters of Okeham Lecture in Rutland. 
+                     WILLIAM PEACHYE.
+                     H. HARGRAVE.
+                     Z. I.
+                  
+               
+
+            
+         
+      
+      
+         
+            
+            ECCLESIASTICALL BENEDICTION. A Sermon of the power and prerogatiue belonging to the publike Miniſters to bleſſe the people: Preached by S. G. at a Viſitation at Oundle, Ap. 14. 1619.
+            
+               The Text▪
+               
+               2. CHRON. 30. 27.
+               Then the Priests the Leuites aroſe, and bleſſed the people, and their voyce was heard, and their prayer came vp to his holy dwelling place, euen vnto heauen.
+            
+            
+               The Context. 
+               HEre is the happie ending of a good meeting. The meeting was, to celebrate the Paſſeouer the Sacrament of the Law: the motion hereunto was made by good Hezechiah: vpon the motion, a very great congregation of well-diſpoſed people came together to Ieruſalem to keepe the feaſt; and as that vertuous and religious King ordered the matter in his great zeale for the glory of God, it was performed with that ſolemnitie, as the like was neuer
+
+done before ſince Salomons dayes: A diuiſo regno non fuit celebrata tanta festiuitas iunctis cum Iehuda Iſraelitis: Neuer ſince the diuiſion of the Tribes, was there ſuch a feſtiuall time ſo ſolemnely kept by Iudah and Iſrael together.
+            Now, to ſee the zeale and forwardneſſe of the Princes and people in ſo good an action, it was no ſmall comfort to the Prieſts and Leuites: they therefore, when they ſaw all things done to their owne hearts deſire, and to the glory of God, according to their office, in the end they gaue the aſſembly their Prieſtly benediction, and obtained a bleſſing from the Lord vpon them, and ſo diſmiſt the Congregation.
+            
+               The diuiſion. The words may be diuided into two parts: The firſt is concerning the Prieſts bleſſing vpon earth: the ſecond touching the bleſſing of this bleſſing, from heauen. The firſt, in theſe words, Then the Prieſts the Leuites aroſe and bleſſed the people, and their voyce was heard. The ſecond, in the words following; and their prayer came vp to his holy dwelling place, euen to heauen. 
+               The ſubdiuiſion. In the firſt part, euery word hath his weight, and there are ſixe particulars obſeruable therein. Firſt, the time when this was done. Secondly, the agents by whom it was done. Thirdly, the preparation thereunto. Fourthly, the action it ſelfe. Fifthly, the obiect of the action. Sixthly and laſtly, the manner of it.
+            
+               The ſenſe. Firſt, for the time, Then: that is, Finito ſacro, All the ſolemnitie of the ſacrifice being finiſhed, 
+                  〈 in non-Latin alphabet 〉
+               , ſeaſonably and opportunely. In concluſion of that diuine ſeruice, when the people were to depart,
+
+they were diſmiſt with a bleſſing.
+            Secondly, for the agents or perſons bleſſing, they were conſecrate perſons which had a calling to doe it: The Prieſts the Leuites bleſt. 
+            
+            
+               What the Prieſts were. The Prieſts were men immediatly called out of Aarons poſteritie, and anointed in the ſight of the people, among whom ſome that were Heads of their families, were called chiefe Prieſts, and the Princes of the Sanctuary, amongſt whom there was one ſuper-eminent perſon aboue all the reſt, called the High Prieſt, who had moſt glorious attire, and might alone enter into the Sanctum Sanctorum once a yeere, and was in his function a figure of Chriſt.
+            
+               What the Leuites. The Leuites were inferiour Miniſters, and had offices appointed vnto them vnder the Prieſts, as aſſiſtants vnto them in the ſeruice of the Tabernacle, Numb. 8. 7. And this is the difference betweene 
+                  Numb. 8. 7. 19.the Prieſts and the Leuites: but here it is not ſaid, the Prieſts and Leuites, but Haccohanim haleuiijm, as it is in the Hebrew text, Sacerdotes Leuitici, as Iunius tranſlateth, the Leuiticall Prieſts. For Aaron and all the Prieſts were of the Tribe of Leui, and to them it pertained by the Law to bleſſe in the name of God, Numb. 6. 22.
+            Thirdly, for the preparation, They aroſe. Sitting ſtill was not a geſture reuerend enough for them to vſe in publike prayer: kneeling downe would haue drowned their voyce and hindred the audience; therefore it concerning the people to heare what they ſaid, that they might ſay Amen to it, the Prieſts ſtood vp that they might be conſpicuous,
+
+and ſo be the better vnderſtood of the congregation.
+            Fourthly, for the action, it is ſaid, They bleſt. To bleſſe, hath diuers ſignifications in the Scripture. 
+                  Pſal. 103. 1. Firſt, man is ſaid to bleſſe God:  then it ſignifieth  to praiſe and giue thankes. 
+                  Gen. 12. 2. 
+               What it is to bleſſe. Secondly, God is ſaid to bleſſe man, and then it ſignifieth actually to conferre ſome good or other. Thirdly, man is ſaid to bleſſe man, and then it ſignifieth to wiſh well vnto, which is vſually done with inuocation of the name of God, the fountaine of all good that commeth to man, or to any creature in heauen or earth.
+                  Gen. 24. 12. Now thus a man bleſſeth either himſelfe or others. To let paſſe the former, the bleſſing of others pertaineth either to all ſorts in generall, or to ſome more ſpecially. Bleſſing ordinary, by all ſorts. To all ſorts it belongeth, partly by the law of naturall affection: ſecondly, partly by the law of curteſie: thirdly, partly by the law of equitie: fourthly, partly by the law of charitie.
+            
+               1. By the law of naturall affection. Gen. 24. 60.
+                 Firſt, by the law of naturall affection it pertaineth to all ſorts to bleſſe their friends and kinred: as the friends of Rebécca did, when ſhe was to depart from them, Thou art our ſister, grow into thouſand thouſands, and let thy ſeede poſſeſſe the gates of their enemies, Geneſ. 24. 60. Thus children and all thoſe that are not 
+                  〈 in non-Latin alphabet 〉
+               , without naturall affection, will vpon occaſion often pray, God bleſſe their parents, and their brethren and ſiſters, and thoſe which are neere vnto them in nature.
+            
+               2. By the law of curteſie. Ruth. 2. 4.
+                 Secondly, by the law of curteſie it pertaineth to all ſorts to bleſſe thoſe which they meete, or
+
+paſſe by. Which courteſie we finde to haue been reciprocall betweene Boaz and the Reapers, Ruth. 2. 4. The Lord be with you, ſaid Boaz: The Lord bleſſe thee, ſaid the Reapers. 
+                  Pſal. 129. 8.And Pſal. 129. 8. the words of the Prophet ſhew, this was the ordinary practice of the people. Aug. in Pſal. Whereupon S. Auguſtine on that place ſaith, Noſtis, fratres, &amp;c. Ye know (brethren) when men paſſe by thoſe which are at work, it is the cuſtome to ſay to them, Benedictio Domini ſuper vos: The bleſſing of the Lord be vpon you. And this was more in vſe amongſt the Iewes: Nemo tranſibat, ſaith he: None paſſed by and ſaw any at worke in the field, or vineyard, or the like, but they did ſo. Nay, Non licebat tranſire ſine benedictione: It was not lawfull for any to paſſe by, without this bleſſing ſalutation. It was againſt the law of courteſie to omit it.
+            
+               3. By the lavv of equitie. 1. Sam. 25. 33.
+                Thirdly, by the law of equitie it pertaineth to all ſorts, in thankfulnes to their benefactors, and ſuch as haue been inſtruments of their good, to bleſſe them: as Boaz, for the kindnes ſhewed to Ruth, is bleſſed, in theſe words; 
+                  Ruth. 2. 20.
+               Bleſſed be he of the Lord, Ruth. 2. 20. Thus euery good ſubiect will pray God bleſſe the King, vnder whom we liue in peace; euery good hearer will pray God bleſſe that Preacher, by whom his ſoule is comforted; and euery thankfull poore man will pray God bleſſe his good maſter, and ſaue his life, by whom he is relieued. This is the recompence which the rich haue returned vnto them from the poore for their good workes and almes, namely, their bleſſing and prayers to God for them, the forerunner
+
+of a greater and better recompence from the Lord; for with ſuch ſacrifices God is pleaſed, Heb. 13. 16.
+            
+               4 By the law of charity. Fourthly, by the law of charity it pertaineth to al ſorts to bleſſe, euen their enemies, I meane their priuate enemies. For to conuicted enemies of the Truth it is forbid, Ioh. 2. Epiſt. 10. Bid not an Antichriſtian heretike and conuicted falſe teacher, God ſpeede; but if they be onely our perſonal enemies, 
+                  Mat. 5. 44.
+               Bleſſe them which curſe you, ſaith our Sauiour, Mat. 5. 44.
+            
+               Bleſſe, and curſe not, ſaith Saint Paul, Rom. 12. 14. And this is not conſilium, but praeceptum: not an Euangelicall counſell, but a morall precept binding all Chriſtians.
+            Thus by a foure-fold law it belongeth to all ſorts to bleſſe: by the law of naturall affection, by the law of courteſie, by the law of equity, and by the law of Chriſtian charity. Superiors to bleſſe.More ſpecially it pertaineth to ſuperiours, to bleſſe thoſe vnder their charge. Theſe ſuperiours are either the chiefe in euery family, or more publike perſons. The bleſſing that pertaineth to the chiefe in priuate families, is either domeſticall or paternall. Bleſſing Oeconomicall. 1. Chron. 16. 43. 
+                Domeſticall is that, which is done in the behalfe of the whole houſehold: as it is ſaid, that Dauid returned to bleſſe his houſe, 1. Chronicles, 16. 43. Paternall.Paternall benediction is that which is done by the father to his children or childrens children. 
+                  Gen. 27. 27.This the Patriarks did after a ſingular manner, hauing the ſpirit of prophecy, whereby they ſpake of things to come, as they were moued by the holy
+
+Ghoſt. But other godly parents haue a ſpeciall prerogatiue alſo in bleſſing their children: according to that of Siracides, Benedictio patris firmat domos filiorum: The bleſſing of the father eſtabliſheth the houſes of children, but the curſe of the mother rooteth out foundations. There are fearefull ſtories recorded by good writers, of the woful conſequence of the parents curſe vpon the children. Therefore it is ſaid by the aforeſaid Author, Honour thy father and mother both in word and deede, that a bleſsing may come vpon thee from them.
+            
+            Now the bleſſing which belongeth to publike perſons, is either Politicall or Eccleſiaſtical. Politicall.Politicall, when it is done by the ciuill Magiſtrate, as it was by Ioſhuah, when he called the Reubenits and the Gadites, and the halfe Tribe of Manaſſes, and commended them for their obedience, and ſent them home with his bleſſing, as it is written, So Ioſhua bleſſed them and ſent them away, Ioſh. 22. 6. 
+                  Ioſh. 22. 6.
+            
+            
+               Sacerdotall.The Eccleſiaſticall bleſſing is that which appertaineth to the publike Miniſter, and is of all other the moſt effectual and auaileable with God: &amp; this is the bleſſing ſpoken of in the text, when it is ſaid, The Prieſts the Leuites aroſe and bleſſed. Now the obiect of this benediction is either perſonall or reall. The reall obiect is not mentioned heere, but omitted as a thing well knowne: for what they were to pray for in the behalfe of the people, is ſet downe, Num. 6. 23. &amp;c. 
+                  Numb. 6. 23. The perſonall obiect, is the people, that is, all the people of Iudah and Iſrael aſſembled, to keepe the Holy Feaſt,
+
+the Prieſts bleſſed them all. Laſtly, for the maner; it was with a lowd voice: they ſpake out when they bleſt them, praying feruently for them, and earneſtly deſiring the bleſſing of God vpon them all. This is ſignifyed by that, that it is ſaid, Their voice was heard. Yet not the voice of the Prieſts only, but the voices of the people alſo: all which are ſpoken of, as if there were but one voice, in regard of the harmony and accord, all ſpeaking to the ſame effect: not that the people vſed the ſame words which the Prieſts vſed. But they did that which was their part to do, and ſaid Amen to the Prieſts bleſſing, and that alowd, from their hearts, wiſhing themſelues ſo happy. Deuotion amongſt our people is now growne ſo colde, that many times in great congregations when the bleſſing is pronounced, there is nothing but a little whiſpering; few ſay Amen, and ſpeake out at the end of prayers. But in former times, when people were more deuout, they made ſuch a bleſſed noiſe in the Church when they ſaid Amen, that Saint Ierome likened it to the thunder: Hier. in praefa. lib. 2. in Gal. and Saint Baſil to the roring of the ſea; ſuch a roring and thundring noiſe there was made by the Prieſts and people at this benediction: Their voice was heard. After this manner was the bleſſing performed. And theſe are the circumſtances obſeruable in the firſt part of the Text. In the ſecond: firſt, another name is giuen to this bleſſing: ſecondly, local motion is aſcribed vnto it: thirdly, the terminus ad quem, or place whither it paſſed, is ſet downe. For the firſt, the name now
+
+giuen vnto it, is prayer, which ſheweth how the Prieſts bleſſed the people, not vainly and ſuperſtitiouſly, by caſting of holy water vpon them, or by croſſing with their fingers, but by prayer and inuocation of the name of God for his bleſſing vpon them. For the ſecond, it is ſaid, tauo, it went; which is ſpoken of prayer metaphorically. Alluding, as it ſeemeth, to a meſſenger, to which praier may be aptly compared: for Veluti officio internuncij fungitur oratio pro nobis apud Deum: prayer doth the office of a meſſenger for vs vnto God. For the third, the place whither it went, hath two names giuen vnto it. Firſt, his holy dwelling place, or as it is in the Hebrew, the habitation of his Holineſſe; ſecondly, it is called Heauen. God his habitations, cohabitations. For the firſt, it importeth not that God had, or hath need of any habitation, as a man hath, of a houſe to dwell in, or that any created place whatſoeuer can containe the tranſcendent Maieſty of the Creator.
+            It is confeſt by Salomon, that the heauens, and the heauen of heauens cannot containe him, 1. King. 8. 27. 1. Kings. 8. 27.But it hath pleaſed him of his abundant grace to condeſcend ſo farre, as to haue his cohabitations, where he hath decreed to dwell, and to conuerſe more familiarly with his creatures, and to communicate his goodnes vnto them.
+            
+               
+                  Iohn 14. 2. Our Sauiour ſpeaketh of his Fathers houſe, wherein there are many manſions, that is, his habitation, or rather cohabitation aboue, where he doth cohabit and familiarly conuerſe with the Angels of light; and on earth he alwayes had his
+
+dwelling places; before the comming of Chriſt, he had a materiall Temple, called his houſe, where it pleaſed him to manifeſt his preſence continually; and in euery good heart he dwelleth by his holy Spirit.
+            Now according to the adiunct or appellation of holines, the Lord his dwelling place is holy, what euer habitation he hath had, or hath, it was, and is holy. The Temple erected for him by Salo
+               mon, was holy: and he neuer dwelleth in any heart but that which is ſanctifyed: But to which habitation of his holines did this prayer aſcend, the other name putteth this out of doubt: for the place whither it went, is alſo called heauen.
+             Now heauen is a common name to diuers places and ſpaces. Three heauens. Firſt, according to the Scriptures there is coelum elementare, the ſublunary or elementary heauen, where the winds blow, and the birds fly, and the clouds hang, and Comets and Meteors appeare; that is not the heauen heere ſpoken of; their prayer went vp higher then ſo. Secondly, there is coelum ſtellatum, the heauens aboue, where the Sun, Moone and ſtarres run their courſes continually: neither is this the heauen heere meant; their prayer went higher then the ſtarres. Thirdly, there is coelum ſupremum, the higheſt heauens, ſometimes called the third heauens, ſometimes coelum coelorum, the heauen of Heauens, ſedes beatorum, the place where the bleſſed Angels liue with their Creator in al happines. Thither went this happy meſſenger, the prayer of the Prieſts. All this tendeth to ſet foorth the
+
+ſingular acceptance which this ſacerdotall benediction had with God: it penetrated the clouds, and had ſpeedy paſſage thorow all places, and preſent acceſſe vnto the King of glory. It had as happy ſucceſſe▪ as Eſther had, when ſhe went to Aſſuerus: 
+               
+                  Eſther 5. 2.
+               And hee held out his golden Scepter vnto her, Eſther 5. 2. And ſo it was both oratio benedicens, and oratio benedicta: a bleſſing prayer, and a bleſſed prayer; for it drew a bleſſing from the Lord vpon his people.
+            But why is heauen called his holy habitation, and not rather his glorious habitation, it being ſo glorious a place as it is?
+            
+               Heauen why called holy. I anſwere, it may as well, and aptly, and vpon as good reaſon be called his holy habitation, as his glorious habitation. Firſt, becauſe of all other his habitations, it is the moſt holy, the true Sanctum ſanctorum, as holy as glorious. There is the holy Trinity reſident; there are the holy Angels, and Saints; there is no impure perſon, nor impure action, but all perfect purity and ſanctity. Secondly, how euer carnall men loue impurity, and hate holineſſe, 
+                  Leuit. 19. 2.Almighty God would haue vs to know that he is holy, and that it is his glory that he is ſo, 1. Pet. 1. 16.and maketh all places ſo where hee dwelleth, and all perſons whom he admitteth to dwell with him. And thirdly, he would teach vs all, not to pleaſe our ſelues as the moſt doe, with ſpeaking or thinking of the glory of heauen onely (which they that are vnholy in heart and life, ſhall neuer be the better for) but ſpecially to take notice of the abſolute and perfect ſanctity of that happy
+
+place: Knowing, that as many Manſions as there are prepared there,
+                  Heb. 12. 14. yet there is no place for any that is a deſpiſer of holineſſe, or of a defiled heart and conſcience. So ye ſee, the Text being thorowly ſearched into and opened, there is a world of matter, and of good matter too, not impertinent to the preſent audience, if a man had time to diſcourſe of all points ariſing from the words: but breuitas ſemper grata, aliquando neceſſaria: as it is now, when I ſhould much forget my ſelfe, if I ſhould not remember thoſe which had neede to be diſmiſt, not onely with benediction, but with expedition. I muſt therefore paſſe ouer many things worthy the handling, and inſiſt onely vpon the principall, as the time will giue leaue.
+            
+               It belongeth to Miniſters to bleſſe the people. The maine Theologicall poſition grounded from the Text, is this, that it belongeth to the publique Miniſters of the Word, by a peculiar prerogatiue, to bleſſe the people in the name of the Lord; and there is ſpeciall power and vertue in the prayers and benedictions which proceede out of their mouthes. Here the people were bleſt. By whom? By the Prieſts. The Prieſts the Leuites bleſt the people. Not any of the Laity, not any of the Princes, not King Hezekiah, though preſent: but the Leuiticall Prieſts, Church-men, Eccleſiaſticall perſons, Maſters of the aſſembly, that had the managing of diuine affaires at ſuch times.
+            But were the people euer the better for their bleſſing?
+            Yes, their prayer went vp to heauen; this was intended in their conſecration and ſeparation.
+
+               The end of their conſecration and ſeparation. Deut. 10. 8.
+                
+               The Lord ſeparated the Tribe of Leui, to miniſter vnto him, and to bleſſe in his name, Deut. 10. 8. and Numb. 6. 22.  there is the ordinance of God touching the ſame: The ordinance of God for it.
+Numb. 6. 22.
+                the Prieſts the ſonnes of Aaron are called of God to this office, and appointed to the conſtant execution thereof; and a preſcript forme is giuen vnto them for the purpoſe: Speake vnto Aaron, ſaith the Lord, and to his ſonnes, ſaying, On this wiſe ye ſhall bleſſe the children of Iſrael, ſaying vnto them, The Lord bleſſe thee, &amp;c. Where firſt there is a generall benediction, in theſe words, The Lord bleſſe thee:
+               Fiue bleſſings to be deſired for the people. and then fiue great bleſſings are ſpecified.  
+            
+               Firſt, cuſtody or protection.Firſt, of cuſtody and protection, in theſe words, The Lord keepe thee, tending to this, that the Lord would euer be the Keeper of Iſrael, and preſerue his Church and people from all euill.
+            
+               Secondly, the ſenſe of Gods loue. The ſecond bleſſing mentioned, is the ſenſe of Gods loue, in the next words, The Lord make his face to ſhine vpon thee. Alluding to the Sunne, which when it ſhineth, is ſenſible vnto vs.
+            
+               Thirdly, mercie to their ſinnes. The third bleſſing, is mercy to their ſinnes, in theſe words, The Lord be mercifull or gracious vnto thee; tending to this, that the Lord would in mercy paſſe by their offences, and ſee no iniquity in Iacob, nor tranſgreſſion in Iſrael.
+            
+               Fourthly, a plentifull manifeſtation of Gods loue. The fourth bleſſing, is a plentifull manifeſtation of the loue of God towards them, The Lord lift vp his countenance vpon thee.
+            
+            
+               Fiftly, peace. The laſt, but not the leaſt, is peace: the conſequent of the reſt, and the very complement of all: And giue thee peace. Meaning not onely externall
+
+proſperity, but alſo that happy peace with God, which paſſeth all vnderſtanding, which the world cannot giue. Loe, thus did the Lord appoint his Prieſts to bleſſe his people: and to that which they ſhould doe according to his holy ordinance, he annexed a moſt gracious promiſe, ſaying further, Ego benedicam: I will bleſſe them. 
+               The Prieſts bleſſing more then a prayer.
+Clau. Scrip. Therefore it is to good purpoſe that Illyricus ſaith, that ſacerdotall benediction is not a bare good prayer, but as it were a pledge and teſtimony of the fauour of God; and he ſpeaketh further of it, as if it were of ſpeciall power and efficacie to open heauen to thoſe which are partakers thereof.
+            
+               A three-fold difference betweene the Prieſts bleſſing &amp; others. In this place of Numbers, wee may obſerue three materiall differences betweene the Prieſts bleſſing, and all others, making much for the dignity and authority thereof.
+            
+               Firſt, they had a ſpeciall charge. Firſt, they are expreſly required to bleſſe the Lords people, they haue ſuch a commiſſion and charge giuen vnto them touching the ſame, as the like is not giuen to any other thorowout the whole Scripture; Speake vnto Aaron, and to his ſonnes, &amp;c.
+            
+               Secondly, a ſpeciall forme. Secondly, to them is giuen a preſcript forme, and onely to them, and to no other. 1. Kings 8. 55. Pet. Mart. in locum.
+                We reade of Salomon, and other religious Kings, who haue bleſſed the people publikely, but not conceptis verbis, in any preſcript forme, as did the Prieſts.
+            
+               Thirdly, a ſpeciall promiſe. Thirdly, to their benediction a promiſe of the Lords bleſſing is annexed in ſuch ſort, as the like is not made to any other.
+            This three-fold difference there is betweene
+
+the Prieſtly benediction and others. The Prieſts, the publike Miniſters of the Lord, had a ſpeciall charge, a ſpeciall forme, and a ſpeciall promiſe. Firſt, a ſpeciall charge to doe it. Secondly, a ſpeciall forme how to doe it. Thirdly, a ſpeciall promiſe, if they doe it: they ſhould not bleſſe in vaine, but the Lord, whoſe name they thrice inuocated in the bleſſing, as if it were with ſecret reference to the three perſons now better knowne, the Father, the Sonne, and the holy Ghoſt, promiſed to confirme and ratifie their act, to the benefit of the people. The Prieſts pronouncing the bleſſing as they were appointed, he ingaged himſelfe to doe according to their prayer, and to bleſſe them actually and really.
+            Now this part of the Prieſts office was not ceremoniall, but morall, and of perpetuall vſe: and therefore we finde, that it was put in practice both before the law, and ſince the comming of Chriſt the like hath beene done by the chiefe Miniſters of the new Teſtament. Before the law, we read that Abraham and his company was bleſt, Gen. 14. 18.
+                  Gen. 14. 18. By whom? By a Prieſt, namely, by Melchizedech, called the Prieſt of the moſt high God: and the Patriarch paid Tithes to him that bleſt him. And when our high Prieſt came, who is a Prieſt for euer after the order of Melchizedech, they brought their children to him to be bleſt, 
+                  
+                     Mark 10. 16. Luk 24. 50. 
+               And hee laid his hands on them and bleſſed them, Mark. 10. 16. and Luk. 24. 50. Before he departed from his Diſciples, Prieſtlike hee lifted vp his hands and bleſſed them. And the Apoſtles vſually bleſſed the Churches of
+
+Chriſt which they taught, and from them we haue receiued that forme of Euangelicall benediction,The Euangelicall bleſſing. vſed in all Churches by the publike Miniſters: 2. Cor. 13. 14.
+               The grace of our Lord Ieſus Chriſt, the loue of God the Father, and the communion of the holy Ghoſt be with you all, Amen. Which differeth from the former in words more than in ſubſtance. For it comprehendeth as much as that, but is ſo much the ſweeter, becauſe in this the ſweete and bleſſed name of Ieſus Chriſt is mentioned, and all the three perſons diſtinctly: therefore wee vſe this rather than the other.
+            But it may be ſaid, Is there any commandement giuen to the Miniſters of the Goſpell to bleſſe? I anſwere, when Chriſt ſent Preachers abroad into the Cities whither he would come, he appoynted them to bleſſe the places where they came, and ſhewed them how to doe it: Luk. 10. 5. 
+                  Luk. 10. 5.
+               Into whatſoeuer houſe (ſaith he) yee enter, firſt ſay, Peace be to this houſe. Ther's a briefe forme of bleſſing appoynted vnto them to vſe. And if (ſaith he) the ſonne of peace be there, that is, any worthie of peace which will receiue you, then your peace ſhall reſt vpon it; that is, that bleſſing which you prayed for, ſhall be vpon that houſe: but, if not, it ſhall turne to you againe: you ſhall be the better for it, but it ſhall take no effect for their good. Whereby we ſee, that as it pertained to the Prieſts vnder the Law to bleſſe the people, ſo it likewiſe belongeth to the Miniſters of the Goſpell: and as the Prieſtly benediction of old was not meerely verball, but effectuall; ſo to the bleſſing pronounced by the
+
+Miniſters of Chriſt, a promiſe of like efficacie is annexed. And this may ſerue for confirmation of the poynt propounded, and for information of the iudgement. I come now to the ſpeciall inferences hence, tending to the reformation of practice, not anſwerable hereunto.
+            Now the vſe concerneth either all hearers in generall, or Miniſters themſelues in ſpeciall. Firſt, al hearers, of what ranke or ſort ſoeuer, are taught hence to make more account of the prayers of Miniſters, and the better to reſpect their perſons. Miniſters prayers to be preferd before others.Firſt, their prayers are to be preferred before the prayers of others, eſpecially publike prayer performed by them, and of publike prayers, their bleſſing prayer particularly: for it is ſaid in the Text, their prayer came vp to heauen, that is, the prayer of the Prieſts, and the prayer ſpoken of was publike prayer; and it is meant of the prayer wherewith the Prieſts bleſſed the people. For the firſt, it is true that the prayer of the righteous is acceptable, 
+               
+                  Prou. 15. 8.as it is Prou. 15. 8. euen of any righteous man: but if a righteous Prophet or publike Miniſter may be had, it is ſo much the better. When Abimelech was puniſht for taking Sarah, it was Abrahams prayer that muſt doe him good, becauſe he was a Prophet, Gen. 20. 7.
+                  Gen. 20. 7. And S. Iames for this cauſe would not haue the ſicke man to  content himſelfe with his owne prayers only, but to deſire the Miniſters helpe, Iam. 5. 14. The ſicke to ſend for Miniſters to pray for them.
+Iames 5. 14.
+               He ſaith indeed, Is any man afflicted? Let him pray. Euery one is to pray for himſelfe, but that is not all that he is to doe. Is any ſicke among you? Let him call for
+               
+               the Elders of the Church, and let them pray for him. Is any ſicke, be he what he will be, if he be neuer ſo good, let him not truſt to his owne prayers, if he may haue further helpe. Why but will it not ſerue the turne as well, if hee ſend for ſome good Chriſtian in the towne, to pray for him? No, let him call for the Elders of the Church, and let them pray for him, and it is promiſed that there ſhall be ſpeciall fruite of their prayers. The ſicke ſhal be raiſed vp, and if he haue committed ſinnes, they ſhall be forgiuen him.
+            But it may be obiected: We doe not alwaies ſee this fruite of Miniſters prayers: many times the ſicke that haue their prayers, are little the better for them.
+            
+               A difference of Miniſters, and of their praying. I anſwere, it may well be ſo: becauſe there is a great difference of Churchmen, and a great difference of thoſe which haue their prayers. Firſt, all Churchmen are not alike, ſome are righteous, and ſome vnrighteous: ſome pray in faith, others haue not that grace. And the Apoſtle there ſpeaketh of the prayers of the righteous, and inſtanceth in a righteous Prophet, Elias. And it is the prayer of faith which he commendeth for efficacie. A difference amongſt thoſe that are prayed for.Secondly, all afflicted and ſicke perſons are not alike. Firſt, againſt ſome, almightie God is growne to ſuch diſpleaſure, that he will heare no man for them: As he ſaid, Though Moſes and Samuel ſtood before me, yet my minde could not be towards this people: caſt them out of my ſight, and let them go foorth, Iere. 15. 1.
+                  Jere. 15. 1. And elſewhere, Though theſe three men were in it, Noah, Daniel and Iob, as I liue, ſaith the
+               
+               Lord God, they ſhould deliuer but their owne ſoules by their righteouſnes, Ezech. 14. 14, 16, 18, 20. 
+                  Ezech. 14. 14.
+            
+             Secondly, that place before named, Luk. 10. 5.
+                  Luk. 10 5. may giue ſatisfaction touching this matter, where promiſe of bleſſing to the Miniſters prayer for others is but conditionall; If they be the ſonnes of peace, it ſhall doe them good, not elſe; if they be contemners of our office and miniſterie, as many be, they are not qualified and prepared for grace: they ſhall haue no benefit by our prayers. But for the ſonnes of peace, which humble themſelues, and vnfainedly loue the Lords meſſengers, and reuerence their doctrine, and deſire their prayers, God will heare his faithfull ſeruants: Such ſhall be the better for the prayers of Gods Miniſters, which they make for them vnto the Lord in their ſickneſſe. Therefore let them doe as S. Iames appoynteth them, call for the Elders of the Church for this purpoſe, preferring the prayers of righteous Miniſters, before the prayers of any other whatſoeuer. But as their priuate prayers are ſpecially to be deſired, ſo publike prayer performed by them, is to be preferd before priuate.Publike prayer to be preferd before priuate. Such was the prayer ſpoken of in the Text, and it went vp to heauen. The diſtance of heauen and earth, the cloudes and celeſtiall bodies betweene them, the infirmities of them that prayed could not hinder, but it pierced thorow all, and had ſpeedie acceſſe vnto God, and gracious acceptance with him. When many ioyne together with one accord, it is pleaſing to God, and moſt auailable with him, when there is a conſort of hearts and
+
+voyces, and a harmony of affections, and many haue one and the ſame ſuite and ſupplication vnto the God of heauen, it preuaileth mightily with him, prouided that the Miniſter be the ſpeaker. So it is appoynted, Ioel. 2. 16.
+                  Ioel. 2. 16. 
+               Gather the people. It is not enough for euery family apart to pray, but all families muſt aſſemble together and pray, and the prayer muſt proceed from the Prieſts lips: Let the Prieſts, the Miniſters of the Lord, ſay, Spare thy people, O Lord: then will the Lord heare and ſhew mercie. Is there any man then in loue with his owne priuate deuotion, and thinketh that ſufficient, and therefore abſenteth himſelfe from the publike aſſemblies, when he might be preſent, if he would? Let him know, he erreth, not knowing the Scriptures and the pleaſure of God, and hee certainly wrongeth his owne ſoule, neglecting that which would be moſt profitable for him. Chryſoſt. de Dei natura. Hom. 3.
+               
+               Non aequè exoras (ſaith Chryſoſtome) dum ſolus Dominum obſecras, atque cum fratribus tuis: Thou doeſt not ſo ſoone obtaine thy deſire when thou prayeſt alone, as when thou prayeſt with thy brethren. And againe, Chryſoſt. on Theſſ. 2. Hom. 4.
+               That which thou canſt not obtaine, when thou prayeſt alone by thy ſelfe, thou ſhalt receiue when thou prayeſt with a multitude. Thus antiquitie conceiued of the power and efficacie of publike prayer aboue priuate.
+            Yea, will the Separatiſt ſay, Publike prayers (no doubt) are of great power, if they be conceiued prayers.
+            I anſwere, Indeed, to conceiue prayer, is an excellent gift, and by no meanes to be deſpiſed, if it
+
+be not raſhly vndertaken by thoſe which haue no grace to performe it in due ſort; but I make no queſtion but that a man may pray alſo as acceptably vnto God in a ſet forme,Prayer in a ſet forme defended. and ſo may publike praiers as well as priuate be made alſo, as the Church hath euer practiſed: and it is a vaine thing to think that God is ſo delighted with varying of words and phraſes, that when we haue the ſame ſuits and requeſts to make vnto him daily, yet wee muſt alter the words and manner of asking.
+            Not to preſſe the example of our Sauiour Chriſt himſelfe, who had a better gift in prayer then all the Separatiſts in the world, and could haue varyed better then them all; yet when hee had the ſame ſuit vnto God, vſed the ſame words diuers times,
+                  Mat. 26. 44. 
+               Father, if it be poſsible, let this cup paſſe from me. Nor to vrge that of the Apoſtles, who could pray before after their manner, and yet deſired to be taught a prayer by Chriſt himſelfe, 
+                  Luk. 11. 1.who vpon their requeſt gaue them a forme: as alſo Iohns Diſciples were taught by their maſter. Proued from the Text.From the Text in hand it may be maintained againſt all aduerſaries, that publike prayer in a ſet forme, is well pleaſing to God, if other things be anſwerable: for heere the Prieſts bleſſed the people according to the ſet forme giuen vnto them: No iudicious Writer maketh doubt of this: and it was a prayer which they vſed when they bleſt them: ſo it is called in the Text: and it was as publike as any prayer; and yet of this publike prayer vſed by the Prieſt in a ſet forme, it is ſaid, It went vp to his holy dwelling place, euen to heauen;
+
+to ſhew the ſingular acceptance it had with God. Wherfore let no man depraue our Church for this, becauſe we vſe ſet praiers in the Congregation; nor let any deſpiſe ſuch prayers as God himſelfe deſpiſeth not: for we finde in the Scripture vſe both of conceiued prayer and of ſet formes, and both pleaſing vnto God:Our Church alloweth Miniſters to vſe conceiued prayer. and in our Church as ordinarily we are appointed to vſe common ſupplications: ſo vpon extraordinary occaſions, the Preacher hath liberty to inlarge, and to vſe the beſt gift he hath, as God ſhall inable him, and his holy Spirit ſhall guide his hart &amp; tongue. Let al make vſe of both vnto the glory of God: for pleaſing vnto him are the publike prayers of the Church, whether extraordinary, or ordinary. So long as the prayers be good and holy for the matter, whether they be conceiued in a ſet forme, or voluntary, we are to make good account of them, and vſe thē reuerently &amp; religiouſly. But whileſt I ſpeake thus in cōmendation of publike prayer, I am far from falling into the other extreme, as ſome haue done, who are all for common prayer, and care little for preaching.Preaching not to be deſpiſed. For as the dignity of preaching is excellent, that ſufficiency being required to that part of Gods ſeruice ſpecially, which the vulgar cannot attaine to: ſo the neceſſity thereof is exceeding great, both to the eſſe of a Chriſtian and the bene eſſe. Neceſſary it is to the begetting of ſoules to God, to call ſinners to repentance, to bring home the loſt ſheepe of the houſe of Iſrael.
+            And this hath euer bin the ordinary meanes of
+
+conuerting ſoules: and therefore of neceſſary vſe at all times, and ſo in theſe times wherein iniquity aboundeth; though there be an external profeſſion of the true Chriſtian faith, neceſſary it is for  thoſe that are already the people of God.Preaching neceſſary for the conuerted.
+1. Cor. 14. 4, 5, 6, 22.
+                
+               Prophecying, ſaith the Apoſtle, is for them that beleeue. And of old the Prieſts office was not only to pray, but to teach: and it is ſaid of the Leuiticall Prieſts, For Iſrael.
+Deut. 33. 10.
+                Deut. 33. 10. They ſhall teach Iacob thy iudgements, and Iſrael thy law. Preſuppoſing that the Iſraelites themſelues would alwaies need teaching. Non minor eſt virtus, quàm quaerere partatueri. Preaching is neceſſary to the preſeruation of thoſe which are brought to the knowledge of the Truth, and to make them grow in grace. Therefore ſaith the Apoſtle Peter vnto the Chriſtians of his time, 1. Pet. 2. 2.
+               As newborne babes, deſire the ſincere milke of the Word, that ſame 
+                  〈 in non-Latin alphabet 〉
+                that fraudleſſe milke, that ye may grow thereby, 1. Pet. 2. 2. The Word read, I confeſſe, is of good vſe and profitable, but preaching is neceſſary to make it ſo:Preaching neceſſary to profitable reading. for when that noble Eunuch of Ethiopia read the Scripture, though he was a man of better parts and capacity then hundreds of our people, yet he confeſſed his owne diſability, and ſaid,
+                  Acts 8. 31. 
+               How can I vnderſtand, without a guide?
+            
+            Neceſſary it is alſo to the due performance of other parts of Gods ſeruice; as, to the more worthy  receiuing of the holy Sacrament.To worthy receiuing.
+1. Cor. 11.
+                Without the helpe of a Preacher, or Catechizer, the common ſort goe to the Lords Table without preparation, not diſcerning the Lords body, nor knowing
+
+the end and right vſe of the ſacred myſteries, but by a good Preachers labour, Communicants are better taught, and come better prepared to that holy Seruice, and doe it more vnderſtandingly &amp; comfortably. What ſhould I ſay more? To good praying.To good praying, good preaching is neceſſary. As poore people cannot vnderſtand the Scripture without a guide, nor vnderſtand the myſterie of the Sacrament without a guide: ſo they are as ignorant in prayer alſo: the Lords Prayer they ſay often, but vnderſtand not; and ignorantly they vſe other prayers, not knowing what they ſay: ſometimes they pray for that they hate; as thoſe that pray that the reſt of their life may be pure and holy, when as in heart they deſire no ſuch change in themſelues, but hate purity and holineſſe, and deſpiſe all that follow it: and thoſe that are no prayers, they vſe for prayers, thinking them to be ſo: not onely children, but olde men thinke they pray, and pray well, when they ſay the Creed and ten Commandements.
+            There being therefore ſuch neceſſity of preaching, I can but wonder, that vpon the beſt Day of the weeke, many Country people are afraid to do nothing, but to goe forth to heare a Sermon. They dare ride abroad about their worldly buſineſſes, as often as they liſt; they dare goe to all the prophane Wakes in the Country one Sunday after another, but dare not goe to a Sermon ſo much as halfe a Sabbath dayes iourney, though they haue none at home, as they would make men beleeue for feare of Apparitors and Churchwardens.
+
+I doe the more wonder at it, becauſe I perſwade my ſelfe, that our religious Fore-fathers, which had a hand in ſetting foorth the Common prayer booke, now eſtabliſhed by authority, held, and would haue the people taught the neceſſity of hearing the Word of God: for they haue appointed prayers to be vſed, that the Lord would giue Miniſters grace to preach diligently, &amp; it is giuen in charge to the ſureties at Baptiſme,Thoſe of yeeres to bee called vpon to heare ſermons by the ordinance of the Church. that when the baptized come to yeeres, they call vpon them to heare Sermons, not thinking it ſufficient for them to heare Seruice onely. And none haue written more effectually of the excellency of preaching, then thoſe learned and worthy Doctors and Diuines, which tooke paines lately in the tranſlation of the Bible; See what they haue written of this in their Epiſtle to his Maieſtie: Amongst all our ioyes, ſay they, there was no one that more filled our hearts, then the bleſſed continuance of the preaching of Gods ſacred Word amongst vs, which is that ineſtimable treaſure, which excelleth all the riches of the earth, becauſe the fruit thereof extendeth it ſelfe, not onely to the time ſpent in this tranſitory world, but directeth and diſpoſeth men vnto that eternall happineſſe, which is aboue in heauen, &amp;c.
+            Thus honourably haue they written of the preaching of the Word: and theſe I am ſure were no Puritans; for they haue written againſt Puritans, and therefore there can be no ſuch exception taken.
+            Certainely the doctrine of our Church is, and euer hath beene, for the neceſſity and vtility of
+
+preaching and hearing of the Word of God, and herein it is conſonant vnto the Scriptures, and to the doctrine of all Orthodoxe Churches:
+                  Eſay 2. 3. 2. Tim. 4. 2. 1. Pet. 2. 2. and the contrary tendeth to the diſhonour of the moſt famous Diuines, Paſtors and Prelates of our owne Church, and of other Churches of Chriſt, which now reſt from their labours: nay, to the doctrine and practice of the beſt of the Fathers Greeke and Latine, who in their times were inſtant this way in ſeaſon and out of ſeaſon; nay, of the holy Apoſtles; nay, of Chriſt Ieſus the great Shepheard of our ſoules, who tooke inceſſant paines in preaching and teaching both in the Temple and elſewhere,  accounting the Temple not onely a houſe of prayer, but a houſe of preaching alſo:The Temple a houſe of preaching, as well as of prayer.
+Matth. 26. 55.
+                for hee ſaith, I ſate daily teaching in the Temple. Therefore let compariſons betweene praying and preaching be forborne: they are both the holy ordinances of God, of neceſſary vſe for all the Lords people. 1. Theſſ. 5. 17.
+               Pray continually, as the Apoſtle ſaith (meaning it of ſecret eiaculations of the heart, not of publike prayer.) Pray alſo in your families. It is a pious and religious practice well beſeeming Chriſtians. Pray alſo with the Congregation; deſpiſe not the publike prayers of the Church, nor neglect them, but diligently attend them, and make vſe of them reuerently, leſt while ye come to worſhip God, ye take his name in vaine; but withall remember the other admonition of the Apoſtle, Deſpiſe not prophecying. Let not a pretended zeale for more praying, iuſtle out preaching: for this is alſo the ordinance of God as well as prayer; of as great
+
+neceſſity for the people; without which, prayer and all parts of Gods ſeruice and worſhip will be the worſe performed. I ſay no more; but to magnifie preaching with contempt of prayer, is intolerable; and to extoll praying with contempt of preaching, is abominable.
+            And thus much concerning publike prayer, and of the account that wee are to make of it, being performed by a Miniſter.
+            
+               Great regard to be had to the bleſſing pronounced by the Miniſter. More particularly, there is ſpeciall regard to be yeelded to the bleſſing, prayer or benediction vſed by the Paſtor or Preacher in the Congregation. It is a diſorderly cuſtome in many Churches, that a number will be gone, before the Euangelicall bleſſing be pronounced. Ignorant people! they vnderſtand not the way of the Lord, and what the Lord hath ordained for their good. Almighty God promiſed to bleſſe the children of Iſrael. But how? In that order which himſelfe appointed; they being firſt bleſt by the Prieſts. So now, through the bleſſing of his Miniſters, he will conuay a bleſſing to his people.
+                  Leuit. 9. 
+                     •
+                  2. As therefore the Miniſter of Chriſt is reuerently to lift vp his hand ouer the heads of the people, and with all religious and holy affection to bleſſe them in the name of the Father, and of the Sonne, and of the holy Ghoſt: ſo the people are to wait for this bleſſing; and when it is pronounced, attentiuely to marke it, and reioyce in it, and in the end deuoutly to ſay Amen vnto it; that ſo they may depart home comfortably with the bleſſing of the Church and of the Lord. And hitherto of the account to be
+
+made of Miniſters prayers, and ſpecially of the publike prayers and bleſſings performed by them. All ſorts are alſo hence taught, to haue due regard vnto their perſons and Calling for this reſpect:  for their office is honourable and reuerend: to them it belongeth to bleſſe, and by them God will bleſſe thoſe whom hee will bleſſe. And what ſaith the Apoſtle? The leſſe is bleſſed of the greater, Heb. 7. 7.
+                  Pendebat ex benedictionibus magna ex parte Saſerdotij dignitas, &amp;c. Gualt. in Mal. 2 Heb 7. 7. 
+            
+            
+               All offices appointed of God to his Miniſters, honorable.And what other office is appointed vnto them that is baſe? They are called to be Teachers in Iſrael, to be Guides vnto the people, and to ſhew vnto them the way of life: to them it pertaineth to adminiſter the holy Sacraments, that of Baptiſme, and the other, of the Lords Supper, which the Fathers of the Nicene Councell call 
+                  Can. 12. 
+               Neceſſarium vitae viaticum: The neceſſary prouiſion for the ſoule in her iourney to another world. To them it pertaineth to pray▪ for the people, and to make atonement for them, that they may be reconciled vnto God. To them is giuen the keyes of the Kingdome of heauen, and power to binde and looſe, and to remit ſinnes, 
+                  〈 in non-Latin alphabet 〉
+                &amp; declaratiuè. Which of all theſe is baſe and vnſeemely for men of worth to doe? Which of them is not high and holy?
+            Why then is the Calling ſo contemptible, as it is with many, aboue all others? Why is the name of Prieſt vſed in contempt? Of all contempt, this is the moſt vnreaſonable: for God hath highly honoured thoſe of this function, and they are ſeparated to great and noble ſeruices. Behold, God hath made them Fathers vnto the people. So
+
+               Micah called the young Leuite, Iudg. 17. 10. 
+                  Iudg. 17. 10. and 18. 19.
+               Dwell with me, and be a Father and a Prieſt vnto me. And ſo the Danites call him after. And worthily is the name giuen to them; and with the name, the honour ſhould be giuen alſo: for they are inſtruments of Regeneration, as parents be of Generation; and as Chryſoſtome reaſoneth,Chryſoſt. de Sacerd. Parents beget their children vnto this life, but the Miniſters of Chriſt beget them to life eternall: and parents cannot doe that for them, which Miniſters may doe. Parents may waſh their bodily parts, but Miniſters are inſtruments to waſh their ſoules, when they baptize them. Parents feed them with meate that periſheth: but Miniſters, their ſpirituall Fathers, feed them with that meat which endureth to euerlaſting life, namely, with the Word of the Lord, &amp; with the Body of the Lord.
+            Baptiſme, which they adminiſter, of old was called and accounted Ianua ſalutis:
+               Saluian. dieſ
+                     
+                        
+                     
+                     que
+                   auaritiam, lib. 1. pag. 61. Chryſoſt. in Mat. Hom. 13.
+                The gate of heauen: in the old Saxon doctrine, The Wellſpring of life: in the beſt times, The Lauer of Regeneration. And it is written,
+                  Titus 3. 5. 
+               Except a man be borne againe of water and of the Spirit, he cannot enter into the kingdome of God, Ioh. 3. 5.
+                  Ioh. 3. 5. And elſewhere, Whoſoeuer eateth not the fleſh of the Lord, and doth not drinke his blood, hee ſhall dye eternally, Ioh. 6. 53.
+                  Ioh. 6. 53. And theſe things, ſaith an ancient Father, cannot be receiued of the people, but per ſacroſanctas manus ſacerdotum: By the ſacred hands of the Prieſts of the new Teſtament; to others it pertaineth not to meddle with the diſpenſation of theſe holy and venerable myſteries: it were preſumption
+
+in a Prince to adminiſter either Sacrament: to the Miniſter it pertaineth to bleſſe the bread, and cup of bleſsing,
+               1. Cor. 10. 16. and from their hands the Lords people are to receiue the bread of life, and cup of ſaluation. But to which of the Angels, ſaith that holy Father, ſaid hee at any time, as hee hath ſaid vnto his Miniſters, 
+                  Matth. 18. 1
+                     •
+                  .
+               
+                  Ioh. 20. 23.
+               Whatſoeuer ye bind on earth, ſhall be bound in heauen. Whoſoeuers ſinnes yee remit, they ſhall be remitted? Theſe things ſurpaſſe all the reſt. Hence worthy Paſtors of the Church, men of   courage, vpon weighty occaſion, haue been bold to excommunicate Emperours,
+                  Theod. lib. 5. cap. 24. Euſeb. lib. 6. cap. 34.  as Ambroſe excommunicated Theodoſius; and Fabian excommunicated Philip.
+            
+            
+               Emperours excommunicated by Miniſters.
+Paulinus in vita Ambroſij.
+               And it is memorable, that Paulinus writeth, that when Ambroſe denounced excommunication againſt a diſſolute perſon, in the very inſtant, whileſt he vſed the words, the man was ſuddenly taken and rent by the diuell. Let theſe things be conſidered of aduiſedly by ſuch as haue hitherto been carried with the ſtreame, and haue raſhly by words, or deeds, or both, ſhewed contempt of the Miniſtrie; and ſeeing what high and honourable offices and priuiledges the moſt high God hath appropriated vnto his ſeruants whom hee hath called to that function, let them reforme their former erroneous iudgement of them, and their carriage towards them: and that the vulgar ſort may be the better taught their dutie in this, let thoſe in authoritie put a difference betweene thoſe whom God hath ſo highly honoured, and others which haue no ſuch priuiledges giuen vnto
+
+them of the Lord. It is notable that is written of Salomon, 1. Kings 2.1. Kings 2. 26. when Abiathar the Prieſt had committed a crime worthy of death, yet hee would not put him to death, but ſaid vnto him, Get thee to Anathoth, vnto thine owne fields, &amp;c. becauſe thou bareſt the Arke of the Lord God, &amp;c. He put Ioab to death, a great Counſellor of State, but ſpared the life of Abiathar, in reuerence of his Prieſthod. A worthie example. Thankes bee to God, we liue now vnder a religious King, who being learned in the Scriptures, is like-minded to Salomon this way, and like another Conſtantine, is exceedingly well-affected to the Church. Long ſince hee gaue inſtruction to his eldeſt ſonne, to 
+                  
+                     〈 in non-Latin alphabet 〉
+                  .cheriſh none more than a godly Paſtor, and to count it one of the faireſt of his Titles, to be a louing nurſing Father of the Church. He hath ſince publiſhed his pleaſure, to haue his Clergy well vſed; and knowing the power giuen vnto them of Chriſt,The King vpon the Lords Prayer. He hath aduiſed men to haue recourſe vnto a diſcreete Church-man, well reputed for good life, and to reueale his ſpirituall eſtate to him, &amp;c. and he hath taken ſpeciall notice of this miniſteriall prerogatiue of bleſſing, which others little minde; and therefore he required a religious and zealous Diuine,Doctor King, Biſhop of London. of great note and place in our Church, to preach the Tueſday after the marriage of his only Daughter, and ſolemnely to bleſſe the new married couple; who performed it ſo worthily, and with his zeale ſo inflamed the zeale of the hearers, that it was no other like but his prayer went vp to heauen, and the fruitfulnes of that
+
+ Princely Lady hath ſince euidenced as much.
+                  Ʋitis Palatina.
+            
+            I haue heard alſo an honourable perſon ſay of Miniſters, God bleſſe them by whom God bleſſeth vs. A worthy ſpeech, arguing his obſeruation of that ſpeciall prerogatiue giuen of God vnto his Miniſters, to bleſſe in his name. The time hath been, that Preachers haue been too diſgracefully vſed by temporall Iudges in the face of the countrey: but ſince his Maieſties comming to the Crowne, there hath been better reſpect had towards them: And a great Iudge of Aſſiſe profeſſed it publikely, that he would aſſoone bind a man to his good behauiour for contempt of a Miniſter, as for contempt of a Magiſtrate.
+            Now, in Eccleſiaſticall Courts, we haue reaſon to expect better regard than in the Temporall: for to that end thoſe Courts and Conſiſtories were granted at the firſt by Princes, as it is confeſſed by one that is not onely in legibus doctus &amp; peritus,  but legum Doctor,
+               Courts Eccleſiaſticall why ordained.  becauſe the Clergy were like to haue more indifferency before a Iudge of their owne learning, then before a Iudge of another profeſſion;A view of the Ciuill and Eccleſiaſticall Law. p. 105. it being held, that Laici oppidò ſemper infeſti ſunt Clericis: Lay-men are ſeldome Clergy mens friends. And another reaſon of this, he ſaith, was, that Clerks ſuites &amp; quarrels ſhould not bee diuulged among the Lay people, to the diſcredit of their profeſſion. Otherwiſe the ſaid Author alſo ſheweth, how much anciently the credit of the Clergy was tendred; and he wiſheth the like regard towards Eccleſiaſticall men were ſtill retained, both becauſe it was reuerent, and
+
+worthy the dignity of the Miniſtery, whoſe office he acknowledgeth to bee moſt honourable. Thus he, himſelfe a Iudge in the Eccleſiaſticall Courts, of great place. That authority therefore is not rightly vſed, nor agreeable to the inſtitution thereof, if in Eccleſiaſticall Courts the Clergy haue not onely no iniuries and indignities offered vnto them; but if they haue not, in ſtead thereof, protection, and countenance, and encouragement in all good.
+            I take no delight in finding faults, ſpecially with my ſuperiours and betters; but yet I hate baſe adulation. It is thought to bee not ſo well as it ſhould bee, that ſo many aduantages are giuen vnto ill neighbours againſt their Miniſters. It is good for the greateſt to remember what Ieſus Chriſt (before whom all muſt appeare to giue account) hath left in record concerning his Miniſters: He that deſpiſeth you, deſpiſeth me.
+               
+                  Luk. 10. 16.
+            
+            I leaue the proſecuting of this further, and aduiſe all that would haue benefit by Eccleſiaſticall benediction, to deſerue the loue of thoſe to whom that office belongeth iure diuino: for though we are to bleſſe all, yet wee cannot bleſſe all with the like effect, or with the like affection. Not with like effect; for all are not the ſonnes of peace: and thoſe that are not, are vncapable of this bleſſing. Not with the like affection: for in ſome wee haue more, in ſome leſſe comfort.All not bleſt with the like affection. Wee cannot bleſſe all with the like affection as wee can bleſſe our friends, and ſuch as are comfortable vnto vs, and
+
+ inſtruments of our good.
+                  Gen. 27. 3. 4. When Iſaac had a deſire to bleſſe his ſonne Eſau, he bids him firſt prouide him ſauoury meate that wonld giue him content; and hauing ſuch brought vnto him by Iacob, when he had eate of the veniſon, and drunk wine, then he called,
+                  Verſ. 27. 
+               Now come neere me, and kiſſe me, my ſonne: God giue thee of the dew of heauen, &amp;c. A thing very remarkable, that before the holy Patriarch vndertooke to bleſſe his ſonne, hee firſt would haue ſauoury meate prouided by him whom he meant to bleſſe; and firſt he ate thereof, and dranke wine, to cheere vp his ſpirits, that ſo he might bleſſe him the more heartily and effectually: for heauineſſe, and griefe, and ſorrow, and diſcontentment maketh a good man vnfit for the right performance of ſuch duties.1. King. 3. 15. Therfore when Eliſha was moued againſt King Iehoram, before he fell to propheſie, he called for a Muſician to allay his anger.
+            
+               
+                  Gen. 44. 22 We may obſerue alſo, that when Iacob bleſſed his ſonnes, he bleſſed them not all alike: but bleſſings flowed moſt plentifully from him when hee came to Ioſeph, becauſe hee tooke moſt comfort in him of all the reſt. So the Miniſters of the Goſpell are moſt ready to bleſſe them, whom they haue moſt comfort from, as they in Luk. 7. were forward to ſpeake to Chriſt for the Centurion, when he ſtood in need of helpe.
+                  Luk. 7. 4, 5. Why? He loueth our nation, and hath built vs a Synagogue. And Saint Paul prayed for all Chriſtians, but not ſo as hee did for Oneſiphorus his ſpeciall good friend:2. Tim. 1. 16. When he remembred him, 2. Tim. 1. 16. hee bleſſed
+
+him and his houſe, and doubled his bleſſing vpon him, The Lord giue mercy to the houſe of Oneſiphorus, for he oft refreſhed me, and was not aſhamed of my chaine. And againe, The Lordgrant vnto him, that he may finde mercy of the Lord in that day.
+               2. Tim. 4. 14. He prayed not ſo, Iwis, for Alexander the Copper-ſmith. Theſe Prieſts did not, could not at all times bleſſe the people ſo cheerfully and effectually as they did now. Now it is ſaid, that Hezekiah ſpake comfortably vnto them, and encouraged them greatly. Now they found the Congregation tractable to good, and they had extraordinary comfort by them: therefore now their zeale was vp, and they lifted vp their voices, and their hearty prayer for them aſcended vp to heauen. Excellent therefore is the counſell of the Apoſtle, Heb. 13. 17.
+                  Heb. 13. 17. 
+               Obey them that haue the ouerſight of you, which watch for your ſoules, that they may doe it with ioy, and not with griefe; for that is vnprofitable for you. It maketh their bleſſing the more vnprofitable. Therefore let thoſe which would bee bleſt by them effectually, looke they deſerue their loue, and be farre from contempt of their perſons, or calling, or doctrine.
+            I ſhould alſo vſe a word of Exhortation to my brethren of the Miniſtery: the more holy and reuerent our Calling is, the more it concerneth vs to looke that wee walke worthy thereof, and to beware leſt wee diſhonour it by our words or deeds. My brethren, it is not for vs to bee deſpiſers of thoſe which follow holineſſe; for our doctrine teacheth vs, and all others, to bee holy;
+
+it is not for vs to be childiſh: for God hath called euen the youngeſt of vs, to bee Fathers in his Church, and made vs (as it were) Patriarchs, to bleſſe the Iſrael of God; it is not for vs to be youthfull with the children of this world: for we are called Elders; and therefore grauitie becommeth vs. Nugae, nugae ſunt, in ore ſacerdotio blaſphemiae, B
+                        •
+                     r.
+                That which is vanity in others, is double iniquitie in vs. The excellencie of our Miniſteriall function aggrauateth our ſinnes before God and men, according to that of S. Ierome; Malus ſacerdos de ſacerdotio ſuo crimē acquirit, non dignitatē: If a Miniſter be bad, this aggrauateth his offence, becauſe hee is a Miniſter: and his Miniſtry is no ſuch grace to him, as he is a diſgrace to his Miniſtrie. And obſerue what commeth of it: Thoſe that are ſcrupulous, care not for the iudgement of ſuch as be ſcandalous about any poynt in controuerſie.
+            Browniſts thinke they haue iuſt cauſe to ſeparate from our Church, where ſuch guides are in place of better men. The Ieſuite and Seminarie Prieſt taketh aduantage thereby to depraue our Religion, and to breed in the ſimpler ſort an ill opinion thereof: they name, Such are knowne to be of euill conuerſation, and bid, Marke their liues. An vnhappy meaning 
+                  Sir Thomas More. Hee had, though he ſpake it pleaſantly, who ſaid of a vicious Prieſt, that he would not for any thing heare him ſay the Creed, leſt it ſhould make him call the Articles of his faith into queſtion. Certainly thoſe of this ſacred function, which are of vngodly conuerſation, are an occaſion of much miſchiefe.
+            
+               
+Many haue no minde to haue their children baptized by ſuch; and it goeth againſt their ſtomakes to receiue the venerable Sacrament of Chriſt his Body &amp; Blood from their foule hands: and their bleſſings and prayers they regard little, becauſe they ſee they regard wickedneſſe in their hearts:
+               
+                  Pſal. 66. 18. and therefore they thinke the Lord will not heare them. Many alſo care not for their doctrine, becauſe they ſay, and doe not. I iuſtifie not all this in them, but rather thinke they are tranſported too farre in a prepoſterous zeale. For good food being brought vnto Elias▪
+               
+               1. Kings 17. 6. he receiued it not only from an Angell, but alſo from a Rauen.
+                  Matth. 2
+                     •
+                  . 3. And Chriſt bid the people not only to heare him and his Apoſtles, but the Phariſes alſo, when they taught them that which was good, though they followed it not themſelues. Good water which paſſeth into a Garden thorow a channell of ſtone, doth the Garden good, though it doe the channell none: and ſo may the Word, and Water of Life cōueied by a bad inſtrument of a ſtony hart; it may doe good to the Church of God, though it worke not vpon himſelfe. And good ſeed ſowne in good ground with foule hands, will fructiſie: and ſo may the good Seed of Gods Word ſowne by a Miniſter of impure conuerſation. One may be a bad man, and yet a good Seedeſman both in the field and in the Church: yet woe be to them by whom the offence commeth; woe to them which make the people to abhorre the offering of the Lord through their miſdemeanour.1. Sam. 4. 11. 
+               Eli his ſonnes ſmoked for this. And to many which haue
+
+prophecied in his name, Chriſt will ſay in his iuſt diſpleaſure,
+                  Matth. 7. 23. 
+               Away from me, ye workers of iniquitie.
+            
+            Therefore to conclude, the Lord giue vs all grace ſo to demeane our ſelues in our places, that his Name may be glorified by vs, his Church edified, and our reuerend Calling adorned, that our prayers may be accepted of the Lord, and our bleſſing of the people may, with this Prieſtly benediction, goe vp vnto his holy dwelling Place, euen vnto heauen▪ which he grant for his infinite mercies ſake in Chriſt▪ to whom, with the Father and the holy Ghoſt, be aſcribed all praiſe and glorie now and for euer.
+            Amen.
+            FINIS.
+            
+         
+      
+   
+

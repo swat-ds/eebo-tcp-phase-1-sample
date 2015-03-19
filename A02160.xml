@@ -1,0 +1,1119 @@
+
+   
+      
+         
+            A quip for an vpstart courtier: or, A quaint dispute betvveen veluet breeches and cloth-breeches Wherein is plainely set downe the disorders in all estates and trades.
+            Greene, Robert, 1558?-1592.
+         
+         
+            
+               1592
+            
+         
+         Approx. 116 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2003-01 (EEBO-TCP Phase 1).
+            A02160
+            STC 12301A.3
+            ESTC S105865
+            99841591
+            99841591
+            6185
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A02160)
+            Transcribed from: (Early English Books Online ; image set 6185)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 1174:03)
+         
+         
+            
+               
+                  A quip for an vpstart courtier: or, A quaint dispute betvveen veluet breeches and cloth-breeches Wherein is plainely set downe the disorders in all estates and trades.
+                  Greene, Robert, 1558?-1592.
+               
+               [48] p.   
+               
+                  Imprinted by Iohn Wolfe, and are to bee sold at his shop at Poules chayne,
+                  London :
+                  1592.
+               
+               
+                  Dedication signed: Robert Greene.
+                  Contains an attack on Gabriel Harvey and his brothers.
+                  Based largely on: The debate betweene pride and lowlines.
+                  With a title-page woodcut.
+                  Running title reads: A quippe for an vpstart courtier.
+                  This edition collates A-F⁴ and has catchword, D3r, "commodity," (with comma).
+                  Identified as STC 12301 on UMI microfilm.
+                  Reproduction of a photostat (at the Henry E. Huntington Library and Art Gallery) of the original at Harvard University. Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Harvey, Gabriel, 1550?-1631 --  Controversial literature.
+               England --  Social life and customs --  Early works to 1800.
+            
+         
+      
+      
+         
+            2002-04
+            TCPAssigned for keying and markup
+         
+            2002-04
+            Apex CoVantageKeyed and coded from ProQuest page images
+         
+            2002-05
+            TCP Staff (Oxford)Sampled and proofread
+         
+            2002-07
+            Apex CoVantageRekeyed and resubmitted
+         
+            2002-08
+            Judith SiefringSampled and proofread
+         
+            2002-08
+            Judith SiefringText and markup reviewed and edited
+         
+            2002-10
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            A QVIP FOR AN VPstart Courtier: Or, A quaint dispute betvveen Veluet breeches and Cloth-breeches. Wherein is plainely set downe the disorders in all Estates and Trades.
+            
+            
+            LONDON Imprinted by Iohn Wolfe, and are to bee sold at his shop at Poules chayne. 1592.
+         
+         
+            
+            
+            To the Right Worshipful Thomas Burnabie Esquier Robert Greene wisheth hartes ease, and heauens blisse.
+            
+               SIr, after I had ended this Quippe for an vpstart Courtier, contayning a quaint dispute betweene Clothbreeches and Veluet breeches, wherein vnder a dreame I shadowed the abuses that Pride had bred in Englande, how it had infected the Court with aspiring Enuie, the Citie with griping couetousnesse, and the countrye with contempte and disdaine. How since men placed theit delights in proud lookes and braue atyre, Hospitality was left off, Neighbourhood was exciled, Conscience was skoft at, and charitie lay frozen in the streets: how vpstart Gentlemen for the maintainance of that their fathers neuer lookt after, raised rents, rackte their tenants, and imposed greate fines, I stoode in a mase to whome I shoulde dedicate my labours, knowing I should bee bitten by many, sithens I had toucht many, and therefore neede some woorthye Patrone vnder whose winges I might shroud my selfe from goodman finde fault. At last I cald to mind your Worship, and thought you the fittest of al my frends, both for the duetie that I owe, and the woorshipfull qualities you are indued withall, as also for that all Northamton
+                  •…
+               hire reports how you are a father of the poore, a supporter of auntient Hospitalitie, an enimie to Pride, and to be short, a maintayner of Cloth breeches (I meane of the old and worthie customes of the Gentilitie and yeomanrie of England.) Induced by these reasons, I humbly present this phamplet to your Worship, only crauing you wil accept it as courtiously as I present it dutifully, and then I haue the end of my desire and foresting in hope of your fauourable acceptance, I humbly take my leaue.
+            
+               Your duetifull adopted sonne, Robert Greene.
+            
+         
+         
+            
+            To the Gentlemen Readers health.
+            
+               GEntle Gentlemen, I hope Cloth breeches shall fin
+                  •…
+                your gentle Censors of this homely Apo
+                  •…
+               ogie of his antient prerogatiues sith though he speakes again
+                  •…
+               t Veluet breeches which you were, yet he twits not the weede but the vice, not the apparell when tis worthily worn, but the vnworthie person that weares it, who sprang of a Peasant will vse any sinister meanes to clime to preserment, being then so proude as the foppe forgets like the Asle that a mule was his father. For auntient Gentility and yeomanrie, Cloth bre
+                  •…
+               ches attempteth this quarrell, and hopes of their fauour: for vpstarts he is halfe careles, &amp; the more, bicause he knowes whatsoeuer some thincke priuately, they will bee no publike carpers: least by kicking where they are toucht, they bewray their gald backs to the world, and by starting vp to find fault, proue themselues vpstai
+                  •…
+               s and fooles. So then poore Clothbreeches sets downe his rest on the courtesie of gentle gentlemen and bold Yeomen, that they will suffer him to take no wrong. But suppose the worst, that hee should be fround at, and that such occupations as hee hath vppon conscience discarded from the Iury, should commence an action of vnkind nesse against him, heele proue it not to hold plea, because all the debate was but a dreame. And so hoping all men will merrilie take it, he stands sollemnlie leaning on his pike staffe, till he heare what you conceaue of him for being so peremptorie. If well, he swears to crack his hose at the knees to quite your courtesie. If hardly, he hath vowed that whatsoeuer he dreames neuer to blab it againe, and so he wisheth me humbly to bid you farewell.
+         
+      
+      
+         
+            
+            A quip for an vpstart Courtier.
+            
+               IT was iust at that time whē the Cuckoulds quir rister began to bewray Aprill Gentlemen, with his neuer chaunged notes, that I damped with a melan choly humor, went into y• fields to cheere vp my wits with the fresh aire: where solitarie séeking to solace my selfe I fell in a dreame, and in that drowsie slomber, I wandered into a vale a
+                  •…
+                tap
+                  •…
+               stted with swéet and choice fl
+                  •…
+               wers, there grew many simples whose vertues taught men to be 
+                  〈◊〉
+                &amp; to think nature by her wéeds warnd men to be wary and by their secret properties to check wanton and sensuall imperfections. Amongst the rest, there was the yellow daffadil, a flowre fit for gelous Dottrels, who through the bew
+                  •…
+               y of their honest wiues grow suspitious, &amp; so proue themselues in the end cuckhold Neretikes, there buded out the checket
+                  •…
+                (Paunsie) or partly coloured harts ea
+                  •…
+               e, an herbe sildome 
+                  •…
+               éene, either of such men as are wedded to threwes or of such women that haue hasty husbands, yet ther it grew, and as I stept to gather it, it slipt from me like Tantalus fruit that failes their maister. At last, woondring at this secret qualitie, I learned that none can weare it, be they kinges, but such as desire no more then they are borne to, nor haue their wishes aboue their fortun
+                  •…
+               s. U
+                  •…
+               pon a banke bordring by, grewe womens weedes, fenell 
+                  〈◊〉
+                fo
+                  •…
+                flatterers, fit generally for that Sexe, sith while they are maidens, they wishe wantonly: while they are wiues they will wilfully, while they are widowes, they would willingly: and yet all the
+                  •…
+               e proud desires, are but close dissemblinges. Neere adioyning sprouted out the Courtiers comfort, Time: An herb that many stumble on and yet ouet slip, whose rancke sauor and thick leaues, haue this peculiar property, to make a snaile if she tast of the sappe as swift as a swallow, yet toyned with this prei
+                  •…
+               dice, that if she clime too hastily, she fals too suddenly. Mée thought I saw diuers yong courtiers tread vppon it with high dis
+                  •…
+               aine, but as they past away, an Adder lurking there bit them by the 
+                  •…
+               éeles that they wept: and then I might perceiue certaine clownes in clowted shoone gather it, &amp; ease of it with gréedinesse: which no sooner was sunke into their mawes, but they were metamorphose
+                  •…
+               , and loookt as prouidly
+                  •…
+                though pesants, as if they had béene borne to be princes companions.
+            Amongst the rest of these changlings whome the tast of time ha
+                  •…
+               
+               
+thus altered, there was some that lifted their heades so hie, as if they ha
+                  •…
+                beene bred to locke n
+                  •…
+                lower then stars, they thought Noli altum sapere was rather the saying of a foole, then the censure of a Philosopher, and therfore stretcht themselues on their tiptoes, as if they had beene a kindred to the lord Liptoft, and began to disdain their equals, scorne their inferiours, and euen their betters, forgetting now that time had taught them to say masse, how before they had playde the Clarks part to say Amen to the priest. Tush, then they were not so little as Gentlemen, and their owne conceipt was the Herralde to blason their descente, from an olde house, whose great grandfathers would haue bin glad of a new cottage to hide their heades in. Yet as the peacocke wrapt in the pride of his beautious feathers is knowne to be but a dunghill birde by his foule feete: so though the high lookes and costly suts argue to the eies of the world they were Caualiers of great worship, yet the churlish illiberalitie of their mindes, bewraide their fathers were not aboue thrée poundes in the kinges bookes at a subsidie, but as these vpstart changelings went strouting like philopolim
+                     •…
+                  rchides the bragart in Plautus, they lookte so proudlye at the same, that they stumbled on a bed of Rue, that grewe at the bottome of the banke where the Time was planted, which fall vpon the dew of so bitter an herbe, taught them that such proud peacockes as ouer hastily out run their fortunes at last to spéedily, fall to repentaunce and yet some of them smild &amp; said Rue was called herbe grace, which though they scorned in their youth, they might weare in their age, &amp; it was neuer too late to say Miserere. As thus I sto
+                  •…
+               d mus
+                  •…
+               nge at this time borne broad, they vanisht away like Cadmus copesmates, that sprang by of vipers téeth, so that casting mine eie aside after them, I saw where a crew of all estates were gathering flowers, what kind they were of I knewe not, but pretious, I geste them in that they pluckt them with gréedinesse, so that I drew towards them to be partaker of their profits, comming néerer, I might sée the weede they so wrangled for, was a little daper flowre, like a ground hunnisuckle, called thrift, praised generally of all, but practised for distillation but of few amongst the crue that seemed couetous of this herbe, ther was a troope of old graiberds in veluet, sattin, and woorsted iackets, that stooped as nimbly to pluck it vp by the rootes, as if their wyats had bene supled in the oile of Misers skins, they spared no labor &amp; paines to get and gather, and what they got they gaue to certaine yong boies
+
+and girles 
+                  •…
+               hat stood behinde them, with their skirtes and laps ope
+                  •…
+                to receiue it: among whome some seattered it as fast as their fathers gathered it, wasting and spoyling it at their pleasure, which their fathers got with labour.
+            I thought them to be some Harbalistes or some Apothecaries that had imployed such paines to extract some rare quintessence out of this floure, but one standing by told me they were Cormorantes and vs
+                  •…
+               
+               rers, that gathered it to fill their 
+                  •…
+               ofers with, &amp; whereto (quoth I) is it pretious? what is the vertue of it? mary (quoth he) to quali
+                  •…
+               ie the heat of insatiable mindes that like the serpente Dipsas neuer drinketh enough till they are so full they burste, why then saide I the Diuel
+                  •…
+                burst them all, and with that I fell into a great laughter, to sée certain Italianate Cantes, humorous Caualiers, youthfull Gentlemen, and Inamorati gagliardi, that scornefully pluckt of it, and wore it a while as if they were weary of it and at last le
+                  •…
+               t it as to base a flower to put in their nosegayes. Others that séemed Homini di grand issima by their lookes and their walkes gathered earn
+                  •…
+               stly and did pocket it vp, as if they meant to keepe it carefully, but as they wer carrieng it away, there met them a troupe of nice wantons, faire women that like to Lamiae had f
+                  •…
+               ces like Angels, 
+                  •…
+               ies like s
+                  •…
+               ars, brestes like the golden front in the Hesperides, but from the middle downwards their shapes like serpents. These with Syrenlike alluremente so entised these quaint squires, that they bestowed all their flowers vppon them for fauours, they themselues walkinge home by beggars bushe for a pennance. Amongst this crew were Lawyers and they gathered the Diuell and all, but poore poets wer
+                  •…
+                thrust backe and 
+                  〈◊〉
+                not bee suffered to haue one handefull to put amongst their withered garlands of baies, to make them glorious. But Hob and Iohn of the countrey they stept in churlishly, in their high startvps, and gathered whole sackfuls: 
+                  •…
+               somuch they wore bóesoms of Thrist in their Hat
+                  •…
+                like for 
+                  •…
+               horses, or the lusty Gallants in a Morrice dance: séeing the crue thus to wrangle for so paltry a wéede, I went alone to take one of all the other fragrante flowers that diapred this valley, thereby I saw the Batchelers 
+                  •…
+               uttons, whose vertue is to make wanton maidens weepe when they haue worne it forty weekes vnder their aporne for a 
+                  •…
+               auour;
+            Next them grew the dessembling daisse, to warne such light of lou
+                  •…
+                wenches not to trust euery 
+                  •…
+               aire promise that 
+                  〈◊〉
+                amorous batchelers
+
+make them, but swéete smels bréed bitter repentaunce. Hard by grew the true louers primrose, whose kind sauour wisheth men to b
+                  •…
+                faithfull and women courteous. Alongst in a border grew maidenhair fit for modest maidens to beholde, and immedest to blushe at, bicause it praiseth the one for their naturall Tre
+                  •…
+               ses, and condemneth the other for their beas
+                  •…
+               ly and counterfeit Perriwigs, there was the gentle gilliflowre that wiues should weare if they were not too froward; and laiall Lauender, but that was full of Cuckoe. spittes, to 
+                  •…
+               how that womens light thoghts make their husbands heuy beads: there were swéete Lillies Gods plenty, which shewed faire 
+                  〈◊〉
+                néed not wéepe for wooers, and store of balme which could cure 
+                  〈◊〉
+                wounds, only not that wound which women receiue when they loose their maidenheads, for no herbe hath vertue inough to scrape out that blot, and therfore it is the greater 
+                  〈◊〉
+                Infinit were the flowers beside that beautified the valley, that to know their names and opera 
+                  •…
+               ons I needed some curious herball, but I passe them ouer as needelesse, sith the vision of their vertues was but a dreame, and therefore I wish no man to holde any discourse herein authenticall, yet thus much I must say for a parting blow, that at the lower end of the dale I saw a great many of women vsing high wordes to their husbands, some striuing for the bré
+                  •…
+               ches, other to haue the last 
+                  〈◊〉
+               , some sretting, they could not find a knot in a rush, others striuinge whether it were wooll or haire the Goat bare: questioning with on that I met, why these women were so cholericke, he like a 
+                  〈◊〉
+                fellow pointed to a bush of 
+                  〈◊〉
+               , I not willing to be satisfied by signes, asked him what he meant thereby. Mary (quoth hee) all these women that your heare brawling frowning and scolding thus, haue seuerally p
+                  •…
+               st on this bushe of nettles, and the vertue of them is to force a woman that waters them to bee as péeuish for a whole day &amp; as waspish as if she had bene stung in the brow with a hornet. Well, I smild at this and left the company to séeke further, when in the twincklinge of an eye I was left alone, the valley cléered of all company, &amp; I a distressed man, 
+                  〈◊〉
+                to wander out of that solitary place to seeke good 
+                  〈◊〉
+                &amp; beene companions to passe away the day withall. As thus. I walked forward, séeking vp the hill, I was driuen halfe into a mase with the imagination of a strange wonder which fell out thus: Mée thought I saw an 
+                  〈◊〉
+                headlesse thing
+                  •…
+                
+               
+                  •…
+               ome pacing 
+                  〈◊〉
+                
+               
+                  〈◊〉
+                the hill stepping so proudly with such a geometricall grace, as if seme artificiall
+
+bragart had resolued to measure the world with his pares: I could not descrie it to be a man, although it had motion, for that it wanted a body, yet séeing legges and hose, I supposed it to bee some monster nurishte vp in those deserts, at last as it drewe more nigh vnto nigh, I might perceiue that it was a very passing costly paire of Ueluct breeches, whose panes being made of the chéesest Neapolitane stuffe, was drawne out with the best Spanish fatine, and maruellous curiously ouer wipt with gold twist, intersemed wit
+                  •…
+                knots of pearle, the Netherstocke was of the pure
+                  •…
+               t Grauade 
+                  •…
+               ilck, no cost was spared to 
+                  •…
+               est out these costly bréeches, who had girt vnto them a Kapyer and Dagger gilt, point 
+                  〈◊〉
+               , as quaintly as if some curious Florentine bad trickte them vp to square it vp and downe the streetes before his Mistresse. As these bréeches were exceeding 
+                  〈◊〉
+                to the e
+                  •…
+               e, so were they passing pompo
+                  •…
+               s in their ge
+                  •…
+               tures, 
+                  〈◊〉
+                they strouted vp and downe the Ually as 
+                  〈◊〉
+                a
+                  •…
+               though they 
+                  •…
+               ad there appointed to act some desperat combat.
+            Blame mée not if I were driuen into a muse with this most monstrous sight to sée in that place such a straunge headlesse Courtier 
+                  •…
+               ettinge vp and d
+                  •…
+               wne like the Usher of a Fence 
+                  〈◊〉
+                about to play his Prise, when I deeme neuer in any age such a woonderfull obiect fortuned vnto an
+                  •…
+                man before. Well, the greater dumpe this Nouelty draue mée into, the more desire I had to sée what euent woulde follow: where vpon looking about to se if that any more company 
+                  •…
+               ould come, I might perceiue from the top of the other hill an other payre of Bréeches more soberly marching, and with a softer pace, as if they were not too hasty, and yet would keepe promise neuerthelesse at the place appointed. As soone as they were come into the vallie, I sawe they were a plaine paire of Cloth bréeches, without either welt or garde, straight to the thigh of white kersie, without a slop, the netherstocke of the same, sewed too aboue the knée, and onely seamed with a littell countrie blewe, such as in Di
+                     •…
+                  bus illis our great Grandfathers more, when neighbour hood and hospitalitie had banisht Pride out of England. Nor were these plaine bréeches weaponlesse, for they had a good sower bat with a pike in the end, able to lay on load inough, if the hart were answerable to the weapon, and vpon this staffe pitcht downe vpon the ground, Clothbréeches stood solemnly leaning, as if they ment not to start, but to answere to the vttermost whatsoeuer in that place might be obiected. Looking vpon these two, I might 
+                  〈◊〉
+               
+               
+by the pride of the one, and homely resolution of the other that this their meeting would grow to some dangerous conflict, aud therefore to preuent the fatall issue of such a pretended quarell, I stept betwene them both, when Ueluet bréeches gréeted Cloth bréeches with this salutation. Proud and insolent pesant, how darest thou without leaue or lowe reuerence presse into the place whether I am come for to disport my selfe? Art thou not afraide? thy high presumption should sommon me to displeasure, and so force me draw my rapier, which is neuer vnsheathed but it turnes into the scabberd with a triumph of mine enimies bloud: bold bayard auaunt, beard mee not to my face, for this time I pardon thy folly, and grant thy legges leaue to carry away thy life. Cloth bréeches nothing amased at this brauado, bending his staffe as if he meant (if he were wronged) to bestow his benison, with a scornefull kind of smiling made this smooth reply: Mary gip goodman vpstart, who made your father a Gentleman, soft fire makes sweet mault, the curstest Cow hath the shortest hornes, and a brawling curre, of all bites the least, alas good sir, are you so fine that no man may be your fellow, I pray you what defference is betwéene you and mee but in the cost and the making, though you bee neuer so richly daubde with gould and powdred with Pearle, yet you are but a case for the butfockes, and a couer for the basest part of a mans body no more then I, the greatest preheminence is in the garnishing and thereof you are proud, but come to the true vse we were appointed to, my honor is more then thine, for I belong to the old auncient yeomanry, yea and gentility, the fathers, and thou to a companie of proud and vnmanerly vpstarts the sonnes. At this, Ueluet-bréeches stormd and said. Why thou beggars brat descended from the reuersion of base pouertye, is thy insolency so great to make comparison with me, whose difference is as great as the brightnesse of the sunne and the slender light of a candle: I (poore snake) am sprung from the ancient Romans, borne in Italy the mistresse of the world for chiualrie, cald into England from my natiue home (where I was famous) to honour your countrie and yong gentlemen here in England with my countenaunce, where I am holden in high regarde, that I can presse into the presence when thou poore soule shalt with cap and knée beg leaue of the porter to enter, and I sit and dine with the Nobility, when thou art faine to wait for the reuers
+                  •…
+               on of the almes basket: I am admited boldly to tell my tale, whē thou art fain to sue by means
+
+of suplication, and that and thou to, so litle regarded, that most commonly it neuer comes to the Princes hand, but dies inprisoned in so
+                  •…
+                obscure pocket: Sith then ther is such defference betwene our estates, cease to vrge my patience with thy insolent presumption. Cloth bréeches as bréefe as hee was proud, swore by the pike of his staffe, that his choplogicke was not worth a pinne, and that he would turne his one weapon into his bosome thus, Why signor Glorioso (quoth hee) though I haue not such glosing phrase to trick out my speeches withall as you, yet I will come ouer your fallowes with this bad the. thoricke: I pray you Mounsier Malapart are you therefore my superiour, because you are taken vp with Gentlemen, and I with the yeomanry? Doth true vertue consist in riches, or humanity in welth? is auncient honour tied to ontward brauery? or not rather true Nobility, a mind excellently qualified with rare vertues? I will teach thée a lesson worth the hearing, proud princocks, how Gentility 
+                  •…
+               rst sprung vpe, I will not forget the olde wiues logick, when Adam delvd and Eue span, who was then a Gentleman? but I tel thée after the generall floode that there was no more men vpon the earth but Noe and his thrée sonnes, and that Cham had wickedly discouere
+                  •…
+                his fathers secrets thē grew the diuision of estates thus: The church was figured in Sem, Gentilitye in Iapheth, and labour and drudgerie in Cham: Sem being chast and holy, Iapheth learned and valiaunt, Cham churlish and seruile, yet did not the turse extend so far vpon Cham, nor the blesing vpon Iapheth, but if the one altered his nature, &amp; became either indued with learning or valour he might be a gentleman, or if the other degenerated from his auntient vertues, hee might be heald a pesaunt, wherevpon Noe inferred that gentility grew not only by propagatiō of nature, but by perfection of qualities Then is your worship wide that boast of your worth for your gold &amp; pearle, sith Cucullus non facit Monachum, nor a Ueluet 
+                  •…
+               lop make a slouen a gentleman: And whereas thou sayst thou wert borne in Italy, &amp; called hither by our courtiers, him may we curse that brought thée first into Englande, for thou camest not alone but acompanied with a multitude of abhominable vices, hanging to thy bumbast nothing but infectious abuses, as vaine-glorie, selfeloue, 
+                  •…
+               mie, and strang poisonings, wherewith thou hast infected this glorious Iland, yea insolent bragart: thou hast defiled thine one neast, and fatal was the day of thy byrth, for since the time of thy hatching in Italy, as 
+                  〈◊〉
+               
+               
+famous for chinalrey and learninge, the imperiall state through thy pride hath decayed, and thou hast like the yo
+                  •…
+               nge Pellican peckt at thy mothers brest with thy presumption, causing them to lose that their forefathers with true honor conquered, so hast thou beene the ruine of the Romane Empyre, and nowe fatally art thou come into Englande to atempte haete the like subuersion. Whereas thou doost boast that I am little regarded where thou art highly acounted of, and hast sufferance to presse into the presence, when I am for my simplenesse shut out of dore, I grant thy all
+                  •…
+               gation in part, but not in wholè, for men of high wisdome and honour measure not men by the outward shewe of brauery, but by the inward worth and honesty, and so though I am disdained of a few ouer weening fooles, I am valued as well as thy selfe with the wise. In that thou sayst thou canst speake when I sue by supplication, I grant it, but the tale thou telst is to the ruine of the poore, for comming into high fauour with an im pudent face, what farme is there expired, whose lease thou doo
+                  •…
+                not begge? what forfeite of penall statutes? what consealed landes can ouerslip thée? yea rather then thy brauery should faile begge powling pence for the verye smooke that comes out of poore mens chemnies, shamest thou not vplan
+                  •…
+               ish vpstart to heare me discourse thy imperse
+                  •…
+               ions, get thoe home againe into thy owne country, and let me as I was wont liue famous in my natiue home in England where I was borne and bred, yea and bearded Caesar thy co
+                  •…
+               ntryman til he compast the conquest by treason. The right and title in this country base brat (qd veluet bréeches) now authority fauours me, I am admitted viceroy, &amp; I will make thée do me homage, &amp; confesse that thou heldst thy being and residence in my land from the gratious sauour of my sufferance, and with that he laid hold on the hilts of his rapyer, and cloth bréeches bet
+                  •…
+               ke him to his staff, when I stepping betwixt them parted them thus. Why what meane ye, will you decide your controuersie by blowes, when you may debate it by reason, this is a land of peace, gouerned by true iusticiaries &amp; honorable magistrats, where you shall haue equitie without partiality, and therefore listen to me &amp; discusse the matter by lawe, your quarrell is, whether of you are most antient and most worthy, you sir, boast of your country and parentage, he of his natiu
+                  •…
+                birth in England, you claime al, he would haue but his owne, both plead anobsolute title of residence in this country, the
+                  •…
+                must the course betwéene you be trespasse or disseison
+               
+of franke tenament, you Ueluet bréeches in that you claime the fir
+                  •…
+                title you shall bee plaintiffe, and plead a trespasse of desseison doone you by cloth bréeches, so shall it be brought to a iurie, and tried by a verdict of twelue or fower and twenty. Tush, tush, quoth Ueluet bréeches, I neither like to be plaintiffe, nor yet allow of a iurie, for they may be partiall, and so condemne me in mine 
+                  •…
+               wne action, for the country swaines cannot value of my worth nor can mine honors come within the compasse of their base wits, because I am a stranger in this land, 
+                  •…
+                but heere latly ariued, they wil hold me as an vpstart, &amp; so lightly esteeme of my worthinesse, and for my aduersary is their countriman &amp; lesse chargeable, hee shall haue the lawe mitigated, if a iury of hinds or pesaunts should bee inpanelled, if antient Gentlemen, yeomen, or plaine ministers should bee of the quest I were sure to lose the day because they loath mee, in that I haue perswaded so many landlordes for the maintenance of my brauerie to raise their rentes. You seeke a knot in a rush (qd. I) you néed not doubt of that, for whome you distrust &amp; think not indifferent, him you vpon a cause manifested, challeng from your iurie, If your law allowe such large fauour (quoth Ueluet bréeches) I am content my title be tried by a iurie, and therefore let mine aduersary plead me Nul tort Nul disseison Cloth bréeches was content with this, and so they both agr
+                  •…
+                I should bee iud
+                  •…
+               e and iuror in this controuersie, wherevpon I wishe them to say for themselues what they could, that I might discours to the Jurie what reasons they alledged of their Tutes: then Ueluet bréeches began thus. I cannot but greeue that I should be thus outfacst with a carters weed onely fit for husbandry, seeing I am the originall of al honourable endeuors: to what end doth youth bestow their witts on law, phisicke, or Theology, were it not the ende they aime at, is the wearing of me and wining of preferment, Honor norisheth Art, and for the regarde of dignity, do learned men striue to exceede in their faculty. Impiger extremos currit Mercator ad indos, Per mare, per saxa, &amp;c. What driues the merchants to seeke forr
+                  •…
+               n martes, to venter their goods and hazard their liues? not, if still the end of their trauell were a paire of cloth bréeches, no, veluet, costly atire, curious and quaint apparell is the spur that prickes them forward to attempt such daunger. Doth not the Souldiors fight to be braue, the Lawyer study to
+
+countenance himselfe with cost, the artificer takes paines only for my sake that wearing me he may brag it amongst the best, what credite carries he now adaies that goes pind vp in a Cloth bréech, who will keepe him companie that thinkes well of himselfe, vnlesse he vse the simple slaue to make cleane his shoone, the worlds are chaungde and men are growen to more wit, and their mindes to aspire after more honorable thoughts, they were Dunces in Diebus illis, they had not the true vse of gentility, and therefore they lived meanely and died obscurely, but now mennes capacities are refined, time hath set a new edge on gentlemens humors, and they shew them as they should bee, not like glottons as their fathers did, in chines of béefe and almes to the poore, but in veluets, sattins, cloth of gold, pearle, yea pearle lace, which scarse Caligula wore on his birth day, and to this honourable humor haue I brought these gentlemen since I came from Italy. what is the end of seruice to a man but to countenance himselfe and credite his maister with braue suites, the scuruy tapsters and ostlers sex po puli fill pots, and rubbe horseheeles, to prancke themselues with my glory, alas were it not to wear me, why would so many apply them selues to extraordinary idlenes? Beside, I make fooles be reuerenst, and thought wise amongst the common sort, I am a seuere sensor to such as offend the law, prouided there be a penalty annexed that may bring in some profite, yea by me the chéefest part of the realme is gouerned, and therefore I refer my title to the verdit of any men of iudgment. To this mildly Cloth bréeches aunswered thus.
+            As I haue had alwayes that honest humor in mee to measure all estates by their vertues, not by their apparell, so did I neuer grudge at the brauery of any whome birth, time, place, or dignity made worthy of such costly ornaments, but if by the fauour of their Prince and their owne desarts they merited them, I helde both lawfull and commendable to answere their degrees in apparell, correspondent vnto their dignities, I am not so precise directly to inueigh against the vse of veluet, either in bréeches or in other sutes, nor will I haue men goelike Iohn Baptist, in coates of Camels hair. Let Princes haue their Diademes, and Caesar what is due to Caesar, let Noblemen goe as their byrth requires, and Gentlemen as they are borne or beare office, I speake in mine owne defence, for the antient Gentilitye and yeomanrie of Englande, and inueigh against none, but such malapart vpstart as raised vp from the Plough, or aduanced for their Italian deuises, or for their witlesse wealth, couet in brauerye to
+
+match, nay to excéed the greatest Noblemen in this land.
+            But leauing this digression mounster veluet bréeches, againe to the perticulars of your fond allegation. Whereas you affirme your selfe to be both original and final end of learning, alas proud princox you pearch a bow to hie, did all the philosophers beat their braines, and busie their wits to weare veluet bréeches? Why both at that time thou wert vnknowne, yea vnborne, and all excesse in apparell had in high contempt, and nowe in these daies all men of worth, are taught by reading, that excesse is a great sin: that pride is the first step to the downefall of shame. They study with Tully, that they may seem
+                  •…
+                borne for their countries as well as for themselues. The Deuine to iustice, the Phisition to discouer the secretes of Godes wonders, by working strange cures: to be bréefe, the end of all being, as to knowe God, And not as your worship good maister veluet bréeches wrest
+                  •…
+                to créep into acquaintance.
+            I will not denie, but there be as fantasticall fooles as your selfe, that perhaps are puft vp with such presuming thoughts, and ambitiously aime to trick themselues in your worships masking sutes, but while such climbe for great honours, they often fall to great shames. It may be therevpon you bring in Honos alit Artes, but I gesse your maistership neuer tried what true honour meant, that trusse it vpe within the compasse of a paire of veluet
+                  •…
+                bréeches, and place it in the arrogancy of the hart, no, no: say honor is idolatry, for they make 
+                  •…
+               ooles of themselues, and idols of their carcases: but he that valueth honour so, shall reade a lecture out of Apuleius golden asse, to learne him more wit. But now sir by your leaue, a blow with your next argument which is, that marchants hazard their goods and liues to be acquainted with your maistership. Indéed you are awrie for wise men frequent marts for profit not for pride, vnlesse it be some, that by wearing of veluet bréeches and apparell too high for their calling, haue prooued bankeroutes in their youth, and haue beene glad in their age to desire my acquaintance, and to trusse vp their tailes in homespun russet: whereas thou dost obiect the valour of hardy souldiers to grow for the desire of braue apparell. Tis false, and I knowe if any were present, they would proue vpon thy bones that thou wert a lier: for their countreys good, their princes seruice, the defence of their frends the hope of fauor is the finall ende of their resolutions: estéeming not
+
+only them but the worlds glory, fickle, transitory, &amp; inconstant. Shal I fetch from thine own country, weapons to wound thy selfe withall. What saist thou to Cincinnatus, was he not caled to be Dictator from the Plough, and after many victories, what did he iet vp and downe the court incosty garments and veluet bréeches? No, he dispised dignitie, contemned vaine glorie and pride, and returned againe to his quiet contented life in the country. How much did Caius Fabritius value their Numa pompilius, Sceuola, Scipio, Epaminōdas, Aristides, they held themselues wormes meate, and counted pride vanity, and yet thou art not ashamed to say, thou art the ende of soldiours worthy honor. I tell thée sawcy skipiack, it was a good and a blessed time here in England, when K. Stephen wore a pair of cloth breeches of a Noble a payre, and thought them passing costlye, then did hee count Westminster hal to litle to be his dining chamber &amp; his almes was not bare bones, in stead of broken meat but lusty chiues of beefe fel into the poore mens basket. Then charity flourished in the Court, and yoong Courtiers str
+                  •…
+               ue to excéede one an other in vertue, not in brauery: they rode not with fans to ward their faces from the wind, but with Burgant to resist the stroke of a Battleaxe, they could then better exhort a soldior to armor then court a lady with amorets, they caused the trumpette to sounde them pointes of warre, not Poets to write them wanton Eligies of loue: they soght after honorable fame, but hunted not after fading honor: which distinction by the way take thus. There be some that seeke honour, and soome are sought after by honor. Such vpstarts as fetch their pedigrée from their fathers auncient leather apron, and créepe into the court with great humility, redy at the first Basciare li piedi di la vostra signoria hauing gotten the countenance of some Nobleman, will strait be a kindred to Cadwaller, and sweare his great grand mother was one of the Burgesses of the parliamente house, will at last steale by degrees into some credite by their double diligence, and then winde some woorshipfull place as far as a hungry sow can smell a sir reuerence, and then with all their frends séeke day and night with coyne and countenance till they haue got it. Others there be whome honor it selfe séekes, and such be they whome vertue doth frame fit for that purpose, that rising by high desarts, as learning, or valour, merite more then eyther they looke for, or their prince hath anye ease conueniently to bestow on them. Such honor séekes &amp; they with a blushing conscience entertain him, be they
+
+neuer so high in fauour, yet they beg no office, as the shamelesse vp
+               
+                  •…
+               art doth, that hath a hungry eie to spie out, an impudent face to sue, and a flatering toong to intreat for some void place of worship, which litle belonged to them, if the prince intended to bestow offices for ver tue not fauour, Other M. veluet bréeches there be of your crue, that pinch their bellies to polish their backs, that kepe their mawes emptie, to fill their pursses that haue no shewe of gentility but a Ueluet slop, who by poling or selling of land that their fathers lefte will be
+               
+                  •…
+               owe all to buy an office about the court that they may be worshipfull, extorting from the poore, to raise vp their money that the base deceiuing companions haue laid out to haue an office of some countenance and credite; wherein they may haue of me better then themselues, be tear
+                  •…
+               ed by the name of worship. The last whome vertue pleadeth for, and neither siluer, gold, frendes, nor fauour aduanceth, be men of great worth, such as are thought of worship, and vn willingly entertaine ber, rather vouchsa
+                  •…
+               ng profered honor for their countryes cause, then for any proud opinion of hoped for preferment.
+            Blessed are such lan
+                  •…
+               es, whose officers are so placed, and where the Prince promoteth not for coine nor countenaunce, but for his worthy deseruing veitues. But leauing this by talke, me thought I heard you say Signior Ueluet br
+                  •…
+               ches, that you were the father of mechanicall Artes, and handicraftes were found out to fester your brauery. In faith goodman gosecape, you that are come from the startvps, &amp; therefor is called an vpstart, quasi start vp from clowted shoone, your lips hunge in your light, when you brought forth this Logike: for I hope there is none so simple, but knowes that handicraftes and occupations grewe for necessity, not pride: that mens inuentions waxed sharpe to profite the common wealth, not to pranke vppe themselues in brauery, I pray you when Tubalcane inuented tempring of mettals had bee Ueluet bréeches to weare? In sadnesse, where was your woorship when his brother found out the accordes and discordes of musiicke hiden in hell, and not yet thought on by the Deuill, to cast forth as a baite to bring many proud fooles to ruin
+                  •…
+               ?
+            Indeed I cannot denie, but your worship hath brought in deceipt as a iourney man into al companies, &amp; made that a subtil craft, which while I was holden in esteem was but a simple misterie: now euery trade hath his sleightes, to slubber vppe his worke to the eie, and to make it good to the sale, howesoeuer it proones in the wearinge,
+
+The shoomaker cares not if his shooes hold the bra
+                  •…
+               ing on: the tailor sowes with hot néedle and burnte thred. 
+                  〈◊〉
+                pride hath banisht conscience, and Ueluet bréeches honestie, and euery seruile drudge must ruffle in his silkes, or elie he is not suteable.
+            The world was not so A principio, for when veluet was worne but in kinges caps, then conscience was not a brome man in Bent streat but a Cour
+                  •…
+               ier, then the farmer was content 
+                  •…
+               is sonne should hold the plough, and liue as he had done before: Beggars then feared to aspire, and the higher sortes scorned to enu
+                  •…
+               e. Now euery lowt must haue his sonne a Courtnoll, and those dunghill drudges waxe so proud, that they wil presume to wear on their feet, what kings haue worne on their heades. A clownes sonne must be clapt in a Ueluet pantophle, and a veluet bréech, though yt presumptious a
+                  •…
+               se be drownd in the Mercers beoke, &amp; make a conuey of all his lands to the vsurer for commodities: yea the fop must goe like a gallant for a while, although at last in his age he
+                  •…
+                begge. But indéede, such young youths when the broker hath blest them with sainte Needams crosse, fall then to priuy liftes and cosen
+                  •…
+               ages, and when their credit is vtterly crackt, they practise some bad shift, and so come to a shamefull ende
+            Lastly, whereas thou saist thou art a seuere sensour to punish sins, as austere as Cato to correct vice, of truth I hold thée so in penal statutes when thou hast begged the forfeite of the Prince: but such correction is open extortion and oppression of the poore, nor can I compare it better M veluet bréech, then to the wolfe cha
+                  •…
+               ising the lambe for disturbing their fountaine, or the Deuill casting out Deuilles, through the power of Belsebab, and thus much curteous sir I haue said, to display the follies of mine aduersary, and to she we the right of mine owne intrest. Whye then quoth I, if you haue both saide, it resteth but that wee hadde some to empanell vpon a 
+                  •…
+               ury, and then no doubt but the verdict would soone bee giuen on one side. As thus I was talking to them, I might sée comming downe the bill a brane dapper Dicke, quaintly attired in veluet and Sattin, and a cloake of cloth rash, with a cambricke ruffe as smoothly 
+                  •…
+               et, and he as ne
+                  •…
+               ly spūged, as if he had b
+                  •…
+               n a bridgrome, only I gest by his pace a farre off he should be a Tailor, his head was holden vppe so pert, and his legges shackle hamd, as if his knees had beene laced to his thighes with points. Comming more neere indéed I 
+                  〈◊〉
+                a 
+                  •…
+               ailors m
+                  •…
+               rice pike on his brest, a spanish needle, and then I 
+                  〈◊〉
+                my salutations,
+
+not to his sutes but to his trade, and incountred him by a thread bare courtesie, as if I had not knowne him, and asked him of what accupation he was? A Taylor, quoth he, marry then my freend, quoth I, you are the more welcome, for beere is a greate quarrell growne betwixt veluet bréeches and cloth bréeches, for their prerogatiue in England: the matter is growne to an issue, ther must a Iury be empannelied, and I would desire and intreat you to be one of the quest.
+            Not so, quoth cloth bréeches I challenge him. And why quoth I? What reason haue you, doth he not make them both? yes, quoth hee, but his gaines is not a like: alas, by me hee getteth small, onelye hee is paid for his workemanship, vnlesse by misfortune his shieres slipp aw
+                  •…
+               y, and then his vailes is but a shred of homespunne cloth: where as in makinge of veluet bréeches, where there is required silcke lace, cloth of golde, of siluer, and such costly stuffe, to welte, garde, whippstitch, edge, face, and draw out, that the vales of one veluet bréeche, is more then twenty payre of mine. I hope there is no Taylor so precise but he can play the cooke and licke his owne fingers: though he looke vp to Heauen, yet hee can cast large shreds of such rich stuffe into hell vnder his shop boord. Besides, hee settes downe like the clarke of the Checke a large bill of reckoninges, which for hee kéepes longe in hys pocket he so powders for stinking, that the yoong vpstart that néedes it, feels it salt in his stomack a month after. Beside sir veluet bréeches hath aduan
+                  •…
+               t him: for whereas in my time he was counted but goodman Taylor, now hee is growne since veluet bréeches came in, to bee called a marchant or Gentleman Marchant Taylor, geuinge armes and the holy Lambe in his creast, where before hee had no other cognisance, but a plaine spanish néedle with a welsch cricket on the top: 
+                  •…
+               ith then his gaine is so greate and his honour so aduaunst by veluet bréeches. I will not trust his conscience, nor shall he come vppon my Iury.
+            Indéed you haue some reason quoth I, but perhaps the Tailor doth this vpon méer deuotion to punish pride, and hauing no other authority nor meane, thinkes it best to pinche them by the purse, and make them pay well, as to aske twise so much silke lace and other stuffe as would suffice, and yet to ouer reach my yong ma
+                  •…
+               ster with a bill of rekoning that will make him scratche where it itcheth not. Heerein I hold the Taylor for a necessary member to teach yoonge nouices the way to wéeping crosse: that when they haue wasted what their 
+                  〈◊〉
+               
+               
+left thē by pride, they may grow sparing &amp; humble, by inferred pouertie: &amp; by this reason, the Tailor plaies Gods part: 
+                  •…
+               e 
+                  •…
+               ralteth the poore and pulleth downe the proud: For of a wealthy Esquiers sonne, hée makes a thréedbare beggar: and of a scornefull Tailor, he sets by an vpstart scaruy Gentleman. Yet seeing you haue made a reasonable challeng to him, the Tailor shall be none of the quest.
+            As I bad him stand by, there was comming alongst the valley towardes vs, square set fellow well fed and as briskly apparelled, in a blacke taffaty dublet and a spruce leather ierkin, with Christall buttons: A cloake facst afore with veluet, and a couentry cap of the 
+                  •…
+               nest wooll, his face something Ru
+                  •…
+               y blush, Cherry cheeked, like a shreed of scarlet or a little darker, like the lées of old claret wine: a nose autem nose purpled pretiously with pearle and stone, like a counterseit worke, and betwéene the filthy reumicast of his bludshot ten snowt, there appeared smal holes, whereat wormes heads peeped as if they meant by their appearance to preach and shewe the antientie and antiquity of his house.
+            This fiery facst churle had vpon his fingers as many goldrings, as would furnish a gold smiths shop or beséeme a pandor of long profession to weare, wondring what companion this should be. I inquired of what occupation he was: marry sir quoth hee a Broker, why doo you aske, haue you any pawnes at my house? No quoth I, nor by the helpe of God neuer wil haue: but the reason is to haue you vppon a Iury. At this word before I could enter my discourse vnto him veluet bréeches start vp, and swore hee should bee none of the quest, he would challeng him, and whye quoth I, what knowe you by him? This base churle is one of the moathes of the common wealth, he is the spoile of yoong Gentlemen a bloud sucker of the poore, as thirsty as a horsse leach that will neuer leaue drinking while hee burst, a knaue that hath intrest in the leases of forty bawdy houses a receiuer for lifts, and a dishonourable supportet of cutpurses, to conclude, hee was gotten by an Incubus a he Deuill, &amp; brought forth by an ouerworne refuse, that had spent her youth vnder the ruines of Bowbies Barne.
+            O monstrous inuectiue, quoth I, what reason haue you to be thus bitter against him? Oh the villane, quoth he, is the Deuills factor, sent from hell to torment yong Gentlemen vpon earth: he hath fetcht me ouer in his time, onely in pawnes, in ten thousand pound in gold.
+
+Suppose as Gentlemen through their liberall mindes may want that I néed, money: let me come to him with a pawne worth tenne pound, he stil not lend vpon it aboue thrée pound, and he will hane a bill of sale and twelue pence in the pound for euery month, so that it comes to 
+                  •…
+               ixteene pence, sith the bill must monthly be renewed, and if you breake but your day, set downe in the bill of sale, your pawne is loste, as full bought and sold, you turnd out of your goods and hee an vnconscio
+                  •…
+               able gainer. Suppose the best, you keepe your day, yet paying sixtene pense a month for twēty shillings, you pay as good for the lone as fower score in the hundred, is not this monstrous exacting vpon Gentlemen. Beside the knaue wil be diligently attending aud waiting at dicing houses where we be at plaie, and there he is ready to lend the loaser money vppon rings, and chaines, apparell or any other good pawne, but the poore Gentleman paies so deere, for the lauender it is laid vp in, that if it lie long at a brokers house he séemes to buy 
+                  •…
+               is apparell twise: nay this worme eaten wretch hath deeper pytfalls yet to intrap youth in, for hee being acquainted with a yoong Gentleman of 
+                  〈◊〉
+                
+               
+                  •…
+               uing, in issue of good parents or assured possibillity, sooths him in his monstrous expences &amp; sayes he carries the minde of a Gentleman, promising if he want he shall not lacke for a hundred pound or two, if the Gentleman need, then hath my broker an vsurer at hand as it as himselfe, and he brings the money, but they tie the poore soule in such Darbies bandes, what with receiuing il commodities and forfcitures vppon the bande, that they dub him sir Iohn had lande before they leaue him, and 
+                  •…
+               are like wolues the poore nouices welth betwi
+                  •…
+               t them as a pray, he is (sir) to be breefs a bowsie bawdy miser, good for none but himselfe and his trugge, a carle that hath a filthy carkasse without a conscience, a body of a man wherein an infernall spirit in steed of a soule dooth inhabit, the scum of the seuen deadly sinnes, an enimie to all good mindes, a deuourer of yoong Gentlemen, and to conclude my mortall enimis and therefore admit of my chaleng, and let him be none of the iurie. Truly (qd. Cloth breeches) and I am willing he should be discarded too, for were not bad brokers (I wil not condemn al) there would be lesse filching and fewer theeues, for they receiue all is brought them, and buy that for a Crowne that is worth twentie shillings, desire of gaine blinds their conscience, and they care not how it be come by, so they buy it cheaps. Beside they extorte vppon the poore that are inforced
+
+through extreame want to pawne their cloathes and housholde stuffs, their pewter and brasse, and if the poore soules that labour hard 
+                  •…
+               isse but a day, the base minded broker takes the forfeite without remorse or pitty, it was not so in Diebus illis, but thou proud vpstart Ueluetbréeches hast learnd all Englishmen their villany, and all to mainetaine thy brauery: yea, I haue knowne of late when a poore woman laid a siluer thimble that was sent her from her friends for a tokē to pawn for six pence, &amp; the broker made her pay a halfpeny a wéek for it, which comes to two shillings a yere, for six pence: sith then hys conscience is so bad, let him be shuffled out amongst the knaues for a discarding card, Content qd. I, and bad the broker stand backe, when there were euen at my heeles three in a cluster p
+                  •…
+               rt youthes all, and neatly tired, I questioned them what they were, and the one sayd hee was a barber, the other a surgion, and the third an Apoticary. How like you of these (qd, I) shall they be of your iury? Of the iury, quoth Cloth-bréeches, neuer a one by my consent, for I challenge them all: your reason qd. I, and then you shall haue my verdict. Mary (qd Cloth bréeches) first to the barber he cannot be but a partiall man on veluet bréeches side, fith he gets more by one time dressinge of him, than by ten times dressing of me, I come plaine to be polde, and to haue my beard cut, and pay him two pence, veluett breeches he sittes downe in the chaire wrapt in fine cloathes, as though the barber were about to make him a footcloth for the vicar of saint fooles, thē begins he to take his sissars in his hand and his combe, and so to snap with them as if he meant to giue a warning to all the lice in his nitt
+                  •…
+                lockes for to prepare themselues, for the day of their d
+                  •…
+               struction was at hande, then comes he out with his fustian elequence &amp; making a low conge, saith, Sir will you haue your wor haire cut after the Italian maner, shorte and round, and then frounst with the curling yrons, to make it looke like a halfe moone in a mist? or like a spanyard long at the eares, and curled like to the two endes of an olde cast p
+                  •…
+               rriwig, or will you bee Frenchefied with a loue locke downe to your shoulders, wherein you may weare your mistresse fauour? the English cut is base and gentlemen scorne it, nouelty is daintye, speaks the woord sir, my sissars are ready to execute your worships wil. His head being once drest, which requires in combing and rubbing some t
+                  •…
+               o howers, hee comes to the bason, then beeing curiously washt with no weorse then a camphire bal, he descends as low as his berd, and asketh whether he please to be
+
+shauen or no, whether he will haue his peak cut short &amp; sharpe, amiable like an inamorato or broad pendāt like a spade, to be terrible like a warrior &amp; a Soldado, whether he wil haue his crates cut low like a Iuniperbush, or his suberches takē away with a rasor, if it be his plea sure to haue his appendices primd, or his mustachios fostered to turn about his eares like y• branches of a vine, or cut down to ye lip with ye Italian 
+                  •…
+               a
+                  •…
+               h, to make him loke like a halfe faced bauby in bras. These quaint tearmes Barber you g
+                  •…
+               ee
+                  •…
+                maister veluet breeches withall, &amp; at euery word a snap with your 
+                  •…
+               ors, and a cring with your knée, whereas when you come to poore Clothbreeches you either cutte his beard at your owne pleasure, or else in disdaine aske him if he wil be trimd with Christs cut, round like the halfe of a holland cheese, mocking both Christ and vs: for this your knauerie my wil is you shall be none of the 
+                  •…
+               urie. For you maister surgion, the statutes of England exempts you from being of any quest, and beside, alas, I seldome fall into your hands as being quiet &amp; making no brawls to haue wounds, as swartruiting veluetbreeches dooth, neither doe I frequent whorehouses to catch the Marbles, and soe to grow your patient, I knowe you not and therefore I appeale to the statute, you shal haue nothing to doe with my matter. And for you M. Apoticarie, alas, I looke not once in seuen yeare into your shop, without it be to buy a peniworth of wormeseed to giue my child to drinke, or a little triacle to driue out the measels, or perhaps some dregs and powders to make my sicke horsse a drench withall, but for my selfe, if I be il at cafe, I take Kitchin phisicke, I make my wife my Doctor, and my garden my Apoticaries shop, whereas queasie maister veluet breeches cannot haue a fart awrye, but he must haue his purgations pils, and glisters, or euacute by electuaries, he must if the lest spot of morphue come on his face, haue his oyle of Tartar, his Lac virginis, his camphire dissolued in veriuice, to make the foole as faire forsooth, as if he were to playe Maidmarian in a Maygame or Moris-daunce, tush he cannot disgest his meate without cōserues, nor end his meale without suckats, nor (shall I speake plainely) pleas the trug his mistres without he gos to the Apothecaries, for Eringion, Oleum formicarum alatarum &amp; aqua mirabilis of ten pound a pint, if mast veluet bréeches with drinking these drugs hap to haue a stinking breath, then forseeth the Apoticarie must play the peri
+                  •…
+                to make it swéet, nay what is it about him that he blameth not nature for framing, aud formeth it a new by
+
+art, and in all this wh
+                  •…
+                but mounster the Apoticarie, therefore good sir (quot he) séeing you haue taken vppon you to be trior for the challenges, let those thrée as partial companions be packing. Why (qd. I) séeing you haue yeelded suche reason of refusall, let them stand by: presently looking about for more, comes stalking down an aged grand sir in a blacke veluet coat and a blacke cloath gowne welted and faced, and after him as I suppose, foure seruingmen, the most il fauoured knaues me thought that euer I saw, one of them had on a buffe leather ierkin all greasie before with the droppings of b
+                  •…
+               ere that fell from hi
+                  •…
+                beard, and by his side a skeine like a Bruers boung knife, and muffled he was in a cloake turnd ouer his nose, as though he had beene ashamde to shew his face. The second had a belly like a buckingtub, &amp; a thréedbare blacke coat vnbottond before vpon the brest, whereon the map of drunkennesse was drawne, with the bawdy and bowsie excrements that dropt from his filthy leaking mouth. The third was a long leane old slauering slangrell with a brasell staffe in the one hand, and a whipcord in the other, so pourblind that hee had like to haue stumbled vpon the company before he saw them: The fourth was a fat chuffe, with a sower looke, in a blacke cloke faced with taffata, and by his side a great side pouch like a faulkner, for their faces all four séemed to be bretheren, they were so bumbasted with the flockes of strong beers, and lined with the lees of old sacke, that they lookte like foure blowne bladers painted ouer with redde oaker, or washt ouer with the suds of an old stale die. All these, as well the maister as the following mates would haue past away, but that I stept before them &amp; inquired first of the formost what hee was, Mary qd. he, a Lawier, then sir qd. I, we haue a matter in controuersie that requireth counsaile, &amp; you are the more welcome. What is it qd. he, Mary said I, whether Clothbréeches or veluetbréeches are of more worth, and which of them hath the best title to bee resident in England? At this the lawier smild, and veluet bréeches stepping forth tooke acquaintance of him, and commending his honestie, said ther could not be a man of better indifferency of the iurie: when cloth bréeches stepping in swore hee maruelled bee was not as well as the Surgion exempted by act of parliament from being of any quest, sith as the surgion was without pittie, so hé was without conscience, and therevpon inferd his challenge, saieng the Lawyer was neuer frend to clothbréeches, for when lowlinesse, neighbourhood, and hospitality
+
+liued in England, Westminster hall was a dyning chamber, not a den of controuersies, when the king himselfe was content to keepe his S. Georges day in a plaine paire of kersie hose: when the duke, erle, lord, knight, gentleman and esquire, aimed at vertue, not pride: and wore such breeches as was spun in his house, then the lawyer was a simple man, and in the highest degree but a bare scrinener, except Iudges of the land, which tooke in hand serious matters, as treasons, murthers felons and such capitall offences, but sildome was there any Pleas put in before that proud vpstart veluet breeches, for his maintenance inuented strange controuersies, and since he begā to dominier in England, he hath buzd such a proud, busie, couetous &amp; incroaching humor into euery mans head that lawiers are growne to be one of the chéese lims of the common wealth, for they do now adaies de lana caprina rixare, goe to lawe if a hen do but scrape in his Oarchard: but howsoeuer right be, might carries away the verdict: if a poore man sue a Gentleman, why hee shoots vp to the skie, and the arrow fals on his own head, howsoeur the cause goe the weakest is thrust to the wall, lawiers are troubled with the heat of the liuer, which makes the palmes of their hands so hot that they cānot be cold vnlesse they be rubd with the oyle of angels, but the poore mā that giues but his bare fee, or perhaps pleads in forma pauperes, hee hunteth for hares with a taber, &amp; gropeth in the darke to find a needle in a botle of hay, tush these lawiers haue such delatory &amp; foren pleas, such dormers, such quibs &amp; quiddits, that beggering their clients they purchase to themselues whole lordships, it booteth not men to discourse their little cōscience, &amp; great exhortatiō, only suffice they be not so rich as they be bad, &amp; yet they be but to welthy. I inueigh not against law nor honest lawiers, for there be some well qualified, but against extorting Ambodexters y• wring the poore, &amp; because I know not whether this be such a one or no, I challenge him not to be of my Iury. Why thē, qd I his worship may depart, &amp; thē I questioned what he in the buffe ierkin was, mary quoth he, I am a serieant, he had no sooner said so but veluet breeches leapt back, and drawing his rapier, swore hee did not only challenge him for his iury, but protested if he stird one foot towards him, hee would make him eate a peece of his po
+                  •…
+               ard, And what is the reason qd. I, that there is such mortall hatred betwixt you and th
+                  •…
+                serieant? Oh sir qd. veluet breeches, search him, and I warrant you the knaue hath precept vpon precept to arrest mee, hath worne his
+
+mace smooth, with onely clapping it vpon my shoulder hee hath had mee vnder coram so often, oh that reprobate is the 
+                  〈◊〉
+               , executioner to bring such Gentlemen to Limbo, as hee hath ouerthrowne with his 
+                  •…
+               ase brocage and bad commodities: and as you s
+                  •…
+                him a fat knaue with a foggie face, wherein a cup of old sack hath set a seale, to marke the bowsie drunkard to die of the dropsy, so his conscience is consumed, and his hart ro
+                  •…
+                of all remorse and pitye, that for mony he wil betray his owne father, for wil a cormorant but fée him to arrest a young Gentleman, the rakehel wil be so eager to catch him, as a dogge to take a beare by the eares in Parish garden, and when he hath laid hold vpō him, he vseth him as courteously as a butchers c
+                  •…
+               r would do an oxe cheeck, when hee is hungry, if he see the Gentleman hath mony in his pursse, then straight with a cap and knée he carries him to the tauerne, and bids him send for some of his friends to bale him, but first he coue
+                  •…
+               āts to haue some brase of angels for his paines, and besides hee calsin for wine as grée
+                  •…
+               ily, as if the knaues mother had been brocht against a hogshead when hee was begotten, but suppose the Gentleman wants pence, he wil either haue a pawne or else drige him to the counter, without respect of manhood or honesty, I should spend the wh
+                  •…
+               le day with displaying his villanies, therefore breefly let ths suffice, hee was neuer made by the consent of God, but his 
+                  〈◊〉
+                carkase was framd by the Diuell, of the rotten carian of a woolfe, and his soule of an 
+                  〈◊〉
+                damned ghost turnd out of hell, into his body to do monstrous wickednes again vpon y• earth, so that he shal be none of my iury, neither shall hee come nearer mee then the length of my rapier will suffer 
+                  •…
+               im. In deede quoth Cloth-bréeches generally serieants bee bad, but there bee amongst them some honest men, that will do their duties with lawfull fauour: for to say truth, if serieants were not, how should men come by their debts (marry they are so cruel in their office, that if they arrest a poore man, they will not suffer him (if hee hath no mony) to stay a quarter of an houre to talke with his creditor, although perhaps at the méeting they might take composition, but only to the counter with him vnles he will lay his pe
+                  •…
+               vter, brasse, couerlets, sherts, or such housholdstuffe, to them for pawne of paiment of some coine for their staying: therfore let him depart out of the place, for his roome is better then his company.
+            Well then quoth I, what say you to these three, and with that I questioned their names, the one said hee was a Sumner, the other
+
+a Gaoler, and the third an Infourmer: Iesus blesse me (quoth Cloth breeches) what a Ging was heere gathered together, no doubt 
+                  •…
+               elis is broke loose, and the Diuel meanes to kéep holiday, I make challenge against them al, as against worse men than those that gaue euidence against Christ: for the Sumner it bootes me to say little more against him, then Chaucer did in his Canturbury tales, who said hee was a knaue, a briber &amp; a bawd, but leauing that authority although it bee authenticall, yet thus much I can say of my selfe, that these drunken drosy sonnes go a tooting abroad (as they themselues term it) which is to heare if any man hath got his maid with child or plaies the good felow with his neighbours wife, if hee finde a hole in any mans coate that is of wealth, then he hath his peremtory scitation ready to scite him vnto the Archdeacons or officials court, there to apeere &amp; abide the shame &amp; penalty of the lawe, the man perhaps in good credit with his neighbours, loath to bring his name in question, greseth the sumner in the fist, and then be wipes him out of the booke, and suffer him to get twenty with child, so he kéepe him warme in the hand: he hath a saying to wanton wiues, &amp; they are his good dames, and as long as they feede him with cheese, bacon, capons &amp; such od reuersiōs, they are honest, and be they neuer so bad, he swears to the official, complaints are made vpon enuy, and the women of good behauiour: tush what bawdry is it he wil not suffer, so he may haue mony and good cheere, and if hee like the wench well a snatch himselfe, for they know all the w
+                  •…
+               es in a country, &amp; are as lecherous companions as may be, to be breefe, the sumner liues vpon sins of people, &amp; out of harlatry gets he all his commodity. As for the Gaoler, although I haue béene little troubled in prison to haue experiēce of his knauery, yet I haue heard the poore prisoners complaine how cruell they bee to them, extorting with extraordinary fees, selling a duble curtall (as they call it) with a duble iug of beere for 2 pence, which containes not aboue a pint &amp; a halfe: let a poore mā be arrested into one of the counters, though hee but set his foot in thē but halfe an hour, he shal be almost at an āgels charge, what with garnish, crossing and wiping out of the booke, turning the key, paying the chamberline, feeing for his Iury, and twenty such extortions inuented by themselues, and not allowed by any statute, God bl
+                  •…
+               s me gaoler from your henhouses, as I wil ke
+                  •…
+               pe you from comming in my quest, and to you M. Infourmer, you that looke like a ci
+                  •…
+               l Citizen, or some handsome petty-fogger of the law:
+
+although your crim
+                  •…
+               on nose 
+                  •…
+               ewraies you can sup off a coole cup of sack without a
+                  •…
+               y thewing, yet haue you as much slie knauery in your side pouch there, as would breed the confusion of forty honest men. It may bee sir you maruell why I exclaime against the Informer sith hee is a most necessary member in the commonwealth, and is highly to the Princes aduauntage for the benifit of pennall statutes and other abuses, whereof hee gineth speciall intelligence? To wipe out this doubt, I speake not against the Office but the Officer, against such as abuse lawe when they should vse it, and such a one I gesse this fellow to bée, by the carnation tincture of his ruby nose. Therefore let vs searth his bagge, and sée what trash you shall finde in it: with that although the Infourmer were very loath, yet we
+                  •…
+                pluckt eut the stuffing of his pouch, and in it was found a hundred &amp; od writtes: Whereat I woundred: and Clothbréeches smiling bad mee read the Labels, and the parties names, and then 
+                  •…
+               xamine the Infourmer how many of them hee knewe, and wherein they had offended. I followed his counsaile, and of all he knewe but thrée, neither could hee tel what they had done a miss
+                  •…
+                to bee arrested, and brought in question.
+            Clothbréeches séeing mee stand in a mase, began thus to resolue mee in my doubt, perhaps, quoth hee, you maruell, why the Infourmer hath all these writtes, and knowes neither the parties nor can obi
+                  •…
+               t any offence to them? To this I answere: that it béeing a long vacation, hee learned in the rowle all those mens names, and that they were men of indifferent wealth: Now meanes hee to go abroad and search them out and arrest them, and though they knewe not wherein, or for what cause they should bée troubled, yet rather then they will come vp to London and spend their mony, they will bestow sóme od Angell vpon maister Infourmer, and so sit at home in qu
+                  •…
+               et. But suppose some bee so stuborn
+                  •…
+                as to stand to the triall, yet can this cunning knaue declarea Tamquam against them, so that though they bee cleered, yet can they haue no recompence at all, for that hee 
+                  •…
+               oth it in the courts behalfe. I will not vnfold his villanies, but hee is an abuser of good lawes and a very knaue, and so let him be, with his fellowes. I both wondred &amp; laught to heare Clothbréeches make this discourse, when I sawe two in y• vally together by the 
+                  •…
+               ares, the one in 
+                  •…
+               ther, the other as black as the Diuell: I stept to them to part the 
+                  〈◊〉
+               , and questioned what they were, and where fore they
+
+braw
+                  •…
+                
+               
+                  •…
+                Marry quoth hee, that l
+                  •…
+               kt like Lucifer, though I am black, I am not the Diuell, but indeed a Colier of Croiden, and one s
+                  •…
+               r that haue solde many a man a false sack of coales, that both wanted measure, and was halfe full of dust and drosse. Indeed I haue been a Lieger in my time in London, and haue plaied many mad prancks, for which cause, you may apparantly see I am made a curtall, for the Pillory (in the sight of a greàt many good and sufficient witnesses) hath eaten off both my eares, and now sir this Ropemaker 
+                  〈◊〉
+                mee héere with his halters, I gesse him to bee come euillspirit, that in the likenesse of a man, would since I haue past the Pillory, perswade me to hange my selfe for my old offences, and therefore sith I cannot blesse mee from him in Nomine patris, I lay Spiritus Sanctus about his shoulders with a good cra
+                  •…
+               -tree cudgell, that hee may get out of my company.
+            The Ropemaker replied, that honestly iourneying by the way, he acquainted himselfe with the Collier, and for no other cause pretended. Honest with the Diuell, quoth the Collier, how can hee 
+                  〈◊〉
+                honest, whose mother I gesse was a witch, for I haue heard them say, that witches say their praiers backward, and so doth the Ropemaker yearne his liuing by going backward, &amp; the knaues cheefe liuing is by making fatall instruments, as halters and ropes, which diuers desperate men hang themselues with. Well quoth I, what say you to these, shall they bee on the Iury? 
+                  〈◊〉
+                said nothing, but Clothbreeches said, in the Ropemaker hee found no great falsehood in him, ther
+                  •…
+               fore hee was willing hee should bée one, but for the Collier hee thought it necessary, that as he came so hee should depart, so then I had the Ropemaker stand by till more came, which was not long, for there came thrée in a cluster. As soone as they druenie, I spied one, a fat churle with a side russet coate to his knée, and his hands all to tanned with shifting his Ouse, yet would I not take not
+                  •…
+               re what they were, they but questioned with them of their seuerall occupations. Marry quoth the first, I am a tanner, the second a shomaker, and the third a Currier: then turning to the Plaintife and Defendant, I asked them if they would allow of these parties. No by my faith quoth Clothbreeches, I make challenge to them all, and I will yéeld reasons of import against them: and first to you maister Tanner, are you a man worthy to bee of a Iury, when your conscience cares not to wrong the whole commonwealth, you respect not publike
+
+cōmodity, but priuate gaines: not to benefit your neighbour, but for to make the proude princo
+                  •…
+               e your sonne an vpstart Gentleman, and because you would marry your Daughter, at the least to an Esquire that shee may if it be possible, be a Gentlewoman, &amp; how comes this to passe? by your
+                  •…
+               tanne-fats for sooth: for, whereas by the anciente lawes and statutes of England, you should let a hide lye in the Ouse at the least nine moneths, you can make good leather of it before three moneths, you haue your Dooues doong, your Marle, your Ashen barke and a thousande things more, to bring on your Leather apace, that it is so badly Tanned, that when it comes to the wearinge, then it 
+                  〈◊〉
+                a way like a péece of brown paper: and whereas your backs of all other should be the best tanned, you bring them so full of hornes to the market, that did you not grease the sealers of Leaden Hall throughly in the fist, they should neuer bee sealed, but turned away and made 
+                  •…
+               orfiet by the statute. I cannot at large lay open your subtill practises, to beguile the poore communalty with bad leather. But let this suffice, you leaue no villany vnsought, to bring the block head your sonne to go before the Clowne his father, trimly trickt vp in a paire of veluet breeches.
+            Now maister Currier to your coosenage, you cannot bee content only to burne the leather you dresse for sauit of liquor, because you would make the shoomaker pay well and you put in little stuffe: and besides, when as in backs you should only put in Tallow hard and good, you put in softe kitchen stuffe mixt, and so to make the good and well tanned Leather by your villany to 
+                  •…
+               léet and wast away, but also you grow to bee an extorting knaue, and a forestaller of the market, for you will buy leather, sides, backs and Calue skines, and sell them to the poore shoomakers at an vnreasonable rate, by your false retaylinge, getting infinite goods by that excessiue price: both vndoing the poore shoomaker, and causing vs that we pay extreamely for shooes. For if the Currier bought not Leather by the whole of the Tanner, the shoomaker might haue it at a more reasonable price: but the shoomaker being poore, is not perhaps able to deale with a dicker of hides nor perhaps with a couple of backs, and the Tanner will not trust him: then the extorting and coosening Currier comes vp with this, I will lend you for a day and so pincheth him, that hee is scharce able to finde his children brea
+                  •…
+               .
+            But well hath the Prince and the honorable Lords of the priuy
+
+counsaile prouided by an act of Parliament, that no Currier shall buy leather either backs or hides of the Tanner, so to bridle the extorting and forestalling coosenage, but craftillyer and subteller hath the knaue Currier crosbitten the statute, in that he deales thus with the Tanner, hee makes him hold his leather vnreasonably to the shoomaker, and so when hee cannot sell it, hee laies it vp in the Curriers house, vnder a colour whereas indeed hee hath sold it him.
+            Suppose this shift bee spied and preuented: then compoundeth hee with some knaue shoomaker, some base rakehell without a conscience, that neither respecteth God, the commonwealth, nor his company, and forsooth hee is halfe with the Currier, who letteth him haue some hundred marke to lay out for leather euery moneth, whereas hee spendes not in his shop a hundred markes worth in a yeare: so the shoomaker buies it to abuse the statute for the Currier, &amp; the Currier by that meanes vndooeth the other shoomakers: thus two crafty knaues are met and they neede no broker.
+            Now to you gentle craft, you masse shoomakers: you can put in the inner sole, of thin Calues skin, when as the shoo is a neates leather shoo, which you know is cleane contrary both to conscience and the statute. Beside, you wil ioine a neates leather vampy to a calues leather heele: is not héere good stuffe maister shoomaker? Well for your knauery, you shall haue those cursses which belongs vnto your craft: you shall bee light footed to trauell far, light witted vpon euery small occation to giue your maister the bag, you shall bee most of you vnthrifts, and almost all perfect goodfellowes. Beside I remember a mery iest how Mercury brought you to a dangerous disease, for he requested a boone for you, which fell out to your great disaduantage, and to recreate vs heere a little gentle craft, what fell to your trade by that winged God. As it happened on a time that Iupiter &amp; Mercury trauiling together vpon earth, Mercury was wonderfully hungry and had no mony in his pursse to buy him any foode, and at last to his great comfort hee spied where a company of Tailors were at Dinner with butred pease, eating their pease with their néedles pointes one by one: Mercury came to them and asked them his almes, they proudly had him sit downe and do as hee saw they did, and with that deliuered him a needle. The poore God beeing passing hungry, could not content his mawe with eating one by one, but turned the eie of his néedle and eate two or thrée together: which
+
+the Taylors séeing, they start vppe and said: what fellow, a shoue
+                  •…
+                and a spade, to buttred pease, hast thou no more manners, get out of 
+                  •…
+               ur company, and so they sent him packing with many stroakes.
+            
+               Mercury comming back, Iupiter demanded of him what newes: and hee told him how chorlishly hee was vsed amongst the Tailors, well, wandring on further, Mercury esp
+                  •…
+               ed where a company of sh
+                  •…
+               
+               makers were at Dinner with powdered béefe and brewesse, going to them before 
+                  •…
+               et could aske them any almes, they said, welcome good fellow, what is thy stomack vp, wilt thou do as wée do, and tast of beefe, Mercury thanked them and sat downe and eate his belly full, and dranke well of double béere, and when hee had done went hom
+                  •…
+                to his maister.
+            Assoone as hee came Iupiter asked him what newes, and hee said: I haue lighted amongst a crue of shoomakers, the best fellowes that euer I met withall, they haue frankely sed mée without grudging, and therefore graunt mee a boone for them.
+            Aske what thou wilt Mercury, quoth hee, and it shall bee doone, why then quoth hee, graunt that for this good turne they haue done mee, they may euer spend a groat afore they can yearne two pence. It shall bee graunted quoth hee.
+            
+               Mercury assoone as Iupiter had said the word, bee bethought himselfe and said: Nay but that they may yearne a groat afore they spend two pence, for my tongue slipt at the first, well, Mercury quoth hee, it cannot bee recald the first wish must stand, and hereof by Mercuris boone it grew, that all of the gentle craft are such good fellowes &amp; spendethriftes. But howsoeuer, none of those thrée, neither Shoomaker, Lanner, nor Currier, shal be accepted to be of the Iury.
+            As they went away with fleas in their eares, beeing thus taunted by Clothbreeches, we might sée where there came a troupe of ancient Gentlemen, with their seruingmen attending vpon them. The foremost was a great old man, with a white beard al in russet, and a fair black cloake on his back, &amp; attending on him hee had some fine men, their cognisance as I remember was a Peacock without a taile, the other two that accompanied him, séemed meaner then himselfe. But yet Gentlemen of good worship, whereupon I went towards them &amp; saluted them, &amp; was so bould as to question what they were and of their bus
+                  •…
+               nes. The most ancientest answered hee was a knight, and those two his neighbors, the one anesquire, the other a gentlemā and
+
+that they haue no vrgent affaiers, but only to walke abroad to take the fresh aire. Then did I shew them both Clothbreeches, and veluet bréeches, &amp; told them the controuersy, &amp; desired their aide to be vpon the Iury. They smiling answered, they were content, &amp; so did Cl
+                  •…
+               thbreeches séem to reioice, that such honest ancient English gentlemen should be triers of his title. But veluetbreeches storming, slept in &amp; made challenge to them al. I demanded the reason why he should refuse Gentlemen of so good calling? And he made me this answere.
+            Why you may gesse the inward minde by the outward apparrell, &amp; see how he is adicted by the homely robes he is suted in. Why this knight is mortall enemy to pride &amp; so to me, he regardeth hospitality &amp; aimeth at honor with releeuing the poore, you may see although his landes &amp; reuenewes be great, &amp; he able to maintaine himselfe in great brauery, yet he is content with home spun cloth, &amp; scorneth the pride that is vsed now a dates amongst young vpstarts, he holdeth not the worth of his Gentry to be &amp; consi
+                  •…
+               t in veluet-breeches, but valeweth true 
+                  •…
+               ame by the report of the common sort, who praise him for his vertue, Iustice, liberality, housekéeping &amp; almesdéedes, Vox populi vox Dei, his tennants &amp; farmers would if it might bee possible, make him immortall with their praiers &amp; praises. Be raiseth no rent, racketh no lands, taketh no incombs, imposeth no mercilesse fines, enuies not an other, buyeth no house ouer his neighbours head: but respecteth his country &amp; the commodity thereof, as deere as his life. Hee regardeth more to haue the needy fed, to haue his boord garnished with full platters, thē to famous himself wt excessine furniture in apparel. Since then he scorneth pride, he must of force proclaime himself mine enemy, and therefore he shall bée none of my Iury, &amp; such as himselfe I gesse the Squire and the Gentleman &amp; therefore I challenge them all thrée. Why quoth I, this is strange, that a man should be drawne from a quest for his goodnesse. If mē for vertue be challenged, whome shall we haue vpon the Iury, your ob
+                  •…
+               ection helpes not maister veluetbréeches: for if hee be a man of so godly a disposition, he will neither speake for feare or fauour, hee will regard neither the riches of the one, nor the plaine pouerty of the other, whereupon sith you haue made mee trier, I allow them all three to bee of the Iury, and so I requested them to sit down till our Iury was ful, which they courteously did, although veluetbréeches fround at it. When I looking for more, saw where there came a troop of men in apparell se
+                  •…
+               ming poore
+
+honest Citizens, in all they were eight. I demanded of them what they were, &amp; whether they were going. One of them that seemed the welthiest, who was in a furred Jacket made answere, that they were al friends going to y• burial of a neighbour of theirs, that yester night died, and if it would do mee any pleasure to heare their names, they were not so dainty but that they would tell them, and so then hee began to tell me, that by his art hee was a Skinner, the second said hee was a Joiner, the third was a Sadler, the fourth a Waterman, the fift was a Cutler, the sixt was a Bellows mender, the seuenth a Plaisterer, and the right a Printer. In good time quoth I, it is con
+                  •…
+               nendable when neighbours loue so wel together, but if your spéede bee not ouermuch, I must request you to bee of a Jury, so I discourst vnto them the controuersy betwene Clothbréeches &amp; Ueluetbréeches, and to what issue it must grow by a verdict, they seemed al content, and I turned to the plaintiffe and defendant, and asked if they would make challenge to any of these. I scorne qd. Ueluetbréeches, to make any great obiection against them, sith they bee mecannical men, and I almost hold them indifferent, for this I know, they get as much &amp; more by me than by him, the Skinner I vse for furres, whereas this base Cloth-bréeches hath scarse a gowne faced once in his life, the Sadler for costly imbroidered saddis, the ioiner for seeling my house, the cutler for gilt rapiers, the Waterman I vse continually, ten times for his once, and so likewise the Plaisterer, for the Bellowe
+                  •…
+               ender alas poore snake I knowe him not, for the Printer by our Lady I thinke I am some tenne pounds in his debt for bookes, so that for my part let them all passe. And for mee too, qd. Clothbreeches, but yet a little to put them in remembrance of their follies, let mee haue about with them all, and first with you maister Skinner, to whome I can say little but only this, that whereas you should only put the backs of skinnes into facing, you taw the wombs and so deceiue the buier, besides if you haue some fant aslike skin brought you not worth two pence, with seme straunge spots though it bee of a libbet, you will sweare tis a most precious skin, and came from Musco or the furthest parts of Calabria. The Sadler he stuffes his pannels with straw or hay and ouer glafeth them with haire, and makes the leather of them of morts or tand sheeps skins. The ioyner though an honest man, yet hee maketh his ioints weake, and putteth in sap in the morteses, which should be the hart of the trée, and all to make his
+
+               
+                  •…
+               uffe slender. And you Cutler, you are patron of ruffions and swashbuckiers, and will sell them a blade that may be thrust into 
+                  •…
+                bushel. but if a poore man come that cannot s
+                  •…
+               il of it, you sel him a swoord or rapier newauerglased, and sweare the blade came either 
+                  •…
+               ō Turkie or Toledo. Now maister waterman you wil say there is no subtillty in you, for there is none so simple but that knows your fares, &amp; what is 
+                  〈◊〉
+                betweene Green wiche and London &amp; how you earn
+                  •…
+                your mony painfully with the sweat of your browes, all this is true, but let me
+                  •…
+                whisper one thing in your eare, you will play the goodfellowe too much if you be well greased in the fi
+                  •…
+               t, for if a young Gentleman &amp; a prety wench come to you and say, waterman, my friend and I meane to go by water and to be merry a night o
+                  •…
+                two, I care not which way nor whether we go, and therefore where thou thinkest we may haue best lodging thither carry vs: then off goes your cap and away they go, to brainfoordor some other place, and then you say 
+                  〈◊〉
+                I pray you vse this Gentleman and his wife wel, they are come out of London to take the aire &amp; meane to bee merry here a night or two, and to spend their mony frankly, when God wot they are neither man nor wife, nor perhaps of any acquaintance before their matche made in some bawdy tauerne, but you know no such matter, &amp; therefore waterman I pardon you. And for you Plaisterer and Bellowsmender I passe you ouer, and so do I the Printer too, only this I must néedes say to him that some of his trade will print lewd bookes, and baw
+                  •…
+               y pamphlets, but Auri sacra fames quid non? and therefore I am content they shal be al of the iury. I was glad there were so many accepted of at once, and hoped that now quickly the iury would b
+                  •…
+               e ful, l
+                  •…
+               
+               king about me, straight I might se one alone come running as fast as he could. I wondred what he should be that he made such ha
+                  •…
+               re, &amp; the skinner told me he was an honest man, and one of their company, by his occupation abric
+                  •…
+               laier. Oh qd. Ueluetbreeches, a good honest simple man, he hath been long in my worke, in building mee a sumpteous house. But I challenge him, qd. Clothbreeches, for he is ai
+                  •…
+               gler, How qd. I, can it be, see he goeth very homely in leather and hath his ruler in his hand &amp; his 
+                  •…
+               rowel at his side, &amp; he seemeth not as one that were giuen to such qualities, yes qd. clothbreeches, he hath this policy, whē he maketh a stately place all glorious to the cie and ful of faire chambers and goodly roomes, and about the house perhaps some thrée score Chimnyes, yet hee canne so cunningly cast by his art,
+
+that thrée of thē shall not smoke in the 
+                  〈◊〉
+               , &amp; so spoiles 
+                  〈◊〉
+                much good morter &amp; bricke, Why qd. 
+                  〈◊〉
+                the fault is not in the workeman but in the housekeeper, for now adaies men builde for to please the eie, not to profit the poore, they vse no rost, but for themselues and their houshold, nor no fire but alitle court chimny in their own chamber, how can the poore bricklaier then be blamed, when the niggardnes of the lord or master is the cause no more chimnies do smoke, for would they vse ancient hospitality as there forefathers did, &amp; 
+                  〈◊〉
+                as lightly of pride as their great graundfathers, then should you see euery chimny in the house smoke, &amp; prooue that the poore artificer had done his part. Why then qd. Clothbréeches as you please, admit him on the quest. But what be those qd. Clothbre
+                  •…
+               ches, that come heere so soberly? I hope they be honest men, for they lo
+                  •…
+               ke very demure, I will inquire said I, and with that stepping to them, I demaunded their names &amp; very courteously the one said he was a brewer, the other a butcher, the third abaker, &amp; the sourth a vitler. Hearing what they were, I was glad, ghessing sith they were so honest substanciall men, that they would help to make vp the Jury, when Ueluet-breeches with a grime &amp; sower countenance gaue them this challenge. I hold it not necessary (quoth he) that these haue any thing to deale in my cause, si
+                  •…
+               h I am at ods with them al, at least in fortv pounds a peece, for this seuen yeares I haue beene indebted vnto them for bread, béefe, beare &amp; other victuales, then sith they haue credited mee long, &amp; I haue had so litle care to pay them, I doubt now they will reuenge themselues &amp; passe against me in the verdict. Nay (quoth I) the rather will they hold on your part, for if they bee honest wise men (as they séeme to be) they will be carefull of your preferment, séeing th
+                  •…
+                more hightly they are aduanst, the more like are they to come by their owne. If therefore you can obiect no other points of dishonesty against them, I see no reason why they should bee put by. If you doe not (quoth Clothbréeches) then heare mee &amp; I will proue them vnfit to haue any dealinges heere, &amp; first for the Butcher. I pray you goodman 
+                  〈◊〉
+               , what hauock play you with passing vp of meate, and blowing with your pricker as you flea it, haue you not your artificial k
+                  •…
+               aueries to set out your meate with prickes, &amp; then swearche hath more for mo
+                  •…
+               y thē euer you bought, to sel a péece of an old Cow for a chop of a young 
+                  •…
+               re, to wash your old meate that hath hung weltring in the shop with new bloud, to trusse away an old eaw in stead
+
+of a young weather, &amp; although you know it is hurtfull &amp; forbidden by the statutes to flea your hides, s
+                  •…
+               ines, 
+                  •…
+               acks, with cuts &amp; slashes to the impouerishing of the poore shoomaker when hee buies it, yet I pray you how many slaughters do you make in a poore Calues skin? Oh Butcher, a long lent be youre punishment, for you make no conscience in deceiuing the poore. And you mast Brewer that growe to be worth forty thousand pounds by your selling of sodē water what subtilty haue you in making your beare, to spare the malt &amp; put in t
+                  •…
+               e more of the hop to make your drinke (be Barly neuer so cheape) not a whit the stronger, &amp; yet neuer sel a whit the more measure for mony, you can when you haue taken all the hart of the malt away, then clap on store of water tis cheape inough, &amp; mash out a tunning of smal
+                  •…
+                beare, that it scoures a mans mawe like rennish wine: in your conscience how many barrels draw you out of a quarter of malt? 
+                  •…
+               e, 
+                  〈◊〉
+                I conceale your falshood, least I should bee too broad in setting downe your faults. And for you goodman Baker, you that loue to be seene in the open market place vpon the Pillory, the world cries out of your wickednesse, you craue but oue deare yeare to make your daughter a Gentlewoman, you buy your corne at the best hand &amp; yet wil not bee content to make your bread weight by many ounces, you put in yeast &amp; salt to make it heauy, and yet all your policy cannot make it but you fine for the Pillory, the poore cry out, the rich find fault, &amp; the Lord Maior &amp; the Sherifs like honorable &amp; worshipfull mai
+                  •…
+               strates, euery day walke abroad &amp; weigh your bread, &amp; yet all will not ser
+                  •…
+                to make you honest men, but were extremity vsed, &amp; the 
+                  〈◊〉
+                put in the highest degree in practice, you would haue as few eares on your heades as the Collier. Last to you Tom tapster, that tap your smale cannes of béere to the poore, &amp; yet fil them halfe ful of froth that carde your h
+                  •…
+               re (if you see your guests begin to be drunke) halfe smal &amp; halfe strong, you cannot bee content to pinch with your small pots &amp; your 
+                  〈◊〉
+                faggots: but haue your truggs to drawe men on to villany, and to bring customers to your house, where you sell a ioint of meate for 
+                  〈◊〉
+               . peuce that cost you scarse si
+                  •…
+               , &amp; if any chance to go on the skore, you skore him when hee is a sleepe, &amp; set vp a groat a day more then he hath, to finde you drinking pots with your companions: to be short, thou art a knaue, &amp; I like not of any of the rest, the way lies before you, and therefore you may bee gon, for you shall bee none of the quest. I 
+                  〈◊〉
+                to s
+                  •…
+               e Clothbreeches so peremptory, when I sawe fiue
+
+fat fellows all in damaske cotes &amp; go
+                  •…
+               nes welted with Ueluet very braue, &amp; in great consultation, as if they were to determine of some weighty matter, drawing néere I saw they were welthy Citizens, so I went &amp; reuerently saluted them, &amp; told them how wee néeded their aide about the appeasing of a controuerfie, shewing them where the knight, esquire, and other staied, tell we might finde men to fill vp the Iury they were contented, but veluetbréeches excepted against 
+                  〈◊〉
+                
+               
+                  〈◊〉
+                of them and said they were none of his friends, that was the marchant, goldsmith, mercer, &amp; Draper, his allegations were these, that they were all fethered of one winge to fetch in young Gentlemen by commodities vnder the colour of lending of mony: for the Marchant deliuered the yron, 
+                  •…
+               in, Lead, hops, Sugars, Spices, Oiles, browne paper or whatsoeuer else from six mon
+                  •…
+               ths to six moneths, which when the poore Gentleman came to sell againe, hee could not make thréescore &amp; ten in the hundred beside the vsury. The Mercer he followeth the vpstart Gentleman that hath no gouernemet of himselfe, &amp; he feedeth his humor to go braue, he shall not want silkes, Sattins, Ueluets, to pra
+                  •…
+               ck abroad in his pomp, but with this prouision, that he must bind ouer his land in a statute marchant or staple, &amp; so at last forfeit all vnto the mercilesse mercer, &amp; leane himselfe neuer a foot of ground in England, which is the reason that for a fewe remnaunts of veluets and silks the Mercer 
+                  〈◊〉
+                into whole Lordships. The Goldsmith is not behinde, for most of them deale with vsury, and let young Gentlemen haue commodities of plate for ten in the hundred, but they must loose the fashion in selling it againe (which cuts them sore) beside they are most of them s
+                  •…
+               ild in alcumy, &amp; rantemper mettales shrewdly, with no little profit to themselues, &amp; disaduātage to the buier, beside puffe rings &amp; quaint conceits which I omit. And so for you Draper, he fetcheth them off for liuery cloth, and cloth for six moneths &amp; si
+                  •…
+               , &amp; yet hath he more knacks in his budget, for he hath so darke a shop, that no man can wel choose a peece of cloth it so shadows the dye &amp; the threed, a man shal be deceiued in the wooll and the nap, they cause the cloth worker so to presse them, beside hee imposeth this charge to the Cloth worker that he drawe his cloth and pul it passing hard whē he sets it vpon the tenters, that he may haue it ful breadth and length till threed and all teare and rent in péeces, what care they for that, haue they not a drawer to serue their turne to drawe and seame by the holes so cunningly that it shall neuer bee espide? my self
+
+haue séene in one broad cloth eightéene score holes torne rackt and puld by the Clothworker, only to please the Draper and deceiue the commonwealth. To be short, the Clathworker what with rowing &amp; setting in a fine nap, with powdering it &amp; pressing it, with shering the wooll to the proofe of the threed, deale so cunningly that they proue themselues the Drapers minister to execute his subtilties, therefore if he chance to come let him be remembred. Now sir for the Uintner, he is an honest substantial man a friend to all goodfellows, &amp; truly my friend for my mony, &amp; worthy to bee of the iury. Why, no qd. Clothbreeches I am of another mind, for I hold him as dece
+                  •…
+               tfull as any of the rest, what the vintner, why, hee is a kinde of Negromancer, for at midnight when all men are in bed, then he for sooth fals to his charmes &amp; spels, so that he tumbles one hog shead into another, and can make a cup of claret that hath lost his colour looke high with a dash of red wine at his pleasure, if hee hath a strong gascoigne wine, for feare it should make his guests to soone dronke, hee can allay it with a small Rochel wine: he can cherish vp white wine with sack, &amp; perhaps if you bid him wash the pot cleane when hee goes to draw you a quart of wine, hee will leaue a little water in the bottome, and then draw it ful of wine &amp; what and if he do? tis no harme, wine &amp; water is good against the heat of the liuer. It were infinit to rehearse the iugling of Uintuers, the disorder of their houses, especially of the persons that frequent them, &amp; therefore sith Ueluetbreeches hath put by the Marchant, goldsmith mercer, &amp; draper, the vintner shall go with them for company. As these were going away in a snuf, for being thus plainely taūted, we might se a mad merry crue come leaping ouer the field as frolickly as if they ought not al the world two pence, &amp; drawing nearer we might perceiue that either bottle-ale or beere bad made a fraie with them, for the lifting of their feete shewed the lightnesse of their heads, the formost was plaine country sir John, or vicar that proclaimed by y• r
+                  •…
+               dnesse of his nose he did go oftner into the alehouse than the Pulpit, and him I asked what they were and whether they were going: what are you qd. the prist, that standeth by the high way to examine me &amp; my friends heeres none in my company but are able to answere for themselues, I seeing they were all set on a merry pin, sold the cause, and how the controuersie grewe betwixt Clothbreeches and Ueluet-breeches and that wee needed them to bee 
+                  •…
+               f the quest. Marry (quoth Sir John) a good motion, know these all
+
+are my pars
+                  •…
+               ioners, &amp; we haue béene drinking with a poore man, and spending our mony with him, a neighbour of ours that hath lost a cow, now for our names and our trades, this is a smith, the second a weauer, the third a nuller, the fourth a cooke the fift a carpenter, the sixt a glouer, ye seauenth a pedler, ye eight a tinker, the ninth a waterberer, the tenth a husbandman, the eleuenth a diar, and the twelfth a sa
+                  •…
+               lor, 
+                  〈◊〉
+                I their Uicker: how could you sir haue a fitter Iury than me and my parishioners? you are a litle to breefe, qd, Cloth-breeches, are you not some puritane M. parson, or some fellow that raiseth vp new scismēs and herisies amongst your people? A plague on them al quoth I sir, for the world was neuer in quiet deuotion, neighbourhoode nor hospitality neuer flourished in this land, since such vp start boies &amp; shittle witted fooles became of the ministry, I cannot tel, they preach faith, faith, and say that doing of almes is papistry, but they haue taught so long Fides solem iustificat, that they haue preached good workes quite out of our Parish, a poore man shal as soone breake his neck as his fast at a rich mans doore: for my friend, I am indeede none of the best scholers, yet I can read an Homely euery Sunday &amp; holyday, and héepe company with my neighbours, and go to the alehouse with them, and if they be fallen out, spende my mony to make them friendes, &amp; on the Sundaies somtime if goofellowship cal me away, I say both morning &amp; euening praier at once, &amp; so let them haue a whole afternoone to play in. This is my life, I spende my liuing with my parishioners, I seek to do al good, and I offer no man harm.
+            Well (qd Cloth bréeches) I warrant thou art an honest Uicar, and therefore stand by thou shalt be one of the quest, and for you Smith, I see no great fault in you, you yerne your liuing with the sweat of your browes, &amp; there can bee no great knauery in you only I would haue you to mend your life for drinking, sith you are neuer at quiet vnles the pot be still at your nose. But you weauer, the Prouerbe puts you down for a crafty knaue, you can, filtch and steale almost as ill as the Tailor, your woofe and warpe is so cunningly drawne out that you plague the poore countrey Huswiues for their yarne, and dawbed on so much dregs that you make it seeme both wel wrought and to beare weight, when it is slenderly wouen, and you haue stolne a quarter of it from the poore wife. Away, be packing, for you shall be cashierd. What Miller, shake handes with your brother the Weauer for knauery: You can take toll twise, and haue false hoppers to conuey
+
+away the poore mans meale. Be gone I loue not your dusty lookes, and for company goodman Cooke go you with them, for you cousen the poore men and country Tearmers with your filthy meate: you will buy of the worst &amp; cheapest, when it is bad enough for dogs, and yet so powder it &amp; parboile it, that you will sell it to some honest poore men, an
+                  •…
+                that vnreasonably to: If you leaue any meate ouer night, you make a shift to heat it againe the next day: Nay, if on the thursday at night there be any left, you make pies of it on sunday mornings, and almost with your slouenly knauery poison the poore people. To be short, I brooke you not, and therefore be walking. For the Carpenter, Glouer, and Waterbearer, the Husbandmen, Dier, &amp; Sailor, sith your trades haue but petty slights, stand you wt Maister Uicar, you are like to helpe to giue in the verdict: but for the pedler and the Tinker, they are two notable knaues, both of an haire, 
+                  〈◊〉
+                both cosen Germaines to yt Diuell. For the tinker, why he is a drowsie, bawdy, drunken companion, that walkes vp &amp; down with a trug after him, and in stopping 
+                  〈◊〉
+                makes three: &amp; if in conuenient place he meetes with one alone perhaps 
+                  •…
+               ifle him or her of all that euer they haue. A base knaue without feare of God or lo
+                  •…
+               e to any one, but to his whore and himselfe. The Pedler as bad or rather worse, walketh the country with his docksey at the least, if hee haue not two his mortes dels, and Autem mortis, hee passeth commonly through euery paire of stocks, either for his drunkennesse or his lechery. And beside it is reported you can lift or nip a bounge like a gu
+                     •…
+                  re Coue, if you want pence, &amp; that you carry your pack but for a colour to shadow your other villanies, well howsoeuer, you are both knaues and 
+                  •…
+               o belogging. Wel qd I, suppose the iury be almost ful. I beléeue we want not aboue three or four persons: looke you wher
+                  •…
+                they come to make vp the number, and they should be men of good disposition, for they seeme to be all of the country. Assoone as they came to vs I met them, and told them the matter, and they were content.
+            The one said hee was a Grasier, the other a Farmer, the other a shephard to them both. What thinke you of these three qd. I? marry saith Ueluetbreeches, two of them are honest men, but the other is a base knaue: but 
+                  〈◊〉
+                no matter, shuffle him in amongst the rest. Nay by your leane quoth Cloth-bréeches, I will shuffle out these two for they are very Cormorants of the Country, and deuoure the poore people with their monsterous exaction. And first I alledge against
+
+the 
+                  •…
+               rasier that he 
+                  〈◊〉
+                
+               
+                  〈◊〉
+                
+               
+                  〈◊〉
+                and medow grounds, for the faeding of his cattell, and wringeth leases of them out of poore mens hands; and in his 
+                  〈◊〉
+                of cattel he committeth great 
+                  〈◊〉
+               , for if it proue a wet yeare, then hee maketh hauock and selleth deare: if it be a 
+                  〈◊〉
+                yeare, then he 
+                  〈◊〉
+                cheape, and yet hauing pasture keepes them till he may come to his owne prise: he knoweth as well as the 
+                  〈◊〉
+                by the séede of a Bullock how much Tallow he will yéelde, what his quarters will amount vnto: what the Tanner will giue for the Hide: nay, what the sowse wiues are able to make of the inwards: so that 
+                  〈◊〉
+                
+               
+                  〈◊〉
+                it so deare to the Butcher, that he can scarce liue of it, and therefore what subtilty the Butcher vseth commeth from the Grasier, so that I exempt him from the quest as a bad member, and an ill friend to Clothbréeches. And for you masse Farmer, you know how through you couetous Land-lords raise their rents, for if a poore man haue but a plough land, if you sée his pastures beare good grasse, and his earable 
+                  〈◊〉
+                
+               
+                  〈◊〉
+                corne, and that he prospereth and goeth forward 
+                  〈◊〉
+                it and 
+                  〈◊〉
+               ; 
+                  〈◊〉
+                and maintaineth his wife and seruants honestly, then Inuidusaltenus rebus marcessit opinis, viciounique pecus grandins vber habet.
+            
+            Then straight 
+                  〈◊〉
+                pricks the Farmer forward and hee bids the Landlord far more then the poore man 
+                  〈◊〉
+                yearely for it: so that if hee bee a Tenant at will, hee puts him out to beg in the streat: or when his lease comes out bee o
+                  •…
+               er loades him in the fine, and thus bloud sucketh hee the poore for his owne priuate profite. Besides the base ch
+                  •…
+               e if he sees a forward yeare &amp; that corne is like to be plenty, then he murmereth against God, and swereth and protesteth he shall be vndone: respe
+                  •…
+               ing more the filling of his owne coffers by a dearth, then the profit of his country by a generall plenty. Beside sir may it please you, whennew corne cōes into the market, who brings it in to relieue the state? Not your mastership, but the poore husbandman, that wants pence. For you kéepe it till the back end of the yeare nay you haue your Garners which haue corne of two or three yeares old, vpon hope still of a deare yeare, rather letting the weasels eate it, thē the poore should haue it at any reasonable price. So that I conclude, you are a Cormorant of the common wealth, and a wretch that liues of the spoile of the 
+                  〈◊〉
+               , and so I leaue you to 
+                  〈◊〉
+                with the GrasierMarry for the Sepsheard, vnlesse it be that he killeth a Lambe now and thē, and saies the fox stole him, I know little craft in his budget,
+
+therefore let him be amongst the honest men of the Iury.
+            Well Clothbreeches qd. I, you are very peremptory in your challenges, what say you heere comes thrée or four Citizens, will any of these serue turne, I cannot tell qd. hee till I know their names &amp; conditions, with that I slept afore the company, and inquired what they were, the eldest of thē being a graue Citizen, said hee was a Grocer, the rest his good &amp; honest neighbours, a Chandler, a Haberdasher, a Clothworker, and two strangers, one a Wallon, the other a Duchman. How like you of these qd. I to veluetbréeches, wel enough quoth he, for I am a little acquainted with them, yet I know they fauour me, because I haue on a sunday seene them all in there silkes. I marry, quoth Clothbreeches, but they neuer get that brauery with honesty, for the Clothworker his saults were laid open, before when wee had the Draper in question: and therefore let him bee packing. For you chandler, I like not of your tricks, you are to cōuersant with the kitchenstuff wiues you after your weeke or snaffe is stiffened, you dip it 
+                  〈◊〉
+                dros, &amp; after giue him a coat of good tallowe, which makes the Candles drop and wast away, to the great hinderance of the poore workemen that watcheth in the night. Beside you pinch in your waights and haue false measures, and many other knaueries that I omit, but this be sure you shal not meddle in my matter: neyther the Haberdasher, for hee trimes vp old felts and makes them very faire to the 
+                  〈◊〉
+               , and faceth &amp; edgeth them neatly, &amp; then hee turnes them away to such a simple man as I am: and so abuseth vs with his coosenage. Beside you buy gumd Tafata, where with you line Hats that will straight assunder as sone as it comes to the heat of a mans head. To be briefe, I am not well skild in your knaueries, But indeede you are to subtill for poore Clothbréeches, and therefore you shall bee none of the Iury. Marry the Grocer seemes an honest man, and I am content to admit of him, only take this as a caueat by the way, that you buy of the Garbellers of spices, the refuse that they sl
+                  •…
+               t from the marchant, and that you mix againe and sell it to your customers. Besides in your beaten spices, as inpeper you put in bay berries, &amp; such drosse, and so wring the poore, but these are sleight causes and so I ouerpasse them, and vouchsafe you to be of the quest. But I pray you what bee those two honest men? quoth the Grocer, the one a Dutchman and a Shoomaker, the other a Frenchman &amp; 
+                  〈◊〉
+                Millainer in Sant Martins, and sels Shirts, Bands, Bracelets, Iewels, and such prety toies for
+
+Gentle women: oh they be of Ueluet
+                  •…
+               réeches acquaintance, vpstaris as well as hee, that haue brought with them pride and abuses into England, and first to the Millainer. What toies deuiseth he to féede the humor of the vpstart Gentleman withall, and of fond Gentlewomen, such fans, such ouches, such brooches, such bracelets, such graūdcies, such periwigs, such paintings, such ruffes, and cuffs, as hath almost made England as full of proud foppries as Tire &amp; Sydon were. There is no Seamster can make a band or a shirt so well as his wife: and why forsooth? because the filthy queane weares a craunce, and is a French woman forsooth. Where as our English women of the Erchange, are both better workwomen, and will affoord a better peniworth. And so for the drunken Dutchman. this shoomaker, hee and such as he is, abuseth the common wealth, and the poore mechanical men and handicrafts men of London, for our new vpstart fooles of 
+                  〈◊〉
+                fraternity, liketh nothing but that the outlandish Asse maketh. They like no shoo so well as the Dutchman maketh, when our English men passe them far, and so for chandlers, and all other occupatious, they are wronged by the Dutch and French And therefore sith the Commons hates them they cannot be my friends, and therefore let them be launching to Flushing, for they shall be no triers of my controuersie. Well quoth I now I suppose the Jury is full, and we sée no more comming, let vs call them and see how many we haue. So they appeared to ther names, as followeth.
+            
+               The Names of the Iury to bee empanelled.
+               1 Knight.
+               2 Esquire.
+               3 Gentleman.
+               4 Priest.
+               5 Printer.
+               6 Grocer.
+               7 Skinner.
+               8 Dier.
+               9 Pewterer.
+               10 Sadler.
+               11 Ioyner.
+               12 Bricklaier.
+               13 Cutler.
+               14 Plaisterer.
+               15 Saylor.
+               16 Ropemaker.
+               17 Smith.
+               18 Glouer.
+               19 Husbandman.
+               20 Shepheard.
+               21 Waterman.
+               22 Waterbearer.
+               23 Bellowsmender.
+            
+            
+               What is it not possible quoth I, to haue one more to make vp the four and twenty? as I was thus speaking, I espied 
+                  〈◊〉
+                oss, a certain kind of an ouerworne Gentleman at
+                  •…
+               red in Ueluet and Sattin but it was some what dropped and greasse, and bootes on his legges, whose soles wered thin &amp; seemed to cōplaine of their Mai
+                  •…
+               er which treading thrift vnder his feete, had brought them vnto that consumption, be walked not as other men in the common beaten way, but came compassing Circum circa, as if wee had beene Diuells, and hee would draw a Circle about vs, and at euery third s
+                  •…
+               p he looked back, as if he were afraide of a Baily or Serieant.
+            After him followed two pert Applesquires, the one had a Murrty cloth gowne on, faced downe before with gray Conny, and laid thick on the sleeues with lace, which he quaintly bare vp, to shew his white Laffata hose and black silke stockings, a huge ruf about his neck wrapt in his great head like a wicker Cage, a little Hat with 
+                  〈◊〉
+                like the wings of a doublet, wherein hee wore a Jewell of Glasse, as broad as a chancery seale: after him followed two boies in cloa
+                  •…
+               es like butter flies, carrying one of them his cutting sword of choller, the other his daunsing papier of delight. His Comerade that bare hun company was a iolly light timberd Jack a Napes, in a sute of Watchet Laffata cut to the skin, with a cloake all to bee dawbed with colourd lace: both he and my gowned brother seemed by their pase as if they had some sutes to Mounsieur Boots. At length cōming neere, I might deserne the first to bee a Poet, the second a Piaier, the third a Musition, alias the Usher of a daunsing Schoole. Well met Mais
+                  •…
+               er Poet quoth I, and welcome you friends also, though not so perticularly knowne. So it is, though none of you three bee cōmon wealthsmen yet vpon vrgēt necessity we must be forced to employ you. We haue a Jury to bee empanelled immediatly, which one of you three must belp to make vp, euen he which approues himselfe the honest est man. They are all honest men and goodfellowes quoth 
+                  〈◊〉
+               
+               ches, therefore it is no great matter whether of them we choose.
+            The Doctors doubt of that quoth Cloth-breeches, for I am of a different opinion. The first whome by his carelesse slouenly gate at first sight I immagined to be a Poet, is a wast good and an vnthrift, that he is borne to make the Lauernes rich and himselfe a begger, if he haue fourty pounds in his purse together, he puts it not to vsury, neyther buies land nor Marchandise with it, but a moneths commodity
+
+of wenches and 
+                  〈◊〉
+               . Ten pound a supper, why 
+                  〈◊〉
+                nothing, If his plough 
+                  •…
+               oes and 
+                  〈◊〉
+                
+               
+                  〈◊〉
+                bee cleere: Take one of them worth twenty thousand 
+                  〈◊〉
+                and hang him. Hee is a king of his pleasure and 
+                  〈◊〉
+                all other 
+                  〈◊〉
+                and Pesants, that though they haue mony at command 
+                  〈◊〉
+                know not like him how to Dominéere with it to any purpose as they should. But to speake plainely, I think him an honest 
+                  〈◊〉
+                
+               
+                  〈◊〉
+                would but 
+                  〈◊〉
+                within his compasse, and generally no mans 
+                  〈◊〉
+                but his owne. Therefore I hold him a man fit to 
+                  〈◊〉
+                of my Iury. Nay quoth 
+                  〈◊〉
+               , I haue more mind to these two, for this Peet is a proud fellow, that because hee hath a little wit in his budget 
+                  〈◊〉
+                contemne and 
+                  〈◊〉
+                vs that are the common sort of G
+                  •…
+               tlemen, and thinke wee are beholding to him if hee do but 
+                  〈◊〉
+                
+               
+                  〈◊〉
+                
+               
+                  〈◊〉
+                lookevpon vs. The Plaier and the vsher of the dauncing 
+                  〈◊〉
+                are 
+                  〈◊〉
+               , honest, humble men, that for a penny or an old cast sute of apparell. Indéede quoth 
+                  〈◊〉
+                you say troth, they are but to hūble, for they be so lowly, that they bee base minded, I meane not in their 
+                  〈◊〉
+                
+               
+                  〈◊〉
+                
+               
+                  〈◊〉
+               , 
+                  〈◊〉
+                so they bee Peacocks and painted asses, but in their corse of life, for they care not how they get crowns, I m
+                  •…
+               ane how basely so they haue them, and yet of the two I hold the plaier to bee the better Chri
+                  •…
+               tian, although in his owne imagination, too 
+                  〈◊〉
+                of 
+                  〈◊〉
+                and selfelone, and is vnfit to be of the Iury though I hide and conceale his faults and fopperies, in that I haue b
+                  •…
+               ne merry. at his 
+                  〈◊〉
+               , only this I must say, that such a plaine country fellow as my selfe, they bring in as clownes and fooles to laugh at in their play, whereas they get by vs, and of our almes the proudest of them all doth liue. Well to be breefe, let him trot to the stage, for hee shall bee none of the Iury. And for you maister 
+                  〈◊〉
+                of the 
+                  〈◊〉
+                schoole, you are a leader into all misrule, you instruct Gentlemen to order their féete, when you driue thē to misorder their manners, you are a bad fellow that stand vpon your tricks and capers, till you make young Gentlemen caper without their landes, why 
+                  〈◊〉
+                to be 
+                  〈◊〉
+                withyou, you liue by your legges, as a iugler by his 
+                  〈◊〉
+               , you are giuen ouer to the pumps and vanities of the world, and to be short you 
+                  〈◊〉
+                a keeper of misrule and a lewd fellow, and you s
+                  •…
+               all be none of the quest. why then quoth I, you are both agreed that the 
+                  〈◊〉
+                
+               
+                  〈◊〉
+                that most make vp the xxiiii. They answered both he, and none but hee. Then I calling them all together, bad them lay their hands on the booke, and first I cald the Knight, and after the
+
+rest as they followed in order, then I gaue them their charge thus.
+            Worshipful Sir with the rest of the Iury, whome we haue sol
+                  •…
+               ited of choice honest men, whose consciences will deale vprightly in this controu
+                  •…
+               rsie, you and the rest of your company are heere vpon your oth and othes to inquire whether Cloth
+                  •…
+               reeches haue done desseison vnto Ueluet
+                  •…
+               reeches yea or no in or about London, in putting him out of franke tenement wronging him of his right and Imballishing his credit, if you finde that clothbreeches hath don velu
+                  •…
+               reeches wrong then let him bee set in his former estate and allow him resonable damages. Upon this they laied their handes on the booke and were sworne and departed to scrutine of the matter by inquiry amongst themselues, not stirring out of our sight nor staying long but straight returned, and the Knight for them all as the formost, said thus. So it is, that we haue with equity and conscience considered of this controuersie betwéene Ueluet-bréeches and Cloth-bréeches, as touching the prerogatiue of them both, which are most worthy to bee rightly resident, &amp; haue seison in Frank tenement héere in England. and we d
+                  •…
+                finde that Clothbreeches is by many hundred yeares more antient, euer since Brute an inhabitant in this Ialnd, one that hath beene in Diebus illis a companion to kings, an equall with the nobility a friend to Gentlemen and yeomen, and patron of the poore, a true subiect, a good housekéeper, and generall as honest as hee is ancient, Whereas Ueluet
+                  •…
+               réeches is an vpstart come out of Italy, begot of Pride, nursed vpby selfe loue, &amp; brought into this country by his companion Nufanglenesse, that hee is but of late time a raiser of rents, &amp; an enemy to the common-wealth, and one that is not any way to be preferred in equity before Clothbreeches to haue don him no wrong, but that hee hath lawfully claimed his title of Frank tenement, and in that w
+                  •…
+               e appoint him for euer t
+                  •…
+                bee resident. At this verdict pronounst by the Knight, all the standers by clapt their hands, and gaue a mighty shout, where at I started and awaked, for I was in a dreame and in my bed, and so rose vp, and writ in a merry vaine what you haue heard.
+            FINIS.
+         
+      
+   
+

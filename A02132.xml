@@ -1,0 +1,698 @@
+
+   
+      
+         
+            A maidens dreame vpon the death of the Right Honorable Sir Christopher Hatton knight, late Lord Chancelor of England / by Robert Green ...
+            Greene, Robert, 1558?-1592.
+         
+         
+            
+               1591
+            
+         
+         Approx. 25 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2003-01 (EEBO-TCP Phase 1).
+            A02132
+            STC 12271
+            ESTC S2695
+            24510241
+            ocm 24510241
+            27746
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A02132)
+            Transcribed from: (Early English Books Online ; image set 27746)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 1852:23)
+         
+         
+            
+               
+                  A maidens dreame vpon the death of the Right Honorable Sir Christopher Hatton knight, late Lord Chancelor of England / by Robert Green ...
+                  Greene, Robert, 1558?-1592.
+               
+               [20] p.   
+               
+                  By Thomas Scarlet for Thomas Nelson,
+                  Imprinted at London :
+                  1591.
+               
+               
+                  Signatures: [A]⁴(-[A]1) B-C⁴ (last leaf blank).
+                  Title vignette.
+                  Imperfect: p. [5] slightly faded, with print show-through.
+                  Reproduction of original in the Lambeth Palace Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Hatton, Christopher, --  Sir, 1540-1591 --  Poetry.
+            
+         
+      
+      
+         
+            2002-04
+            TCPAssigned for keying and markup
+         
+            2002-05
+            SPi GlobalKeyed and coded from ProQuest page images
+         
+            2002-06
+            Emma (Leeson) HuberSampled and proofread
+         
+            2002-06
+            Emma (Leeson) HuberText and markup reviewed and edited
+         
+            2002-07
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            A MAIDENS DREAME. VPON THE DEATH OF THE right Honorable Sir Christopher Hatton Knight, late Lord Chancelor of ENGLAND. By Robert Green Master of Arts.
+            Imprinted at London by Thomas Scarlet for Thomas Nelson. 1591.
+         
+         
+            
+            
+            TO THE RIGHT VVORSHIPFVL, BOVNtifull and vertuous Ladie, the Ladie Elizabeth Hatton, Wife to the right Worshipfull Sir William Hatton Knight, increase of all honorable vertues.
+            
+               MOurning as well as many (right Worshipfull Ladie) for the late losse of the right Honorable your deceased Vnckle, whose death being the common preiudice of a present age, was lamented of most (if not all) and I among the rest sorrowing that my Countrie was depriued of him that liued not for himselfe, but for his Countrie, I began to call to mind what a subiect was ministred to the excellent wits of both Vniuersities to work vpon, when so worthie a knight, and so vertuous a Iusticiarie, had by his death left many memorable actions performed in his life, deseruing highly by some rare men to be registred. Passing ouer many daies in this muse, at last I perceiued mens humors slept, that loue of many friends followed no farther then their graues, that Art was growen idle, and either choice schollers feared to write of so high a subiect as his vertues, or else they dated their deuotions no further then his life. While thus I debated with my selfe, I might see (to the great disgrace of the Poets of our time) some Mycanicall wits blow vp mountaines, and bring forth mise, who with their follies did rather disparage his Honors, than decypher his vertues: beside, as Virtutis comes est inuidia, so base report who hath her tong blistered by slanderous enuie, began as farre as she durst, now after his death, to murmure, who in his life time durst not once mutter: whervpon touched with a Zealous iealousie ouer his wonderfull vertues, I could not, whatsoeuer discredit I reapt by my presumption, although I did Tenui Auena meditari, but discouer the honorable
+
+qualities of so worthie a Counsellor, not for anie priuat benefit I euer had of him, which should induce me fauorably to flatter his worthie partes, but onely that I shame to let slip with silence, the vertues and honors of so worthie a knight, whose deserts had bin so many and so great towards al. Therfore (right worshipful Ladie) I drewe a fictiō called A Maidens Dreame, which as it is Enigmaticall, so it is not without some speciall and considerate reasons. Whose slender Muse I present vnto your Ladiship, induced therunto, first, that I know you are partaker of your husbands sorrowes, for the death of his honourable Vncle, and desire to heare his honors put in memorie after his death, as you wished his aduancement in vertues to be great in his life: as also that I am your Ladiships poore Countrimā, and haue long time desired to gratifie your right worshipfull father with some thing worthie himselfe. Which because I could not to my content performe, I haue now taken oportunitie to shew my duetie to him in his daughter, although the gift be farre too meane for so worshipfull and vertuous a Lady. Yet hoping your Ladishippe will with courtesie fauour my presuming follies, and in gratious acceptance vouch of my well meant labours, I humbly take my leaue.
+            
+               
+                  Your Ladiships humbly at commaund R. Greene. Nordouicensis.
+            
+         
+      
+      
+         
+            
+            A Maidens Dreame.
+            
+               
+                  ME thought in slumber as I lay and dreamt,
+                  I sawe a silent spring raild in with Ieat,
+                  From sunnie shade or murmur quite exempt
+                  The glide whereof gainst weeping flints did beat,
+                  And round about were leauelesse beeches set,
+                  So darke it seemed, nights mantle for to borrow,
+                  And well to be the gloomie den of sorrow.
+               
+               
+                  About this spring in mourning roabes of blacke,
+                  Were sundrie Nymphs or Goddesses me thought,
+                  That seemly sate in rankes iust backe to backe,
+                  On Mossie benches: Nature there had wrought
+                  And cause the wind &amp; spring no murmure brought
+                  They fild the aire with such laments and groanes,
+                  That Eccho sigh'd out their heart-breaking mones,
+               
+               
+                  Elbow on knee, and head vpon their hand,
+                  As mourners sit, so sat these Ladies all,
+                  Garlands of Eben-bowes whereon did stand,
+                  A golden crowne, their mantles were of pall,
+                  And from their waterie eies warme teares did fall,
+                  With wringing hands they sat and sigh'd like those,
+                  That had more griefe then well they could disclose
+               
+               
+                  I lookt about and by the fount I spied,
+                  A Knight lie dead, yet all in armour clad,
+                  Booted and spurd, a fa
+                        ••
+                     ci
+                        •
+                     on by his side,
+                  A Crowne of O
+                        •••••
+                      on his helme he had,
+                  
+                     
+                        〈1 line〉
+                     
+                  
+                  
+                     
+                        〈1 line〉
+                     
+                  
+                  
+                     
+                        〈1 line〉
+                     
+                  
+               
+               
+                  
+                  She seemed wounded by her panting breath,
+                  Her beating breast with sighs did fall and rise,
+                  Wounds was there none, it was her masters death,
+                  That drew Electrum from her weeping eies,
+                  Like scalding smoake her braying throbs outflies,
+                  As Deere do mourne when arrow hath them galled
+                  So was this Hinde with Hart-sicke pains inthralled.
+               
+               
+                  Iust at his head there sate a sumptuous Queene,
+                  I gest her so, for why, she wore a crowne,
+                  Yet were her garments parted white and greene,
+                  Tierd like vnto the picture of renowne,
+                  Vpon her lap she laid his head a downe,
+                  Vnlike to all she smiled on his face,
+                  Which made me long to know this dead mans case.
+               
+               
+                  As thus I lookt, gan Iustice to arise,
+                  I knew the Goddes by her equall beame,
+                  And dewing on his face balme, from her eies
+                  She wet his visage with a yearnfull streame,
+                  Sad mournfull lookes did from her arches gleame,
+                  And like to one, whom sorrow deep attaints,
+                  With heaued hands she poureth forth these plaints.
+               
+            
+            
+               The Complaint of Iustice.
+               
+                  VNtoward Twins that tempers humane fate,
+                  who from your distaffe draws the life of man
+                  
+                     Parce impartiall to the highest state,
+                  Too soone you cut what Clotho earst began,
+                  
+                     Your fatall doomes this present age may ban,
+                  For you haue robd the world of such a knight,
+                  As best could skil to ballance Iustice right.
+               
+               
+                  His eyes were seates for mercy and for law,
+                  Fauour in one, and Iustice in the other:
+                  The poore he smoth'd, the proud he kept in aw,
+                  As iust to strangers as vnto his brother.
+                  Bribes could not make him any wrong to smother.
+                  For to a Lord, or to the lowest groome:
+                  Stil conscience and the cawes set down the doome.
+               
+               
+                  Delaying law that picks the clients purse
+                  Ne could this Knight abide to heare debated
+                  From day to day (that claimes the poor mans curse)
+                  Nor might the pleas be ouer-long dilated.
+                  Much shifts of law there was by him abated.
+                  With conscience carefully he heard the cause:
+                  Then gaue his doome with short dispatch of lawes.
+               
+               
+                  The poore mans crie he thought a holy knell,
+                  No sooner gan their suites to pearce his eares,
+                  But faire-eyed pitie in his heart did dwell.
+                  And like a father that affection beares
+                  So tendred he the poore with inward teares.
+                  And did redresse their wrongs when they did call:
+                  But poore or rich he still was iust to all.
+               
+               
+                  Oh wo is me (saith Iustice) he is dead,
+                  The knight is dead that was so iust a man:
+                  
+                     And in Asteras lap low lies his head,
+                  Who whilom wonders in the world did scan.
+                  Iustice hath lost her chiefest lim, what than.
+                  At this her sighes and sorowes were so sore:
+                  And so she wept that she could speak no more.
+               
+            
+            
+               The complaint of Prudence.
+               
+                  A Wreath of Serpents bout her lilly wrist,
+                  Did seemly Prudence weare: she then arose
+                  A siluer Doue, satt mourning on her fist
+                  Teares on hir cheeks like dew vpon a rose,
+                  And thus began the Goddesse greeful glose.
+                  Let England mourn, for why? his daies are don
+                  Whom Prudence nurced like her dearest sonne.
+               
+               
+                  
+                     (Hatton) at that I started in my dreame,
+                  But not awooke: Hatton is dead quoth she,
+                  Oh, could I pour out teares like to a streame,
+                  A sea of them would not sufficient be,
+                  For why our age had few more wise then he.
+                  Like oracles, as were Apollos sawes:
+                  So were his words accordant to the lawes.
+               
+               
+                  Wisdome sate watching in his wary eyes,
+                  His insight subtil, if vnto a foe,
+                  He could with counsels Commonwelths comprise,
+                  No forraine wit could Hattons ouergoe
+                  Yet to a frend, wise, simple, and no mo.
+                  His ciuill policie vnto the state
+                  
+                     Scarce left behind him now a second mate.
+               
+               
+                  For Countries weale his councel did exceede,
+                  And Eagle-eyed he was to spie a fault:
+                  For warres or peace right wisely could he reed:
+                  Twas hard for trechors fore his lookes to hault.
+                  The smooth-fac'd traitor could not him assault.
+                  As by his Countries loue his grees did rise:
+                  So to his Countrey was he simple-wise.
+               
+               
+                  This graue aduiser of the Commonweale,
+                  This prudent Counceller vnto his Prince
+                  Whose wit was busied with his Mistres heale,
+                  Secret conspiracies could wel conuince,
+                  Whose insight perced the sharp-eyed Linx.
+                  
+                  He is dead, at this her sorowes were so sore:
+                  And so she wept that she could speake no more.
+               
+            
+            
+               The complaint of Fortitude.
+               
+                  NExt Fortitude arose vnto this Knight,
+                  And by his side sate down with stedfast eye:
+                  A broken Columb twixt her arms was pight
+                  She could not weep nor pour out yernful cries,
+                  From Fortitude such base affects nil rise.
+                  Brass-renting Goddesse, she cannot lament,
+                  Yet thus her plaints with breathing sighs were spent
+               
+               
+                  Within the Maidens Court, place of all places,
+                  I did aduance a man of high degree:
+                  
+                     Whom Nature had made proud with all her graces
+                  Inserting courage in his noble heart,
+                  No perils drad could euer make him start.
+                  But like to Scaeuola, for countries good,
+                  He did not value for to spend his blood.
+               
+               
+                  His lookes were sterne, though in a life of peace
+                  Though not in warres, yet war hung in his browes:
+                  His honor did by martiall thoughts increase,
+                  To martiall men liuing this Knight allowes,
+                  And by his sword he solemnly auowed
+                  Thogh not in war, yet if that war were here,
+                  As warriors do to value honor deere.
+               
+               
+                  Captens he kept and fostered them with fee,
+                  Soldiers were seruants to this martiall Knight,
+                  Men might his stable full of Coursers see,
+                  Trotters, whose manag'd lookes would som afright.
+                  His armorie was rich and warlike dight.
+                  And he himselfe if any need had craued,
+                  Would as stout Hector haue himselfe behaued.
+               
+               
+                  I lost a frend when as I lost his life,
+                  Thus playned Fortitude, and frownd withall,
+                  Cursed be Atrapos, and curst her knife,
+                  That made the Capten of my gard to fall,
+                  Whose vertues did his honors high install.
+                  At this she storm'd, and wrong outsighes so sore:
+                  That what for grief her tongue could speak no more
+               
+            
+            
+               
+               The complaint of Temperance.
+               
+                  THen Temperance with bridle in her hand,
+                  Did mildly look vpon this liuelesse Cord,
+                  And like to weeping Niobe did stand,
+                  Her sorrowes and her teares did wel accord,
+                  Their Diapason was in selfe-same Lord
+                  Here lies the man (quoth she) that breath'd out this
+                  To shun fond pleasures is the sweetest blisse.
+               
+               
+                  No choice delight could draw his eyes awry,
+                  He was not bent to pleasures fond conceits,
+                  Inueigling pride, nor worlds sweet vanitie,
+                  Loues luring follies with their strange deceits,
+                  Could wrap this Lord within their baleful sleights
+                  But he despising all, said man was grasse:
+                  His date a span, &amp; omnia vanitas.
+                  
+               
+               
+                  Temperate he was, and tempered al his deedes
+                  He brideled those affects that might offend,
+                  He gaue his wil no more the raines then needs,
+                  He measured pleasures euer by the end:
+                  His thoughts on vertues censures did depend.
+                  What booteth pleasures that so quickly passe:
+                  When such delights are fickle like to glasse.
+               
+               
+                  First pride of life, that subtil branch of sinne,
+                  And then the lusting humor of the eyes
+                  And base concupiscence which plies her gin,
+                  These Sirens that doe worldlings stil intise,
+                  
+                     Could not allure his mind to think of vice.
+                  For he said stil, pleasures delight it is:
+                  That holdeth man from heauens deliteful blisse.
+               
+               
+                  Temperat he was in euery deep extreame,
+                  And could wel bridle his affects with reason:
+                  What I haue lost in loosing him then deeme
+                  Base death, that tooke away a man so geason.
+                  That measur'd euery thought by tyme and season.
+                  At this her sighes and sorowes were so sore:
+                  And so she wept that she could speake no more.
+               
+            
+            
+               The complaint of Bountie.
+               
+                  VVIth open hands, and mourning lookes dependant,
+                  
+                     Bounty stept foorth to waile the dead mans losse
+                  On her was loue and plenty both attendant,
+                  Teares in her eyes, armes folded quite acrosse:
+                  Sitting by him vpon a turfe of mosse.
+                  She sigh'd and said, here lies the knight deceased,
+                  Whose bountie, Bounties glorie much increased.
+               
+               
+                  His lookes were liberall, and in his face
+                  Sate frank Magnificence with armes displaid:
+                  His open hands discourst his inward grace:
+                  The poore were neuer at their need denaid:
+                  His careles scorn of gold his deedes bewraid.
+                  And this he crau'd, no longer for to liue:
+                  Then he had power, and mind, and wil to giue.
+               
+               
+                  
+                  No man went emptie from his frank dispose,
+                  He was a purse-bearer vnto the poore:
+                  He wel obseru'd the meaning of this glose,
+                  None lose reward that geueth of their store:
+                  To all his bounty past. Ay me therfore
+                  That he should die, with that she sigh'd so sore
+                  And so she wept that she could speak no more.
+               
+            
+            
+               The complaint of Hospitalitie.
+               
+                  LAme of a leg, as she had lost a lim
+                  Start vp kind Hospitalitie and wept,
+                  She silent sate awhile and sigh'd by him
+                  As one halfe maymed to this knight she crept,
+                  At last about his neck this Nimph she lept,
+                  And with her Cornucopia in her fist:
+                  For very loue his chilly lips she kist.
+               
+               
+                  Ay me, quoth she, my loue is lorn by death,
+                  My chiefest stay is crackt, and I am lame:
+                  He that his almes franckly did bequeath,
+                  And fed the poore with store of food: the same
+                  Euen he is dead, and vanisht is his name.
+                  Whose gates were open, and whose almes deede
+                  Supplied the fatherlesse and widowes need.
+               
+               
+                  He kept no Christmas house for once a yeere,
+                  Each day his boards were fild with Lordly fare:
+                  He fed a rout of yeomen with his cheare,
+                  Nor was his bread and beefe kept in with care,
+                  His wine and beere to strangers were not spare.
+                  
+                     And yet beside to al that hunger greeued,
+                  His gates were ope, and they were there releeued.
+               
+               
+                  Wel could the poore tel where to fetch their bread,
+                  As Bausis and Philemon were iblest:
+                  For feasting Iupiter in strangers stead,
+                  So happy be his high immortal rest,
+                  That was to hospitalitie addrest.
+                  For few such liue, and then she sigh'd so sore,
+                  And so she wept that she could speak no more.
+               
+               
+                  Then Courtesie whose face was full of smiles
+                  And frendship with her hand vpon her hart
+                  And tender Charitie that loues no wiles,
+                  And Clemencie her passions did impart
+                  A thousand vertues there did straight vp start,
+                  And with their teares and sighes they did disclose:
+                  For Hattons death their harts were ful of woes.
+               
+            
+            
+               The complaint of Religion.
+               
+                  NExt from the farthest nooke of all the place,
+                  Weping full sore, there rose a nimph in black
+                  Seemelie and sober with an Angels face,
+                  And sighd as if her heart-strings straight should crak
+                  Hir outward woes bewraid her inward wracke.
+                  A golden booke she caried in her hand,
+                  It was religion that thus meeke did stand.
+               
+               
+                  God wot her garments were full looslie tucked
+                  
+                     As one that carelesse was in some despaire,
+                  To tatters were her roabes and vestures pluckt
+                  Her naked lims were open to the aire,
+                  Yet for all this her lookes were blith and faire,
+                  And wondring how religion grew forlorne,
+                  I spied her roabes by Heresie was torne.
+               
+               
+                  This holy creature sate her by this knight,
+                  And sigh'd out this, Oh here he lies (quoth she)
+                  Liuelesse, that did religions lampe still light,
+                  Deuout without dissembling, meeke and free
+                  To such whose words and liuings did agree,
+                  Lip-holines in Cleargie men he could not brooke,
+                  Ne such as counted gold aboue their booke.
+               
+               
+                  Vpright he liu'd, as holy writ him lead,
+                  His faith was not in ceremonies old,
+                  Nor had he new found toies within his head,
+                  Ne was he luke-warme, neither hot nor colde,
+                  But in religion he was constant bold,
+                  And still a sworne professed fo to all,
+                  Whose lookes were smooth, harts pharesaicall.
+               
+               
+                  The brainsicke and illiterate surmisers,
+                  That like to Saints would holy be in lookes,
+                  Of fond religions fabulous deuisers
+                  Who scornd the Academies and their bookes,
+                  And yet could sin as others in close nookes.
+                  
+                     To such wild-headed mates he was a foe:
+                  That rent her robes, and wrongd Religion so.
+               
+               
+                  Ne was his faith in mens traditions,
+                  He hated Antichrist and all his trash
+                  He was not led away with superstitions,
+                  Nor was he in religion ouer rash,
+                  His hands from heresie he loued to wash.
+                  Then base report, ware what thy tongue doth spred
+                  Tis sin and shame for to bely the dead.
+               
+               
+                  Hart-holy men he still kept at his table,
+                  Doctors that wel could doom of holie writ,
+                  By them he knew to seuer faith from fable,
+                  And how the text with iudgement for to hit:
+                  For Pharisies in Moses chaire did sit
+                  At this Religion sigh'd and greeu' so sore:
+                  And so she wept that she could speak no more.
+               
+            
+            
+               Primate.
+               Next might I see a rowt of Noble-men,
+               Earles, Barons, Lords, in mourning weedes attir'd:
+               I cannot paint their passions with my pen,
+               Nor write so queintly as their woes requir'd.
+               Their teares and sighs some Homers quil desir'd.
+               But this I know their grief was for his death:
+               That there had yeelded nature, life and breath:
+            
+            
+               
+               Milites.
+               Then came by Souldiers trailing of their pikes,
+               Like men dismaid their beuers were adown
+               Their warlike hearts his death with sorrow strikes,
+               Yea war himselfe was in a sable gowne:
+               For griefe you might perceiue his visage frowne
+               And Scholers came by, with lamenting cries:
+               Wetting their bookes with teares fel from their eies
+            
+            
+               Plebs.
+               
+                  The common people they did throng in flocks,
+                  Dewing their bosomes with their yernfull teares,
+                  Their sighs were such as would haue rent the rocks
+                  Their faces ful of griefe, dismay and feares,
+                  Their cries stroke pittie in my listning eares.
+                  For why? the groanes are lesse at hels black gate,
+                  Then Eccho there did then reuerberate.
+               
+               
+                  Some came with scrolles and papers in their hand,
+                  I ghest them sutors that did rue his losse:
+                  Some with their children in their hand did stand,
+                  Some poore and hungrie with their hands acrosse:
+                  A thousand there sate wayling on the mosse.
+                  
+                     O pater Patriae stil they cried thus:
+                  
+                     Hatton is dead, what shal become of vs?
+               
+               
+                  At all these cries my heart was sore amoued,
+                  Which made me long to see the dead mans face:
+                  
+                     What he should be that was so deare beloued.
+                  Whose worth so deepe had won the peoples grace,
+                  As I came pressing neere vnto the place,
+                  I lookt, and though his face were pale and wan,
+                  Yet by his visage I did know the man.
+               
+               
+                  No sooner did I cast mine eie on him
+                  But in his face there flasht a ruddie hue,
+                  And though before his lookes by death were grim,
+                  Yet seemd he smiling to my gazing view
+                  (As if though dead, my presence still he knew:)
+                  Seeing this change within a dead mans face,
+                  I could not stop my teares, but wept a pace.
+               
+               
+                  I cald to minde how that it was a knight,
+                  That whilome liu'd in Englands happie soile,
+                  I thought vpon his care and deepe insight,
+                  For Countries weale, his labour and his toile
+                  He tooke, least that the English state might foile,
+                  And how his watchfull thought from first had bee
+                  Vowed to the honor of the maiden Queene.
+               
+               
+                  I cald to minde againe he was my friend,
+                  And held my quiet as his hearts content,
+                  What was so deare, for me he would not spend,
+                  Then thoght I straight, such friends are seldom hent
+                  Thus still from loue to loue my humor went,
+                  
+                     That pondering of his loayltie so free,
+                  I wept him dead, that liuing honord me.
+               
+               
+                  At this Astraea seeing me so sad,
+                  Gan blithly comfort me with this replie,
+                  Virgin (quoth she) no boote by teares is had,
+                  Nor doth laments ought pleasure them that die,
+                  Soules must haue change from this mortalitie,
+                  For liuing long sinne hath the larger space,
+                  And dying well they finde the greater grace.
+               
+               
+                  And sith thy teares bewraies thy loue (quoth she)
+                  His soule with me shall wend vnto the skies,
+                  His liuelesse bodie I will leaue to thee,
+                  Let that be earthde and tombde in gorgeous wise,
+                  Ile place his ghost amongst the Hierarchies:
+                  For as one starre another far exceeds,
+                  So soules in heauen are placed by their deeds
+               
+               
+                  With that me thought within her golden lap,
+                  (This Sun-bright Goddesse smiling with her eie,)
+                  The soule of Hatton curiously did wrap,
+                  And in a cloud was taken vp on hie.
+                  Vaine Dreames are fond, but thus as then dreamt I,
+                  And more me thought I heard the Angels sing
+                  An Alleluia for to welcome him.
+               
+               
+                  As thus attendant faire Astrea flew,
+                  
+                     The Nobles, Commons, yea and euerie wight,
+                  That liuing in his life time Hatton knew,
+                  Did deepe lament the losse of that good Knight:
+                  But when Astrea was quite out of sight,
+                  For griefe the people shouted such a screame:
+                  That I awooke and start out of my dreame.
+               
+            
+            FINIS.
+         
+      
+   
+

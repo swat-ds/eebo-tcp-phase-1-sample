@@ -1,0 +1,698 @@
+
+   
+      
+         
+            A letter of a yonge gentylman named mayster Germen Gardynare, wryten to a frend of his, wherin men may se the demeanour [and] heresy of Ioh[a]n Fryth late burned, [and] also the dyspycyo[n]s [and] reasonynge vpon the same, had betwene the same mayster Germen and hym.
+            Gardynare, Germen.
+         
+         
+            
+               1534
+            
+         
+         Approx. 78 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2008-09 (EEBO-TCP Phase 1).
+            A01469
+            STC 11594
+            ESTC S110810
+            99846282
+            99846282
+            11240
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01469)
+            Transcribed from: (Early English Books Online ; image set 11240)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 45:09)
+         
+         
+            
+               
+                  A letter of a yonge gentylman named mayster Germen Gardynare, wryten to a frend of his, wherin men may se the demeanour [and] heresy of Ioh[a]n Fryth late burned, [and] also the dyspycyo[n]s [and] reasonynge vpon the same, had betwene the same mayster Germen and hym.
+                  Gardynare, Germen.
+               
+               xlii leaves   
+               
+                  Prented by w. Rastell in Fletestrete in saynt Brydys chyrchyarde,
+                  [[London] :
+                  Anno a Christo nato 1534]
+               
+               
+                  Imprint from colophon.
+                  Reproduction of the original in the British Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Frith, John, 1503-1533 --  Early works to 1800.
+               Heretics, Christian --  Early works to 1800.
+            
+         
+      
+      
+         
+            2007-01
+            TCPAssigned for keying and markup
+         
+            2007-01
+            Apex CoVantageKeyed and coded from ProQuest page images
+         
+            2007-04
+            John LattaSampled and proofread
+         
+            2007-04
+            John LattaText and markup reviewed and edited
+         
+            2008-02
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            ¶ A letter of a yonge gentylman named mayſter Germen Gardynare, wryten to a frend of his, wherin men may ſe the demeanour &amp; hereſy of John̄ Fryth late burned / &amp; alſo the dyſpycyōs &amp; reaſonynge vppon the ſame, had betwene the ſame mayſter Germen and hym ⸫
+         
+      
+      
+         
+            
+            
+            
+               ALbe it I doute not ye do from tyme to tyme vnderſtāde, ſuche newes as be here occurrāt, partely by the comen rumour and fame, partely by the letters of your other frendes and olde acquayntaunce in theſe parties, mych ſoner than I can by any certayne meſſenger aduertyſe you of the ſame. yet ſeynge that for correſpondence vnto your goodnes here tofore ſhewed towardes me in moſt gentle ſorte, ye haue euer requyred of me kynde remembraūce onely therof, and declaracyon of my deſyre to accomplyſhe in ſome parte my dutye, by often wrytyng vnto you, ſhewynge howe thankfully (what ſo euer they were) ye wolde accepte my letters: I haue thought yt my parte to folowe herein your pleaſour, and to troble you alwaye wyth redynge my
+
+rude letters, though none other mater were conteyned in theym, than ye hadde bothe harde and rede ere that myne could come vnto your handes.
+            wherfore hauynge ſuche occaſyon and argument of wrytyng offred vnto me, as wherof neyther the comen fame can reporte all the trouthe, and whyche is ſo tedyouſe as fewe men wolde accomber theyr famylyare letters wythall / beynge neuertheleſſe ſuche as you for your deuocyon to chryſten religyon be moſt deſyrouſe to knowe: I haue moſte gladly embraced the ſame, truſtynge by the contentes of theſe, to requyte in ſome ꝑte the importunytie of myn ydle letters wryten to you before.
+            ye haue herde howe John̄ Fryth ſomtyme ſcoler in that colledge wherof ye were after his departyng mayſter, was afterwarde amonges other at Oxenforde found beſye in ſettyng abrode theſe herſyes, whyche lately
+
+ſpronge in Almayne, by the helpe of ſuche folke be ſpred abrode into ſoundrye partes of chriſtendome, tendyng to nothynge elles, but to the dyuyſyon and rentyng a ſundre of Chriſtes myſtycall bodye his chyrche, the pullynge downe of all power, and vtter ſubuerſyon of all comen welthes.
+            And he beyng therfore for his amedement punyſhed, of obſtynatie fledde ouer the ſees vnto the fathers of that relygyon / where in the company of wyllyam Tyndale, George Joy, (at whoſe name I am ſure ye ſygh, ſeing your ſelf to haue ben ſo deluded with the hope whyche ones ye conceyued of hym) and other heretykes: he profyted ſo myche within a whyle in vn graciouſe vnſhamefaſt boldnes, that beynge not myche aboue the age of xxiiii. yeres, ye arrogant fole nothyng doutynge the iudgement of the hole worlde, toke vpon hym to teache the 
+                  •
+               ole chyrche of Chryſte, reuokynge
+
+vs from our errour (as he calleth yt) of purgatorye, wherin we haue thys xv. hundred yeres cōtynued / willyng vs to truſte herein the ſpyryt whych nowe in the ende of the worlde, god hath rayſed in his yonge breſte to rebuke the worlde, of theyr longe horryble errour and deſtable blyndenes, wherein ſo many hundred yeres all men haue abyden, ſaue onely a ſmall choſen nomber of bleſſed babes, whom it hath pleaſed god to inſtruct and teache pryuyly in theyr eares the trouthe of hys goſpell from tyme to tyme / whych ye pore chyldren (feryng by all lykelyhode to be beten yf they tolde any tales oute of the ſcole) kept cloſe amonge theym ſelfe, and lyke good dyſpenſatours layed vp theyre treaſoure ſurely and ſecretely for loſynge or ſtelynge awaye, tyll theyre mayſter retourne.
+            Thys yonge apoſtle ſent from the deuell to ſowe 
+                  •
+               ocle among the corne
+
+of Chryſte ſeynge no ſuche ſucceſſe or effecte of all his payne and trauayle taken in wrytyng and ſettynge forth that his holſome worke as he loked for / wyllyng in no wyſe that by any his negligence or ſlouth, yt bretherne myghte impute vnto hym the myſ
+               
+                  •
+               ynge of theyr purpoſe: toke vppon hym to come agayne in to England, &amp; preſently to ayde, aſſyſte, coūſayle, and comforte the bretherne of hys guylde here, to ſtande ſtyffe in theyr abſtynacye / wherof lyke a perfyt doctour he hath gyuen thē example hymſelfe / perſyſtynge ſo longe obſtynate, 
+                  •…
+               ll he hath brought hys fylthy carkace to the temporal fyre, and his ſel
+                  •
+                wretched ſoule to ye fyre euerlaſtyng, as ye ſhall more playnely perceyue here after.
+            For after that he was taken and pryſoned in the towre, notwythſtandynge the daunger of hys lyfe, wyth the wrothe of god and all good men;
+
+whych he had all redy purchaſed 
+                  •
+               y hys ſhamefull arrogance and abhomynable hereſye declared in his fore ſayd boke: yet (ſo god of his goodnes blyndeth ye enemyes of his doctrine) the ſhameleſſe heretyke ſo declared hym ſelf there, as neyther good man nor almoſt euyll, coulde wythout abhorrynge and deteſtyng his wyckedneſſe here hym named / for ſo mych as vtterynge hys malyce there agaynſt god and the doctryne of his chyrche ferther then he had done before, lettynge paſſe all other hereſyes as vnworthy to be treated by ſuche an apoſtell, and leuynge them for other no
+                  •
+                ſo hyghly after his owne opyniō enſpyred with theyr newe holy goſte as hym ſelfe: he ſet vpon the bleſſed body of our lorde in the ſacrament of thaulter, denyenge it to be there preſentely, and affermynge the worſhyp therof to be ydolatrye. Me thynke I ſe hereat your ioyntes tremble, your▪
+               
+dyes ſtare▪ your heares ſtert vp, and all the behauour of your body alter, abhorrynge theſe deuelyſhe wordes of thys curſed wretche. But who can let the deuyll to be lyke hym ſelfe.
+            After that this goodly apoſtle had wryten this holſome boke, and ſente it out alredy amonges his brethern: there came vnto hym a leter frome Tyndale warden of theyr guylde, exhortynge hym not to medle yet with the bleſſed ſacrament, nor no hygh maters paſſyng (as he clalleth them) the comen capacyte / but wylled hym to crepe lowe by the grounde, and folow mekenes (for he knewe well the yonge mannys arrogaunce neded ye counſayle) how be it gyuynge hym mych deuelyſſhe counſayle wythall / and amonges all other, that yf the byſſhoppes wolde fall at a compoſy
+               
+                  •
+               yon and be content to ſuffre the new teſtament of hys poyſened tranſlaciō to be ſolde, then Frith ſhuld promyſe
+
+for them bothe to wryte no more / and els they wold not ſpare to wryte ſtyll
+            I trowe the olde apoſtles had neuer the wytte whych theſe new haue, to put the prechynge of goddes word in compromys, tyll a ferther layſour and a more aduauntage.
+            How be it he wylleth in the meane ſeaſon, to graunte the bylyefe in the bleſſed ſacrament as indyfferent / but in no wyſe to confeſſe it for a neceſſary artycle of the fayth.
+            Hys coūſayle not to medle in hygh maters came to late / for thys letter came after that Frythes booke was abrode. But thys laſt counſayle to afferme that a man myght choſe, whither he wolde byleue the body of our lord to be there or not, ſo that in neyther caſe he worſhypped it, ye cay
+                  •
+               yfe folowed ſo long tyll he broughte his owne body into aſſhes, &amp; his ſoule to hell / notwythſtandynge the great paynes taken with hym, &amp; gentylnes
+
+ſhewed vnto hym for his amedemēt.
+            The fole was ſo gloryouſe that when he had nothynge to ſay for his opinion: yet wolde he not reuoke it, for loſynge the glory and renoume which he had ones purchaſed among his bretherne / but then euer fledde to this refuge, that his conſcyence was not ſatiſfyed. And yf you be deſyrous to haue his facyon &amp; maner playnely declared vnto you, no man that hath ſene it can declare it better then ſaint Athanaſe doth in ye Arrians ſayeng.
+            
+               In theyr opynyons they be dyuers
+               
+                  
+                     •
+                  naſ
+                     •
+                  a▪ in decretis Nicene ſy▪ nodi aduerſus Euſe▪
+                
+               and variable, euyn as the beſtes that be called Chameleōtes chan̄ge theyr colour. when they be reproued they be aſhamed / when they be queſtioned with, they ſtycke and ſtagarre / and after they take to them vnſhame faſtneſſe, &amp; pretende excuſes: But than yf any man cōfute and reproue them in thoſe excuſes to: they ſtudye tyll
+
+they haue found out thynges that be not / and accordynge as it is wryten they deuyſe vayne thynges, for this cauſe onely that they may perſyſre &amp; ſtande ſtyff in theyr impyete. And ſo doynge, they do nothynge ellys but openly declare that they facke reaſon &amp; folow the peruerſyte of ye Jewes.
+            
+            To ſhewe you all ye meanes vſed for hys reconcylyacyon, by the lordes and other of the kynges moſt honorable counſayle bothe ſpyrytuall and temporall, it were very longe. And of ſome parte therof ye ſhalbe (I dowte not) enformed by other. But wherby ye maye ſuffycyentely perceyue hys obſtynacye and arrogaūce, and how lytell he was able, for all the boſte made of hys lernynge, to ſay agaynſt the trouth, I ſhall wryte and declare vnto you.
+            His lernynge (to ſaye the trouthe for his age) was to be prayſed, yf hys arrogaūce had not made hym eſteme
+
+it more euer thē it was. I meane his lernynge in the tongues and other humanite / for in any thyng els (what ſo euer he hath kepte in ſtore) ſuerly he hath vttered none. For his workes of hereſyes, be but Luther, zwingliꝰ, Hwyſkyn, and ſuche other, tranſlate out of latyne into englyſſhe. And in his cōmunicaciō how lytle he ſhewed by his anſwers made to my lorde my mayſter bothe preſently, and by meſſage, ye ſhal eaſely perceyue &amp; iudge.
+            My lorde my mayſter (beſydes ye gryefe that any man ſholde wylfully of malicyouſe arrogaunce caſt away hym ſelfe bothe body and ſowle) berynge a ſpecyall loue and affeccyon toward thys yong man, bycauſe that ones he was hys ſcoler, ſent for hym vnto hys howſe, and there beganne to entre cōmunicaciō with hym hereuppon / thynkynge ſurely, that yf the deuyll had not all togyther poſſeſſed hym, ye wordes of our ſauyour Cryſte
+
+ſo manyfeſt, the ſentence of all lerned men before Berengariꝰ &amp; wicklife, as well catholyke as heretykes, the conſent of Chryſtes vniuerſall chyrche from his bleſſed paſſyō vnto this day ſhulde haue conuerted hym from his arrogaunt and malycyouſe pryde.
+            But he hauyng ones alledged vppon a certayne poynte, this place of Eſaye. Et acceperūt de manu domini duplicia, vnderſtandynge therun to for his purpoſe, premia / and theruppon ye boke ſhewed, wherin folowed, pro omnibꝰ peccatis ſuis: beynge confounded, wolde no more dyſpute of any thynge / but ſayde, excepte my lorde were touched wyth the ſame ſpiryte wherewyth all he was hymſelf, yt ſhulde not auayle to dyſpute wyth hym. wherunto my lorde anſwered, yf I ſhuld ſaye lykewyſe to you, and euery man to other: then ſhulde no man labour to brynge in agayn him, that ones were out of the ryght way.
+
+For he ſhulde thynke with hym ſelfe▪ this man is moued wyth an other ſpiryte than I am, therfore I ſhuld leſe my labour. wherfore ſayde he leue this founde perſuaſyon, &amp; whan ye haue ſayd what ye can for your part, heare what I cā anſwere therunto &amp; ſay for ye tother: yf your cauſe be the better / why ſhulde ye not thynke to wynne me?
+            All this was not ynough to incorage hym to dyſpute of ye mater any more, but wythout any profe, requyred his ſpyryte to be admitted and folowed / nor my lorde coulde haue any other anſwere of hym.
+            yet after this, conſyderynge by all lykelyhode that yf he dyd anſwere nothyng, indifferēt men muſt thinke. he coulde anſwere nothyng: the gloryouſe fole affyrmed (ſe the vanytie of arrogaunce) that all the olde doctours of the chyrche were of his opynyon and profeſſed, that yf the contrarye
+
+opynyon were ſhewed vnto hym, playnely declared by any doctours of the chyrche, he wolde knowledge for a trouth / but yet none artycle of the fayth. For that Tyndale (whoſe counſayle as myche as came not to late he folowed) dyd in any wyſe forbyd hym, wyllynge hym not to bynde the conſcyences of the people (what a knauyſhe kynde of flaterynge was this, as though yt laye in hym to bynde and loſen) to byleue yt as neceſſary, but to leue vnto theyre owne iudgemētes, to take yt as them lyſte for a whyle.
+            The man entendeth whan he can ſpye a tyme, to wryte agaynſt yt / and therfore wolde be loth this yonge doctour ſhulde haue done any thynge in derogacyon of his wo
+                  •
+               ke, whome he eſtymed more than all the old fooles of his ſecte / and had thought (yf god had not preuented hym) to haue lefte hym as heyre of his hereſ
+                  •
+               es, to
+
+perfyte all whych he had begonne, as appereth by Tyndales letter ſent vnto Fryth beynge in the towre.
+            But to retourne to the mater. All good men vnderſtandynge this promes of his to folowe thauthoryte of the catholyque doctours, reioyſed excedyngly. For they hoped he hadde ment good fayth / where as he dyd yt onely for a brage to get hym an opynyon and eſtymacyon amonge the rude vnlerned, and a glorye amonge his brethern. Other mē thought hym wonne, when he wolde in any parte abandon his owne wyt, and lene to authoryte.
+            Aboue all other my lorde reioyſed, as to whome yt ſemed, that his ſcoler whome for his wyt he loued euer very hartely, 
+                  •
+               adde ryſen from deth to lyfe, truſtynge that he hadde left his arrogaunce and yelded hym ſelfe to reaſon / and therfore beganne very dylygently and erneſtly to labour in
+
+takynge▪ awaye ſuche cauſes as moued hym to doubte therin. And bycauſe yt wold not ſynke into his hed, that the naturall bodye of our lorde could be in two places at ones, more than any other mannys bodye: my lord anſwered vnto him, that in this bodye be goten and brought forth agaynſte the lawes of nature, nature was notſo mych to be regarded, ſhewynge hym alſo, that contrarye to the lawes of nature, he roſe from deth, and thorough the ſtone, wythoute eyther brokynge yt orr cuſhynge hys 
+                  •
+               odye. And yt is as moche agaynſte nature to haue. ii. bodyes in one compaſſe at ones wythout thone geuyng place to thother, as that one bodye ſhulde at one tyme be hole in two places, whych our ſauyour dyd not onely at that tyme, but alſo afterwarde commyng thorough ye dore faſt ſhyt, wythoute brekynge the dore or hurtynge his bodye / whych hauynge
+
+ones by deth ouercomēdeth, cold no more be hurte of no creature.
+            To this he anſwered accordynge to Tyndales counſayle, that yt was a phraſe of ſcrypture, to ſaye he came in the gates beynge ſhyt, in ſtede of, he came in late after that the gates were ſhyte / and ſo knocked and had the gates opened.
+            And to the tother place of ryſyng thorough the ſtone, he ſayd ye Angell lefte vp the ſtone, &amp; ſo our lorde roſe.
+            Jheſu how relygyouſely theſe men handle the ſcrypture, whyche pratel nothynge ellys put ſcrypture? when the goſpell was layed agaynſt hym, where the women comynge to the tombe after hys reſurreccyo, doubted how they myghte attayne vnto hys body for the ſtone whych couered his graue / and deuyſed who ſhuld helpe them to remoue it / and ſtreyght lokynge towardes it agayne, ſawe the ſtone remoued, and thangell at the
+
+tombe: to yt he anſwered, why myght not the women caſt theſe doubtes by the waye as they came, as well as when they were there. Se you not ye excedynge obſtynacye of hym, who ſo longe as he coulde haue any thynge to deuyſe for an anſwere (were it neuer ſo falſe and folyſhe as this was) yet wolde not ſhewe hymſelfe confor mable in any wyſe / but wolde rather ſaye any thyng what ſo euer it were, then eyther cōfeſſe the trouth or hold his peace.
+            Agaynſte his deuiſe that thangell lyfted vp the ſtone, yt our lord myght at his eaſe come forth, my lord ſhewed vnto hym ſaynt Auſtayn, ſayeng expreſſely, He went forth the graue beynge ſtyll cloſe. what wolde he requyre more playne, who profeſſed to knowledge for trouth what ſo euer were playnely wryten of any doctour of the chyrche in thys mater. yet it toke no place with him as playne as
+
+this place of ſaynt Auſtayne is.
+            Saynt Hierom alſo amonge his anſwers to Hedibia, declareth thys place ſayenge thus.
+            
+               Let vs not thynke that thangell came to open the graue for our lorde when he ſholde ryſe, and tourne ouer the ſtone. But after that our lorde had ryſen at ſuche howre as pleaſed hym, and is knowen to no man, to declare what was done, and to haue ſhewed by tournynge ouer the ſtone, that the tombe was empty &amp;c.
+            
+            What is playne yf thys declareth not playnely, that ye angell remoued the ſtone after that oure lorde was ryſen?
+            And wher as the pharyſe wolde not admytte, that ye body of our lorde myghte be receyued of a ſynner and enter into hym: he ſhewed hym ſaint Auſtayne, ſayenge that our ſauyour gaue Judas the pryce of our redempcyon. And alſo an other, where he
+
+ſayth: he gaue the ſame to Judas which he gaue to hys other apoſtles / ſo that his noughtynes in nothynge altered that whyche was receyued of hym.
+            After that Fryth had gloſed the fyrſte place with a gloſe of his owne, ſayenge that ſaynte Auſtayne there called the myſtery by ye name of that whyche it repreſented: to remoue away all doubt therin, &amp; ſhew playnly that how ſo euer it appered to our carnall eyes and our other bodyly ſences, yet ī dede there were nothyng ellys but the very body and bloude of our lorde, my lorde ſhewed hym an homelye wryten by ſaynte Chriſoſtome, of that mater / wherin among many other thynges ſpoken wyth great reuerence of the moſte bleſſed ſacrament, he ſayth thus.
+            
+               Is it brede that thou ſeeſte▪ or is it wyne, or doth it paſſe thorough the as other meates do? God fordyd: Loke
+
+thou thynke not ſo. For lyke as yf waxe brought vnto the fyre melte in to it, none of tho
+                     •
+                  de ſubſtaūce remayneth, nor nothynge is therby encreaſed: ſo thynke the thynges ſemynge to be there, conſumed wyth the preſence of hys body.
+            
+            
+               And a lytellafter he ſayeth: Suppoſe the bloude of our ſaluacyon to flowe out of his godly and vndefyled ſyde / and ſo approchyng, receyue it with pure lyppes.
+            
+            When Fryth ſaye this Homilie (as ſhameles as he was in anſwerynge) he founde nothynge to anſwere here vnto. But yet reteynynge ſtyll his hygh lokes / and lyke one who were conſulted rather lyke a cenſour &amp; correctour of the catholyque doctours, than taughte by them to knowe hys folye in reſpecte of this, dyſpyſynge thother places whych were alledged vnto hym, ſayeng as for thother, that
+
+they were lytle to the purpoſe, but yt hadde pyth / repetyng ofte, this hath pyth, and deſyred my lorde that he wolde delyuer hym that parte of the homylie in wrytynge, whyche incontynently was delyuered. For my lo
+                  •
+               d had commaunded yt to be wrytē out before for the nones / and ſo departed in very good hope, whyche neuerthe leſſe came to none effect. For the next daye my lorde repayrynge agayn vn to hym, in hope to acomplyſhe that whych he had begonne, founde hym all an other man than he lefte hym, clene fallē to his old arrogaūce of his new ſpyryte / ſo that demaundyng of him, how he lyked this Homylie, and whether there were any thynge elles wherin he were not yet ſatyſfyed, he coulde gette none other anſwere of Frith, but that he had ſlepte lytle after theyr laſte communycacyon. And when he was aſked why ſo: he ſayde he had occupyed hym ſelf in prayeng
+
+to god for knowledge of ye trouthe in this matter. And faynynge hym ſelf aſſured yt god had herd his prayour, ſayde yt ſtode not wyth his conſcyēce to confeſſe that fayth / and therfore he knew that opinion was not trew? As though, if it had ben ſo, god wold by ſpecyall inſpiracyon haue reueled yt vnto hym.
+            The greate clerke hadde not lerned, that he who myſtruſted the word of god, and byleued not the prechers ſent by hym, ſhold dye in his incredit lyte wythoute receyuynge eyther ſygne or ſpecyall demonſtracyon / accordynge to thanſwere made vnto the ryche man in the goſpell, who woldeLuce. 16 haue hadde the lazare ſent to his frendes to teache theym the trouth / and dyuerſe anſweres made by our ſauyour to the vnfaythfull Jewes.
+            Thus this deteſtable wreche abode in malyce obſtynate / but in hys anſweres ſo inconſtante and varyable,
+
+that he wold ſomtyme ſhew hym ſelf contēt to byleue any doctours of the chyrche / ſomtyme he was ſure, yf yt were otherwyſe, god wolde ſhew yt vnto hym ſelfe / that at length yt ſemed vnto my lorde of London, in whoſe dyoceſe he was, moſte mete to procede wyth hym iudycyally / and eyther cure the infect ſhepe, or yf it were deſperate, caſte yt out of the folde. wherfore on Fryday the. xx. daye of June, callynge vnto hym my lorde my mayſter and my lord of Lyncoln̄, and callynge Fryth before them, examynyng hym openly in powles / and fyndynge hym ſtyll obſtynate, finally lefte hym to the ſeculer power, as he had ryght well deſerued.
+            But what payne they toke with hym fyrſt, how fatherly they labored and trauayled for thamendement of that vngracyouſe chylde / and of an other alſo, whiche onely for company of Fryth helde the ſame opynyon,
+
+without groundynge hymſelfe vpon and ſcrypture but Frithes bare word &amp; his ſpyryte, wherwith he was hymſelfe alſo poſſeſſed, and therfore lefte alſo with Fryth. Of an other heretyke alſo one Thomas Philippes, whiche was examyned the thurſdaye next enſuenge, I ſhall not nede to wryte vnto you / for there be other inough whiche both
+                  •
+                can and I am ſure wold, aduertyſe you of yt whiche was openly done. wherfore leuynge to wryte of theſe maters, wherof ye eyther are alredy,, or ſhalbe better ad nertyſed by other: I ſhall wryte what meanes my lorde my mayſter vſed / for that onely can I beſt declare vnto you.
+            After the body of Fryth was deſpayred to haue ſaued ye ſoule, which the fole hym ſelfe regarded not as he ſemed, nor thought peraduenture for all his hypocryſye, of no lyfe to come after thys, but onely as the hethen
+
+do to lyue by glory: ſurely the latter daye of my beynge with hym, he ſayd playnely that he thought no ſayntes ſoule came in heuen before the day of dome / but in the meane ſeaſon repoſed hym ſelfe he wiſte not where. And ſome of his ſecte ſay that the ſoule of our ſauiour Chriſt hym ſelf (O what blaſphemouſe wretches be theſe) is not yet in heuen. But malyce hath no boundes.
+            After that he was cōdempned as you haue herde, and delyuered to the temporall officers, my lord ſent vnto him a chapellayn of his with Rupert who on the ſyxte chapyter of John̄ declareth the mater ſo playne, and ſo reiecteth Frythes obieccyons, as though it had be ſpecyally wryten agaynſte hym. whyche author he refuſed, alledgynge that no lerned man dyd euer referre that place to the ſacrament of thaltare / &amp; that therfore Rupert was not lerned and vnderſtode
+
+the place amyſſe. whyche hys ſlender obieccyon my lorde vnderſtondyng, and hopyng of ſome good effecte yf that were put awaye: ſent me ye nexte day wyth the thyrde tome of ſaynt Chryſoſtome, where he in ye xliiii, xlv, and. xlvi. homilie, not onely referreth that place to the moſte bleſſed ſacrament / but alſo proueth by ye ſame, the bodyly preſence of our lord there
+            I ſhewed hym onely the. xlv. which in dede (yf any drop of grace had remayned in hym) had ben inough.
+            Hereby a man maye ſe, how mych hys brage paſſed his lernynge, who durſte ſo precyſely affyrme, that no lerned man referred that place to the ſacrament / whyche not onely ſaynte Chryſoſtome, but alſo all other catholyke doctours (as ye knowe) do / bycauſe Luther, who dyffereth from them in the bodyly preſence of oure lorde, and ellys not in ſubſtaunce of
+
+the ſacramentall ſygne, is content, not to haue that place referred to the ſacrament, whiche maketh ſo ſore agaynſte them bothe.
+            After ſalutacyon I put hym in remembraunce, fyrſte of his anſwere made to my lordes chapellayn, which he knowledged to be ſo / &amp; than tolde hym, howe my lorde beynge loth he ſhulde caſte awaye hym ſelfe for ignoraunce, had ſent hym there Chryſoſtome, whome he muſt nedes confeſſe for lerned, referryng the ſayd place of John̄ to the bleſſed ſacrament, for whych onely cauſe he had reiecte Rupert as vnlerned. well, ſayde he, lette me ſee yt.
+            After that he had rede a good parte of the homylie, ſo farre as hanged together perteynynge to that queſtyon I aſked what he could alledge why he ſholde not knoweledge the authoryte of Rupert, ſeyng that Chryſoſtome (whome he coulde not denye to
+
+be excellently lerned) vnderſtode that ſame place of the moſte bleſſed ſacrament as Rupert dyd. To whyche after that he had muſed a lytle, he anſwered that he gaue no great credēce to Rupert for dyuerſe cauſes, wherof neuertheleſſe he named no mo but this onely, that he was after Gregoryes dayes the pope / and yet he tolde not ſo myche as whyche Gregorye he ment.
+            when I ſawe hym, in whome after the comē rumour I thought to haue founde ſome lernynge &amp; knowledge in theſe matres▪ (ſpecyally knowyng hym euer before in other ſcyences to haue ſhewed hym ſelfe of a good wyt and vnderſtondynge) vtter no more connynge then he dyd, but onely tryfle and playe wyth euery thynge, ſtudyeng after that he had obiecte one thynge, what he myghte bable whan that were taken awaye, and ſo eſtymynge of that he ſpoke, what by all
+
+lyghtelyhode he coulde ſpeke or anſwere in this mater, whyche ſemed to be nothynge elles but inuencyons of his owne brayne, whych I thoughte my ſelfe able ynough wyth the grace of god, eyther to put of, or at the leſt to bere (for neyther ſholde he nor the deuyll hym ſelfe for any apparance of reaſon, make me byleue one arrogant fole better than all good chryſt
+                  •
+                men conſentynge in one) and beynge lothe to brynge home the heuy news of deſperacyon: I beganne to paſſe ſomwhat my commyſſyon, and adu
+                  •
+               
+               ture farther than peraduenture bycame either my yeres or my lernyng / not doubtyng though my yeres were but yong and my lernyng very ſmall (conſyderynge howe many hundred tymes his yeres were vnder the age of the chyrch, which he taketh in hand to reache this new leſſon, more than my yeres were vnder his / and howe 
+                  •
+               o comparyſon is betwene the ſpyryt
+
+which Criſt ꝓmiſed &amp; ſent his chyrch, and this new goſte of Luthers, full of lyes, diuyſyon, and all falſhod / for what comparyſon cābe bytwene god and the deuyll / to dyſpute the mater wyth hym, who wyth arrogaūce onely and allegacyon of a ſtraunge ſpyryte laboured to ouercome the trouth ſo longe rooted in all chryſten hertes which is of it ſelf without any forayn ayde inuyncyble. wherfore ſeyng Ru
+               
+                  •
+               et reiected, onely bycauſe he lyked not mayſter Fryth, &amp; ſpoke to playne agaynſte hym, ſo that no gloſe wold ſerue to make theym twoo agre: I beganne to preſſe hym wyth that place of Chryſoſtome, whyche I had ſhewed hym, deſyrynge hym to conſyder and waye yt dylygently, ſayenge I nothynge douted yf he ſo dyd, but yt ſholde clerely appere▪ v
+                  •…
+                hym, that the trouth was agayn
+                  ••
+                hym. wheruppon takinge the boke agayn into his handes, he redde ouer again
+
+the ſame place ſtoppynge euer and gloryenge at any mencyon of the myſterye / and gloſynge wyth his owne deuyſe where any thynge prycked hym.
+            As fyrſte at this, we be one bodye and mēbers of his fleſhe and bones. Very well ꝙ he, ſo we be / for ſeynge yt he toke our very nature vpon hym in the virgyne Marye, we be one bodye wyth hym, one blood, the ſame bones, the ſame ſynues, the ſame mē
+               bers / accordyng as Dauid ſayde vnto the iewes: Os meum &amp; caro mea vos.
+            
+            And this is yt ſayde he that deceyueth you / ye referre that which is ſpoken of our communyte with hym by his byrth, to his preſence in the ſacrament of thaulter.
+            Naye ſayde I not ſo. But the ſcryptures and interpreters of the ſame, ſhewynge moſte euydently bothe the naturall cognacyō we haue with him by his incarnacyon, and ye ſpyrytuall
+
+vnyon the chyrche beynge his myſtycall bodye / and lykewyſe in the moſt bleſſed ſacrament ſhewynge both his corporall preſence there, and alſo the myſtycall repreſentacyon of his paſſyon, he and ſuche other where the ſacrament were mencyoned, drewe all to ye myſtery though ye wordes playnly repugned, deuydynge the myſtery from the thynge yt ſelfe / or elles for a ſhyfte, whē the wordes were ſo playnly ſpoken of the very ſubſtaunce, that they coulde not be referred to the myſtery, turne them to his incarnacyon, thoughe the wordes were precyſely wryten of the ſacrament.
+            And that good holy fathers preuentyng by the ſpirite of god the malice of the deuyll, though none heretyke had yet ben ſo ſhameleſſe as to holde the contrary, had neuertheles moſte playnely and apertly deuyded the myſtery from the thyng ſelfe / and yet ſhewed both twayne to be in that
+
+bleſſed ſaccament. whyche thynge myghte I ſayd vnto hym (yf he lyſte not to blynde hymſelf) clerely appere vnto hym by many other places, and by thys alſo of Chryſoſtom, whyche I hadde brought vnto hym, where folowed.
+            
+               But that not onely by loue, but alſo in very dede, we myghte be torned in to that fleſh, that is done by the meat whych he hath geuen vnto vs.
+            
+            Here he ſayth ſayd I, that by the meate whych he gaue vs, we be tourned into that fleſhe and not by hys byrth / &amp; not onely myſtycally by loue but alſo in very dede.
+            Howe canne you wyth all your gloſes inuerte thys from hys corporall preſence, wyth eyther of your gloſes.
+            He anſwered yt was trouth, that receyuynge the myſtery and ſygnyfycacyon, in dede we were by fayth tourned into hym / and that the myſterye
+
+there bare the name of that whych yt 
+                  ••
+               th ſygnifye, as it doth in many places elles in ſcrypture.
+            And beyng aſked than, why he put this artycle, that, vnto the name of fleſſhe, yf it were not to declare not a bare ſygnyfycacyon, but ye very fleſhe whyche he ſpake of before: he made no anſwere, but deſyred he myght be ſuffred to reade forthe / ſhakynge of this mater with a certayne gyrnyng laughter after his faſhyō, as though yt had ben nothynge to the purpoſe / whyche made me euen then almoſte deſpayre of any good effecte, and ſuffred hym to reade forth.
+            
+               when he came to this place, whych Chryſte dyd, bycauſe he wold bynde vs wyth more charyte, and becauſe be wolde ſhe we his deſyre towarde vs / not onely ſufferynge hym ſelfe to be ſene vnto thoſe whyche deſyred him, but alſo to be touched and eaten, &amp; the teth to be ſet in his fleſh, and all
+
+men to be fulfylled with the de
+                     •
+                  yre of hym.
+            
+            Here he thought to haue hadde me in a ioly ſnare, &amp; aſked yf that place (as precyſely as it wrote) were not ſpirytually to be vnderſtanden / &amp; whyther in dede we dyd tere the fleſhe of our ſauyour wyth our teth or not.
+            I tolde hym that I beleued in very dede as the wordes were, yt we ſet our teth in his bleſſed bodye, &amp; yet tere yt not. For in what parte of the hoſte ſo euer we ſet our teth, in that ſame parte is his whole very bodye. As I byleue that whan the preſte brake the hoſte, he tare not the body of our lorde, for that were to put hym euery daye to a new paſſyon / but that euery parte of the hoſte was his hole bodye / and that he who made all thyng of nought, coulde compaſſe this to.
+            Here he laughed and rede forth, wyth many gloſes by the wayelytell to the purpoſe / tyll he came to the
+
+place were he compareth the lambes blode in tholde lawe to his bloode, whyche was therby fygured ſayenge thus. But yf the fygure therof hadde ſo great ſtrengthe in the temple of the Hebrewes in the myddes of Egypte ſprynkeled vppon the threſhold: mych more the trouch.
+            
+            This trouth he ſayde was referred onely to the paſſyon of our ſauyour, and the ſhedynge of his blood / and not to the ſacrament of thaultare. whan I replyed, that in this place ſaynte Chryſoſtome treateth of the ſacrament and not of the paſſyon, he anſwered magno ſuperciſio, wyth a ſolemne contenaunce, that this was nothyng to the purpoſe, and that (I wys) he hadde loked &amp; red ouer that place whan he was at his lybertye. And therewithall he ſhyt the boke and be ganne to comen.
+            where fyrſte he began to induce me, yt all were to be vnderſtāden in miſtery
+
+by a place of ſaynte Chryſoſtome in a homilye whyche my lorde hym ſelfe hadde giuen hym before. And hereby ye ſhall ſe the ſymplycytie and the playnes of this euangelycall man, and howe wyth falſe diſſymulacyon he labored to haue gotten me to hys opynyon.
+            Saynt Chryſoſtome (ſayth he) wylleth ye peple to call away theyr wittes from the wordes as they be ſpoken, and vnderſtande theym ſpiritually / tellynge them yt elles they lyed whan the preſte ſayde, vp with your mynde and your hartes, and they anſwere, we haue to our lord. where as in dede ſaynt Chryſoſtome in that place onely blamed them, whyche not conſyderynge howe reuerently they oughte there to behaue theym ſelfe, ſpent in babelyng of other maters that tyme, wherin they ſholde haue prepared them for the holy worde.
+            Se the myſcheuouſe mater of this
+
+wicked wreche, how deceytfully, and how lyke hys father the deuell wyth lyenge and falſe alledgynge, he went aboute to trappe me truſtynge ſo to haue deluded me and to haue ſhaken me of therwithal, bycauſe he thought I had not redde that place before.
+            who can doubte knowynge herin hys wylfull and malycyouſe peruer ſyte, of what deceytfull mynde he offered to condeſcende vnto the authoryte of the catholyke doctours? For yf he had faythfully intended to folowe theyr doctryne, he wolde neuer ſo malycyouſely and wyttyngly (for he had dylygently as he ſayde hym ſelfe ſtudyed that place) haue falſely alledged that author, for ſuche purpoſe as he knewe well he ment not / nor no man redynge the place coulde ſo haue taken it. Theſe are ſaynte Chryſoſtoms wordes.
+            
+               O thou man what do
+                     •…
+                   thou? haſt
+               Chriſo▪ in ſermone admonito. d
+                     •
+                   
+                  
+                     ••
+                  ch
+                     •
+                  . 
+               thou not m
+                     •
+                  de a promyſe vnto the
+
+preſte, who ſayd vp with your minde and your harte / and thou dydeſt anſwere hym agayne: we haue to our lorde. Doſte thou not feare and arte thou not aſhamed? Thou arte taken wyth a lye euyn at that ſame tyme. Oh, the borde is furnyſhed wyth the ſacramentes / the lambe of god is offered for the, the preſte is in care and anxiete for thy ſake, ſpyrytuall fyre flameth from the 
+                     •
+                  wter, the Seraphi
+                     •
+                  s alſo are there preſent, &amp; cou
+                     ••
+                   theyr face with ſyxe wynges, all bodyles powres make interceſſion with the preſte for the, ſpyrytuall fyre is come downe from heuyn, the bloude is receyued in the chalyce out of the immaculate ſyde for thy purifycaciō. And arte thou not thanne aſhamede Feareſt thou not? arte thou not confunded, nor doſte thou not reconcyle thy ſelf to god? O thou man doth not
+
+thy cōſcyence pryche the? The weke hath. viii. ſcore &amp;. viii. howres, &amp; of thē god hath for hym ſelfe taken out but one howre, and that thou ſpendeſt vppon ſeculare buſineſſe and lawghyng maters, and in kepynge company. wyth what truſte ſhalt thou than go to goddes borde. O wyth how polluted and foule a conſcyence. If thou haddeſt ſtynkyng dyrt in thy handes, durſt thou approche nyghe vnto the hemme of a kynges garment. Doeſt thou ſe brede or wyne? whyther be they voided into ye drawght as other meatꝭ be: god forbede. Thīke not ſo. For the wiſe as wexe if it be brought to the fyre, it waxeth lyke vnto the fyre, none of tholde ſubſtaūce therof remayneth, nor other ſubſtaunce ys therby encreaced: ſo thynke here to, that the ſacramentes be conſumed wyth the ſubſtaunce of the body. And
+
+therfore when ye go to goddes borde thynke not that ye receyue godde &amp; body at a mannes hande, but that ye receyue it of ye Seraphyns fyre with the tonges, whyche fyre Eſay foreſawe you receyue / Coūte and rekyn that that holſome bloude in a manet floweth out of the dyuyne and vndefyſed ſyde, and ſo drawe nere and receyue it wyth pure and clene lyppes.
+            
+            If the man wanted not lernyng to vnderſtand yt (as in dede he dyd not) howe can his fautours ſhew that he wāted not playnneſſe, faythfulneſſe, and honeſty, in ſo declarynge yt.
+            Hereby a man maye playnely ſe, by what meanes they allure mē to theyr ſecte / whyther by the wordes of god as they pretende, or by theyr owne inuencyons, falſe dyſſymulacyons and lyes. whyche I wolde to god allthe world knew as well, as all they who haue cōmened with theſe members
+
+of the deuyll, theſe gates of hell, not beynge before of theyr owne noughtynes corrupte, do ſpye and playnely perceyue.
+            when I hadde ones made anſwere vnto his allegacyon: the ſubtyll euā gelyſt ſeynge hys falſhode toke none effect but ſpyed, &amp; layde manyfeſtly to his charge, otherwyſe than he hoped yt ſhulde haue ben, was all aſtonyed, and ſat ſtyll a good while, with oute eyther ſpekynge or makyng any ſemblaūce to ſpeke. At the length I dyd interrupte his ſylence / &amp; ſhewynge my ſelf to meruaile that he who pretented ſo myche ſymplycyte, ſo a
+                  •
+               
+               dent a deſyre to knowe the trouthe, wold neuertheleſſe in dede labour after ſuche ſyniſtre faſhyon, to blynde the trouth, deſyred hym that he wold at the laſte, rather mekely folowe the trouth, than to drawe and hayle euery thynge to his purpoſe / and ſo arrogantly (at that worde he gyrned agayne)
+
+ſet vnto euery place his gloſe, as though, whan he promyſed to byleue the doctours of yt chyrche, it had ben promyſed hym agayne, that we ſholde vnderſtande theym as he lyſt, and not as the wordes gaue.
+            why I praye you (ſayde he) be not you fayn to gloſe thoſe wordes whe
+                  •
+                on you grounde your ſelfe moſte? And where the wordes be, this is my body, are not you fayne to ſay in this is my bodye, or in this is conteyned my bodye. ye ſe howe lyke a lerned man this was ſpoken.
+            The kynges hyghnes in his moſte excellent and erudyte aſſertyon of the ſacramentes, layde this agaynſt Luther, who ſayth that the bleſſed body of our lorde is in the ſacrament, the ſubſtaunce of brede neuertheleſſe remaynynge as yt was before, whoſe ſayenge can not ſtande with the wordes of our ſauyour, wythout ſuche a gloſe as who ſo euer putteth vnto ye
+               
+wordes of god, is accurſed of hym, and to be deteſted of the worlde. And Fryth thought this had made gayly agaynſt the catholoque fayth, whych without eyther addynge or dyminyſſhynge any thynge in the wordes of god, is to beleue that the moſte bleſſed ſacramēt is his very body, which was betrayed for vs.
+            I am ſuer ſayd he, ye wold not ſay that that whyche ye ſe or perceyué by your other ſences is his body, forthā ſholde ye ſaye that the forme of brede and wyne, were his bodye.
+            I aſked hym where he lerned that new logyke, to ſay that by this word thys, were ſhewed the outwarde reſemblaunce of any thynge to the ſences, and not the mater or ſubſtaunce therin conteyned. And aſked hym whyther whan he ſayd this a ſtone or a ſtocke, he ment ye colour, or bignes, or ſmothenes, or other accydentes, or elles the ſubſtaunce, the very ſtone yt ſelfe.
+            
+               He wolde haue perſuaded me farther, bycauſe I myght (he ſayde) wellſe with myne eye, that yt was very brede / wheruppon I anſwered, that in this hygh mater of fayth, that argumēt was very faynt, while in thynges naturall, a pore peynter myghte ſometyme begyle both myne eye and hys to. And therfore I willed hym rather to myſtruſt his ſences wherby we be dayly deceyued, than the wordes of god whyche neuer can fayle, how impoſſyble ſo euer they appere vnto our ſyght.
+            He ſayde he myſtruſted not the wordes of god, but byleued theym as he vnderſtode them / that was, that god gaue the name of his bodye to that thynge, whyche onely betokened his bodye.
+            I anſwered hym to ſhew that it was no bare token of his body, but his very bodye in dede, our lorde ſayd, this is my body whyche ſhalbe betrayed
+
+for you / and no myſtery, no ſacramēt nor ſygnyfycacyon of his bodye was betrayed for vs, but his very natural body, whych henge on the croſſe.
+            when he perſyſted ſtyll, ſaynge yt ought to be vnderſtanden for the token of his body which was betrayed: I began more erneſtly to deteſte his arrogāce in my mynde, who dyd not onely falſely allege and fondly gloſe the wordes of men, but alſo durſte take vpon hym to expounde the wordes of our ſauyour hym ſelfe, contrary to hys owne expoſycyon.
+            Nay not ſo quoth he. For ſaynte Auſtayne ad Adimantum ſayth, that our lord calleth the ſygne of his body hys body.
+            So do all chryſten men (ſayde I) call it a ſygne, a token, a fygure, a ſacrament, a myſtery, a ſygnyfycacyon, and what ſuche name ye lyſte to call it / and yet both call it and afferme it, to be his bleſſed body to.
+            
+               And what ſaynt Auſtayne mente in that one place, wrytynge vnto an heretyke whome he labored to conuince in an other mater, maye eaſely be perceyued by many other places of his workes, where he ſpeketh mooſt catholykely and reuerentely of the bleſſed ſacrament. whych I told hym myght wel appere vnto him, by ſuch places of the ſayd ſaynt Auſtayne as were alledged agaynſte hym at his examinacyon. And yf ſaynt Auſtayn had ben of his opynion in dede, as in dede he was not: yet had not his opinion alone haue ben to be preferred before the fayth of all the other olde holy doctours and ſaintes, &amp; agaynſt thauthoryte of the whole chyrche of god.
+            But this hath euer ben a crafte of heretykes, by falſe alledgyng or falſe vnderſtandynge of ſome one catholyke doctour, whoſe authoryte were moch reputed amonge good men, to
+
+pretende that there opiniō were alſo catholyke.
+            So dyd the prechers of the cyrcū
+               cycyon with ſaynt James, the Arrianes with Origene, and Theognoſtus, the Donatiſtes wyth faynt Cypryane, the Origenyſtes wyth ſaynte Hierome &amp; Theophilus, theſe myſty myſtycall heretykes with ſaynt Auſtayne euyll vnderſtāden, and all the rable of Luthers ſecte, wyth wordes myſſe taken among ſome wrytynges of Eraſmus, wherin how playnely &amp; ſyncerely they haue euer delte, &amp; yet do, any man maye ſe who hath vnderſtandynge in the laten tongue, and lyſte to rede theyr actes.
+            After all this comenynge longe wyth hym of his arrogaunce &amp; foly, amonge other thynges, I bad hym ſhewe me that euer any man before Berengarius tyme, dyd profeſſe this opinion which he toke for ſo trewe▪ that he toke vppon hym to confute
+
+the contrarye / wherin ſpecyally was ſo great ieoperdye and parell of the hole deſtruccyon of Chriſtes chyrche. For yf this be idolatrye, all chryſten men theſe many hundred yeres haue commmytted idolatrye.
+            For what ſo euer they thoughte in harte, in very dede they gaue yt the worſhippe dew onely to god, bycauſe of the godhed there ioyned wyth the fleſhe and the ſoule. And theyr diſſymulacion excuſeth them not from idolatrye, yf they thought them ſelfe to do amyſſe, but rather encreaced theyr faute, doynge yt agaynſt theyr owne cōſcyēce, to the ruyne of other ſoules.
+            when he could ſhewe none but one Betrame in Charles days the great: than I tolde hym yt thopynyon whyche he denyeth, myght be proued vnto hym to haue ben ſo wel allowed by all lerned men both catholyque and heretyques byfore that Betrame his dayes, yt the holy mē as ſaīt Ireneꝰ &amp;
+
+ſaynte Hilary, both in theyr diſputacyons had grounded theym ſelfe vppon that poynt, to confute other hereſyes whyche hym ſelf now denyed.
+            Then began he as yt had ben in a tragedye, to ruffle and crye why had not the byſhoppe told hym this / complaynyng ſore, that they had ſhewed hym no ſuche place / ſo that a man wolde haue thought hym very ſory, that he knewe it not before, and deſyrouſe to know it then, whych proued afterwarde clene contrarye.
+            To that I anſwered, yt vnto ſuche places as the byſhoppes had ſhewed hym, he wolde (as yt were by certayn violence) put to his owne gloſe, and vnderſtande them as he lyſte / whych lykewyſe he wold haue done in this, though now he lyſt to glory and ſay, they hyd this place frome hym, and that els he wold haue ben reformed.
+            He blamed therin my haſty iudgement, whyche neuertheleſſe he declared
+
+to be trew the next daye after, for not withſtandynge that he promyſed to knowledge the catholyque opynyon for a trouth vppon ſyght of thoſe places: yet hauyng ye bokes brought vnto hym, the places ſhewed and ſuffered to reade a myche as he lyſte, at length he ſlypped away / ſayeng they were ſomwhat to ye purpoſe, but not ſo myche as I ſayde they were.
+            when I bad hym ſhew, what I had promyſed whyche was not there, he ſayde the places were not ſo vehemēt as he loked they ſholde haue bene, wherunto an other laye man a gentylmānes ſeruaūt, whome I brought with me beynge myche better lerned (without mayſter Fryth kept a great dele more in ſtore then euer I knewe hym vtter) then eyther of vs both, &amp; yet was yonger I wene than maiſter Fryth to, anſwered, yt yf it had neded, vehemency to perſuade yt, &amp; had not ben a very playne open well knowen
+
+trouth of yt ſelfe, yt had not ben mete to be made by thoſe holy doctours a grounde in an other dyſputacyon, wherfore that was rather a commendacyon than a faute whyche he had founde. Amonge other dygreſſyons the ſayd yonge man aſked hym what fyrſte moued hym to leue the contrary opynyon of that he held then, whiche ones he byleued, &amp; byleue this ſo ſtedfaſtly, yt he wold dye for yt wherunto he anſwered yt he byleued it not, but thought yt onely more probable then tother parte, ſo that his conſcyence wold not ſuffre hym to reproue yt / and therfore thought the byſhoppes dyd hym great wronge, to geue ſentence agaynſt hym as an heretike, who offred hym ſelfe to be reformed, whyche he performed neuertheleſſe neuer a whyt, and myracles he ſhewed none. Seynge than we be bydden proue the ſpyrites whether they be of god or no, what good man can admytte that ſpyryte, whyche ſhewyng
+
+no vertue nor knowledged enſpyreth onely arrogance and blaſphemye.
+            Beſydes this he had promyſed at my departynge from hym the fyrſte daye, yf I could ſhewe hym where yt were ſpoken expreſſely, that the ſubſtaunce of the brede were chaunged by the conſecracyon, or that thoſe were not brede ſtyll after the conſecracyon, or that a ſynner dyd receyue the body of chryſte, he wolde knowledge it for trouth: for at the length, ſeyng hym ſelfe not able to anſwere ſuche places of holy doctours as had ben layed agaynſte hym, for the corporall preſence, of our lorde in the bleſſed ſacrament, nor yet to ſaue the mater wyth no gloſe of his owne, but that he muſt nedes confeſſe that we receyued the naturall body of our lorde in the ſacrament: he then went aboute to ſaue the mater by thys, that good men receyuynge the myſtery of oure lordes body, dyd by faith receyue alſo
+
+hys naturall body / whyche ſynners coulde not do, for they can not do it wyth aſſuraūce, beyng gylty in theyr owne conſcyences. whyche ſayenge was contrary to his fyrſte opinion / for fyrſt he defended precyſely yt there was no naturall body / but the ſacrament onely wythout the body / the cō
+               trary wherof he ſawe ſo determyned by doctours of the chyrche and holy ſayntes of euery age, that he coulde not gloſe them to denye his naturall preſence, but yet he graunted it ſo, yt in effecte he denyed it, ſhewyng hym ſelfe wythall ſo obſtynate a fole, that he had rather ſay that thynge in ſome wordes whych he wolde in other wordes ſtreyght way denye, thē playnely cōfeſſe the trouth. For he cōfeſſed our lordes preſēce there naturally, but by faith. I meruayle how he could be ſo folyſſhe, or thynke any man ellys ſo folyſſhe, as to be induced to byleue, yt receyuynge by fayth were naturall
+
+receyuynge, ſpecyally ſeynge bothe ſaynt Chryſoſtome and ſaynt Cyryllus (whych were alledged vnto hym) make a dyfferēce bytwene receyuyng by loue or fayth, and naturall receyuynge / bothe whych they ſhewe to be in the receyuynge of the bleſſed ſacrament. And thys greate clerke wolde haue vs wene that bothe were one / &amp; then were thoſe olde ſayntes no very good clerkes, which ſo deuyded thē.
+            But to returne to hys promyſes who herd euer of ſuch an vnſhamfaſt brage, as to ſaye, yf any of theſe thynges were ſhewed hym, that he wolde confeſſe the catholyke fayth for true, when all thoſe were ſhewed him moſt euydently before. For who can ſpeke more plainely that a ſinner receyueth the body of our lorde, then doth ſaynt Auſtayne, ſayeng that our lord gaue the price of our redempciō to Judas? was any thynge ellys, than his body and blode, ye price of our redempcyō?
+
+and that was it yt as ſaynt Auſtayne ſaith, he gaue to Judas at his maūdy
+            And that the ſubſtaunce of brede is clere cōſumed, and none other ſubſtaunce remaynynge there but of the bleſſed body of our lorde, who canne ſpeke more playnely then ſaynt Chryſoſtome, ſayenge, that the thynges repreſented to our eyes, be conſumed with the preſence of ye body, as waxe is with fyre / ſo that none of the olde ſubſtaunce therof remayneth, nor other ſubſtaunce is therby encreaced.
+            And yet this ſymple man wolde hane ſemed bothe to byleue ſaynte Chryſoſtome, and yet doubte of the chaunge of ye brede / and alſo byleue ſaynt Auſtayne, and yet doubtynge for all that whither ſynners receyue the body of our lorde / vſynge none other anſwere but this onely, yt (whē we aſked hym how his ſayeng could agree with theſe places alleged vnto hym) hym ſelf had well aduyſed theſe
+
+places, and that they ſatyſfyed not his conſcyence. For euer when I had ſhewed hym ſuche places as I promyſed hym, and then requyred hym to kepe hys promyſe and knowlege the trouth: he anſwered nothynge els, but that yet his conſcyence wold not ſerue hym ſo to ſaye for all that / &amp; added therunto, that thoſe places whych ſemed vnto vs ſo playnely to proue that we ſayd, ſemed the contrary vnto hym. when he was bydden ſhewe ſome cauſe why: then was the ſpyryte vp agayne.
+            A wonderouſe wyſe ſpyryt, which ſerued onely, when he hadde neyther authoryte nor reaſon to ſhewe for yt he ſayde. And myracles he ſhewed not that euer any had ben done for theyr opinion / but contempned all myracles that euer had ben done for ours / ſayenge yt we be bydden proue the ſpyrytes.
+            when we ſaue hym abyde by nothyng
+
+that he promyſed / we aſked hym what he ment to offre ſuche promiſes as he thought not to kepe / and ſaye yf yt coulde be ſhewed hym in any doctour of the chyrch, that he wold knowledge yt for trouthe. He ſayd yt was not yet playnely ſhewed hym in expreſſe wordes, that eyther a ſynner receyued the body of our lorde, or yet that there remayned no ſubſtaūce of the brede, or that the naturall bodye of our lorde were receyued any other wyſe thā by fayth. wherfore (though we ſpyed well his fayre promyſes made byfore, were but dyſſymulacyons, and that it were not poſſyble for all doctours that be and haue ben, to wryte ſo playn as to make Frith call them playne) yet myndynge for theyr cauſe whyche were preſent at the leſt to confounde hym: we ſhewed hym of euery one of theſe ſentēces dyuerſe places playne vnto euery mānes iudgement ſauynge onely his owne,
+
+whyche onely he eſtemed. Of whych for example I ſhall reherſe you ſome beſydes thoſe ye haue herde here all redy, ſaynt Chryſoſtome ſayth thus. For yf thoſe whyche defoyle the kynges purple robe, be puniſhed no leſſe thā thoſe that tere it: what meruayle of thoſe that wyth vnclene conſcyēce receyue the bodye of Chryſte, ſuffre the ſame punyſhement that they who nayled hym to the croſſe.
+            
+            It is a wonder to any man whych knoweth not the vnſhamefaſtnes of this arrogant fole, how he coulde after this denye (knowledgynge this mā to be of authoryte) but that a ſynner receyueth the ſame bodye whych was nayled on the croſſe. yet to this could we haue none other anſwere of hym, but yt yt dyd not fully perſuade his conſcyence, nor ſatyſfye hym, pretendynge neuertheleſſe that he wolde gladly knowe and
+
+knowledge the trouth.
+            we ſhewed hym alſo the wordes of ſaynt Euſebiꝰ, wherin that holy mā not onely declareth by playn wordes, the conuerſyon of the brede and wine into the fleſhe and blood of our lorde in the bleſſed ſacrament of the aulter, but, alſo maketh yt open by the ſpyrytual conuerſyon of man into the myſſtycall bodye of Chryſte, thorowe the ſacrament of baptyſme. For who can doute but he can do the leſſe that can do the more. But a leſſe thynge is yt to tourne the brede and wyne into his own fleſhe and blood in the ſacrament of the aulter, than an euil dedely ſynfull man into a good lyuely member of his myſtycall bodye by grace in the bleſſed ſacrament of baptyſme. For yf be yt a leſſe thyng (as in dede yt is) to tourne brede and wyne into his own fleſhe and bloude, than to make the whole worlde of nought: than muſt it nedes be a greater thing
+
+to tourne an euyll man into a good, and make a dedely ſynner, a lyuely member of his myſtycale bodye. For as ye wote well ſaynt Auſtayn ſayth Maius eſt iuſtificare impium quam creare coeſum &amp; terram. A greater thynge yt is to tourne an euyll mā into a good, than to create bothe heuen and erthe of nought. The wordes of ſaynt Euſebius of whyche I ſpeke that were ſhewed vnto Fryth, are theſe.
+            
+               Let no man doute, but that ye natures of brede and wyne whych were there before, maye at a trecke of goddes power by the p̄ſence of his maieſtye be chaūged into the nature of our lordes bodye, whyle we ſe that man hym ſelfe by the connynge of the heuenly mercy, is made the bodye of Chryſte. For as euery perſone that cometh to the fayth, before the wordes of baptyſme is yet in the bandes of the olde det / but after the wordes
+
+be ones pronoūced, is by and by clenſed of all the dregges of ſynne: euyn ſo the creatures that ſhall be conſecrated wyth the 
+                     ••
+                  uenly wordes, when they are ſayed vppon the holy aulters before they be conſecrate, by the inuocacyon and callyng on of the hygh god, there is the ſubſtaunce of brede and wyne / but after Chryſtes word
+                     •
+                   ones ſpoken, it is the body and blood of Chriſte. And what meruayle is it of thoſe thynges yt he was able wyth hys worde to create and make of nought, he can whan they be created conuerte and tourne theym wyth his worde? ye yt ſemeth to be a leſſe meruayle for hym to conuerte &amp; tourne that yt he hath made of nought into a better thynge.
+            
+            Farthermore where as Fryth affermed and ſayde, that in the ſacramēt of the aulter Chriſt was in none other wiſe receyued than ſpyritually
+
+by fayth onely / we ſhewed hym very playne and opē wordes of ſaynt Cyrylles to the contrarye / who to confure this falſe opynyon that Fryth held, and to proue that we be ioyned and knyt vnto Chryſte, not onely by fayth but alſo by naturall partycypacyon of his fleſhe &amp; blood, ſaith thus.
+            
+               We denye not but that by ryghte fayth and pure cheryte we be ſpyrytually ioyned with Chryſt. But that ther
+                     •
+                   is no meane wherby we be ioyned with hym after the fleſſhe, that is the thyng forſothe that we vtterly denye, and that is we ſay farre from the mynde of the holy ſcriptures. For who douteth that Cryſt in ſuch wyſe is a vyne to, and we the braunches, whenſe we gete lyfe from. Herken vnto Poule, who ſayth that we be al one body in Chryſte. For all though we be many, yet in him we be all one / for we take all parte of one brede.
+
+Doth he peraduenture thynke that we knowe not the vertue of the myſtycall bleſſynge, whiche whyle it ys done in vs, dothe it not make Chryſt to dwel
+                     •
+                   in vs corporally to, thorow the communicacyon of Chryſtes fleſſh. For why be the membres of faythfull folke the membres of Chryſte. Do ye not know (ſayth he) that your membres be membres of Chryſt? ſhall I than make the membres of Chryſte the membres of a ſtrūpet? God forbede. Our ſauiour alſo ſayth: he that eateth my fleſſhe and drynketh my bloude, dwelleth in me and I in hym. Wherfore it muſte be conſydered, that Chryſt is in vs not onely habitually by cheryte, but alſo by naturall partycypacyon. For lyke wyſe as yf a man take wex that is moſten with fyre, &amp; with other wex yt is in lyke maner molten, ſo myngle it that bothe 
+                     •
+                  wayne be made one: ſo
+
+by the communion of Chryſtes body and bloud he is in vs and we hym. For this corruptible nature of ye body coulde ellys in no wyſe haue bene brought to incorrupty by
+                     •
+                  ite and lyfe, but yf ye body of naturall lyfe (that is to wyt the body of Chryſte) were ioyned with it.
+            
+            Fynally after many mo places of dyuers olde holy ſayntes &amp; very connynge doctours alledged vnto Frith all whych here to reherſe were a very longe beſynes, we layed before hym a place of ſaynt Hieromes, whoſe wordes be theſe.
+            
+               God forbede that I ſholde any
+               
+                  
+                     •
+                  . Hieroni. in epiſto. 1. 
+                     •
+                  d 
+                     ••
+                  e
+                     •
+                  iodorum. 
+               euyll ſpeke of them, that ſuccedynge into ye place of thapoſtles, with they
+                     •
+                   holy mouth conſecrate the body of Chryſte, by whome alſo we be made chryſten menne / who hauynge the heyes of the kyngdome of heuyn, are ſe
+                     •
+                   iudges in a maner before the generall iudgement, &amp; kepe the ſpowſe
+
+of our lord wyth ſobre chaſtyte.
+            
+            Howe playne theſe places be, yeſe playnely / and yet he denyed them to be playne ynough.
+            After that we had ſhewed hym theſe places, with many mo ſo playn, that he could fynde no gloſes for theym, but onely fled to his conſcyence and his ſpyryt, vnto whyche onely they ſe med not playn: I beganne to repete that I had promyſed vnto hym, and he to me / deſyrynge hym eyther to ſhewe that I hadde not kept my promyſe, or elles to kepe his. Then he deſyred vs bothe to be content wyth his anſwere. wherfore ſeyng no more truſte in his worde and promyſe, nor no better hope of amendement, we were purpoſed to departe / ſaue onely that we abode to ſe thende of an other mannes communicacyon with hym / wyſhynge rather than hopynge any good to enſue. After whoſe communycacyon ended, we reſo
+                  •
+               ted agayne vnto hym, not to dyſpute any more
+
+with hym by authorite, agaynſte all whyche he wolde euer at length vſe his own conſcience for a ſhote anker, when all reaſon and craft fayled, but onely to lament wyth hym his folyſh or rather malycyouſe obſtynacie and arrogance, ſo myche eſtemynge hys owne fantaſye, that none authoryte myght dryue yt frō hym / not of thoſe whoſe lernynge and vertue he could not doute of, hauyng by theyr paynfull deth and ſharpe lyfe, borne wytnes to that doctryne whyche they taught, and whom god by many myracles hath declared for holy ſaītes / requy
+                  •
+               yng hym to folow rather theyr iudgement then his owne fantaſye. ye haue not yet ſhewed ſayd he that this was theyr doctryne. we haue ſhewed ſayde I ſo playne wordes of theyrs for our fayth, that ye can not yet deuyſe how to make theym agres with your opinion.
+            Moreouer ſayde we there is with vs one authoryte paſſyng all theſe, ye ſpiryte of god promyſed to Chryſtes
+
+chyrche, whyche teacheth all men beynge in the vnitie of Chriſtes chyrch, to confeſſe as we do.
+            Here beganne a newe diſputacyon, what was ye chyrch, whyther knowen or vnuiſible, comen of both good and bad, or elles of electes onely. For he ſayde that the fayth was euer preſerued amonge the electes. whan I aſked hym how thā ye fathers which alledge the authorite of ye chyrch, knew the chyrch which was of authorytie, yf yt were not a knowen chyrch / ye by my fayth ꝙ he, yf yt were not for your chyrche ye could ſaye very lytle. For that is your onely ſhyft whan ye come to extremyte.
+            By my fayth you ſay very trouth ꝙ I, for yf yt were not by the authoryte of the chyrche, I ſe not howe we ſhuld proue this goſpell whyche we reade and reache, to be Chriſtes. And than to ſhewe hym that this worde chyrche, not onely ſpoken of the vnyuerſall chyrch, but alſo ſpoken of any
+
+parte of the ſame, betokeneth both good and badde, whyche we oughte in any thynge to folowe, were lyke wyſe to be vnderſtanden: I aſked hym howe he vnderſtode that place, Tell the chyrch? and whyther he dyd therin admyt ſaynt Chriſoſtomes authorite, expoūdyng, dic eccleſiae, praeſulibus ſcilicet &amp; praeſidentibus, whyche he ſayde he dyd. Than I aſked hym, yf god dyd not by this place authoryſe that chyrch of his comē to good and bad, and bynde vs to folow the iudgemēt therof / addynge a fore payne yf we dyd not. whā he denyed not ye / I ſaid▪ than muſte ye nedes graūte, yt where we be commaunded to folow the iudgement of the chyrche, yt is ment of knowen men of the chyrche, whether they be good or bad.
+            In ſmale maters (ſaid he) brethern be commaunded to folowe the iudgement of theyr curate, &amp; yt is his parte to ſet them at one.
+            Then he that was wyth me aſked
+
+hym, where he ſerned that gloſe▪ and yf a greater mater chaūced, whyther yt ſhulde haue no iudge, bycauſe of the greatnes / ſpecyally hauynge therfore moſte nede to be iudged. wheruppon takyng occaſyon / I put hym his own caſe for example, ſaieng▪ if I ſaw you beſye in teachyng ſuch doctryne as offended me, and that you neyther wolde for myne admonicyon or any other elles, leue yt, ought I not than to tell the chyrch hereof: he ſayd yes. And whych chyrch I pray you? your vnknowen chyrche of onely electes▪ or elles the comen knowen chyrche of good and bad, of whyche we ſpake byfore, and ye gouernours of ye ſame, whych chyrch than yf you dyſobeyed, ought we not than and were we not bounde by the worde of god, to take you as 
+                  〈…〉
+                hethen.
+            To this he wolde not anſwere dyrectely / but ſayde take me as you wyll. 
+                  •
+               aye not ſo ſayde I, we muſte order our wyll yf we wold do well▪ And
+
+for myne owne part I am deſyrouſe to knowe the trouth. I pray you tell me, whyther I am bounde by the worde of god ſo to take you / &amp; doyng otherwyſe, whyther I breke the cō
+               maundement of god or no, ſpecyally knowynge theyr pryuate iudgement herein to haue be preiudycate by the hole catholyque chyrche of Chryſte. ye may take me ſayth he here as you
+                  •
+                cōſcience ſerueth you. But yf I were beyond the ſees from whens I came, I ſhuld not be condempned for this, and you ſhulde be excōmunicate for the contrary.
+            yet ſayd I, there is but one truth, and one chyrche whyche profeſſeth ye truth: ſo that one of theſe two chyrches is not of god. If our chyrche be not the ryghte chyrche / then within theſe fewe yeres byfore theſe new goſpellers began to inſtytute theyr chyrches, and founde theſe newe fangle opinions, there was no chyrch at all. yes ſayd he the fayth was euer proſerued
+
+amonge the electes. Then ye yonge manne whyche was with me, ſeynge hym thus torne the whele, &amp; retorne euer agayne to that whyche he had ſayd before, though it were neuer ſo fonde and playnely confuted: beganne to repreue hys vanyte, who could for ſhame alledge that agayne, which ſo lately was anſwered vnto / and exhorted hym to declare that eyther we were not bounde to byleue ye iugement of the chyrche, or that theyr iudgement who condempned hym dyffered from the iudgement of the hole chyrche / or ellys to abyde no lenger in that myſerable eſtate, wherin that all chryſten men ſhulde be commaunded by god to take hym as an hethen / and he hym ſelf be in the moſt dredefull indygnacyon of god. when he replyed agayne of his conſcyence, whyche wolde not ſuffre hym to admytte this opinion: we deſyred hym eyther to enfourme our conſcience, or ſuffre hys to be enfourmed / ſayenge
+
+               
+                  ••
+               e had for vs the worde of god, p
+                  ••
+               
+               nyſhynge with temporall▪ ſhame and alſo eternall payne, the diſobeyers of his chyrche (for there foloweth as y
+                  •
+                knowe quodcū
+               
+                  
+                     
+                  
+                  que
+                ligaueritis &amp;c) &amp; h
+                  •
+                had nothynge for hym but his owne fanta
+                  •
+               ye, and one place of faynt Auſtayne expowned after his deuice; contrary to many other moſte playne and euydent places, wherin the ſame author ſhewed hym ſelfe moſte conſtantely to byleue that whyche the chyrche byleueth and techeth.
+            when for all this we could haue none other anſwere but of his conſcyence, declarynge fyrſte vnto theſe whiche were preſent the vntruth of his promyſes, who though all were ſhewed vnto hym whiche he requyred to be ſhewed, wolde not yet knowlege the truth: I prayed god to amende hym, entendynge to departe.
+            But the tother yonge man callyng to remembraūce, how boldely Fryth had denyed any 
+                  •
+               orſhyp to be d
+                  •…
+               
+               
+to the bleſſed ſacrament, though it were in dede ye very body of our lord / and truſtyng yt Frith ſeynge playnely proued vnto hym, that not onely ſome worſhyp, but moſte hyghe and dyuyne worſhyppe were dewe to the bleſſed ſacrament, wolde not be ſo ſhameleſſe as to denye the corporall preſence of our lorde, ſhewed hym a place of ſaynt Auſtayn expowndyng Adorate ſcabellum pedum 
+                     •
+                  ius / playnely declarynge by expreſſe wordes, that not onely he ſynned not who dyd worſhyppe the ſacrament, but that alſo he ſynned who dyd not worſhyp the ſacramēt with ye honour dewe onely to god. So that yf it were ſynne not to wurſhyp it / the mater was not as he ſayd indyfferēt to byleue whyther it were the very body of our lord. For of neceſſyte he that worſhyppeth it, muſt thynke it our lordes very body, or ellys he commytteth idolotry in worſhyppynge it after ſuche ſorte. wherwyth he was abaſſhed &amp; ſayde▪
+               
+He meruayled that ſaynte Auſtayne wolde wryte ſo / ſeynge that this honour whiche ſaynt Auſtayne named after the ſcolemen (the man wolde faine haue ſemed vniuerſally lerned) was not dewe to the body or ſowle, but onely to the di
+                  •
+               ynyte of Chryſte▪ whych we ſayde that this place therfore of ſaynt Auſtayne, ſhewed well that he and all ſuche as alleged ſaint Auſtayne to ſaye that the ſacrament was onely a ſygne, lyed on hym / for he in thys place (as the chyrche byleueth) knowledgeth the ſonne of god to be naturally preſent there, bothe body ſowle and alſo godhed, &amp; therfore ſayeth that he ſynneth who doth not honour the ſacrament wyth the honour dewe to god onely. Then beganne he after hys olde faſſhyon to tryfle, ſayenge that god was preſent euery where. Then I aſked whyther bycauſe god was preſent in euery place, he durſt worſhyp ye poſt which ſtode there, wyth the honour dewe
+
+onely to god. The ſhameleſſe wreche bluſſhed then ones, and ſtutted and ſtamered, deuyſynge in the meane ſeaſon an anſwere whyche was this at length, that he coulde not thynke ſaynt Auſtayne wolde wryte ſo / and yet ſayd he yf it were ſo (&amp; there aduiſed hym a prety whyle) a man myght (and after an other lyke pauſe) terge verſari / but I wolle not. whyche I byleued not, ſeynge hym alredy do ye contrary. And therfore lamentynge fyrſte with hym for our old acquayntaunce to ſe hym in that caſe, &amp; prayenge god that he myghte knowlege the treuth. I bad hym farewell. And thother whyche were there departed ſauynge one, whoſe labour neuertheleſſe &amp; cheryte ſhewed towarde hym, auayled nothynge, but onely to hys meryte that toke the payne. For this fole perſyſted ſtyll in his vnwylfulneſſe euen vnto the fyre, whyther he went, as I haue knowen and herde many go to the gybet, coūterfaytyng
+
+an exceſſiue outward gladnes, eyther to lighten theyr inward penſyuenes, or to make theyr iudges be hated, or ellys for a glory, bycauſe they wolde haue it ſayd they dyed lyke men, dyenge in dede moſte lyke deſperate wreches of all other.
+            Thus ye fe what ende his pryde &amp; arrogaunce, confermed wyth the deuelyſhe flaterynge of Tyndale and Joye with ſuch other, not onely pray ſynge his lernynge vnto hym more than ynough, but alſo wrytyng that in hym and his ſucceſſe was all theyr hope and truſte, hath brought thys myſerable wreche vnto. whyche for his owne ſake onely that he ſhulde ſo caſte away his ſoule, beynge ſo derely bought, and deſtroy by the deuyls inſtygacyon ſuch good qualytees as god had geuyn vnto hym to employe in his ſeruyce, is mych to be lamēted: els I truſt &amp; dout not, almyghty god hath permytted and ſuffred, ordered alſo and dyſpoſed his punyſhement
+
+and correccyon in example and relefe of many other. For both yt hath abated the pryde of thoſe that wolde haue ben heretyques, and ſomewhat abaſhed theſe pryuy enymies of Criſt and his chyrche, who as ſaynte Ambroſe ſayth be myche more to be fered then ſuche as expreſſely ſhewe &amp; profeſſe theyr malycyous purpoſe and mynde. For theſe may eaſely be ouercome or auoyded / but the parell is in ſuche, as agreynge with vs in ye moſt parte, in ſome one poynte labour to ſubuerte the trouth. For theſe entyſe the ſymple people, whyche herynge theym ſay myche that they know for trouth, byleue them in the reſt, and ſo ſlyde in as yt were into the 
+                  •
+               ertes of the vnlerned multytude, where the ſubdayne violence of thother make them redounde rather then entre. Theſe be lyke vnto the rokes, which hyd vnder the water, do hurte before they be ſpyed. Agaynſte the whych ſaynt Hierome was compelled
+
+to crye out: wolde to god thys ſerpentyne generacion wolde eyther playnely confeſſe our parte, or conſtantely defende theyr owne, that we myght knowe whome 
+                     ••
+                   oughte to loue or fle. But now they hate vs (ſayth he) as enymyes, whoſe ſayth they dare not openly denye. wyth many other wordes, ſore complaynynge of theyr deuelyſhe malyce and wylynes. From ye contagyouſe infeccyon of whych ſorte and kynde, I beſeche our lord for his tender mercy euermore preſerue vs / &amp; ſende thē yt ſuche be, which with ye corrupt ſtynkyng waters of theyr own diggyng, alter and tourne ye ſwete taſte of goddes holy and moſt holſome doctryne into very dedely poyſon, ſende theym I ſaye the grace to amende / and leuynge of theyr owne madde inuencyons, with all mekenes, to herken vnto tholde accuſtomed teachyng of his catholyque chyrch. who alſo longe
+
+preſerue you to his gracyouſe pleaſure, in bodely helth and ioye ſpyrytuall. From Aſhare the fyrſt day of Auguſte, by the hande of faythfully your owne with my ſeruyce &amp; prayer, Germyn Gardynare.
+         
+      
+      
+         
+            The fautes eſcaped in the prentynge of this boke.
+            Fo. pag. li. the fautes ye amēdemētes.
+            
+               
+                  
+                     iii.
+                     ii.
+                     xxii.
+                     mayſter
+                     mayſters
+                  
+                  
+                     vi.
+                     in margine
+                      
+                     Anaſta.
+                     Athanaſine
+                  
+                  
+                     ix.
+                     ii.
+                     xiiii.
+                     orr cuſhynge
+                     or cruſſhynge
+                  
+                  
+                     xii.
+                     i.
+                     xiii.
+                     ſaye.
+                     ſawe
+                  
+                  
+                     xiiii.
+                     i.
+                     xi.
+                     wold
+                     woll
+                  
+                  
+                     xx.
+                     i.
+                     viii.
+                     threſhold
+                     threſholde
+                           •
+                        
+                     
+                  
+                  
+                     xx.
+                     ii.
+                     xxii
+                           •
+                        .
+                     worde
+                     borde
+                  
+                  
+                     xx.
+                     ii.
+                     xxiiii.
+                     mater
+                     malyce
+                  
+                  
+                     xxiiii.
+                     i.
+                     xxi.
+                     this a ſtone
+                     this is a ſtone
+                  
+                  
+                     x vi.
+                     ii.
+                     xviii. &amp;. xxiii.
+                     Betrame
+                     Bertrame
+                  
+                  
+                     xxvii.
+                     i.
+                     vii.
+                     byſhoppe
+                     byſhoppes
+                  
+                  
+                     xxviii.
+                     ii.
+                     i.
+                     knowledged
+                     knowledge
+                  
+                  
+                     xxviii.
+                     ii.
+                     viii.
+                     thoſe
+                     there
+                  
+                  
+                     xxxii.
+                     i.
+                     xx.
+                     yf be it a
+                     yf it be a
+                  
+                  
+                     xxxii.
+                     ii.
+                     xiiii.
+                     trecke
+                     bekke
+                  
+               
+            
+         
+         
+            Prented by w. Raſtell in Fleteſtrete in ſaynt Brydys chyrch yarde. Anno a Chriſto nato 1534.
+            Cum priuilegio.
+         
+      
+   
+

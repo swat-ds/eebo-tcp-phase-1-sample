@@ -1,0 +1,779 @@
+
+   
+      
+         
+            The trumpet of vvarre A sermon preached at Paules Crosse the seuenth of Maie 1598. By M. Steph. Gosson parson of great Wigborow in Essex.
+            Gosson, Stephen, 1554-1624.
+         
+         
+            
+               1598
+            
+         
+         Approx. 127 KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2005-12 (EEBO-TCP Phase 1).
+            A01955
+            STC 12099
+            ESTC S112458
+            99847712
+            99847712
+            12769
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01955)
+            Transcribed from: (Early English Books Online ; image set 12769)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 462:03)
+         
+         
+            
+               
+                  The trumpet of vvarre A sermon preached at Paules Crosse the seuenth of Maie 1598. By M. Steph. Gosson parson of great Wigborow in Essex.
+                  Gosson, Stephen, 1554-1624.
+               
+               [104] p.   
+               
+                  By V. S[immes] for I. O[xenbridge] dwelling in Paules churchyard at the signe of the parot,
+                  Printed at London :
+                  [1598]
+               
+               
+                  Printer's name from STC.
+                  The last leaf is blank?.
+                  Signatures: A⁴ B-G.
+                  Reproduction of the original in the Bodleian Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Sermons, English --  16th century.
+            
+         
+      
+      
+         
+            2005-06
+            TCPAssigned for keying and markup
+         
+            2005-06
+            Apex CoVantageKeyed and coded from ProQuest page images
+         
+            2005-07
+            Haley PiersonSampled and proofread
+         
+            2005-07
+            Haley PiersonText and markup reviewed and edited
+         
+            2005-10
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            The Trumpet of VVarre.
+            A Sermon preached at Paules Croſſe the ſeuenth of Maie 1598.
+            
+               By M. Steph. Goſſon Parſon of Great Wigborow in Eſſex.
+            
+            
+               STANTIA
+LABOR
+                     ••
+                  
+ET
+            
+            
+               Printed at London by V. S. for I. O. dwelling in Paules churchyard at the ſigne of the Parot.
+            
+         
+         
+            
+            
+            To the moſt reuerend Father in God, Richard Biſhop of London, my verie good Lord, health and happineſſe heere, and in the world to come.
+            
+               RIght reuerend my verie good Lord, euerie diuine knowes, that there is a ſtore-houſe in the Church of God, into which euerie good chriſtian brings ſome affliction ſuffered, or ſome trauell vndertaken for Gods ſake. And although that from Abel to Chriſt, and from Chriſt Ieſus to this preſent day, there haue beene many prizes of both ſorts carried into this treaſurie yet will it not be full before the ende of the world, vntill which time, neither the teares nor the trauels of the Church are like to ceaſe. Therfore ſeeing it hath pleaſed God of his goodneſſe to make mee a little Naile in his Temple, to hang ſome part of his ſeruice vppon, and hath from time to time affoorded me a place among many learned men, called out from their ſtudies in the Vniuerſities, or from their particular charges in the country,
+
+
+
+to the publike ſeruice of the church at Paules Croſſe, where euerie man beſtirres him like a Bee, to carrie waxe and honny to the hiue, and euerie man is profitable in his paines: I haue brought in theſe labours to the church, fitted as well as I could, both to the time wherin we liue, and to that honourable aſſemblie to which I ſpake.
+            And becauſe S: Auguſtine confeſſes, that when he beholdes men carried away with a loue of this preſent world, he cannot tel how wiſdome ſhould come in ſeaſon to do them any good, in that people blowen vp with proſperitie deſpiſe all that is ſaide vnto them: finding a great parte of the ancient glorie of this kingdome blaſted with the breath of ſchiſme, and with an expectation of warres and troubles, and eſpying alſo with the Prophet Ieremie, that there is no taking the wilde Aſſe in the wilderneſſe before ſhe be with foale, I haue ſlept in in ſuch a time, as wiſedom may happely come in ſeaſon.
+            The matters I intreated of are great, and I am little, but God (which when he was great became little to preach vnto the world) hath aſſiſted me: and what I haue deliuered, men ſhall beſt ſee to be true, when reading and preaching ſhall be remooued, the cloude of this bodie rent in peeces, and wee with purified and glorified bodies
+
+
+
+ſhall looke vppon the Lorde. I knowe, that whilſt wee liue here below, as preaching is compared in the Reuelation vnto thunder, ſo it is like it in the cauſe and effects of thunder Thunder proceedes from a vapor lifted vp from the earth, and compaſſed with a colde cloude, in the motion and agitation, it catcheth fire, which breaketh out preſently where the cloude is thinneſt, and being out, ſometime it ſtrikes the bodie of a man, and not the cloathes, ſometime the cloathes, and not the bodie. Preaching proceedes from the meditation of the heart, lifted vp from earth to heauen, cold fleſh is the cloud that keeps it in in the motion and agitation of the minde, it catches fire, while I misſed (ſaith Dauid) the fire kindled, being ſtreightned within vs, it ſtriues to vente it ſelfe, and breakes out at the lippes of the preacher where the cloude is thinneſt and being forth, ſomtime it ſtrikes the princes of the earth, and not the people that ſtand about them: ſometime againe it hittes and mooues the poore people, and not the Potentates. When theſe arrowes of the almightie flie abroade, a preacher muſt not be diſmaide to ſee them glaunce in the going for they ſticke not euerie where.
+            Nay, it falleth out ſometimes, that the hearers deale with vs, as Saul did with Dauid, who threw a ſpeare at him when he plaide vppon his
+
+
+
+harpe, to charme the eiull ſpirite that was in Saul. Of which action it was wittily deuiſed and written by him that cutte the whole Hiſtorie of Dauid for the King of Spaine, and ſette it out in pictures. Dura eſt mens hominis ac ſancto ingrata labori, The heart of man is harde, and vnkinde to holie labours.
+            
+            I ſpeake not this in reſpect of any crooked meaſure laide vnto my trauailes, for then I ſhould detract from that religious auditorie which gaue me gracious hearing &amp; acceptance, the glory ſhal be Gods, which wrought it in their hearts, and I truſt, their anſweres a rewarde to them in heauen, for the heede and regard they gaue vnto me. And that my ſermon might remaine ſomewhat longer with them then the time wherein it was deliuered, I haue at the request of my friendes put it foorth in print, to the view of all, dedicating it vnto your Lo. partelie to ſubmit it to your L. graue and learned cenſure, and to the cenſure of the Church of England, according to the rule of the holie ghoſt, which will haue the ſpirits of the Prophets ſubiect to the Prophets: which courſe if euerie man could be content in humilitie to take, the controuerſies of our church would quikly be compoſed: partly to giue ſome publike teſtimonie of my thankeful heart and dutifull affection to your Lordſhippe,
+
+
+
+which hath enabled me to do ſome good in the church of God, in ſome inferiour ſeruices therof, according to the talent beſtowed vppon me. Thus humblie beſeeching God, which is the beginning and the ende of all things, to giue peace to his church and to our country, and to bleſſe and continue your honourable labors in them both, and to crowne them in heauen when your race is runne, I humbly take my leaue.
+            
+               Your Lordſhips moſt humble ſeruant, Stephan Goſſon.
+            
+         
+      
+      
+         
+            
+            
+            The Trumpet of VVarre.
+            
+               
+                  The Text. 2. Chro. 20. verſ. 20▪
+                  
+                  And when they aroſe early in the morning, they went foorth to the Wilderneſſe of Tekoa, and as they departed, Iehoſſaphat ſtood &amp; ſaid, Heare ye me O Iudah, and ye inhabitants of Hieruſalem, putte your truſt in the Lord your God, and ye ſhalbe aſſured beleeue his Prophets; and ye ſhal proſper▪
+                  
+               
+               
+                  IT is a wonder Right honourable) to ſée the baſe feare of man, the people of God may ſomtime be caſt into, when they heare the enimy is in arms, or approacheth the Land, or hath taken
+
+
+
+ſome fort to intercept the paſſages and annoy the land: It was Aſa his caſe, king of Iuda, when Baaſa King of Iſrael was come to Rama, and had fortified there in ſuch ſort, that hee ſtopt the paſſages of Aſa his kingdome, and none coulde ſafelie gette in or out. This did caſt Aſa into a feare, and Hananie the prophet reproued him for it, 2 Chro. 16, 7. Indèede as Hambal neuer ſawe Fabius appeare vppon the mountaines, but he likened him to a cloud that threatned raine: So when the enemie is poſſeſſed of places of aduantage, it is humane wiſedome to reckon vppon a ſtorme, but if hee bee Gods enemie, it is humane weakeneſſe to ſtande in feare of him. In this caſe the heathen Poets haue had theyr times to turne their paſtorall tunes into ſounde of Trumpets, and the holie Prophets and Prieſtes of God haue had their times alſo to change their exhortations to mercie and compaſſion, into charges and allarmes, and either with Azariah incourage both the Prince and the people to bee ſtrong handed, 2. Chro. 15. chapter 7. verſ. Or with Iehaziel in the 15. verſe of this chapter, euen in the name of God commaunde
+
+
+
+both the Prince and the people not to feare the multitude of men, but to march forwardes boldlie towardes the enemie, and looke him in the face. I will follow the example of the Prophets and Prieſtes of God at this time, and make you ſuch muſicke vppon this grounde, as it ſhall pleaſe God to miniſter vnto mee. This Scripture which I haue read vnto you, is a verie Trumpet of warre: herein wee find Iuda and Hieruſalem marching toward the enemie, vnder the conduct of Iehoſhaphat, vppon intelligence giuen, that there was a great combination of forraign Princes, the Moabites, the Ammonites, the inhabitants of Mount Seir were come from beyonde the ſeas to inuade Iehoſhaphat. The place in the wilderneſſe where the armie ſate downe was diſcouered.
+               That which offers it ſelf to be diſcourſed,The diuiſion. ſtands vpon theſe two parts in general, the firſt is the action of warre, in theſe words, And whē they aroſe early in the morning▪ they went forth into the wildernes of Tekoa: The ſecond is the exhortation to this action in theſe words, And as they departed Iehoſhaphat ſtood &amp; ſaid, heare ye me O Iudah, &amp; ye inhabitants of Ieruſalē, put
+
+
+
+your truſt in the Lord your God, and yee ſhall be aſſured, beleeue his Prophets, and ye ſhall proſper. In the action of warre there ariſe theſe foure poynts in particular to be handled: firſt, the equitie of the action: ſecondly, the cauſe that makes the action of warre to be iuſt and lawfull: thirdly, the perſons concurring to this action: fourthly, the execution of it, that is, the manner howe it muſt be executed. Theſe foure I muſt fetch a little further off, yet not ſo far, but that I may eaſily drawe them out from the verſes going before, and immediatly following after in this chapter. In the exhortation to this action, there be alſo two acts of the ſoule, two obiects, two conſequents: the firſt act is to truſt: the firſt obiect is God, the firſt conſequent is ſafetie. Put your truſt in the Lord your God, and ye ſhall be aſſured. The ſecond act, to beléeue: the ſecond obiect, the Prophets: the ſecond conſequent, Proſperitie. Beleeue the Prophets, and ye ſhall proſper. That I may ſpeake of all theſe parts in order, to Gods glorie, and the opportunitie of the times wherein wee liue, I beſéech you to ioyne with mée in humble and heartie prayers, &amp;c.
+               
+                  
+                  1 The equitie of the action of Warre.
+                  TO giue you a view of the equitie of this action, you ſhall finde it to be iuſt in reaſon, in religion, and in the practiſe of the church. It is iuſt in reaſon. Thomas 1. p. q. 76. a. s. diſputing how fitte a receptacle the bodie of man is for the ſoule of mā, ſhewes that Natura non deeſt in neceſſarijs, Nature is not wanting in things neceſſarie. But as nature hath giuen to bruit beaſtes hornes and hoofes, téeth &amp; talants, for defence and offence: ſo hauing giuen vnto man none of theſe, ſhe hath giuen him reaſon and hands in ſtéede of theſe. Man naturally conſiſts of a bodie and a ſoule: his ſoule is comprehenſiue of vniuerſalities; and hath Uirtutem ad infinita, it is able to deuiſe and contriue infinite things: nature hath ſette no bounds nor limits to the thoughts or opinions of the ſoule, neither hath ſhe ſet any boundes to the couerings of the bodie, but as the ſoule is able to deuiſe a couering for the bodie of ſuch a temper as ſhal hold out the dint of ſword, and ſmaller ſhotte, and to deuiſe engins of warres for batterie and aſſaults, ſo hath ſhee giuen handes to the
+
+
+
+body, which are organa organorum, inſtruments of inſtruments to frame theſe whē they are deuiſed. Nature not being wanting in things neceſſary, there may bée a time wherein it ſhall be iuſt and neceſſary for the ſoule of man to contriue weapons, &amp; engins of offence, for the hands to worke them, the body and armes to weare and weild them, and to put them in execution: ſuch is the time of warre. It is iuſt in religion, for the ſpirite of God which is a holy ſpirite, that neuer perſuades men vnto any ſinne, was vpon Iehaziel verſe 14. of this chapter, exhorting Iudah and Ieruſalem to this action at the putting on of their armour, Exodus 15. this is Gods Title: The Lorde is a man of warre. In the Pſalmes, he is ſaide to teach the fingers of the warrier to fight, and to couer his head in the day of battell; in the time of warre the battells fought, are ſaide to be Gods battels, and the ouerthrowes giuen, are ſaide to be giuen by him. It is iuſte in the practiſe of the Church. Deut. 20. 2. When the armies are come to an enterview, and the battell readie to ioyne, God commaundes the Prieſt to ſtand forth and encourage the ſouldier. God hath ſo diſpoſes of our function,
+
+
+
+that wée ſhal carie the harts of the people in our handes, and either diſcourage them from the fight when God i
+                        •
+                      angry, as Michaiah the Prophet did 2 
+                           〈…〉
+                        . 18. 16. I ſaw all Iſraell ſcattered in the mountaines as ſheepe that haue no ſhephearde, let them returne euery man to his houſe in peace: Or animate and harten them on to the fight when God is with them, as the Prieſts did in the 6 of Ioſua, when they blew the trumpets and the walls of Iericho fell before them. This hath béene the practiſe of the Church of England by the teſtimonie of our owne Chronicles, when the honour of our nation, the chiualrie of England hath béene in the fielde, it hath béene vſed for a ſufficient argument of encouragement vnto the Souldier, before the actuall encounter with the enimie, to ſaye thus much, This daye is the Church of England vppon her knees for vs. The action of warre béeing thus found to be good &amp; lawfull in reaſon, in religion, and in the practiſe of the Church: it followes in the ſecond place, to diſcouer the cauſe y• makes it to be iuſt and lawful.
+               
+               
+                  The cauſe of Warre.
+                  Warre is of the nature of iuſt iudgemēt,
+
+
+
+and the calamities that waite vpon warre be very great: therefore as a Judge doeth not puniſh euery light offence, but ſuch as are againſt the good of the common weale, ſo warre is not to be vndertaken vpon euery light occaſion, but vpon ſuch as ſhall bée proportionable to the dammage &amp; diſtreſſe of warre. Becauſe there are many falſe claimes and titles laide vpon the action of warre to iuſtifie the ſame, it ſhall not be amiſſe to ſhut out the falſe titles as I paſſe along, and let in the true. The firſt of themFalſe titles of warre. is infidelitie: the ſecond is, the reuenge of the iniuries done vnto God by the ſinne of Idolatrie, becauſe Deut. 2. 34. the children of Iſrae warre vppon Sehon king of Heſbon an Idolater, they deſtroy his people, and take his citties. And Deut. 13. 13. this title ſéemes to be expreſſed, God chargeth his people, that when they ſhall heare anie hath gone out from among them and drawen other to the worſhip of ſtrange gods, they ſhall deſtroy the inhabitantes of that cittie, and race the cittie. The third is, ſupreame authority in things tēporall. They that holde this opinion, imagine the heathen not to be Lordes of their owne lands, but either the Emperor or the Pope. The
+
+
+
+fourth is, vnaptneſſe to gouerne, becauſe the heathen are barbarous and vnfit to gouerne, and the lawe of Nature willes that ſuch ſhoulde bée ruled by wiſer than themſelues; Ariſtotle ſaith, that warre vndertaken4. Polit. cap. 5. againſt ſuch, is iuſt and lawfull, bicauſe it is attempted againſt thoſe that are borne to obey, and will not. This title is vphelde by Maior 2. d. 44. and by Sepulpeda 7. polit. cap. 3.
+                  
+                  They are all foure falſe and erroneous: the two firſt, becauſe God hath not giuen euery man authoritie to reuenge the iniurie done to him, but ſaith, Mihi vindicta, &amp; ego rependam. Neither is it expedient for the race of man that it ſhould be ſo, for, by this meanes the garboiles and troubles of the earth would be ſo great, that Gods iniuries woulde rather bée wultiplied than auoided. And ſéeing this cannot be demonſtrated, Idolaters might lawfully betake themſelues to armes in their own defence, wherby warre ſhould be iuſt on both ſides, which is vnpoſſible. As in things naturall, Simile non agit contra ſimile, Fire doeth not fight with fire, but fire againſt water, one contrary ſtruggles with an other: ſo in things morall, 
+                        
+                           •
+                        nnocens non agit contra innocentem,
+
+
+                     
+The innocent ſtriues not with the innocent, but the innocent with the offender, and the offender with the innocent, the warre can be iuſt but of one ſide.
+                  As for the inſtance of the wars of Gods people vpon Idolaters, diuers titles haue bin ſifted, and ſoght out by diuers authors to iuſtifie them, of which I will yeeld you but two, both diſcouered in the ſcriptures. The one is Gods donation. Pſal. 105. 44. He gaue them the lands of the heathen, &amp; they tooke the labours of the people in poſſeſſion. Iphtah pleades this title againſt the king of the Ammonites, Iudg. 11. 24 Wouldeſt not thou poſſeſſe that which Chemoſh thy God giueth thée to poſſeſſe? So, whomſoeuer the Lorde our God driueth out before vs, them will wee poſſeſſe. The other is the wrong firſt done vnto Iſraell in their paſſage as they went out of Egypt, for which God gaue Sihon and his people into the handes of Iſrael, and they poſſeſſed their landes. 27 verſe of the ſame chapter. The third title is as falſe as the former, in that all the kinges of the earth doe holde their crownes of GOD that 
+                        •
+                     aith Per me Reges regnant, by me Kinges rule and Princes decree Juſtice, in their
+
+
+
+landes and dominions temporall, neither Pope nor Emperour haue any thing to do. And Caietan auoucheth, that to giue anyQ. 59. a. 8. ſuch right to Pope or Emperour, is to take away the diſtinction of iuriſdictions, and to bring in a confuſion into the world. Laſt of all, how vntrue and erronious the fourth title is, may eaſilie appeare, in that many pagans and infidels are more ingenious, politike, and apt to gouerne, then many chriſtiās. Neither is it inough to iuſtifie the warre, that the people vpon whome the warre is made, are inferiour in witte vnto the warriour, except they be ſo poore that they liue like bruite beaſtes, or feede vppon humane fleſh. In which caſe peraduenture it may bee lawfull to inuade them, not to kill them, as the Spaniardes did the naked Indians, but to bring them in order to liue1. Polit. cap. 5. like men. Ariſtotle holdes this to bee lawfull, when ſuch people differ as farre from men, as the bodie differs from the Soule. Yet is this either ſeldome or neuer to bee admitted, except vpon ſome occaſion of innocents or wrong, and the warre rather reuoked to a defenſiue, then an offenſiue warre.
+                  
+                     The falſe titles excluded, there remaines but one iuſt in generall, that is, Neceſſitie. Nullum bellum iuſtum niſi neceſſarium. It may be iuſt and neceſſarie twoo wayes, the one is in defence of the innocent, the other is in reuenge of iniuries. In defence of the innocent, becauſe God hath giuen all the kingdomes of the earth to his ſonne Chriſt Jeſus, Pſ. 2. Princes are exhorted to kiſſe the ſonne of God, leaſt he be angrie, and they periſh. In another place of the Pſalmes, Princes are commanded to ſet open their gates, that the king of glorie may come in. Therefore if either Turke, or Pope, or Idelatrous Princes force the law of Mahomet or Idolatrie vpon their poople, when they are deſirous to embrace the Goſpel, the Goſpel may then bee bronght in by armes: but if the Turke or Pope, or Idolatrous Princes beguile their people, and their people willingly entertaine a falſe religion, there is no violence offered, and Vbi non eſt vis non habet locum defenſio: where no violence is offered, defence can take no place. On the contrarie, if the Turk, Pope, or Idolatrous Princes conſpire to driue out the Goſpel from thoſe Chriſtian kingdomes where it is preached, Non eſt ſimile
+
+
+                     
+                     ius, The caſe is not alike: to baniſh the Goſpel is to do an iniurie.
+                  The iniuries that may make warre to be iuſt and lawfull, are of diuers sortes.In iuries. Either when one Prince withholdes that which is anothers, or when iura gentium,
+                     1 the lawes of nations or paſſages are denied,2 
+                     Deut. 25. 17. When Amele
+                           •
+                        
+                      had vexed the Iſraelites as they went out of Egypt, and ſmote the hindmoſt of them, God commanded them to reuenge it, and to roote out the remembraunce of Amelec from vnder heauen.
+                  Moreouer, if the fame and honour of a Prince be hurt, or diſgrace and indignitie offered to his embaſſadours, warre may lowfully be waged to reuenge it, 2. Sam. 10 Uppon the like wrong doone to Dauids Meſſengers ſent to the King of Ammon, when their cloathes were cutte, and their beardes ſhaued, Dauid reuenged it by armes. Yea, it is ſufficient if iniurie bée done to a Princes friend, Gen. 14. Iniurie was done to Lot in ſurpriſing him, and Abraham reſcued him by ſword. 1. Macha. 11. 27. Demetrius promiſeth ſuccor to Ionathan againſt them that kept the Caſtle of Hieruſalem, and commaunded the forts
+
+
+
+that annoyed the Jewes; Ionathan reciprocally ſent a ſupplie of thrée thouſand braue ſouldiers to Demetrius when his owue companies had forſaken him. The reaſon of it is this, Amicus eſt alter idem. Wrong done to a princes friend is done vnto himſelfe, but this caution muſt be added, that is, that he that ſtandes in néede of ſuccour doe requeſt it, as the menne of Gibeon did in the tenth of Ioſua, or at leaſt be willing to be ſuccourd voluntate expreſſa aut interpretatiua, to giue aide to ſuch, is to ſet the helping hand to a iuſt and honeſt action. The laſt iniurie of all is inuaſion, and this is the Title of the Warre in this place, Iehoſhaphat and his people fight for their wiues, children, goodes, landes, their owne liues, &amp; their religion, againſt the inuader.
+               
+               
+                  3 The perſons concurring to the action of warre.
+                  THe third conſideration is of the perſons that concurre to the action of warre, which in this chapter are of foure ſortes,
+
+
+
+the Prince, the péeres, the prieſts and the common ſouldier. As warre muſt haue a iuſt title to make it lawfull, ſo it muſt alſo be vndertaken by lawfull authoritie, that is, the authority of the Prince, who as he carries the ſworde of Juſtice to puniſh domeſticall diſturbers of the common weale, in reſpect whereof he is ſaid Rom. 13. not to beare the ſworde in vaine: ſo he defendeth his people from the ſorraine enimy by the ſworde of warre, and is bound ſo to do Pſal. 82. 4. He is charged to ſaue the poore and oppreſſed, from the hand of the wicked that oppreſſeth them. The reaſon of it is this, that as in a common weale it is requiſite there ſhould be an authoritie, to puniſh offences, and to kéepe the ſame in order: ſo in the wide worlde, that all kingdomes and commonweales might be preſerued, it is requiſit there ſhuld be a power &amp; authority to puniſh iniuries, this power reſting in no one Prince in the worlde as ſuperiour to al other Princes, war ſteps in in the place of iuſt vindicatiue iudgement, God hath left no other meanes vnto Princes to flie vnto. Howſoeuer, this may ſéeme to bée controlde by ſcripture, and reaſon, in that Rom. 12. the Apoſtles councell is,
+
+
+
+                     Render to no man euill for euill. And if priuate reuenge be not to be admitted, becauſe the ſelfe and ſame perſon is both a Judge and an actor in his owne cauſe, it may peraduenture be thought as vnfitte for a Prince to be a Judge and an actor in his owne cauſe. Yet is not the reuenge of a Prince cutte off by this. The Scripture Rom. 12. forbids priuate reuenge, becauſe Reuenge is an acte of vindicatiue Juſtice, which is Actus iuriſdictionis an acte of iuriſdiction, which no priuate perſon obtaines by reaſon of any wrōg done to him: neuertheleſſe, if reuenge be taken by authority, it is not only not forbiddē by the apoſtle, but commended as a thing neceſſarie, in that he ſaith, Princes and Magiſtrates are theThe difference betweene Princes &amp; priuate perſons in reuenge. miniſters of God to take vengeance vpon them that doe euill. The argument drawn from a priuate perſon, holdeth not in compariſon with a Prince. A priuate perſon hath a ſpeedie waie to redreſſe his owne wrongs, by recourſe to the authoritie of his ſuperiours: a Prince hath no ſuperior vppon earth, nor any other redreſſe than warre if ſatiſfaction haue beene expected, and denied. A priuate perſon in taking reuenge in his owne cauſe may excéede the
+
+
+
+boundes of iuſtice, there is no ſuch feare in the perſon of a Prince, his authoritie is publike and adminiſterd by publike councell, whereby the affections of Princes are eaſily reſtrained: A priuate perſon cannot reuenge himſelfe, becauſe he may not be a Judge and an actor in his owne caſe; a Prince may be a Judge and an actor in his owne caſe: Princes are gods, the authoritie of a prince is a little arme of the broad ſea of authority which is in God, &amp; as God reuenging the iniuries done to him and his kingdome, is a Judge and an actor in his owne caſe: ſo a Prince reuenging the iniuries done to him, and his dominions, may be a Judge and an actor in his owne caſe.
+                  The ſecond ſort of perſons are the Péers,2 which may be diuided into two rankes, eitherThe Peers they are ſuch as are called to councell of ſtate, they are all bounde to giue faithful councell, not to deale with their maſter as Huſhai dealt with Abſalon when he taught him a trick to ouerthrow himſelfe, or ſuch as be leaders &amp; commanders in the fielde, and they are all bound to the acte of fortitude, to fight manfully, and neither for feare, nor flattery, nor corruption,
+
+
+
+nor loſſe of life, giue vp the townes and caſtles committed to their charge, without the conſent of the prince that committed them to their truſt.
+                  The third be the prieſts, we concurre to3 this action, not to manage armes, our warfare is ſpiritual, our weapōs ſpiritual, theyThe Prieſtes be praiers and teares: and as Dauid was vnfit to build the temple, becauſe he was a warriour, ſo are we vnfit to fight, becauſe we are of the temple. Yet we cōcurre with the action of warre thus farre, we conuerſe with the ſouldier in the field, we bleſſe him and pray for him before the fight, and wee praiſe god for him when the fight is ended.
+                  The fourth &amp; laſt is the common ſouldier, whoſe duty S. Iohn Baptiſt deſcribes, Luc.4 3. 14. it is to do violence to no mā, but to beThe Common Soul. dies. contented with their pay: war being of the nature of iuſt iudgement, ſouldiours are of the nature of executioners, whē they are called forth by authoritie to fight, they muſt remēber that in this caſe they are inferior inſtruments vnto God to puniſh the offences of the wicked, &amp; fetting him before their eies in theſe actions, they may not conſecrate the firſt fruites of their fingers with robberies &amp; outrage vpon their friends, as
+
+
+
+they march along the countries, but ioyne with the prieſt and the Leuite, &amp; the ſingers, as the ſouldiers do in this chapter, to call vpon the Lord whō they ſerue in war.
+               
+               
+                  4. The execution of the action of warre.
+                  The laſt point to be diſcourſed in the action of warre, is the manner how it muſt be executed, which in diuers places of the ſcripture is verie differēt. In this ca. Iehaziel willes them to ſtand ſtill and looke on, without ſtriking ſtroake, but this being a particular direction of Gods ſpirit for this warre of Iehoſhaphat. and liable onely to that time, it cannot be a preſident for all other warres at all other times, therefore in the execution of warres there be three differences of times to be conſidered: the beginning, the progreſſe, and the ende of it. In the beginning, becauſe reaſon requireth in the ordinarie affaires of this life, aduice and diligence ſhould be vſed anſwerable to the qualitie of the buſines in hand, war being the moſt weighty of all humane affaires, there muſt be counſel &amp; deliberatiō to begin it, Pro. 24. 6. Thou ſhalt enterprize thy warre with councell,. In the 21
+
+
+
+verſe of this chapter Iehoſhaphat entersFiue things to bee conſidered in the beginning of warres. into conſultation about the warre. 
+                        •
+                      here be fiue things in the beginning of warre to be thought vppon, the loſſe of the country againſt which we fight, the loſſe of the countrie that goes to fight, the loſſe of the church, the probabilitie of the victorie, and the intention of the warrior. If the loſſe of of the enemy be likely to fall out to be greater than the hurte he hath done, I finde no great reckoning made of it, becauſe the wilfulneſſe of the enemie is the cauſe of it, which may haue peace and will not. If the loſſe bee of the ſecond or third fort, that is, the loſſe of the warriour, or the loſſe of the church be likely to be greater, then the hurt alredy receiued, there is ſom care to be had of it, for war hath the property of phiſicke, if the phiſitian by healing the preſent infirmitie, bring the bodie into worſe caſe then it was before, his phiſicke is very dangerous. Concerning the probabilitie of the victorie, which is the fourth poynt. Caietan holds that in the enterpriſe of war, the preparation muſt be ſo great, that the warrior maye be Moraliter certus de victoria: ſure of the victorie. He brings in two examplesG: 55. a. 3. for it, one of a Judge, another of the Agent
+
+
+
+and the Patient. If a Judge (ſaith he) ſend to apprehend a malefactor, and do not ſend ſo ſtrong a companie that he may be ſure to take him, he doth more hurt then good. In the time of war the reuenger is the Agent, the offender is the Patient, and in things natural Agens debet eſſe potens ad ſuperandum paſſum, The agent muſt be powerfull and able to ouercome the patient: the medicine muſt bee ſtronger then the humour. But this is not abſolutely neceſſarie, becauſe it is impoſſible: Pſa. 33. The king is not ſaued by the multitude of an hoaſt, nor the mightie man deliuered by his great ſtrength. How puſian
+                        •
+                      ſoeuer the preparation of princes be, if God be not with them it is nothing woorth, 2. Chro. 25. 8. The Armie of Amafiah conſiſted of an hundred thouſande verie valiaunt men, but the man of God tolde him, that how ſtrong ſoeuer hee made himſelfe, hee ſhould ſurely be ouerthrowne if he did proceede, becauſe God was not with him. Dauid obſerues it, Pſal 89. 43. That it is God that turnes the edge of the ſworde of the warriour, &amp; makes him vnable to ſtand 
+                        •
+                      the day of battel. Remember the great Armada in the yéere 1588. The preparation
+
+
+
+was ſuch, that the inuader aſſured himſelfe o victorie &amp; termed it inuincible, yet was it in ſo ſhort time with ſo few ſtrokes &amp; ſkirmiſhes, &amp; with ſo ſmal ſhips ſcattered and defeated, that to the eternal memory of gods high hand, &amp; the vtter ſcorne and reproach of the inuader there was after the maner of the old Romanes, a monument made of it, in certain coyn ſtamped beyond the ſeas, with a reſemblance of a nauie, and this word faſtned to it, venit, iuit, fuit, it came, it went, &amp; it came to nothing. And there was not one ancient or honourable houſe in Spaine but loſt a ſon, or a brother, a kinſman or a friend in that voyage. If it ſhould neuer be lawful to war but vpon aſſurance of the victorie drawne from the preparation, it ſhould neuer be lawfull for the ſmaller number to fight with the greater, or the weaker with y• ſtronger, ſo ſhuld it haue bin vnlawful for the Iſraelites to encounter the Aramites, 1. King. 22 27. when the Iſraelites pitched like two little flocks of kids before the Aramites, and the Aramites filled the country: So ſhould it haue bin vnlawful for Iehoſhaphat in this place to reſiſt the inuader, for he confeſſes verſ. 12. of this chap. There is no ſtrength
+
+
+
+in vs to ſtande before this great multitude that commeth againſt vs, neither doo wee know what to do, but our eies are towards thee. Wherby you may perceiue that in the action of war a caſe may ſo fall out, that it ſhal not be néedful for y• warriour to expect any great aſſurance of the victory, but put the matter in triall, euen when the ſucceſſe is doubtfull. Neuertheleſſe I will ſay thus much vnto you, that if a prince can find any means to aſſure himſelfe of the victory before the war begin, he may vſe it. 1 Sam. 30, 8. When the Amalekites had ſackt and fired Z
+                           •
+                        klag. Dauid aſketh counſel of God, whether he ſhal purſue them, &amp; god aſſures him of y• victorie, he ſhal recouer al. 1. Ch
+                           •
+                        . 14. Before he ſet vpon the Philiſtines, god preſcribes vnto him which way he ſhould go to work, he ſhould recoile, &amp; fetch a compaſſe about by the mulbery trees, and when he heard a noiſe or a ruſtling of one going in the tops of the mulberie trées, then God cōmanded him to charge his enemies, for God was gone out before him. The like we find in Gedeon, God gaue him ſignes and tokens to aſſure him that hee ſhoulde preuaile, Iudg. 6. The ſigne was by the fléece wette when the grounde was drie
+
+
+
+and the ground wet when the fleece was drie. Iudg. 7. 11. God ſendes him by night to the hoaſt of the Midianites, and by a dreame of the enemie touching a barlie cake, that tumbled downe into the hoaſt of Midian, and deſtroyed it, God aſſured him that he would deliuer his enimies into his hand. This aſſurance is not gathered from the preparation of man, but from the fauour and power of God. Therfore when this certaintie cannot be attained, princes are bound to attaine to the greateſt probabilitie they can, and comparing the hope of their victorie with the danger of their loſſe, aduenture as far as ſhall be good for the cō
+                     mon weale. If the probabilitie be ſlender and the warre offenſiue, they ought to giue it ouer, becauſe the warre is voluntarie: if the probabilitie be ſlender, and the war defenſiue, it may not be giuen ouer, becauſe the warre is neceſſarie, It is Iehoſhaphats caſe heere, the probabilitie of the victorie is very ſmal in reſpect of his owne forces, yet becauſe he is inuaded, &amp; the war neceſſary, he makes head to reſiſt the enemie, &amp; commits the cauſe to God. The fift &amp; laſt poynt concerning the beginning of this action, is the intention of the warriour. I ho. 2. 2. q.
+
+
+
+40. a. 1. defines it to be Studium Pacis, deſire of peace, for peace is the end of war, &amp; v
+                           •
+                         Mali coerceantur, &amp; boni ſubleuentur, That the wicked may be bridled, &amp; the good reléeued. War may be vndertaken vppon good cauſe and law full authoritie, yet the intention of the warriour may be euil. HereuponCont. Fauſtum. 
+                     S. Aug. condemnes in a warriour Nocendi cupiditatem, vlciſcendi crude litatem, animum implacabilem, feritatem, dominandi 
+                           •
+                        ibidinem, A deſire to do miſchiefe, cruelty in reuenge, an implacable minde, a fell ſpirit, &amp; an ambitious humor, ſéeking after rule &amp; domination
+                  The ſecond difference of time, is the progreſſe of warre before the victorie: during which time, al the meanes are lawful that are requiſite to the attaining of the victory, ſleights, ſhifts, ſtratagems, burning, waſting, ſpoiling, vndermining, battery, blows and bloud. I will giue you one example in Scripture for al, 
+                        
+                           •
+                        ol. 8. In the taking of Ai there is a ſtratageme, an ambuſh laide behind the cittie, an aſſault giuen before it, ſemblance of flight, by retiring to draw the enemy out, the citie fierd, the enemy encloſed, and then ſlaughterd before and behind. S. Aug. q. 10. vpon Ioſua determines this matter in few wordes.
+                  
+                     The third and laſt difference is, the time3 after victorie. Uictorie atchieued, and the enemyThe time after victorie. ſubdued, bicauſe the bloud of the conquerour begins to coole, and it is againſt humanitie to kill more than néedes, the ſlaughter ceaſeth. There be many things in colde bloud to be required: firſt, to ſpare the innocents, Thou ſhalt not ſlay the iunocent.
+                     Exod. 23. 7 The innocents are reputed to be yong, and olde, women, and children, which are by reaſon of ſex, or yeares, or infirmitie, vnable to carry armes, ſtrangers, and Marchants, which are no partes nor members of the commonweale that hath offended, if it may be found they haue ſtirred no coles in ſetting Princes together by the eares, nor caried armes in the reſtance made during the time of the fight. The nexte thing is ſatiſfaction for the wrongs done, wherein the ſpoile and waſte of the countrie is to be reckoned for a part, becauſe it is a parte of the puniſhment. Laſt o fal, hoſtage may be taken for ſecuritie of peace, &amp; the ſpoile may be diuided among the ſouldiers, who deſerue aſwel to be partakers of the ſwéet, as of the ſowre &amp; bitter brunts of war. Iehoſhaphat
+                     2. Chron. 20. verſ. 25 giues the ſpoile of the enemie to his army, euery man carries for himſelfe
+
+
+
+vntill hee is wearie.
+                  Now, ſeeing we do not make Sermons as beggars make tape vpon a ſtickes end, wherein there is no taſte, to giue you a reliſh of all that hath béene ſpoken about this action, caſt your eies vppon the warres of your enemie, and your owne warres. You ſhall finde the warres of the enemie, in the Indies, in Portingale, in Granado, in the low countries, in France, and againſt vs, to be vncharitable and vniuſt, vncharitable, in that they are enterprized without care or conſideration of the loſſe of the countries, vpon which he maketh warre: or of the loſſe of the Church, whileſt by his turbulent ſpirite chriſtian kingdomes are daſhed one againſt another, the profeſſours of Religion extinguiſhed, Chriſtendome weakened, and the Turke ſtrengthened: without commiſeration or care alſo of his own country or forces by which he fights, leading thē forth like ſhéep to the ſhambles to apparant ſlaughter, his own eies beholding them ſuncke into the bottome of the ſeas like a ſtone, as the hoaſt of Pharao, or to lie pitifully bléeding at the feete of the reuenger, as the Midianites lay at ye féet of Gedeon. That his wats are as vniuſt as they
+
+
+
+                     
+                        〈1 page duplicate〉
+                     
+
+
+                     
+                     
+                        〈1 page duplicate〉
+                     
+
+
+                     
+are vncharitable, appéeres by the rough regiment of his warriers, that breake all the ancient lawes and priuileges of the Countries where they enter, and turne the glorious and golden adminiſtration of iuſtice, into a hard and yron gouernement of war, adminiſtred by violence of arms: ſo that I may very wel liken the féet of his ſoldiers to the féet of the wolfe, of whō it is writtē, that whatſoeuer he treads vpon neuer proſpers after. Looke vpon your owne warres another while, you ſhal find thē to be very charitable and iuſt, charitable in that they are vndertaken with greater care of y• loſſe of ye enemy, than the enemy hath deſerued, &amp; with ſuch a regard of our own loſſe &amp; the loſſe of the church, that it is the prayer and deſire of our ſuperiors, that it may be performed with the leaſt loſſe of Engliſh blod. The equitie and iuſtice of your warres appéeres, in that they are vndertaken, either in the defence of the innocent in thoſe dominions that are bound to ſette open theyr gates, that the King of Glory may come in, or in defence of your ſelues at home, your wiues, your children, your lāds, your liues, your countrie, and an innocent maiden Quéene, whoſe glorious life hath iniuriouſly
+
+
+
+and diſhonourably been ſought and thirſted after theſe many yeers: and to this purpoſe, mercenarie murderers, Jewes, vnnaturall Engliſh, and hatefull traitors hyred by the enemie from time to time to deſtroy it. Theſe iniuries not ceaſing, but increaſing yet euery day more and more, Creſcente iniuria creſcit ius ad ſatisfactionem, The more her Maieſties wrongs and iniuries increaſe, the more her Maieſties right, and the right of the whole kingdome increaſeth to redreſſe it. And if you be not able in al this to conceiue what a price god hath ſet vpon the head of her Maieſtie, doo as the countryman doth that knowes not the price of a pretious iewell: ſtand by the buier and the ſeller, marke what the chapman bids for it, and the Marchant refuſes, and you ſhall finde it. Spaniſh yron hath béene many times aduentured with great preparation of ſword and ſhot, but all ſcatterd and defeated: Spaniſh gold hath béen offerd, aſke what ye will to kill &amp; murder, but ſtil preuented: Spaniſh policies diſtild euery day into driftes to compaſſe it, but diſappoynted. Bleſſed be God that hath ſet ſuch a price vpon the head of her Maieſtie, that the forces of this worlde are too
+
+
+
+weake to conquer her, the treaſure of this world too baſe to buy her, and the wiſedom of this world too crazde to circumuent her. In reſpect of theſe high fauours of almightie God, this word may well be written vpon the crowne of England, in great capitall letters, ſet with ſhining diamondes, that euerie one may reade it running, videntis &amp; viuentis, It is the emperial crown of that Ladie, which by Gods great mercy ſees and outliues her enemies. To encourage you in ſo honorable wars as theſe, I know that if her maieſtie only were ſeated in ſome eminent place betwéene heauen &amp; earth, &amp; did but caſt downe one princelie regard vpon you whē you begin to march, it would giue wings to your harts, &amp; hāds, and féet, to flie about this action. But I can tell you of a greater then her maieſtie. As in publike Theaters, when any notable ſhew paſſeth ouer the ſtage, the people ariſe vp out of their ſeates, &amp; ſtand vpright with delight and eagerneſſe to view it well: ſo is God deſcribed in the ſcripture to ſtand vpright at the paſſions of his Church (as at the ſtoning of Stephen) to marke euerie mans carriage in the ſame. Aſſure your ſelues therefore that in theſe inuaſions and
+
+
+
+wrongs of the enemie ſtill attempted againſt our countrey, the God of S Stephen, the God of S George, the God of her maieſtie, the God of vs all ſtands in the confines of heauen and earth, to ſee &amp; marke, who ſendes his ſtrokes neareſt to the face of the enemy. And becauſe the enemie hath but two waies to quaile your courage, flatterie and ſpaniſh facing, I will ſhut vp all that I haue ſpoken to this purpoſe, with a ſhort exhortation of S. Aug. Exhorreſce quod minatur omnipotens, &amp; ama quod pollicetur omnipotens, &amp; vileſcet omnis mundus, ſiue promittens, ſiue terrens,
+                      Feare that which the almightie threatens, and loue that which the almightie promiſes, &amp; the whole world ſhall become ſo baſe and contemptible in your eyes, that you ſhall neither loue nor feare that which the worlde promiſes or threatens.
+               
+            
+            
+               The ſeconde parte. The exhortation to the action of warre.
+               THe action of war being thus diſcourſed, we are now come to the exhortation, wherein the firſt acte of the ſoule is, to Truſt. The hope of a Chriſtian is compared ſometime to a helmet, 1. Theſ. 5.
+
+
+                  
+becauſe it breaks many a blow that would aſtoniſh him: ſometimes to an anchor, Hebrewes the ſixt chapter, becauſe it ſtayes him when the ſea workes, and the winde bluſters. Gregorie likens it to the faſting day that goes before a great holiday, becauſe in the midſt of our heauineſſe it puts vs in minde, that ioy and ſaluation is at hand. Bonauenture obſerueth that it includes two things, it hath two acts, which are the very wings that moue it: one is an expectation or longing for the thing it ſelfe3. d. 26. g. 4. &amp; 9. that is hoped for, Eſay 40. ver. 21. They that waite vpon the Lord ſhall renew their ſtrength, they ſhall lift vp the wings as the Eagles, they ſhall runne and not be weary.
+                   This act is proper vnto hope. The other is Truſt, the act which Iehoſhaphat calles for héere: this is a perſwaſion wherby we iudge in diſtreſſe that we ſhal haue help at Gods hand, and that without him wée can haue no helpe at all, Eſay 30. 3. there were ſome that thoght vpon help from Egipt, to whom God ſaith that the ſtrength of Pharao ſhould be their ſhame, and their truſt in the ſhadow of Egypt their confuſion. This act is not ſo proper to hope as the former, but is borrowed of faith. And if you will ſée the neceſſity of
+
+
+
+it in the time of warre, looke into your own weakeneſſe. What is man but a worme crawling vppon the earth? Dauid was a mightie king, yet he confeſſed himſelf to be a worme and no man. As when little children firſt learne to goe alone, feeling the féebleneſſe of their owne feete, nature teaches them to thruſt out the hande to the wall, and truſt to it to ſtay them: ſo beeing once made acquainted with our owne weakneſſe, both nature and religion teach vs to truſt to a ſtrenger then our ſelues. This may not be, the faire ſpéech of man, Hier. 7. 4. Truſt not in lying words, nor his faire looks, Ezech. 16. there were ſome that truſted in beautie, and were deceiued; nor his ſtrength, Hier. 17. 5. Curſed is hee that truſteth in man, and makes fleſh his arme; nor his wealth, 1. Tim. 6. 17. Truſt not in vncertaine riches: nor his witte, God is able to turne it into fooliſhneſſe, as he did the wiſedom of Ahitophel. Séeing no truſt may be repoſed in any of theſe, wee muſt ſéeke out a better obiect, that is heere ſette downe to be God himſelfe.
+               
+                  
+                  The firſt obiect [God.]
+                  
+                  THe reaſon of it is this, that all naturall effects haue recourſe to their cauſes when they ſtande in neede, and they become the ſtronger. The fiſh diſtreſſed ſlides into the water, and it is reléeued: the birde flies to the dam, and it is ſhrouded vnder her wings: the Childe runnes to his parents: the Shunamites Childe complained to his Father, hee ſent him to his Mother, ſhée layde him vppon her Lappe, and forſooke him not in death. Strike the dogge, he runnes to his maſter: wounde the Souldiour, he flies to the armie. The Antiperiſtaſis of the cold makes the heate retyre into the fire, and the force thereof is greater. God is the firſt cauſe of all things, and all things haue recourſe vnto him, Pſalme, The eyes of all things doo looke vppe and truſt in thee O Lorde.
+                  
+                  If naturall cauſes, whoſe goodneſſe is finite doo cheriſhe their effectes, howe much more ſhall God, whoſe goodneſſe
+
+
+
+is infinite? Sometimes man lookes about him for the helpe of man, and finds none: Pſal. 142. 4. Dauid ſayth hee looked about vppon his right hand for helpe, and no bodie would knowe him, and eſpying man to faile, hée turned him to God that neuer failes. The Prophet Hieremie bleſſes him that takes this courſe, he likens ſuch a man to a trée, his truſt to the roote, Gods fauour to the ſap that lies continually at the roote to féede it and defend it. The diuell knowes this verie well, therefore hath it euer béene his practiſe to ſtrip vs of this obiect. You may ſée it in ye ſpéech of Rabſakeh, 2. Kings 18. 29. when the enemie lay before Hieruſalem. Let not Ezechia (ſaith he) deceiue you, neither let him make you to truſt in the Lord, ſaying, the Lord wil ſurely deliuer vs, and this Cittie ſhall not bee giuen ouer into the handes of the king of Aſſur. Uerily the people of Hieruſalem were pitifully ſtreightend when this was ſpoken, and their trouble ſo ineuitable in mans eye, that they ſawe no preſent way to eſcape, nor conceiued any likelihood to auoyde them in time to come.
+                  The ſucceſſe of the ennemie many times is ſo great, that hee ſéemes to bée
+
+
+
+placed at the right hand of God, &amp; to proſper in all his actions, ſuch a matter it was Rabzakeh vaunted of in his ſpeech, that God was on his ſide, in ſuffering him to come ſo neare as to whet his tuſkes vppon the walles of Hieruſalem. Gods own people in this caſe, appeare to be at his left hādGen. 4. 8. miſerable and vnregarded. Yet as Manaſſes and Ephraim ſtanding one at the right hand of Iacob, the other at his left, both readie to receiue his bleſſing▪ 
+                     Iacob ſodainely croſſed his handes, laying his right hand vpon Ephraim, and his left vppon Manaſles: ſo God ſodainly ſhifts his hands in the daies of trouble, hee laies his right hand vppon his people, and deliuers them, and his left hand vpon his enemies, powring an vnexpected contempt and confuſion vppon them all. I will giue you twoo examples of it in the Scripture. Euen in one night, when Ezechiah ſtoode in feare of all, and Rabſakeh thought himſelfe ſure of all, the whole armie of Sennacherib was defeated by an Angell. In one day, when the forces of Iehoſhaphat were verie ſmall, and the armie of the inuaders was verie great, the whole power of the enemie was ſodainely broken,
+
+
+
+they ſell one vppon another, and Iehoſhaphat founde their carcaſſes dead vppon the grounde, before hée could come at them.
+                  It is a rule in Rhetorique, that if a man make choyſe of a friende to flie vnto in time of néede, hée ſhoulde ſurueigh his power in him, whether he be able, and his kindneſſe, whether hee bée willing to yéeld him any ſuccor. In this maner when wée haue ſingled out God from all other things in heauen or in earth to truſt vnto, it is good Rhetorike and good Diuinitie to take a viewe in him of his power, whether hée bée able, of his knowledge, whether hée bee ſkilfull, and of his goodneſſe, whether hée be willing to releeue vs.
+                  His power, without queſtion is farreGods power. aboue the power of man, for mans power is finite, and Gods power is infinite, Pſalme 89. O Lorde of hoaſtes who is like vnto thee which art a mightie Lorde. Dauid acknowledges him to haue ſuch a power as cannot bee matched. Epheſians 1. 19. Paul deſires God te lighten the eyes of their vnderſtanding, that they may knowe what the exceeding greatneſſe of his power is towardes them that beleeue.
+
+
+
+                     
+                        〈1 page duplicate〉
+                     
+
+
+                     
+                     
+                        〈1 page duplicate〉
+                     
+
+
+                     
+In Arithmetike ſet one againſt tenne ten againſt a hundred, a hundred againſt a thouſand, a thouſand againſt tenne thouſand, although there be great oddes, yet there is ſome compariſon, but if you could ſet downe an infinite number, then there could be no compariſon at all, becauſe the one is finite, the other infinite: ſo is it betwéene the power of God and man: ſette all the Princes of the earth in oppoſition againſt God, they ſhall neuer bee able to withſtand him. Pompey was wont to ſay, that with one ſtampe of his foote hee could haue all Italy in armes. God may ſay that with one ſtampe of his foote hee can ouerthrow all Italy, and all the worlde beſide when it is in armes, Pſal. 68. 1. Let God but ariſe▪ his enemies ſhall bee ſcattered, and they that hate him ſhall flie before him. God is ſaid Pſa. 149. to bind kings in chaines, and their nobles in fetters of iron. if he once fal into fettring of princes, it ſhal be done ſo ſure, that no fleſh ſhal be able to knock off their bolts again. P
+                           •
+                        . 147. God is reported to make faſt the bars of your gates. If he once make the barres of your gates faſt, truſt to it, they ſhall be ſo faſt, y• no preparation of the inuader ſhall breake
+
+
+
+them open. We haue thrée rules in Philoſophie, that will make this plaine vnto you.
+                  The firſt is, that where there be two agents, a ſuperiour, and an inferiour, the inferiour can neuer ouercome the ſuperiour, becauſe the ſuperiour is more actiue. Wée ſay in Philoſophie, that that is moſt actiue which is moſt ſeperated from earthly parts, moſt eleuated à materia. The phiſition diſtilles his ſimples into waters, hee makes his extractions and quinteſſences, that the more they bee eleuated à materia, they might be the more actiue, and worke the better. Water is ſtronger then earth, becauſe it is more actiue, and more eleuated à materia. Fire is ſtronger then water, becauſe it is yet more actiue and eleuated à materia. You ſhall finde it in the ſacrifice of the Prophet, where the fire lickt vp the water, burnt the wood, and conſumed the ſacrifice: Angelles are ſtronger then men, becauſe they are much more eleuated à materia. God is ſtronger then the Angelles, becauſe hee is moſt eleuated, hée is aboue earth, aboue water, aboue ayre, aboue fire, aboue men, aboue Angels, aboue all, and ouer all Actus purus,
+
+
+                     
+ſo ful of actiuitie, that none is able to inflict any paſſion vpon him. The ſecond rule is that variante materia, forma manet eadem, according to the change &amp; alteration of your diet, according to the variation of the ayre, wherin you liue, your blood, your humors, your bodies, your complexions doe change and alter, but your ſoule is the ſame ſtill. A mans ennemie may cutte off a péece of his bodye, a legge, or an arme, but hee cannot cutte off a péece of his ſoule. Looke what the ſoule is to the bodie, that is God vnto his church: all the prophets and apoſtles, thouſands of holy and learned biſhops and preachers haue béene cutte off, ſome by perſecution, ſome by naturall death, yet religion ſtands, and the Church ſtands to this day, which is a ſigne that it is maintained by ſuch a forme as can not varie. Séeing then that all worldly things be tranſitorie, men vary, the times varie, the pollicies of warre varie, the weapons varie, the ſquares and orders of fight vary, the places of aduantage and diſaduantage varie, it is beſt truſting to ſuch an obiect as cannot varie: ſuch a one is God that hath eſſe quoddam magnum, ſuch a great and inuariable eſſence, that a man ſafely ſay vnto
+
+
+
+him Pone me iuxta te, &amp; manus cuiuſuis pugnet contra me, Lord ſet me by thee, &amp; then let euery hand fight againſt me, I feare no variation. The third rule is this, Animalia multa agūt &amp; patiuntur per phantaſiam, liuing creatures here beneath, doe many things, and ſuffer many things, by reaſon of their apprehenſion of their obiect. The ſheep at the firſt ſight of the wolfe apprehends him for a terrible obiect, and naturally feares &amp; flies him: the lion quite contrary apprehēds no terror in the wolfe at all, but paſſes by him, and by all the beaſtes of the forreſt, with an honourable ſcorne and diſdaine of all.
+                  About mans apprehenſion of feare or courage, the ſituation of his eie either maketh all, or marreth all. When you ſtand here below vpon the ground, and looke vp to the top of Paules, they that ſtand vpon the ſtéeple, appéere ſmall of ſtature to you, although they be tall &amp; great, and they that are next to you ſéeme great, by reaſon of the diſtance of the one, and the néereneſſe of the other: but if you ſtood vpō the top of Paules and looked downe, then they that are aboue woulde ſéeme great, and they that are beneath woulde ſéeme little: So is it with
+
+
+
+men in the time of trouble, if their eyes be faſtned vpon the earth, their enemies wil appeare vnto them to be great and mightie, and God which is ſo high will appeare little. Neuertheleſſe, if their eyes be in heauen, as Iehoſhaphats eyes were, 2. Chro. 20. 12. Our eyes are towardes thee, and looke downe from thence vppon their enemies, God will appeare ſtrong and mightie, and the enemie weake and withered. I will giue you thrée inſtances of it in the ſcriptures. Numbers 13. Eſpialles were ſent out to diſcouer the land of Promiſe, ſome of them hadde a ſhéepes eye, they no ſooner ſawe the great ſtature of the Inhabitaunts, all Giants or Giants fellowes, the high wals of their citties reaching vp to heauen, but they were afraide, they tooke the people to be inuincible, &amp; the towns impregnable. Caleb quite contrarie hauing his eie in heauen vppon Gods power and promiſe, and looking downe thence vpon the people, and the Cities, apprehended no terror in them at al: let vs go vp (ſaith he) without doubt we ſhall ouercome them. Caleb had a Lions eye, he paſſed by the people and their Cities with an honorable ſcorne of all. 2. King. 7. Samaria
+
+
+                     
+was in great diſtreſſe, a mighty enemie befor it, a ſore famine within it, there was a noble man vppon whome the king leaned, that had ſo baſe an eye, that looking vppon the preſent miſeries, hée tooke them to bee greater then God, he perſwaded himſelfe that although God ſhould raine vittailes out of heauen, the famine could not be ſpeedily remooued: But E
+                           •••
+                        a had his eyes in heauen, and looking downe from thence, diſpiſed the preſent calamities, in reſpect of the preſent helpe and hand of God, that by next day would make the price of corne to ſtoupe ſo lowe at the gates of Samaria, that it ſhould be there at a very eaſie rate, and the ſiege remooued. 1. Eſdras 4. there was a flattering courtier, that looking vpon the royall perſon of the King, helde a paradoxe that the King is the ſtrongeſt thing in the worlde, becauſe hée ſendeth out his warriours that ſlay and kill, and ouerthrow Caſtles, Townes, and Towers, and digge vp the mountaines as they go: but Eſa. 40. 22. the man of God apprehendeth no ſuch greatnes in kings &amp; princes, when they be compared with God: and looking downe from heauen vpon the Kings of the earth he ſaieth they be crickets in reſpect of God.
+
+
+
+Euen then when they are in their chiefeſt ruffe, with their chariots, and horſe, &amp; men at armes marching to the battell, they are but as graſhoppers trouping out, ſkipping and leaping vppe and downe the field. By theſe things you may perceue that as Moſes ſerpent did eate vp the ſerpents of the Inchanters, ſo Gods power deuoures and ſwallowes vp all the power and ſtrength of man.
+                  There may be power where there is no ſkil to vſe it: If the Oxe knew his ſtrengthGods knowledge. he woulde not ſuffer a childe to driue him: if the horſe were priuie to his own force, he would not ſuffer a boy to ride him. But it is not ſo with God, as he hath might, ſo hée knowes when, and where, and how to vſe it, Iob 12. 13. With him is wiſedome and ſtrength. The Schoole menne ſay that hée knowes non entia, thinges that are not. They take it out of the fourth chapter to the Romans 17 verſ. He calles things that are not as if they were. Theſe are of two ſorts, either ſuch as are not now in acte, but either haue béene in time paſſed, or ſhall be in time to come. A ſecond ſort of things that are not, is ſuch, as neither are nowe in acte, nor euer were, nor euer ſhall be.
+
+
+
+Séeing then it is the cowardice of man, eſpecially in the times of warres, to feare many things that neuer were, nor are, nor ſhalbe, it is good at ſuch times to make God the onely obiect of our truſt which ſees and knowes, that many things which we feare ſhall neuer fall vpon vs.
+                  Laſt of all there may be power and ſkillGods goodnes. to helpe when there is no will to vſe it: let vs ſearch then whether God be as willing to ſuccor his people as he is powerfull and ſkilfull. Surely if he were not, he might be ſaide to be leſſe kinde vnto his children, than man and beaſt is vnto their young, they cheriſh their yong, they fight for them and defend them. Gods goodneſſe towards his people can not be deliuerd vnto you by a better hand than by the doctrine of his prouidence which includes both his knowledge and his wil. Concerning which, ſéeing there haue béene diuers errors, and I perceiue the dayes and times require they ſhould be touched and opened, I wil deale with them as the venerable Judges of our Country deale (in care and compaſſion of the Quéenes liege people) with thoſe atturnies whom they find to be looſe in the haft, and fitte for nothing but to diſquiet a kingdom,
+
+
+
+I wil diſgrace them, and diſable them to do any more miſchiefe, race them out ofErrours about the prouidens of God. the rowle and let them go. There be 6 of thē in number. The firſt is, the error of the Stoikes, ſetting down a kind of prouidēce which they call Fate or Deſtiny, which runnes thorow a ranke of cauſes, &amp; brings in an abſolute and ineuitable neceſſity that pinions the armes and the actions of God and man. This error Theodoret diſcouereth in his ſirt book of curing the affections of the Gréekes, and Alphonſus de Caſtro in his ſeuenth booke of Hereſies, in two ſeuerall Treatiſes, one of Fate, the other of Future contingent, beates the noſe of this error flat to the face of the deuiſers &amp; amintainers of it. The ſecond is y• error of Auerroes Metaph. 12. tying Gods prouidence only to celeſtial things, al terreſtrial &amp; corruptible things exempted. This is bewraied by Cyril. Hieroſol. catach. 8. Clemens Alexandr. li. 5. S
+                           •
+                        rom. and ſaint Hierome vpon the eight chapter of Ezechiel, and the twelfth verſe (where the Jewes ſayde, Dominus dereliquit terram, the Lord hath forſaken the earth) auowcheth that this errour was crept into the heartes of the Jewes, for which God threatned in the
+
+
+
+ninth chapter of Ezechiel that his eie ſhuld not ſpare them. The third is, the errour of ſome that helde, that Gods prouidence ſtretcheth it ſelfe to corruptible things, onely after a generall manner, and Ad rerum genera &amp; ſpecies, non ad ſingularia. Nicenus
+                      ſheweth it in his eight booke of Philoſophy and the fourth chapter, this is againſt the doctrine of the holighoſt, that teacheth, that a ſparrow lightes not on the ground, nor a haire falleth from our heads without his prouidence. The fourth is, the errour of Rabbi Moſes the Jew, laide open by Tho. 1. p. q. 22. a. 2. Rabbi Moſes thought, that among corruptible things, man onely appertained to the prouidence of God, which the Prophet Hieremie confuteth in his two and thirtie chapter and the ſeuen and twentie verſe, Ego Dominus Deus vniuerſae carnis, I am the Lord of all fleſh, both man and beaſt. The fift is the error of the Platoniſts, which diſtinguiſh thrée kindes of prouidence, one of the ſupreame and high god, which ſtretches primarily to ſpirituall things, and ſecondarily to al the world: another of ſeparated ſubſtaunces that mooue the heauens circulariter: a third of certaine daemones, which the Platoniſts place in the
+
+
+
+betwéene God and man. Of theſe I may ſay as the Prophet Eſay ſaith, chapter 28. They haue made falſhood their refuge, they haue ſhrouded vnder vanitie, and haue truſted vnto lies. The ſixt is the error of Atheiſts, which vtterlie denies anie God, any care or prouidence concerning the creatures, but will haue all things to be ruled by fortune and chaunce. This is diſcloſed by Lact li. 1. inſtit. ca. 2. Nicen, 
+                           •
+                        . 8 Philos. ca. 3. and others. The beſt way to diſgrace and diſable this, is to ſette a cockſ-combe vpon the head of it, as Dauid doth, The foole hath ſaide in his heart there is no God. Looke vppon all the creatures in the world, you ſhall find them all make vppe one great and glorious armie, whereof God (like a Monarch) is the high commaunder, they are all marſhalde into their ſeuerall rankes and orders, wherein they march and mooue obedient to his becke. Looke vpon the actions &amp; operations of inſenſible things, ſtones, plants, and hearbs, you ſhall ſée them all tende to their peculiar ends for which they were created, of which endes they haue no knowledge thēſelues, but are directed vnto them by the hand of God, as the arrow is directed to
+
+
+
+the marke by the eye, and the arme of the Archer. Our faith acknowledgeth him. I beleue in God.
+                  
+                  The Scriptures diſcouer him. Pſ. 70. 90. 1. O Lord thou haſt bin our habitatiō from generation to generation.
+                  
+                  Compariſons bewray him, Wiſd. 7. Golde is but Grauell in reſpect of him: the creatures confeſſe him, Ipſe fecit nos, et non ipſi nos, it is he that hath made vs, and not we our ſelues.
+                  What a ſhame is it, that the younge, both of menne and beaſtes are no ſooner borne into the world, but by &amp; by nature teacheth them to turne their mouth to the breaſtes that brought them foorth, and men ſhould liue in a religious kingdome vntill they come to the yéeres of diſcretion, and neyther by nature nor religion yet be taught to turne the mouth of confeſſion vnto God to finde him out, that ſet his hande to the wombe to bring them foorth? I will leaue all other proofes and examples that may ſerue this purpoſe, to bring you néere to our owne times.
+                  There was but few yéeres ſince a prophane company about this Cittie, which were called the damned Crewe, menne
+
+
+
+without feare, or feeling, eyther of Hell or Heauen, delighting in that title: It pleaſed God to drawe them all into one net. They were ſhipt all into one Bark, and paſſing downe the Riuer with ſound of Trumpets, in a faire day, a faire tide, a faire winde, and a faire new bark, ſodainly about one of the Reaches a perry of winde came from the lande, &amp; ſo filled the ſailes, that they were all run vnder water before they came to Graueſende, I coulde neuer heare to this day that any one of them eſcaped. Yf that the Bark did appertaine to any of this honorable city, you may remēber this great iudgment of God by your owne loſſe.
+                  I doe but gather it vp as I goe, to put you in minde that if God did bles Laban, for Iacob, and Putifar for Ioſeph, he ſhal bleſſe you and your affaires for receiuing of ſuch as receiue him, and curſe and croſſe you and your affaires for entertaining of ſuch as doe not entertaine him. It is wel noted in Gregorie that the performance of things paſt bréeds an aſſurance of things to come. The experience of Gods Judgments executed vpon his enemies, and of his fauors and deliuerances
+
+
+
+extended to them that feare him, are ſufficient arguments of the care he hath of vs, Tho. 1. 2. q 40. a. s. ſhewes yt experience makes a man cōfident two waies, the one is by making a matter eaſie, that which a man hath doone often he can eaſely doe againe, he hath no diſtruſt at all to worke it; Eth. 3. ca. 8. He that hath often ouercome in war, truſtes to ouercome againe. The other is the perſwaſion experience breeds, that the thing which we goe about may be compaſſed. Both theſe are in Dauids experience, and in Paules. Dauid hauing found deliuerance by Gods hand out of many trobles, ſaith: yt in the name of his God he wil leap ouer the wal. His experiēce had made the matter ſo eaſy to him that it was but a ſkippe or a iumpe in his conceipt. Paule confeſſeth. 2. Cor. 1. 8. of the troubles that hapned to him in Aſia, wherwith he was preſſed out of meſure, that they were caſt vpon him to this end, that he might not truſt in himſelfe but in the Lord which hath deliuered him, and doth deliuer, and wil deliuer him hearafter. Séeing then God hath a care to ſaue
+
+
+
+and defend his ſeruants, as it was a baſe feare of the Iſraelits, after ſo long experience of his mighty hand, ſo many miracles wrought, ſignes and wonders ſhewed on their behalfe, in Egypt, in the red ſea, and in the wilderneſſe, to diſtruſt of their entrie into the land of promiſe: So after ſo many tryals of Gods fauour in the deliuerie of this kingdome from the hands of the enimy, it were a vilde and contemptible cowardize, to diſtruſt of the like hereafter. And becauſe in the time of warre the feare of one makes many fear, and the running of one makes many flie, I wil end the diſcourſe of this obiect with the ſpeach which Vitalis a ſouldier and a martyr, vſed to Vrſicinus a Phiſitian which ſuffered many bitter torments for religion, but at laſt, Vitalis perceiuing that as his paines began to encreaſe, his corage &amp; coūtenance began to be abated; Noli Vrſicine (ſaith he) quialios curare conſueuiſtite
+                     Antonin 1. p. hiſt. cit. 6. c. 25. 
+                     ipſū perdere, &amp; poſt tot vulnera accepta, corona frandari ſempiterna. Do not now Vrſicinus which haſt vſualy healed others, deſtroy thy ſelfe, and after ſo many wounds receiued, looſe an eternall crowne of glorie.
+                      Uerily the attempts of the enimy
+
+
+
+vppon this land haue béen many, hitherto your courage and forwardnes in the defence of your Country hath encoraged others, if you chance at any time to eſpy the drifts of the enimy to encreaſe, or his rage grow greater and greater, be notnow apalled, &amp; after ſo many and furious brunts manfully withſtood, looſe an eternall crowne of glory.
+                  
+                     The firſt conſequent [ſafety.]
+                     THe firſt conſequēt, flowing frō this act and this obiect, you ſée is ſafety, [you ſhalbe aſſured.] To vnderſtand this ſecurity aright, you muſt conſider that our truſt lookes two waies, one is towards God, and there it hath aſſurance, becauſe his power is ſuch as cannot be maſterd, his knowledge ſuch, that none can go beyond him, and his goodneſſe ſuch that he is euer ready and willing to help his ſeruants. Eſ. 28. 6. He is a ſtrength vnto them that turne away the battell from he gates.
+                     
+                     They that truſt in the lord (ſaith Dauid) ſhall be as mount Sion that cannot be moued. Pſa 125. Dauid found him to
+
+
+
+be his viceadmirall, that caried the light before him in the darkeſt times of trouble and guided him with wiſdome out of heauen. Pſ. 27. 1 The lord is my light and my ſaluation. The other way it looks is, to the thing hoped for, which is ſaluation, and this is of two ſorts, eyther eternall, or temporall: God promiſes neyther of theſe abſolutly, but vpon condition. The condition of the former is Ro. 8: Si tamen compatimur. If we ſuffer with him▪ we ſhalbe glorified with him. The condition of the latter is Inuoca me &amp; eruante, God enters into a couenant with his people. Exo. 23. to caſt out their enemies by little &amp; little; the people enter into a couenant with God alſo Ex. 24. to do al that he commandeth. It was the order that God &amp; Salomon tooke one with another, 1. kin. 8. 44. That when the people went to war, they ſhould pray towards ye temple. Therefore if you truſt to receiue at Gods hands any of theſe two things, you muſt do it per debita media &amp; debito ſperandi mod
+                              •
+                           , otherwiſe it is preſumption. But if you goe the right way to worke in the time of warre, if euery man reforme his own life, it was it that A chior told Olophernes,
+
+
+                        
+If there were no ſin in the inhabitants of Bethnlia, hee ſhould fall before them and become a reproch and a ſcorne onto all the world: if euery man betake himſelfe to ſuch a care and preparation of defence, as if all lay vppon man and god did not concur, and then with praier and deuotion ſo commend the cauſe to God, as if all lay vpon God and man did not cencur. You ſhall then find that to be verified in you, which Socrates found in the Lacedemoniens, whoe perceiuing that in certaine wars betwéen the A thenians &amp; them, the A thenians offered much golde vnto their Idols, yet they departed ſtill out of the field beaten. He aſked the Oracle what might be the cauſe of it? and it was anſwered, that the praiers of ye 
+                        Lacedemonians preuailed more than ye gold of the A thenians. No doubt but much coſt hath béen laid vpon al the actions and attempts of the enimy againſt you, yet hée goes away beaten, if you wil knowe the reaſon, the praiers of the church of Eng
+                           
+                              ••
+                           nd, haue preuailed more than the gold of Spaine.
+                  
+                  
+                     
+                     The ſeccond Act [Beleeue.]
+                     
+                     THis act in the handling of my Text comes after, which in order of generation goes before the former. Heb. 11. Faith is the foundation of things hoped for, and the euidence of things not ſeene. The foundation goes before the building, and the euidence before poſſeſſion. The gloſſe vpon the 1. Matt. ſaith, that as Abraham begat Iſaac, ſo faith begets hope. Praier is the interpreter of hope, and Rom. 10. We cannot pray except we beléeue. How ſhall they call vppon him, in whome they haue not beleeued? ver. 14. Intellectus eſt prior potentia quā voluntos.
+                         Mans appetite moues him not to hope for any thing before he knowes it either by ſence and féeling, or by an apprehenſion of vnderſtanding. Therefore as 2. Kin. 6 the ſeruant of the Prophet feared vntil his eies were opened, by which he ſaw the helpe God had prouided, and when hee ſawe it his feare vaniſhed: ſo vntill the mind be lightened by faith, we are diſtruſtfull &amp; ſtant in doubt, but if wee beléeue our doubt is ouer. Beléeue we cannot but by preaching,
+
+
+
+whereby it growes that the obiect of this act in this place, is the Prophet.
+                  
+               
+               
+                  The ſecond obiect. [The Prophet.]
+                  
+                  
+                     AMos. 3. 7. God will doe nothing but he reuealeth his ſecrets vnto his ſeruantes the Prophets. In this reſpect the Prophet is cald a ſeer. 1 kin. 9. He ſees ſaieth Iſidore many things that other men ſée not. Sometimes he ſées thinges belonging to the Maieſtie of God. Eſa. 6. He ſées God ſitting vpon a high throne; ſomtimes he ſées thinges appertaining vnto the manners of men. Eſay. 58. 7. He ſées it neceſſarie to the faſts of the Jewes to ioine workes of mercy, in féeding the hungry, and releaſing the handes of ſuch as were oppreſſed; ſomtimes he ſées things preſent. 2. king. 5. Elizeus ſées Geheſi taking rewards althogh he were not with him: and 2. kin. 6. although he were not in the counſel chamber of the king of Syria, yet he diſcouered all the plottes and practiſes of the king of Syria to the king of Iſrael, ſ
+                        •
+                      that the king of Syria wondered at it, and miſtruſted that ſome of his own counſell had béene falſe vnto him, vntill
+
+
+
+they tolde him there was a Prophet in Iſraell which bewraid al to the king of Iſraell which the king of Syria ſpake in his priuy lodgings. Somtimes he ſees things to come, Eſ. 47. 12. The prophet foreſees the deſtruction of Babylon, and tels them of it, that two things ſhal com vpō them in one day, loſſe of children &amp; widowhood. The light where with the prophhetes ſaw ſo much, was a light aboue nature, confirmed with arguments aboue nature, it was confirmed by myracles. And as the doctrine of the prophets came down from heauen confirmed by myracles, ſo ye goſpel which we preach to you came downe from heauen and was confirmed by myracles. Mar. 16. it is ſaid that the Lorde wronght with the Apoſt and confirmed the word with ſignes that followed: yea, there is a kind of myracle wrought by it vnto this day. What a wonder is it to ſée a greeuous ſinner that hath frozen in his wickednes many yeares ſuddenly cōuerted with one ſermon, with one ſentence in a ſermon? Al the wiſdom of the phyloſophers could neuer do it without a moū
+                     tain of books, much time, much teaching, much practice ex frequentatis actibus, and
+
+
+
+when they had done their beſt, they could neuer attain vnto it. It may ſeem ſtrāge that the office of the Prophets &amp; Preachers being ſo excellent an office, &amp; their doctrine ſo confirmed from time to time, that neither prophet nor preacher ſhould in this declining age of ours be regarded, and we may ſay as the prophets did Quis credidit auditu noſtro? Who hath beleeued our report?
+                      The people are grown like to ſprings in ſummer, the more heat without, the more cold within, the more preaching the leſſe deuotion. They may be cō
+                     pared to the pinnacles of the belfry, begin to ring they beginne to quake, as if they were afraid, continue ringing, they ſtād ſtill, their feare is paſt.
+                  In the beginning of her Maieſt. raign euery man began to tremble at the word of God and to giue heed to the preaching of the ſame: but the happy continuaunceSeauen reaſons of 
+                           •
+                        he contempt of 
+                           •
+                        he Prophets and Preachers of Gods worde. thereof hath made it ſo familiar vnto you that you care not for it. Methinks I could yéeld ſom reaſons of theſe euentes, 5 on your part, 1. of ours, &amp; ye laſt on gods part
+                  The 1. is the diſpoſition yt is in men. As between the face of a mā &amp; a glaſſe, ſo is it between ye precher &amp; the hearer. The
+
+
+
+face of a man, is the ſame face, but acording to the diſpoſition of the glaſſes wheron it hath reflection it appeares different, in ſome it ſeemes ſmooth, in ſome wrinckled, in ſome long, in ſome rounde, there be ſome prepoſterous glaſſes, that make that which is ſtreight, appeare crooked. Some will inuert the partes of man, and ſet his head downe and his heels vp.
+                  Such a glaſſe was Amasia to the prophet after the ſlaughter of the Edomits, the prophet reproued him for offering Incens to Idoles after the vctorie, he ſhooke him vp like a diſhclout.
+                  Art thon become the Kings counceller? ſuch a glaſſe was Ahab to Michaia when hee fedde him with the bread of affliction: ſuch glaſſes were the people to Hieremy lament Raita Iehoua gna uatati it is as much as if the Prophet ſaid, Lord thou haſt ſeene that that which is right in me they haue made crooked. Such a glaſſe was Harding to Iuel, the lerned Biſhop complaind of it, that whatſoeuer he ſpak was to long or to ſhort, or one way or other it ſtoode awry. Such a glaſſe is the new Preſbyterie couching downe at the gates of great perſonnes, with her bellie
+
+
+
+full of barcking libells to diſgrace the perſons of the beſt men, and the labours of the beſt learned in the Church of England. And to be plaine with you, becauſe I truſt you loue plaines, ſuch glaſſes we that are preachers in the country meet withal. You may ſee it by the practiſſe the holy ghoſt diſcouers Hier. 18. 18.
+                  
+                  
+                     Let vs ſmite Hieremie with the toong, and giue no heed to his worde.
+                  
+                  The beſt way the diuell can finde to diſgrace preaching, is to diſgrace yt preacher. Concerning this practiſe, I aſſure my ſelfe that much water goes by the Mill, which the Miller knowes not of, therefore ſtanding before the honorable Judges of our Cuntrey, I will open ſome thinges to this purpoſe as I paſſe along.
+                  The laſt Aſſiſes in the Cuntrey where I dwell, there was a Miniſter, a bachiler of Diuinitie, that had a cauſe againſt one that held his benefice as farmor, and woulde kéepe from him both his liuing and his rent that ſhoulde maintaine him, and doe it by law. But there was a baſe generation then preſent, which belike haue ſome inferior ſeruices to courtes of iuſtice, whom I cannot beter liken than
+
+
+
+vnto Florus an idle fellow, that ſaide of Ceſar, Ego nolo Caeſar eſſe, I will not be Caeſar to march vp and downe in armour among the Britaines, and ſo leade a laborious and painfull life: to whom Ceſar anſwered, ego nolo Florus eſſe, ambulare per popinas, &amp;c. I will not be Florus to créep into euery kitchen, or to be ſhrouded vnder the roofes of victualing houſes, woorried &amp; and eaten vp at laſt with lice and lazineſſe.
+                  This generation is ſuch as haue had honeſt trades and occupations to get their liuing, but per aduenture by ſome euil cariage in their trades, hauing loſte both credite and cuſtome, and now ſcorning the ſweat of their occupation, haue found out a new occupation, to liue by ye ſweat of other mens browes: and to compaſſe this the better, haue ioyned themſelues to ſome crackt Attourney, which ſince his diſgrace and raſing out of the roll, hath wandered a while in France, vntill his face, or his fortune, or ill faſhion of life might be forgotten, and ſo returns cloſely to his old byas. This kind of people eſpying but one miniſter to be drawn forth into ſutes and quarels, gaue it out luſtily
+
+
+
+that they would haue the next aſſiſes better furniſht, they would haue three or foure of our brethren there. I will ſay to your Honors of theſe people, as Dauid ſaid to Salomon concerning Semei. 1. kin. 2. 8. With thee is Semei that curſed mee with a horrible curſſe. Although my hand be not vpon him, yet thou ſhalt not count him innocent, for thou art a wiſe manne and knoweſt what thou oughteſt to doe vnto him. When any of theſe caterpillers and cooſners of the Quéens léege people, ſhall hale any of the Clergie by violence into the courts, as you are wiſe &amp; learned in the lawes of our Countrey, mark well the nature of the action, and the qualitie of the perſons, and doe according to the wiſedome God hath put into your harts, you know what you ought to do in theſe caſes better than I can teache you.
+                  I dare be bold to ſay, that you ſhal find the Cleargy of England haunted at this day with thrée cumbers that troubled the Prophet Ieremy, Lament. 3. The firſt is, that his enemies chaſed him like a birde from tree to trée. The ſecond was, they woulde not tarrie vntill hee was dead,
+
+
+
+but caſt him quick into a pit, the third againſt all humanity, when they had him downe they threw ſtones vppon him preſently to kéep him down, a barbrous cruelty paſſing the cruelty of the Italian, the heathen, and the ſpaniard. The Italian hath a tricke in the art of the rapier &amp; the dagger to teach his ſcholer with a trauace or two to get the pointe of his aduerſaries weapon, and hauing that, to locke him vp ſo ſure that he may turne away his face from him and runne him through, which he ſaith he doth Per non veder crudeltà becauſe hee will behould no cruelty. The tragedies of the heathen poets are ſtuft full of murder, inhmanity and horrible actions, yet are they performed with ſuch a care and compaſſion of the people, that they are al conuayed frō the peoples eyes. The ſpaniſh inquiſition hath bene ſo kinde in ſome cruelties, that they haue of grace and fauor greaſ'd the halter for ſome that weare ſtrangled for religion, that they might be diſpatcht the ſooner. Let vs craue any of theſe fauors at the hands of our enemies, let them turne away their faces from vs when they kill vs, that their eyes delight
+
+
+
+not, and their chéeks bluſh not at their owne cruelty: or conuey the horror and inhumanity of their▪ actions behinde the ſtage, that the people be not ſxandald: or greaſe euery halter that ſtops our breath that the rope may ride, and make a quick riddance of vs al. Or if they be ſo gallant faulkners that they make it their paſtime and recreation to purſue vs like a quaile or a partridge from place to place, and ſuch huntſmen as haueing once ſtreightned their game be deſirous to tumble it into a pit, let them tarry vntill we be colde in the mouth, and then throw Pelion and Oſſa the Giants weight vpon vs, we know we ſhall riſe againe. By theſe practiſes both you my Lords, and you good people may eaſily diſcerne, that this world is a very ſea of trobles, wherin there be two ſhips vnder ſaile, both men of warre. The one is the church, where Chriſt is the maiſter, his croſſe the maſte, his ſanctimony the ſailes, the tackle is his patience and perſeuerance, the caſte peeces are the Prophets, Apoſtels, and preachers whoſe ſound hath béen hard ouer all the world, the mariners be the Angels ſinging their Celeumata glorie
+
+
+
+be to God on high,
+                      the fraught is the ſoules of iuſt men, woemen, and children, And the rich gifts and deuotions beſtowed vpon churches and colledges bound vp in baggs that ſhall neuer periſh. The rudder is charitie, all the motions and actions of the church are wroght in loue, the ancor is hope, the flagge in the top of her is faith, the worde written in it, Premimur non oprimimur. We are caſt downe
+                      (ſaieth the Apoſtle) but wee periſhe not. There is another ſhip at ſea which hath this ſhip in rhace, that is the Pyracy of hel, a hot ſhip and full of wild-fire, where the Diuell is maiſter, pride the maſt, impurity the ſaile, the wiſdome of fleſh the Card, the myſterie of iniquity the compaſſe, Diagoras the Atheiſt, Indas ye traytor, and the whole rabble of hel the Marriners: two tyre of Ordnance planted in her, one mixt of hereticks &amp; ſchiſmatiks, another of perſecuting heathen princes, that ſpit ſmoke &amp; ſulphur at the church of God. There belonges no anchor to this veſſel, to ſtay it when the ſtormes of the wrath of God ariſe, for it is ſubiect to deſpaire. The flag in the top is infidelitie, the word written in it, Lu
+                           •
+                        rum eſt pietas.
+
+
+
+                        Gaine is godlineſſe.
+                      You may ſée it in the continuall chace of the Church, for the churches treaſure, landes and leaſes giuen in Pios vſus. The daies haue béene, the queſtion was, What ſhall we bring1. Sa. 7. 9. to the man of God? The daies are now, the queſtion is in euerie Court of iuſtice, in euery high court of Parliament, what ſhall we take from the man of God?
+                  In the noble Shunamites daies, they deuiſed to build vp a chamber for the prophet, to ſet him vp a ſtoole, a table, and a candleſticke. In theſe noble daies, men deuiſe howe to pull downe the chambers of the prophets, to ouerthrow his ſtoole and his table, and break his candleſtick in péeces. In the daies of the Leuites whē the portions of the prieſts were detained and the Leuites ſcattered, there was a good Nehemiah that reproued the Judges and Elders, and ſet the houſe of God in order, and brought the tythes barke againe vnto the prieſt. In theſe daies, if God ſtirre vp a good Nehemia to deliuer vs our portion into our handes, the Kite catcheth it before wee can put it to our mouth. The Cleargie of Englande may nowe ioyne hande in hande in a
+
+
+
+faire roundelay and ſing and record one to another, as little children do in the ſtréets, When ſhall we eat white bread? when the puttock is dead. Tobiah and Sanaballet perceiuing the walles of Hieruſalem begin to riſe, aſked whether the walles were ſo high that a Foxe might not get ouer them: and in theſe daies of ours, if any tricke of a Fox may be foūd to croſſe the Church, we ſhall bee ſure to haue it put in practiſe.
+                  To this purpoſe it may be you ſhal perceiue ſome broker belonging to the common Law, or ſome ieſter hanging vpon the Court, or ſome Lyris Poet and common Rimer houering about this Cittie, ſubborned and bolſtered to deale in deriſion of the Church in time of parliament as Italians do in their plaies, that come huffing in on a ſudden with flights, ſhifts iugling, packing, tricks of legier de main, all caſt and contriued to no other end but to intoxicate the whole Sceane, and to make game and laughter for the lookers on. But let the graue affaires of this church and kingdome be once turned into ſport, and you ſhall quicklie ſée by the multitude of iudicious eies faſtened vpō
+
+
+                     
+the actions of all kingdomes, by ye bookes of intelligences daily printed, and by the innumerable company of learned heads and pens, working and walking day and night, that all Chriſtendome ſhortly will ring of the pageants plaide among vs, &amp; ſhortly all Chriſtendome will abhor vs, as a people prophane and irreligious. A great part of this miſchief being hatched by the preſbyterie.
+                  
+                  2 The ſecond reaſon is, the miſtaking of the phyſicke that ſhould haue béen adminiſtred vnto the presbyterie. Conference, conniuence, tolleration, diſputation, printing of bookes, and preaching of ſermons, haue béene applied vnto them, theſe are all wrong Apozems, one dram of Elleborus would haue purged this humour. It was the iudgement of a verie learned Biſhop many yeares agoe, that correction would amend it.
+                  By fauour and ſupport theſe Uermine that were long ſince, by the labours of learned biſhoppes hewen in péeces, haue crept out of their holes, from Leidon and other places, and by continuall rolling recouered their taile, their torne papers and maimed pamphlets haue bin ſticht
+
+
+
+                     
+                        〈1 page duplicate〉
+                     
+
+
+                     
+                     
+                        〈1 page duplicate〉
+                     
+
+
+                     
+togither againe with a ſkaine of Siſters thred, and wrought round with a white ſeluedge of reformation to grace them, whereby the eares of the Church haue béene filled with a newe hiſſing, to the very mockerie of religion, and the impudent ſlander of the church of Englande, which is by Gods great bleſſing at this day (euen in her ruines) the moſt famous church in Europe.
+                  It is ſaid of S. Antonie, that two yéers before the hereſie of Arrius brake foorth, being in his deuotions and caſting vppe his eies towards heauen, he had a viſion, wherein he ſaw Gods altar compaſſed about with a company of brute beaſts, kic king and ſtriking at it with their héeles, vntill they ouerthrew it, and trampled al the holy things vnder their féet. He wept when he beheld it, and perſwading himſelfe that ſome troble in the church would follow, he praied vnto God to turn away the miſchéefe. Were S. Anthony now aliue, he ſhould not ſée theſe matters by ſhaddows or repreſentations in the ayre, but in liuely acts and déedes, Gods altar inuironed with a company of proude Mules, ſtriking at it with their héeles,
+
+
+
+the altar it ſelfe battered by violence and beaten downe, holy things troden on and trampled with foule féet. Thoſe things which in all religious ages haue béene counted Phobera cai phricodeſtata, feareful and terrible, are nowe of no reckoning nor reputation, religion ſcorned, ye préeſt derided, thoſe conflictes betwéen the preachers and the people that Paule taſted at Epheſus, where he fought with beaſtes in the ſhape of men.
+                  All theſe miſeries ſpringing from a wrangling humor of the Presbyterie, that hath broght religion into contempt. Neuer a good S. Antony weepes ouer it, neuer a good Mattathias rentes his clothes, no mans bowels work like the wine that hath no vent, to inueigh againſt it with that egerneſſe the cauſe requires. It is a ſigne that religion decaies, and deuotion growes cold among vs.
+                  When the weather is hot euery man opens his mouth, but when it is colde hee ſhuttes it ſo cloſe that his téethe chatter: where zeale is there is heate, and where heate is men will queſt and open, Pſal. 77. Aperiam os meum, I will open my mouth (ſaieth the Prophet Dauid.) We
+
+
+
+cannot (ſaith Peter) but ſpeak the things that we haue ſeen and heard. Where no zeale is, there is no heat, where no heat, no ſpéeche but chattering and vnperfect ſoundes, hollow and minced between the téeth, as if men were afearde to ſpeake: ſurely ſuch are vnfit for Gods ſeruice, he cannot abide to ſee a quaking hand in his quarrell. As it is a ſigne of faintneſſe to ſee this &amp; to be ſilent, ſo it is a ſign there is ſomthing in mē vnnaturall. For we ſay in Phyloſophie, vnum quod que magis inclinots in id cuius eſt. Euery thing is naturally inclined vnto that to which it apertaineth.
+                      If the body be in daunger, the arme is preſentlie lifted vp to receiue the blowes comming vpon it ſelfe, that with the hazard of it ſelfe it may ſaue the body, becauſe it is a member of the body. This Honorable Citty is a body pollitike, euerie good cittizen which is a member of it, when he ſpies the Charters, priuileges, and immunities thereof graunted by the grace and fauour of our Princes, to be in danger, will with the hazzard of his own ſubſtance ſéeke to defend and kéep it.
+                  The Church is a bodie myſticall, euery one of you if you appertaine to God is
+
+
+
+a Citizen of this Jeruſalem, &amp; when you ſee the church in danger, if there be anie kinde or naturall affection in you at all, euery man when the daunger doeth approch, will with the hazzard of his owne perſon, obiect and caſt himſelfe betwéen the church and it. But the want of this affection, and the neglect of this phyſick, is a reaſon of the contempt that growes vpon vs.
+                  3 The third is, the difficultie of mans attaining to his ende, trées and plants, &amp; all inferiour creatures, attaine their perfection and end with fewe motions, with nouriſhment and augmentation. The holy Angels of god attained vnto their end with one motion, with one conuerſion vnto god, in inſtanti, euen at the inſtāt of their creation became bleſſed. But Man is cōpared in the pſ. to a watch, he hath a great many gimols appertaining to him to mooue him, hee mooues like a watch or a coatche with many whéeles. The act of his vnderſtanding giues him one motion, preſenting the obiect to him which he muſt embrace, his appetite ſenſitiue giues him another motion cōtrarie to the former, caro concupiſcit aduerſus ſpiritum
+
+
+
+                        the fleſh luſteth againſt the ſpirite.
+                      His own will giues him another motion, God created it to moue it ſelfe ad oppoſita, the external obiect giues him another motion, The view of the forbidden fruit moued Eue to taſte and eate it. God himſelfe which hath the hart of man in his hands and turnes it as the riuers in the South, giues him another motion: among all theſe, ſome mouing regular, ſome retrograde, ſome forward, ſome backwarde, ſome towardes heauen, ſome towardes earth, It is no hard matter to tune an inſtrument of muſick, A paier of virginals or a payre of Organs when euery ſtring and pipe is out of tune, but man being a creature ſo witty, ſo ſubtle, ſo proude, ſo ſurlie, ſo wedded to his own will &amp; opinions, &amp; rolling vpon ſo many whéeles, to ſet euery ſtring &amp; pipe of man in tune, to make al his motions concur and agrée to gither Hic labor hoc epus eſt, It is the hardeſt profeſsiō in ye world to be a preacher.
+                     
+                  
+                  The 4. reaſon is a riddle. I pray you riddle me what is that, that is the higheſt the loweſt, the faireſt the fouleſt, the ſtrongeſt the weakeſt, the richeſt the poreſt, the happieſt the vnhappieſt, the ſafeſt
+
+
+
+and the moſt in danger of any thing in the world? I will not promiſe euerie one of you as Samſon did, a new ſute of apparell to expound it. It may bee this age wil take order for the Cleargies liberality, yet I muſt tell you, that as Samſons riddle was not expounded but by ploughing with Samſons Heifer, ſo this cannot be declared but by ploughing wt Gods own Heifer. And that I may not hold you long in ſuſpence, it is all but one thing, it is a good Chriſtian. He is the higheſt thing in the world, his conuerſation is in heauen, Col. He is the loweſt thing in the world, euery man treads vpon him, he may ſay with Dauid, De profundis ad te clamaui. From the deapthes haue I called vnto thee. This is very low. He is the faireſt thing in the world, he is a member of the church of God, which for her beautie is compared in the Canticles to the Sunne and the Moone, and to an Armie well ordered and ſet in good aray, thrée things very beawtifull to looke vpon. He is the fowleſt thing in the world, ſo diſguiſed with Watching, Weeping, Faſting, Pennaunce, and manie other voluntarie afflictions of bodie and mind,
+
+
+
+that he lookes like a bottle dried in the ſmoak, and tanned many times with the ſun of perſecution he growes as black as if he had lien among the pots. He is the ſtrōgeſt thing in the world, he hath faith, he hath hope, he hath loue, thrée ſtrong thinges; faith hath a force to remoue mountaines, hope is an ancor that ſtaies the greateſt ſhips in the greateſt ſtorms, loue is as ſtrong as death, it enters the ſtrongeſt holde, neither walles, nor bulworks, nor rampiers can keepe it out; what a ſtrength had Dauid? Non timebo quid faciat mihi homo, I will not feare what man can do vnto me. What a ſtrength had Eliah the Prophet that durſt go to a king and face him and tell him that it was he that troubled all Iſraell. A good chriſtian hath ſometime a ſtrength and a power in his eie paſſing the eie of Plantianus. Herodian ſaith of Plantianus, Seuerus the Emprors minion, that he had ſuch a teror in his couetenance that men durſt not looke him in the face, if they did, they were ſo dawnted that it droue them to caſt their eies downe vnto the ground. For this cauſe when he went abrode he had certaine Anteambulones, ſome that
+
+
+
+ran before him to marſhall the way and giue warning of his comming, that men might caſt their eies to the earth as hee paſſed by; but this terror was vnto his inferiors. It is ſaid of S. Benedictus, that he had ſuch a power and terror in his eie, euen to his ſuperiors, that caſting but a look vpon Totylas the king of the Gothes, afurious &amp; an audacious king, hee made him quake and tremble. Marke it when you wil in the perſecutions of the church, you ſhall many times diſcouer ſuch a glorie and maieſtie in the countenaunce of them that are put to death, as was in the face of Stephē
+                      when he was ſtoned, their torments are more afraid of them, than they are of their torments. Yet are they againe ſo weake at another time, if God do but hide himſelfe a while, that eyther they complaine with Dauid, Quare triſtis incedo dum affligit me inimicus? Why goe I thus heauily while mine enemy oppreſſes me? Or couch down with Eliah vnder a Juniper trée, wearie of themſelues, and deſire God to take awaie their life. He is the richeſt thing in the worlde, hee hath Chriſt Jeſus the very treaſure &amp; riches of God, and in him all thinges: he is the
+
+
+
+pooreſt thing againe, hee hath his good name and his goodes taken from him. Heb. 11. 37. He is deſtitute, afflicted, and tormented, euen to the loſſe of life it ſelfe at laſt.
+                  He is the happieſt thing in the world, he hath a good conſcience, which is a continuall feaſt. Prou. 15. He is againe the vnhappieſt, his handes be tied, hee may not be reuenged: his eies be muffled, he may ſée no vanitie: his lips be ſealed, hée may not render rebuke for rebuke, and liuing here in this world which is a kind of Paradice to carnall men, full of Honour and wealth, and pleaſures, which many other men embrace, while GOD hath ſet him (as the Poets fained of Tantalus) vppe to the chinne in theſe thinges, and will not ſuffer him to taſte them. Touch not, taſte not, handle not. What a miſerable life is this?
+                  Laſt of all, he is the ſafeſt thing in the world, he is euer vnder the ſhadowe and protection of the winges of God: he is alſo the moſt in danger in ſoule and in body of any thing in the world, his ſoule is the very But againſt which Satan diſchargeth all his ſhot of temptations, his bodie
+
+
+
+manie times in perils by ſea, by lande, among falſe brethren, compaſſed about with daunger, on the right hand and on the left. Being the office of the preacher to bring both theſe endes togither, and euerie man being deſirous to be partaker of the heigth, the beautie, the ſtrength, the riches, the happineſſe, and the ſafety that accompanies religion, but fewe or none willing to taſt of the baſeneſſe, the deformitie, the weakneſſe, the pouertie, the miſerie, and the daunger that waites vpon religion, Many deale with vs as Demas did with Paule, that forſook Paule and be tooke himſelfe to the preſent world.
+                  The fift reaſon is, the combat of contraries: when fier and water méet, you ſhal heare a ratling and hiſſing in the water, which procéedes from the encounter of two contraries, the one ſtriuing to deſtroy the other. The end of Gods word is to reforme mans iudgement, and his life: Gods worde is true, but Omnis homo mendax, Euery man is a lyar,
+                      his iudgement erroneous and his life erroneous. When truth and falſhood, the word of god and the word of man doe méet, there begins the conflict, the one ſtriues to deſtroy
+
+
+
+the other. Gods word is a fier, mens affections are water, when fier and water ioine, they begin to rattle and biſſe one at another. Paint a fier vpon a péece of cloth, and caſt that into the water, you ſhall heare no hiſſing at all, becauſe it is no true fier. Paule preaching at Epheſus againſt their idols, hee ſcatterd true fier among them, Demetrius ſtartles at it and ſtirres vppe ſedition among the people, there the contrarie roares and rattles: in comes the Towne-clarke with the magnificence of Diana, a falſe fier, a counterfait fier, there is no contradiction to him at all. It is the very caſe oftentimes, if the preacher come to you with a painted fire, and ſtroake your ſpléene, and tell you that all is well, becauſe you are predeſtinate you ſhall goe to Heauen ſleeping, as men carried in a Coatch without any action or motion of your owne, we ſhall neuer be gainſaide. But come to you with a true fire, and tell you▪you muſte worke out your ſaluation with feare and trembling, you beginne to murmur, becauſe you are contrarie vnto vs.
+                  
+                     The word in vs labours to deſtroy ſin in you, ſin in you labours to deſtroy the word in vs, and thus we become deſpiſed. Theſe fiue reaſons are on your part.
+                  The next is on our part, and it is drawne from generation. Preaching is an acte of generation, it begettes faith. Among other things in the talke of Eſdr as with God, 2. Eſd. 5. 49. Gods tels him, that in generation, Infans non parit ea quae ſunt ſenum, a childe cannot performe that which a man performes. Therfore Paul would not haue a preacher to be a yong ſcholler. A great part of ye troubles of the church of England hath ſprung out of gréene heads, that haue much buſied thēſelues about the ſtate of biſhops, theſe are yong cockerels, that haue learned only to clap their féeblewings, &amp; to crow vpon the rooſt in time of peace, but when religiō is in danger, they dare not come into the cockpit, to trie maſteries for religion as M. Iewel and many other good biſhops haue done that are gone to God. As preaching is an act of generation, that requires growth, ſo it is an exerciſe of artilery, that requireth ſtrength and knowledge. The ſouls of men are the faireſt marks that can be ſhotte at: and we muſt do as archers do
+
+
+
+The archer firſt takes a viewe of his marke, then conſiders the diſtance of the ground, after that he carries his eye ouer all the ſhafts in his quiuer, he pulles out, and puts in one after another, vntill hee haue made choyſe of his arrow: then hee prooues it with his finger, and iudges by his eare whether it bee drie and fitte to flie vnto the marke: then he markes how the winde ſittes, to helpe him or to hinder him: when he hath put his arrow into the bow, and begunne to draw, if there come a guſke of contradiction in his way, he hath the diſcretion to pawſe and to beare with it, vntill it haue ſpent it ſelfe: when the blaſt is ouer, he ſettes his foote to the grounde, lies cloſe to his bowe, drawes his arrow vp to the head, and ſticks it vp to the feathers. Either want of yeares for the act of generation, or want of growth to draw the bowe of the Prophets and Apoſtles, &amp; want alſo of ſkill to ſhoote, and care to ſhoote when wee haue taken our aime, makes vs many times to miſſe the marke, and ſo we become deſpiſed.
+                  The ſeuenth and laſt reaſon is on Gods part, and this is fearefull. When God is determined to deſtroy a people, he makes
+
+
+
+their harts fat, and their eares heauie, and they become careleſſe of the word of God. It was it that the Prophets noted in Ama
+                           •
+                        a
+                           •
+                        . By this I know (ſaith he) that God is determined to deſtroy thée, Quia non acquieuiſti conſilio meo, Becauſe thou haſt not followed my councell. I pray you thinke vpon it in this oppoſition of yours againſt the Church of England▪ it is verie ominous, a feareful ſigne that God is determined to deſtroy you, Quia non acquieuiſtis conſilio noſtro, Becauſe you haue bin taught the trueth euer ſince the beginning of the bleſſed raigne of her maieſtie, and you haue not hearkened vnto our counſell. Lette vs yet obtaine the credit at your hands which you ought to yéeld vs, and you ſhall ſee what wilfoow of it, euen this conſequent, which he, Iehoſhaphat, ſpeaketh of [You ſhall proſper.]
+                  
+                  
+                     The ſecond conſequent [Proſperity.]
+                     
+                     THis may ſéeme ſtrange that Iehoſhaphat in this buſie time of warre drawes the people to haue regarde vnto the Prophets, with an expectation of proſperitie: at ſuch times men commonly dare not giue any countenance to the prophets, for feare of
+
+
+
+the trouble that is annexed to religiō. This is to exhort the faithful to build vpon the ſand. A man would think hee ſhould rather haue mooued thē to prepare themſelues vnto temptation, as Saint Iames doth, or for trouble, as our Sauiour Chriſt doeth preſſuram habebitis, you ſhall haue trouble, or to look for perſecution, as Paul doth: He that wil liue godly (ſaith he) muſt ſuffer prſecution. Of which kind of ſpéech Saint Auguſtine ſaith, Qui hoc loquitur confortat infirmum vt non cum ille crediderit proſpera huius ſaeculi ſperet. Si autem doctus fuerit proſpera huius ſaeculi ſpcrare, ipſa proſperitate corrumpitur, &amp; ſuperuenientibus, aduerſitatibus ſauciatur aut fortaſſis extinguitur. Hee that ſpeaketh this, ſpeaketh not this to the end that a man when hee hath beléeued, ſhoulde looke for the proſperitie of this worlde, for if hee bee taught ſo to doe, proſperitie it ſelfe corrupteth him, and when aduerſitie commeth, either it woundeth him verie ſore, or diſpatcheth him outright.
+                     A Preacher of the worde of GOD builds not vpon the rock▪ whē he builds ſo, but vpon the ſand, and when the raine falleth, the wind blows, and the waues of aduerſitie
+
+
+
+beat vpon his worke, the fall of his houſe is great. But if ye looke well into the ſcriptures, you ſhal finde that according to the difference of times, and of the affections of people, the exhortatiōs differ. They that haue already beléeued, are ſo affected with heuenly things that they deſpiſe the world, &amp; ſuch are exhorted to looke for trouble &amp; aduerſitie before it comes: ſo deales our Sauior, Iames, &amp; Paul with their ſchollers: ſuch as are affected with the world, and doe not yet ſtedfaſtly beléeue, God is contented to drawe them vnto him, with promiſes of worldly proſperitie, that by theſe ſteppes they may aſcend by little and little to loue him for himſelfe at laſt. Such were they that Iehoſhaphat ſpake vnto, men affected with their peace and proſperitie, hee therefore exhorts them, to beléeue the prophets, with an expectation of proſperitie. S. Iohn Ep. 3. diſcouers two kindes of proſperitie to his friend Gaius, one of the ſoule, another of the body, and he wiſhes both to him.
+                     Where the holy prophets and prieſts of God haue their due regard &amp; credite, both theſe folow, the ſoul proſpers: the prophets doctrine is likend in ſcripture to raine, mās ſoule
+
+
+
+is the ground into which it falleth, and by the watering thereof many a goodlie flowre of Fayth, Hope, Loue, Temperaunce, and ſuch like heauenly vertues créepe out of the paradice of the ſoule. The bodie proſpers alſo, Pſ. 8. 13. O that my people had hearkened vnto me (ſayth God) I would haue humbled their enemies, and turned my hand againſt their aduerſaries. The reaſon of it is the ſame▪ by which we ſay trees and plants do proſper, which ſtanding with the roote in the mire, &amp; in the water, draw that to them which is good for them, and refuſe that which is hurtfull: and ſo they grow and proſper, not by any vnderſtanding of their own, but becauſe they are guided, ab intelligentia non errante, they are guided by god, whoſe vnderſtāding neuer erres. The knowledge of the prophet is a light ſtreaming out of Gods own boſome into the breaſtes of ye prophet, &amp; as the learning of the ſcholer is a paterne of the learning of the maſter, ſo the knowledge of yt prophet, is a bright heame of the knowledge that is in god: they that will beléeue the prophets ſhall be guided, ab intelligentia non errante, by an vnderſtanding yt neuer erres, &amp; they ſhall proſper in their
+
+
+
+actions. Contrariwiſe, they that deſpiſe and reiect the Prieſtes and the Prophets ſent vnto them, are like vnto a beaten bark in the maine ſea, without rudder, without maiſter, without Card or Compaſſe, ſnatched away with euery flaw, and rent vpon euery rocke, they can neuer proſper. It ſhal be good for you in theſe dayes wherein men haue laide all their batterie againſt the Church, as if there were nothing in this kingdome out of order but the Church, to conſidder ſomewhat better of your owne ſelues, and doe it in time. For I dare bée bolde to tell you, that God can not abide to ſée that kingdome proſper, which cannot abide to ſée his church proſper. 2. Chron. the foure and twentieth chapter, and twentith verſe, Why tranſgreſſe ye the commandements of the Lord (ſaith Zechariah) ſurely ye ſhall not proſper. The worde was no ſooner out of his mouth, but the people conſpired againſt him, they got him to be made away by the kings commaundement. The holy man ſaide no more to it at his death, but this, The Lorde looke vpon it and require it: and the yeare was no ſooner come about, but God ſent an army againſt them ſmaller in number than themſelues, cloſed
+
+
+
+them all in their enemies hands, the kingdome was ſpoyled, the nobilitie deſtroyed and rifled, the pray ſent to Damaſcus, the king himſelfe murdered in his bed by his owne ſeruauntes, and all this was done (ſaith the holyghoſt) for the blood of the children of the Prieſtes. As many of you as take our proſperitie to bee a pricke in your eies, laye this to your heartes, and thinke vpon it. It grieueth me to ſpeake it, and it grieueth me more to thinke it: you may ſee it if you will, that whileſt you are whetting of a knife for to cutte our throates, God is whetting of a ſworde to cut your throats.
+                     It was the promiſe of our Sauiour, that the Faith of the Church ſhoulde remooue mountaines: and indeede the perſecuting heathen emperors were very great mountaines that ſtoode verie high, and very ſtiffe in the churches way, but the faith of the Church hath remoued them all out of her way. It was the praier of the Church againſt her ennemies long ſince, Dorſum eorum incurua, Lord bow down their backs, looke vpon Domitian, Decius, Diocleſian, Iulian the apoſtata, Herod and Antiochus, and a number ſuch like Princes perſecuting
+
+
+
+of the church, all their backes haue bin ſodainely bowed downe or broken by one feareful death or other. Valerian the emperour was a bitter enemy of the Church, and it pleaſed GOD in his life time ſo to bow downe his backe, that he made him a footeſtoole for his prowd ennemie the King of Perſia, to get vp to horſe. Looke vppon the liues, or vpon the deaths of all the princes of the earth that euer ſtoode vp in oppoſition againſt the church, you ſhal find that verified in them that Dauid noted, Uindemiat ſpiritum principum, he cuttes off the ſpirits of Princes. In which maner of ſpéech he likeneth GOD to a vinerole, and the Princes of the earth to great cluſters of Grapes in the time of Uintage, when they are ripe, and the meaſure of their ſins full, then commeth God in with his paring knife, he ſhareth off theſe great cluſters one after an other, and ſweepeth them awaye quite from the face of the earth.
+                     My Text hauing thus ledde mee by ſteppes and degrées vppe to the chinne in the Churches quarrell, becauſe that after the laſt ſeruice I perfourmed to the Church in this place, it was told me to my
+
+
+
+head fortie miles hence in the preſence of an honourable man, that I had ſtricken at ſome great perſon, and ſhould be called in queſtion for it: I do not thinke but my innocencie was lookte into, in that it was almoſt two yeares ſince, and from that daye to this I neuer heard more of it. Neuertheleſſe, that I be no more miſtaken, I wil ſpeake a word or two to this purpoſe, and ſo commit you to God.
+                     I remember the Prophet Hieremie in his fourth chapter and fourth verſ. finding his ſpeach to be of little force amongeſt the common people, ſaid thus to himſelfe: ſurely they are poore and fooliſh, and knowe not the way of the Lorde, I will get mée to the great men &amp; ſpeake to them, for they know it. But when he had taken a view of them, he confeſſed, that they alſo had caſt away the yoke of their obedience vnto god. This was not my drift at that time, neither is it my intent now. I do rather ſet before mine eies the complaint of the Prophet Hieremie Lament. 3. where he compareth great perſons to fine gold, and to the ſtones of the ſanctuarie, and bewailes to ſée them in diſgrace. If it be the commēdation of the two Tables that they were written with gods
+
+
+
+owne finger, it can not but be a matter of high reckoning and reputation, that men doe riſe to honour and authoritie, eyther in the church or in the commonweale, it is a curious parcell guilt laide vppon them by Gods owne finger, and no wicked tongue may licke it off againe. Yet I muſt tel you thus much, that as euery man hath a particular end of his actions, and embraceth all the honeſt meanes hée can to attayne to it; the end of the Marchant is gaine, the end of the Souldier is victorie: ſo the ende of the Preacher is Gods glorie: the means we vſe to attaine vnto it, is preaching, and preaching is haile-ſhot; we ſend it among the thickeſt of you, deſirous to hitte you all. And if we can ſtrike, and ſtrike kindly here a Judge, and there a Magiſtrate, héere a Nobleman, there a Gentleman, héere a Courtier, there a Countrieman, héere a Lawyer, there a Client, it fareth with vs as it did with the Troians, when the ſiege was raiſed, and the Grecians returned to their ſhips, they delighted to view the void places where they fought: when our work is ouer, it doth vs good as wée come this way, to caſt vp our eyes to theſe places where we haue tried our ſtrength in Gods
+
+
+
+ſeruice, and may ſay vnto our ſelues, Here we tilted, there wée tourneyed, here wée thundered, there wee lightned, heere wee fought, and there we ouercame, bearing vp a rich conqueſt of ſoules vpon the poynt of our ſpeares to heauen. The Philoſopher ſaieth of naturall bodies, that the nearer they come to their ſphere, the faſter they moue. Throw a ſtone from aboue, the nearer it comes to the earth, the faſter it moueth: the dogge when he follows the hare, the nearer he is to it, the faſter he runnes to pinch and take holde of it: the Falcon, ſoaring in the ayre, and ſpying his game beneath, ſtrikes the wing, and comes downe with ſuch a force, that the ayre ſuffers violence in his paſſage, the nearer he comes to it, the ſwifter he flies, and makes his point brauely when he ſtowps. By this long continuance of the goſpel among you, the kingdome of heauen is nearer to you now than when you firſt beléeued: God ſtands at the end of your race, as he did at the top of Iacobs ladder to allure you: put your truſt in him, and you ſhall be aſſured: he hath ſent out his Prophets and Preachers to halow the game vnto you, If you cling ſomwhat cloſe vnto vs, you ſhall mooue ſpéedily towards
+
+
+
+your ſphere, you ſhall runne well, and ſtoppe well, liue wel, and die well, and make a gallant point. As for my ſelfe, becauſe it is no ſmall matter for God to ſeparate a Prieſt from the people, and to take him néere to himſelfe to do the ſeruice of the tabernacle, and to ſtand before the congregation,Num. 16. 9 ſtanding here in the ſight of God, of Angels, of men, we ſpeake preſente Scaeuola. And the Wiſeman ſaith Eccl. 43. that al things are directed by God to a good end, and when wee haue ſpoken much, yet we cannot attaine to them: but this is the end of all, that God is all, and there wil come a time (ſaith Auguſtine) when we ſhal enter into the preſence of God, wherein many things we talke of nowe ſhall ceaſe, and God ſhal be one in all, and wée ſhall be all one, and ſpeake one thing, and praiſe one God. I will therefore winde vp al that I haue ſpoken this day with that ſhort prayer wherewith Saint Auguſtine makes an end of a laborious diſputation of the holie Trinitie, Domine Deus vnus, Deus Trinitas, quaecunque dixi in his libris de tuo, agnoſcant &amp; tui: Si qua de meo, &amp; tu ignosce &amp; tui. O Lord my God, which art one God, God the Trinitie, if I haue ſpoken any thing héere that
+
+
+
+is thine, I humbly beſéech thée and thine to accept it at my handes: If I haue ſpoken any thing that is mine, or followd the ſway of fleſh and bloud, I humbly beſéech thée and thine to forgiue it me, in the name of the Father, the Sonne, and the Holighoſt; three glorious perſons in Trinitie, one eternall God in ſubſtance, to whom be all honour and glorie, praiſe, power, and dominion, now and euer,
+                     Amen.
+                  
+                  FINIS.
+               
+            
+         
+      
+      
+         
+            
+            THE LECTVRES OF SAMVEL BIRD OF IPSWIDGE VPON the 8. and 9. chapters of the ſecond Epiſtle to the Corinthians.
+            
+            Printed by Iohn Legate, Printer to the Vniverſitie of Cambridge.
+            
+            1598
+         
+      
+   
+

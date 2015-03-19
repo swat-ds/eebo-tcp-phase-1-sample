@@ -1,0 +1,3395 @@
+
+   
+      
+         
+            A newe booke called the shippe of safegard, wrytten by G.B. Anno. 1569
+            Shippe of safegard.
+            Googe, Barnabe, 1540-1594.
+         
+         
+            
+               1569
+            
+         
+         Approx. 130 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2005-12 (EEBO-TCP Phase 1).
+            A01910
+            STC 12049
+            ESTC S120332
+            99855531
+            99855531
+            21026
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01910)
+            Transcribed from: (Early English Books Online ; image set 21026)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 639:06)
+         
+         
+            
+               
+                  A newe booke called the shippe of safegard, wrytten by G.B. Anno. 1569
+                  Shippe of safegard.
+                  Googe, Barnabe, 1540-1594.
+               
+               [80] p.   
+               
+                  By W. Seres,
+                  Imprinted at London :
+                  [Anno. 1569]
+               
+               
+                  G.B. = Barnabe Googe.
+                  In verse.
+                  Running title reads: The ship of safegard.
+                  Includes "The death of S. Polycarpus" and "A priest of Apollo straungely conuerted".
+                  Signatures: A⁴ B-E F⁴.
+                  Reproduction of the original in the Folger Shakespeare Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+      
+      
+         
+            2005-05
+            TCPAssigned for keying and markup
+         
+            2005-06
+            Apex CoVantageKeyed and coded from ProQuest page images
+         
+            2005-07
+            Judith SiefringSampled and proofread
+         
+            2005-07
+            Judith SiefringText and markup reviewed and edited
+         
+            2005-10
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            A newe Booke called the Shippe of ſafegarde, wrytten by G. B.
+            
+            Anno. 1569.
+            Imprinted at London by W. Seres.
+         
+         
+            
+            
+            ¶ To hys verie good Siſters Miſtreſse Phillyp Darell, and Miſtreſſe Fraunces Darell, of the bouſe of Scotney.
+            
+            
+               OFTEN WITH MY SELFE conſidering (my nowne good Siſters) your vertuous and well diſpoſed minds, in theſe your yon̄g and tender yeares, I thought it meete (as well to ſhewe my good will towards you, as to ſatiſfie your well inclined affectiōs) to take ſome trauaile in finding out ſuch matter, as neither I might accōpt my time vainly ſpent in wryting, nor you yours euill employed in reading. Debating thus a whyle with my ſelfe what matter myght beſt herein ſerue both our turnes, I was thorowly reſolued with aſmuch diligence as I could to make ſome diſcourſe vpon the perfite eſtate of a true chriſtian, an eſtate aboue all others moſt happie and worthy, if it were as well renowmed for lyfe, as it is reuerent for name, and perceyuing the lyues of Chriſtians in theſe dayes ſo farre differing from the ſinceritie that is required in a Chriſtian profeſſour, I gaue for tytle to my Booke the counterfeyt Chriſtian, wherein I
+
+declared the great diſorders of this our tyme, as alſo the wonderfull vertues and puritie of lyfe, that gloriouſly ſhyned among the firſt and auncyent profeſſours of Chriſt, whiche Booke beyng encreaſed to ſome largeneſſe of volume, and euen almoſt readie to be publyſhed vnder the patronage and protection of your two names, by yll fauourd miſfortune periſhed. Wherwithal ſomthing diſcontented that both I ſhould thus bee defrawded of the effect of my long trauayle, and you of that which ſo long and ſo earneſtly I ment you. With a ſcarſe quiet mind I haſtily began this volume, which (bicauſe of the daūgers of this worlde, whereby the ſoule encloſed in the barke of ſinfull fleſhe wyth great haſard paſſeth) I named the Ship of ſafegarde, a Ship but rudely furniſhed, and God knowes ſymply rygged, as the great haſte and ſmall tyme enforced, wanting both ſtrength of tymber and comlyneſſe of proporcion, two euydent ſignes of an vnſkilfull workeman. Notwithſtanding howſoeuer it be, I dedicate it vnto you as an earneſt token of my good wyll towardes you, not doubting but you will ſo accept it, whervnto I had alſo thought to haue added (bicauſe I know you delight in ſtories)
+
+the lyues and actes of dyuers men in the primatiue Church, whereof I began with one or two, but bicauſe they were tedious, and my leiſure but little, I left then and proceeded no farther. God poure vpon you his plenteous bleſſyng, graunt you long and proſperous yeres on earth, and after your paſſage from this vale of wretchedneſſe, euerlaſting reſt and ioy in the kingdome of Heauen. From London the fourtenth of Februarie.
+            
+               Your louing brother in lawe. G. B.
+            
+         
+         
+            
+            To the Reader.
+            
+               WHo ſeekes to treade that happie path▪
+               
+               that leades to perfite bliſſe:
+               And faine would finde the certayne way,
+               that many wandring miſſe.
+               Muſt baniſh eaſe and bend himſelfe,
+               to abyde both care and paine:
+               And ſeeke to conquer eche delight,
+               and worldly pleaſure vaine.
+               For as the way but narrow is,
+               that leadeth ſtraight to ioy:
+               So is it all beſet with thornes,
+               and briers that anoy.
+               In eurie place are ſtubbles and prickes,
+               that ſtayes the feeble Feete:
+               And lothſome for the time it ſeemes,
+               that after prooues moſt ſweete.
+               A fearefull hart refuſeth quite,
+               to walke that painefull way:
+               But carefull mindes regarde not paine,
+               ſuch pleaſure to aſſay.
+               Both wayes before the eyes doth lye,
+               and view of eurie braine,
+               The tone both narrow ſowre and ſharpe,
+               the other ſmooth and plaine.
+               The tone doth after ſmart and griefe,
+               bring men where God doth raine:
+               
+                  
+The other after pleaſures ſweete,
+               bringes euerlaſting paine:
+               The tone doth glifter in the eyes,
+               with faire and pleaſant ground.
+               The other lothſome ſeemes and darke,
+               and ſcarcely to be found.
+               But hardeſt thinges experience tries,
+               are often found moſt ſweete:
+               And high attempts for valiant hartes,
+               are thought of all moſt meete.
+               Thou therefore that doeſt minde to ſee:
+               the ioyes celeſtiall:
+               And to beholde that happie face,
+               that neuer periſhe ſhall
+               For ſake this waye that pleaſant is,
+               at firſt vnto the eye:
+               And as a daunger foule and great,
+               ſuch flattring pleaſures flye.
+               Tread thou the path that mounteth vp,
+               to place where God doth liue:
+               And doth for euerie paine on earth,
+               a thouſand pleaſures giue.
+               Such pleaſures as doe farre ſurmount,
+               the fading pleaſures here:
+               As farre as doth the Sunne excell,
+               the Moone in ſhyning clere.
+               Faynt not for anye griefe or paine,
+               nor neuer wearie be:
+               
+                  
+Well may the way be paſſed, and God
+               himſelfe ſhall ſuccour thee.
+               For God doth ayde all thoſe that giue
+               themſelues with all their might,
+               To finde his wayes and courage giues
+               to all that well doe fight.
+               Againſt the flattrings of the worlde,
+               and fanſies vaine of minde,
+               No better Capitaine canſt thou haue,
+               nor guide of better kinde.
+            
+         
+      
+      
+         
+            
+            The Ship of ſafegarde
+            
+               THe wandring wight that in the raging ſeas.
+               Wyth ſayling Barke doth ſeke the happy port,
+               No leyſure hath to giue himſelfe to eaſe:
+               Ne time he findes wherein to play or ſport.
+               Eche long delay, eche calme doth him diſpleaſe,
+               Hym liſteth not to lynger in ſuch ſort,
+               In nothing ioyes, in nothing pleaſure findes,
+               Saue in the blaſtes of proſperous happie windes.
+            
+            
+               His carefull braine is buſied euermore,
+               In vewyng well his Compaſſe and his Carde
+               And minding ſtill what daungers lye before,
+               What ſwelling ſands, what rocks, what Hauens barde
+               Wyth ſkilfull head he ſeekes the ſafeſt ſhore,
+               And the therwarde doth ſayle with good regarde,
+               Brings home his Bark through ſtorms &amp; tēpeſts great
+               To happie port and long deſired ſcat.
+            
+            
+               The vnſkilfull head, and recheleſſe ydle minde,
+               Contrariewiſe doth giue himſelfe to reſt,
+               Not fearing ſtormes nor boyſtrous blaſts of winde,
+               But in the middeſt of daungers feareth leaſt
+               And thinkes the Hauen happily to finde,
+               When ſtormes are paſt, and tempeſts cl
+                     •
+                  erely 
+                     ••
+                  aſt,
+               Thus guyded euill his ſhyp on rocks doth fall,
+               And caſtes awaye both frayght and foole and all.
+            
+            
+               Euen ſo the will and fanſie vayne of man,
+               That through this worlde his pa
+                     •
+                  nefull paſſage makes,
+               Who ought to ſeeke by all the meanes he can
+               Through daungers deepe, and lothſome lowring lakes,
+               That happie port for which his courſe began,
+               For which eche carefull minde his trauaile takes,
+               In thouſand harmes and thouſand da
+                     •••
+                  ers preit,
+               Doth giue himſelfe to careleſſe eaſe and reſt,
+            
+            
+               
+               Regarding not the haſard of himſelfe,
+               Nor taking heede his fleſhly foyſt to guide,
+               Full fraught with ſin, and care of worldly pelfe,
+               Makes no account of wether, winde or tide,
+               But blindly ſtrikes himſelfe on euerie ſhelfe,
+               And in the flouds of miſchiefe wanders wide,
+               Till on the rocks he deſperately doth light,
+               And loſeth all for lacke of guiding right.
+            
+            
+               Within the ſeas of fonde affection blinde,
+               That through the world in euerie place doth flowe,
+               Sayles euerie Wight that liueth here by kinde.
+               And runnes the race that fancie forth doth blowe,
+               And kepes the courſe that pleaſeth beſt his minde,
+               With ſayles full thwackt with winde and luſtie ſhowe,
+               But of ten thouſand that thus doe brauely fleete,
+               Scarſe ten at length doe with the Hauen me
+                     •
+                  te.
+            
+            
+               The Hauen faire I meane of perfite ioye,
+               Where chiefeſt pleaſure hath hir biding place,
+               Where ioye ſurinounts, where griefe can not anoye,
+               Where liues the king of euerlaſting grace,
+               That well rewardes eche minde that doth employe
+               Them ſelfe in trauaile to attaine that place:
+               And doth condemne to euerlaſting paine,
+               All thoſe that him forſake for pleaſures vaine.
+            
+            
+               The ſeas be rough, the paſſage full of paine,
+               The daungers great, the iourney large and long,
+               The Pilots yll, the Coaſt is nothing plaine,
+               The force but weake, the enimies ſtout and ſtrong,
+               The lets a number that labour to detaine,
+               And flattring ſhowes that leades the maiſter wrong,
+               The ſtreites of Marrocke are not halfe ſo yll,
+               Ne race of Britaine, ne Chary
+                     •
+                  dis, nor Scyll,
+            
+            
+               
+               Wherefore in vaine we ſtrine without a guide,
+               To paſſe theſe ſeas where thouſand daungers 
+                     •
+                  e
+                     •
+                  ,
+               With rocks and ſhelues beſet on euerie ſide,
+               Where nought but death the featefull eye can ſee,
+               Now forced with windes, now driuen backe with tide,
+               Nie drownd with cares, and bet with miſerie,
+               Amaſed with miſts, and wandring without light,
+               Except we finde the helpe of holy ſprite.
+            
+            
+               Which ſpirite that in our iourney we may haue,
+               With humble hart and earneſt prayer made,
+               With knees bowed downe, his ayde here let vs craue,
+               That he vouchſafe to teach vs plaine the trade
+               Of ſayling right, and from all daungers ſaue
+               Our ſimple ſoules, that through theſe ſeas muſt wave,
+               With ſtedfaſt fayth to him thus let vs pray.
+               That he may guide vs through this doubtfull way.
+            
+            
+               O ſacred ſpirite that all things well dorſt guide,
+               And bringeſt eche good thought to his deſire,
+               And ſuffereſt not no error to abide.
+               Whereas it likes thy grace for to inſpire:
+               That doeſt for euery humble hart prouide,
+               And ſheweſt the way with thy celeſtiall fire,
+               Powre downe thy grace, direct my feeble hand,
+               That I may ſhew where perfite bliſſe doth ſtand.
+            
+            
+               By thee we may be ſure the way to finde,
+               That leadeth ſtraight to perfite ioy and bliſſe,
+               By thee we ſhunne the rocks and daungers blinde.
+               That makes vs oft the Hauen faire to miſſe,
+               Thou onlye art the ſtarre that guideſt the minde
+               Unto the place where perfite pleaſure is.
+               Giue me thy light, caſt downe thy b
+                     •
+                  ames from h
+                     ••
+                  ,
+               That I may ſhow which way the courſe doth li
+                     •
+                  .
+            
+            
+               
+               The wretched ſeas of worldly pleaſures vaine,
+               The miſchiefes and the harmes that comes thereby,
+               The flattering ſhowes, that trouble moſt the brayne,
+               The noyſome luſts, and fancies there that lie,
+               That cauſers are of euerlaſting paine,
+               And caſts away the ſoules that trauaile by:
+               I will declare, and 
+                     •
+                  ke which way to runne,
+               What courſe to keepe, what daungers for to ſhunne.
+            
+            
+               Within theſe ſeas, when firſt we enter in,
+               When firſt to winde our ſayles committed bee,
+               When pleaſantly on calmed ſtreames we ſwim,
+               A mightie rocke lo ſtreight at hand we ſee
+               Of maſſie Gold, all decked and garniſht trim,
+               That doth allure the eye of eche degree,
+               The compaſſe great with corners out doth lie,
+               The heigth whereof doth reach the ſtarrie ſkie.
+            
+            
+               A ſtately rocke beſet with Diamondes faire,
+               And pouldred round about with Rubles red,
+               Where Emralds greene doo gliſter in the aire,
+               With Mantell blew of Saphyres ouer ſpred▪
+               
+               Where wants no ſtone that nature can repaire,
+               No pearle of price nor Jewell poliſhed.
+               Another heauen for the time it ſeemes,
+               And oft for heauen fooliſh men it deemes.
+            
+            
+               With ſwelling ſands it lies encompaſt round,
+               And many a ragged reach it ſendeth out,
+               Whereby full many a thouſand haue bene drownd,
+               Yet neuer ceaſe they for to ſaile about,
+               In gaſing ſtill vpon this gorgeous ground,
+               Approching neerer not hauing any doubt,
+               Till on the ſands with haſtie courſe they ſlide,
+               And loſe themſelues vpon this piere of pride,
+            
+            
+               
+               No greater daunger ſhalt thou lightly finde,
+               That more miſhap and miſchiefe more doth make,
+               Than this, that pluckes away the ſaylers minde,
+               And cauſeth him contrarie courſe to take.
+               Who forward puft with fonde vainglorious winde,
+               His perfite way doth vtterly forſake,
+               Till on the ſands his Reale here happes to knocke,
+               And daſheth all a ſunder on this rocke.
+            
+            
+               A wretched rocke that mounting to the ſkie,
+               (Contenting not himſelfe with earthly ſpoyle)
+               Once onerthrew the Angels ſitting hie,
+               And caſt them headiong from their happy ſoyle
+               To darkeſt place where wayling now they lie,
+               With griefe aſhamed of ſo great a foyle.
+               The chiefe eſtates and princes here below,
+               Haue 
+                     •
+                  ke good cauſe this daungerous place to know.
+            
+            
+               The raging waues doth belching vpward caſt
+               The wretched wrackes that round about doe fleets,
+               The ſilken ſayles and gliſtering golden Maſt,
+               Lies all to torne and troden vnder feete.
+               The witleſſe throng of women ſwarming faſt,
+               Like Parrats pied in garments farre vnmeete,
+               With ſcarfes and fethers like to ſouldiers breſt,
+               With painted heare and ſhameleſſe bared breſt.
+            
+            
+               A monſtrous ſort of men there ſhalt thou ſee,
+               Not men, but deuils ſure that beare the face
+               Of men, that neuer can contented bee
+               With comly garments meete, but (voyde of grace)
+               Forgetting quite their auncient olde degree,
+               To women chaunged, their manly ſhapes deface
+               With ſlender waſtes, as Maydens moſt doe vſe.
+               And friſled heare like havlots of the ſtewes.
+            
+            
+               
+               With countnance coy, and forhead forced hie,
+               And ſtaring top as lately frayed with ſprites,
+               In rich attire, to feede the gaſers tie,
+               That euermore in gliſtring ſhow delights,
+               A ſort of beaſts, whoſe chiefeſt ioy doth lie,
+               In decking vp themſelues for wondring ſights,
+               In yelow, red, and Purple to be ſeene,
+               Sometimes like fooles in gownes of gawdy greene.
+            
+            
+               As painted tombes that ſtinch and filth containe,
+               And Arras faire that rotten wals doth hide,
+               So doe theſe fooles, with all their garments vaine,
+               And freſh attire dreſt vp in pompe and pride,
+               Nought elſe but beaſtly mindes and doltiſh braine,
+               Faire couered, keepe which filthie elſe were ſpide.
+               For vnderneath their garments gliſtering braue,
+               Lies mindes corrupt as rotten bones in graue.
+            
+            
+               A ſinfull ſort that wholy ſpend their life,
+               In ſetting out their ſtinking carcaſſe here,
+               Who night and daye doe paſſe with care and ſtrife,
+               In ſtudying how they faireſt may appeare,
+               And wearie ſoone of faſhions olde and rife,
+               Diſguiſe themſelues in newe diſguiſed geare,
+               As not conſiſting of their proper minde,
+               But chaunging ſtill as chaunged things they finde.
+            
+            
+               Flie thou this rocke and take good heede thereto,
+               For who ſo keepes this dreadfull daungerous way.
+               Shall run the race that him ſhall quite vndo,
+               And miſſe the marke by ſayling thus aſtray,
+               That ſhould him bring the happie Hauen to,
+               No miſchiefe more doth breede the ſoules decay,
+               No greater harme can hap to mortall kinde,
+               Than for to run vpon this daunger blinde.
+            
+            
+               
+               For who ſo once vpon the ſame doth fall,
+               Forgetteth God, forgets his owne eſtate,
+               Of good or vertue makes no count at all,
+               So he may liue aloft without a mate,
+               And for to attaine a little glorie ſmall,
+               He nought eſteemes of mightie Joue the hate,
+               Who of all other ſorts can worſt abide,
+               Such kinde of men as moſt delights in pride,
+            
+            
+               But to auoyde this rocke and haſard great,
+               Strike thou thy ſayles and beare thy countnance low,
+               Shun ſumptuous ſhew, regard not Lordly ſeat,
+               Nor to be knowne, ſeeke rather God to know,
+               Who being Lord and prince of glory great,
+               Came downe from hie, and liued on earth below
+               In poore attire and ſimple ſhow beſide,
+               To teache vs men for to beware of pride.
+            
+            
+               Remember ſtill how that the loftie minde
+               That in this world doth ſeeke to gliſter ſo,
+               Blowne on this rocke by fonde vainglorious winde,
+               Fall headlong downe to euerlaſting wo,
+               Where no releaſe of torments ſhall he finde,
+               But as he wont in colours bright to go,
+               So bright in flames of fires ſhall he blaſe,
+               Who flamed afore for euerie eye to gaſe.
+            
+            
+               Be neuer prowde of what ſo nature giues,
+               For what she giues, in time ſhe takes away,
+               The faireſt creature, the fineſt wit that liues,
+               In ſhorteſt time we ſee dath cleane decay,
+               Away goeth all though neuer ſo ſore it grieues,
+               No pleaſant thing can here haue longer ſtay,
+               What follie then is it to ſet delight,
+               On fading ſmokes, and loſe the heauens bright?
+            
+            
+               
+               Be lowly minded, of meeke and humble cheare,
+               Thinke glory vnmeete for men of baſe degree,
+               Since God for pride with Angels would not beare,
+               Be well aſſured he will not beare it in thee,
+               To late thou ſhalt repent, when thou ſhalt ſee,
+               The ſober ſort moſt ſimply clothed heare
+               With gliſtring robes amongſt the Angels hi
+                     •
+                  ,
+               And thou thy ſelfe with Deuils low to lie,
+            
+            
+               The griefe beſide is great of troubled minde,
+               That in this world they often time ſuſtaine:
+               As want of wealth that ſtops their fancies blinde,
+               Whereby they fare like Tantalus in paine,
+               In euerie place men coſtly clad they finde,
+               And they themſelues can not thereto attaine,
+               Sometime diſeaſes ſore doth them deface,
+               Then farewell ioy a ground is all their grace.
+            
+            
+               The Chriſtall Glaſſe wherein they wont to prie
+               With ioyfull hart, to ſee their beautie cleare,
+               Giues out a ſhape vnpleaſant to the 
+                     •
+                  ie,
+               Whereas their crabbed countnaunce doth appeare,
+               All fret with holes, where Pockes of late did lie,
+               Downe falles the viſage then with heauie cheare,
+               And mourning tho, from thence apace they goe,
+               As men amaſed with ſome ſodeine woe.
+            
+            
+               The pleaſant fame for euer now is gone,
+               That wonted was their eares for to delight,
+               Of marke him well, lo yender goeth one
+               In whom hath Nature ſought to ſhew hir might,
+               A comlier creature you can not looke vppon,
+               Of better fauour or framed in better plight,
+               Now no ſuch ſounde but ſcornde on eurie ſide,
+               While eche one ſayth beholde the ende of pride.
+            
+            
+               
+               Therfore take heede that in theſe ſeas doſt ſayle,
+               Let not this vaine delight deceiue thy minde,
+               But rather ſtriue againſt it to preuayle,
+               And ſeeke the chanell of lowlyneſſe to finde,
+               Which when thou getteſt, no tempeſt can thee quayle,
+               Thou needeſt not feare no ſtorme nor chaunging winde,
+               For there is harbrow ſafe for eurie Wight,
+               That in this happy Chanell haps to light.
+            
+            
+               This daunger paſt, and left aleofe behinde,
+               Before thine eyes doth ſtraight againe appeare,
+               A fowle deformed pile and haſard blinde,
+               That caſtes awaye all ſuch as trauaile neare,
+               A lothſome rocke and hurtfull to the minde,
+               All ouer growne with moſſe and ruſtie geare,
+               Deformed to the eye, yet doth allure
+               Of earthly men the earthy mindes vnpure.
+            
+            
+               A daungerous place that numbers doth deſtroy,
+               Of ſuch as careleſſe are of ſayling right,
+               Whoſe brutiſh mindes haue here no other ioy,
+               Then on the droſſe of earth to ſet delight,
+               This miſchiefe great doth beſeſt mindes anoy,
+               And neuer hurts the hawrie heauenly ſprite,
+               But greedy mindes and ſuch as are not wiſe,
+               This lothſome place is called Anarice.
+            
+            
+               A number great of wrackes here ſhalt thou ſee,
+               That thicke in thouſands about this place dee ſwarme,
+               That neuer could aliue admoniſhde bee
+               For to beware of this ſo great a harme,
+               Nor to eſchew this preſent icoperdie,
+               Suffyſed no words their Graceleſſe mindes to charme,
+               Nor no aduiſe could cauſe them ſayle aright,
+               Till on this rocke they wilfully doe light.
+            
+            
+               
+               With countnance pale and wan thou ſhalt beholde
+               Their carcaſſe quite conſumed vnto nought,
+               Their weariſh limmes with cares congealed colde,
+               Their bloud dried vp with ſorow and with thought,
+               Their feeble fingars ſtill claſping in of golde.
+               Deſire whereof to them this miſchiefe brought,
+               Hanged round about with bags on euerie ſide,
+               The poyſe whereof doth cauſe them there to bide.
+            
+            
+               Upon the ſands great Caſkets heaped lie,
+               And Cofers ſtuft with euerie kinde of coyne,
+               Scraped vp by fraude and filthy vſurie,
+               Now here, now there, whereſoeuer they could purloyne,
+               By force, by fraude, or any villanie,
+               Of rich, of poore, of Courtier or of Cloyne,
+               They wey not where nor how they doe it get,
+               For all is fiſh with them that comes to net.
+            
+            
+               A filthie minde that trauailes to no ende,
+               But for to pleaſe the ſtill deſiring eye,
+               Eſteemes no paine, regardes no foe nor frende,
+               Helpes not himſelfe, nor no man elſe thereby,
+               In ſparing, ioyes, and pineth if he ſpende,
+               Is neuer good vntill the time he die,
+               Which time he pleaſures many with his hoord,
+               As doth the Swine when as he comes to boord,
+            
+            
+               A brutiſh fort that neuer can reioyce
+               Whyle here they liue, for carke, for feare or toyle,
+               Still dreaming that they heare the dreadfull voyce
+               Of thiefe at hand, or ſouldier them to ſpoyle,
+               Or ſodeine death that makes of them no choyſe,
+               But takes them hence amid their moſt turmoyle,
+               And rakes them vp in earth encloſed deepe,
+               Where voyde of gaine and kept for paine they ſleepe.
+            
+            
+               
+               What profites them their heapes of riches great,
+               For which aliue they tooke ſuch care and paine,
+               Oft wanting ſleepe, forbearing often meat,
+               With greedie minde to encreaſe their treaſure vaine,
+               When lothſome wormes their carcaſſe vile ſhall eat,
+               And Fiendes conuay their ſoules to Plutocs raigne,
+               Kung downe to hell with Curſings of the poore,
+               Whoſe wiues and children lie weeping without doore.
+            
+            
+               What helpes the welth that doth not ſetue the neede?
+               What good doth Golde that doth but feede the eie?
+               What gaine but griefe haue they for all their neede?
+               That labour here for money till they die,
+               Which long kept in is ſpent at length with ſprede,
+               Perhaps of him that was the enimie,
+               A goodly thing to pine for riches ſo,
+               And know not who ſhall haue them when we go.
+            
+            
+               O wretched beaſts, that neuer haue no ende,
+               Of this your vile and couetous deſire,
+               Why ſpare you thus that other folkes ſhall ſpende?
+               You toyle and moyle like Bayard in the mire,
+               Your ſelues to graue before your time you ſende,
+               And ſo from thence to euerlaſting fire,
+               Where you ſhall finde the fruites of all your gaine,
+               In broyling flames and neuer ceaſſing paine.
+            
+            
+               The poore oppreſt whom in this world you polde,
+               Your ſelues ſhall ſee to gliſter in the ſhie,
+               And call and ball to them for water colde,
+               To coole your heate in torments where you lie,
+               But all in vaine, for this you haue bene tolde,
+               By him that preached with Laſarus from his,
+               And ſince you would not by others harmes take heede,
+               Blame no man tho in like ſort if you ſpeede.
+            
+            
+               
+               God hath himſelfe declared to you before,
+               That euen as ſlow rich men to heauen flie,
+               And enter in as hardly at the dore,
+               As doth the Camell paſſe a Needles 
+                     •
+                  ie.
+               Your burden great extorted from the poore,
+               Doth keepe you downe, you can not mount ſo hie,
+               The path is narrow, the gates are very ſtraight,
+               You can not enter, with ſo great a waight.
+            
+            
+               Your factors lie not there to aunſwere you,
+               Your bill of debt, nor no ſuch other geare,
+               Nor by exchaunge you can haue nothing due,
+               Your double vſauce is but ſingle there,
+               The trade is chaunged, the world is altered new,
+               Your toyie for gaine ſhall purchace homely cheare,
+               Your ten in hundreds will ſcarcely then amount,
+               When for your dealings you ſhall be callde to count.
+            
+            
+               A thouſand actions ſhalbe entred there,
+               Againſt you for your fraude and vſurie,
+               And Lawyer none ſhall ſhew his face for feare,
+               Though you retaine him with his double fee,
+               Leaſt that in pleading it plainly doth appeare,
+               His Clients cauſe and his for to agree,
+               The Judge is wiſe, and eaſl
+                     •
+                   can eſpie
+               If fault or fraude doe vnder colours lie.
+            
+            
+               With quaking hart at 
+                     •
+                  arre then ſhalt thou ſtand
+                     •
+                  ,
+               Without aduice or any other aide,
+               Hie holding vp thy giltie gilted hande,
+               For feare of ſentence vtterly diſmaide,
+               Thy whole accompt ſhall throughly there be ſcandt,
+               And euerie title perfitely be wayde.
+               And euerie pennie how it hath bene ſpent,
+               That vnto thee for purpoſe good was 
+                     •
+                  ent.
+            
+            
+               
+               Therfore who ſayleth nere this lothſome place,
+               Fall off betimes and keepe another way,
+               Haue in thy minde the Hauen faire of grace,
+               And from thy Compaſſe go not much a
+                     ••
+                  ray,
+               Beholde thy Carde and keepe a perfite race,
+               And in ſuch daungers make no long delay,
+               No ancours here beware that thou doe caſt,
+               For ſhip and all will ſoone he layde vp faſt.
+            
+            
+               If that the burden that thou 
+                     •
+                  earſt be great,
+               Caſt ouer borde both bags and baggage quite,
+               Let neuer Golde thee of thy ioy defeat,
+               Safe ſhalt thou ſayle and better trauaile light,
+               Than ouerlad
+                     •
+                  n to loſe the happie ſeate,
+               And neuer finde the gorgeous Hauen bright,
+               Of reſt and bliſſe, where free and frankeſt mindes
+               Doe ſhrowde their ſhips eſcapde from greedy windes.
+            
+            
+               Well mayſt thou employe the riches here thou haſt,
+               And pleaſe the king and Lorde of glorie hi
+                     •
+                  ,
+               If that thou makſt of them no wanton waſt,
+               
+                  
+                     •
+                  e ſcrapeſt them vp in Coffers cloſe to lie,
+               But layſt them where they may be ſafeſt plaſt,
+               Upon the poore that liue in 
+                     ••
+                  ſerie,
+               And vpon ſuch as comfortleſſe remaine,
+               This is the beſt and ſureſt kinde of gaine.
+            
+            
+               
+                  
+                     •
+                  ow goodly a thing is it for to relieue
+               
+                  
+                     •
+                  hafflicted caſe of men with neede oppreſt,
+               
+                  
+                     •
+                  hom daily cares and troubled minde doth grieu
+                     •
+                  ,
+               That ſcarſe can finde an houre of quiet reſt,
+               
+                  
+                     •
+                  hilſt thou haſt thouſands hanging on thy ſleeue,
+               
+                  
+                     •
+                  nd ſpendſt thy dayes with 
+                     •
+                  elth and pleaſure b
+                     •
+                  eſt,
+               
+                  
+                     •
+                  emember well, that richeſſe are but lent,
+               
+                  
+                     •
+                  nd nothing ours but that which well is ſpent.
+            
+            
+               
+               Another miſchiefe in the waye doth ſtand,
+               With ougly ſhape and vile deforined ſight,
+               Encompaſt round with quicke and quiuering ſand,
+               That ſwallowes vp all ſuch as thereon light,
+               Foule ſwarmes of ſerpents crawle on euerie hand,
+               With gaſtly teeth and ſtings embrued with ſpite,
+               Whoſe hiſſing tongues doe yelde a filthie noyſe,
+               A lothſome ſound, a moſt vnpleaſant voyce.
+            
+            
+               About this rocke in euerie place they 
+                     •
+                  rall,
+               And ſhak
+                     •
+                   their tongues at them that traua
+                     •
+                  le by,
+               Whom enuious windes doth cauſe with them to fall,
+               And ſpite compelles to run their courſe awrie,
+               Moſt wretched guides to guide a Barke withall,
+               And moſt vnmeet
+                     •
+                   ſuch daungerous ſeas to trie,
+               Who neuer ceaſſe till all be ouerthrowne,
+               Till Foyſt and fraight be vnder ſurges blowne.
+            
+            
+               Here poyſned vapors continually doe riſe,
+               And yelling noyſe and hatefull crie is hard,
+               The h
+                     •
+                  lliſh cloudes ſo da
+                     •
+                  e the ſaylers eies,
+               That ſcarce he ſees his Compaſſe or his Card,
+               Except he ſkilfull be and verie wiſe,
+               And of his courſe haue alwayes good regard,
+               And caſt about to meete ſome better winde,
+               Tha
+                     •
+                   may him bring vnto his port aſſignde.
+            
+            
+               The tide is ſtrong that runneth thereabout,
+               The weather great that beates vpon the coſt,
+               The holde 
+                     •
+                  o weake to thinke to rid it out,
+               Whereby full many at ancour haue bene 
+                     •
+                  oſt,
+               That thought it ſafe and made therof no dout,
+               And periſhed where as they truſted moſt,
+               This harmfull place Detraction hath to name,
+               An auncient enmy to the Barke of fame.
+            
+            
+               
+               Upon this rocke as loſt and caſt awaye,
+               All thoſe whoſe tongues delight in y
+                     ••
+                   report,
+               And make of ſlaunders but a kinde of playe,
+               Wherewith themſelues moſt ſpitefully they ſport,
+               Defacing quite by all the meanes they maye
+               Both name and fame of euerie kinde of ſort,
+               Still charging them with this thing and with that,
+               And oftentimes they wo
+                     •
+                  e not well with what.
+            
+            
+               Of euerie man their tongue muſt run at large,
+               Nought can be ſayde but muſt their iudgement paſſe,
+               Their oares muſt be a board in euerie barge,
+               With eche mans life they me
+                     ••
+                  , and yet (alaſſe)
+               Their owne is worſt, whereof they take no charge,
+               Their owne deformities they view not in the glaſſe,
+               But looke in others what they finde a
+                     •
+                  iſſe,
+               Apace at that with hatefull tongue they hiſſe.
+            
+            
+               Whatſoeuer they ſee, or whatſoeuer they heare,
+               They make much worſe tha
+                     •
+                   it was ſayde or ment,
+               Their cancred tongues ſo ſpitefull doe appeare,
+               That ſtill to yll they chaunge the good intent,
+               And make it darke that of it ſelfe was cleare,
+               Bicauſe it doth not their momiſh mindes content,
+               What likes them not muſt ſtreight diſpraiſed bee,
+               Their eyes be dim, they can n
+                     •
+                   vertue ſes.
+            
+            
+               The vertuouſt man that can be found alyue,
+               Can not eſcape their ſpitefull poyſned tong,
+               Though that by all the meanes he can, he 
+                     〈◊〉
+                   riue,
+               With vertuous life to ceaſe the rumor ſpron
+                     •
+                  ,
+               No vertuous act theſe Waſ
+                     •
+                  es away can driue,
+               But Har
+                     •
+                  y like they file all with their dung,
+               
+                  
+                     •
+                  n euerie table, on euerie place they lay
+                     •
+                  
+               
+               Their filth and ſtinch, and all things ſoule araye.
+            
+            
+               
+               Moſt loth ſome fowles that haue no other food,
+               But feede vpon the fame of curie man,
+               A filthie race, a curſed beaſtly brood,
+               Who while themſelues no kinde of vertue can,
+               Yet in their fond and franticke furious mood,
+               They others ſpoyle of vertuous fame, and whan
+               They ſee that any ſeeke to liue vpright,
+               Their enuious harts are like to breake with ſpite.
+            
+            
+               This wretched ſort haue ſwarmed euermore,
+               And haue continued ſince the world was made,
+               Encreaſing ſtill with poyſon kept in ſtore,
+               Haue neuer ceaſed their former curſed trade.
+               The godlieſt men in ages here before,
+               Could neuer cauſe this graceleſſe ſort to fade,
+               Doe what they could, they could not ſcape the ſting
+               Of ſlaunderous tongues that more and more did ſpring.
+            
+            
+               Good Moyſes olde, whoſe meeke and vertuous ſprite,
+               Deſerued well of eurie kinde of man,
+               Redreſſing wrong and alwayes furthring right,
+               Of whom a fame through all the world out ran,
+               In whom thalmightie Lord tooke great delight,
+               And patterne firſt of princely power began,
+               Could not eſcape this cancred curriſh ſort,
+               That ſteynd his fame with lewde and ill report.
+            
+            
+               Reporting that he wrought by ſorcerie,
+               Such wonders great as at that time they ſawe,
+               And that he gouernde all by tyrannie,
+               Miſvſing men without all right or lawe,
+               Oppreſſing poore men with extremitie,
+               And better ſo to keepe them vnder awe,
+               Inuented eke a fond religion vaine,
+               Deuiſed only by his ſuttle braine.
+            
+            
+               
+               The righteous Job that perfite was and iuſt,
+               In whom the deuill himſelfe no fault could finde,
+               That ſerued God with earneſt faith and truſt,
+               Obedient alwayes to his ſacred minde,
+               Deſpiſed the world, deſpiſed all fleſhly luſt,
+               And neuer yeelded to affection blinde,
+               Yet felt the tongue and ſting of ſlaunderous fame,
+               That found in him things worthy ſtill of blame.
+            
+            
+               The holye prophetes that liued long agoe,
+               Like Gods on earth with vertue ſhining bright,
+               Who planted vertue where vice before did floe,
+               And on the heauens ſet their whole delight,
+               In teaching men the right way here to goe,
+               Were oft reuilde with great reproche and ſpite,
+               And counted were ſeditious men and nought,
+               And ſuch as all things out of order brought.
+            
+            
+               That happy meſſenger that brought the ridings glad,
+               That made the heauie hart for to reioyce,
+               And caſt away their dolefull couninance ſad,
+               Reuiued with his healthfull heauenly voyce,
+               While as he preached with ſkinnes of Camell clad,
+               And brought them there of heauen happie choyſe,
+               This curſed ſort that all things wrong doe wreſt,
+               Reporteth that the deuill him poſſeſt.
+            
+            
+               The almightie Lord that downe from heauen hie,
+               Amongſt vs came to ſaue ſuch as were loſt,
+               In whome no ſinne nor kinde of vice did lie,
+               All full of grace and of the holy ghoſt,
+               Relieued all that vnto him did crie,
+               And healed the ſicke and ſore in euerie coſt,
+               For all his vertue, for all his ſtate deuine,
+               Was called a glutton, a drinker deepe in wine.
+            
+            
+               
+               What ſhould I call to minde the lewde report,
+               His good diſciples gat for all their paine,
+               The infamies that toucht that ſacred ſort,
+               That gaue their liues to encreaſe the heauenly raigne,
+               Who made of cruell torments but a ſport,
+               And laught to ſcorne the Heatheniſh follies vaine,
+               The ſlaundrous tongues yet blaſed in euerie place,
+               How they ne had religion, God, nor grace.
+            
+            
+               What ſhould I tell the cancred carliſh ſpite
+               Shewed openly at this ſame preſent daye,
+               Of ſuch as boaſt in Gods behalfe to write,
+               Whoſe diueliſh tongues their helliſh harts bewraye,
+               With blaſphemies the heauens hie they ſmite,
+               And open mouthed with Woluiſh voyce théy braye,
+               Chriſt neuer taught no ſuch vncourteous ſtile,
+               Ne ſeemes a Chriſtian ſuch lothſome language vile.
+            
+            
+               His ſprite was meeke, his talke was alwayes milde,
+               With wordes of comfort euermore he ſpake,
+               All bitter ſpeach from him was quite exilde,
+               Wherefore he bad all his example take,
+               And therefore he that thinks to be the childe
+               Of God, yll tongue muſt vtterly forſake,
+               Uncourteous ſpeach, of heauen doth not ſmell,
+               Nay rather ſtinketh of the pit of hell.
+            
+            
+               The Fiends that low beneath in Limbo lie,
+               Condemned to perpetuall paine and ſhame,
+               This churliſh ſpeach doe vſe continuallie,
+               And barke and banle at euerie vertuous name,
+               Their helliſh throtes with hatefull noyſe doe crie,
+               And ſtill accuſe the ſaintes of God with blame,
+               Malebouche their maiſter doth them euer teache,
+               With curſed ſpeach and poyſned tongue to preache.
+            
+            
+               
+               For ſlaunder there is counted vertue great,
+               In hatefull words they moſt of all delight,
+               Foule Infamie hath there the chiefeſt ſeate,
+               A companied with malice and with ſpite,
+               Who drops of enuie continually doe ſweate,
+               With hatefull ſhow and foule ylfauored ſight,
+               Repining ſtill at all men that doe well,
+               And fearing God, doe ſhun the pit of hell.
+            
+            
+               But thou that ſeekeſt the happie heauenly ſeate,
+               Keepe not this courſe but well therof beware,
+               With ſpitefull tongue doe thou no man intreate,
+               Of others faults haue neuer to much care,
+               But of thine owne that liueſt in daungers great,
+               Such toyle is much and well thou mayſt it ſpare,
+               Of others faults what needſt thou babble ſo,
+               When thou thy ſelfe haſt vices many mo.
+            
+            
+               Let no mans life by thee defaced bee,
+               Take not awaye that thou canſt not reſtore,
+               And looke what faults in others thou doeſt ſee,
+               Take heede that in thy ſelfe it be not more,
+               Report not yll, ſpeake well of eche degree,
+               Encreaſe not griefe, but rather ſalue the ſore,
+               Good woordes of all men gayneth laude and prayſe,
+               Where as yll tongues are counted caſtawayes.
+            
+            
+               The gentle minde doth plainly repreſent,
+               A liuely forme of God himſelfe on hie,
+               Whoſe gracious will to goodneſſe alwayes bent,
+               Delightes in myldeneſſe and in clemencie,
+               Who chiefly framed man for that intent,
+               To beare ſome ſhowe of ſacred maieſtie,
+               But curſed ſpeach this picture out doth race,
+               And ſetteth vp the deuill in the place.
+            
+            
+               
+               Auoyde this daunger, and further from it flie,
+               Let not ſuch miſchiefe thy deſtruction bee,
+               For feare of loſing all, ſayle not to nie,
+               The loſſe is great, ſome ſafer ſhore goe ſee,
+               Where as at ancor thou mayſt ſafely lie,
+               And reſt, leaſt to much trauaile wearie thee,
+               In daungers great we may not run at length,
+               But reſt a while to gather farther ſtrength.
+            
+            
+               Hoyſe by thy ſayles, and giue them to the winde,
+               Theſe daungers paſt, the fewer do remaine,
+               Take courage good, and ſhew thy valiant minde,
+               And wey that pleaſure followes after paine,
+               As after troubles quiet reſt we finde,
+               That farre surmounts our toyles and trauailes vaine,
+               For who ſo ſhrinkes with painfull things to meete,
+               Is farre vnworthy for to taſte the ſweete.
+            
+            
+               Sayle on thy courſe, and caſt a carefull eie,
+               About thy ſelfe within theſe ſeas ſo toſt,
+               And euer marke what perils nere doe lie,
+               Leaſt that thy negligence thee dearly coſt,
+               And ſounding ſure, the hurtfull places trie,
+               Upon the which haue thouſand ſoules bene loſt,
+               That careleſly with vnaduiſed minde,
+               Haue blindly folowed euery puft of winde.
+            
+            
+               Before thy face at hand thou ſhalt beholde,
+               A foule great flat moſt lothſome for to ſee,
+               All ouerſpred with limmes and bodies colde,
+               And Barkes and Boates that all to broken bee,
+               From whence the fraight vpon the ſands are rolde
+               And tumbled out thereon, both he and ſhee,
+               That ſprawling lie vpon this wretched place,
+               With pitcous looke and unſerable face.
+            
+            
+               
+               About the broken Barkes doe ſcattred lie,
+               Great tunnes of wine, of euery kinde of ſort,
+               And ſumptuous tables with diſhes heaped hie,
+               And coſtly bankets painted with diſport,
+               The more to pleaſe the greedie gluttons eie,
+               That vnto them oft vſeth to reſort,
+               No kinde of fleſh or fiſh there can be got,
+               But may be ſeene heaped vp vpon this plot.
+            
+            
+               All ready dreſt and furniſht to the eie,
+               With ſundrie ſauces the ſtomacke to allure,
+               Great platters there with wilde fowle full doe lie,
+               And ſpits full charged, that ſcarce their weight endure
+               Of deintie beaſts and deintie birdes them bie,
+               As greedy luſt can for the paunch procure,
+               Ech diſh dreſt vp as beſt may pleaſe the taſte,
+               With great expence and ſinall account of waſte.
+            
+            
+               About theſe diſhes round attending ſtand,
+               Ech vile diſeaſe that may be named or found,
+               The groning gowte with ſhackled foote and hand,
+               That ſcarſe can ſtaye from falling to the ground,
+               The Dropſie pale ſtands ſhaking on the ſand,
+               With bellie ſwolne that yeeldes a hollowe ſound,
+               The Feuer hote ſittes gaping here for winde,
+               Whoſe ſcorched tongue no taſte in meate can finde.
+            
+            
+               Quotidians there and Quartans ſhalt thou ſee,
+               Now quaking colde, now burning all on flame,
+               There double, halfe, and baſtard Certians bee,
+               Continuars and thoſe that Hecticke haue to name,
+               With many more of this fraternitie,
+               Whereat Phiſitions oft make pleaſant game,
+               Attaining vnto treaſure and to welth,
+               More weping golde than any pacients helth.
+            
+            
+               
+               A number great of ſickneſſes beſide,
+               With piteous face and miſerable ſhow
+               May euerie where about this place be ſpide,
+               That in theſe full fed fooles doe often grow,
+               As Pleureſies with torments in the ſide,
+               And iaundiſes in mouing faint and ſlow,
+               With falling ſickneſſe that foming foule doth lie,
+               And Apoplexies murdring ſodeinlie.
+            
+            
+               Moſt grieuous paines and ſwimming in the head,
+               With Letharges forgetting euerie thing,
+               And ſtrangling quinſies with flaming humors fed,
+               That many men vnto their graues doe bring,
+               Conſuming Ptiſicks long lingring in the bed,
+               And painfull Colicks whoſe griefe the guts do wring,
+               Both Stone &amp; Strangurie lie here with grieuous pain,
+               And many more that to rehearſe were vain.
+            
+            
+               This fearefull place is called Gluttonie,
+               Wherein great numbers haue bene caſt awaye,
+               While as with greedie luſt they ſayled bie
+               And ran their courſe by negligence aſtraye,
+               Shun thou this daunger, and from this miſchiefe flie,
+               And let not ſuch an yll be thy decaye,
+               Let thouſands dying there before thy face,
+               Example be for thee to ſhun this place.
+            
+            
+               A wretched vice, a ſinfull crime it is,
+               To pamper vp the fleſh with his delight,
+               Whereby more prone it is to liue amiſſe,
+               And more meete for to reſiſt the ſprite,
+               That Creature neuer ſeekes the place of bliſſe,
+               Nor neuer thinkes vpon the heauens bright,
+               That ſtudies here his greedie luſt to pleaſe;
+               And for to paſſe his time in reſt and eaſe.
+            
+            
+               
+               The fleſh will neuer here ſubdued bee,
+               Nor made obedient to the heauenly minde,
+               While as we farce it vp in this degree,
+               With meate of euerie daintie ſort and kinde,
+               Theſe fine fed folkes as daily we may ſee,
+               Are bent to luſt and fleſhly affections blinde,
+               But few of them that vertuous are or chaſt,
+               That haue their guts thus inwardly bumbaſt.
+            
+            
+               As wood heaped vp a hie vpon the fire,
+               Or oyle caſt in doth more augment the heate,
+               So doth this foule and filthie fonde deſire
+               Of ſurfetting and cramming in of meare,
+               Encreaſe the flame of lecherous deſire,
+               And makes the bodie blaſe with vices great,
+               Unmeete to follow any vertue good,
+               While as it is ſo cheriſhed with foode.
+            
+            
+               The feeble braine with ſtinking vapors daſed
+               That boyling in the ſtomacke vpward riſe,
+               Aſtoniſhed and vtterly amaſed,
+               Cannot aſpire vnto the hautie ſkies,
+               So weake it is, and ſo with ſurfets craſed,
+               That in the body all a ſleepe it lies,
+               Applying not it ſelfe the way to finde,
+               For to reſtraine the affections of the minde.
+            
+            
+               O what a ſort may at this day be found,
+               That only giue themſelues to eate and drinke
+               Like brutiſh beaſts, that graſing on the ground
+               Continually, of nothing elſe doc thinke,
+               What greater ſhame to Chriſtians can redound?
+               What more before the face of God doth ſtinke▪
+               
+               Than thus to feede the paunch continually,
+               That to the ſoule is ſuch an enimy.
+            
+            
+               
+               What folly greater can committed bee,
+               Then where we here may liue long time in heith,
+               With moderate diet and fobrietie,
+               All voyd of ſickneſſe that farre ſurmounteth welth,
+               We rather chooſe to liue in miſerie,
+               And for to lacke both quietneſſe and helth,
+               Eſteeming more a graceleſſe pleaſure vaine,
+               Than for to keepe our bodies out of paine.
+            
+            
+               And where as nature doth well hir ſelfe content
+               With ſlender diet, wherein ſhe moſt delights,
+               Of which hath God ſufficient alwayes ſent,
+               To ſerue our neede, and to refreſh our ſprites,
+               We neuer ceaſing to feede with belly bent,
+               Still cramming in like greedy rauening Kites,
+               Both God diſpleaſe, and nature quite deſtroy,
+               And for our labour loſe eternall ioy.
+            
+            
+               Therefore eſchew thy beaſtly greedy minde,
+               This gurmandiſe, this filthie foule delight,
+               For brutiſh beaſts, and not for men aſſignde,
+               Helpe not the fleſh to ouerthrow the ſprite,
+               But helpe the ſprite to daunt affections blinde,
+               So ſhalt thou make both ſoule and body light,
+               When both in one ſhall happily agree,
+               To ſeeke the ſkies where thou ſhalt bleſſed bee.
+            
+            
+               Eate not to much, but often vſe to faſt,
+               Both Nature biddes, and Chriſt commaundeth ſo,
+               Our fathers olde that liued in ages paſt,
+               Found great reliefe by this in preſent wo,
+               Who ſtriuing long thus tamed their fleſh at laſt,
+               And ouerthrew by this their deadly fo,
+               Whyle as forbearing meate and ſinne withall,
+               With feruent prayer on God they vſed to call.
+            
+            
+               
+               A vertue great is abſtinence no dout.
+               Of euerie man to be eſteemed much,
+               A helping hand to them that goe about,
+               The ſacred ſkies with heauenly minde to touch,
+               No better fence to keepe the deuill out,
+               No greater force, no ayde nor ſuccor ſuch,
+               Phiſitions count it Natures chiefeſt frende,
+               And God himſelfe doth highly it commende.
+            
+            
+               Beare of therefore and come not neare the place,
+               That all embrued with Giuttons bloud doth lie,
+               Whoſe ſoules in hell in miſerable caſe,
+               With piteous plaint and howling noyſe doe crie,
+               Lamenting ſore their former lacke of grace,
+               While here they led their life licenciouſly.
+               When as thou haſt eſcaped this ieoperdie,
+               Before thy face againe thou ſhalt deſcrie
+            
+            
+               A gorgeous Ile, an earthly paradyſe,
+               Wherein there wants no kinde of pleaſant ſight,
+               No gliſtring ſhow, nor coſtly fine deuyce,
+               That may encreaſe the trauailers delight,
+               All garniſht round with things of greateſt pryce,
+               The ſight whereof reuiues the gaſers ſprite,
+               Doth pleaſe the eye, and doth allure the minde
+               Of men that thinke ſafe harbour there to finde.
+            
+            
+               Of compaſſe large, and full of beautie faire,
+               The ſightly ſhow doth lie before thy face,
+               Which ſeemes as Nature there had ſet hir chaire,
+               And choſen that hir happie reſting place,
+               From whence there comes a ſweete and pleaſant aire,
+               That farre ſurmounts the Amber Grece in grace,
+               With muſicke ſweete and pleaſant heauenly ſound,
+               That round about doth in the aire reſound.
+            
+            
+               
+               The Cliues are hie, and all of Chryſtall ſhine,
+               Upon the top where of in order growes,
+               Hie hautie trees with maieſtie deuine,
+               That gliſtring greene farre of in ſhadowes ſhowes,
+               There ſtately ſtands the loſtie Lordlye Pine,
+               With Ceders placed and Firre trees ſet in rowes,
+               Thick groues of Mirtels comly to be ſeene,
+               With couerts cloſe of pleaſant Laurell greene.
+            
+            
+               Beyond theſe ſame are mountaines riſing hie,
+               Clad round about with trees of diuerſe kinde,
+               That placed in order much delight the eie,
+               And thither draw the ſaylers wandring minde,
+               Who thinke they ſee theſe hilles to touch the ſkie,
+               In vewe whereof they pleaſure great doe finde,
+               There round about in euerie place below,
+               Faire purple Roſes ioynde with Jaſmins grow.
+            
+            
+               In euerie place may beautie there be ſeene,
+               In euerie place is pleaſure for the eie,
+               Throughout the woods and pleaſant forreſts greene,
+               Great flocks of birdes of euerie ſort doe flie,
+               Of colours ſtraunge and ſeldome to be ſeene,
+               That ſit and ſing vpon the braunches hie,
+               With curious note and ſkilfull melodie,
+               Agreeing all in perfite harmonie.
+            
+            
+               No lothſome ſight doth any where appeare,
+               No thing diſordred any kinde of waye,
+               But all things ſhining there with beautie cleare,
+               Alluring vnto pleaſure and to playe,
+               That they that once doe chaunce to trauaile neare,
+               Haue neuer minde to come from thence awaye,
+               Such pleaſure ſtreight they doe conceyue in minde,
+               As no where elſe ſaue there they thinke to finde.
+            
+            
+               
+               And round about in euerie place they meete,
+               With ſhalls of Mermayds ſwimming here and there,
+               Whoſe beautie great and pleaſant ſinging ſweete,
+               So daunts the eyes and eares of them that heare,
+               That maruaile is it if they hold their feete,
+               From flying ouer to that luſtie cheare,
+               Their beautie is ſuch, their voyce doth ſo delight,
+               That with their tongues they conquer euerie wight.
+            
+            
+               Such is the force of this their melodie,
+               That long time ſince and many yeares ago,
+               The wiſe Ulyſſes when he paſſed eie,
+               Being toſſed on ſeas and beaten to and fro,
+               Deſirous for to heare this harmonie,
+               And to eſcape the daunger and the wo,
+               Stopped vp his ſeruants eares with waxe, and faſt
+               Cauſed them to binde himſelfe vnto the Maſt.
+            
+            
+               Thus ſayling forward neere this pleaſant place,
+               With wiſhed windes and all thing ſeruing meete,
+               Theſe Merinaydes faire appeared before his face,
+               With ſhining countnance and voyces paſſing ſweete,
+               There ſundrie ſongs they ſong with comly grace,
+               And with their dities diuers did him greete,
+               Their ſweete accord and paſſing princely ſound,
+               Did from the waues vnto the ſkies rebound.
+            
+            
+               Which found when as Ulyſſes ſtreight did heare,
+               Could not reſtraine the affections of his minde,
+               But lowde he calles with griefe and troubled cheare,
+               And willes his men with haſte him to vnbinde,
+               Thus calling out and crying neuer the neare,
+               He wreſts and wries all meanes he may to finde
+               To vnloſe himſelfe, and ſtriuing all in vayne,
+               He beates his head againſt the Maſt amayne.
+            
+            
+               
+               His wiſdome great, could not his fancie guide,
+               Ne rule his minde, nor bridle his delight,
+               But if at libertie he had bene then vntied,
+               He would haue lept amid that pleaſant ſight,
+               And felt the fruites of pleaſure at that tide,
+               Though it had coſt him the loſing of his ſprite,
+               But being faſt bound he could not haue his minde,
+               Till ſayling paſt it was to farre behinde.
+            
+            
+               From top of one of theſe ſame mountaines hie,
+               That in this Iland loftily do looke,
+               A riuer guſheth downe continuallie,
+               That through the valleys here and there doe crooke,
+               Which ſeemeth pleaſant to the ſaylers 
+                     •
+                  i
+                     •
+                  ,
+               That often couets to enter vp the brooke,
+               Suppoſing there to finde their full delight,
+               Of all this gaye and gorgeous gliſtring ſight.
+            
+            
+               Which riuer while they paſſe, on euerie ſide,
+               Walke Damſels faire with beautie paſſing braue,
+               Amid the Medes with ſundrie colours dide,
+               Of flowers freſh that fragrant odors haue,
+               Wherof fine garlands about their heads are tide,
+               Theſe oftentimes with wanton geſture waue
+               The paſſengers, alluring them to land,
+               With countnance ſweete and becke of pleaſant hand.
+            
+            
+               Not farre from thence vppon a ſtately roche,
+               Is placed ſtrong, a ſumptuous tower hie,
+               That doth amaſe the mindes that neare approche,
+               With beautie great that gliſters in the 
+                     •
+                  i
+                     •
+                  ,
+               The ſtately wall doth ſet their hart a broche,
+               And makes them in their courſe with haſte to hie,
+               Who hoyſe and hale with all the force they haue,
+               To run themſelues vpon this pleaſure braue.
+            
+            
+               
+               For as the walles doe gliſter all of golde,
+               So are the windowes all with Chryſtall glaſed,
+               Whence looking out the ſea men may beholde,
+               Such ſundrie ſhapes as makes them all amaſe
+                     •
+                  .
+               And makes them curſe the time a thouſand folde,
+               That euer vpon ſuch beautie bright they gaſed,
+               For in the end as many as there doe light,
+               Tormented are in miſerable plight.
+            
+            
+               Firſt taken out from out their ſhips they bee,
+               And ſtripped quite from all their owne aray,
+               And blindfeld cloſe, ſo that they can not ſee,
+               Away from thence theſe Damſels them conuay,
+               Unto this pyle and tower of ſoueregntie,
+               Which ſeemed late to them ſo ſweete a play,
+               Upon whoſe gates is written thus in ſight,
+               The reſting place of fleſhly fond delight.
+            
+            
+               Here are they brought before this ſumptuous Queene,
+               Who guider is and ruler of this Ile,
+               Who when ſhe hath theſe wretched 
+                     •
+                  aytif
+                     •
+                  s ſeene,
+               At whom with ioye ſhe ſcornfully doth ſmile,
+               With cruell minde and voyde of mercie cleene,
+               Condemnes them all to paines and torments vile,
+               And ſundrie ſentence giues on euerie one,
+               As ſeemeth beſt vnto hir ſelfe alone.
+            
+            
+               Some are condemned, their eyes ſet open wide,
+               Upon the colde and ſtonie ground to lie,
+               With monſtrous chames and heauie ſhakles tide,
+               Both day and night to ſtare continuallie
+               Upon the beautie that is them denide,
+               And call for helpe vnto their enimie,
+               Who pleaſure takes and ioyeth at the hart,
+               To ſee their cruell torment and their ſmart.
+            
+            
+               
+               Some others caried forth into the wood,
+               With chaines are tied and faſtned to the trees,
+               Their harts all bare and dropping downe with blood,
+               Their hands held vp and kneling on their knees,
+               Are torne with Kites and Pies and Rauens wood,
+               That neuer time from feeding there doe leeſe,
+               But griping ſtill the poore afflicted hart,
+               Continually augment their paine and ſmart.
+            
+            
+               Another ſort faſt in that order tide,
+               With torments great and miſerable paine,
+               Againſt their harts a wounde made open wide,
+               Wherein is thruſt the creature almoſt ſlaine,
+               
+                  
+                     ••
+                  te burning coales that readie lie beſide,
+               Which kindle ſtreight about the hart amaine,
+               The wound cloſde vp they flame continually,
+               And ſecret burne vntill the time he die.
+            
+            
+               Some ſort againe by charmes enchaunted ſtraight,
+               Forgo their ſhapes, to beaſts tranſformed quight,
+               Wherein vpon that Queene they ſtill doe waight,
+               Somtime like Swine, and Aſſes oft in ſight,
+               Somtime like Buls or Beares that dogs doe bayte,
+               Somtime like Lions and Tigers fierce in 
+                     •
+                  ight,
+               Such force ha
+                     ••
+                   fleſhly pleaſure in this Ile,
+               To alter thoſe whom ſhe doth thus beguile.
+            
+            
+               Yet notwithſtanding continually they ſtriue
+               The ſaylers by, who firſt may come a land,
+               With all their ſayles clapped on apace they driue,
+               And haue no feare of any ſhore or ſand,
+               But while they trauaile on theſe ſeas aliue,
+               From foule delight they neuer turne their hand,
+               But forward ſayle with greedie luſting minde,
+               Till torments due to their deſerts they finde.
+            
+            
+               
+               Alaſſe how great and worthie a companie,
+               Haue here bene loſt and clearely caſt away,
+               Whoſe wits deuine of worthie memorie,
+               Are talked of yet vntill this preſent daye,
+               Who had eſcaped ech other miſerie,
+               If on this ſame they had not run aſtraye,
+               Their vertues rare had alwayes gliſtred bright,
+               If that they could haue ſhunned this foule delight.
+            
+            
+               The mightie Hercules that liued long ago,
+               Whoſe worthy actes deſerue immortall fame,
+               Who ſpent his dayes in anguiſh and in wo,
+               Not bent to pleaſure, nor giuen vnto game,
+               But following vertue for which he trauaylde ſo,
+               That ſtill he ſhunned eche thing that longde to ſhame,
+               Could not eſcape this dreadfull daungerous place,
+               But loſt himſelfe thereon in piteous caſe.
+            
+            
+               The ſubtill wit and iudgement aye profound,
+               That painted vertue liuely to the eie,
+               Who ſhewed the harmes and hurts of vice v
+                     •
+                  ſound,
+               And opned plaine the place whereas they lie,
+               The ſelfe ſame man that once ſuch fauor 
+                     •
+                  ound,
+               Of Delphos that he gat the ſoueraintie,
+               For wit and vertue paſſing euerie man,
+               Upon this Ile yet wretchedly he ran.
+            
+            
+               A thouſand ſuch in ſtories olde we finde,
+               Of ſundry like our ſacred volumes tell,
+               That ran amiſſe vpon this fancie blinde,
+               For lacke of good aduiſe and g
+                     •
+                  iding well,
+               Yea though they wholy did applie their minde
+               To euerie vertue, yet on this vice they fell,
+               Example he with Uries wife that lay,
+               And ek
+                     •
+                   his ſonne that further ran aſtray.
+            
+            
+               
+               Amongſt the daungers of theſe harmfull ſeas,
+               No daunger like to this there comes in ſight,
+               That more doth worke the paſſengers diſeaſe,
+               Or driues them more to ſhewe their force and might,
+               Nor no men more the almighty Lord diſpleaſe,
+               Than theſe that happen on this place to light,
+               Wherefore we ought with heede and carefull ei
+                     •
+                  ,
+               Farre off from hence with might and maine to flie.
+            
+            
+               And often wey the myſchiefe that will ryſe,
+               If that we leaue our happy courſe to keepe,
+               For vaine delight that here 
+                     •
+                  eludes the eyes,
+               And bringeth men in reſtleſſe reſt a ſleepe,
+               Nay rather let vs theſe flattring ſhowes deſpyſe,
+               And ſeeke to ſcape this guife of daunger deepe,
+               Which for a litle trifling pleaſure vaine,
+               Doth bring vs vnto euerlaſting paine.
+            
+            
+               Direct thy ſhip and courſe another way,
+               And ſtill remember how happie they ſhall bee,
+               That haue not falne vpon this Ile aſtray,
+               Where fleſhly ioyes and fooliſh fancies bee,
+               But do
+                     •
+                   themſelues with all their might aſſay,
+               To finde the port of true felicitie,
+               Eſchewing euerie ſtorme and troubleſome winde,
+               That blowes contrarie to their vertuous minde.
+            
+            
+               And wey the paines and torments they ſhall haue,
+               That giue themſelues to follow foule delight,
+               And breake the lawes that God to all men gaue,
+               How they ſhall wayle and howle in piteous plight,
+               When that their carcaſſe comth once to graue,
+               Their ſinfull bodie ſeuered from their ſprite,
+               Which ſprite ſhall neuer feele releaſe of paine,
+               As long as God doth in the heauens raigne.
+            
+            
+               
+               Though that the motions of the fleſh be much,
+               And though that nature herein beare ſome ſway,
+               Yet ought the force of reaſon to be ſuch
+               In man, as well may put ſuch toyes away,
+               The minde deuine muſt neuer ſo baſely touch,
+               Such things vnpure as may be hir decay,
+               But mount alo
+                     •
+                  t with wings vnto the ſ
+                     •
+                  ies,
+               Where perfite ioy and perfite pleaſure lies.
+            
+            
+               For earthly ioyes and fancies are vnmeete,
+               For ſuch as God appointes with him to liue,
+               Who ought to abandon all ſuch pleaſures ſweete,
+               As vſe wherof may them offend or grieue,
+               And take good heede whereas they ſet their fete,
+               Not euerie ſhow, nor euerie path beleeue,
+               But only walke in that appointed way,
+               That God himſelfe before their eies doth lay.
+            
+            
+               And flie the pathes, though that they pleaſant ſeeme,
+               That he hath here forbidden to be trode,
+               And caſt away all fonde affections cleene,
+               The weight whereof the ſoule ſo ſore doth lode,
+               That languiſhing vpon the earth with teene,
+               Conſtrained is it there to make abode,
+               And neuer can aſpire vnto the ſkie,
+               For heauie weight that doth vpon it lie.
+            
+            
+               And as Ulyſſes paſſing by this place,
+               Where Mermayds flocke whereof we ſpake before,
+               Whoſe ſugred ſongs with ſweete and louely face,
+               Did ſeeke to traine him to that deadly ſhore,
+               Did giue himſelfe with wiſe and heauenly grac
+                     •
+                  
+                  ▪
+               
+               For to withſtand this l
+                     •
+                  wd and flattring 
+                     〈◊〉
+                  ,
+               Compellde his men to binde him to the 
+                     〈◊〉
+                  
+                  ▪
+               
+               Whereby with ſpeede this daunger great he paſt.
+            
+            
+               
+               So in theſe ſeas of pleaſures leaſt we quaile,
+               We ought to binde our wills to reaſon ſtrong,
+               As to the Maſt that beares our chiefeſt ſaile,
+               That guides vs beſt thorowout this iourney long,
+               So ſhall not all theſe flattring ſhowes preuaile,
+               So ſhall we ſcape this poyſned d
+                     •
+                  adly ſong,
+               That hath bewitched ſo many vertuous eares,
+               And brought them vnto torments and to teares.
+            
+            
+               But if there doe ſuch puniſhment remaine
+               For thoſe which while they vertuous ſeeke to bee,
+               Doe fall into this lake of pleaſures vaine,
+               Whereby they come to greateſt miſerie,
+               Condemned vnto euerlaſting paine,
+               Where gaſtly ſhapes and helliſh ſightes they ſee,
+               Shutout for euer from that beautie bright,
+               That farre ſurmounts eche other kinde of ſight.
+            
+            
+               If thoſe I ſay, ſuch torments haue to taſte,
+               What plagues are due vnto that ſinfull ſort,
+               That both with minde and beaſtly tongue vnchaſte,
+               Of lothſome vice doe make a play and ſport,
+               And where they ought not ſpende a word in waſte,
+               Their ſhameleſſe mouths whereſoeuer they doe reſort,
+               Doth vtter out the filthieſt words they can,
+               Without reſpect of eyther God or man.
+            
+            
+               Contenting not themſelues with wretched deedes,
+               Alone to paſſe away their ſinfull race,
+               But with ſuch wordes as filthily proceedes,
+               From out their hearts defiling euerie place,
+               With lothſome ſhowe as ſtinking noyſome weedes,
+               That freſheſt flower in gardens doth deface,
+               So doe theſe beaſts with tongue and talke vncleene,
+               Defile eche thing that faireſt may be ſeene.
+            
+            
+               
+               With beaſtly wordes that all of baudrie ſound,
+               Theſe Raſcals vile themſelues doe moſt delight,
+               Corrupting mindes that otherwiſe were ſound,
+               With ſpeach vnpure, and wanton geſture light,
+               Wherein they are ſkil
+                     •
+                  de as in their arte profound,
+               Whoſe 
+                     •
+                  ongues doe teach their vile vnſauerie ſprite,
+               Their ſhameleſſe tongues while as their acts they tell,
+               Doth cauſe to bluſh the deuill himſelfe in hell.
+            
+            
+               Moſt wretched creatures yt lead your liues with ſhame,
+               And die like beaſts in miſerable plight,
+               The paynes of hell is ende of all your game,
+               Eche damned ſoule ſhall fe
+                     •
+                  le his torment light,
+               While as they lie in neuer ceaſing flame,
+               Reſpecting yours who for your foule delight,
+               Farre paſſe them all in torments and in paine,
+               This is your end and your aſſured gaine.
+            
+            
+               Let this ſuffice to giue thee warning here,
+               That ſayleſt neere this lewde and daungerous place,
+               Though that the beautie faire at firſt appere,
+               Thou ſeeſt the ende how that in wretched caſe,
+               They plagued are and buie their pleaſure deare,
+               Regarde thy ſelfe and ſeeke for better grace,
+               And ſtay not gaſing, nor venter thou to neare,
+               It is not good with daungers for to play,
+               Leaue off betimes and ſayle another way.
+            
+            
+               And take good heede, for ſtraight before thy face▪
+               
+               Amid theſe ſeas another daunger lies,
+               That bearing vp his head a little ſpace,
+               Aboue the water, oft deceiues the eyes,
+               Upon the which haue died in wretched caſe,
+               A number great of men accounted wiſe,
+               The ſhow is ſmall that doth appeare a hi
+                     •
+                  ,
+               The chiefeſt daunger doth vnder water li
+                     •
+                  .
+            
+            
+               
+               The top whereof is ſmoothly poliſhed,
+               And doth not threaten haſard with the ſhow,
+               By which haue many Mariners bene led,
+               To trauaile neare the ſtate thereof to know,
+               Who with their ſhips yllfauoredly haue ſped,
+               While as their Keeles haue toucht the rocke below.
+               And all to torne a pieces forced to flie,
+               Their maiſters ſprawling on the ſurges hie.
+            
+            
+               The luſtieſt Mariners haue bene drowned heare,
+               Whoſe Barkes haue borne the braueſt port on ſeas,
+               For luſty ſhow and ſtomacks voyd of feare,
+               While as they ſayled which way them beſt did pleaſe,
+               Who counſayle none, nor no aduiſe would heare,
+               For warning good did euer them diſpleaſe,
+               Still truſting to their owne deceyued wit,
+               From whoſe aduiſe they would not ſtirre a whit.
+            
+            
+               Ne caſt they here themſelues away alone,
+               But cauſe great number more their courſe to miſſe,
+               Perſwading them that neare vnto this ſtone,
+               Doth lie the way to euerlaſting bliſſe,
+               Aſſuring them that daunger there is none,
+               And that themſelues are well aſſured of this,
+               By which vaine words they cauſe the ſimple men,
+               To caſt away themſelues by following them.
+            
+            
+               This daungerous place that hath ſo many loſt
+               And thus beguiled, is called Hereſie,
+               A hurtfull place, a moſt pernicious coſt,
+               A wofull rocke, a wretched ieoperdie,
+               Which oft hath hurt and quite conſumed almoſt
+               The Nauie faire of Chriſtianitie,
+               Which gorgeous fleete had long time ſince bene drent,
+               If mightie Ioue had not them ſuccour ſent.
+            
+            
+               
+               Who pitying them of his accuſtomed grace,
+               When as they were with ſtormes and tempeſts toſt,
+               And euen at point to fall vpon this place,
+               Where as they had bene altogither loſt,
+               Lamenting as it were their wretched caſe,
+               To ſee them die that him ſo dearely coſt,
+               Rebuked the winds, and tooke the helme in hand,
+               And brought them ſafe vnto the aſſured land.
+            
+            
+               A happie guide in theſe ſo dreadfull ſeas,
+               Whoſe bleſſed aide if all men carſt had ſought,
+               With humble minde in ſeeking him to pleaſe,
+               And ſetting all their owne deuiſe at nought,
+               They had not purchaſed thus their owne diſeaſe,
+               Nor wretchedly themſelues to miſchiefe brought,
+               Ne had they left behind them ſuch a fame,
+               As hitherto the world reſound with ſhame.
+            
+            
+               Cherinthus had not caſt himſelfe awaye,
+               Upon this rocke in miſerable plight,
+               Nor Eutyches had paſſed this wretched way,
+               If ſeruing God had bene his chiefe delight,
+               Nonatus had not ſayled here aſtray,
+               Nectorius had not on this miſchiefe light,
+               Nor Arrius with his Arrians here had dide,
+               Nor all the ſwarme of Manicheys beſide.
+            
+            
+               With thouſands more that here I loth to name,
+               Who might haue ſcaped this dredfull place full well,
+               That brought them vnto euerlaſting ſhame,
+               And threw them headlong to the pit of hell,
+               Whereas they waile in neuer ceaſſing flame,
+               And for their ſinnes continually doe yell,
+               If that they had ſought this ſafe aſſured aide,
+               And vnto him for helpe had alwayes praide.
+            
+            
+               
+               Take thou good heede that trauaileſt hereby,
+               Leaſt that thou falleſt vpon this hurtfull place,
+               Beware of ſchiſme, beware of hereſie,
+               And pray to God continually for grace,
+               That he may keepe thee from this miſerie,
+               And bring thee ſafe vnto the reſting place,
+               In giuing thee a quicke and watchfull eie,
+               Whereby thou mayſt ſuch couert daungers flie.
+            
+            
+               Looke well about and truſt not euerie ſprite,
+               That ſeemes to teach the ſafe aſſured waye,
+               Be well aſſured he teach the way aright,
+               Or walke not thou elſe after him aſtraye,
+               The deuill himſelfe can ſeeme an angell bright,
+               The ſimple ſoule the ea
+                     ••
+                  ier to betraye,
+               But Chriſt hath left you here his ſcriptures plaine,
+               A touchſtone true to trie religion vaine.
+            
+            
+               By theſe examine euerie prating ſprite,
+               By theſe go trie what vnto thee is tought,
+               Let theſe be iudge who teacheth wrong or right,
+               Let theſe diſcerne the good things from the nought,
+               Of theſe in darkeneſſe borrow all the light,
+               Of these ſtill let thy wauering minde be tought,
+               So ſhalt thou well be able thy ſelfe to trie,
+               Where ſhadowes falſe, and where deceit doth lie.
+            
+            
+               Beleue not thoſe ſame ſlaundrous mouthes vntrue,
+               Who make report how that the bookes deuine,
+               Corrupted are with falſe tranſlations newe,
+               Of only malice theſe enuions beaſts repyne,
+               They ſee the ſpirite of God will them ſubdue,
+               That in theſe ſacred letters bright doth ſhine,
+               And therefore for to bring them in contempt,
+               Theſe ſlaundrous lyes maliciouſly they inuent.
+            
+            
+               
+               As he that late ſuch needleſſe paines did take,
+               In culling out the faults he could eſpie,
+               Of euerie tittell ſtraight accompt doth make,
+               In noting where he thinkes they run awrie,
+               And as he thought profoundly thereof ſpake,
+               But if thou ſhalt his worthy iudgement trie,
+               Thou well ſhalt ſee his fonde and fooliſh braine
+               Hath taken all his trauaile here in vaine.
+            
+            
+               Beſide, another marke there is to know
+               Theſe wretched ſprites that leades men thus to hell,
+               Though clad in pelts of ſheepe they ſimple ſhow,
+               And many tales of God and heauen tell,
+               Yet malice doth their mindes ſo ouerflow,
+               That all things can they not diſſemble well,
+               Their bloudie teeth doth ſtill appeare in ſight,
+               Wherewith like wolues continually they fight.
+            
+            
+               Example one amongſt a number more
+               Let Arrius be, who whilſt he here did raigne,
+               Of torments great and tortures had in ſtore,
+               Wherewith he put true Chriſtians ſtill to paine,
+               With ſundrie deaths not heard off oft before,
+               And griefes that newly ſprang from cruell braine,
+               As ſplintars ſharpe of reedes which ſore did pricke,
+               That in their fingers twixt nayle and fleſh did ſticke.
+            
+            
+               That diueliſh minde that reigneth now in hell,
+               Doth ſtill enuy the happie ſtate of man,
+               And ſince the time that firſt to earth he fell,
+               Doth labour ſtill by all the meanes he can,
+               To cauſe them all in paines with him to dwell,
+               Whoſe curſed children as their ſire began,
+               Continue ſtill with rancour and with heate,
+               To perſecute that happie heauenly ſeate,
+            
+            
+               
+               Chryſoſtome he that long agoe hath tride
+               Theſe brittell ſeas and ſearched euerie place,
+               Who had good proofe of euerie winde and tide,
+               And well could ſayle to finde the port of grace,
+               Declared which way theſe people might be ſpide,
+               That thus deceyue in miſerable caſe,
+               And gaue plaine token how we well ſhould know
+               Theſe Barks of ſchiſme that on theſe ſeas doe row.
+            
+            
+               Did euer yet, ſayth he, the ſimple ſheepe
+               With bloudy mouth the greedie wolfe purſue?
+               Not once: But rauening wolues doe neuer ſleepe
+               From hunting them. So Cain poore Abell ſlew,
+               Not Abell him, ſo Iſmaell Iſaac true
+               Did perſecute, not Iſaac him. The Jewe
+               Thus troubled Chriſt, and heretikes alway
+               True Chriſtians killde, their fruits doth them bewray.
+            
+            
+               Thus plainly doth this ſkilfull father olde
+               Conclude, that ſuch as beare ſuch hatefull minde,
+               Againſt the flocke, and happie harmeleſſe folde
+               Of Chriſt, ſtill following them with malice blinde.
+               To be the Wolues, of whom our Sauiour tolde,
+               And heretikes of moſt pernitious kinde,
+               The Wolfe by rauening euermore is tride,
+               The Heretike by crueil minde is ſpide.
+            
+            
+               Then ſince thou mayſt full well diſcerne this yll,
+               Sayle farre from thence and ſteare aduiſedly,
+               And guide thy ſelfe by good and carefull ſkill,
+               So ſhalt thou miſſe this fearefull ieoperdie,
+               Giue not the reines nor bridle vnto will,
+               But make it ſubiect to the motions hie,
+               So ſhalt thou ſaue thy ſelfe from daunger great,
+               And ſooner finde the happie reſting ſeat.
+            
+            
+               
+               Yet once againe thou needeſt to take good heede,
+               For here abouts an Iland faire doth lie,
+               That to the ſaylers miſchiefe great doth breede,
+               That flames farre off like Phebus in the ſkie,
+               Which gliſtring ſight the gaſers minde doth feede,
+               And doth allure them for to trauaile nie,
+               Perſwading them ſome worthie ſight is there,
+               That ſo encompaſt is with ſhining clere.
+            
+            
+               In euerie place here Pyramides do riſe,
+               With coſtly ſtones compact of gorgeous ſhow,
+               Whoſe ſtately tops doe ſeeme to touch the ſkies,
+               The baſes ſquare are framed faire below,
+               With ſuch proportions as pleaſeth beſt the eies,
+               In order placed, and ſtanding row by row,
+               Adourned braue with torches flaming bright,
+               That ſeeme to ſpoyle the day it ſelfe of light.
+            
+            
+               A thouſand altars garniſhed here doe ſtande,
+               With cloth of golde and Purple paſſing faire,
+               And fiers burning hie on 
+                     •
+                  u
+                     •
+                  rie hande,
+               Where Incenſe caſt doth cauſe a pleaſant aire,
+               Which ſmelling ſweete a great way from the lande,
+               Doth cauſe a number thither to repaire,
+               On euerie altar Images appere,
+               Of ſundrie Gods that people worſhip there.
+            
+            
+               There Saturne ſtands with enuious countnance ſad,
+               And next to him hath Jupiter his place,
+               And Uenus ſmiling faire with beautie glad,
+               And fuming Mars with hote and fierie face,
+               Apollo there with gliſtering beames is clad,
+               And Dian with hir ſiluer ſhining grace,
+               Swift Mercurie amongſt them here doth ſtande,
+               With flickring wings and golden red in hande.
+            
+            
+               
+               Great Bacchus here is placed with maieſtie,
+               And neare to him Dame Ceres may be ſeene,
+               And Proſerpine that low beneath doth lie,
+               And Juno once of heauen counted Queene,
+               And Berecynthya mother of the ſkie,
+               With Flora clad in luſtie youthfull greene,
+               Here Caſtor ioynd with Pollux faire doth ſtand,
+               And Eſculapius with his ſnakes in hand.
+            
+            
+               On other aultars ioyning thereto neare,
+               A number great of pictures placed bee,
+               That monſtrous to the lookers on appeare,
+               As one that portred is with faces three,
+               An other killing dragons with a ſpeare,
+               Another holding in his hand a tree,
+               And wading ouer riuers eaſilie,
+               With monſtrous legs and ſhoulders ſhamefull his.
+            
+            
+               But moſt of all that makes men there to muſe,
+               There ſtandes a ſaint in ſtraunge diſguiſed ſort,
+               To take it for a man or woman you may chuſe,
+               For of them both it ſeemes to beare a port,
+               Arayed in gownes as women moſt do vſe,
+               A Lettice ca
+                     •
+                   it weares and bearde not ſhort,
+               And thus diſguiſed in ſtraunge and maſ
+                     ••
+                  ng Cotes,
+               Eſteemes no other offring here than Otes.
+            
+            
+               A number great of ſuch ſtraunge pictures vaine,
+               Here mayſt thou ſee, of whom I liſt not tell,
+               That vnto Prieſts haue alwayes bene a gaine,
+               And led ſuch as them worſhipped vnto hell,
+               The Meſchyts here of Mahomet remaine,
+               And all his ſaints to whom the Turke doth yell,
+               As Uanus and Sedichaſis, that victorie doth bring,
+               With Mircſchinus and Aſcichum &amp; Chidirell the king.
+            
+            
+               
+               Before ech Image ſtand Tapers burning bright,
+               And odors ſweets doe fume continually,
+               The people kneeling round about in ſight,
+               With hands helde vp and voyces lowde doe crie,
+               Eche one complayning of his wretched plight,
+               And ſeking there redreſſe of myſerie.
+               Doe call vpon their goddes with feruent minde,
+               Suppoſing thus a perfite helpe to finde.
+            
+            
+               This daungerous place is called Idolatrie,
+               Whereon are loſt the Turkes and Paganes all,
+               That hither faſt in monſtrous flocks doe flie,
+               Not fearing miſchiefe that may them befall,
+               And numbers great of Chriſtians here doe die,
+               That leauing Chriſt on Idols faſt doe call,
+               With great deſpite vnto the almightie king,
+               That this deteſts aboue all other thing.
+            
+            
+               For nothing doth ſo much the minde offende,
+               Of that moſt ſacred maieſtie deuine,
+               Nor nothing makes him more his plagues to ſend,
+               Than when he ſees his ſeruants to decline
+               From ſeruing him to ſeeke another frende,
+               And ſetting vp an Idoll in his ſhrine,
+               This more doth him diſpleaſe aſſuredly,
+               Than any whoredome, theft or robbery.
+            
+            
+               Him liketh to be worſhipped alone,
+               With earneſt minde and with vnfeyned hart,
+               Who worſhips him muſt worſhip others none,
+               It is not meete for any to giue part,
+               Of honor due to him, vnto a ſtone,
+               For who ſo doth is like in the ende to ſmart,
+               In feeling paines and torments to them due,
+               That worſhip falſe and fained Gods vntrue,
+            
+            
+               
+               This only cauſe did make him oft forſake
+               His choſen flocke the auncient Iſraelites,
+               Who though with mouth he often to them ſpake,
+               Appointing to them ſacred lawes and rites,
+               Yet euermore his ordinances they brake,
+               And worſhipped ſundrie falſe and lying ſprites,
+               In euerie groue, on euerie woode and hill,
+               They Idols placed contrarie to his will.
+            
+            
+               For which he often gaue them ouer quite,
+               Into the hands of cruell enimies,
+               Who delt with them in miſerable plight,
+               Still vexing them with terror and with tyrannies,
+               Of ech man vſed with foule and great deſpite,
+               Compelde to ſuffer thouſand kinds of cruelties,
+               Accounted ſlaues and abiects clearely loſt,
+               That earſt of all men were eſteemed moſt.
+            
+            
+               For this poore Chriſtians often times haue felt,
+               The vſage vile, and force of Turkiſh hands,
+               That many yeares haue lowly with them delt,
+               Depriuing them of children, wife and lands,
+               Since firſt the ſeruice of Idols out they ſmelt,
+               Which brought them to captiuitie and bands,
+               Decayed their vertues, and loſt their auncient fame,
+               And made them to the world an open ſhame.
+            
+            
+               Therefore beware, and ſhun this filthie place,
+               Let Paule thy Pilot be vpon theſe ſeas,
+               Who ſayth Idolators ſhall neuer ſee the face
+               Of God, nor finde the ioyfull port of eaſe,
+               For Idoll ſeruers are quite depriued of grace,
+               And by no meanes the almightie Lord can pleaſe,
+               Such kinde of ſeruants only he deſires,
+               As ſeeke to ſerue him as himſelfe requires.
+            
+            
+               
+               All other ſeruice he eſteemeth as vaine,
+               And moſt he hates ſuch fond religion blinde,
+               As is deuiſed by dreame of fooliſh braine,
+               That worſhip only doth delight his minde,
+               That he himſelfe hath taught in ſcriptures plaine,
+               To this his ſeruants doth he ſtraightly binde,
+               He ſuffers them to honor this or that,
+               But plainly hath himſelfe appointed what.
+            
+            
+               Serue thou him therefore as he liketh beſt,
+               With all thy hart, with all thy minde him loue,
+               Let him be hi
+                     •
+                  ſt alwayes in thy breſt,
+               Take heede that none be placed him aboue,
+               Eſteeme no creature ſo aboue the reſt,
+               That loue thereof ſhall him from thee remoue,
+               For that beſide is foule Idolatrie,
+               To loue a worldly thing exceſſiuclie.
+            
+            
+               Not only Imageſeruers haue the name,
+               Of blinde Idolatours, but euerie ſuch▪
+               
+               That inwardly with feruent loue doth flame,
+               Eſteeming fading fancies here to much,
+               Preferring them before all feare or ſhame,
+               As thoſe whoſe minds the loue of God doth teach,
+               Or beautie faire of ſ
+                     •
+                  me excelling dame,
+               Theſe kinde of loues when in the hart they lie,
+               Are fouleſt kindes of vile Idolatrie.
+            
+            
+               Farre of from this ſee therfore that thou flie,
+               If that thou meanſt the hauen faire to finde,
+               For who ſo toucheth on this ſame ſhall die,
+               In ſu
+                     ••
+                  ring ſhipwracke through his follie blinde,
+               Refuſe this courſe, and ſayle forth happily,
+               Keepe well the 
+                     •
+                  orfull hauen ſtill in minde,
+               Whoſe pleaſures great ſhall fully thee reward,
+               For all thy paines and all thy trauailes hard.
+            
+            
+               
+               Another daunger lies there in thy way,
+               That ſeemeth good and ſafe vnto the eie,
+               Whereat a number great of ſhips doe ſtay,
+               That here are loſt or put in ieoperdie,
+               With colour falſe of good it doth betray,
+               And cloked faire doth cauſe men trauaile bie,
+               And moſt allures ſuch men as ſeeke for fame,
+               Hypocriſie this miſchiefe hath to name.
+            
+            
+               A rocke but ſoft and ſimple to the eie,
+               That pleaſeth much the minde of worldlye ſight,
+               Whereas diſce
+                     •
+                  te doth cloſely couered lie,
+               Which hindreth men from trauailing aright,
+               The place is large and riſeth ſome thing hie,
+               Upon the top whereof in open ſight,
+               There ſtands an Image couered all of ſtone,
+               That there was placed many yeares agone.
+            
+            
+               Which Image here I would deſcribe to thee,
+               But that long ſince it hath bene painted plaine
+               By learned Chaucer that gem of Poetrie,
+               Who paſſed the reach of any Engliſh braine,
+               A follie therefore were it here for me,
+               To touch that he with pencell once did ſtaine,
+               Take here therefore what he therof doth ſay,
+               Writ in the Romance of his Roſes gaye.
+            
+            
+               ¶ Another thing was done their write,
+               That ſeemed like an Hypocrite,
+               And it was cleped Pope holye,
+               That ill is ſhe that priuilye,
+               Ne ſpareth neuer a wicked deede,
+               When men of hir taken none heede,
+               And maketh hir outward precious,
+               With pale viſage and pituous.
+               And ſeemeth a ſimple creature,
+            
+            
+               
+               But there nis no miſaduenture,
+               That ſhe ne thinketh in hir courage,
+               Full like to hir was thilke Image,
+               That maked was byt hir ſemblance,
+               She was full ſimple of countnance,
+               And ſhe was clothed and 
+                     •
+                  ke ſhod,
+               As ſhe were for the loue of God,
+               Youlden to religion,
+               Such ſeemed hir deuotion,
+               A Pſalter helde ſhe faſt in hande,
+               And buſily ſhe gan to fonde,
+               To make many a faint prayer
+               To God and to his ſaints deare,
+               Ne ſhe was gaye, freſh nor iolliffe,
+               But ſeemd to be full intentiffe
+               To good workes and to faire,
+               And thereto ſhe had on a haire,
+               Ne certes ſhe was fat nothing,
+               But ſeemed werie for faſting,
+               Of colour pale and dead was ſhee,
+               From hir the gates aye warned bee,
+               Of Paradyſe the bliſſfull place,
+               For ſuch folke maken leane their grace,
+               As Chriſt ſayth in his Euangile,
+               To get their price in towne a while,
+               And for a little glorie vaine,
+               They leſen God and 
+                     •
+                  ke his raigne.
+            
+            
+               Thus hath the golden pen of Chaucer olde,
+               The Image plaine deſcriued to the cie,
+               Who paſſing by long ſince did it heholde,
+               And tooke a note therof aduiſedly,
+               Unto his fellowes of that age it tolde,
+               And left it 
+                     •
+                  ke for his poſteritie,
+               That ech man paſſing by might plainly know,
+               The perfite ſubſtance of that flattring ſhow.
+            
+            
+               
+               An enmie great vnto the Chriſtian fleete,
+               Is this foule rocke of falſe Hypocriſie,
+               That vs de
+                     •
+                  riueth of the pleaſure ſweete.
+               And brings our ſoules to greateſt miſerie,
+               A lothſome vice, a wretched crime vnmeete
+               For men profeſſing Chriſti
+                     •
+                  nitie,
+               Eſchew it then and farre off from it flie▪
+               
+               Let not ſuch blinde affections bleare thy e
+                     •
+                  e.
+            
+            
+               Seeke rather good to be, than good to ſ
+                     ••
+                  me,
+               Seeke ſo to liue as thou doeſt here profeſſe,
+               So ſhall both God and man thee beſt eſteeme,
+               So ſhalt thou perfit
+                     •
+                   Chriſtian life expreſſe,
+               What good doth it when m
+                     •
+                  n thee godly deeme,
+               And thou thy ſelfe art full of wickedn
+                     •
+                  ſſe,
+               Although thou mayſt diſſemb
+                     •
+                  e for a while,
+               Yet canſt thou not no long time God beguile.
+            
+            
+               His eie doth ſtill diſc
+                     •
+                  rne thy inward thought,
+               Thy ſecret dealings well he doth beho
+                     •
+                  de,
+               And all thy deedes in hucker mucker wrought,
+               At length before the world he ſhall vnfolde,
+               To what a miſerie ſhalt thou then be brought,
+               When all thy fauite ſhall openly be tolde,
+               When all thy filthie vices there ſhall ſmoke,
+               That here were hidden vnder godly cloke?
+            
+            
+               Chriſt hath vs taught for to abhorre this crime,
+               When as he curſed the Scribes and Pha
+                     •
+                  iſies,
+               Who ſeemde the godlieſt liuers at that time,
+               All garniſhed outward with Hypocriſies,
+               As though they daily 
+                     ••
+                  aff
+                     •
+                   by ſ
+                     •
+                  affe did clime,
+               By godly life vnto the hautie ſkies,
+               Whereas their harts were full of helliſh ſprites,
+               And they themſelues moſt curſed Hypocrites.
+            
+            
+               
+               O what a number at this preſent day,
+               Doe ſwarme in e
+                     •
+                  erie towne, in euerie place,
+               That God be thanked, and God be praiſed can ſay.
+               With geſture mylde and feyued godly grace,
+               Who crouching low before men faſt can pray,
+               As if that God himſelfe ſhould ſtand in place,
+               And yet for all this ſhow for a
+                     •
+                  l this goodly geare,
+               Diſceitfull knaues at length they doe appeare.
+            
+            
+               Beguiling men that put in them their truſt,
+               Oppreſſing poore men by ſtraunge and ſundrie way
+                     ••
+                  
+               
+               Without all conſcience, in word nor deede found iuſt,
+               Yet would they ſeeme as though they God did prayſe▪
+               
+               In ſeruing him according to his luſt,
+               Where as in deede theſe curſed Caſtawayes,
+               Doe neuer worſhip any God in minde,
+               But alwayes ſerue their owne affections blinde.
+            
+            
+               O ſinfull beaſts what meane you thus to deale,
+               Thus couertly before the face of God,
+               Be well aſſured you can not long conceale,
+               Be well aſſured you can not ſca
+                     •
+                  e his rod,
+               Your wretched deedes in time he ſhall reueale,
+               Your ſinfull life ſhall once be blaſde abrode,
+               Your maſ
+                     •
+                  ing garments that you ſo long haue worne,
+               Shall all be r
+                     •
+                  nt, and from your ſhoulders torne.
+            
+            
+               Your painted viſard ſhall be plucked away,
+               Wherewith ſo many here you did deceaue,
+               And all your curious counterfe
+                     •
+                   aray,
+               You ſhalbe forced againſt your will to leaue,
+               The Purple garments wherein you long did playe,
+               By which your honour here you did receaue,
+               Shall off be plucked, and all things elſe beſide,
+               And then the bare arſed Ape ſhall plaine be ſpid
+                     •
+                  .
+            
+            
+               
+               Sayle thou not neare this wretched curſed place,
+               That ſ
+                     •
+                  ekeſt the happie hauen for to finde,
+               Crie out to God and call for better grace,
+               Commit thy ſayles vnto a better winde,
+               Eſchew the looke of falſe diſſembling face,
+               Uſe vertue alwayes with vnfained minde,
+               So ſhalt thou ſooner finde the port of bliſſe,
+               That curſed Hypocrites aſſuredly ſhall miſſe.
+            
+            
+               Now veer thy ſheates, hale vp thy Mainſayle hie,
+               Aduaunce thy tops, hang out thy flags abroade,
+               The greateſt daunger haſt thou trauailde by,
+               And neare thou art vnto the happie roade,
+               The other perils that in the way doe lie▪
+               
+               May well be paſſed, and well be ouertrode,
+               For none do periſh heare in any place,
+               But ſuch as are both voide of wit and grace.
+            
+            
+               Caſt feare away, and take a luſti
+                     •
+                   hart,
+               Reuiue thy ſpirites with gladneſſe and with ioy,
+               Cheare vp thy minde, and comfort euerie part,
+               Remoue ech griefe that may thy ſenſe anoy,
+               For neare vnto the hauen now thou art,
+               Where pleaſure dwelles and euerlaſ
+                     •
+                  ing ioy,
+               Whereas thou ſhalt the almightie father ſee,
+               The ſpring and head of all felicitie.
+            
+            
+               Although theſe daungers that hereabout doe lie,
+               Doe neuer hurt the godly carefull minde,
+               Yet for their ſafeties that here ſhall trauaile bie,
+               I briefly willl declare their names and kinde,
+               That ſooner ſo they may ſuch miſchifefes flie,
+               Not running raſhly on th
+                     •
+                  ſ
+                     •
+                   miſchiefes blinde,
+               But keeping ſtill the ſafe aſſured ſeas,
+               They ſooner may finde out the port of eaſe,
+            
+            
+               
+               The firſt and worſt of theſe ſame daungers great,
+               Is blaſphemie, a foule and filthie crime,
+               Which barketh ſtill againſt the heauenly ſeat,
+               And moſt offends the maieſtie deuine,
+               With fearefull othes ſworne out in furie great,
+               Of Reprobates the moſt aſſured ſigne,
+               The damned ſprites continually doe ſweare,
+               Without reſpect of any godly feare.
+            
+            
+               Next this hath carliſh crueltie the place,
+               A miſchiefe that doth helliſh mindes aſſayle,
+               With lothſome looke and foule and deadly face,
+               Whereon a number great of ſhips doe quayle,
+               That wanting gentle windes and voyde of grace,
+               To neare this dreadfull daunger haſtily ſayle,
+               Whereas they leeſe themſelues in wretched plight,
+               And neuer finde the bliſfull hauen bright.
+            
+            
+               Then hatred ſhowes his hurtfull head aloft,
+               A hatefull harme, and hurtfull vnto many,
+               Which ouerthroweth the ſuttie ſayler oft▪
+               
+               And drowneth deepe the ſpitefull companie▪
+               
+               Who while they deeme the bed of malice ſoft,
+               Doe reſt themſelues vpon this miſerie,
+               Brought here a ſleepe with fonde malitious minde,
+               They neuer ſeeke the hauen faire to finde.
+            
+            
+               Here Murder all embrued with blond doth ſtand,
+               That giues vnto the eye a fearefull ſight,
+               On top whereof wi
+                     •
+                  h ſhaking ſword in hand,
+               Is Furie placed, a foule deformed ſprite,
+               Who ſuffers none to attaine the happie land.
+               That once vpon this miſchiefe happes to light,
+               The Fiend himſelfe that guides the damned raigne,
+               Firſt found this place and hither brings his traine.
+            
+            
+               
+               Hereby ſtands theft a foule and fooliſh yll,
+               That doth allure the greedie graceleſſe minde,
+               Traynde vp from youth in witleſſe wretched will,
+               And robberie, ſiſter to this vice by kinde,
+               May here be ſeene about hir ſwarming ſtill,
+               Theſe iuſtic blouds that here will ſoner finde
+               A pound, than loſe a penie willinglye,
+               Who riding here at oken ancour lye.
+            
+            
+               Not farre from thence ſtands ſinfull ſorcerie,
+               A miſchiefe founded by the deuill firſt,
+               With charmes enchantments and aſtrologie,
+               The practiſers whereof are all accurſt,
+               And ioynd with this, ſtands infidelitie
+               Togither linked as of all other worſt,
+               The one thinkes all things by the ſtarres are donne,
+               The other that all at randon here doth ronne.
+            
+            
+               To this apace our learned maiſters hie,
+               That teach vs what ſhall happen yeare by yeare,
+               And what ſore plagues are threatned from the ſkie,
+               As famine, warres and other pituous geare,
+               Great learned Clarks and ſuch as ſeldome lie,
+               As by their worthy doings doth appeare,
+               Who faine would be eſteemed cunning men,
+               While as they ſteale the fruits of others pen.
+            
+            
+               Now laſt of all two daungers great appeare,
+               Betweene the which thou canſt not chooſe but run,
+               Therefore thou muſt looke circumſpectly here,
+               As other ſaylers heretofore haue done,
+               Sayie iuſt betweene them both, ſayie not to neare
+               To any of them, for ſtrong the tide doth run,
+               And often driues the herdleſſe Earkes thereon,
+               That in the middle ſafely might haue gon.
+            
+            
+               
+               The one of them with lofty looke doth riſe,
+               And ſeemes to touch the place where ſaints doe dwell,
+               All blacke the other lies before the eies,
+               The plateforme plaine and Image right of hell,
+               There ſhalt thou heare continuall ſhrikes and cries
+               Of damned ſoules that pitcouſly doe yell,
+               And lothſome ſhowes and ſhapes doth eke appeare,
+               Of curſed ſprites that houer here and there.
+            
+            
+               Preſumption hath the one of theſe to name,
+               That makes men like their doings here to well,
+               The other Deſperation full of blame,
+               That throwes men headlong to the pit of hell,
+               To miſchiefes great that mans deſtruction frame,
+               And makes men low with damned ſprites to dwell,
+               Theſe are the hurts that in theſe ſeas doe lie,
+               Regarde them well and warely from them flie.
+            
+            
+               Remaineth nothing for thee nowe behinde,
+               But gracious markes that leade the ſayler right,
+               That comforts much the godly vertuous minde,
+               And teacheth them to finde the port of light,
+               Paſſe thou by theſe, ſo ſhalt thou ſurely finde,
+               The chiefeſt ſuccour for the werie ſprite,
+               For who ſo runnes by theſe ſhall neuer miſſe,
+               The hauen faire of euerlaſting bliſſe.
+            
+            
+               The formoſt of theſe ſure and happie guides,
+               Is earneſt Prayer that giues a goodly ſhow,
+               And keepeth ſafe the Barke from troubious tides,
+               That moued with helitſh tides contrarie flow,
+               In ſafetie here the wandring veſſell rides,
+               Whatſoeuer hap, what winde ſoeuer blow,
+               Though deuill, world, and fleſh againſt it ſtriue,
+               Yet vnder ſayle it ſafely here may driue.
+            
+            
+               
+               A thouſand happy hands may here be ſeene,
+               Helde vp with hart vnfeyned vnto the ſkies,
+               Waſhed in the waters of repentance cleane,
+               And purged pure with teares of weeping eies,
+               A thouſand tongues from mindes that well doe meane,
+               Yeelde vp to God their feruent ſuites and cries,
+               At morning, noone and night continuallye,
+               Here ſhalt thou ſee them on their faces lye.
+            
+            
+               The next is Peace, a quiet happie place,
+               Where as no ſtrife nor rancor can be found,
+               Reſt thou thy Barke within this roade of grace,
+               And trauaile for to touch vpon this ground,
+               They alwayes come to good that run this race,
+               Thou needeſt not here for feare of daunger ſound,
+               For thoſe that here moſt peaceably remayne,
+               Haue daily traffique with the heauenly raigne.
+            
+            
+               Hereby doth Loue another beautie ſtand,
+               That brings thee ſtreight vnto the rode of reſt,
+               And poynteth out directly with hir hand,
+               The perfite way by which thou mayſt be bleſt,
+               No harmfull Boate may euer here take land,
+               But only thoſe that pleaſe the almightie beſt,
+               And ſeeke to ſayle according to his will,
+               This Loue doth all the heſtes of God fulfill.
+            
+            
+               Next Mercie ſtands, a goodly marke and plaine,
+               That leadeth ſtreight vnto the bliſſfull port,
+               And is poſſeſſed of the heauenly traine,
+               And moſt frequented of the vertuous ſort,
+               Who doe not thinke the words were ſpoken in vaine,
+               Wherewith our Sauiour did the Jewes exhort,
+               Aſſuring thoſe that mercie ſhewde to men,
+               That mercie ſhould be ſhewed againe to them.
+            
+            
+               
+               Not farre from hence may Pacience plaine be ſeene,
+               The Bulwarke ſtrong againſt all iniurie,
+               The ſouereigne Ladie and moſt victorious Queene,
+               In trouble, toyles and worldly miſerie,
+               Which euermore aſſuredly hath beene
+               The Buttreſſe chiefe of Chriſtianitie,
+               By which the ſoules of vertuous men haue ſaylde,
+               That neuer yet in ſtorme or tempeſt quaylde.
+            
+            
+               Here liuely Faith may well diſcerned bee,
+               The chanell ſafe that leades to heauenly bliſſe,
+               Whereby the Fathers olde attainde to ſee,
+               The hauen faire and port of perfite bliſſe,
+               This made the Martyrs flame in ſuch degree,
+               That life they weyed not in reſpect of this,
+               By which they knew aſſuredly to finde,
+               The bliſſfull place conceyued in their minde.
+            
+            
+               Theſe are the markes whereto thou muſt take heede,
+               By theſe thou mayeſt thy ſelfe in voyage guide,
+               If that thou ſeekeſt luckily to ſpeede,
+               To paſſe the flattes and ſcape the raging tide,
+               Upon this courſe haue Mariners agreed,
+               That long time ſince theſe ſeas haue fully tride,
+               No other way they here haue left behinde,
+               Whereby we may the happie hauen finde.
+            
+            
+               Sayle therfore as the perfite courſe doth lie,
+               And run the race that is to thee aſſignde,
+               For who ſo runneth otherwiſe awrie,
+               The hauen faire of bliſſe ſhall neuer finde,
+               But drownde in ſeas for euermore ſhall die,
+               With torments great and death of dreadfull kinde,
+               Where they that kepe the courſe that Chriſt hath tought
+               Shall vnto euerlaſting ioyes be brought.
+            
+            
+               
+               Here would I playne ſet out before thine eies,
+               This happie place, wherein thy Barke ſhall reſt,
+               What ſhow it hath, and in what ſort it lies,
+               But that it can by no man be expreſt,
+               That place of ioy aboue the ſtarrie ſkies,
+               Appointed only for the godly and bleſt,
+               By any wit can not be throwly ſcand,
+               Ne can be blaſde by any mortall hand.
+            
+            
+               The ioyes are ſuch as cannot here be tolde,
+               No pen can paint, nor tongue can tell the kinde,
+               The gorgeous ſight that ſaints ſhall here beholde,
+               Surmounts the reach of any earthly minde,
+               And paſſeth aye a hundreth thouſand folde,
+               The ſweeteſt pleaſures that in thys world we finde,
+               No eye hath ſeene, no eare hath euer harde,
+               The ioyes that are for godly men preparde.
+            
+            
+               Applie thy minde to ſeeke this happy place,
+               Put all thy ſtrength and all thy force thereto,
+               Call vnto God continually for grace,
+               As Chriſt hath taught, ſeeke alwayes for to doe,
+               Set alwayes him and his before thy face,
+               So ſhalt thou come the bleſſed hauen to,
+               So thou thy ſelfe with eyes ſhalt plainly ſee,
+               What ioy, what pleaſures there preparde bee.
+            
+            
+               
+                  〈 in non-Latin alphabet 〉
+               
+            
+         
+         
+            
+            The death of S. Polycarpus Biſhop of Smyrna, and diſciple to ſaint Iohn. Euſeb. lib. 4.
+            
+               WHen fierce Alecto moued the mindes
+               of graceleſſe wicked men,
+               To perſecute the ſacred Church
+               of Chriſt beginning then,
+               And all the furies breaking looſe
+               from hell with cancred ſpite,
+               Did ſeeke by all the meanes they could,
+               to quench that heauenly light,
+               The poore afflicted Chriſtian flocke
+               was ſpoyled on euerie ſide,
+               And euerie woluiſh tongue and tooth,
+               in bloud of ſaints was dide.
+               Ech vertuous man tormented was,
+               and godly men were ſlaine,
+               And hauocke made of holy harts,
+               with hatred and diſdaine,
+               The worthie father Polycarp,
+               a man of auncient yeares,
+               With aged countnance beautified,
+               and deckt with ſiluer heares,
+               Was ſought for now and followed faſt
+               with foote of cruell foe,
+               No place of ſafegard left for him,
+               nor path of peace to goe,
+               In euerie place was watch and warde,
+               and ſpials out were ſent,
+               By bloudie ſuite to ouerthrow
+               and trap the innocent,
+               But he not moued with all this rage,
+               In quiet doth remaine,
+               
+                  
+Accounting life and pleaſures loſt,
+               for Chriſt his chiefeſt gaine,
+               Yet following counſell of his frendes,
+               vnto a ſecret place,
+               He doth depart, and quietly
+               remaining there a ſpace,
+               With humble heart doth call to God,
+               and prayeth continually,
+               For chriſtian Church, his friends and ſuch
+               as liue in miſerie,
+               For thus he vſed euermore
+               throughout all his life to praye,
+               Continuing with his godly friends,
+               in prayer night and daye.
+               Thus three dayes hole in prayer paſt,
+               he takes at length his reſt,
+               And whilſt vpon his bed he lies,
+               with quiet ſleepe poſſeſt,
+               Him ſeemeth in his dreame hee ſees
+               the Pillow all on flame,
+               That round about encompaſſeth
+               his head vpon the ſame,
+               Which blaſing round about the bed
+               with firie countnance bright,
+               In little time as thought him then,
+               conſumes the Bolſter quight,
+               Awaking from this fearefull dreame,
+               He lifteth vp his hed,
+               Declareth that this viſion ſtraunge
+               of firie flaming bed,
+               Doth plainly ſhow that ſhortly he
+               muſt loſe his life in fire,
+               And leaue his aged limmes in flame,
+               for Chriſt his chiefe deſire,
+               Yet once againe at friends requeſt,
+               from thence he flies away,
+               
+                  
+In ſeeking out ſome couert place,
+               the ſafer for to pray,
+               Yet ceaſeth not the tyrants foote
+               for to purſue him ſtill,
+               But ranſa king in euerie place,
+               the guilt
+                     •
+                  eſſe bloud to ſpill,
+               Findes out at length the happie houſe
+               wherin this father good,
+               Had entred for to ſcape the hands
+               of Sathans curſed brood,
+               The day was almoſt at an ende
+               and ſunne declining faſt,
+               Upon the foming Occean ſeas,
+               his eyes began to caſt,
+               When as the curſed Catchpolles found
+               this ſacred ſecret place,
+               They make no more, but vp they hie,
+               with ſwift and haſtie pace.
+               A Garret was there placed aloft,
+               where as this vertuous man,
+               Lay quietly vpon his bed,
+               not fearing daunger than,
+               The aged father riſeth vp
+               and meetes his enimies,
+               With countance comly to beholde,
+               in ſweete and pleaſant guiſe,
+               Whereat the meſſengers amaſed
+               doe wonder verie much,
+               That ſuch a worthie father olde,
+               of grace and goodnes ſuch,
+               Should thus be ſought for in this ſort
+               by cruell tyrannie,
+               And well deſeruing long to liue,
+               ſhould thus vntimely die.
+               His youth in vertue alwayes ſpent,
+               his age in honor led,
+               
+                  
+Deſerued with better quietneſſe,
+               to reſt his horie head,
+               But he not weying force of man,
+               nor cruell enimie,
+               Embracing tokens true of death,
+               determineth to die.
+               Such was his loue to Chriſt his Lorde,
+               that through this vale of ſtrife,
+               By death he rather followes him,
+               than him forſakes for life.
+               No torment of the tyrants hand,
+               nor feare of cruell ſmart,
+               Could once amaſe his vertuous minde,
+               nor daunt his ſacred hart,
+               He willes them ſtraight to lay the borde,
+               and for to bring him meate,
+               And to his foes as to his friends,
+               Appointeth gheſtly ſeate,
+               Deſiring them but libertie
+               to pray an houres ſpace,
+               Which once obtainde he falleth downe,
+               and groueling on his face,
+               In ſuch a comly ſort he prayes,
+               that all that preſent ſtood,
+               
+                  
+                     •
+                  maſed were, and euen thoſe
+               that ſought to ſhed his blood,
+               To take him there repented much,
+               that they had trauailde ſo,
+               In hunting for ſo good a man,
+               of force commaunded tho,
+               They ſoried much that they ſhould take
+               and bring to cruell paine
+               Do ſweete a ſeruant of the Lordes,
+               ſo vertuous and ſo plaine,
+               His prayer fully finiſhed then,
+               His tine was now at hand,
+               
+                  
+Upon an Alſe they hoyſt him vp,
+               and compaſt with their bande,
+               They lead him toward the citie ſtreight,
+               vpon the Sabboth day.
+               Thus in his iourney trauailing,
+               there meetes him on the way,
+               One Herode that Lieutenant was,
+               Nicetas eke with him,
+               That father of this Herod was,
+               and cauſing him come in,
+               Unto the chariot where they ſat,
+               ſtill paſſing on their way,
+               They him perſwade to caſt off Chriſt,
+               and on this ſort they ſay,
+               What hurt or perill can it be,
+               what yll can thus ariſe,
+               In calling of the Emperour God,
+               and offring ſacrifice.
+               Lo this is all that thou ſhalt doe,
+               what matter great is this?
+               What fault can herewithall be found,
+               what thing is here amiſſe?
+               By doing thus thou ſaueſt thy life,
+               and all thy friends ſhalt pleaſe,
+               And ſpend thy aged yeares in reſt,
+               and paſſe thy time in eaſe.
+               Theſe words with ſilence firſt he heard,
+               and as they yet proceede,
+               What needes more words than theſe, ſaith he,
+               I will not doe this deede,
+               Ne will I call your Emprour God,
+               nor offer ſacrifice,
+               In vaine you me diſſwade, my minde
+               is ſettled otherwiſe.
+               Offended with this aunſwere much,
+               they both began to frowne,
+               
+                  
+And with deſpite from out the Coche
+               they threw him headlong downe,
+               The fall did hurt him verie ſore,
+               but nothing him diſmay,
+               For chearfully as voyde of hurt,
+               he holdeth on his way
+               Unto the place where he ſhould die,
+               beſet on euerie hand,
+               With ſwarmes and throng of people rude,
+               that gaſing on him ſtand,
+               Whereto as ſoone as he was come,
+               this voyce from heauen fell,
+               Be of good comfort Polycarpe
+               and keepe thy conſcience well.
+               No kinde of thing coulde there be ſeene,
+               yet many heard the voyce
+               That louing him and fearing God
+               did much thereat reioyce,
+               The beaſtly people rayſed at him
+               when as he came in ſight,
+               And blaſphemed God, defacing him
+               with words of great deſpight.
+               Thus brought among theſe gredie wolues
+               the ſimple ſheepe doth ſtand,
+               The Judge commaunding ſilence ſtreight,
+               with lifting vp his hand,
+               Demaundes if that be he that Polycarpus
+               hath to name,
+               Whereto he boldly aunſweres him,
+               I am the verie ſame.
+               Then of thy ſelfe haue ſome regarde,
+               good father olde, ſayth hee,
+               And haue reſpect vnto thy yeares
+               and to thine owne degree.
+               Thy reuerent age deſerues good lucke
+               caſt not thy ſelfe away,
+               
+                  
+But worſhip thou the Emperour
+               and wiſh him well aiway,
+               And crie away with all ſuch beaſts
+               as doe no God regarde,
+               Then turning to the people ſtreight,
+               and willing to be harde,
+               Olde Polycarpe with frowning looke
+               and hand held vp to ſkies,
+               Cries out amaine away with ſuch
+               as God doe here deſpiſe,
+               The Ruler ſpeaking ſtill and ſeying,
+               loue Ceſar with thy hart,
+               And blaſpheme Chriſt, then ſhalt thou at
+               thy pleaſure hence depart.
+               I haue, ſayth Polycarpus, ſerued
+               Chriſt foureſcore yeares and more,
+               And vnto mee in all this ſpace,
+               he did no hurt wherfore
+               Should I then him blaſpheme that hath
+               bene all this while my frende,
+               Whoſe bleſſed ayde from euerie harme,
+               did alwayes me defend,
+               I can not ſerue him in ſuch ſort,
+               that hath ſo friendly delt
+               With me through all my life, by whom
+               I haue ſuch goodneſſe felt,
+               I am a Chriſtian I confeſſe,
+               a Chriſtian will I die,
+               Come paine or ioy, come death or life,
+               I will it not denie,
+               And if thou ſeekeſt the happie ſtate,
+               of Chriſtians for to know,
+               Their whole beliefe, and vertuous ſect,
+               I plainly will thee ſhow,
+               Whenſoeuer thou ſhalt appoint the time.
+               Nay ſayth the Judge, declare
+               
+                  
+Before the people preſent here,
+               in all things how they fare,
+               Quoth he, I haue thee anſwerde full,
+               in ſcriptures are we tought,
+               To giue you Rulers honor ſuch,
+               as vnto you we ought,
+               We worſhip Princes euermore,
+               as Gods Lieutenants here,
+               And them obey, ſo that they bid
+               not things repugnant cleare
+               Againſt the lawes of God himſelfe,
+               but for to come taccount,
+               Before theſe raging people rude,
+               whoſe madneſſe doth ſurmount,
+               Their ſenſeleſſe wits, it is no part
+               of mine I you aſſure,
+               Nor neuer will I doe it wh
+                     ••
+                  ſt
+               my life doth here endure.
+               Wild beaſts here haue I quoth the Shrife,
+               whereto thou ſhalt be caſt,
+               Then let them loſe ſayth he, my words
+               ſhall ſtand as they haue paſt,
+               I can not chaunge from good to euyll,
+               more meete this ſinfull brood,
+               Should leaue their lewde and beaſtly life,
+               and chaunge from euill to good.
+               Well quoth the Shrife offended much
+               and boyling all in ire,
+               Though thou regardſt not force of beaſts,
+               thou ſhalt be burnt with fire,
+               Thy aged bones and weriſh lunmes,
+               conſumde to coales ſhall bee,
+               And life (the fruite of thy contempt)
+               ſhall paſſe in flame from thee.
+               Thou threatneſt me (quoth he againe)
+               with feeble fire and vaine,
+               
+                  
+Which as it quickly kindleth here,
+               ſo quickly dies againe,
+               Not knowing of the dreadfull flames
+               that burne continually,
+               Prepared for the wicked ſort,
+               that here in ſinne doe die.
+               But wherefore ſeemeſt thou thus to ſtay?
+               put beaſts or fire to me,
+               With torments I nor fearefull ſights
+               can neuer moued be.
+               Theſe words and other like to theſe
+               him Polycarpus tolde,
+               With ioyfull looke. The Shrife amaſed,
+               to heare his aunſweres bolde,
+               A Baily to the people ſent,
+               and willes him to proclaime
+               That Polycarpe had thrice confeſt
+               himſelfe a Chriſtian plaine.
+               Which when the multitude had heard
+               of Jewes and Gentiles vaine,
+               That preſent were with furie great,
+               thus crie they out amaine,
+               Lo this is he that doth ſeduce
+               all Aſia round about,
+               The father and the chiefeſt guide,
+               of all the Chriſtian rout,
+               The great defacer of our Gods,
+               who teacheth not to make
+               Nor offer ſacrifice, but Gods
+               and goodneſſe to forſake.
+               This ſayd, they crie for fire ſtreight,
+               and here and there they run,
+               And ech man buſieth much himſelfe,
+               to ſee the ſlaughter done,
+               And woad from euerie place they bring,
+               and reedes in order laye,
+               
+                  
+And pile vp fagots faſt thereon,
+               with all the haſt they may,
+               And thus the ſtake is ſtreight preparde,
+               the father brought thereto,
+               With willing minde and ioyfull hart,
+               his garments doth vndo,
+               And ſtripes himſelfe into his ſhirt,
+               while as the ſtanders by,
+               Doe driue in ſtaples to the ſtake,
+               the ſafer him to tie,
+               Theſe chaines, quoth he, are needleſſe here
+               for he that me doth make
+               To abide the fire, ſhall giue me grace
+               to ſtand vntide at ſtake,
+               Wherewith they let the chaines alone,
+               and tie him ſlenderly.
+               With little Hempen cordes that were
+               prepared speedily.
+               Thus like a Ram drawne from the flocke
+               for ſacrifice he ſtands,
+               And to the heauens caſting vp
+               his eyes and holy hands,
+               Theſe words with feruent mind he ſpake,
+               O God of power deuine,
+               That Father art of Jeſus Chriſt,
+               by which deare ſonne of thine,
+               Of thee the knowledge we attaine
+               thou Lord of Aungels all,
+               Of powers and ſtrengths &amp; euery wight,
+               that vnto thee doe call,
+               The only God of righteous men,
+               to thee great thanks I giue
+               That thus thou haſt permitted me,
+               vntill this day to liue,
+               Whereby of Chriſt thy only ſonne,
+               I ſhall a witneſſe bee
+               
+                  
+With whom I truſt, and thorow him,
+               thy bleſſed face to ſee,
+               The chiefeſt comfort of my ſoule,
+               and longing of my ſprite,
+               Wherein eche poore afflicted hart,
+               doth ſet his whole delight,
+               A pleaſing ſacrifice I truſt,
+               I ſhalbe vnto thee,
+               That doth reſpect the louing hart
+               and minde of eche degree,
+               My ſoule through flames to thee I yeelde
+               that art my only light,
+               Receiue it Lord and graunt it reſt,
+               before thy ſacred ſprite,
+               Euen as thou haſt appointed, and
+               determind long ago,
+               Ech thing thou haſt performed here,
+               and all things ordred ſo,
+               O God thou righteous art and iuſt,
+               deceite is none with thee,
+               Therefore I render thankes and prayſe,
+               vnto thy maieſtie,
+               Through Jeſus Chriſt the eternall God,
+               thy deare and only ſonne,
+               Whoſe preſence here to iudge the world,
+               I truſt ſhall ſhortly come.
+               To whom with thee and the holy ſprite,
+               be prayſe both now and then,
+               And laude and glory yeelded vp,
+               for euermore. Amen.
+               No ſooner had he done but that
+               Theſe wretches voyde of grace,
+               Thruſt fire in on euerie ſide,
+               and kindling it apa
+                     •
+                  e,
+               The flame a loft beginnes to mount,
+               and threates the hawtie ſkies,
+               
+                  
+With crooked compaſſe to encloſe,
+               the martyr ſtanding there,
+               Whoſe bodie ſeemed to giue the ſhowe
+               of golde in fornace cleare,
+               From whence beſide there round about
+               a pleaſant odor paſt.
+               As if ſome Baume or Frankincenſe,
+               had bene in fire caſt,
+               The ſinfull ſort perceyuing thus,
+               the body to remaine
+               Untoucht of fire, and that their toyle
+               and trauaile was in vaine,
+               Doe ſtraight commaund the hangman with
+               his ſword to thruſt him in,
+               Wherwith the bloud with purple ſtreams
+               apace begins to ſpin,
+               And guſheth out ſo faſt abrode,
+               that euen the raging flame
+               In diuers places of the pile
+               was quenched with the ſame,
+               The people all amaſed, depart,
+               the corſe neglected lies,
+               The ſoule reioycing at this day,
+               vnto the heauen flies.
+            
+         
+         
+            A Prieſt of Apollo ſtraungely conuerted. Euſeb. lib. 4.
+            
+               VPon the Alpes thoſe ſtately mountaines hie,
+               Sometime there ſtode a gorgeous temple faire,
+               Whereto the people vſed commonly
+               To heare the doome of Phebus to repaire,
+               
+                  
+Wherein there liued a Prieſt of paſſing fame,
+               Who vſed to keepe the altars trim and fine,
+               And well could caſt the ſacrifice in flame,
+               And order all things in their courſe and time,
+               It chaunced that here paſſed by this way,
+               One Gregorie, a chriſtian Biſhop olde,
+               Who entred in whereas this perſon lay,
+               And lodged there all night to ſcape the colde,
+               Good entertainment gaue the Prieſt him tho,
+               And vſed him well according to his guiſe,
+               And tolde him all in order ſo and ſo,
+               How Phebus there was ſerued and in what wiſe,
+               What numbers great did ſeeke him day by day,
+               And what great ſtore of people round about,
+               Were ſatiſfied when as they came that way,
+               And anſwerde full to euerie kinde of dout,
+               The next day when the ſunne doth giue his light,
+               The gheſt departs and biddes his Hoſt adew,
+               And thanks him for his lodging that ſame night,
+               And prayſe good lucke of their acquaintance new,
+               Unto the Church the Prieſt in haſte doth hie,
+               And offers vp his coſtly ſacrifice
+               He downeward falles and on his face doth lie,
+               And prayeth to his God in humble wiſe,
+               And counſell aſks of diuers weightie things,
+               What beſt for to be done in this or that.
+               Whilſt of his prayers thus the temple rings,
+               This golden God that on the altar ſat
+               Ne ſpake a worde, nor gaue him any ſigne,
+               Of prayers heard as he before had done,
+               His tongue was tide he could not now deuine,
+               What happened had or what thing was to come,
+               With countnance ſad the Prieſt doth home depart,
+               And muſeth at this ſtraunge and ſodeine chaunce,
+               Laments the caſe with mourning heauy hart,
+               And fares as one beſide himſelfe in traunce,
+               
+                  
+Thus heauily he ſpends the day away.
+               And when the night with ſhadow darke was come.
+               And time for euerie man to goe to reſt,
+               While on his bed he doth begin to 
+                     ••
+                  ome,
+               Lo ſtreight appeares his God all rudely dreſt,
+               With ernfull looke and thus to him he ſpake,
+               What meanſt thou thus to vexe thy troubled ſprite,
+               For pleaſing me whoſe force is now ſo weake,
+               That ſcarſly can I holds my ſelfe vpright,
+               That wretched gheſt whom thou this other night
+               So entertaynſt, hath me thus ſoule diſgraced,
+               Hath ſtayed my tong, and wrought me this deſpite,
+               By whom for euer am I cleane defaced,
+               Nor in my temple can I lenger ſet,
+               Nor aunſwere thee as I haue done before
+               Except of him thou licence for me get,
+               Thou knoweſt my ſtaye, torment thy ſelfe no more,
+               The Prieſt awakes, and ſoone he leaues his bed,
+               And followes faſt his late departed gheſt,
+               Treades our the path which he before did tred,
+               And panſeth not, nor doth entend to reſt,
+               Till he him find, whom ſoone he ouertakes,
+               An̄d humbly doth him of his helpe require,
+               And true report of euerie thing he makes,
+               What dolefull chaunce hath happened in his quire,
+               And what miſhap vnto his God befell,
+               And how his gaines are gone from him thereby
+               With ruthfull looke amaſed doth he tell,
+               Beſeecheth him to helpe him ſpeedily,
+               And to reſtore to him his God againe,
+               Which otherwiſe would be his great decay,
+               If that he ſhould with ſilence thus remaine,
+               He willes him to remember that ſame day,
+               Wherein he werie to his houſe did come,
+               How that ech friendſhip then that in him lay,
+               Hē ſhewed him there, and how ech thing was done.
+               
+                  
+The gentle ghoſt his Hoſt doth not forget
+               But for to ſhew him frendſhip like againe,
+               Unto the paper ſtraight his hand doth ſet
+               And thus he writes in letters faire and plaine,
+               Unto Apollo Gregorius greeting ſendes,
+               I giue thee leaue, doe as thou didſt before.
+               With this he makes his Hoaſt a full amende,
+               Who thanketh him with all his hart therefore,
+               And home he comes as faſt as he may 
+                     •
+                  ing,
+               And of his Church the doore he opens wide,
+               And vnto Phebus doth the letter bring,
+               Upon the Altar layes it him beſide,
+               The Idoll ſtreight beginnes againe to prate,
+               And anſwere giues as he was wont to doe,
+               And prophecies of his and his eſtate,
+               Of ſubtile oracles diſcloſing one or two,
+               The Prieſt beginnes to alter his intent,
+               And to himſelfe he mutters in his minde,
+               That this ſtraunge power is only to him lent,
+               And graunted by ſome force of hier kinde,
+               He deemes his Gods authoritie but ſmall,
+               That thus is ruled by a mortall Wight,
+               Nor lenger meanes he vnto him be thrall,
+               That is obedient to another ſprite,
+               He takes his letter and hies him thence apace,
+               And biddes both Church and God adew for aye,
+               Comes ſtreight to Gregorie, and telleth him the caſe,
+               And prayes him for to ſhew him plaine the way,
+               By true religion to worſhip God on hie,
+               And doth repent his former wretched trade,
+               And all his life ſpent in ydolatrie,
+               Wherein he liſt not lenger for to wade,
+               Thus falling flat on ground before his feete,
+               The other gently doth him there receaue,
+               And ſhowes the effect of 
+                     〈…〉
+                  
+                  ▪
+               
+               
+                  
+                     〈…〉
+                   to 
+                     〈◊〉
+                  
+                  ▪
+               
+               
+                  
+Who after that he had a while profeſt,
+               The Chriſtian law, and ſweete religion taught,
+               Tooke ſuch delight therein that all the reſt
+               Of fancies vaine he left and ſet at naught,
+               Embraced Chriſt, and ſerued him faithfully,
+               And in ſuch ſort that when this Gregorie di
+                     ••
+                  ,
+               As Paſtor chiefe his roome he did ſupply,
+               And happily his happie flocke did guide.
+            
+            FINIS.
+            
+         
+      
+   
+

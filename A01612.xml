@@ -1,0 +1,590 @@
+
+   
+      
+         
+            The translation of certaine psalmes into English verse by the Right Honourable, Francis Lo. Verulam, Viscount St. Alban.
+            Bacon, Francis, 1561-1626.
+         
+         
+            
+               1625
+            
+         
+         Approx. 19 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2003-01 (EEBO-TCP Phase 1).
+            A01612
+            STC 1174
+            ESTC S650
+            22123619
+            ocm 22123619
+            25114
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01612)
+            Transcribed from: (Early English Books Online ; image set 25114)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 1762:11)
+         
+         
+            
+               
+                  The translation of certaine psalmes into English verse by the Right Honourable, Francis Lo. Verulam, Viscount St. Alban.
+                  Bacon, Francis, 1561-1626.
+               
+               [4], 21 [i.e. 17] p.   
+               
+                  Printed for Hanna Barret, and Richard Whittaker, and are to be sold at the signe of the Kings Head in Pauls Church-yard,
+                  London :
+                  1625.
+               
+               
+                  This work is not a translation so much as a paraphrase--Cf. NUC pre-1956 imprints.
+                  Signatures: A⁴(-A1) B-C⁴.
+                  Numbers 11-14 skipped in pagination.
+                  STC 1174 on reel 871 is actually 1174.5--Cf. reel guide.
+                  Reproduction of original in the Bodleian Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Bible. --  O.T. --  Psalms --  Paraphrases, English.
+            
+         
+      
+      
+         
+            2002-03
+            TCPAssigned for keying and markup
+         
+            2002-04
+            Apex CoVantageKeyed and coded from ProQuest page images
+         
+            2002-05
+            TCP Staff (Oxford)Sampled and proofread
+         
+            2002-05
+            Emma (Leeson) HuberText and markup reviewed and edited
+         
+            2002-06
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+               
+THE TRANSLATION OF CERTAINE PSALMES INTO ENGLISH VERSE: BY THE RIGHT HONOVRABLE, Francis Lo. VERVLAM, Viscount St. ALBAN.
+            LONDON, Printed for Hanna Barret, and Richard Whittaker, and are to be sold at the signe of the Kings Head in Pauls Church-yard. 1625.
+         
+         
+            
+            
+            TO HIS VERY GOOD FREND,
+            
+               Mr. GEORGE HERBERT.
+            
+            
+               THE paines, that it pleased you to take, about some of my Writings, I cannot forget: which did put mee in minde, to dedicate to you, this poore Exercise of my sicknesse. Besides, it being my manner for Dedications, to choose those that I hold most fit for the Argument, I thought,
+
+that in respect of Diuinitie, and Poesie, met, (whereof the one is the Matter, the other the Stile of this little Writing) I could not make better choice. So, with signification of my Loue and Acknowledgement, I euer rest
+            
+               
+                  Your affectionate Frend, FR: St ALBAN.
+            
+         
+      
+      
+         
+            
+            THE TRANSLATION OF The first Psalme.
+            
+               WHo neuer gaue to wicked read,
+               A yeelding and attentiue eare:
+               Who neuer Sinners paths did tread;
+               Nor sate him downe in Scorners chaire:
+               But maketh it his whole delight,
+               On Law of God to meditate,
+               And therein spendeth day and Night;
+               That Man is in a happie State.
+            
+            
+               He shall be like the fruitfull Tree,
+               Planted along a running Spring,
+               Which in due season, constantly,
+               A goodly yeeld of Fruit doth bring,
+               
+                  
+Whose leaues continue alwaies greene,
+               And are no prey to winters power:
+               So shall that Man not once be seene
+               Surprized with an euill Hower.
+            
+            
+               With Wicked Men it is not so,
+               Their Lot is of another kinde:
+               All as the Chaffe, which too and fro,
+               Is tost at Mercie of the winde.
+               And when he shall in Iudgment plead,
+               A casting Sentence bide he must:
+               So shall he not lift vp his Head,
+               In the Assembly of the Iust.
+            
+            
+               For why the Lord hath Speciall Eye,
+               To be the Godlies stay at call:
+               And hath giuen ouer, righteously,
+               The wicked Man to take his fall.
+            
+         
+         
+            
+            The Translation of the 12. Psalme.
+            
+               HElpe Lord, for godly Men haue took their flight,
+               And left the Earth to be the Wicked's Den:
+               Not one that standeth fast to Truth and Right,
+               But feares, or seekes to please, the Eies of Men.
+               When one with other fall's in talke apart,
+               Their meaning goeth not with their words, in proofe;
+               But faire they flatter, with a clouen Heart,
+               By pleasing words, to worke their owne behoofe.
+            
+            
+               But God cut off the Lips, that are all set,
+               To trap the harmlesse Soule, that peace hath vow'd;
+               And pierce the Tongues, that seeke to counterfet
+               The Confidence of Truth, by lying loud:
+               Yet so they thinke to reigne, and worke their will,
+               By subtill Speech, which enter's euery where:
+               And say, Our Tongues are ours, to helpe vs still,
+               What need wee any Higher Power to feare?
+            
+            
+               Now for the bitter sighing of the poore,
+               The Lord hath said, I will no more forbeare,
+               
+                  
+The Wicked's Kingdome to inuade and scoure,
+               And set at large the Men restrain'd in feare.
+               And sure, the Word of God is pure, and fine,
+               And in the triall neuer looseth waight;
+               Like Noble Gold, which since it left the Mine,
+               Hath seuen times passed through the fiery straight.
+            
+            
+               And now thou wilt not first thy word forsake,
+               Nor yet the Righteous man, that leanes theretoo;
+               But will't his safe Protection vndertake,
+               In spight of all, their force, and wiles can doe.
+               And time it is, ô Lord, thou didst draw nigh,
+               The Wicked daily doe enlarge their Bands;
+               And that, which makes them follow ill a vie,
+               Rule is betaken to vnworthy Hands.
+            
+         
+         
+            The Translation of the 90. Psalme.
+            
+               OLord, thou art our Home, to whom we fly,
+               And so hast alwaies beene from Age to Age.
+               Before the Hills did intercept the Eye,
+               Or that the Frame was vp of Earthly Stage,
+               
+                  
+One God thou wert, and art, and still shalt bee;
+               The Line of Time, it doth not measure thee.
+            
+            
+               Both Death and Life obey thy holy lore,
+               And visit in their turnes, as they are sent.
+               A Thousand yeares with thee, they are no more,
+               Then yesterday, which, ereit is, is spent:
+               Or as a watch by night, that course doth keepe,
+               And goes, and comes, vnwares to them that sleepe.
+            
+            
+               Thou carriest Man away as with a Tide;
+               Then downe swim all his Thoughts, that mounted high;
+               Much like a mocking Dreame, that will not bide,
+               But flies before the sight of waking Eye;
+               Or as the Grasse, that cannot terme obtaine,
+               To see the Summer come about againe.
+            
+            
+               At Morning, faire it musters, on the Ground,
+               At Euen it is cut downe, and laid along:
+               And though it spared were and fauour found,
+               The wether would performe the Mowers wrong:
+               Thus hast thou hang dour Life on brittle Pins,
+               To let vs know, it will not beare our Sins.
+            
+            
+               
+               Thou buriest not within obliuious Tombe
+               Our Trespasses, but entrest them aright:
+               Euen those that are conceiu'd in darkenesse Wombe
+               To thee appeare, as done at broad day light.
+               As a Tale told, which sometimes men attend,
+               And sometimes not, our Life steales to an end.
+            
+            
+               The Life of Man is threescore yeares and ten,
+               Or if that he be strong, perhaps fourescore,
+               Yet all things are but labour to him then,
+               New sorrowes still come on, Pleasures no more:
+               Why should there be such turmoile &amp; such strife,
+               To spin in length this feeble Line of Life?
+            
+            
+               But who consider's duely of thine Ire?
+               Or doth the thoughts thereof wisely embrace?
+               For thou, O God, art a consuming Fire,
+               Fraile Man, how can he stand before thy face?
+               If thy displeasure thou do'st not refraine,
+               A Moment brings all backe to Dust againe.
+            
+            
+               Teath vs, O Lord, to number well our Daies,
+               Thereby our Hearts to wisdome to apply;
+               
+                  
+For that, which guides Man best in all his waies,
+               Is Meditation of Mortality.
+               This bubble light, this vapour of our Breath,
+               Teach vs to consecrate to Howre of Death.
+            
+            
+               Returne vnto vs Lord, and ballance now
+               With daies of Ioy, our daies of Misery;
+               Helpe vs right soone, our knees to thee we bow,
+               Depending wholy on thy Clemency:
+               Then shall thy Seruants both with heart &amp; voice,
+               All the daies of their Life, in thee reioyce.
+            
+            
+               Begin thy worke, O Lord, in this our Age,
+               Shew it vnto thy Seruants that now liue;
+               But to our Children raise it many a Stage
+               That all the World to thee may glory giue.
+               Our Handy worke likewise, as fruitfull Tree,
+               Let it O Lord, blessed, not blasted be.
+            
+         
+         
+            
+            The Translation of the 104. Psalme.
+            
+               Father and King of Powers, both high and low,
+               Whose sounding Fame all creatures serue to blow;
+               My Soule shall with the rest strike vp thy praise,
+               And Caroll of thy workes, and wondrous wayes.
+               But who can blaze thy Beauties, Lord, aright?
+               They turne the brittle Beames of mortall sight.
+               Vpon thy head thou wear'st a glorious Crowne,
+               All set with vertues, polisht with renowne:
+               Thence round about a Siluer Vaile doth fall
+               Of Chrystall Light, Mother of Colours all.
+               The Compasse heauen, smooth without graine, or fold,
+               All set with Spangs of glitt'ring Stars vntold,
+               And stript with golden Beames of power vnpent,
+               Is raised vp for a remouing Tent.
+               Vaulted and arched are his Chamber Beames,
+               Vpon the Seas, the Waters, and the streames:
+               The Clouds as Chariots swift doe scoure the sky;
+               The stormy winds vpon their wings doe fly.
+               His Angels Spirits are that wait his Will,
+               As flames of Fire his anger they fulfill.
+               
+                  
+In the beginning with a mighty Hand,
+               He made the Earth by counterpoyse to stand;
+               Neuer to moue, but to be fixed still;
+               Yet hath no Pillars but his Sacred Will.
+               This Earth, as with a vaile, once couered was,
+               The Waters ouerflowed all the Masse:
+               But vpon his rebuke away they fled,
+               And then the Hills began to shew their Head;
+               The Vales their hollow Bosomes opened plaine,
+               The Streames ran trembling down the vales again:
+               And that the Earth no more might drowned be
+               He set the Sea his Bounds of Liberty;
+               And though his Waues resound and beat the shore,
+               Yet is it brideled with his holy lore.
+               Then did the Riuers seeke their proper places,
+               And found their Heads, their Issues, and their races:
+               The Springs doe feed the Riuers all the way,
+               And so the tribute to the Sea repay:
+               Running along through many a pleasant field,
+               Much fruitfulnesse vnto the Earth they yeeld:
+               That know the Beasts and Cattell feeding by,
+               Which for to slake their Thirst doe thither hie.
+               Nay Desert Grounds the Streames doe not forsake,
+               But through the vnknowne waies their iourney take:
+               
+                  
+The Asses wilde that bide in Wildernesse,
+               Doe thither come, their Thirst for to refresh.
+               The shady Trees along their Bankes doe spring,
+               In which the Birds doe build, and sit and sing;
+               Stroking the gentle Ayre with plesant notes,
+               Plaining or Chirping through their warbling throtes.
+               The higher Grounds where Waters cannot rise,
+               By raine and Dewes are watred from the Skies;
+               Causing the Earth put forth the Grasse for Beasts,
+               And garden Herbs, seru'd at the greatest Feasts;
+               And Bread that is all Viands Firmament,
+               And giues a firme and solid Nourishment;
+               And Wine Mans Spirits for to recreate;
+               And Oyle his Face for to exhilarate.
+               The sappy Cedars tall like stately Towers.
+               Highflying Birds doe harbour in their Bowers:
+               The holy Storkes that are the Trauellers,
+               Choose for to dwell and build within the Firs:
+               The climing Goats hang on steep Mountaines side;
+               The digging Conies in the Rocks doe bide.
+               The Moone, so constant in Inconstancy,
+               Doth rule the Monethly seasons orderly:
+               The Sunne, Eye of the World, doth know his race,
+               And when to shew, and when to hide his face.
+               
+                  
+Thou makest darknesse, that it may be Night,
+               When as the Sauage Beasts, that flye the Light,
+               (As conscious of Mans hatred) leaue their Den,
+               And range abroad, secur'd from Sight of Men.
+               Then doe the Forrests ring of Lions roaring,
+               That aske their meat of God, their strengthrestoring;
+               But when the Day appeares, they backe doe flye,
+               And in their Dens againe doe lurking lye.
+               Then Man goes forth to labour in the Field,
+               Whereby his Grounds more rich encrease may yeeld.
+               O Lord, thy Prouidence sufficeth all,
+               Thy Goodnesse not restrain'd, but generall
+               Ouer thy Creatures, the whole Earth doth flow
+               With thy great Largesse pour'd forth here below.
+               Nor is it Earth alone exalts thy Name,
+               But Seas and streame likewise doe spread the same.
+               The rowling Seas vnto the Lot doe fall,
+               Of Beasts innumerable great and small:
+               There doe the stately Ships plow vp the Flouds,
+               The greater Naules looke like walking woods:
+               The Fishes there farre voyages doe make,
+               To diuers shores their Iourney they doe take:
+               There hast thou set the great Leuiathan,
+               That makes the Seas to seeth like boyling Pan.
+               
+                  
+All these doe aske of thee their Meat to liue,
+               Which in due season thou to them dost giue.
+               Ope thou thy Hand, and then they haue good fare;
+               Shut thou thy Hand, and then they troubled are.
+               All Life, and Spirit, from thy Breath proceed,
+               Thy word doth all things generate and feed;
+               If thou withdraw'st it, then they cease to bee,
+               And straight returne to Dust and Vanitie:
+               But when thy Breath thou do'st send forth againe,
+               Then all things doe renew, and spring amaine;
+               So that the Earth but lately desolate,
+               Doth now returne vnto the former State:
+               The glorious Maiesty of God aboue,
+               Shall euer raigne, in Mercy, and in Loue:
+               God shall reioyce, all his faire workes to see,
+               For, as they come from him, all perfect bee.
+               The Earth shall quake, if ought his wrath prouoke,
+               Let him but touch the Mountaines, they shall smoke.
+               As long as Life doth last, I Hymnes will sing,
+               With chearefull voice, to the eternall King:
+               As long as I haue beeing, I will praise
+               The works of God, and all his wondrous waies.
+               I know that he my words will not despise;
+               Thanks giuing is to him a Sacrifice.
+               
+                  
+But as for Sinners, they shall be destroid
+               From off the Earth, their places shall be void.
+               Let all his Works praise him with one accord;
+               Oh praise the Lord, my Soule; praise ye the Lord.
+            
+         
+         
+            The Translation of the 126. Psalme.
+            
+               WHen God return'd vs graciously
+               Vnto our Natiue Land,
+               We seem'd as in a Dreame to be
+               And in a Maze to stand.
+            
+            
+               The Heathen likewise they could say,
+               The God, that these men serue,
+               Hath done great Things for them this Day,
+               Their Nation to preserue.
+            
+            
+               Tis true, God hath pour'd out his grace
+               On vs abundantly,
+               For which we yeeld him Psalmes, and Praise,
+               And thanks, with Iubilee.
+            
+            
+               O Lord, turne our Captiuity,
+               As Winds that blow at South,
+               
+                  
+Doe poure the Tides with violence
+               Backe to the Riuers Mouth.
+            
+            
+               Who sowes in Teares, shall reape in ioy,
+               The Lord doth so ordaine:
+               So that his Seed be pure and good,
+               His Haruest shall be gaine.
+            
+         
+         
+            The Translation of the 137. Psalme.
+            
+               WHen as we sate all sad and desolate,
+               By Babylon, vpon the Riuers side,
+               Eas'd from the Taskes, which in our captiue state,
+               We were enforeed daily to abide,
+               Our Harps we had brought with vs to the field,
+               Some solace to our heauy Soules to yeeld.
+            
+            
+               But soone we found, we fail'd of our account,
+               For when our Mindes some freedome did obtaine,
+               Straight-waies the memory of Sion Mount,
+               Did cause afresh our wounds to bleed againe;
+               So that with present griefs, and future feares,
+               Our Eyes burst forth into a streame of Teares.
+            
+            
+               
+               As for our Harps, since Sorrow strooke them dumbe,
+               We hang'd them on the Willow Trees were neare;
+               Yet did our cruell Masters to vs come,
+               Asking of vs some Hebrew Songs to heare;
+               Taunting vs rather in our Misery,
+               Then much delighting in our Melody.
+            
+            
+               Alas (said we) who can once force or frame,
+               His grieued and oppressed Heart to sing,
+               The Prayses of Iehoua's glorious Name,
+               In banishment, vnder a forraine King?
+               In Sion is his Seat, and dwelling place,
+               Thence doth he shew the brightnesse of his face.
+            
+            
+               Hierusalem, where God his Throne hath set,
+               Shall any Hower absent thee from my minde?
+               Then let my right Hand quite her skill forget,
+               Then let my voice, and words, no passage finde;
+               Nay if I doe not thee prefer in all,
+               That in the compasse of my thoughts can fall.
+            
+            
+               Remember thou, ô Lord, the cruell cry
+               Of Edoms Children, which did ring and sound,
+               
+                  
+Inciting the Chaldaeans Cruelty,
+               
+                  Downe with it, downe with it, euen vnto the ground.
+               
+               In that good day, repay it vnto them,
+               When thou shalt visit thy Hierusalem.
+            
+            
+               And thou, o Babylon, shalt haue thy turne
+               By iust Reuenge, and happy shall he bee,
+               That thy proud Walls and Towers shall wast and burne,
+               And as thou did'st by vs, so doe by thee.
+               Yea happy he, that takes thy childrens Bones,
+               And dasheth them against the pauement Stones.
+            
+         
+         
+            The Translation of the 149. Psalme.
+            
+               
+                  O Sing a new Song, to our God aboue,
+               Auoid profane ones, 'tis for holy Quire:
+               Let Israel sing Songs of holy Loue
+               To him that made them, with their Hearts on fire:
+               Let Sions Sonnes lift vp their Voice, and sing
+               Carolls and Anthems to their Heauenly King.
+            
+            
+               Let not your voice alone his praise forth tell,
+               But moue withall, and praise him in the Dance;
+               
+                  
+Cymbals and Harps let them be tuned well,
+               'Tis he that doth the Poores estate aduance:
+               Doe this not onely on the solemne daies,
+               But on your secret Beds your Spirits raise.
+            
+            
+               O let the Saints beare in their Mouth his Praise,
+               And a two edged Sword drawne in their Hand,
+               Therewith for to reuenge the former Daies,
+               Vpon all Nations, that their Zeale withstand;
+               To binde their Kings in chaines of Iron strong,
+               And manacle their Nobles for their wrong.
+            
+            
+               Expect the time, for 'tis decreed in Heauen;
+               Such Honour shall vnto his Saints be giuen.
+            
+            FINIS.
+         
+      
+   
+

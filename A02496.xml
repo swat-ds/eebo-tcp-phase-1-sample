@@ -1,0 +1,527 @@
+
+   
+      
+         
+            The priuate schoole of defence. Or The defects of publique teachers, exactly discouered, by way of obiection and resolution Together vvith the true practise of the science, set downe in iudicious rules and obseruances; in a method neuer before expressed. By G.H. Gent.
+            Hale, George, fl. 1614.
+         
+         
+            
+               1614
+            
+         
+         Approx. 30 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2009-03 (EEBO-TCP Phase 1).
+            A02496
+            STC 12627
+            ESTC S121930
+            99857087
+            99857087
+            22759
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A02496)
+            Transcribed from: (Early English Books Online ; image set 22759)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 838:15)
+         
+         
+            
+               
+                  The priuate schoole of defence. Or The defects of publique teachers, exactly discouered, by way of obiection and resolution Together vvith the true practise of the science, set downe in iudicious rules and obseruances; in a method neuer before expressed. By G.H. Gent.
+                  Hale, George, fl. 1614.
+               
+               [44] p.   
+               
+                  Printed [by T. Snodham] for Iohn Helme, and are to be sould at his shop in S. Dunstanes Church-yard in Fleetstreet,
+                  London :
+                  1614.
+               
+               
+                  G.H. = George Hale.
+                  Printer's name from STC.
+                  Signatures: A-C (-A1, C8).
+                  Reproduction of the original in the Henry E. Huntington Library and Art Gallery.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Combat --  Early works to 1800.
+            
+         
+      
+      
+         
+            2008-01
+            TCPAssigned for keying and markup
+         
+            2008-01
+            SPi GlobalKeyed and coded from ProQuest page images
+         
+            2008-02
+            John PasSampled and proofread
+         
+            2008-02
+            John PasText and markup reviewed and edited
+         
+            2008-09
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            THE Priuate Schoole of Defence.
+            
+            
+               OR THE DEFECTS of Publique Teachers, exactly diſcouered, by way of Obiection and Reſolution.
+            
+            
+               TOGETHER VVith the true practiſe of the Science, ſet downe in iudicious Rules and Obſeruances; in a Method neuer before expreſſed.
+            By G. H. Gent.
+            
+               LONDON: Printed for Iohn Helme, and are to be ſould at his Shop in S. Dunſtanes Church-yard in Fleetſtreet. 1614.
+         
+         
+            
+            
+            TO THE HOPE OF GREAT Brittaine, Prince CHARLES.
+            
+               
+                  PRaiſe is the end of all Arts, the perfection of Praiſe is onely in Eminence, which begets Example and Admiration. Seeing then (great
+
+Prince) your Birth giues you the beſt priuiledge to expreſſe the worthineſſe of Vertue, I ſee not but her followers, eyther in Art or Action, ſhould neceſſarily flie to your High Patronage. This conſideration makes my low deſerts looke vpward, which in this at leaſt will merit your view, that the Science of Defence, not vnworthily ſtiled Noble, (if eyther truely practiſed, or rightly vnderſtood) was neuer before in our Language brought to any Method. The Profeſſors thereof being ſo ignorant, that they could rather doe, then make demonſtration,
+
+or reduce their doing to any certaintie of principle.
+            Many are the imputations laid vpon this Art, (for ſuch I dare now affirme it) the chiefe whereof is, the increaſing our bloudy and irreligious Duels, which if the name of this Science, being called of Defence, will not auoyd, yet the moſt licentious age of the Romanes ſhall ſufficiently cleare: No Hiſtory of thoſe times making mention of any Duello or ſingle fight to the loſſe of any Noble Perſon in that State, or diſreputation of the publique Iuſtice. Yet that this kinde of battell was knowne
+
+and in ſome caſes approued amongst the Romanes. The Hiperduels betweene the Curatij and the Horatij, and that famous Duell betweene Torquatus and the French-man, apparantly ſpeake.
+            It is not then the publique profeſsion of this Science, nor the multiplicitie of Profeſſors that increaſe theſe deſperate aſſaſsinations: for, Knowledge begets Wiſedome, and Wiſedome by how much it participates of skill with Diſcretion, miſdoubteth the ſame in another, and concludes ſafety as the ſumme of her abilitie. This is manifeſt
+
+in the Italians, the firſt inuenters of Foyle-weapon, and the cunningst Practiſers, where notwithſtanding theſe ſingle Combats are rather reported then ſeene; and yet in ruder Countries as Poland, &amp;c. nothing more common; which I impute wholy to a daring Ignorance. Neyther had this knowledge of Defence, if iuſtly taxt with any ſo wicked effects, been graced with ſo many Authentick priuiledges in all well gouerned States, nor the Profeſſors thereof had receiued ſuch honor and reſpect, inſomuch that amongst the Romanes ſome of them had their Statues erected,
+
+as Plutarch witneſſeth. Theſe Reaſons (if my iudgement faile not) forcing the ſame.
+            Firſt, Neceſſitie at home, as a Remedie to an vnauoyded Diſeaſe, in oppoſing ſodaine aſſaults, which from Caine, pleading Antiquitie, will not now loſe their plantation. And ſince Innocence is no protection againſt murtherous intents, God and Nature tollerate this Defence.
+            
+            The ſecond is, Publique good abroad, for auoyding bloud, if the ſtate of a War ſhould require a ſingle Tryall, which howſoeuer was preſumption in Goliah, was
+
+true valor in Dauid: the imitation of this example, hath beene frequent in great Perſons in forraigne, and memorable in our owne Country: as betweene Edmund, ſurnamed Ironſide, and King Canute, to a happy iſſue. Neyther can I forget an offer in the ſame kinde made in more late yeeres, betweene Frances the firſt, King of France, and Charles the fift, Emperour, though without effect.
+            The laſt Reaſon is, Commendable and profitable Exerciſe. Firſt, no other recreation carries ſo generall imployment
+
+both of body and minde, as this doth: for here the Feete labour equally with the Hands, the Eye and the Iudgement walke together: and for the profit, it leads to as much vſe in making the perſon ready and daring to the warre; as Horſemanſhip begets dexteritie for the ſhocke. The Schoole of our priuate Practiſe being the ſame to the Battell, that the Muze is to the Troope: for with what confidence ſhall hee goe on vpon many, that hath no knowledge to giue him hope of ſafety from one.
+            Pardon my tedious diſcourſe
+
+(moſt Excellent Prince) if it be a Crime, not Error but Zeale offends: for how can I chooſe but ſpeake much of Armes to you, whom wee all expect the moſt Heroyicke Profeſſor and Defender of the ſame: to which your future abilitie in your high Atchieuements, if my poore endeuours may giue the leaſt furtherance (as I promiſe my ſelfe much herein) I returne from your Acceptance, loaden with full reward and happieſt expectance: whom no ſecond reſpect could induce to the vndertaking this ſo difficult a Labour, which my Perſon ſhall
+
+in your command, in all humble ſeruice, be euer at attendance to make good, reſting
+            
+               
+                  The moſt deuoted Seruant to you and your Princely Vertues, G. H. Gent.
+               
+            
+         
+      
+      
+         
+            
+            THE Priuate Schoole of Defence.
+            
+            
+               THE INDVCTION.
+               
+                  SOme hold opinion that Skill auayleth little or nothing in fight; and therefore ſo ſoone as they ſhall ſee this Title, will caſt away the Diſcourſe, as an vnprofitable Argument. Hee that is the moſt obſtinate enemie to himſelfe, in reiecting the benefit of
+
+skill, muſt needes confeſſe it no vaine Exerciſe, if the aptneſſe and facilitie be onely thought on, to which the actiue practiſe of it brings the body, and enables it for enduring in fight. But to the point of materiall vſe.
+               Of ſuch mens vnderſtandings I would know how comes it (then) that an ignorant handler of a Weapon meeting vvith an ordinarie Profeſſor of Defence at Foyles, can neyther certainely giue offence, nor auoid it.
+               They will anſwere mee, that at blunt, a man comes boldly on, and is not troubled with any ſuch conſiderations, as at ſharpe muſt of neceſſitie diſorder his remembrance, and put him out of fight.
+               To that, thus; All rules (indeed) muſt admit ſome exceptions: heat or cold may ſome-what diſtract a
+
+fighter; heate in caſting him too forwardly vpon a danger: coldneſſe in not preparing him to follow an aduantage of offence, yet theſe come neuer wholy to preiudice the vſe of skill: for, ſpeaking of ſuch an heate as alwayes fals vpon this perill; wee muſt not vnderſtand it to be ſimply that heat needfully belonging to courage; for then it is an orderly Vertue, and loſeth no ſtrength eyther borne with it, or taught it; but it muſt be forced vp into much anger (which ſeldome happens in the Defendant, for whoſe cauſe onely wee profeſſe teaching) before it can turne a man into that weakneſſe. Where it doth happen, it is a kinde of madneſſe, which (for the time) loſeth all reaſon, as much as that part of skill: and ſhall good aduice be altogether neglected becauſe
+
+a madde man is vncapable of it?
+               Then touching Coldnes, though it be brought downe into the very baſeneſſe of Feare in one, yet it is impoſſible to make Skill vtterly of no vſe to him. For the geſture of the body vpon ſuch a danger, will naturally fall into thoſe motions that it hath got by practiſe.
+               So that skill to euery reaſonable man is ſomething a friend. But when it is entertained by one naturally of a good temper, it can by no meanes fall vnder any of their Obiections that diſpiſe it; for ſuch a man brings no more fury, nor leſſe aſſurance with him into the Field, then the Schoole, and therefore will haue as much aduantage of an ignorant man in fight, as there is difference betweene them in practiſe.
+               To exemplifie this, you may
+
+read of one Coranſo, a Noble man, who from two and twenty Duelloes returned Conquerour: Being demanded the reaſon by ſome that conſidered the equalitie of his aduerſaries in ſhew, and the vncertaine chances of the field: hee anſwered, Strength, Length, Courage, Temper and Cunning. So he concluded Nature in Art, and attributed the managing of thoſe parts hee was borne with, to the abilitie of thoſe hee was taught.
+               Since therefore that the Science of Defence is vnderſtood to be a profeſſion of vſe, it followes to examine the defects of Teachers, and to reſolue vpon the worth of the knowledge: which followes immediately after our Definition.
+            
+            
+               
+               The Definition of the Science of Defence, with the parts thereto required.
+               
+                  THE Science of Defence is an Art Geometricall, wherewith the body is guarded with a ſingle or double weapon from wrong of the Offender, or the greateſt diſaduantage of his Offence.
+               The Parts thereto required are Strength and Iudgement.
+               
+               Vnder Strength are comprehended ſwiftneſſe of motion and quickneſſe of Eye: where abilitie is without perfection of theſe, it is but a ſupply of defects, drawne from the Iudiciall part or Iudgement.
+               
+                  Vnder Iudgement fall the conſiderations of Time, Place, and Diſtance.
+               
+               It hath ſeemed to many that there is no certainty in this Science, which granted, it muſt loſe his tytle; in whoſe behalfe wee cannot but with great reaſon auerre, that as the body is punctuall, ſo it hath a iuſt circumference in the hands and feet, which to defence and ſafeguard thereof, runne in an equall line, which extended with ſtrength in a iuſt proportion, make the body the ſame as the Poynt is in Circle, vntoucht or impoſſible to be violated.
+               To them that obiect Example againſt Knowledge, in that none or few, haue euer attained this height of aſſurance, I can make no other anſwere, then argue from their owne Schoole, and ſay, that none
+
+or few, in diſputation, euer gaue ſatisfaction without ſome doubt, therefore Logicke is no Art of true diſputing. True it is, all Arts and Sciences haue their iuſt and abſolute bound, to which though in the ſpeculatiue part or Theorie, many haue arriued, none euer did in practiſe. Since as in thoſe of words, many ſubtilties and nimble inuentions oppreſſe and wreſt the beſt expoſitions: ſo in thoſe of exerciſe of the body, the inequalitie of place, as the ſlipping of ground, dazeling of ſight, many times diſorder the beſt and ſureſt way of Defence and Knowledge. Wherefore though by the weakneſſe of mans caſuall nature, wee can promiſe to our Scholler no poſitiue ſecuritie, yet the imperfection in the learner, makes the Art no whit leſſe certaine or ſingular.
+               
+                  To thoſe that reiect the Science, becauſe they cannot promiſe themſelues ſupreame excellence, is to reiect the ſtudy of Phyſicke, becauſe hee cannot be a Galen, or a Paracelſus; or if any ſhall from the fall of ſome man of the ſword (as our word men tearme them) by the vnskilfull arme of ſome rude aſſailer, contemne our inſtruction, I would haue ſuch a youth turne Muletor, becauſe Ventidius that rubd Aſſes, came to be Conſull, and Valerius Cato the Grammarian became a hackney-man: Fortune not Science herein is to be blamed.
+               Notwithſtanding, that the excellence of this Science may not want Example; I cannot forget the memorable perfection of the two Romanes Bythus and Bacchus, who hauing fought eighteene ſeuerall Combats or Duelloes, returned
+
+both without hurt, and at the laſt were both, at one Paſſage, runne through and ſlaine, leauing no place to Iudgement, that could giue preeminence to eyther: wherevpon it became a Prouerbe in Trials of equalitie, B
+                        •
+                     thus contra Bacchum. But I haue digreſt too farre In magnis rebus voluiſſe ſat eſt; In high matters it ſhall ſuffice to ſit in Phabus Chayre, though wee cannot runne his full dayes iourney: wherefore wee returne againe to handle the parts deriued, which make to approue our Definition; the Eye and the Foote.
+               
+               That which wee call Strength, is not onely a Bucke-beating abilitie of the arme; for the point, to which all vſe of weapon is now with great reaſon reduced, is not ſo blunt but ſmall force makes it enter: neither in Longe or Paſſage is the force
+
+required ſo much as ſhift of body, to which the Eye muſt like a faithfull Centinell giue warning, and the Feete nimbly giue performance: for if the Eye faile in perceiuing opportunitie, or the Feete in taking it, in vaine is the force of arme: on theſe two then we ground Abilitie, to which the Iudgement giues the crowne or conqueſt.
+               Now for Iudgement, as wee ſaid before, Time muſt be obſerued when, Diſtance where, Place how. Occaſion of Time and Diſtance may ſeeme faire to the eye, yet the Place may iuſtly barre it. As where open way is giuen to a Paſſage with aduantage, the incertaintie of footing may caſt you too forward, and diſorder your weapon by vnſetled motion. Againe, Place and Diſtance may both draw you on, yet Time may promiſe by letting ſlip that
+
+occaſion, ſome opener way to greate aduantage: for vpon euery ſleight 
+                     •••
+                  ing of the arme, it is better to make offer of hurt to that pa
+                     •
+                  the
+                     •
+                   our home for ſuch prof
+                  
+                     •
+                   many times drawes the aduerſary to a Guard, that neglects a 
+                     〈◊〉
+                   of more deadly danger. Laſt
+                  
+                     •
+                   
+                  
+                     
+                        •
+                     m
+                        •
+                     
+                   and 
+                     
+                        •
+                     ac
+                        •
+                     
+                   may both ſucceed to your wiſhes, yet Diſtance 
+                  
+                     〈◊〉
+                   
+                  
+                     •
+                  uſtly checke your reſolution: 
+                     〈…〉
+                   obſeruation more then 
+                     〈…〉
+                   the Iudgement required, which being from our purpoſe to ſet downe i
+                     •
+                   figure, I referre you to the laborious worke of Gio
+                        •
+                     an de Graſ
+                        •
+                     
+                   the Italian, who handles this 
+                     •
+                  o
+                     •
+                   a
+                     •
+                   large and hath tooke vp much ground in the expreſſion thereof.
+               Thus much for our ſpeculatiue 
+                     〈…〉
+                   Science, wherein I know 
+                     〈◊〉
+                   
+                  
+                     •
+                  a
+                     •
+                   diſagree with me which
+
+I could not omit to ſet downe, becauſe it makes to the honour of the worthy Profeſſors of this Science, whom I deſire the courteous Reader by no meanes to imagine that I am ſo ignorant to meane, where any queſtion is made of their ſufficiencie in this Booke: for I dare boldly affirme, for generall Weapons no Country can afford more able and ſufficient profeſſors then this our owne in their performance; whoſe teaching I will not diſpraiſe, if it come not within compaſſe of theſe following Taxations, which by way of Objection and Reſolution, I preſume, I haue made apparantly worthy of cenſure to all indifferent practiſers.
+            
+         
+         
+            
+            The Defects of the Teachers of 
+                  
+                     •
+                  cience
+               ▪ diſcouered by way 
+                  〈…〉
+                
+               the true vſe thereof ſet downe in the Re
+                     •
+                  tion.
+            
+            
+               OBIECTION I.
+               
+                  MOſt of the common Teachers vſe but one forme of play, and teach all men alike without obſeruing the nature of the Scholler, whether he be of a hot ſpirit or a cold; or whether hee haue aduantage or diſaduantage in 
+                     ••
+                  n it ſoortneſſe, ſtrength or weakneſſe of arme or body.
+               
+                  
+                  RESOLVTION.
+                  HEE that ſhall teach a ſtrong man with a ſingle weapon to runne Paſſages with ſhift, takes from him the aduantage of his ſtrength, who ſhould eyther attend the Cloſe, or hauing length to his ſtrength, ſhould ſtanding offend to the neareſt, as in this Booke you ſhall finde vnder the title Order for fight. Or hee that ſhall teach a weake man ſingle weapon or binding Paſſage for the Cloſe of aduantage, forfeites him to a ſtrong mans mercy, though he hath much leſſe courage or skill. Whereby the defect in the Obiection plainely appeares, as in many other, riſing from this example.
+               
+            
+            
+               
+               OBIECTION II.
+               THE publike Teachers teach, at many weapons, as they giue it out in their Challenges, as though euery Weapon were vſed with ſeuerall Guards and Defences, one contrary to another.
+               
+                  RESOLVTION.
+                  THis is meere deceipt, to blinde the eyes of their ſpectators in publicke, as they doe their Schollers in priuate: for all mentioned in the defect are contayned in two weapons, that is ſingle Rapier and Quarter-ſtaffe, and their defences, as you ſhall finde in the rules of Practiſe.
+               
+            
+            
+               
+               OBIECTION III.
+               THey teach all men to lye at a ſetled guard with their whole breſt towards their enemies, and doe likewiſe make them truſt to a Daggers defence.
+               
+                  RESOLVTION.
+                  TO giue the whole breſt, when the more thin the body offers it ſelfe to the offender, the more free it is from being hurt, is no leſſe abſurd, then if they ſhould teach only to guard the head, &amp; leaue the breſt open: for of dangers chooſe the leaſt. Laſtly, for defence, he that truſts to his Dagger, cannot poſſibly at that inſtant offend with the ſame. And there is no ſurer principle then this; there is no good defence without offence: neither good
+
+offence without defending, which ſince onely the Rapier or Sword can moſt certainly doe, the mayne of both muſt neceſſarilie be caſt vpon them.
+               
+            
+            
+               OBIECTION IIII.
+               THE publike Profeſſors of this ſcience, teach nothing at Backe
+                  
+                     •
+                  w
+                     •
+                  d, and Sword and Dagger, but the have blow.
+               
+                  RESOLVTION.
+                  IF the point beates the blow in fight as leſſe ingaging him that proffers a thruſt, then him that offends with edge, which I know and they cannot deny, it is as much preiudicial to their Schollers, to teach them the bare blow at Sword and Dagger, as if they ſhould teach at hapier onely to thruſt and not diſorder:
+
+the neceſſary vſe whereof you ſhall finde in the next Reſolution.
+               
+            
+            
+               OBIECTION V.
+               IN ſingle Rapier, and Rapier and Dagger, they teach all their Schollers as they call them, Stucks, otherwiſe Longe, to throw them into hat without diſordering their aduerſe Rapier: and doe likewiſe teach Paſſages, to runne them right forward vpon their enemie.
+               
+                  RESOLVTION.
+                  TO my knowledge there is no offending Longe, otherwiſe Stuck, vpon any man, with any ſafetie, without diſorder: and no Paſſage that is done without ſhift, can be without great danger.
+               
+            
+            
+               
+               OBIECTION VI.
+               THey will ſuffer their Schollers to ſee one anothers practiſe, and likewiſe they themſelues will diſcouer euery mans play to any man.
+               
+                  RESOLVTION.
+                  TO let any man ſee anothers practiſe, giueth much aduantage to the ſpectator, and is much preiudiciall vnto him whoſe practiſe is ſeene: and moſt murtherous and damnable in the Teacher to betray their owne Schollers to death.
+               
+            
+            
+               OBIECTION VII.
+               THey will ſeldome or neuer fight in the ſame guard they teach others: nor ſo much as hold the ſame
+
+guard good to morrow they vſed yeſterday.
+               
+                  RESOLVTION.
+                  THeir knowledge is accidentall, not materiall, they haue ſome generall notions, which (wanting Art) they cannot reduce to heads and principles: how can hee then be conſtant in one guard, that cannot ſet downe any for beſt, and yeeld a reaſon thereof?
+                  Hence it comes that I was taught more in a weeke by an vnderſtanding Artiſt, then I could learne in ſeauen yeares practiſe in publique Schooles. And if any of their Schollers happen to be excellent, it proceedes rather out of their owne wittie and induſtrious obſeruance vpon the accidents of practiſe, then from any certaine demonſtration
+
+of their Teachers.
+                  Conſidering all theſe aduantages and diſaduantages, let euery man make his owne Practiſe priuate, and with thoſe hee may haue no cauſe to deale withall: for their nice trickes in Schooles, or Playerlike fights at many Weapons vpon Stages, are mere ſhadowes without ſubſtance. Therefore let Art and Nature be ioyned in one.
+                  
+                     Order in fight.
+                     THE managing of a Quarrell is halfe the performing thereof, let euery man be rather Defender, for hee hath the aduantage of the Offender in choyſe of Weapons. Let him if hee bee ſtrong make choiſe of a ſingle Weapon, eyther being a long Rapier, or a long Sword: for the Challenger hath therby the diſaduanatge of a ſtrong
+
+man; for hee cannot command his point to help his weakeneſſe vpon the Cloſe. Or likewiſe a Turkey Samatorie; for he is crooked, and hath a broad point that will not enter, and therein is the leaſt danger of all; and is much a
+                           •
+                        a feable for a ſtrong man for the Cloſe of aduantage to diſarme.
+                     Let him that is weake of body, and hath a ſhort reach, make choiſe of a double Weapon, being a ſhort Rapier and Dagger, or ſhort Sword and Dagger: ſo may he the eaſier command them to help his weakeneſſe; for he muſt keepe his enemie from the Cloſe. Therefore let him giue a little ground, for that will encourage his enemie (a ſtrong man deſirous to cloſe) to come forwards. Then is your Paſſage, or Croſſe-Paſſage with ſhift vnexpected: or if he hath length and not
+
+ſtrength, let him offend to the nigheſt parts, otherwiſe anſwere.
+                     Likewiſe if a ſtrong man be offender, and hath a long reach, let him offend at length to the nigheſt part, or elſe to ſeeke for the Cloſe of aduantage as aforeſaid.
+                  
+                  
+                     To help the length of a ſhort man.
+                     IF a weake man be offender hauing a ſhort reach, let him runne Paſſages vpon his enemie, with as much ſhift of body as he can: Shun the Cloſe; for if hee ſeeke to hit at length, hee giues aduantage to his enemie to hurt him; for his enemie hath aduantage at length by reach, and aduantage of ſtrength vpon the Cloſe, or if hee be ſtrong though ſhort of reach, let him make choyſe of a ſingle Weapon to diſarme.
+                  
+                  
+                     
+                     To help the ſtrength of a weake man.
+                     THree things help the ſtrength of a weake man: change the point when the aduerſe ſeekes to take it; change backe to recouer it; or elſe open your ſide, and then it is not well to be taken.
+                  
+                  
+                     A good Guard
+                     IS hee that lyeth with the right ſide as thinne as hee can, towards his enemie, and the point no higher then the ſhoulder, truſting to your Rapier or Swords defence; for thereby your enemie hath little roome to hit, and you the leſſe to defend. And alſo a good guard diſcourageth the enemie to offend, and is ready alwayes to defend. He that dazels much neuer defends well: for if you offend when hee
+
+                        
+                           〈◊〉
+                         be can neyther certainly de
+                        
+                           •••
+                         himſelfe, 
+                           〈◊〉
+                         offend you
+                     Hee tha
+                           •
+                         doth practiſe many guards is moſt commonly con
+                        
+                           •
+                         
+                        
+                           〈◊〉
+                         none and i
+                           •
+                         
+                        
+                           •
+                        ight that behooue one moſt to be conſtant in a good guard▪ and ſlow to put out without great aduantage: for hee 
+                           〈◊〉
+                         offends is thereby the eaſier 
+                           〈◊〉
+                         and if you offend vpon one 
+                           〈…〉
+                         his guard offend to the higheſt part for them you may goe 
+                           〈◊〉
+                         of and if you offend to the other parts that lyeth further of your offence is flow, and moſt common paſt recouery, if it doe 
+                           〈◊〉
+                         or not, for a hapier enters, and 
+                           〈◊〉
+                         at the 
+                           •
+                        oyie doth, helpe 
+                           〈◊〉
+                         offender of againe, but rather 
+                           〈◊〉
+                         himſelfe.
+                  
+                  
+                     
+                     Principles belonging to Fight
+                     STay no longer with
+                           ••
+                         
+                        
+                           〈…〉
+                         your enemie then you are offending.
+                     Offend alwayes vpon the aduerſe comming forward.
+                     In offending goe off with your weapons point ſtraight 
+                           〈◊〉
+                         your enemies breſt, for then you are 
+                           〈◊〉
+                         wayes ready to defend your ſelfe▪ and offend your enemie.
+                     Many trickes doe too much trouble the minde: know 
+                           〈◊〉
+                         
+                        
+                           ••
+                        e few; three defends the whole.
+                  
+                  
+                     Rules of Practiſe.
+                     THere is but three defences 
+                           〈◊〉
+                         ſingle weapon.
+                     
+                        1 Longe.
+                        
+                        2 Paſſage.
+                        
+                        3 Change backe 
+                                 〈◊〉
+                               
+                              
+                                 〈…〉
+                               them backe to your guard.
+                        
+                     
+                     
+                        And likewiſe three Offences.
+                     
+                        1 Diſorder Longe.
+                        
+                        2 Diſorder Paſſage.
+                        
+                        3 Your binding Paſſage for the Cloſe of aduantage.
+                        
+                     
+                     The Dagger helpes the Rapier eſpecially in two things in Offence.
+                     
+                        1 Paſſage.
+                        
+                        2 Croſſe-Paſſage.
+                        
+                     
+                     And two in Defence.
+                     
+                        1 When the Rapier bindes high, the Dagger bindes low.
+                        
+                        2 Or when the Dagger binds high the Rapier bindes low.
+                        
+                     
+                     The chiefeſt way to force a man to good practiſe for play or fight, is to make him maintaine a ſingle weapon againſt all aduantages.
+                     Firſt, let him learne ſingle Rapier then to maintaine ſingle Rapier againſt Rapier and Dagger; and likewiſe againſt Sword and Dagger: and laſtly, to maintaine
+
+ſhort Sword againſt all the aforeſaid aduantages.
+                     I haue concluded my rules of Practiſe, and the whole Booke, with the moſt neceſſary inſtruction belongs to this Science, and the leaſt obſerued in Schooles, which is the maintaining of Defects: this being the ſcope and true end of our skill, to help the weake, wherein the ſtrongeſt ſhall alſo confeſſe himſelfe to want this knowledge, if he conſider the vſe thereof in accidentall quarrels, which cannot be denied much to exceede occaſions for the field: for ſuppoſing himſelfe incident to ſodaine on-ſets, how is hee prouided with his wearing weapon, being for the moſt part, a ſingle Rapier or ſhort Sword, to defend himſelfe from the aduantage of a Sword and Dagger, Rapier and Dagger, or Halberd? whereas by practiſe
+
+againſt this vnequall oppoſition (as in the Chapter before preſcribed) he ſhall finde himſelfe enabled not onely for defence in this extremity, but alſo may offend his aduerſarie, as I haue ſeene vpon the publique Stage, a ſingle Rapier moſt ſhamefully foyle both Halberd and halfe Pike. To adde to this ſupply of defect, I would haue a man wanting one hand, or one eye, by practiſe, to helpe his imperfection: or being lame in both armes, with his feete and ſhift of body, to cleare that defect (all cunning in this Art conſiſting more in feete then hands.) Further, ſhould one be lame in feet hauing eyes and armes, I would haue him practiſe thoſe Weapons and Guards may beſt perfect his condition, being neyther able to purſue nor retyre. This I could expreſſe, being a man my ſelfe defectiue,
+
+but that act and demonſtration, not words, muſt make this apparant, wherein I referre my ſelfe to iudicious tryall, concluding with an Anſwere to one Obiection, that will ariſe from meaneſt vnderſtanding, being this.
+                     Why ſhould ſo few of our Fencers ariue to this knowledge, or to no more height of doing, then this diſcouery of their defects hath manifeſted?
+                     I anſwere, theſe two conditions muſt concurre to make a Fencer abſolute, Art and Nature; now for Art examine the equalitie of thoſe Vſhers our Maſters brings vp, you ſhall finde moſt of them Butchers, Byt-makers, Shooe-makers, or Truncke-makers, men envred to the hide, rather able to bear blowes then auoyd them. Whence wee ſee a Gentleman or Artiſt, who can reduce
+
+knowledge vnto rule, in ſmall time out-goes his Teacher hauing both Hands, Art and Nature, his Schoole-maſter wanting one, and many times both of them. Not that this my taxation reacheth to all Maſters of Defence: for I haue ſeene ſome, whom I muſt confeſſe to be both knowing and able, who deteſt our commonly applauded, rude, and buffeting play: whoſe Iudgements will be as far from deprauing mee or my worke, as I ſhall be from the leaſt enuy towards them, whom I confeſſe much worthy of eſteeme and reward.
+                  
+               
+            
+            FINIS.
+            
+         
+      
+   
+

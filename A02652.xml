@@ -1,0 +1,798 @@
+
+   
+      
+         
+            Vlysses vpon Aiax. Written by Misodiaboles to his friend Philaretes
+            Misodiaboles.
+         
+         
+            
+               1596
+            
+         
+         Approx. 81 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2004-03 (EEBO-TCP Phase 1).
+            A02652
+            STC 12782
+            ESTC S103777
+            99839522
+            99839522
+            3951
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A02652)
+            Transcribed from: (Early English Books Online ; image set 3951)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 321:08)
+         
+         
+            
+               
+                  Vlysses vpon Aiax. Written by Misodiaboles to his friend Philaretes
+                  Misodiaboles.
+                  Harington, John, Sir, 1560-1612.
+               
+               [80] p. : ill.  
+               
+                  [By R. Robinson?] for Thomas Gubbins,
+                  Printed at London :
+                  1596.
+               
+               
+                  Misattributed to Sir John Harington; in fact a reply to his: A new discourse of a stale subject, called the metamorphosis of Ajax.
+                  Printer's name conjectured by STC.
+                  Signatures: A⁴ B-E F⁴.
+                  The last leaf is blank.
+                  Reproduction of the original in the Henry E. Huntington Library and Art Gallery.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Harington, John, --  Sir, 1560-1612. --  New discourse of a stale subject, called the metamorphosis of Ajax.
+            
+         
+      
+      
+         
+            2003-04
+            TCPAssigned for keying and markup
+         
+            2003-05
+            Apex CoVantageKeyed and coded from ProQuest page images
+         
+            2004-01
+            Judith SiefringSampled and proofread
+         
+            2004-01
+            Judith SiefringText and markup reviewed and edited
+         
+            2004-02
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            VLYSSES vpon Aiax.
+            Written by Misodiaboles to his friend Philaretes.
+            Printed at London, for Thomas Gubbins. 1596.
+         
+         
+            
+            
+            Misodiaboles the worshipfull, to Misacmos the right worshipfull.
+            
+               
+                  MIsacmos, I haue spent 3. daies in idle houres, to examin the months of your meditations on a lothsom Aiax, and I finde them so vnsauerie, as it is impossible for you to be a sauer by thē: your pen hath dropt excrements, and you cannot wipe them cleane with your witte. Alas, that so long filed, should so filthily be defiled: you haue spent labour without reason, and are seene for a spectacle of follie, to those that cannot see without their spectacles.
+
+Because the world laughes, you thinke it applaudes: but the most part that outwardly smile, doe inwardly pitie. A good wit, and a grosse subiect, so much I allow you: but if your ambition must needs clime, it is more comely in a courteors habite, then in a fooles antique. That I see your imperfections, I make your selfe iudge: that I pitie your errours, my sparing reproofe may assure you. That I am ambitious as your selfe, I protest it, with discretion: yet it greeues mee that two good wittes should wrestle for a dunghill. Come come wittie Misacmos, ouerlooke howe I haue lookt ouer you. If this Aprill shower clense you, I will forbeare the tempest. For as I am a Germane in nature (who hate detractions) so can I be both a Molossian &amp; Melitean dog, as occasions are offered me. Would Misacmos be famous? why I yeeld him
+
+the meanes: he is a courtier in regard, I a courtier in hope: he riche in ancient demeasne, I in good demesne: he sprightly and wittie; I diligent &amp; pleasant: a ladie blest his children, and God and our Lady my Lady mothers sonnes: he a Lincolnes Inne man, I belonging to Lincolne. If any oddes be, he hath the interest of mony, I of Rea ding. Nowe sir: if from the meanes of a priuie, he will become a publicke gentleman, after this assault, let him burie his Aiax in a dunghill. Then perusing his bookes, walking in his sute of Abrizetta, eating fat Capons, &amp; Venison, and drinking pure hypocras, let him make election of his readings, and chuse out a probable Subiect, haue with him from a fart, to all artes, I refuse no encounter: let vs iest like gentlemen, argue like schollers, be pleasāt without 
+                  •…
+               ailing, that good wittes may gather treasures from our
+
+trauels, &amp; our selues eternitie by well deseruing: If you rise by my fall, I thinke my fall happie to make you rise: and if it be your destinie to sincke in the incountry, though the desert be wholy mine, I giue you the half of the glorie. If Aiax were the froath of your wit, let it die, as to weak for my forces, and if one Cullis of conceite be left, yet play not the gormand, let the world haue parte with you. Take the choice of the weapon, I offer euery aduantage: if you wil striue in wit, I am merrie without detraction: but if you play the scolde in steede of a scholler, I protest it will greeue me: for I know the Eccho of my wrongs will make double report in your eares: for renuing my disgrace, you may liue in your dishonors. Come, let's walke through Vertues temple, and so sacrifice to Honour: and if Romains obserued that custom, let Christians
+
+vse it. Otherwise, both of vs may say as the duke of Northumberland did to the lord Gray, as they rid through Shordich; The people presse to see vs, but none say, God speede vs, Pauca sapienti, I leaue you to your sops and muscadine. Protesting that if any offence come, it shall be by your seeking.
+            
+               Misodiaboles.
+            
+         
+      
+      
+         
+            
+            
+            
+               Misodiaboles and his opinion of Misacmos and his metamorphosed Aiax, written to his deere and learned friende Master Philaretes.
+            
+            
+               
+                  PHilaretes vpon your intreatie and in satisfaction of my promise, I haue perused Misacmos and his metamorphosed Aiax, and not onely pleasantlie ouerlookt it and laught at it my selfe: But also communicated and commended the worke to the censure of many learned and discreete gentlemen; who (to be plaine with you) after they had red and conceited it, thought Auban: lib: 1 ca: 6. de omni gent. rit. &amp; morib. it worthy no better vsage then the brides haue among the Nasamones a people of Africa, who the first day of their mariage are both vsed, abused, and defiled
+
+by all the guestes and straungers that accompany the festiuall. One said (as Apollidorus did of Chrisippus workes) that if other mens sentences were taken out of his booke, the rest would be fit for nothing but wast paper. An other that he Bouchet au 3. Seree. had plaide as mad a prancke as the malcontented fish wife in Bouchet, who vnder pretence to shame others that had shrowdelie angred her, turnd vp her naked taile in the market place to shewe the dominicall letter B in her buttockes. An other said that as (according to Aubanus) Aethiopia was moūtainous toward Auban lib. 1. cap: 4 Horace. Mou
+                     •…
+                   corn
+                     •…
+                   cula risum nudata furtiuis coloribus. Plin. cap: 21. lib. 
+                     〈◊〉
+                  
+                the west, sandie in the midst; and desert in the east: So this booke was full of ostentation and protestation in the ende, barraine in the middest, and dull in the beginning. Another compared it to Horace crow deckt with many sethers. An other to the herbe Ferula which is onelie a pleasant foode for asses, but a poyson to all other beastes. There were some that said that Misacmos wit was lighter then Archestratus bodie: yet Mercurial: lib: de decorat: cap. 8. both Aelian and Atheneus say this of him; That beeing taken by his enemies, and wayed in a ballance, he
+
+and his prophecying spirite were lighter then a halfpenny. All which iudgementes as I commend them not for true, so I condemne them not for false, but onely leaue them to his defying, and defyning, who woulde faine sweeten A
+                     •…
+                  iax by his wit and authoritie. Touching mine owne opinion (because you expect it, and the worlde may throughlie knowe it) I will obserue Platoes lawe in it, and so apply my woordes to the subiect, that I may rather seeme an apt and modest pleasant in writing trueth, then a foule mouth Criticke in reprouing bitterlie, (not beeing vntaught Gregor. in Ezechiel: lib. 1 Homel. 21 Ecce hoc est magisterium disciplinae, vt culpis &amp; discrete 
+                     •…
+                  ou erit parcere, &amp; pie resecare. by Gregorie descreetelle to spare, and aptlie to reprehende offences): Yet woulde Philaretes shoulde knowe, (because these times expect it) that as I will forbeare 
+                  〈 in non-Latin alphabet 〉
+                and detraction as a faulte; so (in as much as the obscenitie of the subiect will suffer me) will I obserue 
+                  〈 in non-Latin alphabet 〉
+                (pleasant and scholler-like vrbanitie) which was admitted amonge the Grecians, and commended in Cicero.
+            
+            
+               
+Thus therefore in shorte touching this mouldie Metamorphosis: It is an affecta tion of singularitie; a fruite of discontent; a superfluitie of wanton wit; a madding with reason; a diligence without iudgement; a worke fit for Volumnius the iester not Misacmos the cour teour. In forme contrarie to all rules of science: In matter vndecent, filthy and immodest: and touching the authorities, they are so weake and so wrested, as no chast or christian eare may in reason endure them, which if I prooue not by reason as I professe in wordes, let Philaretes disclaime me for his friend, and Misacmos shake hands with me for a fool; This is faire play my masters whē I vse friends with this equality. Touching the forme, Perseus scarre sits in Misacmos forehead; Scal. lib. poet. 3. cap. 98. 
+               Ostentat obstrusam eruditionem, he labors to shew much reading &amp; profound learning: and beside that is too formall which is no lesse grace in him then it was in the Nun who (to couer her naked top from two Friers whome she let into her monestarie) hastely discouered her tayle, cum multis alijs quae nunc perscribore longum est. Shal I rip vp obscenitie in words
+
+as filthy as euer Iuuenal vsed? shal I say that in detracting, and taxing sinnes, he instructeth them? ah las no, the world sees it, and as the welch man said of the Comedie before the Queene, I laugh, my cosen Peter laugh, Dauie ap Powell laugh, and the Queene laugh, what a Hysteron Proteron is heere to shewe the laughing at a forc't follie, a dull iest, and his idlenes? Well on afore (quoth Susembrotus. the procession) hold vp your torches for dropping, we shall haue more mirth at our next meeting. Where left I? at the stoole? no let Misacmos see to it, it was in the forme, so so now let vs descend to the subiect: Subiectumcirca quod, subauditur Aiax. Then Aiax is the subiect: In good time say, but which Aiax I pray you, was it that Aiax Telamonius, who wonne honour by his courage, and madnesse by his discontent? whose mind too greate for his fortune, made his passion too strong for his reason? Toto erras coelo, he hath no neede to be so mannerlie. Oh I conceiue him, I conceiue him, he abhorres Aequiuocations it is a iakes in deede that he meaneth without all sauing your reuerence: Who perswades
+
+him to this Paradox? Tarletons authority, and his cousens incouragement.
+            Goe to, the first diede; a foole for his labor, the next may smell of it while hee liues, and howsoeuer Misacmos sturre him in the seruice, it will bee but a stincking sturre tho hee sturre whilst he stiffle. I, but manie haue writte of worse subiects, and whie not hee of this? A good reason, learnt bee that conclusion in Cambridge? Faith it shall neuer doe him credit, no more then did the Curates Argument, who applyed the authoritie of his Horse against those that denyed purgatorie.
+            Fie fie, who knowes not this, that an euill custome is no instance for an other to follow it? and that it is too weake an answere in a wanton, to excuse her selfe by saying, forsooth my mistresse taught it mee? Men are richest in infirmitie, and weakest in foresight, apt to entertaine priuie pleasures, ignorant to reforme them, who therefore limiteth his studdies by others industries, and
+
+rather obserueth what othermen doe, then what hee ought to doe; rowleth Sisiphus stone to his owne miserie, and is foolishlie diligent to register his owne infirmities.
+            A las alas hath the good gentleman no friends to tell him this, that it is better to suffer a few surfit in their owne sinnes, then for him to communicate with them in their courses, causes and shame? I will talke with his friend, &amp; mine, (the Chaplain of Lincons Inne) about this poynt, and he shall informe him.
+            Now sir, what is next? The petiagree of Aiax, preuented with the authoritie of Rabbelais, (a condempned Athiest by the last counsaill of Trent) and some course fictions (as filthy as Iyllyan of Braindfords fartes,) wherein (as the vomitte of a corrupt and enuious minde:) Holinsheds Chronicle hath a quippe, and Hale the olde Counsailer hath a lie for his labour. Well well, it were good Misacmos considered this of Plautus. 
+               Plaut. iu Bacaludib.
+            
+            
+               
+                  
+Eia Lide leniter qui saeuiunt sapiunt magis. Plaut in Bucaludib. Mercurial. lib. de deco. rat. cap. 8.
+               
+            
+            The bush that lente him a thorne to pricke them, wil aford a thousand to gaul him, except he be as fat as Nichomachus of Smirna, who could not feele a pinne thrust into his buttocks, or stirre nor touch his backe partes he was so grosse in the belly. To the petigree the petegree, for there is the misterie (the miserie Il a trouue le febue au gaste 
+                     •…
+                  u. I should say, and the sruite of much idlenesse:) Stercutius or Saturne the great grandfather: how prooue you this? he first brought vp in Italy the dunging and mannuring of earth, Ergo he is grandfather to A-iax: I denie the argument. By whome shall it be tried? by the olde Tusean husbandmen at this day, and those in Romagna and about Rome, who being taught by Saturne the trimming of their vines, haue likewise learnd to fatten their mould by burning them after the time of their vintage: Would not this puzle Misacmos inuention Philaretes if it were well followed? He is a Lincolns Inne man, a towarde fellow, Rafe Wilbram the pleasant witted Barister knows him, and for his sake in perpetuam hominis imbecillitatem (memoriam, I shoulde
+
+haue said) I remitte it. On a gods name, Quidnouarum rerum, what new matter followeth? Lies worse then Lucians, which beeing affected are more ill fauoured, and howsoeuer he vnderstande Omne verbū otiosum quod lo quutifuerint homines, &amp;c. them, he shall not be able to stand vnder them: Verba otiosa, idle wordes, which (if the Apostle faile not) must be soundlie answered for; not spirando ambitionem in a latine stile, sed lamentando incuriam, before a seuere iudge. Songs worse then the Priapies of Virgil forbidden by Plato in his fourth booke of lawes, and by the lawe of the twelue tables condemned amonge the Ethnique Romanes; A songe not lesse filthie then that Tertulian in Apologia Eusebius, Nicephorus li. 1. Ciril. epi. 20. 6 inter epistolas Augustini. Gregories limitation of the defence o song. which the Pagans vsed in the primitiue Church, or more prodigious then that for which Cirils kinseman was condemned to hell fyre: A song wherein wordes are idle, wanting both rationem iustae necessitatis &amp; intentionem piae vtilitatis, the reason of iust necessitie, and intention of godlie profit. Whats the hymne? Sutable absurditie to the song; a preposterous shewe of reading, where notwithstanding there appeareth
+
+some error, (in deuiding Aetius the heriticke from Atheos,) if auncient and ecclesiasticall histories may be beleeued. Touching the Etimologies of Aiax, what thinke you of them? Faith they are triuiall, the froth of wittie Iohn Watsons idle iests, I heard them in Paris 14. yeares agoe: besides, what balductum play is not ful of them, as this? Nose quasi no hose, Capon, quasi cap one, I woulde Misacmos would be couered: who liues not could not ad more if he made profession to be idle. Rumsey, my Lorde of Pembrokes Iester is ful of them, if Misacmos want coppie, he will instruct him. For his friend Philostilpnos, (with whose name he endeth this vnsauered induction) I would faine knowe his godfathers to chide them for his bringing vp: for he hath raysed vp a sent) by his incouragement) farre worse than the Popes legate, who brought the laste Iubile into France; who fearing the Pages, who by custome bustled about him to deuide his Canipie, and suspecting Treason among them; so dainelie layde that you wot of in his britches, enough I warrant you to feast Aiax for one meale
+
+if he were a hungrie. I am thus pleasant contrarie to my custome, to let Misacmos know his owne counterfait in my Plut. Tom. 1. in vit. licurg. fol, 118. glasse, vsing therein the customes of the Spartanes, who (to bring their children in hatred of dronkennesse,) caused their slaues to drinke greate store of wine, and in their presence to sing illiberal, and lasciuious songs, &amp; vse antique &amp; filthy actions, knowing that example as it breedeth incouragement, so it yeeldeth and inforceth shame. Thus much for this Philaretes, now descend wee to the rest.
+         
+         
+            
+            Misodiabolês examination of Misacmos authorities, and argumentes.
+            
+               
+                  
+                     1 Wherin he findeth scriptures abused prophanely,
+                     2 Learned men reproued vniustly,
+                     3 And obseruations imployed wickedly. Sic tres sequuntur tria.
+                  
+               
+            
+            NIcke Beomond (a wittie and pleasaunt gallant) being one day inuited to a rich gentlemans table, who tooke delight to heare himselfe speake, perceiuing manie matters begunne by him, and no man suffered to answere, at last (with a knocke or Aut Tussi, aut crepitu, a man may fart by authoritie of Erasmus. a hem to make the thing mannerlie) he let me a rounde cracke that was hearde throughout the companie, which the host stomaking and the rest merelie laughing at, tut tut saide he (to the gentleman) you must not be angerie, for if you will not heare vs at
+
+one ende you shall not chuse but both heare and smell vs at the other.
+            In like sort (if not lesse clenlie) doth Misacmos handle the world, who perceiuing some his precedent workes eyther by wisedome obscured, or reason contemned; his Ariosto bawdie, condemned by a counsaile: his translation barrain &amp; seruile (such as Horace disdaineth) seeing the worlde so full of Horat. lib. de. art. poet. Nec verbum verbo curabis reddere fidus Interpres marke this Misacmos. good wittes generallie redde and applauded, and himselfe so vnworthie as he cannot be hearde; in a malcontented humor in steade of a wittie treatise, hath turnde me out to light his vnsauored Aiax; which howsoeuer cloathed like an ape in purple (as he himselfe confesseth) and perfumed with his iestes (which would make a man smell though he were of Alexanders complexion) is worse and more stinking then Beamondes fart (by three ounces of Troy waight) though himselfe holde the ballance and poise them. For which cause howe happie had he beene, if in steede of Cloacina, he had honoured and sacrificed to Numaes goddesse Tacita, since Plutarch To
+                     •…
+                   in vita Nume:
+               
+in his silence he had proued wise, where in his discourse hee is condemned for inconsiderate: And in him rightlie appeareth the miserie of the curious, (and the marke of follie, whereby men were signed after Adams fall,) who byting his fingers, beating his braines, loosing his repose, and scantling his repaste, to attaine an opinion of deserte in the worlde; hath condemned himselfe, in censuring others, gathered a handfull of euill winde, to loose it in a breath of shorte life, beeing sure to leaue nothing eternall after him, but his ambition without measure, his enuie without reason, and his labour without fruit: which that your iudgement may apprehende, as my wordes doo expresse it, consider wiselie what I write, whilst I sette downe faithfullie that which I haue Grego. in Izechi. lib. 1. 
+                     •…
+                  o. 7 considered.
+            It is Gregories opinion that a good worke muste haue discreete eyes: And Scaliger thinkes it is
+
+the better halfe of the felicitie in a poeme to haue a good subiect: for who so imployeth his witte to inuente, and his penne to set downe, a friuolous matter in good woordes, fareth like yoonge children, that score out their castle in the sande, which are defaced with euerie breath of winde. Witte, and follie drawing in a yoake, reasons chariotte is ouerturned; and a curious workeman caruing a knottie timber, shall haue toyle withoute ende, for his election without Iudgement: A croopt shoulder is a blemmish howe soeuer it be boulstered, and who paintes an olde face, shall hardlie hide the wrinckles.
+            Such a subiecte is onelie sitte for a vertuous and learned Misacmos, as in his owne naked perfection (like Architas the musitions Lute) can speake for his owne Maister. Doth not hee wante election that in a whole fielde of corne pickes out one cockle to laboure on? and
+
+wants hee not discretion, that hauing a whole field of vertue before him, Phylosophies of either kinde, sciences of greate obseruation, wordlie casualties to merease iudgement, alteration and disposition of pollicie (an excellent subiect) had rather with Daphidas be held a rayler, with Menedemus a seller of tryfles, with the fooles of the worlde, a looser of time; then with the lerned Timon. de Mened. Ille supercilium tollens &amp; vendere nugas &amp;c. of his coate, an honor of his Countrie? Ah las for this man, who taketh glorie to boast of that filthinesse which brute beastes (by naturall instinct) after they haue purged themselues doe couer. What iudgement hath this man that striues to finde a lawe of reason, against the law of reuerence? Children disabled to helpe themselues, are notwithstanding taught by their nurses to giue modest warning; and those of discreete yeares (though neuer so vnnurtured) finde many necessities of nature to bee done, that are not plainely to be talked off. A circumlocution and a blush is sufficient to interpret a filthie necessitie, whereas hee that taketh pleasure in speaking that which infirmitie forceth
+
+or lust draweth him to doe, shall haue a tong worse then his tayle, though the worste of the tayle bee the T, with his complements: Shall I bee pleasant a while and trifle like Misacmos, and wax as impudent at he was that shewed his tayle to the Senate, Consuls, &amp; Pretors in iudgement? Not no neighbours not so, but as clenlie as wee can (quoth the maide when shee wypt her dishes with the doggs tayle.) What thinke you of this iest my maisters? giue your opinion of their clenlinesse. A certaine grocers wife walking through the streets, (and holding vppe her gowne behinde her, because the weather was durtie,) mette with a merrie companion; who desirous to laugh and be fatte, spurde her after his merrie manner this homelie question; Misteres saide hee I pray you sell me some of your spices whilest your hande is in the boxe. To whome she answered; (trussing vppe her gowne more higher;) Sir if you haue
+
+a monthes minde to them, put your hande into the boxe, and boldlie take them: Was not this more seemelie for her to answere then with Misacmos flatly to haue tolde all to her vtter discredit? What thinke you of this likewise? Did not the husband talke more seemelie, that saide an olde shippe is alwaies leakie, then if he had saide in Misacmos broad language) his wise had bepist the bed? I could tell you more as hee hath done (out of that most learned author the booke of merrie tales from whence his best iestes are deriued) but that as the olde Manciple of Brasennose Colledge in Oxforde was wont to say; There are more fooles to meete with.
+            
+               Lucius Catiline accused by Marcus, Cicero for raising a flame in the Citie, I beleeue it said hee, and if I Valerius: lib. 9 cap. 11. cannot extinguish it with water, I wil with ruine: Into the like intemperance is Misacmos falne, who hauing kindled a fyre of follie by publishing his
+
+filthie A-iax, since he cannot colour it with modestie, will countenaunce it with wrested or wicked authorities (wherby religion is soonest ruinate.) But as the Bee looseth his life by imploying his stinge to wounde others, so shal the world easelie perceiue that the sword whereby he defendeth himselfe shalbe his owne death, and those authorities and argumentes (wherby he seeketh to intangle others) are the verie-nets, trappes, and toyles to insnare himselfe. To beat out therfore a plaine path in tracting whereof we may easelie discouer his treatcherie, consider a while in Misacmos his reasons &amp; authorities. How approueth he the praising or writing vpon A-iax? Mary thus; Men once in 24. howres visit him, if they be in health, Ergo the homlimes of the name, &amp; praise of the same may be borne withal, temples to be raised, genealogies to be reckoned vp, Aetimologies to be sought, Hymns and Dirges to be deuised, filthie and immodest iestes to hee vsed, &amp;c.
+
+               Non sequitur, non sequitur, you may bee ashamed of it: Corrumpunt bonos mores colloquia praua, 
+               Paul. 
+                     〈◊〉
+                  . ad Corin. cap. 8. euill woordes corrupt good manners, (saith both Paule and Menander); howe brookes Misacmos that counterbuffe? verie easelie: The intente of the speaker maketh them badde. Pardon me, pardon me, Paule saith the woord, not the intent. Intente is the corruption of the hearte, but woordes the poyson of the tongue. Goe to, goe to, let vs graunt that out of the aboundance of the hearte the tongue speaketh, and that men forme their badde woordes according to their depraued thoughts. Nowe tell me this; whether a childe yoonge in yeares, towarde in apprehension, dearelie beloued by his parentes, cockered by his mother, learneth his swearing, idle speaking, cursings and blasphemies, by the cuill intent, base minde, or filthie conceite of his father, (perhappes
+
+breaking out into such impieties in his choller) or by the wordes spoken, vndoubtedlie no waies intended by him to depraue his child? In deede that's somewhat more then his hoste tolde him; But let it be, let it bee, (saide the mayde when the yoonge man kist her,) wee must haue matters of more waight to woorke vppon Misacmos. Nowe therefore consider his groundworke and positions: The vse of homelie woordes saith hee, is to be borne with in necessarie matters: Howe prooues hee that? Esay compareth our iustice panno menstruatae, the scripture vseth, Anos aureos; the Psalme percussit eos in posteriora: Exodus of Stigma, or Prepuce, Paul of Stercora, Saul went into a caue, vt purgaret ventrem. Therefore Misacmos may write of A-iaxes, because a necessarie matter; write of shiting, because a necessarie matter, let him beshite the canuas that concludes so, though he stoode
+
+to be proctor; For the wordes precedent and afore alledged, as they bee in the scriptures, are, (as Misacmos implyeth and confesseth) properlie to beate downe sinne and sensualitie, but not lewdlie to bee inuerted by him in maintenance of his scurrilitie and ribaldrie. For if he consider the scriptures as he ought, and deeplie waigh with the fathers, that the most wordes haue their misteries; he shall finde, this dragging of verbal scriptures vnchristian like into his cause, is a verie pranke of Arius; Qui verba scripturarum simplicia sicuti in eis expressa reperiuntur, itidem vt diabolus assimulauit. Who like the diuell sinfullie wrested the simple words of the scripture, as they are expressed in the same (if Eusebius lie not;) who euer of all the fathers hath taken on him this custome? who euer this loosenesse of libertie? who euer this lightnesse of vanities.
+            
+               Augustine he sayeth, that when anie thing is founde in the historie
+
+of the sacred scriptures, that see meth absurde or contrarie to good manners, the historicall sence is to bee left, and the metaphoricall and mixt, is to bee imbraced; and the reason is, because the sacred historie contayneth nothing which is not true, and consonant and agreeable with good manners: and an other (agreeing therein, with Isodorus) saith S. August. lib. 3. de doct. Christ. cap. 5. &amp; 1. Isodore. lib. 1. de sum. bone cap. 9. Nich. de Blo. ser. 38. D. 
+               Oportet sic historam tenere, so ought we to keepe the historie, as that wee interprete it morallie, and vnderstand it spirituallie: who therefore dealeth otherwise, by the generall concent of the fathers, maie bee tearmed a rash man in applying scripture in that manner, which peruerteth the nature, order and meaning of the same.
+            Ah las for Misacmos, (I meane, not a lasse for his bed, but ah las for his follie,) let him leaue his building gay Priuies, and get him good masters: for it is more necessarie
+
+to fill the head with true knowledge and christian lerning, then to emptie the bellie of lothsome excrementes: Out vpon this wresting, it driues all witt out of harmony. Then pray Misacmos to leaue it, for I sweare to him hee shall neuer get three Bishopprickes in one yeare, as Woolsey did for this doctrine, why this is worse then welchin steed of Hebrewe in Doctor Propriums sermon.
+            
+               Nomo contra vnanimem consensum patrum ipsam scripturam sacram allegare audeat: (saith the counsaile of Trent,) Let no man dare alledge the holy scriptures contrarie to the generall concent of the fathers. Tut Misacmos cares not for them they are too precise for his purpose. Let Gregorie (in his seauenth homelie on Ezechiell) say the scripture in wordes containeth Pal: de figur: sacrae Bib. misteries; Let Paleologus vow that the whole bodie of hystoricall scripture is a schoole of morall discipline, and hidden doctrine; but
+
+he is a dunce. Let Ierome talke of Anagogia, Tropologia and Allegoria, which vnited (with historie,) Ierome ad paul. containe the whole matter of the Bible. Let him say of Deuteronomie, that it is Euangelicae legis' praefiguratio; of Esay and Ieromie, Quis potest intelligere vel exprimere? It matters not for the wordes, Misacmos will abuse them, he will dignifie his Aiax by disgracing your scripture. But harke I pray you Philaretes what Ierome concludeth, Haeresis dicitur Graece ab electione eo quod sibi cam eligat disciplinam quam putat esse meliorem. Quicunque igitur scripturam vel scripturae verba intelligit aliter, quam spiritus sanctus efflagitat a quo scriptura est, licet ab Ecclesia non recessit, tamen Haereticus appellari potest. Heresie the Ierome super Gal. Greeke woorde (saith hee) is so called of election, because hee that is insected therewith, chooseth vnto himselfe that kinde of doctrine which in his owne opinion hee
+
+supposeth to be best, whosoeuer therefore shall otherwise vnderstande eyther the scripture, or the woordes thereof, then the holie Ghost requireth (from whome the scripture is deriued) although he hath not departed from the Church, yet may hee bee called an heretike. Let Misacmos gather howe hee liste vpoon this, he shall finde the Puntilio of his hononr blunted, which trust me, of set purpose, I handle thus in cloudes without grating him to the quicke, because as Socrates did in Alcibiades, Effulgentem &amp; magnum video testimonium eruditionis &amp; aegregiae indolis, Let him construe this if he list, least the world should suspect what I meane not.
+            Nowe Sir if we descend to Cloacina (first deified or defied by Tatius
+                     •…
+                  ,) what shall wee say? but that in his readinges he hath curiously obserued matters of lesse respect, and forgotten thinges of most
+
+               decorum. For when Romulus and this (draught deifie) the one Captaine of the Romanes, the other of the Sabines were readie to wage battell, and by the intreatie of Hersitia and other ladies the accord and league of peace was then concluded; A lawe was made in honour of them as Plutarch witnesseth. Ne ijs praesentibus quicquam obsoeni diceretur; That no filthie or immodest speech shoulde be vsed in their presence Nowe, sir, had he marked and noted this priuieledge, as he was diligent in obseruing the other, he had beene more sparing in his loose speech, being taught modestie by the verie Ethniques themselues. And surelie I thinke in my conscience it was a chiefe cause whie Romulus left Tatius death vnreuenged, because hee was so superstitions in deifying a draught house. But perhappes hee hath redde all this and woulde obserue none
+
+of it. Then may I sate with Valerius, Quod rectum sit scit, sed id facere negligit: Hee knoweth that which is right, but he neglecteth to doe it; His Embleme and Elegie are prettie, and I haue redde farre wittier and better pende without the picture of a fellowe in a square cap, skummering at a pri
+                  •…
+                u
+                  •…
+               e. And touching his obseruation of pictures, what shoulde I say in his commendation, but this. He hath prettelie obserued absurdities; But shoulde he paye for them as soundly as Captane Cheuilles souldier did in Burbonois, he would beware of writing of shitten fingers, whilest hee liued. Which is his next discent? For soothe to Poets, Tireea quatre cheuar. and who marcheth foremost to fighte the battaile for him? Mar tial: Oh ho I knowe wherefore hee preferreth him so much, it is because hee redde a Chapter De Cunilinguis to him; hee is verie much behouldinge I promise you:
+            
+               
+But what is this Martial? Faith a good wit ill imployed like himselfe. This is hee, (I speake it in his commendations) that writ epigrams of Aethons farting in the capitol, of his boyes kisse; This is the incourager of letcherie, in victor, Misacmos neede Lib. 2. Epig. 78 lib: 11. Epig. 11. not feare to alledge him about Cacacanit, that gloried to fill Emperours eares with flatterie, bauderie and Sodomie. vaugh spurciciem, nugas. It is pittie that as in Catalogina, there is a lawe, that euerie Cuckold shoulde paie a fine or tribute; So among vs there is not a statute that such as teach such filthinesse, should be publiquely punished. I will not examine the Epigrams, for they are too obscene to be lookt vppon; and who so rubbeth stincking weedes, shall haue filthy fingers. (Moore) ingenious, tho too ressolute, whose learning deserued a better death, and whose death was accompanied with heroick constancie. (Looke howe this Tode sucketh poyson from the pleasant wit.) But he
+
+that founde the Merda, let him take it; and hee that wresteth the Crepitus so crookedlie, let him vse it for a gale of his good fortune, till it blow him to Cloacinas temple. For maister Dauies epigram, I hold it for prittilie impure, yet two bowes and a halfe short of the cloute Haewod stucke in: and (by the way for your selfe) a Yoong that will be olde, (saith thus) in behalfe of olde Young that except you presentlie put one a habit of more conformity, if some his enimies maie promote you, you shall bee the next dog shall be sacrifisd in the Lupercalia, and therfore prouide your selfe for it; (except you get a bettertong into you heade; or a modester pen in your hande.) Whither nowe Misacmos? Cannot hee who for pietie is matchlesse, in lerning peerles, whose iudgement his friends admire, and enimies wonder at: cannot a spirite so heauenly, a father so reuerend, a Muse so sacred, escape your censure? Stoope and
+
+shroud you night byrd, when this sunne shineth; hee that clotheth religion with simplicitie and trueth, clymeth highest by his humilitie, groweth learned in his zeale, and waxeth famous by his diligence, maie laugh at you, (whilst like the Wolfe you barke against the Moone) but you can not bite him. Come come, a poore spring, sed by the Ocean of his witte: a little sparkle gathered from his diuine flame; a verie worme of witte, a puney of Oxford, shal make you more hatefull then Battalus the huugry fidler for this presumption.
+            
+               Italici Angaei stabulum faedumque cloacam. Discit enim ci tius miminis
+                        
+                           
+                        
+                        que
+                      libentius illud Quod quis de ridet quam quod probat &amp; veneratur.
+               
+               A te purgari Romana
+                     
+                        
+                     
+                     que
+                   
+                  
+                     〈 in non-Latin alphabet 〉
+                   tolli.
+            
+            
+               
+What fault is here? Forsooth an vnapt metaphore. O grosse, peeuish &amp; blinde absurditie! I challenge thee from the French to the Spanish; the Italian to the Latin; the Greeke to the Hebrewe: Runne mee ouer the whole librarie of baudrie, thy legends of Athiesme, and proue me one metaphore better applyed, and thou shalt be priuie to mee in my next necessities.
+            What fitter metaphore for so corrupt traditions, as our Church at this daye acknowledgeth, (the Church of Rome to yeelde?) which if it bee glorious in so sacred and matchlesse a maiden Princesse, to exhauste and ou erthrow; it shall be no indignitie in her to admit the metaphore, (especially since) with such decorum and art, he hath couched it, as had Moore, Haiwoode, and the rest obserued; Misacmos might bee ashamed to alledge them. And what is that think you? He hath vsed Inu
+                     •…
+                  nals
+               
+modest moderation including that in Scal. lib. Po
+                     •…
+                  . 3
+                     •…
+                   Cap. 98. a Greek garment, which otherwise in his owne tongue woulde seeme vncomely.
+            But in this you fare like him I haue read of in an author of yours, who begining to read a certaine worke of Erasmus intituled Moria, and hauing such a Lege the booke of mery tales, Tale 130. Fre learne to quote your plac
+                     •…
+                  . shallowe wit as Misacmos hath, cast away the booke, fearing he should fal into some heresie, because the stile was so high. I meane not that great stile into Mar
+                     •…
+                  bone Parke, neere which the two Heroicall and manly Knights fought there Duellum: but Erasmus stile which Misacmos hath pretily met with, if he had some of his pith and matter.
+            How proceedeth he now? forsooth he heapeth on history.
+            To what purpose? to prooue certaine Emperors murdered priuily, or at a priuy, or in a lakes, or at a Iakes; yet can I Lib Cro
+                     •…
+                   cum figur. tel him this, that the Iakes Heliogabalus, (the last of the Antonini) was drag'd thorow per scurras, was per cloacaes by the sincks of Roome, and through the streets of Roome, without all paraquestions quoth Tarlton, neither hath his knowledge
+
+attained all the secret of historie on this subiect beside Bassianus; but that some of as serious obseruation are left for mee: as that Traian the Iust of so famous memorie, and Henry the seuenth King of the Romaines, both died of the Discenteria alias dictus the laxatiue flux. Nabuchadonoser likwise gaue Zedechias (after hee had made him daunce and play before him a long while) a laxatiue drinke, so that like a beaslly olde fellow (as there are many According to an olde ballad, and 
+                     •…
+                  ll to be shitte was he was he such betwixt Yorke and London) totus deturpatus fuit he smelt as ill as your AIAX.
+            
+            Thus may Misacmos see that other men haue examples of sent, (I woulde say sence) as well as hee, yet will I subscribe to him the dignitie in all things. First I acknowledge him as deep a Philosopher as Me
+                     •…
+                  rocles who could neuer argue without farting. I will set to my hand that hee is well seene in a hawkes muting. Lastly I beseech Master Dalton to set vp his name in Lineolnes In priuy, and register him there among the durtie writers of his time in steed of a bastard Cronicle, because in his booke, modestie
+
+is as hard to be found as Adulteries in Sparta; and this done:
+
+                  O vos de Croidon o vos de rust
+                        •…
+                     o Ro
+                        •…
+                     don,
+                  Bibite blakciackos pre gaudio soluite sackos.
+               
+            
+            Nay wee will haue yerses to which a dog shal not interpret: Here let the people laugh, for heere make I my breathing point.
+         
+         
+            
+               Misodiaboles Perfume for filthy smels, containing a mad Purge for Misacmos Lunacie of wit.
+            LIke as a good foldier in the beginning of a fight, first sendeth out his light armed winges to begin the skirmish, and after bringeth on the battle, wherin consisteth the force of his good fortune; so Misacmos (hauing distasted vs at first with certaine homely fictions &amp; vnciuell Epigrames) now marcheth forth mainly with his Tatius, Tarquine, Claudius, Vespatian, Traian, Priscus, and
+
+               Hercules, by whose lawes, proclamations, letters, and decrees, he laboreth to approue, how carefully they prouided, and diligently employed both theyr time &amp; treasures, for the building with great state, and the ordering without annoiances, of vaults, common shoares, &amp; sinckes: but without al contradiction priuies. Touching which, as I consent with him in the three first, so with the old dunce (Iohannes de Portu Hibernico) Credo quod haud, concerning the last. For though (besides Dollabellas caution, the office of trium hominum, &amp; many of that kinde) I finde care &amp; diligēt prouision made for the cōmon shoares: yet in particuler name I am sure (except Misacmos him selfe be interpreter) his foul breath'd AIAX was neuer prouided for. But I see now it fareth with him as with subtill sophisters, who wantyng matter to worke vpon, do cauill vppon words: For what signifieth this Cloaca, on which hee so much worketh? fetch him Cooper (that learned father of famous memorie) his Thomas Thomasius (a diligent furtherer of good studies,) not with fie, fa, fough, a smelles, but in
+
+plain dealing: What say they of Cloaca? a channell, a gutter, a sinke of a towne, Cloacale flumen, besides (as Vlpian testifieth) there was Cloacarium, a certayne fee or scot, payd to these tres bomines, the suruayours of the commō shoares, vnlesse therefore (as in talking of all kindes of grain) we set downe Rie: For al millitarie and souldierlike furniture, we nominate a dagger: so for all sinkes, shores, and vaults, Misacmos vse a priuie, he shall get no more fame for thys then Erostratus for burning Dianaes temple. Wel Gods blessing on his hart, Eras
+                     •…
+                  us Apo
+                     •…
+                  . he is a toward yong mā, and hath great cause to thanke God for his knowledg, (like the old dunce in Brazen nose colledge in Doctour Colmers time) who comming from a schoole among certaine sophisters, from a certaine Quodlibet, with a great sigh thanked god that now at last after seuen yeeres studie in the Predicables, he could define Proprium. Now fie vpon it, fie vpon it, what is this to AIAX? you trifle, you are fond, marie that's true. Wel, if this please him not, let him stay till a second digestion, and hee shall haue Assets inter main as
+
+assurance to prooue how well I meane 
+                  
+                     〈◊〉
+                   among 
+                     〈◊〉
+                   Lawier 9. him. Alas, alas how much I wronge him? beleeue me Philaretes, I am sorry for my negligence; 
+                  〈◊〉
+                I forget his succinct collection of historie: his compendious &amp; apr obseru
+                  •…
+               ōs in the Emperors liues? God forbid nay you shall haue right Romain courage in me; praise for desert, though otherwise his professed reprouer in 
+                  •…
+               ollie. What note? what note? Why thus much touching his succinct obseruations out of the Emperors liues, I say (as Tully did of Demostines oratiōs) I like that best, which is lōgest. Yet for al this the wo
+                  •…
+               lde apprehendeth his iud
+                  •…
+               scretiō; who trapping an asse in goldē furniture, sutin
+                  •…
+                a cou
+                  •…
+               se subiect in rich ornaments of learning, hath approued his great wit, &amp; litle wisedome.
+            Howe more happy had it beene for himselfe and more honorable for his profession, to haue obserued the customes of the V
+                     •…
+                  nctians and Germans? the first of which banish b
+                  •…
+               llards from their counsailes: and the next vouchsafe no degree of learning, to any of them in their most famous Vniuersities. Nowe if in example of these, if his sentenses of condigne merite, had been
+
+answered with an apt, appropriate, and fit matter; nulla publica laudaetione indigeret (as Valerius saith of Romulus) his praise had beene generall, but in that Val. lib. 3. cap. 
+                     〈◊〉
+                  . cleauing to rashnes (the enemy ofendeour (and forsaking discretion) which as Anthony the father said omnia laudabili fine concludit, endeth all thinges laudably Henri de vrmar. lib. 4. de perfect. int. hom. cap. 1. he hath betrayed his owne fame to infamie. Qua
+               
+                  E
+                        •…
+                     am tum v
+                        •…
+                     uit cum esse credas mortuam. Plaut. in Pres.
+                  
+               
+Which then suruiues when thou beleeu'st him dead.
+            Who liueth of any reading (were hee content to surfet in his folly) that with A
+                     •…
+                  ctrine could not talke of Nana? with an other of a red nose? with Perieres of a pie and Piaux, I haue seene an oration made in praise of a colledge custard, &amp; very much written in cōmendation of an asse; who in commending a goose, could not bring in Plutarch to proue she was sacrificed to Iuno; or in talking of an oxe, could not say it was ye
+                stamp ye Athenians put on their money? say a man were so foolish to make a book of lowsines, were it not possible for him (that had red history) to bring in Scilla lowsie, A
+                     •…
+                  stus the
+
+sonne of Peleus dying lowsie, Mutiu
+                     •…
+                  
+                
+               Plutarch. the lawier, Eunus the fugitiue lowsie; Arnolphus the Emperor lowsie; Phoerecides and Calisthenes lowsie; or if this subiecte seemed too nittie, what say you to Ioubert &amp; his booke of laughte
+                  •…
+                the common place of faits (handled in Bouchet) in helping a gentlewoman of the colicke?
+            Tut and I were set on a mery pinne, I coulde write in praise of spindle shankes, because Germanicus had such; and in commendation of pissing, bringing in out of Valerius, the storie of the Cretans, who beseidged by Metellus, drunke their owne pisse. How vaine a vaine is this? Nay how vaine is Misacmos in his vaine? trust me the very feare to heare of this folly, were sufficient to make the domb sonne of Crassus to cry out mainely. How vndecent is it for a man, in yeares staied, in birth noble, infortunes rich, in friendes mighty, to be so poore onely in his discretion?
+            Better had it beene and more worthy Misacmos learning to haue digested custome into a volume, and made a treatise of obseruations, wherein as
+
+especial, and with more decorum (then he conceited) he might write how the priuy that Arrius died on, was hangd vp euer after for a perpetual monumēt, till those of his Heresie (to extinguishe Nicopli cap. 
+                     〈◊〉
+                   lib. 
+                     〈◊〉
+                  . the indignitie thereof) raised and built a sumptuous house in the place. Hee might gather out of Segonius, how capitall it is amongst the Turkes to dispute on the lawes of Mahomet, where amongst vs heere in England it is too common a custome to breake ours.
+            Besides if hee would be pleasant &amp; set downe Ethnique heresies, what lets him to remēber that among the Turks it is an heresie to pisse standing, &amp; here in England in Caesars time, it was a prophane thing to taste a hen, where nowe a daies it is good fellowshippe both to steale, and to roste it.
+            He might likewise seriously obserue Diagoras banishment, who (more modester Valerius lib. 
+                     〈◊〉
+                  . Cap. 
+                     〈◊〉
+                  . then Misacmos) only wrote that he knew not the Gods, where he both knowing, &amp; reading, the Lawes of God, and (which is most to be a bhorred) a Christian, taketh a felicitie to peruert them.
+            
+               
+But such is the custome of the world, and to blind the elections of men, that the most part seeke out the poisons of wit to corrupt the same and the worlde like the maid (of whom Aristotles comenter speaketh) being accustomed to seede on serpents, takes it now for a natural refection to nourish it selfe with poison.
+            But returne we to Misacmos teshe. I long to heare his conclusion: Forsooth and please you the last part of his learned trea
+                  •…
+               se, is the maner &amp; meanes how to build cleane, handsome and necessary priuies, not altogether of M. Dal
+                     •…
+                  s built, whom he handles (as Horace did Moecc
+                     •…
+                  as) s
+                  •…
+               arce cleanly for his curtesies, but with Hidraulique Engines a
+                  •…
+                it seemes (the manner whereof hee hath borowed from Vitruuius, or els taken some patern frō a trauellers mouth who hath seene the Cardinall of F
+                     •…
+                  rraras buildings at 
+                  
+                     •…
+                  uolt) and truelie of al his booke, I hold this the clenliest, since hauing deuised and deified a Goddesse so filthie, hee hath at least wise founde a cleanlie conuyance to wash her f
+                  •…
+               e when she is too slouenlie.
+            
+               
+But if with his patience I may speak, and by your courtesies be heard; Philaretes, I dare promise a forme, and prefer an inuention, where (by the helpe of wind 
+                  •…
+               as he by water) I wil build you a priuye without Houldens wiues priuye fault, that shall neither farre, foyste, nor stink, as she doth in her sleep; and how say you by that sir?
+            
+               
+               
+            
+            Mary Sir my Priuie shalbe a Round, (one of the fiue regular bodies in Geometrie)
+               
+built like the tower of Babel, &amp; vppon vaults to, wel tarras't after the finest fashion: now for the tunnel I mean to raise it in the midst, prouided that diuers doores and windowes shall bee made on euery side, that if neuer so little winde blowe (if a man bee wetherwise) hee shall bee able to emptie his belly without diseasing his nose: et fiet say I (like the olde end of a doctors bill) I but how if no winde blow? mary then the poore milners in Moore fields wold be banckrout for their rents, &amp; the witches to the Northwards shall sell no mery gales to sailers for their money. Wier
+                     •…
+                  s d
+                     •…
+                   pr
+                     •…
+                   
+                  
+                     •…
+                  tigiis demon
+                     •…
+                   Carda
+                     •…
+                  . Let mee not iest it out, it is a very great fault in my Colfabus; but thinkes Misacmos that he can escape me? no marie can he not as lōg as ther is a scape in my bellie. Nowe what fault a Gods name?
+            Forsooth, hee hath prouided no seemely glasse windowes for his AIAX, and by that meanes hee bringeth those that shal haue vse of it, into a great inconuenience, and that shall I she we by an example (and the rather) because éxempla 
+                     •…
+                  llustrant non probant. A certaine gentleman of England going to Bocardo
+               
+to do sauereuerēce, &amp; hauing his quiuer well furnished to offer on Cloacinas Alter; after he had read a lecture of vntrusse, claps mee a Corpus cum causa on the face of Don AIAX, who darkning al the house with a frowne of his furie, made the poore gentlemā grone &amp; grin till he were disburthened. Now sir, the priuy dark and he in the heat of his seruice: behold (hold B. I should haue said) a maide of his beeing sicke of Traianes disease &amp; som what laxatiue, notstaying the Qui vous la? or the word? but hauing her piece ready chargd, lets flie into her maisters lap at both endes, and sette both her winde-mill and water-mill a working. Out whore (quoth the Maysler) A'as, fie vpō me (quoth the maid) new clothes cries he with a vengeance, away runnes she bare arst without wiping.
+            By this example it were good Misacmos woulde bespeake Masons and Glasiers, least sitting at his AIAX in great meditation on his Elegie; a maide of his should serue a Lattitat on him &amp; lay the 
+                  •…
+               bell in his bosome. How, say you? is not this worthy deepe consideration
+
+               Philaretes especially, in so cleanlie Continu
+                     •…
+                  . That is as neato as Lic
+                     •…
+                  n in his app
+                     •…
+                  l, and as manner he as 
+                     〈◊〉
+                   country w
+                     •…
+                  nch, (whō the abbo
+                     •…
+                   
+                  
+                     •…
+                  ed) who instead of requesting le
+                     •…
+                   to dip 
+                     •…
+                  ir ca
+                     •…
+                   
+                  
+                     〈◊〉
+                   
+                  
+                     〈◊〉
+                   in the 
+                     〈◊〉
+                  : d
+                     •…
+                  sn, de
+                     •…
+                   bye Lo
+                     •…
+                  ship that she 
+                     〈◊〉
+                   
+                  
+                     〈◊〉
+                   her a
+                     •…
+                  e into his sa
+                     •…
+                  ce. N
+                     •…
+                  ta 
+                     •…
+                  uod 
+                     〈◊〉
+                   
+                  
+                     •…
+                  ota nihil va
+                     •…
+                  . a gentleman as Misacmos? What, like you my aduertisement? then haue at it for an other bout: And whats that? Mary it standeth very muche with the iudgement of Misacmos to alter this element of water (and if it were possible) and the reason is, least some of Floras handemaides hauing Lots wiues sicknes, look backe on that shee let fall in the water: Why what of this? Marrye a dangerous thing, for since Ea quae per medium aquae apparent, groff
+                     •…
+                  or avidentur, such things as are seen in the water seeme greater; it is to be feared least the poore soule should take a strong imagination, and commit more trust to her belly, then she can digest by her back parts. Yet an other, it must be ordered (or takē order by Misacmos) that hys AIAX haue a doore with a spring locke, least some gentle woman going to speake with her-maid in priuity, haue as il fortune as a prity wēch in my cūtry. Wold you kno how it was, and what it was? vnder promise you wil shew (Misacmos my good friēd) how it hapened, Ile instruct you. A certaine noble man of Englande hauing
+
+two necessary delights that accompany great fortunes; viz. a faire house to dwell in, and a foole to laugh at: thinking it a decenter thing in him to chase his Iester, then for Socrates to play with 
+                  
+                     •…
+                  sla s
+                     •…
+                  l. 1. 
+                     〈◊〉
+                  . cap. 5. 
+               Lamprocles, Ageselaus, to ride on a Reede with his sonne, and Architas to playe with his seruants, one day in a merrie &amp; pleasant vaine, droue him vp and down from chamber to chamber, (making him smart with a rod hee carried in hys hand) hee forest hym into a necessarie place where the close stoole stoode, where the poore asse finding a wench at the priuy, and very willing to defend himselfe, because he was shrowdly pursued, he tooke her boldly in his armes (her clothes about her eares) and bare it single on her buttockes. Nowe sir, here growes a Quaere, and a Caution, in this place; the Quaeritur is, whether if the poore wench had called on Cloacina for help, her Goddes-ship could haue deliuered her? the Cautton, that henceforth both Misacmos (and whatsoeuer builders) prouide thē sockes &amp; doores to their AIAX, least some coy Dame that feares to walke abroade without a
+
+maske, be so dainely scratched and ierke ouer her face that hath neuer a nose. Is not this gaye geere Philaretes? haue I not matcht Misacmos at his own game
+                  •…
+                beleeue me, beleeuemee, I blush as I write, yet I write to make men blush.
+            For from my soule I protest, and to the world I publish it, that as the compounders of Metbridate (before the whole body of the Venetian Se
+                  •…
+               ate) shew their simple poisons to make thē knowne; and as the quacksaluers in Germany swalow spiders in open assemblies to shew the vertue of their confections: So to let the world know, the poison of lewd language, to bring that in hate which is nowe swallowed with too secure delight; I haue swallowed those morssels, which religion shoulde not digest; and rather opened the caue to discouer a serpent, then to suffer men hedlong to poste to hel on the backe of vnciuell pleasures. Ouid 1. 
+                     〈◊〉
+                  . Impi
+                     •…
+                   sub dul
+                     •…
+                   m
+                     •…
+                  lle ven
+                     •…
+                  na 
+                     〈◊〉
+                  
+               
+               
+                  Helleborum frustra cum iam cutis agra tumebit.
+                  Poscentes videas, venienti occurrite morb
+                        •…
+                     .
+               
+Preuent thy griefe, in desperat estate: To many seeke for remedy too late.
+            
+               
+Thus farre Philarites hath thy friendship and Misacmos errors enforced me, yet this stile, and one fielde more, and thou hast brought mee home where I would be: Come, come, tho the high waies are durtie, the fieldes are delightfull, and a litle close of compasse may haue many trees of pleasure.
+            Me thinkes I see thee wonder what storie I haue to tell thee, and smile to thy selfe like leane Cicero, at the iust reproofe of this Cotta: Harke in thine eare, Misacmos is a Satire, a quipping fellow: But sirrha, what if with the merry Lord: in Homer, I should play the mad fellow, and aime at his Vlisses head and polliticke pate with a neats foote? Dost thou request me to doe so? why mine honest freend, I shall dispatch it quickly. But how? marry I shall talke to him thorow thy letter, and teach him plainly that which I haue obserued out of a French secretary: Que le trop cuider rouge les os, de l'sprit iusques aux moesles de l'ignorance: that too much presumption Du Trauchi
+                     •…
+                   
+                  
+                     •…
+                  pi. 231. gnaweth the bones of the spirite euen to the marrow of ignorante: and that when as malice and enuie coupled
+
+with presumption and ignoraunce, barke against the modestye of the vertuous, the fire refecteth to burne those that kindle it, lighting those that are detracted from the ruines of the malicious, till they haue attayned both the path and possession of honour.
+            Beleeue me (ill christened as thou are by thy Greeke Godfather) as to reprehend iustlye requireth a due discretion, so to detract insriouslye, in a great man, is a staine of honour, in a learned, a noat of irreligion, in all sortes a plague of nature, rising from the thought of a corrupt, vnbrideled, and sinfull hart.
+            How much better matter hadst thou to remember, if thou hast read muche? and what a thing oughst thou sooner forget, if thou regarde socyetye?
+            But thou wilt saye I haue taxed none but such as deserue it: and yet I tell thee (and therein taxe thine indiscretion) that except thou hast córrected priuatelye, before thou hast disgraced publiquelye, thou
+
+art a good Aristarcus, but an ill christian. I prethe looke backe into the ages, and let my pen helpe thy memorie; and in the face of other mens fals, read thine own infirmities. Whom hath glory raised so high, that enuy could not aime at? or vertue made so temperate, that misfortunes could not torture? Who euer had felicitie to counsaile, without weaknes to fall? or his reason so stronge that his passion could not alter it? Alas Misacmos, it is a misery of wit thou art fallen into; wherein the more thou art foulded, the more thou art fyled. Aemilus Paulus the admired for constancy, yet was he contemned in pouertie. 
+                  
+                     〈◊〉
+                   virtut
+                     •…
+                   
+                  
+                     •…
+                  solue. The Marshall of S. Androw
+                     •…
+                   deuic
+                     •…
+                  
+                
+               Alexander the worlds wonder, though praise-worthye for his clemencye, in ouercomming Darius: yet hated in his druncken furye, when hee murthered Clytus: So that his fortitude, liberalitye, magnanimitye, and continence, grace him not so much, but that his vnseasonable banqueting, inordinate excesse, his ambitiō in suffering the applause of his flatterers, his iniuries to Calist henes, make him subiect to detraction. Alcibiades, astuiterer and inconstant, but
+
+that his magnificence and bounty, redeemed those disgraces: Agesilaus a louer of his citizens, yet suspected of Pedrastria with Megabates: neither was his honor so greate in contempning vaine thynges, as his infamie deserued, in vsing all impietie in obtaining kingdomes.
+            
+               Crassus couetous in fortune, yet constant in miserie. Demetrius constant and liberall, yet pompous, prophane, and lecherous. Cato (the sensor of men for all his seueritie) had not so stronge a sheild of his continence, grauitie, fortitude, and perseueraunce, but that beeing studious to accuse others, hee was accused himselfe of contempt of Philosophie, hate of Phisitions, praise of himselfe, and inhumanitie in his behauiour, nay they wrote this Epigram of him which followeth.
+
+                  Rufus mordaces solitusque illidere dentes
+                  Omnibus et glaucus Porcius vt periit;
+                  
+                     
+Ipsa timens saeue rabiem Proserpina li
+                        •…
+                     
+                     guae.
+                  Ullum 
+                        〈◊〉
+                      apud manes noluit esse locum.
+               
+            
+            Why presse I further, where these few may suffice me? and what may not Misacmos obserue, if hee disiest this consideratlie? If all these in the brightnes of their honor had some blemishe and infirmitie, what priuiledge hath he far inferior to the worst of them? If he be not exempt from error (as I know he is not) but that either passion denoureth him, ambition ouerhaleth him, intemperance seduceth him, and a thousand other imperfections attaint him: why is he so readye to breath out other mens reproches, where the sachell behinde his backe hath sinnes enough in it to blast him with? hath he a locke for all mens tongues? a brydle Non videmus mantice quod intergo est. for all mens pens? or impudencye to outface all disgraces? Cicero was more eloquent then he, but counted a babler; Demosthenes more wise then hee, yet knowen for a coward; Socrates a iust man, but accused of impietie: Cities dies mihi defic
+                     •…
+                  ret quaem oratio, there
+
+were no end if I should prosecute this. All life whatsoeuer is bu
+                  •…
+                a Chaos of infirmities, and who so wil reprehend, must either be a God amongst men without fault, or a byword to men for his foule tong. Fye vpon me, whether am I growne? Misacmos is pleasant, why then in a pleasant and a merrye moode, let vs haue libertie to talk with him. Nay first lets shake handes as fencers doe ere they play their Prises, for I am sure to giue the Venie, I feele my fist so nimble. But what weapons? what weapons? faith with a pen in one hand, and a paper booke in an other: None better, haue at you Sir, I would wish you keepe your footing. Why, howe will you vse me? Faith as the milkmaid of Hackney vsed that moste wittie and learned Master Fleetwoode Recorder of London, (and that was scarce mannerly) and how it was (without any further interogatiues) I shal presently tell you. This honest Gentleman walking for his pleasure from London towardes Hackney, by chaunce (at the very towns 'end heard a bird of May singe, I think you call it a Cucko
+                     •…
+                  . Heereupon
+
+looking round about him to spie out some one to break his bitter iest vpō, he ēcountred by good hap with this mayd, whome so dainely and pleasantly, hee bourded with this question. Maide quoth he, who is this that singes so merelie, is it the vicar of Hackney? no forsooth saide she, you mistake your selfe, it is the recorder of London, (a foule on her for a lying queane, how vnmanerly she was?) Well he digested the matter like a wise gentleman. Now in like maner must I try your patiēce: Was it you that translated Ariosto? I marry was it sir. In faith you had beene better to haue sette your legges before it then your arms, for the lines are very gowty &amp; to vntoward to climb Hellicon. What are you angry at this iest? for shame be patient, you haue vs' de a Doctour farre worse, and therefore looke for ill chieuing. 
+                  
+                     •…
+                  nall lib. 3. Sa
+                     •…
+                  . 9. O Coridon Coridon secretum diuitis vllum esse 
+                     〈◊〉
+                  
+                  ▪
+                I, but you set your armes before it, least after you were dead, citties and countries should striue for you as they did about Homer: Feare not that man, for what between Cloacinas Temple, the stationers pastbordes, the Grocers and Chandlers spices, and mustard-pots,
+
+your bookes shall be out worne in your age I warrant you. Onelie if sōe surviue by the mercy of a friends Library, the after-world shall rather pittie your lost time, then commende your diligence. Thats for maister Daltons sake, and I pray you so take it. Nowe for mayster Plat mine old and honest friende, why what of him? His life in
+                  •…
+               al mens eies so vpright, his birth not to be contemned, his studie for the commoditie of hys countrie, you haue lewdely Iybed against him beeing a gentleman of your owne societie; and so iested at his coles, that you deserue to be burnt with them for your labor. Bona verba quaeso: nay you shall not so scape it. Shoulde a man (because the Fishmongers boy saw you in a goodlye gay veluet cloake and on your foote-cloth, and iestingly saide as you past by him thorowolde olde fishstreet that you sat on your horse like a slouen on a close stoole) that therefore your writing in praise of AIAX, was foreprophecied? or to vse (Charles Chesters iest, because you are faced like Platina) 'would it not anger your hart strings, if a man shoulde say that you looke like a
+
+sturdie Hostler that could guird a mire til she sart again. Truly it were vnseemly to vse a gentleman of worth so grosly: now if miu
+                  •…
+               ies to your self, disgraces to your own per
+                  •…
+               ō, Iybing at your own writings so mightily moue you: Imagine that in others which you feele in your selfe, and if you take felicitie to heare well, remember carefully hereafter to speake well. But I forget my self, I forget my selfe, there is a pad in the shaw, there is matter in it said the hostler when he felt his horse backe, there are reasons of discontent, whiche haue mooued this desaster twixt maister C
+                     •…
+                  nelius Ag
+                     •…
+                   de vault Sce
+                     •…
+                  c. Plat and you: I mary bether sir, he is a seducer, his coales are like the Alcumists Elixar, muche t
+                  •…
+               kte of, but neuer bronght to passe: You deceaue your selfe Misacmos, and I dare sweare it by as much honestie as you can pledge me, that the coles Maister Plat maketh profession of to deuise, are possible to nature, not contrary to the rules of Philosophie, euen now this t
+                  •…
+               a me readye to be prooued by a demonstration, so that as Fierouants said to the Galenists of Italie 
+                  
+                     〈◊〉
+                   lib. 3. 
+                     〈◊〉
+                   
+                  
+                     〈◊〉
+                   
+                  
+                     〈◊〉
+                  . et a
+                     •…
+                  i. and other chimicall fellowes; Mayster
+
+               Plat ma
+                  •…
+                boldely vrge against you, mine is the effect, dispute you on the cause.
+            I but your iudgement (say you) apprehendeth not any such thing, and for that cause you will iest at a trueth, in that you suspect it a falshoode, Heeres faire playe Misacmos, and I offer open challendge.
+            Drawe the quintescene of your wit, capitulate 
+                  •…
+               ll your readinges, make an abstract of your experiments, and set me downe what arguments you can against these coles, and you shall see me make you carry coles till you fall tout plat for your labour. For your coniecture of stale and cow-dung, it standes not with nature, it stands not with reason, you are mis informed, and it were good you were reformed, learne a truer Credo, and wee will sing a kinder Salue to you.
+            If you stil braue it til your conceit be blūt, I wil steele it with reasō, &amp; though maister Plats maide hath coulted your intelligencer, that wold haue wrought the secret of these coales out of her, vnder pretence of a woing daunce (for
+
+whiche cause you are waxt so tetchie,) Ile vse you more honestly; and not onlye instruct you like a probable disputer, but with as good pillers as all sciences consist on, I meane demonstrations (as sound matter as Aristotles Pasteriora. I warrant you) I coulde vse Tarltons lye vppon you touching the secret of Barly: who (attēding one day at a great dinner on sir Christopher Hatton Lorde Chauncellour deceased) by chance (amongst other pretie iests) gaue him vnaduisedly the lie: for which, the honorable persō merily reprouing him, insteed of submitting hīself, he thus witily iustified: My Lord (said he) is it not a custōe when a prince hath spoken anye thing note-worthy, to say he hath deliuered it maiestically? Again whē you ye
+                are Mō
+                  sieurs, my Lorts, excellenses, Altesses, &amp; such like, speak any thīg: Saynot the assistāts straight waies, he cōcluded honorably? Nay in euery estate, if either noble, right worshipful, worshipful, gētle, cōmon, honest, dishonest, poore or rich, sick or whole (&amp; sic ad infinitum) speak any thing; dooth not the worlde
+
+conclude straight, that they haue spoken nobly, right worshipfully, worshipfully, gently, commonly, honestly, dishonestly, poorely, richly, sickly, wholy? Nought without, alye my Lord (quoth dick Tarlton) naught without a lie: Hee that therefore paies it with a frowne, or a stab, forgetteth himselfe. But thus will not I vse Misacmos, least hee that stands so muche on his pointes, shoulde point me out with his poyniard; on elie this wil I say (and that modestlie too) a
+                  •…
+                
+               Tully did of Voconius, and his children, and (E) onely deducted.
+
+                  Phaeb
+                        •…
+                      hand scinente hic seminauit libros. Pl
+                           •…
+                        arch in 
+                           •…
+                        a Cico. To. 3. so. 
+                           〈◊〉
+                        .
+                  
+               
+            
+            Which is as much to say, as the man had beene happy if his booke had lyen stinking in his studio. But heere mee thinkes I spie a worse then Enthimi
+                     •…
+                  
+                miserie falne vpon you, (who abusing the Corinthians in iest, was plaugde in earnest) for in discoursing your Monapole, wherein you angle for nothing Your own word
+                     •…
+                   Avengeance on them that 
+                     •…
+                  e these Monapol
+                     •…
+                   17. Ed. 4. Sto
+                     •…
+                  . but Carps to feede other men with, you not onelie wax tooe bitter a curser of your betters (a fault worse thē 
+               Burdets,
+               
+and it were pittie it should be expiated with his destiny). But you priuelye gird likewise at patents, (I meane not the father and the sonne both wittie and learned gentlemen) who (as I am inspired) are the very Genii and good angells in furthering your best studies, but Iob serue not As gesclaus, law heare: Difficile est miser eriet 
+                     •…
+                  pore, but coldly past
+                     •…
+                   that ouer which might be wrought like wa
+                     •…
+                  . those pattents which beeing priueledges graunted by a prince, fruits of her royall prerogatiue, rewardes of her trustie and honourable seruants, acte
+                  •…
+                for humble subiectes to receiue wyth thankes, not to examine according to their owne shallow iudgements priuat lawes in beeing priuiledges, as both the legists and schoolemen determine, are 
+                  
+                     〈◊〉
+                  . not groslie to bee iested at, carelessie to be disgraced, or fondly to be delt withal. Beware of this good Misacmos, I wish you as a friend, &amp; if hereafter you mean to rest publiquely, and force your wit to stemme the streame of worlds iudgments, vse Pericles custom, who determining to speake any thing publikely, desired the immortall Gods, that no improuident worde shoulde passehys mouth. Away with this serious talke, let vs turkish this text into a merrier colour. One turn frō Leaden hal corner into Gracious streete, and so haue
+
+with you to West minster: Why into Gracious street? Because of al streets in Londō you haue thought this the best market to make proclamation of cuckcoldry. Now sir what Iohn of himself, or Iohn by constraint know you there that hathinheritance in Cornhil, whō you so pretilie iutitle to Hornden? Mum budget not a worde. In an inuentory of such housholde stuffe it is ill falling to perticulers, such vniuersall propositions, or prepositions require noi
+                  •…
+               ance. If a gentlewench haue inuited you to a banquet of Turnups, be not too talkatiue, least suting your selfe in pure rash, your loue repent her lying abrode, and you your speaking too broadly. In hādling your common places, shut vp your tongue, least being Plenus 
+                     •…
+                  arum, (as Parmeno said of him selfe) you be naroly lookt into O Misacmos since all men may bee cuckolds, actu vel potentia it is dangerous to talk of thē, but if you will needs bite on this morsel, beware to be T
+                     •…
+                  ent. Eunuch
+                     •…
+                  
+                offēsiue, for to general terms none but the guilty take exception. Should I play at this weapō what should let mee to hit hōe &amp; yet obserue the lawes of humanity? show wiht witout profe
+                  •…
+               g wrōg.
+            
+               
+As thus in a pleasant Irone, to disfigure a householder in a figure. The man hath a great charge, and therefore this deere yeere, it is good hauing Cornucopia in his householde. 
+               
+                  
+                     〈◊〉
+                  , 
+                     •…
+                  orn, the horn of plenty, or otherwise plenty of horne.
+            
+            This is a iest without gall, and this no lesse pleasant then the former. If it bee true that Phisitions say, that the perfume of borne is a soueraigne medicine against the Pestilence; how happie shall many mens neighbors be that haue hornes of their owne to burne and driue the plague out of their Chambers?
+            
+            This is a forme I informe you of, because I knowe some exceptions taken against your other deformed obseruation: Mend it, mendit, or burne your booke as the desperate Zanthians did theyr, Cittie least from the Babell of A
+                     •…
+                  s dict
+                     •…
+                   
+                  
+                     〈◊〉
+                   Bable. your pride, men say you deriue your babling. Harke what a tale I heard in Gratious streete of an vngratious turne, which was return'd vpon a gentlewoman.
+            A pleasant wēch of the country (who beside Chaucers iest, had a great felicitie in iesting) incountring in a morning
+
+with a farmour of hir husbands, who came that Michaelmas day to pay his quarters rent (beside a dozen of powtings for my Lanslady his mistres) seeing him scrape his curtesies a farre off, and very loath to come neere and salute her, pleasantly said thus; Come neere Thomas, be not afraid, I neither fling nor bite: T the poore felow gathering heart of grace on this encouragement, returned her this answer: Bith masse mistris, and you be so gentle, you are the fitter beast to be ridden: heere is Diog. Laertius in vita Memn, prae moerore laque
+                     •…
+                   vitam sibi e
+                     •…
+                  
+                  torsit. 
+               quid pro quo: a girde for a gibe: beware of mocking plaine fellowes, lest after this sort in plain termes they thus mocke you.
+            Go to Menippus in wit, God keepe you from his fortune. Vse citizens wel. And though you bee as familiar with some of their wiues, as Tullies epistles: yet to the husbands reade nothing but his Offices, lest they preferre you to an office or officer. I haue to talke with you for the Markams too, my worthy worshipfull and beloued friends: and therefore prepare new we apons, for I must wring you for wronging them. Though their desert can out
+               
+                  •…
+               ue your disgrace, yet shall your disgrace liue by your disgracing them: get therefore
+
+the grim sire to seale you a pardon of Course, or my second Course shall be so currant, that I will course you out of breath: these are but easie tricks, as wrestlers Plutare. In vita Alexand. vse before they begin their vtmost. The other shalbe labored like your own, as ready to moue laughter, as Naptha to take fire, which til you meet, make a register of your best conceits, for I meane to make triall of the vtmost of your learned corage. Enough of this till the feast of enough follow. They say, Once warned, well armed, thanke me kindly for these courtesies.
+            What remaineth now? but in few words to counsell Misacmos: first, if he pretend to iest, to obserue the custome of the Spartans, in auoyding scurrilitie: next, in the modest carriage of his wordes, to become an Athenian, who had a custome to couer and colour obscenities and filthinesse with apt and decent names, according as Solon taught them. Adubber to crie, Mother goe cacke, when hee is able to trusse himselfe is vndecent. Remember what your grand mother taught you Misacmos, and make your Bookes more mannerly. Lastly, in correcting, learne of Phitaroh
+
+to doe all things in way of commiseration, and not in contempt, for who reproueth in derision, defaulteth in humanity &amp; iudgement: To be short, instead of the salt of bitter language, let Misacmos learne to seeke the salt of wisedome: for as the one is fretting, galling, and a sucker of bloud, so the other (as saieth Gregory) Acquiritur per pacem, is gotten by peace, breedeth peace, nourisheth vertue, instructeth errour, and maketh the life sauery, which appeareth in that of the euangelist Marke, Habete in vobis sal, &amp; pacem habebitis inter vos. Haue salt among you, and you shall haue peace among you. To conclude with Misacmos, let mee teach him twoo receits, and so leaue him: First, to auoyde euill smelles, let him get him a cleane tongue, and a sweete breath, for that is pleasing to gentlewomen: let him vse the incense of prayer, to kill the stinking venome of serpents lurking in his heart, lette him put lesse worme woode in his incke, and more continence in his thoughtes: and if his tongue will not leaue clacking, let him learne to light the candle of charity before him, as Gardners are wont to set
+
+lampes by lakes sides: to put croking and troublesome frogges to silence. Finally: to purge his lunacie of wit, I neither prescribe him Turbith, Agaric, Sarcocolla, Trincauel de vsu med. li. 1. c, 14 nor a dramme of Scammony, according to Dioscorides, neither rhubarb of Pōtus, nor manna of Calabria, but an ounce of good thought mixt with a scruple of Pythagoricum silentium, which shall so purge him of ambition, heale the inflamations of his tongue, and exhale the venome of his heart, that when he next meetes mee, he shall say, I am the happiest of Physitions (of whom Bouchet iestingly speaketh in the person of a bon Drole or Francatripe) Bouchet au 10. Secr. that the sunne beholdes their good cures, and the earth couereth their greeuous faults.
+            Thus kindly leaue I Misacmos with his Car ie penscray acquerir plus de lou ange au seruice de la vertu, que ie ne seroy pas a la suitte de vice. cure, which if he requite with choller, let him resolue himselfe, that I haue wit and learning enough to make him as tame as Crassus lamprey: For hauing truth on my side, and diligence my friend, I neyther fear his grim looks, nor his Martials pen. Bouchet au 7. Secr. Let him write neuer so soone, I will become nouus homo a new man (with Cato) rising from obscuritie to same by his disgrace: Plutarch. in vita Cat.
+               
+and so I leaue him. For thee Philaretes and thy friends, I end, in heartily commending me: and since I am assured of your well-meaning, you may boldely commaund my seruice. But euen here in shutting vp of my letter, a merry iest incounters me, which I must needs tel you. Henry the 8. in his youth, a prince of famous memorie, riding a hunting in grasse time with certaine his nobles and familiars, by chance made toward a gentlemans parke of good estimation and reckoning whom he highly fauored; where (finding the parke gate lockt, and being very desirous to enter.) hee set his horne to his mouth, and merrily winded it to call the Keeper. Sir Andrew Flamocke (a valiant and quicke witted gentleman) standing hard behinde him (and that very instant troubled with the chollicke) euen at the very time the King drewe his horne from his mouth lets mee flie a rouncing F. from his T. The King looking backe, and angerly asking who it was that durst be so beastly in his presence? Sir Andrew (after a low congee) made this answer: If it please your Maiestie, you blew for the Keeper, and I blew for Iohn the Keepers
+
+man. Now to allude this (Philaretes) in this sort conceit me. For those of thy faction that kindely interpret, courteously accept, &amp; friendly protect my pleasures, I commit the kingly blast of incouragement, I meane the matters of weight, worth, and discretion. For the rest that captiously desire to prie, carelesly to condemne, and iniuriously detract, I commit the filth, worse then sir Andrew Flamoks fart to their disgesting. And so to Tarletons Testament I commend you, a little more drinke, then a little more bread, a little more bread, and a few more clothes, and God be at your sport Master Tarleton.
+            
+               Misodiaboles.
+            
+            
+         
+      
+   
+

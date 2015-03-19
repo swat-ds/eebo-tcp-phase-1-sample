@@ -1,0 +1,3840 @@
+
+   
+      
+         
+            A dialoge or communication of two persons deuysyd and set forthe in the late[n] tonge, by the noble and famose clarke. Desiderius Erasmus intituled [the] pylgremage of pure deuotyon. Newly tra[n]slatyd into Englishe.
+            Colloquia. English. Selections
+            Erasmus, Desiderius, d. 1536.
+         
+         
+            
+               1540
+            
+         
+         Approx. 92 KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2003-01 (EEBO-TCP Phase 1).
+            A00331
+            STC 10454
+            ESTC S111331
+            99846697
+            99846697
+            11684
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A00331)
+            Transcribed from: (Early English Books Online ; image set 11684)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 38:17)
+         
+         
+            
+               
+                  A dialoge or communication of two persons deuysyd and set forthe in the late[n] tonge, by the noble and famose clarke. Desiderius Erasmus intituled [the] pylgremage of pure deuotyon. Newly tra[n]slatyd into Englishe.
+                  Colloquia. English. Selections
+                  Erasmus, Desiderius, d. 1536.
+               
+               [100] p.   
+               
+                  n.p.,
+                  [London? :
+                  1540?]
+               
+               
+                  Imprint suggested by STC.
+                  Signatures: [greek cross] A-D E¹⁰ (-greek cross8).
+                  Reproduction of the original in the British Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Dialogues, English --  Early works to 1800.
+            
+         
+      
+      
+         
+            2002-02
+            TCPAssigned for keying and markup
+         
+            2002-02
+            AptaraKeyed and coded from ProQuest page images
+         
+            2002-03
+            TCP Staff (Oxford)Sampled and proofread
+         
+            2002-03
+            Judith SiefringText and markup reviewed and edited
+         
+            2002-04
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+               
+                  Effigiem Desiderij tibj Sculptor ErasmiExprimit; Ingenium, Scripta diserta suum
+               
+            
+         
+         
+            
+            A dialoge
+or communication of
+two persons, deuysyd
+and setforthe in the latē
+tonge, by the noble
+and famose clarke.
+Desiderius Erasmus
+intituled ye pylgremage
+of
+pure deuotyon. Newly trāslatyd into
+Englishe.
+         
+         
+            
+            
+            To the reder.
+            AMongest the writinges of all
+men, dearly belouyd reder,
+not onely of the diuersyte of tongues,
+but also the noble drawghtꝭ
+of so artificyall paynted figures,
+whiche haue so lyuely expressed to ye
+quycke ymage, the nature, ordre, &amp;
+proporcyon of all states, as concernynge
+the gouernaunce of a Christen
+comēwealthe, that ther is (as
+I suppose) no parte of the scripture,
+which is not so e
+                  •
+               powndyde, furnysshed,
+and setforthe, but that euery
+Christen man, therby 
+                  •
+               ay lerne his
+dewty to god, hys prynce, and hys
+nebure, and so consequently passe
+thourough the strayte pathe of the
+whiche scripture doth testyfye vpō,
+very fewe can fynde ye entrye, wherby
+thorough faythe in the redēptyon
+of the worlde thorowe ye bloode
+of Christe the sone of god, to rayne
+
+with the father and the holy go
+                  ••
+               e
+eternally, accordynge to the promyse
+of Christe, sayinge. In my fathers
+hawse therbe many placys
+to dwell in, we wyll come to hym
+and make a mansyon place with
+hym and I haue and shall open thy
+name vnto them, that the same loue
+with the whiche thou louydest
+me, may be in theym, and I in thē,
+and thys is the kyngdome of god
+so often mouyd to vs in holy scripture,
+whiche all faythfull shall possesse
+and inheret for euermore: where
+as ye vnfaythfull, vnryghtswye,
+and synner shall not entre in to the
+kyngdome of god, bycause, of chaū
+               gynge
+the glory of gode immortall
+in to the ymage of a corruptyble
+man, and therfore so lycentiously
+he hathe suffrede them to wandre
+in theyr clowdes of ygnoraunce,
+preferrynge the lyes and corrupte
+
+iudgmentes of man the veryte and
+the truthe of god, rather seruynge
+the creature then the creator, amongest
+all the parties of the whiche
+(as was spoken at the begynnyng)
+thys alwaye not alonely in
+the newe law, but also in the olde
+Testament was as a thynge moost
+abhomynable and displesant in the
+sight of gode prohybyte and forbyden: but
+our nature whiche hath
+in hym, the dampnable repugnaū
+               ce
+of synne agaynst the omnypotēt
+power of gode, left euyn frome owre
+fyrst father Adam, is so enclyned to
+vyces, amongest the whiche it hath
+not gyuen the least parte to thys
+desperate synne of ydolatrye, agaynst
+the immaculate, and fearefull
+commandement of god. Thou
+shalt haue no straunge Godꝭ in my
+syght, that it is sore to be dreadde
+the same iudgement to be gyuyn
+
+vpon vs that was gyuen vpon the
+cytye of Ninyue to be absorped of
+the yerthe in to the yre and venge
+                  •
+               
+a
+                  ••
+               ce of gode, whiche hathe ben
+the cau
+                  •
+               e that so many wryters
+b
+                  ••
+               he of late dayes, and many yeres
+passede, haue euyn to deathe,
+resisted thes dampnable bolsterers
+of ydolatrye, gyuen theyr selues to
+the crosse in example of reformacyon
+to theyr bretherne, bothe in
+wrytinge and cownsell, exhortynge
+the flocke of Christe frome soche
+prophane doctryne, amongest whome
+the noble and famouse clerke
+Desiderius Erasmus hath setforthe to
+the quycke ymage, before mennys
+eyes, the supersticyouse worshype
+and false honor gyuyn to bones,
+heddes, iawes, armes, stockes, stones,
+shyrtes, smokes, cotes, cappes,
+hattes, shoes, mytres, slyppers, sadles,
+ry
+                  •
+               ges, bedes, gyrdles, bolles,
+
+belles, 
+                  •
+               okes, gioues, ropes, raperes,
+candelles, bootes, sporres (my
+breath was almost past me) with
+many other soche dampnable allusyones
+of the deuylle to use theme
+as goddes contrary to the immaculate
+scripture of gode, morouer
+he notethe as it were of arrogancye
+the pryuate iudgmegt of certayne
+that of theyr owne brayne
+wolde cast out ymages of the temple,
+with out a comen consent and
+authoryte, some there be that alway
+seke halowes, and go vpon
+pylgramages vnder a pretense of
+holynes, whervpon thes brotherhoddes
+and systerhoodes be now inuented,
+morouer they that haue
+ben at Hierusalem be called knightes
+of the sepulcre, and call one an
+other bretherne, and vpon palmesondaye
+they play the foles sadely,
+drawynge after them an asse in a
+
+rope, when they be not moche distante
+frome the woden asse that
+they drawe. The same do they conterfayte
+that haue ben at saynt
+Iames in Compostella. But they
+be more pernycyouse, that setforthe
+vncertayn relyques, for certayne,
+and attrybute more to them than
+they oughte to haue, and prostytute
+or sett theym forthe for fylthye
+lukre. But now whan they perceyue,
+that this theyr dāpnableA tresure boxe of ye Iewes Corbane
+dothe decay, and that theyr
+most to be lamented blyndnes and
+longe accustomed errours shuld be
+redressed, they, all fayre bothe of
+god and man set asyde, rebelle and
+make insurrectyones contrary to
+the ordynaunce of gode, agaynst
+theyr kynge and liege lorde, prouokynge
+and allurynge the symple
+comynaltye to theyre dampnable
+ypocrysye and conspyracy, myndyng
+
+and goynge about to preuente
+our most soueraigne lordes iudgment,
+not yet gyuē vpon theyr Sodomiticall
+actes, and most horryble
+ypocrysy. But the worde of the lorde
+whiche they so tyrannously go
+aboute to suppresse wt all the fauerours
+therof shall ouercome &amp; destroy
+all soch most to be abhorred &amp;
+deceyuable inuegelers &amp; dysturbers
+of ye symple people to soch detestable
+treason. And that it may so do
+to the terryble example of thes and
+all other rebelles and most dysloyal
+subiectes, and to ye greate comforthe
+&amp; cōsolacyō ofh is gracys faythfull
+and true comens. I requyre
+him which brethethe where he willithe
+and raygnethe eternall gode
+to graūt vnto our seyde most dradde
+soueraygne lorde whose maiesty
+as it euydently appereth onely applieth
+his diligence to the aduaunsynge
+
+&amp; settynge forthe of the most
+holsome documenth and teachyng
+of almyghty god, to the redres of
+long accustome euylls and damnable
+sectes, to the supportacion and
+mayntenaunce of godly and alowable
+ceremonyes, to the suppressynge
+and most to be desired abolishyng
+of the deuelishe and detestable
+vsurped aucthoryties, dampnable
+errours and prophane abuses
+brought in by that myghty Golyas,
+that obdurated Phareo, that proude
+Nembroth (whome god amēde)
+the byshope of Rome, to graunte (I
+say) vnto hys hyghnes, suche hys
+godly ayde and assistence, that hys
+grace with hys moost honorable
+counsell (agaynst whome this arrogant
+conspyracy is nowe moued
+and begonne) may ouercome and
+debelle the stud traytres as in tymes
+paste hys maie
+                  ••
+               ye hath pruden
+                  •
+               y
+
+do other, that haue hertofore
+attempted to perpetrate and
+brynge to passe like sedicyous mishief,
+and so to establishe the hartes
+of hys gracys true subiectes that
+they may wyllyngly and according
+to theyr dueties, obey and fulfyll
+hys most lawfull and godly ordened
+lawes and commaundementꝭ
+wherby they shall not onely do the
+thyng agreable to goddes wylle &amp;
+teachynges, in yt he willeth euery
+soule to be subiected to the hygher
+power and obedyent to theyr
+prynce, but also (to theyr greate
+laude and prayse (shall shewe them
+selfe to be redy and confirmable to
+do theyr dueties in aydyng hys excellent
+hyghnes to the reformacyon
+of all pernicious abuses &amp; chiefly
+of detestable ydolatrye, whiche
+is so muche prohibited in holy scripture
+and most displeasant to god,
+
+for whiche intent and purpose the
+sayd most noble and famous clarke
+Dsiderius Erasmus, compiled &amp; made
+this dialoge in Laten, as it foloweth
+her after nowe lately translated
+into our mother the Englishhe
+tonge. Auoyd therfore, most deare
+readere, all abuses wherby any inconuenyence
+may growe, other to the hynderaunce of godes worde,
+to the displeasure of thy prynce,
+(whome thou arte so straytly commaunded
+to obaye, or to the domage
+of a publike weale, whiche aboue
+all vices is noted most to be abhorred,
+not alonely of the most holy
+wryteres and expownderes of scripture,
+but also of prophane gentylles,
+whiche neuer perceyuyd other
+thinge than nature enclyned theyr
+hartes vnto, and so consequently
+to obtayne the fruytion of the godhode
+thorowe the faythe that was
+
+spoken of at the begynnynge to the
+whiche the lorde Iesus Christe
+brynge vs all with a
+perfaycte quyetnes,
+So be it.
+         
+      
+      
+         
+            
+            
+            ¶A pylgremage, for pure deuocyō.
+            
+               MEnedemus.
+               
+                  Signifieth to forsake. What new
+thynge ys it, that I se? doo
+I nat see Ogygyus my neybur,
+whom no mā could espie of all
+thes sex monthes before? yt was a
+sayng that he was deed, It is euen
+he, except that I be ferre deceyuyd.
+I wyll go to hym, &amp; byd hym good
+morow. Good morowwas faynyd of an old kynge of Thebanes. Ogygyus.
+Good morow to you Menedemus.
+            
+            
+               Mene.
+               I pray you frome what contray
+do you come to vs ayen so saffe.
+For here was a great comunicacyō
+that you dyd sayle streght to hell.
+            
+            
+               Ogy.
+               No, thankyd be god, I haue
+faryd as well syns I went hens, as
+euer I dyd in all my lyffe.
+            
+            
+               Me.
+               Well,
+a man may well perceyue that all
+suche rumours be but vanytye. But
+I pray you what araye is this that
+you be in, me thynke that you be
+clothyd with cokle schelles, and be
+
+ladē on euery 
+                     •
+                  yde with bruches of
+lead and tynne. And you be pretely
+garnyshyd wt wrethes of strawe &amp;
+your arme is full ofSignifyeth bedes. Walsyngam ys callyd para thalass
+                        ••
+                      by cause it is ny to ye see. snakes egges.
+            
+            
+               Ogy.
+               I haue bene on pylgremage
+at saynt Iames in Compostella, &amp;
+at my retourne I dyd more relygyously
+vysyte our lady of Walsyngā
+in England, a very holy pylgremage,
+but I dyd rather vysyte her. For
+I was ther before within this thre
+yere.
+            
+            
+               Me.
+               I trowe, it was but for
+your pleasure.
+            
+            
+               Ogy.
+               Nay, it was for
+pure deuocyon.
+            
+            
+               Me.
+               I suppose you
+learnyd that relygyō of the Grecyanes.
+            
+            
+               Ogy.
+               My mother in law dyd
+make a vowe that if her dougther
+shuld be delyueryd of a man chyld
+alyue, than that I shuld go to saynt
+Iames on pylgremage, and ther to
+salute and thāke hym.
+            
+            
+               Me.
+               Dyd you
+salute saynt Iames alonly in your
+name, and your mothers.
+            
+            
+               Ogy.
+               No,
+in the name of all owre house.
+            
+            
+               Me.
+               
+                  Uerely I thynke yt your howshold
+as well shold haue prosperd, in case
+you had not salutyd hym at all. But
+I pray you what answer dyd he
+make to your salutacyon.
+            
+            
+               Ogy.
+               Nothynge
+at all. But whā I dyd offre,
+me tought he dyd lawghe vpon me,
+and becke at me with his hedde, &amp;
+dyd reche to me this cokleshell.
+            
+            
+               Me.
+               Wherfore dothe he gyue rather suche
+schelles, than other thynges.
+            
+            
+               Ogygy.
+               For the see, whiche is nye
+vnto hym dothe mynystre plenty
+of suche.
+            
+            
+               Me.
+               O holy saynt Iames,
+that bothe is a mydwyffe to women
+with chyld, and also dothe helpe his
+pylgrymes. But I pray you what
+new kynd of makyng vowes is that
+that whan a mā is ydle he shall put
+the burden apon an other mannes
+bakke? In case that you doo bynd
+youre selffe with a vowe, that yf ye
+matter chaunche happyly whiche
+you haue in hande, that I for you
+
+                  
+                     〈1 page duplicate〉
+                  
+                  
+                  
+                     〈1 page duplicate〉
+                  
+                  
+shall fast twyse in on weke, do you
+beleue yt I can fulfyll youre vow?
+            
+            
+               Ogy.
+               No, I doo not beleue it if that
+you dyd vowe it in youre awne name.
+It is but a sport with yow to
+mokke sayntes. But this was my
+mother in law, I must nedys obey
+her, you know womenes affectyones,
+&amp; I must obaye heres.
+            
+            
+               Me.
+               If
+that you had not perfourmyd your
+vowe, what 
+                     •
+                  opertye had you be in?
+            
+            
+               Ogy.
+               I graunt, he could not haue
+had an accyon ayenst me in ye law,
+but he myght fromhensforthe be
+deafe to my vowes, orels pryuyly
+send some calamytye or wretchednes
+amongste my housholde, yow
+know well enuffe the maneres of
+great men.
+            
+            
+               Me.
+               Tell me now what
+that same honest mā saynt Iames
+dothe, and howe he farythe.
+            
+            
+               Ogy.
+               Moche colder thā he was wontyd
+to do.
+            
+            
+               Me.
+               What is the cause of it?
+His age?
+            
+            
+               Ogy.
+               Oh you scoffer, yow
+
+know wel enoghe that sayntes wax
+nat olde. But this new learnynge,
+whiche runnythe all the world ouer
+now a dayes, dothe cause hym
+to be vysytyd moche lesse than he
+was wontyd to be, for if any doo come
+thay salute him alonly, but they
+offre lytle or nothynge, and say that
+theyr monaye may bettre be disposyd
+amongste pore people.
+            
+            
+               Me.
+               O
+a wykyd comunicacyon.
+            
+            
+               Ogy.
+               
+                  Ye &amp;
+so great an Apostle whiche was wō
+                  tyd
+to stand all in precyous stones &amp;
+gold, now stādythe all of wodde hauynge
+before hym skaresly a wax
+candle.
+            
+            
+               Me.
+               If it be trew that I here,
+it is great ioperdy lest that same
+chance to all the rest of the sayntes.
+            
+            
+               Ogy.
+               I thynk it wel, for ther is an
+epistle abrode whiche our lady dyd
+wryte apon the same matter.
+            
+            
+               Me.
+               What lady?
+            
+            
+               Ogy.
+               
+                  Our ladi of stone in Raurachia whiche is a certayne cuntre. She yt hathe
+her name of a stone.
+            
+            
+               Me.
+               I trawe it
+is in Raurachia.
+            
+            
+               Ogy.
+               That same
+
+is it.
+            
+            
+               Me.
+               yow tell me of a stony lady,
+But to whome dyd she wryte?
+            
+            
+               Ogy.
+               The epistle dothe playnely shew his
+name.
+            
+            
+               Me.
+               By whome was it sent?
+            
+            
+               Ogy.
+               No dowbt but by an angell,
+whiche dyd lay the wrytynges apō
+the aultre, wherof he prechythe to
+whome it was sent. And lest there
+shuld be any suspectyō of crafty cō
+                  uayence
+in you, you shall se the epistle
+wryten wt his owne hande.
+            
+            
+               Me.
+               Do you know so well the hand of
+thangell whiche is secretary to our
+lady?
+            
+            
+               Ogy.
+               Yee why nat?
+            
+            
+               Me.
+               By
+what argumēt?
+            
+            
+               Ogy.
+               I haue redde
+yt
+                  Is a scripture wryten on a graue. Epithaphe of Bede which was
+grauyd of the angell: and the letteres
+agre in all thynges. I haue
+reddē also ye obligacyō whiche was
+sent to saynt Gyles as dothe aper.
+Dothe not thes argumentes proue
+that mater to be good enoghe.
+            
+            
+               Me.
+               May a man loke apon them?
+            
+            
+               Ogy.
+               ye and if you wyll swere to kepe it
+
+preuy.
+            
+            
+               Me.
+               Oh you shall speake to a
+stone.
+            
+            
+               Ogy.
+               Ther be stones now a
+dayes of that name very 
+                     •
+                  lawnderous,
+that wyll hyde nothynge.
+            
+            
+               Me.
+               you shall speake to a domme man, &amp;
+yow trust nat a stone.
+            
+            
+               Ogy.
+               Apon yt
+condycyon I wyll tell it, loke that
+you here with bothe youre eyares.
+            
+            
+               Me.
+               So I doo.The epistle of our Lady.
+               
+            
+            
+               Ogy.
+               Mary the mother
+of Iesu toGlaucoplutꝰ desirus of ryches. Glaucoplutus sē
+                  dythe
+gretynge. Insomoche as you
+folowe Luther, you nobly perswade,
+that it is but in vayne to call apō
+sayntes, do ye well know for that to
+be grettly in my fauore. For vntyll
+thys day I haue almost be slayne wt
+the importunate prayers of men.
+Of me alone they askyd althynges,
+as who shuld say my sone were alway
+a babe, because he is so faynyd
+and payntyd apō my breste, that yet
+he wold be at my commaundemēt
+and durst nat denye my petycyon,
+dredynge that if he denye my petycyon,
+
+that I shuld denye hym myte
+ate whan he is a thurst: and veryoft
+thay requyre that of me, whiche
+a shamfast yongman dare scantly
+aske of a Bawde, yee they be suche
+thynges as I am ashamyd to put
+in wrytynge. Now comythe ye marchauntman
+and he redy to sayle into
+Spayne for a vantage, dothe
+cōmytte hys wyues honesty to me.
+Than commythe thet lytle preaty
+Nunne and she castythe away her
+vayle redy to runne away, she leuythe
+with me the good name of her
+vyrgynytye, whiche shortly she entendythe
+to take monay for. Than
+cryeth the wykyd soudyer purposyd
+to robbe &amp; saythe, blessyd lady send
+me a good praye. Now cōmythe the
+vnthryfty dyasser and cryethe, send
+me good chance Lady &amp; thow shalt
+haue parte of my wynnynges: and
+if the dyasse runne ayenst hym, he
+blasphemes, and cursythe me, bycause
+
+I wyll nat fauor his noghtynes.
+Now cryeth she that sellythe
+her selffe for fylthye lukre &amp; saythe,
+swete lady send me some costomers,
+&amp; if I denye it, they exclame ayenst
+me &amp; say, thou arte not the mother
+of marcy. Moreouer the vowes of
+some women be no lesse wykyd thā
+folishe. The mayd cryeth &amp; saythe,
+O swet Mary send me a fayre and
+riche husbond. The maryed womā
+saythe send me goodly chylderen.
+Now laborythe the woman with
+chyld, and cryeth dere lady dylyuer
+me of my bondes. Than cōmythe ye
+olde wyffe, and saythe flowre of all
+women send me to lyue longe withowt
+coghe and drynes. Now crepythe
+the dotynge oldman &amp; saythe,
+lady send me for to wax yonge ayē.
+Thā cōmythe forth the phylosopher
+and cryethe send me some argumē
+                  tis
+that be īsoluble. The great prest
+cryethe send me a fat benefyce. Thā
+                  
+saythe the bysshope kepe well my
+churche. Thā cryethe ye hye Iustyce
+shew me thy sone or I passe out of
+this worlde. Thā saythe ye Cowrtyer
+send me trwe confession at the
+howre of my deathe. The husbondman
+saythe send vs temperate wether.
+The mylke wyffe cryethe owt
+blessyd lady saue our catell. Now if
+I denye anythynge by &amp; by I am
+crwell. If I cōmytte it to me sone,
+I here them say, he wyll what so euer
+you wyll. Shall I than alone
+bothe a woman and a mayd helpe
+maryneres, sawd yeres, marchantmen,
+dyasseres, maryedmē, women
+with chyld, iudges, kynges, and husbondmen?
+ye and this that I haue
+sayd is the least parte of my payne.
+But I am nat now so moche trobled
+with soche busynes, for that I
+wold hartely thanke you, but that
+this commodytye dothe brynge a
+greater discōmodytye with hym. I
+
+haue now more ease, but lesse honor
+&amp; profett. Before this tyme I was
+callyd quene of heuen, lady of the
+world, but now any man wyll skarsly
+say a
+                     •
+                  e Maria or hayle Mary.
+Before I was clothyd with precyous
+stones and gold, and had my
+chaunges, and dayly ther was offeryd
+gold and precyous stones, now
+I am skarsly coueryd with halffe 
+                     •
+                  
+gowne and that is all beeyten with
+mysse. My yerly rentes be now so
+smalle yt I am skarsly able to fynde
+my pore quere kepar to light a wax
+cādle before me. Yet all this myght
+be sufferyd, but you be abowt to
+pluke away greater thynges, you
+be abowt (as they say) that what so
+euer any saynte hathe in any place,
+to take hyt frome the churches, but
+take hede what you doo. For ther is
+no saynte without a way to reuēge
+his wronge. If you cast saynt Petre
+forthe of the churche, he may serue
+
+you of the same sauce, and shite vp
+heuyngates ayenst you. Ye saynt
+Paule hathe his sworde. Barthylmew
+is nat wtowt his great knyffe.
+Saynt wyllyam is harnysyd vnder
+his monkes cloke, nat withowt a
+greate speare. What canst thou doo
+ayenst saynt George whiche is bothe
+a knyght &amp; all armyd with hys
+longe spere and his fearfull sword?
+Nor saynt Antony is nat withowt
+hys weapenes for he hathe holy fyre
+wt hym. Ye the rest of the sayntes
+haue theyr weapones or myschefues,
+whiche they send apon whome
+they liste. But as for me thou canst
+not cast owt, except thou cast owt
+my sone, whiche I hold in myne armes.
+I wyll nat be seperat frome
+hym, other thou shalt cast hym owt
+with me orels thou shalt let vs bothe be,
+except that you wold haue
+a temple withowt a Christe.
+               These be the thynges that I wold
+
+yow shall know ymagyne you therfore
+what shalbe your answer. For
+this thinge pleasythe me very well.
+Frome oure stony churche the calendes
+of Auguste, the yere frome
+my sonnes passyon a M.CCCCC.
+xiiij. I stony lady subscrybyd thys
+with myne owne hande.
+            
+            
+               Me.
+               Trewly
+that was a soro and fearfull epistle,
+I suppose that Glaucoplutus
+wyll beware frōhēsforthe.
+            
+            
+               Ogy.
+               
+                  Ye &amp;
+if he be wyse.
+            
+            
+               Me.
+               Wherfore dyd nat
+that good saynt Iames wryte to yt
+man of the same mater.
+            
+            
+               Ogy.
+               I can
+nat tell, except it be bycause he is so
+ferre of, and now a dayes men be
+moche searchyd for suche maters, &amp;
+in theyr iornaye theyr lettres takē
+frome them.
+            
+            
+               Me.
+               I pray you, what
+god dyd send you into Englōd?
+            
+            
+               Ogy.
+               I saw the wynd maruelouse prosperouse
+thyderward, and I had almoste
+promysyd this to that blessyd
+lady of Walsyngā that I wold seke
+
+her within .ij. yere,
+            
+            
+               Me.
+               What wold
+yo
+                     •
+                   axe of her.
+            
+            
+               Ogy.
+               No newthyngꝭ
+at all, but suche as be comen, as to
+kepe saffe and sownd my housholde,
+to encreasse my goodes, and in thys
+world to haue alōge and mery liffe,
+and whā I dye euerlastynge lyffe in
+another worlde.
+            
+            
+               Me.
+               May nat owr
+lady grante the same at home with
+vs? She hathe at Antwarpe a moche
+more lordly temple thā at Walsynganie.
+            
+            
+               Ogy.
+               I denye nat but it
+may be so, but in dyuers places she
+grantes dyuers thynges, wether it
+be her pleasur so to do, or bycause
+she is so gentle, that as cōcernynge
+this purpose, she wyll gyue her selfe
+to our affectyōes.
+            
+            
+               Me.
+               I haue harde
+oft of saynt Iames, but I pray you
+describe to me the kyngdome of
+Walsyngam.
+            
+            
+               Ogy.
+               Uerely I shall
+tell you as shortly as I canne. Yt
+is the most holy name in all England,
+and you may fynde some in
+
+that y
+                     •
+                  e, that suppose thayr substāce
+shal nat prospayre except they vysyte
+her with thayr offerynge euery
+yere ones as thay be able to gyue.
+            
+            
+               Me.
+               Wher dothe she dwell?
+            
+            
+               Ogy.
+               At
+the vttermost parte of all England
+betwyxt the Northe and the Weste,
+nat vary ferre frome the see, skarsly
+iij myles, the towne is almost susteynyd
+by the resort of pylgrymes.
+The college is of Canōes, but thay
+be suche as hathe thayr name of
+the Laten tonge and be called Seculares,
+a kynd betwyxte monkes &amp;
+Chanones.
+            
+            
+               Me.
+               What you tell me of
+Amphybyanes be thynges doutfull.Amphybyanes, suche as ye mōstre
+Fyber is abeste of ye see &amp; ye land.Fyber is.
+            
+            
+               Ogy.
+               No thay be rather
+suche as theA Cocatrice wil kyll a man with a loke, Cocatrice. But withowt
+dissimulation, I shall put you
+owt of this dowte in thre wordes.
+To them that thay hate, thay be
+Chanones, and to them that thay
+loue thay he Monkes
+            
+            
+               Menede.
+               Yet
+yowe doo nat open thys redle.
+            
+            
+               Ogy.
+               
+                  
+I shall paynte it before youre eyes,
+if the bysshope of Rome doo shot hys
+thonderbowlt amōgst all monkes,
+thay wyll than be chanones, &amp; nat
+monkes, but and if he wold suffre
+all monkes to take wyues, thā wyll
+they be monkes,
+            
+            
+               Me.
+               O new partakeres,
+I wold to god they wold take
+away my wyffe.
+            
+            
+               Ogy.
+               But to come
+to our purpose, the college hathe
+skarsly any otherRēttes. emolumētes but
+of the liberalite of our lady. For the
+great offeryngꝭ be kepyd stylle, but
+if ther be any litle some of monaye
+offerid that goith to the comens of
+the company, &amp; the mayster whome
+thay call pryoure.
+            
+            
+               Me.
+               Be thay of a
+vertuous lyffe?
+            
+            
+               Ogy.
+               Nat to be dispraysyd,
+thay be more vertuous thā
+ryche of thayr yerely renttes. The
+temple ys goodly &amp; goregious, but
+oure Lady dwellythe nat in it, but yt
+was purchasyd for the honor of her
+sone. She hathe her owne temple,
+
+that she may be of the ryght hand
+of her sone.
+            
+            
+               Me.
+               Apon the righthād?
+Whiche way dothe her sonne loke
+than?
+            
+            
+               Ogy.
+               It is well remembryd.
+Whan he lokythe to te West, his mother
+is apō his right hand, but whā
+he turnythe hym to the Este she is
+apon the lefte hand. But yet she
+dwelly the nat in that churche, for
+it is nat yet buyldyd all vpe, and the
+wynde runnythe thorow euery parte
+with open wyndowes &amp; dowres,
+and also nat ferre of is the Occiane
+seye father of all wyndes.
+            
+            
+               Me.
+               what
+doo yow tell me wher dothe she
+dwell thā?
+            
+            
+               Ogy.
+               In ye same churche
+whiche I told you was nat all fynyshyd,
+ther is a lytle chapell seelyd
+ouer with wodde, on ether syde a lytle
+dore wher ye pylgrymes go thorow,
+ther is lytle light, but of ye taperes,
+with a fragrant smell.
+            
+            
+               Me.
+               All
+these be mete for religyon.
+            
+            
+               Ogy.
+               Ye
+Menedemus if you loke within you
+
+wyll say that it is a seate mete for
+sayntes, all thynges be so bright wt gold, syluer, and precyous stones.
+            
+            
+               Me.
+               You almost moue me to go thyther
+also.
+            
+            
+               Ogy.
+               It sh
+                     •
+                  l nat repente
+you of your iornay.
+            
+            
+               Me.
+               Spryngithe
+ther no holy oyle?
+            
+            
+               Ogy.
+               I trowe
+you dote, that spryngythe nat but
+owt of the sepulchres of sayntes, as
+saynt Andrew, &amp; saynt Katerē, owr
+lady was nat beried.
+            
+            
+               Me.
+               I graūt I
+sayd amysse, but tell on your tale.
+            
+            
+               Ogy.
+               So moche more as thay persayue
+youre deuocyō, so moche larger
+reliques wyl thay shew to you.
+            
+            
+               Me.
+               Ye and peraduēture that thay
+may haue larger offerynges, as is
+sayd that, many lytle offerynges
+makythe a heuy boxe.
+            
+            
+               Ogygy.
+               Her
+chaplenꝭ be alway at hand.
+            
+            
+               Me.
+               Be
+thay of ye Chanones?
+            
+            
+               Ogy.
+               No, thay
+be nat permyttyd to be with her,
+lest that peraduenture by occasyon
+of that religyon, thay shuld be plukkyd
+
+frome thayr owne religyō, and
+whylst thay kepe that virgyne, thay
+regard very lytle thayr awne virgynyte,
+alonly in that inner chapell
+whiche is our ladyes preuy chābre,
+ther standithe a certayne Chanō at
+the autre.
+            
+            
+               Me.
+               For what purpose?
+            
+            
+               Ogy.
+               To receyue and kepe, yt whiche
+is offeryd.
+            
+            
+               Me.
+               dothe any man gyue
+ayenst hys wyll.
+            
+            
+               Ogy.
+               No, but many
+men hathe suche a gentle shamfastnes,
+that thay wyll gyue some
+thynge to hym that standythe by,
+other thay wyll offre more largely,
+whiche that wold nat doo perauē
+                  ture
+if that he were absent, yt standithe
+there.
+            
+            
+               Me.
+               You tell me of mannes
+affectiones, whiche I my selffe
+prouyd very ofte.
+            
+            
+               Ogy.
+               Ye trewly
+there be some so gyuē to our blessyd
+lady, that whan thay apere to putvpe
+thayr handes to offre, with a ꝓpre
+cōuayance, thay stayl yt whiche
+other men hathe gyuen.
+            
+            
+               Me.
+               Than
+
+lett no man be there; wyll nat oure
+Lady shote her thonderbowlte at
+suche.
+            
+            
+               Ogy.
+               Wherfor shuld our lady
+rather doo so, than God hymselffe,
+whom thay be nat affrayd to pluke
+owt hys robes, &amp; breake ye churche
+walles therfore.
+            
+            
+               Mene.
+               I am in a
+great doubt whether I shuld, rather
+maruayle apon thayre wykyd
+boldnes, or Goddys great gētlenes
+and longe sufferynge.
+            
+            
+               Ogy.
+               Apō the
+Northe parte ther is a certayne
+gaate, but lest that you should make
+a lye, it is nat of the churche, but of
+the pale that compassithe a bowte
+the churche yarde, and that hathe
+a lytle wykyt, suche as be in great
+mennes gaates, that who so euer
+wyll entre, must fyrst putin hys legge,
+nat withowt some ioperdie, and
+than bowe downe hys hedde.
+            
+            
+               Me.
+               It is ioperdie to goo thorow suche
+a dore, to a mannes enemye.
+            
+            
+               Ogy.
+               So it is, the sexten dyd tell me that
+
+ther was ones a knyght whiche
+fleeynge hys enemye, than aprochynge,
+dyd ride thorow ye wykyte,
+and than the wretche dispayrynge
+in hym selffe, apon a soden motion,
+dyd commend hymselffe to ye blessyd
+virgyne, whiche was than at hand.
+But now commythe the myrakle.
+By and by that knyght was all in
+the churche yarde, and hys aduersary
+was ragynge at the dore wt
+                  owte.
+            
+            
+               Me.
+               And dyd he tell you so
+maruylous a myrakle for a trewthe?
+            
+            
+               Ogy.
+               No dowte.
+            
+            
+               Me.
+               But I
+suppose that he could nat so lyghtely
+doo that to you so a great a philosopher.
+            
+            
+               Ogy.
+               He dyd shewe to me
+in that same wykytte in a plate of
+coper, the ymage of the knyght fastenyd
+with nayles and wt the same
+garmentes yt the Englishmen were
+wontyd to wayre at that tyme, as
+you may see in that olde pictures,
+whiche wylnat lye, Barbourꝭ had
+
+but lytle lyuynge at that tyme: and
+dieres &amp; websteres gotte but litle
+monay.
+            
+            
+               Me.
+               Why so?
+            
+            
+               Ogy.
+               For he
+had a berd like a goote, and his cote
+had neuer a plyte, &amp; it was so litle,
+that with strayte gyrdynge it mayd
+hys body to apere lesse than it was.
+Ther was another plate, that was
+in quantyte and fourme like to a
+cheste.
+            
+            
+               Me.
+               Well now it
+                     •
+                   is nat to be
+doubtyd apō.
+            
+            
+               Ogy.
+               Under ye wykyte
+ther was a grate of yrne, that no
+man cā passe theryn but a footemā,
+for it is nat conuenyent that any
+horsse shuld tread after apon y• place,
+whiche the knyght dyd cōsecrate
+to owr lady.
+            
+            
+               Me.
+               Nat withowt a
+good cause.
+            
+            
+               Ogy.
+               Frome that parte
+toward the Este, there is a litle chapell,
+full of maruayles and thyther
+I wēte, ther was I receyuyd of another
+of our ladyes chaplenes, ther
+we knelyd downe, to make our litle
+prayeres. By &amp; by, he broght for the
+
+the ioynte of a mannes fynger, the
+greatyste of thre, whiche I kyssyd, &amp;
+askyd whose relyques thay were,
+he dyd say that thay were saynt Petres.
+What thapostle sayd I. Ye sayd
+he. Than I dyd better beholde the
+ioynte, whiche for hys greatenes
+myght well haue be a Gyātes ioynte,
+rather than a mannes. Than
+sayd I, saynt Peter must nedys be a
+great man of stature. But at that
+word, ther was one of the gentlemē
+that stode by, that could not forbere
+lawghynge, for the whiche I was
+very sory. For if he had holden hys
+pease, we had sene all the relyques,
+yet we metely well pleasyd mayster
+Sextē, with gyuynge hym .ii. or .iij.
+grotes. Before that chapell there
+was a litle howsse, whiche he sayd
+ones in wynter tyme whan yt there
+was litle rowme to couer the reliques,
+that it was sodenly broght &amp;
+sett in that place. Under that house
+
+there was a couple of pittes, bothe
+fulle of water to the brynkys, and
+thay say that ye sprynge of thos pittes
+is dedicate to our lady, that water
+is very colde, and medycynable
+for the hede ake and that hartburnynge.
+            
+            
+               Me.
+               If that cold water wyll
+hele the paynes in the hede and stomake,
+than wyll oyle putowte fyre
+from hensforthe.
+            
+            
+               Ogy.
+               It is a myrakle
+that I tell, good syr, orels what
+maruayle shuld it be, yt cowld water
+shuld slake thurste?
+            
+            
+               Me.
+               This may
+well be one parte of your tale.
+            
+            
+               Ogy.
+               Thay say that the fowntayne dyd
+sodenly sprynge owte of the erthe at
+the commaundement of our lady, &amp;
+I dilygently examenynge althynges,
+dyd aske hym how many yeres
+it was sythe that howsse was so sodenly
+broght thyther. Many yeres
+agone saythe he. Yet, sayde I, the
+wallys doo nat apere so old. He dyd
+nat denay it. No mor thes woden
+
+pyleres. He cowld nat denay but yt
+they were sette there nat longe agoo,
+and also the mater dyd playnly
+testyfye ye same. Afterward, sayd
+I, thys roffe whiche is all of rede
+dothe apere nat to be very olde, &amp;
+he grantyd also, thes greete bemes
+whiche lye ouerthwerte, and these
+rafteres that hold vpe that howsse
+were nat sett longe agone. He affyrmyd
+my saynge. Well sayd I seynge
+that no parte of the housse is
+lefte but all is new, how can yow
+say that this was the house whiche
+was broght hyther so longe agoo.
+            
+            
+               Me.
+               I pray you how dyd the howskeper,
+auoyde hymselffe frome your
+argumēt.
+            
+            
+               Ogy.
+               By &amp; by he dyd shew
+to vs the mater by the skyne of a
+bayre whiche had hangyd be the
+rafteres alonge season, and dyd almost
+moke the symplenes of owre
+wyttes that could nat perceyue so
+manyfeste an argumēte we beynge
+
+perswadyd by this argument, askid
+pardon of our ignorance, and callid
+into our communycacyon the heuēly
+mylke of our lady.
+            
+            
+               Me.
+               O how
+like to the sone is the mother, for
+he hath left to vs so moche blood
+here in erthe, &amp; she so moche mylke,
+that a man wyl skarysly beleue a
+woman to haue so moche mylke of
+one chylde, in case the chyld shuld
+sukke none at all.
+            
+            
+               Ogy.
+               Thay saye
+the same of the holy crosse, whiche
+is shewyd in so many places bothe
+openly, and pryuately, that if ye fragmentes
+were gatheryd apon one
+heape, they wold apere to be a iuste
+fraghte for a shipe, and yet Christe
+dyd bere all his crosse hymselffe.
+            
+            
+               Me.
+               But do nat you maruayll at this?
+            
+            
+               Ogy.
+               It may welbe a strāge thynge,
+but no maruayle, seynge that the
+lord whiche dothe encreasse this at
+hys pleasure, is almyghty.
+            
+            
+               Me.
+               It is
+very gently expowndyd, but I am
+
+afrayd, that many of thes be faynyd
+for lukre.
+            
+            
+               Ogy.
+               I suppose yt God
+wold nat suffre hymselffe to be deludyd
+of suche a fasshion.
+            
+            
+               Mene.
+               Yis,
+Haue nat you sene that whā bothe
+the mother, the sone, the father, and
+the holy ghoste hathe be robbyd of
+thes sacrile gyous theues, that thay
+woldnat ones moue, or styre nother
+with bekke or crakke wherby thay
+myght fray away the theues. So
+great is the gentles of God.
+            
+            
+               Ogy.
+               So it is, but here out me tale. This
+mylke is kepyd apon the hye aultre,
+and in the myddys ther is Christe, wt 
+his mother apon hys ryght hand,
+for her honor sake, the mylke dothe
+represente the mother.
+            
+            
+               Me.
+               It may
+be sene than?
+            
+            
+               Ogy.
+               It is closyd in
+crystalle.
+            
+            
+               Me.
+               It is moyste thā?
+            
+            
+               Ogy.
+               What tell you me of moystenes, whā
+it was mylkyd more than a thowsand
+and fyue hunthrithe yere agone,
+it is so congelyd, that a mā wold
+
+saye that it were chalke temperyd
+with the whyte of a egge.
+            
+            
+               Me.
+               Ye, but do thay sette it forthe bare?
+            
+            
+               Ogy.
+               No, lest so holy mylke shuld be
+defowlyd with the kyssynge of men.
+            
+            
+               Me.
+               You say well. For I suppose yt
+ther be many that kysse it, whiche
+be nother clene mouthyd, nor yet be
+pure virgynes.
+            
+            
+               Ogy.
+               Whan ye sexten
+sawe vs, he dyd runne to the aultre,
+&amp; put apon hym his surplese, &amp; his
+stole about his nekke, knelyd downe
+relygyously, and worshipyd it, and
+streghtforthe dyd offre the mylke to
+vs to kysse. And at the ende of the
+aultre we knelyd downe deuoutly, &amp;
+the fyrste of all we salutyd Christe, &amp;
+than after we callyd apon our lady
+with thys prayer, whiche we had
+mayd redy for the same purpose. O
+mother &amp; mayde, whiche dyd gyue
+sukke with thy virgynes teates the
+lorde of heuen and yerthe, thy sone
+Iesus Christe, we beynge puryfyed
+
+thorowe hys precyous blode, do desyre
+that we may attayne, and come
+to that blessyd infancye of thy
+colombynes meknes, whiche is immaculate
+without malice, frawde,
+or diseyte, and with all affectyon of
+harte dothe couett and stody for the
+heuenly mylke of the euangelicall
+doctryne, to go for the and encrease
+with it into a perfaycte man, into
+the mesure of the plentefulnes of
+Christe, of whos cōpany thou haste
+the fruycyon, togyther with the father,
+&amp; the holy ghost for euermore,
+so be it.
+            
+            
+               Me.
+               Uerely thys is a holy
+prayer. But what dyd she?
+            
+            
+               Ogygy.
+               Thay bothe bekkyd at vs, excepte
+my eyes waggyd, and me thought yt
+the mylke daunsyd. In the meanseson
+the sexten came to vs, withowt
+any wordes, but he held out a table
+suche as the Germanes vse to gather
+tolle apon bridges.
+            
+            
+               Me.
+               By my
+trothe I haue cursyd very ofte suche
+
+crauynge boxes, whan I dyd
+ryde thorowe Germany.
+            
+            
+               Ogy.
+               We
+dyd gyue hym certayne monay
+whiche he offeryd to our lady. Thā
+I axyd by a certayne yonge man, yt
+was well learnyd, whiche dyd expownde
+and tell vs the saynge of ye
+Sextē, hys name (as fere as I remembre)
+was Robert alderisse, by
+what tokenes or argumētes he dyd
+know that it was the mylke of owr
+lady. And that I very fayne, &amp; for
+a good purpose desyred to knowe, yt
+I myght stope the mowthes of certayne
+newfanglyd felowes, that be
+w
+                     •
+                  tyd to haue suche holy relyques
+in derysyon and mokage. Fyrst of
+all the Sexten wt a froward cowntenāce
+wold nat tell, but I desyryd
+the yong man to moue hym more
+instantly, but somwhat more gently
+he so courtesly behauyd hymselffe, yt
+and he had prayd owr lady herselffe
+
+after yt fashion, she wold nat haue
+be dysplesyd therwith. And thā this
+mystycall chapleyn, as and if he
+had be inspyryd with ye holy ghoste,
+castynge at vs a frounynge loke, as
+&amp; if he wold haue shote at vs ye horryble
+thonderbolte of the greate
+curse, what nede you (saythe he) to
+moue suche questyones, whan yow
+see byfore your eyes so autentycall
+&amp; old a table. And we were afrayd
+lest that he wold haue cast vs out of
+the churche for heretykes, but that
+oure monay dyd tempre hys grea,
+te furye.
+            
+            
+               Mene.
+               What dyd you in
+the meaneseason?
+            
+            
+               Ogygyus.
+               What
+suppose you? We were amasyd as
+and if a man had stryke vs with a
+clube, or we had be slayne with a
+thonderclape, and we very lowly
+axid pardon of oure folishe boldenes,
+and gote vs frome thens. For
+so must we entreate holy thynges.
+
+Frome thens we went in to ye howse
+where owre lady dwellithe, and
+whan we came there, we sawe another
+Sexten whiche was but a
+noues, he lokyd famylarly as and if
+he had knowē vs, and whā we came
+a litle further in, we sawe another,
+yt lokyd moch after suche a fashion,
+at the last came the thyrd.
+            
+            
+               Me.
+               Perauenture
+thay desyryd to descrybe
+you.
+            
+            
+               Ogy.
+               But I suspecte another
+mater.
+            
+            
+               Mene.
+               What was it?
+            
+            
+               Ogygy.
+               There was a certayne theffe yt had
+stole almost all owr ladyes frontlet,
+and I supposyd yt they had me in suspycyon
+therof. And therfore whan
+I was within the chapell I mayd
+my prayers to ourlady after thys
+fashiō. Oh cheffe of all women Mary
+the mayd, most happy mother,
+moste pure virgyne, we vnclene, and
+synners, doo vysyte the pure &amp; holy,
+and after our abylytye we haue offeryd
+vnto the, we pray thy that thy
+
+sone may grante this to vs, that we
+may folow thy holy lyffe, and that
+we may deserue thorow the grace
+of the holy ghoste, spirytual
+                     •
+                  y to cō
+                  ceyue
+the lord Iesus Christ, &amp; after
+that conceptyon neuer to be separat
+frome hym, Amen. This done
+I kyssyd the aultre, and layd downe
+certayne grotes for myne offerynge
+and went my waye.
+            
+            
+               Me.
+               What dyde
+our lady now, dyd nat she make one
+sygne, that you myght know that
+she had hard youre prayeres.
+            
+            
+               Ogy.
+               The lyght (as I told you before)
+was but litle, and she stode at the
+ryght ende of the aultre in the derke
+corner, at the last the commumcatyō
+of the fyrst Sexten had so discoregyd
+me, that I durst nat ones
+loke vpe with myne eyes.
+            
+            
+               Me.
+               This
+                     •
+                  
+pylgremage came but to smale effecte.
+            
+            
+               Ogy..
+               Yes, it had a very good &amp;
+mery ende.
+            
+            
+               Me.
+               You haue causyd me
+to take harte of grasse, for (as Homere
+
+saythe) my harte was almost
+in my hose.
+            
+            
+               Ogy.
+               Whan dynar was
+done, we returnyd to ye temple.
+            
+            
+               Me.
+               Durfte you God &amp; be susspecte of felonye?
+            
+            
+               Ogy.
+               Perauenture so, but I
+had nat my selffe in suspiciō, a gyltles
+mynde puttythe away feare. I
+was very desyrous to see that table
+whiche the holy Sexten dyd open
+to vs. At the last we fownde it, but
+it was hāgyd so hye that very fewe
+could rede it. My eyes be of that fashion,
+that I can nother be callyd
+Linceus ys abeaste so quike eyed yt it wyll see thorow any wallLinceus, nother purre blynd.
+And therefore I instantly desyryd
+Alldryge to rede it, whose redynge
+I folowyd with myne owne eyes,
+because I wold skarsly truste hym
+in suche a mater.
+            
+            
+               Me.
+               Well, now all
+doubtes be discussyd.
+            
+            
+               Ogy.
+               I was ashamyd
+that I doubtyd so moche, ye
+mater was so playne setforthe before
+oure eyes, bothe the name, the
+p
+                     •
+                  ace. the thynge it selffe as it was
+
+done, to be breffe, there was nothynge
+lefte owte. There was a mane
+whos name was Wylyam whiche
+was borne in Parise, a man very
+deuoute in many thyngꝭ, but pryncypally
+excedynge relygyous in
+searchynge forthe relyques of all
+sayntes thorowo wt all the worlde.
+He after that he had vysytyd many
+places, contrayes, and regyones, at
+the laste came to Cōstantynenople.
+For Wylhelmes brother was there
+byshope, whiche dyd make hym pryuy
+to a certayne mayde, whiche had
+professyd chastyte, that hadde parte
+of oure ladyes mylke, whiche were
+an excedynge precyous relyque, if
+that other with prayer, or monaye,
+or by any crafte it myghte be gotte.
+For all the reliques that he hadde
+gotte before were but tryfles to so
+holy
+                     •
+                   
+                  
+                     •
+                  ylke. Wyllyam wold nat rest
+there tyll that he had gotte halffe of
+that holy mylke, but whan he had
+
+it, he thoghte that he was richer
+than Croeseus.
+            
+            
+               Me.
+               Why nat, but
+was it nat withowt any good hope?
+            
+            
+               Ogy.
+               He went thā streght home, but
+in hys iornay he fell seke.
+            
+            
+               Me.
+               Iesu
+there is nothynge in thys worlde yt
+is other permanent, or alwayes in
+good state.
+            
+            
+               Ogy.
+               But whan he sawe
+&amp; perceyuyd that he was in greate
+ioperdye of his lyffe, he callyd to him
+a frenchman, whiche was a very
+trusty companyon to hym in hys
+iornay. And commaundyd all to auoyd
+the place, and make sylence, &amp;
+pryuyly dyd betake to hym thys
+mylke, apon this condycyō, that if it
+chāsyd to come home saffe &amp; sownde
+he shuld offre that precyous tresure
+to our ladyes aultre in Paryse,
+whiche standythe in the myddys of
+the ryuere Sequana, whiche dothe
+apere to separat hymselffe to h
+                     •
+                  nor
+and obaye our blessyd lady. But to
+make short tale. Wylyam is deade, &amp;
+
+buryed, the Frenchman mayd hym
+redy to departe apon hys iornay, &amp;
+sodēly fell seke also. And he in great
+dyspayre of amendynge, dyd commyth
+ye mylke to an Englishmā, but
+nat withowt great instance, and
+moche prayer he dyd that whiche
+he was mouyd to doo. Than dyed
+he. And ye other dyd take the mylke,
+and put it apon an aultre of ye same
+place the Chanones beynge presente,
+whiche were yt as we call Regulares.
+Thay be yet in the abbaye
+of saynt Genofeffe. But ye Englishmā
+obtaynyd the halffe of that mylke, &amp;
+caryed it to Walsyngā in England,
+the holy ghost put suche in hys mynde.
+            
+            
+               Me.
+               By my trothe this is a godly
+tale.
+            
+            
+               Ogy.
+               But lest there shuld be
+any doubte of this mater, ye Byshopes
+whiche dyd grante pardon to it
+thayre names be wryten there, as
+thay came to vysyte it, nat withowt
+thayre offerynges, and thay haue
+
+gyuen to it remyssyon, as moche as
+thay had to gyue by thayre authorite.
+            
+            
+               Me.
+               How moche is that?
+            
+            
+               Ogy.
+               Fowrty dayes.
+            
+            
+               Mene.
+               Yee is there
+dayes in hell.
+            
+            
+               Ogy.
+               Trewly ther is
+tyme. Ye but whan thay haue grā
+                  tyd
+all thayre stynte, thay haue no
+more to grante.
+            
+            
+               Ogy.
+               That is nat so
+for whan one parte is gone another
+dothe encrease, and it chansythe dyuersly
+euyn as the tonne of 
+                     •
+                  anaidus.
+For that althoghe it be incontynently
+fyllyd, yet it is alway emptye:
+and if thou be takynge owt of
+it, yet there is neuer the lesse in the
+barell.
+            
+            
+               Me.
+               If thay grāte to an hunderithe
+thowsand mē fowrty dayes
+of pardone, shuld euery man haue
+elyke?
+            
+            
+               Ogy.
+               No doubte of that.
+            
+            
+               Me.
+               And if any haue forty byfore dynar,
+may he axe other forty at after sou
+                  
+                     •
+                  er,
+is there any thynge lest than to
+gyue him?
+            
+            
+               Ogy.
+               Ye, &amp; if thou aske it
+tentymes in one howre.
+            
+            
+               Me.
+               I wold
+
+to God that I had suche a pardon
+bagge, I wold aske but .iij. grotes,
+and if thay wold flowe so faste.
+            
+            
+               Ogy.
+               Ye but you desyre to be to ryche, if yt
+you myght for wyshynge, but I wyl
+turne to my tale, but there was some
+good holy man whiche dyd gyue
+this argumente of holynes to that
+mylke, and sayd that our Ladyes
+mylke whiche is in many other places,
+is precyous &amp; to be worshipyd,
+but thys is moche more precyous, &amp;
+to be honoryd, bycause the other
+was shauen of stones, but this is the
+same that came out of the virgynes
+brest.
+            
+            
+               Me.
+               How kno you that?
+            
+            
+               Ogy.
+               The mayd of Cōstantynople, which
+dyd gyue it, dyd saye so.
+            
+            
+               Me.
+               Perauenture
+saynt Barnard dyd gyue it
+to her.
+            
+            
+               Ogy.
+               So I suppose. For whā
+he was an old man, yet he was so
+happy yt he sukkyd of y• same mylke,
+that Iesus hymselffe sukkyd apon.
+            
+            
+               Me.
+               But I maruayle why he was
+
+rather callyd a hony sukker than a
+mylke sukker. But how is it callyd
+oure ladyes mylke that came neuer
+owt of her breste?
+            
+            
+               Ogy.
+               Yes it came
+owt at her breste, but perauenture
+it light apon the stone yt he whiche
+sukkyd knelyd apon, and ther was
+receyuyd, and so is encreasyd, &amp; by
+ye wyll of god is so multyplyed.
+            
+            
+               Me.
+               It is wel sayd.
+            
+            
+               Ogy.
+               Whan we had
+sene all thys, whyle that we were
+walkynge vpe &amp; downe, if that any
+thynge of valure were offeryd, so yt
+any body were present to see thaym
+ye Sextens mayd great haste for feare
+of crafty cōuayēce, lokynge apō
+thaym as thay wold eate thaym.
+Thay poynte at hym with there
+fynger, thay runne, thay goo, thay
+come, thay bekke one to an other,
+as tho thay wold speake to thaym
+that stand by if thay durste haue be
+bold.
+            
+            
+               Mene.
+               Were you af
+                     •
+                  rayd of nothynge
+there?
+            
+            
+               Ogy.
+               Yis I dyde loke
+
+apō hym, lawghynge as who shold
+saye I wold m
+                     ••
+                  e hym to spe
+                     •
+                  ke to
+me
+                     •
+                  , at 
+                     ••
+                  ste he cam to me, and a
+                     •
+                  id
+me what was my name, I told him.
+He axid me if yt were nat I that
+dyd hange vpe there a table of 
+                     •
+                  y
+vowe writen in Hebrew, with i
+                     •
+                   .ij.
+yere before. I confessi
+                     •
+                   that it was
+ye same.
+            
+            
+               Me.
+               Cā you wryte hebrewe?
+            
+            
+               Ogygy.
+               No but all that thay cānat
+vnderstond, thay suppose to be Hebrewe.
+And than (I suppose he was
+send for) came the posterior pryor.
+            
+            
+               Me.
+               What name of worshipe is yt?
+Haue thay nat an abbate?
+            
+            
+               Ogy.
+               No
+            
+            
+               Me.
+               Why so?
+            
+            
+               Ogy.
+               For thay cannat
+speake Hebrew.
+            
+            
+               Me.
+               Haue thay nat
+a Bishope?
+            
+            
+               Ogy.
+               No.
+            
+            
+               Me.
+               What is ye
+cause?
+            
+            
+               Ogy.
+               For oure lady is nat as
+yet so ryche, that she is able to bye a
+crosse, &amp; a mytre, whiche be so deare,
+            
+            
+               Me.
+               Yet at least haue thay nat a presedente?
+            
+            
+               Ogy.
+               No veryly. What lettythe
+thaym?
+            
+            
+               Ogy.
+               That is a name
+
+of dignyte and nat of relygyō. And
+also for that cause suche abbayes
+of Chanones, doo nat receyue the
+name of an abbate, thay doo call
+thaym maysters?
+            
+            
+               Me.
+               Ye, but I neuer
+hard tell of pryor posterior before.
+            
+            
+               Ogy.
+               Dyd you neuer learne
+youre grāmere before.
+            
+            
+               Me.
+               Yis I
+know prior posterior amōgst the fygures.
+            
+            
+               Ogy.
+               That same is it. It is
+he that is nexte to the prioure, for
+there priour is posterior.
+            
+            
+               Me.
+               You
+speake apon the supprioure.
+            
+            
+               Ogy.
+               That same dyd entertayne me very
+gently, he told me what greate
+labure had be abowt ye readynge of
+thos verses, &amp; how many dyd rubbe
+thayr spectakles abowt thaym.
+As oft as any old ancyent doctor
+other of deuynyte or of the lawe, resortyd
+thyder, by and by he was
+broght to that table, some sayd yt
+thay were lettres of Arabia, some
+sayd thay were faynyd lettres. Well
+
+at the last came one that redde the
+tytle, it was wryten in laten with
+greate Romayne lettres, ye Greke
+was wryten with capytale lettres
+of Greke, whiche at the fyrst syght
+do apere to be capytale latē lettres,
+at thayr desyer I dyd expownde ye
+verses in laten, trāslatynge thaym
+word for word. But whā thay wold
+haue gyuyn me for my labour, I refusyd
+it, seynge that ther was no
+                     •
+                  thynge
+so hard that I wold not doo
+for our blessyd ladyes sake, ye thogh
+she wold commaūd me to bere this
+table to Hierusalē.
+            
+            
+               Me.
+               What nede
+you to be her caryoure, seynge that
+she hathe so many angelles bothe
+at her hedde and at her fette.
+            
+            
+               Ogy.
+               Than he pullid owt of hys pur
+                     ••
+                  e a
+pece of wodde, that was cutt owte
+of the blokke that our ladye lenyd
+apon. I perceyuyd by and by thorow
+the smell of it, that it was a holy
+thynge. Than whan I sawe so
+
+greate a relyque, putt of my cappe,
+and feldowne flatte, &amp; very deuoutly
+kyssyd it .iij. or .iiij tymes, poppyd
+it in my pursse.
+            
+            
+               Me.
+               I pray you may
+a man see it?
+            
+            
+               Ogy.
+               I gyue you good
+leue. But if you be nat fastynge,
+or if you accompanyed with yowre
+wyffe the nyght before, I conceyle
+you nat to loke apon it.
+            
+            
+               Me.
+               O blessed
+arte thou that euer thou gotte
+this relyque.
+            
+            
+               Ogy.
+               I may tell you
+in cowncell, I wold nat gyue thys
+litle pece for all ye gold that Tagus
+hathe, I wyll sett it in gold, but so yt
+it shall apere thorow a crystall stone.
+And than the Supprioure whā
+he sawe that I dyd take the relyque
+so honorably, he thoght it shuld nat
+be lost, in case he shuld shew me
+greater mysteries, he dyd aske me
+whether I hadde euer sene our ladyes
+secretes, but at that word I
+was astonyed, yet I durst nat be so
+so bold as to demande what thos
+
+secretes were. For in so holy thynges,
+to speake a mysse is no small
+danger. I sayd that I dyd neuer se
+thaym, but I sayd that I wold be
+very glade to see thaym. But now
+I was broght in, and as I had be
+inspired with the holy ghost, than
+thay lyghtyd a couple of taperes, &amp;
+setforthe a litle ymage, nat couryously
+wroght, nor yet very gorgeous,
+but of a meruelous 
+                     •
+                  tue.
+            
+            
+               Me.
+               That litle body hathe smale powre
+to worke myrakles. I saw saynt
+Christopher at Parise, nat a cartelode,
+but as moche as a greate hy
+                     •
+                  
+                  le
+yet he neuer dyd myrakles as
+farre as euer I herd telle.
+            
+            
+               Ogy.
+               At
+our ladyes fette there is a precyous
+stone, whos name as it is nother in
+Greke nor Laten. The Frenchemā
+gaue it the name of a tode, bycause
+it is so like, that no man (althoghe
+he be conynge) can set it forthe more
+lyuely. But so moche greater is
+
+the myrakle, that the stone is litle,
+the fourme of the tode dothe nat apere,
+but it shynythe as it were enclosyd
+within that precyous stone.
+            
+            
+               Me.
+               Perauenture they ymagyne ye
+symylytude of a tode to be there,
+euyn as we suppose whan we cutte
+ye fearne stalke there to be an egle,
+and euyn as chyldren (whiche they
+see nat indede) in ye clowdes, thynke
+they see dragones spyttynge fyre, &amp;
+hylles flammynge with fyre, &amp; armyd
+mē encownterynge.
+            
+            
+               Ogy.
+               No,
+I wold you shuld know it, there is
+no lyuynge tode that more euydētly
+dothe expresse hymselffe than it
+dyd there playnly apere.
+            
+            
+               Me.
+               Hetherto
+I haue sufferyd thy lyes, but
+now get the another what wyll beleue
+the, thy tale of a tode.
+            
+            
+               Ogy.
+               No
+maruayle Menedemus thogh you
+be so disposyd, for all the world cannot
+make me to beleue yt, not &amp; all
+doctoures of dyuynyte wold swere
+
+it were trewe. But that I sawe it
+with myne eyes, ye with thes same
+eyes, dyd I proue it. But in ye meanseson
+me thynke you regard naturall
+phylosophye but litle.
+            
+            
+               Me.
+               why
+so, because I wyll nat beleue ye a
+                     ••
+                  es
+flye?
+            
+            
+               Ogy.
+               An do you nat se, how nature
+the worker of all thynges, dothe
+so excell in expressynge ye fourme
+bewty, &amp; coloure of thaym maruylously
+in other thynges, but pryncypaly
+in precyous stones? moreouer
+she hathe gyuen to ye same stones
+wonderouse vertu and strēkthe
+that is almost incredyble, but that
+experience dothe otherwyse testyfye.
+Tell me, do you beleue that a
+Adam and
+                     •
+                   stone wold drawe vnto
+him stele wtowt any towchynge
+therof, and also to be seꝑate frome
+him ayen of hys owne accorde, excepte
+that yow had sene it with
+yowre eyes.
+            
+            
+               Me.
+               No verely, nat and
+if .x. Arystoteles wold perswade me
+
+to the cōtrarye.
+            
+            
+               Ogy.
+               Therfore bycause
+you shuld nat say thys were
+a lye, in case you here any thynge,
+whiche you haue not sene prouyd.
+In a stone callyd Ceraunia we see
+ye fashon of lightnynge, in the stone
+Pyropo wyldfyre, Chelazia dothe
+expresse bothe the coldnes and the
+fourme of hayle, and thoghe thou
+cast in to the hote fyre, an Emrode,
+wyll expresse the clere water of the
+seye. Carcinas dothe counterfayte
+ye shape of a crabfish
+                     •
+                  . Echites of
+the serpente vyper. But to what
+purpose shuld I entreat, or inuestygate
+the nature of suche thynges
+whiche be innumerable, whā there
+is no parte of nature nor in the elementes,
+nother in any lyuynge creature,
+other in planetes, or herbes ye
+nature euyn as it were all of pleasure,
+hathe not expressyd in precyous
+stones? Doo yow maruayle thā
+yt in thys stone at owre ladies fote,
+
+is the fourme and fashon of a tode?
+            
+            
+               Me.
+               I maruayle that nature shuld
+haue so moche lesure, so to counterfayt
+the nature of althynges.
+            
+            
+               Ogy.
+               It was but to exercyse, or occupye
+the curyosytye of mannes
+wytte, and so at the lest wyse to kepe
+vs frome ydlenes, and yet as
+thoghe we had nothynge to passe ye
+tyme with all, we be in maner
+made apon foles, apon dyesse, and
+crafty iogeleres.
+            
+            
+               Me.
+               You saye very
+truthe.
+            
+            
+               Ogy.
+               There be many men
+of no smale grauytye, that wyll say
+thys kynd of stones, if that you put
+it in vynagre, it wyll swyme, thoge
+you wold thruste it downe with violence.
+            
+            
+               Me.
+               Wherfore do thay sette a
+tode byfore our lady?
+            
+            
+               Ogy.
+               Bycause
+she hathe ouercome, trode vnderfote,
+abolyshyd all maner of vnclennes,
+poysō, pryde, couytousnes, and
+all wordly affectyones that raygne
+in man.
+            
+            
+               Me.
+               Woo be to vs, that haue
+so many todes in owre hartes.
+            
+            
+               
+               Ogygy.
+               We shalbe purgyd frome
+thaym all, if we dylygētly worshipe
+owre lady.
+            
+            
+               Me.
+               How wold she be
+worshipyd.
+            
+            
+               Ogy.
+               The most a
+                     ••
+                  eptable
+honor, that thou canste 
+                     〈◊〉
+                   to
+her is to folowe her lyuynge.
+            
+            
+               Me.
+               You haue told all atones. But this
+is hard to brynge to pass.
+            
+            
+               Ogy.
+               You
+saye truthe, but it is an excellen
+                     •
+                  e
+thynge.
+            
+            
+               Me.
+               But go to, and tell on
+as you begane.
+            
+            
+               Ogy.
+               After thys to
+come to owre purpose, the Supprioure
+shewyd to me ymages of gold
+and syluer, and sayd, thes be pure
+gold, and thes be syluer and gyltyd,
+he told the pryce of euery one of
+thaym, and the patrone. Whan I
+wonderyd, reioysynge of so maruelouse
+ryches, as was abowt our lady,
+than saythe the Sextē bycause
+I percayue, that you be so vertuously
+affecte, I suppose it greate
+wronge, to hyde any thynge frome
+you, but now you shall see the pryuytyes
+
+of our lady, and than he pullyd
+owt of the aultre a whole world
+of maruayles, if I shuld tell you of
+all, a whole daye wold nat suffyse, &amp;
+so thys pylgremage chansyd to me
+most happy. I was fyllyd euyn full
+withe goodly syghts, and I brynge
+also with me this wonderous relyque,
+whiche was a tokē gyuen to me
+frōe our lady.
+            
+            
+               Me.
+               Haue you nat it
+prouyd, what valewre your woden
+relyque is on?
+            
+            
+               Ogy.
+               Yis, yt I haue, in
+a certayne Inne within thys thre
+dayes, ther I fownde a certayne
+man yt was bestraght of hys wytte,
+whiche shuld haue be bownde, but
+thys woden relyque was put vnder
+hys nekke pryuyly, wherapon he
+gad a sadde and sownd sleape, but
+in the mornynge he was hole and
+sownde as euer he was before.
+            
+            
+               Me.
+               It was nat the phrenysy, but the
+dronkē dropsye, sleape ys wontyd to
+be a good medicyne for yt dysease.
+            
+            
+               
+               Ogy.
+               Whā you be dysposyd to skoffe
+Menedemus, yt ys best yt you gette
+a nother maner of gestynge stokke
+than thys, for I tell you it is nother
+good nor holsome, to bowrde so wt 
+sayntes. For thys same mā dyd say,
+that a woman dyd apere to hym,
+in hys sleape, after a maruelouse
+fashion, whiche shold gyue hym a
+cuppe to drynke apon.
+            
+            
+               Mene.
+               I suppose
+it wasElleborum wyll restore a man to hys senses that hathe lost thē. Elleborū.
+            
+            
+               Ogy.
+               That
+is vncertayne, but I kno well yt mā
+was well broght into hys mynde
+ayen.
+            
+            
+               Me.
+               Dyd you other come or
+goo by Sante Thomas of Cantorbury
+that good archebishope.
+            
+            
+               Ogy.
+               What els / there ys no pylgremage
+more holy.
+            
+            
+               Me.
+               I wold fayne here
+of yt, and I shold nat trouble you.
+            
+            
+               Ogy.
+               I pray you here, &amp; take good
+hedd. Kente ys callyd that parte of
+England, yt buttythe apon Fraūce
+and Flanders, the cheffe cytye there
+of ys Cantorburye, in yt there be ij.
+
+Abbayes, bothe of thaym be of Saynte
+Benedyctꝭ ordre, but yt which
+ys callyd Saynte Augustynꝭ dothe
+apere to be the oldre, that whiche
+ys callyd now Saynte Thomas
+dothe apere to haue be the Archebyshope
+of Cantorburys see, where
+as he was wontyd to lyue wt a sorte
+of monkes electe for hym selffe, as
+Byshopes now adayes be wontyd
+to haue thayr howses nye vnto the
+churche, but aparte frome other canonꝭ
+howses. In tymes paste bothe
+Byshopes &amp; Chanones were wontyde
+to be monkes, as may be playnly
+prouyd by many argumentes.
+The churche which ys dedycate to
+Saynte Thomas, dothe streche
+vpe apon heght so gorgeously, that
+it wyll moue pylgrymes to deuocion
+a ferre of, and also withe hys
+bryghtnes and shynynge he dothe
+lyght hys neybures, &amp; the old place
+whiche was wontyd to be most holy,
+
+now in respecte of it, is but a darke
+hole and a lytle cotage. There be
+a couple of great hye toures, which
+doo seme to salute strangeres aferre
+of, and thay dow fyll all the contray
+abowt bothe farre and nere, wt
+the sownde of great belles, in the
+fronte of the temple, whiche is apō
+the southe syde, there stand grauen
+in a stone thre armyd men, whiche
+with thayr cruell handes dyd sleye
+the most holy saynte Thomas, and
+there is wryten thayr surnames
+Tracy, Breton, and Beryston.
+            
+            
+               Me.
+               I pray you wharfore doo thay suffer
+thos wykyd knyghtes be so had
+in honoure.
+            
+            
+               Ogy.
+               Euyn suche honor
+is gyuen to thaym as was gyuē to
+Iudas, Pylate, and Caiphas, &amp; to
+the compa
+                     •
+                  y of the wykyd so wdyeres,
+as you may se payntyd in the
+tables that be sett byfore aultres.
+Thayr surnames be put to lest any
+man hereafter shuld vsurpe any
+
+cause of thayr prayse. Thay be
+payntyd byfore mennes eyes, bycause
+that no cowrtyer after thys
+shuld laye violēt han
+                     •
+                  es other apō
+Byshopes, or the churche goodes.
+For thes thre of this garde strayght
+a
+                     •
+                  on that wykyd acte, wente starke
+madde, nor thay had neuer had
+thayr mynde ayen, but that thay
+prayd to blessyd saynt Thomas.
+            
+            
+               Me.
+               O blessyd pacyence of suche martyres.
+            
+            
+               Ogy.
+               At our entre in, lord what
+a pryncely place dyd apere vnto vs,
+where as euery mā that wyll may
+goo in.
+            
+            
+               Me.
+               Is there no maruayle
+to be sene.
+            
+            
+               Ogy.
+               Nothynge but the
+greate wydnes of the place, and a
+sorte of bokes, yt be bownde to pyleres
+wherein is the gospell of Nicodemus,
+and I cannat tell whos sepulkre.
+            
+            
+               Me.
+               What than?
+            
+            
+               Ogy.
+               Thay
+do so dylygētly watche lest any mā
+shulde entre in to the quere of yron,
+that thay wyll skarsly fuffre a man
+
+to loke apon it, whiche is betwyxte
+the greate churche &amp; the hye quere
+(as thay calle it) a man that wyll go
+thyther must clyme vp many stayres
+byfore, vndre the whiche there
+is a certayne wykyt with a barre yt
+openythe the dore apon the northe
+syde. There standythe forthe a certayne
+aultre whiche is dedycate to
+our lady, it is but a lytleone, and I
+suppose set there for no other purpose,
+but to be a olde monumēt or
+sygne, that in thos dayes there was
+no greate superfluyte. There thay
+saye that thys blessyd martyr sayd
+his last good nyght to our lady, whā
+he shuld departe hensse. In ye aultre
+is the poynte of the sword that styryd
+abowt the braynes of thys blessyd
+martyr. And there lye his braynes
+shed apon the yerthe, wherby
+you may well knowe yt he was nere
+deade. But the holly ruste of thys
+grat I deuoutly kyssyd for loue of ye
+                  
+blessyd martyr. From thens we wēt
+vndre the crowdes, whiche is nat
+withowt hys chaplaynes, &amp; there
+we sawe the brayne panne of that
+holy martyr whiche was thraste
+quyte thorow, all the other was coueryd
+with syluer, the ouerparte of
+the brayne panne was bare to be
+kyssyd, and there with all is sethforthe
+a certayn leden table hauynge
+grauyd in hym a tytle of saynte
+Thomas of Acrese. There hange
+also the sherte of heyre, &amp; hys gyrdle
+with hys heren breches where
+with that noble champyō chastnyd
+hys body, thay be horryble to loke
+apon, and greatly reproue oure delycate
+gorgeousnes.
+            
+            
+               Me.
+               Ye perauē
+                  ture
+so thay do the mōkes slotefulnes.
+            
+            
+               Ogy.
+               As for that mater I cā
+                  nat
+affyrme nor yet denye, nor yet
+it is no poynte of my charge.
+            
+            
+               Me.
+               Ye saye truthe.
+            
+            
+               Ogy.
+               Frome thens
+we returnyd in to the quere, &amp; apon
+
+ye northe syde be ye relyques shewyd,
+a wonderouse thynge to se, what a
+sort of bones be broght forthe, skulles,
+iawes, thethe, handes, fyngres,
+hole armes, whā we had worshipyd
+thaym all, we kyssyd thaym, that I
+thoght we shuld neuer haue mayd
+an ende, but that my pylgremage
+felow whiche was an vnmete companyon
+for suche a busynes, prayd
+thaym to make an end of sethynge
+forthe thayre relyques.
+            
+            
+               Me.
+               What
+felowe was that?
+            
+            
+               Ogy.
+               He was an
+Englyshmā callyd Gratiane colte
+a man bothe vertuouse and well
+learnyd, but he had lesse affectyon
+toward pylgremages than I wold
+that he shuld haue.
+            
+            
+               Me.
+               One of Wyclyffes
+scoleres I warrante you?
+            
+            
+               Ogy.
+               I thynke nat, althoghe he
+hadde redde hys bokes, how he came
+by thaym I cannattell.
+            
+            
+               Me.
+               He
+dysplesyd mayster. Sextē greuofly.
+            
+            
+               Ogy.
+               Thā was there broght forthe
+
+an arme whiche had yet the redde
+fleshe apon it, he abhorryd to kysse
+it, a man myght se by hys countenance
+that he was nothynge well
+pleasyd, &amp; than by and by mayster
+Sexten put vp hys relyques. But
+than we lokyd apō the table whiche
+was apō the aultre, and all hys gorgeousnes,
+aftrewarde thos thyngꝭ
+that were hydde vnder the aultre.
+ther was nothynge but riches excedynge,
+a man wold accompte both
+Midas and Cresus beggers in respecte
+of thos riches that ther was
+sett abrode.
+            
+            
+               Me.
+               Was ther no more
+kyssynge thē?
+            
+            
+               Ogy.
+               No, but an other
+affection and desyre came apō me.
+            
+            
+               Me.
+               What was that?
+            
+            
+               Ogy.
+               I syghed
+yt I had no suche relyques at home.
+            
+            
+               Me.
+               Oh a wycked desyre &amp; an euyl
+thought
+            
+            
+               Ogy.
+               I graunt, and there
+                     •
+                  fore
+I axyd, forgyfnes of Saynt Thomas
+before I remouyd one fote, to
+departe out of the churche. After
+
+thes thus we were brought in to ye
+reuestry, o good lorde what a goodly
+syght was ther of vestmētes of veluet
+&amp; clothe of golde, what a some
+of candlestykes of gold? We sawe
+ther saynt Thomas crosse staffe,
+ther was seē also a rede ouerlayed
+with syluer, it was but of a smalle
+wyght, vnwrought, nor no longer
+then wold retch vnto a mans mydgle.
+            
+            
+               Me.
+               Was ther no crosse?
+            
+            
+               Ogy.
+               I
+sawe none at all, ther was shewed
+vs a robe of sylke treuly, but sowed
+with cowrse threde, garnysshyd wt
+nother gold nor stone. Ther was
+also a napkyn full of swette blody,
+wher with saynt Thomas wypyd
+bothe hys nose and hys face, these
+thynges as monumētes of auncyent
+sobernes we kyssed gladely.
+            
+            
+               Me.
+               Be not these thynges showed to euery
+body?
+            
+            
+               Ogy.
+               No for sothe good
+syr.
+            
+            
+               Me.
+               How happened it that you
+were in so good credens, that no secret
+
+thynges were hyd frome you?
+            
+            
+               Ogy.
+               I was well acquyntede with
+the reuerende father Gwylyame
+warham the archbyshope. He wrote
+.ij. Or .iij. wordes in my fauour.
+            
+            
+               Me.
+               I here of many that he is a mā
+of syngler humanite.
+            
+            
+               Ogy.
+               But rather
+thou woldest call hym humanite
+it selfe if thou dydest well know
+hym. For ther is in hym soche lernynge,
+so vertuouse lyffe, soche purenes
+of maneres, that a mā cowld
+wyshe no gyfte of a ꝑfayte Byshope
+in him, that he hathe nat. Frome
+thens afterward we were ladde to
+greater thynges. For behyndethe
+hyghe aultre, we ascēdyd as it were
+in to a nother new churche, ther
+was shewed vs in a chapell the face
+of the blessed man ouergylted and
+with many precyous stones goodly
+garnysshed. A soden chaunse here
+had almost marred the matter and
+put vs out of conceyte.
+            
+            
+               Me.
+               I tary
+
+to knowe what euyl chaunse yow
+wyll speke of.
+            
+            
+               Ogy.
+               Here my companyō
+Gratiā gote hym lytle fauoure,
+for he, after we had mad an ende of
+praynge, inquyred of hym that sate
+by the hede, herke, he seyd, good father,
+is it true that I here, yt saynt
+Thomas whyl he it lyued was mercyfull
+toward ye poer people? That
+is very true saythe he, and he begā
+to tell greatly of his liberalyte and
+compassyon that he shewede to the
+poer and nedy. Then sayd Gratiā:
+I thynke that affection and good
+mynd in him not to be chaungyde,
+but yt it is now moche better. Unto
+this graunted ye keper of the hede,
+agayn sayd he, then in as moche as
+thys holy man was so gratyouse
+vnto ye poer, whan he was yet poer,
+&amp; he hym selfe had nede of monay
+for ye necessarys of hys body, thynke
+ye nat that he wold be contēt, now
+that he is so ryche, and also nedethe
+
+nothynge, that if a poer womā hauynge
+at home chylderne lakynge
+mete and drynke, or els doughters
+beynge in danger to lose ther virginite,
+for defaute of ther substaunce
+to mary them with, or hauynge her
+husbande fore syke, and destitute
+of all helpe, in case she askyd 
+                     •
+                  y
+                     ••
+                  ns,
+&amp; pryuyly stole a way a small porcyon
+of so greate riches, to sukkre her
+how shold, as and if she shold haue it
+of one that wold other leane, or gyue
+it to herre? And whan he wold
+nat answere that 
+                     •
+                  epyd the golden
+hedde, Gracyane, as he is somwhat
+hasty, I, saythe he, doo suppose
+playnly, that this holy man wold be
+gladde, yf yt he, now beynge deade,
+myght sustayne the neces
+                     •
+                  iye of pore
+people. But there mayster parsone
+begone to frowne, &amp; byte hys
+lyppe, with hys holowe eyes lyke to
+A mōster yt hathe snakes for heares apon her hedde.Gorgone ye monstre to luke apō
+vs. I doo not dowbte he wold haue
+
+cast vs out of the temple, and spytte
+apō vs, but that he dyd knowe that
+we were comendyd of the archebyshope.
+But I dyd somwhat myttygate
+the manes ire, with my fayre
+wordes, saynge that Gratiane dyd
+nat speake as he thoghte, but that
+he gestyd as he was wontyd to
+doo, and stoppyd hys mouthe with
+a fewe pens.
+            
+            
+               Mene.
+               Treuly I do
+greatly alow your goodly fashion,
+but oftentymes ernestly I cōsyder,
+by what meaynes they may be acō
+                  pted
+without faute &amp; blame, that
+bestow so moche substance in buyldyng
+churchys, in garnysshynge,
+and enrychynge them without all
+mesure. I thynke as touchyng the
+holy vestmentes, &amp; the syluer plate
+of the temple ther ought to be gyuyn,
+to the solempne seruys, hys
+dygnyte and comlynes, I wyll also
+that the buyldyng of the churche
+shall haue hys maiesty decent and
+
+conuenyent. But to what purpose
+seruyth so many holy water pottes,
+so many cādlestyckes, so many ymages
+of gold. What nede there so many
+payre of organes (as thay call
+them) so costely &amp; chargeable? For
+one payre can not serue vs: what
+profyteth ye musicall criynge out
+in the temples yt is so derely bought
+and payed for, whan in the meaneseson
+our brothers and systers the
+lyuely temples of Christe liynge by
+the walles / dye for hungre &amp; colde.
+            
+            
+               Ogy.
+               Ther is no vertuouse or wyse
+man, that wold nat desyre a meane
+to be hadde in thes thynges. But
+in as moche as thys euyl is growen
+and spronge vp of superstityon beyond
+mesure, yet may it better be
+sufferde, specially when we confyder
+on the other syde the euyll conscience
+and behauyor of them that
+robb the churchys of whatso euer
+iuellys ther may be founde, thes ryches
+
+were gyuen in a maner great
+men, &amp; of pryncys, the whiche they
+wold haue bestowede vpon a worse
+vse, that is to say other at the dyce
+or in the warres. And if a man take
+any thynge from thense. Fyrst of all
+it is taken sacrylege, then they hold
+ther handes that were accustomed
+to gyfe, besyde that morouer they
+be allured &amp; mouyde to robbynge &amp;
+vaynynge. Therfore thes mene be
+rather the kepers of thys treasures
+thē lordes. And to speake a worde
+for all, me thynket it is a better
+syght to beholde a temple rychely
+adourned, as ther be some with bare
+wolles, fylthy and euyl fauorde,
+more mete for stables to put horses
+then churches for Chrysten people.
+            
+            
+               Me.
+               Yet we rede that Byshopes in
+tymes paste were praysede and cō
+                  mended
+bycause they solde the holy
+vesseles of theyr churches, and wt
+that money helped and releued the
+
+nedy and poure people.
+            
+            
+               Ogy.
+               Thay
+be praysede also now in our tyme,
+but thay be praysed onely, to folow
+ther doynge (I suppose) thay may
+not, nor be any thynge dysposede.
+            
+            
+               Me.
+               I interrupte and lett yowr cō
+                  munycatyon.
+I loke now for the cō
+                  clusyon
+of ye tale.
+            
+            
+               Ogy.
+               Gyffe audyence,
+I wyll make an ende shortly.
+In the meane seson comyth forthe
+he that is the cheffe of them all.
+            
+            
+               Me.
+               Who is he? the abbot of the place?
+            
+            
+               Ogy.
+               He werythe a mytre, he may
+spend so moche as an abbot, he wā
+                  ted
+nothynge but ye name, and he is
+called prior for this cause tharchebyshope
+is takē in the abbotes sted.
+For in old tyme who so euer was
+archbyshope of ye dyocese, the same
+was also a monke.
+            
+            
+               Me.
+               In good
+faythe I wold be content to be namyde
+a Camelle, if I myght spende
+yerely the rentes and reuennes of
+an abbot.
+            
+            
+               Ogy.
+               Me semede he was a
+
+man bothe vertuous and wyse, and
+not vnlearnede Duns diuinite. He
+opened the shryne to vs in whiche ye
+                  
+                     •
+                  olle body of the holy mā, thay say,
+dothe rest and remayne.
+            
+            
+               Me.
+               Dydste
+thou see hys bones.
+            
+            
+               Ogy.
+               That is
+not conuenient, nor we cowld not
+come to it, except we sett vp laders,
+but a shryne of wod couerede a shryne
+of gold, when that is drawne vp
+with cordes, thā apperith treasure
+and riches inestimable.
+            
+            
+               Me.
+               What
+do I here? the vilest part and worst
+was golde, all thynges dyd shyne,
+florishe, and as it were with lyghtnynge
+appered with precyouse stones
+and those many and of great
+m
+                     •
+                  ltitude: some were greater than
+a gowse egge. Dyuerse of ye monkꝭ
+stode ther aboute with greate reuerence,
+the couer takyn a way, all
+we kneled downe and worshyped.
+The pryor wt a whyte rodde showed
+vs euery stone, addynge therto the
+
+frenche name, the value, &amp; the autor
+of the gyfte, for the cheffe stonys
+were sent thyther by great prynces.
+            
+            
+               Me.
+               He ought to be a man of an
+excedyng witt &amp; memory.
+            
+            
+               Ogy.
+               You
+gesse well, how beit exercyse &amp; vse
+helpeth moche, for euyn the same he
+dothe oftentymes. He brought vs
+agayne in to the crowdes. Our lady
+hathe ther an habitacyon, but
+somwhat darke, closed rownde aboute
+with double yren gratꝭ.
+            
+            
+               Me.
+               What feared the?
+            
+            
+               Ogy.
+               Nothinge I
+trow, except theues. For I saw neuer
+any thing more laden with riches
+synse I was borne of my mother.
+            
+            
+               Me.
+               You show vnto me blinde
+ryches.
+            
+            
+               Ogy.
+               Whē they brought vs
+candellꝭ we saw a sight passynge ye
+ryches of any kynge.
+            
+            
+               Me.
+               Dothe it
+excede our lady of walsyngā?
+            
+            
+               Ogy.
+               To loke vpō this, is richer, the secret
+tresure she knoweth her selfe, but
+this is not 
+                     〈◊〉
+                  , but to great
+
+men, or tospecy all frendes. At the
+last we were brought agayne in to
+the reueitry, there was taken out a
+cofer couered with blacke lether, it
+was sett downe apon the table, it
+was sett open, by and by euery body
+kneled downe and worshipyd.
+            
+            
+               Me.
+               What was in it?
+            
+            
+               Ogy.
+               Certayne torne
+ragges of lynnen clothe, many
+hauynge yet remaynynge in them
+the token of the fylthe of the holy
+mannes nose. With thes (as they
+say) saynt Thomas dyd wype a way
+the swett of hys face or hys neke, ye
+fylthe of hys nose, or other lyke fylthynes
+with whiche mannes body
+dothe abownde. Then my companyon
+Gratian, yet ones agayn, got
+hym but smalle fauour. Unto hym
+an Englyshe man and of famyly are
+acquayntenance and besyde that,
+a man of no smalle authorite, the
+Prior ga
+                     ••
+                   gentylly one of the lynnē
+ragges, thynkynge to haue gyuen
+
+a gyfte very acceptable &amp; pleasaunt,
+But Gratian there with lyttle pleasede
+and content, not with out an
+euydent synge of dyspleasure, toke
+one of them betwene hys fyngers,
+and dysdaynyngly layd it down agayne,
+made a mocke and a mow
+at it, after the maner of puppettes,
+for thys was hys maner, if any
+thyng lykede hym not, yt he thought
+worthy to be despysede. Wher at I
+was bothe ashamed and wonderously
+afrayed. Notwithstondynge
+the Prior as he is a man not at all
+dull wytted, dyd dyssemble the matter,
+&amp; after he had caused vs drinke
+a cuppe of wyne, gentylly he let vs
+departe. When we came agayne to
+London.
+            
+            
+               Me.
+               What shuld ye do at
+London: seynge ye were not farre
+from the see co
+                     •
+                  t, to seale in to yowr
+cuntre?
+            
+            
+               Ogy.
+               It is true. But that
+see cost I refused and gladely dyd
+fle from it, as from a place that is
+
+noted and more euyl spoken of it,
+for robbyng. stelynge, and vntrue
+dealynge, then is of dangerouse ioperdy
+in the see, be that hyll Malea
+wher many shyppes be drowned &amp;
+vtterly destroyed for euer. I wyll
+tell the what I dyd se the last pass
+                     •
+                  
+                  ge,
+at me commynge ouer. We were
+many caryed in a bote frome Calys
+shore to go to the shyppe. Amongest
+vs all was a pour yōge mā of Fraū
+                  ce,
+and barely appayrelled. Of hym
+he demau
+                     •
+                  ded halfe a grote. For
+so moche thay dow take and exacte
+of euery one for so smalle a way rowynge.
+He allegede pouerty, then
+for ther pastyme thay searched hym,
+plucked of hys shoes, and betwene
+the shoo and the soule, thay fownde
+x. or .xij. grotes, thay toke thē from
+hym laughyng at the mater: mockynge
+and scornyng the poer &amp; myserable
+Frenchman.
+            
+            
+               Me.
+               What dyd ye
+fellow than?
+            
+            
+               Ogy.
+               What thyng dyd
+
+he? He wept.
+            
+            
+               Me.
+               Whether dyd they
+thys by any authoryte?
+            
+            
+               Ogy.
+               Suerly
+by the same authoryte that thay
+steyle and pycke straungers males
+and bowgettes, by the whiche they
+take a way mennes pursys, it they
+se tyme and place conuenyent.
+            
+            
+               Me.
+               I meruayll that they dare be so
+bold to doo soch a dede, so many lokynge
+vpon them.
+            
+            
+               Ogy.
+               They be so
+accustomed, that they thynk it well
+done. Many that were in the shyp
+lokede owt and sawe it also, in the
+bote were dyuerse Englyshe marchauntes,
+whiche he grudged agaynst
+it, but all in vayne. The botemē as
+it had ben a tryflyng mater reiosed
+and were glade that they had so taken
+and handelyd the myserable
+Frenchman.
+            
+            
+               Me.
+               I wold play and
+sporte with these see theues, &amp; hange
+them vpon the gallowes.
+            
+            
+               Ogy.
+               Yet of such both the shores swarme
+full. Here tell me, I pray the. What
+
+wyll great mē do, whē theues take
+vpō them to enterpryse soch masterys.
+Therfore, her after I had leuer
+go fourty myllys aboute, thē to go
+yt way, thoffe it be moche shorter.
+Morouer euyn as ye goynge downe
+to hell, is easy and leyght, but ye cō
+                  mynge
+frome thens of greate dyffyculty,
+so to take shyppynge of this
+syde the see, is not very easy, and the
+landynge very hard &amp; dangerouse.
+Ther was at London dyuerse maryners
+of Antwerpe, with them I
+purposed to take thesee.
+            
+            
+               Me.
+               Hathe
+that cūtre so holy maryners?
+            
+            
+               Ogy.
+               As an ape is euer an ape, I graūte,
+so is a maryner euer a maryner: yet
+if thou compare them vnto these, yt
+lyfe by robbynge, and pyllynge and
+pollynge, they be angelles.
+            
+            
+               Me.
+               I
+will remembre thy saynge, if at any
+tyme I be dysposed to go and se
+Englāde. But come agayne in to ye
+waye, frome whens I broght the
+
+owt.
+            
+            
+               Ogy.
+               Then as we whent toward
+London not farre from Canterbury,
+we came in to a great hollow
+and strayt way, morouer bowyng
+so downe, with hyllys of eyther
+syde, that a man can not escape, nor
+it cannot be auoyed, but he must
+nedes ryde that way. Upō the lefte
+hand of the way, ther is an almes
+howse for olde people, frome them
+runnyth on owt, as sone as they
+here a horseman commynge, he
+casteth holy water vpon hym, and
+anone he offereth hym the ouer lether
+of a shoo bownde abowte with
+an yerne whope, wherin is a glasse
+lyke a precyouse stone, they yt kysse
+it gy
+                     •
+                   a pece of monay.
+            
+            
+               Me.
+               In soche
+a way I had leuer haue an almes
+howse of olde folkes, then a company
+of stronge theues.
+            
+            
+               Ogy.
+               Gratian
+rode vpon my lefte hande nerer the
+almes howse, he caste holy water
+vpon hym, he toke it in worthe so so.
+
+When the shoo was proferred hym,
+he asked what he ment by it, saythe
+he, it is saynt Thomas shoo. There
+at he fumed and was very angry,
+&amp; turned toward me: what (saythe
+he) meane these bestes, that wold
+haue vs kysse ye shoes of euery good
+man? Why doo they not lyke wyse
+gyue vs to kysse the spottel, &amp; other
+fylthe &amp; dyrt of the body? I was sory
+for the old mā, &amp; gaue hym a pece
+of money to cōforthe hym with all.
+            
+            
+               Me.
+               In myn opynyō Gratian was
+noe all to gether angry with owt a
+good cause. If shoes and slyppers
+were kept for a tokē of sobre lyuynge,
+I wold not be moch dyscontent
+ther wt, but me thynkꝭ it is a shamefull
+fashyon for shoes, slyppers, and
+breches to be offered to kysse to any
+man. If some wold do it by there
+owne fre wyll, of a certene affectyō
+of holynes, I thynke they were
+whorthy of pardon.
+            
+            
+               Ogy.
+               It were
+
+better not to thes thynges, if I may
+say as I thynke, yet owt of thes
+thynges that cannat forthwith he
+amended, it is my maner if ther be
+any goodnes theryn, to take it out,
+and apply it to the best. In ye meanseson
+that contemplacyō and sight
+delited my mynde, that a good mā
+is lykened to a shepe, an euyll man
+to a venemouse best. The serpent
+after she is dede, cā stynge no more,
+notwithstondyng with her euyll sauour
+and poyson she infecteth and
+corruptyth other. The shepe as lōge
+as she is a lyue norrysheth with her
+mylke, clothet with her wolle, makyth
+riche with her lambes, when
+she is deade she gyueth vs good and
+profytable lether, and all her body
+is good meat. Euen so, cruell men,
+gyuen all to the world, so longe as
+they lyue be vnprofitable to all mē,
+when they be deade, what with
+ryngyng of bellys, and pompyouse
+
+funeralles they greue them that be
+on lyue, and often tymes vexe ther
+successours with new exactyones.
+Good men of the other syde at all
+assais be profytable to all men, and
+hurtfull to noo man. As thys holy
+man, whyle he was yet alyue, by
+hys good example, hys doctryne, his
+goodly exhortatyons prouokyd vs
+to vertuouse lyuynge, he dyd cōfort
+the cōforthlesse, he helped ye poure,
+ye and now that he is deade, he is
+in a maner more profytable. He hathe
+buylded thys costly &amp; gorgeouse
+churche, he hath caused greate authoryte
+thorough out all Englande
+vnto the ordre and presthode. At ye
+last, thys pece of the show dothe susteyne
+a company of poure people.
+            
+            
+               Me.
+               Thys is of my faythe a godely
+cōtemplacyō, but I maruayll greatly,
+seyng you ar thus mynded, that
+ye neuer dyd vysyte saynt Patryckes
+purgatory in Yerlande, of the
+
+whiche the comyn people boost many
+wonderouse thynges, whiche seme
+to me not lyke to be true.
+            
+            
+               Ogy.
+               Of a suerty ther is not so meruelouse
+talkynge of it here, but the
+thynge it selffe doth fare excede.
+            
+            
+               Me.
+               Hast thou bene ther than, &amp; gonne
+thorow saynt Patryckes p
+                     •
+                  rgatory?
+            
+            
+               Ogy.
+               I haue saylede ouer a ryuer
+of hell, I went downe vnto the
+gates of hell, I saw what was dōe
+ther.
+            
+            
+               Me.
+               Thou dost me a greate
+pleasure, if thou wyll wotsaue to
+tell me.
+            
+            
+               Ogy.
+               Lett this be the prohemy
+or begynnynge of owr communycatyon,
+longe enough as I suppose.
+I wyll gett me home, &amp; cause
+my souper to be made redy, for I
+am yet vndynede.
+            
+            
+               Me.
+               Why haue
+you not yet dyned? is it bycause of
+holynes?
+            
+            
+               Ogy.
+               Noo of a truthe, but
+it is bycause of enuy and euyll will.
+            
+            
+               Me.
+               Owe ye euyll wyll to yowr bely?
+            
+            
+               Ogy.
+               No, but to the couetyse tauerners
+
+euer catchynge and snatchynge
+the whiche when they wyll
+not sett afore a man that is mete &amp;
+conuenyent, yet they are not afearde
+to take of straūgers that, whiche
+is bothe vnright and agaynst good
+consciens. Of thys fashyō I am acustomed
+to be auengede vpon thē.
+If I thynke to fare well at souper
+other with myne acquayntauns, or
+with some host somwhat an honest
+man, at dyner tyme I am sycke in
+my stomacke, but if I chaunce to
+fare after myne appetyte at dyner,
+before souper also I begynne to be
+well at ease in my stomacke.
+            
+            
+               Me.
+               Are ye not ashamede to be taken
+for a couetouse fellow &amp; a nygerde?
+            
+            
+               Ogy.
+               Menedeme they that make
+co
+                     •
+                  t of shame in soche thynges, beleue
+me, bestow theyr money euyll.
+I haue lerned to kepe my shame for
+other purposys.
+            
+            
+               Me.
+               Now I longe
+for the rest of yowr communycacyon,
+
+wherfore loke to haue me yowr
+geste at souper, where ye shall tell it
+more conuenyently.
+            
+            
+               Ogy.
+               For sothe
+I thanke you, that ye offere yowr
+selfe to be my gest vndesyred, when
+many hertely prayed refuse it, but
+I wyll gyue yow double thankes,
+if ye wyll soupe to day at home. For
+I must passe that tyme in doynge
+my dewty to my howsehold. But I
+haue counsell to eyther of vs moche
+more profytable. To morrow vnto
+me and my wyfe, prepare our dyner
+at yowr howse, then and if it be
+to souper tyme, we wyll not leyue
+of talkynge, vntyll you say that ye
+are wery, and if ye wyll at souper
+also we wyll not forsake you. Why
+                     •
+                  
+claw you your hede? prepare for vs
+in good fayth we wyll come.
+            
+            
+               Me.
+               I
+had leuer haue no tales at all. Well
+go to, you shall haue a dyner, but
+vnsauery, except you spyce it with
+good &amp; mery t
+                     •
+                  les.
+            
+            
+               Ogy.
+               But here
+
+you, are ye not mouyd and styrrede
+in your mynde, to take vpon yow
+these pylgremages?
+            
+            
+               Me.
+               Perauenture
+it wyll sett me a fyre, after ye
+haue told me the resydew, as I am
+now mynded, I haue enough to do
+with my statyons of Rome.
+            
+            
+               Ogy.
+               Of Rome, that dyd neuer see Rome?
+                     •
+                  
+               
+            
+            
+               Me.
+               I wyll tell you, thus I go
+my statyons at home, I go in to the
+parler, and I se vnto the chastlyuynge
+of my doughters, agayne
+frome thense I go in to my shope,
+I beholde what my seruauntes,
+bothe men and women be doynge.
+Frome thense into the kytchyn, lokynge
+abowt, if ther nede any of
+my cownsell, frome thense hyther
+and thyther obseruynge howe my
+chylderne be occupyed, what my
+wyffe dothe, beynge carefull that
+euery thynge be in ordre, these be
+statyons of Rome.
+            
+            
+               Ogy.
+               But these
+thynges saynt Iames wold dow
+
+for yow.
+            
+            
+               Mene.
+               That I shuld 
+                     •
+                  e vnto
+these thynges holy scripture
+commaundethe, that
+I shuld commyt the
+charge to sayntes
+I dyd rede yt
+neuer commaunded.
+            
+            God saue the kynge
+            FINIS.
+         
+      
+   
+

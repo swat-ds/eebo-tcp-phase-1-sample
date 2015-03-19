@@ -1,0 +1,1256 @@
+
+   
+      
+         
+            Memoriæ honoratissimi domini Francisci, Baronis de Verulamio, Vice-Comitis Sancti Albani sacrum
+         
+         
+            
+               1626
+            
+         
+         Approx. 34 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2003-01 (EEBO-TCP Phase 1).
+            A01639
+            STC 1177
+            ESTC S115271
+            99850490
+            99850490
+            15698
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01639)
+            Transcribed from: (Early English Books Online ; image set 15698)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 1163:16)
+         
+         
+            
+               
+                  Memoriæ honoratissimi domini Francisci, Baronis de Verulamio, Vice-Comitis Sancti Albani sacrum
+                  Rawley, William, 1588?-1667.
+               
+               [4], 30 p.   
+               
+                  In officina Iohannis Haviland,
+                  Londini :
+                  1626.
+               
+               
+                  Editor's preface signed: G. Rawley.
+                  In verse.
+                  Reproduction of the original in the Folger Shakespeare Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            lat
+         
+         
+            
+               Bacon, Francis, 1561-1626.
+            
+         
+      
+      
+         
+            2000-00
+            TCPAssigned for keying and markup
+         
+            2001-07
+            AptaraKeyed and coded from ProQuest page images
+         
+            2001-08
+            TCP Staff (Michigan)Sampled and proofread
+         
+            2001-08
+            TCP Staff (Michigan)Text and markup reviewed and edited
+         
+            2001-11
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+               Memoriae
+HONORATISSIMI
+DOMINI
+FRANCISCI,
+BARONIS DE
+UERVLAMIO,
+VICE-COMITIS
+SANCTI ALBANI
+Sacrum.
+            
+            LONDINI
+In Officina Iohannis Haviland.
+1626.
+         
+         
+            
+            
+            Lectori S.
+            QVod praecipuum sibi
+duxit Honoratissimus
+Dominus meus, Vice-Comes,
+Sancti Albani,
+Academiis, &amp; viris literatioribus
+ut Cordi esset, id (credo) obtinuit;
+quandoquidem insignia haec
+Amoris &amp; Moestitiae Monumenta
+indicant, quantū Amissio ejus
+eorundem Cordi doleat. Ne
+                  
+                     
+                  
+                  que
+               
+verò parcâ manu Symbolum hoc
+conjecerunt in eum Musae; (plurimos
+enim, eós
+                  
+                     
+                  
+                  que
+                optimos Versus
+apud me contineo;) sed quia ipse
+mole non delectabatur, Molem
+haud magnam extruxi. Satis etiam
+
+sit, ista veluti Fundamenta,
+praesentis Saeculi nomine, jecisse;
+Fabricam (puto) hanc exornabit
+&amp; amplificabit unumquod
+                  
+                     
+                  
+                  que
+                Saeculū;
+Cuinam autem saeculo ultimam
+Manum imponere datum
+sit, id Deo tantùm &amp; Fatis manifestum.
+            G. Rawley. S.T.D.
+         
+      
+      
+         
+            
+            Deploratio Obitûs omnia doctissimi &amp;
+clarissimi viri D. Francisci Bacon
+S. Albanensis.
+            
+               ALbani plorate Lares, tu
+                  
+                     
+                  
+                  que
+                optime Martyr,
+            
+            Fata Verulamii non temeranda senis.
+            Optime Martyr &amp; in veteres i tu quo
+                  
+                     
+                  
+                  que
+                luctus,
+            Cui nil post dirum tristius Amphibalum.
+            
+         
+         
+            Baconi Opera literaria vocantur ad Rogum.
+            INstauratio magna; Dicta acutè;
+            Augmentum geminum Scientiarum,
+            Et scriptum patriè &amp; dein latinè
+            Auctu multiplici, profunda Vitae
+            
+            
+               Mortis
+                     
+                        
+                     
+                     que
+                   Historia, ut lita anne lota
+            Rivo Nectaris Atticive mellis!
+            Henricus ne
+                     
+                        
+                     
+                     que
+                  
+                septimus tacetor;
+            
+            Et quicquid venerum politiorum, &amp;
+            Si quid praeterii inscius libellûm
+            
+            Quos magni peperit vigor Baconi.
+            
+            
+               Plus novem edecumata Musa Musis,
+            Omnes funebribus subite flammis,
+            Et lucem date liquidam parenti.
+            Non sunt saecula digna quae fruantur
+            Vobis, ah Domino (ah nefas) perempto.
+            S. Collins. R. C. P.
+         
+         
+            In Obitum Incomparabilis Francisci
+Vicecomitis Sancti Albani;
+Baronis Verulamii.
+            DVm longi lenti
+                  
+                     
+                  
+                  que
+                gemis sub pondere morbi
+            At
+                  
+                     
+                  
+                  que
+                haeret dubio tabida vita pede;
+            Quid voluit prudens Fatum, jam sentio tandem:
+            Constat, Aprile uno te potuisse mori:
+            Vt Flos hinc lacrymis, illinc Philomela querelis
+            Deducant linguae funera sola tuae.
+            Georgius Herbert.
+         
+         
+            In Obitum Honoratissimi viri ac Domini,
+D. Francisci de Verulamio, Vicecomitis
+Sancti Albani, nuperi Angliae Cancellarii.
+            ADhuc superbis insolente purpurâ
+            Feretri rapinis Inclytos in tot viros
+            
+               Sterile Tribunal? cilicio dicas diem,
+            Saccúm
+                  
+                     
+                  
+                  que
+                totam facito luxuriem fori.
+            A Themide libra nec geratur pensilis,
+            Sed urna, praegrauis urna Verulamii.
+            
+            Expendat. Eheu! Ephorus haud lancem premit,
+            Sed Areopagus; nec minor tantus sophos,
+            Quam Porticus bracchata. Nam vester, scholae,
+            Gemiscit axis, tanta dum moles ruit.
+            Orbis soluta cardo litterarii,
+            Vbi studio coluit togam &amp; trabeam pari.
+            Qualis per umbras Ditis Euridice vagans
+            Palpare gestiit Orphëum, quali Orphëus,
+            Saliente tandem (vix prius crispâ) Styge,
+            Alite fibras lyrae titillavit manu;
+            Talis plicata Philolog
+                  ••
+               n aenigmatis
+            Petiit Baconum vindicem, tali manu
+            Lactata cristas extulit Philosophia:
+            Humíque soccis reptitantem Comicis
+            Non proprio Ardelionibus molimine
+            Sarsit, sed Instauravit. Hinc politiùs
+            Surgit cothurno celsiore, &amp; Organo
+            
+            Stagirita virbius reviviscit Novo.
+            
+            Calpen superbo Abylám
+                  
+                     
+                  
+                  que
+                vincit remige
+            Phoebi Columbus, artibus novis Novum
+            
+            Daturus Orbem; promovet conamina
+            
+               Iuvenilis ardor, us
+                  
+                     
+                  
+                  que
+                ad invidiam trucem
+            Fati minacis. Quis Senex vel Hannibal,
+            
+            Oculi superstitis timens caliginem,
+            Signis Suburram ventilat victricibus?
+            Quis Milo inultus quercubus bilem movet,
+            Senecta tauro gibba cùm gravior premit?
+            Dum noster Heros traderet scientias
+            AEternitati, prorsus expeditior
+            Sui sepulchri comperitur artifex.
+            Placida videtur Ecstasis speculatio,
+            Quâ mens tueri volucris Idaeas boni
+            In lacteos properat Olympi tramites.
+            His immoratur sedibus Domestica,
+            Peregrina propriis. Redit. Ioculariter
+            Fugax; vagatur rursus, &amp; rursus redit.
+            Furtiva tandem seriò, se subtrahit
+            Totam; gementi, morbido cadaveri
+            Sic desüescit anima, sic jubet mori.
+            Agite lugubres Musae, &amp; à Libani jugis
+            Cumulate thura. Sydus in pyram illius
+            Scintillet omne; scelus sit accendi rogum
+            Regum Prometheo culinari foco.
+            Et si qua fortè ludat in cineres sacros
+            Aura petulantior, fugámque suadeat,
+            Tunc flete; lachrymis in amplexus ruent
+            
+               Globuli sequaces. Denuò fundamine
+            Ergastuli everso radicitùs tui
+            Evehere foelix anima, Iacobum pete,
+            Ostende, &amp; illûc civicam fidem sequi.
+            E Tripode juris, dictites oracula
+            
+               Themidos alumnis. Sic (Beaticoelites)
+            
+               Astraea pristino fruatur vindice,
+            Vel cum Bacono rursus Astraeam date.
+            R. P.
+         
+         
+            Memoriae Meritísque Honoratissimi D. Francisci D. Verulamii
+Vice-Comitis Sant-Albani.
+            LVgete fletu turbulenta flumina,
+            Sub calce nata Pegasi,
+            
+            Rivó
+                  
+                     
+                  
+                  que
+                nigrum vix trahente pulverem
+            Limo profana currite.
+            Viridis
+                  
+                     
+                  
+                  que
+                
+               Daphnes decidens ramis honos
+            Arescat infoelicibus.
+            Quorsum Camaenae laureas inutiles
+            Moesti colatis hortuli?
+            Quín vos severis stipitem bipennibus
+            Vanae secatis arboris!
+            
+            Vivos reliquit, cui solebat unico
+            Coronam ferre lauream,
+            
+               Divûm potitus arce Verulamius
+            Coronâ fulget aureâ:
+            Supra coeli terminos sedens amat
+            Stellas videre cernuus:
+            Sophiam qui sede caelitum reconditam
+            
+            
+               Invidit immortalibus,
+            Aggressus Orbi redditam cultu novo
+            Mortalibus reducere:
+            
+            Quo nemo terras incolens majoribus
+            Donis pollebat ingenj:
+            Nec ullus aequé gnavitèr superstitum
+            
+               Themin maritat Palladi.
+            
+            Adductus istis, dum vigebat, artibus
+            
+               Aonidum sacer chorus,
+            In laude totam fudit eloquentiam,
+            Nihil reliquit fletibus.
+            Posui Wilhelmus Boswell.
+         
+         
+            
+            In Obitum Honoratissimi Domini
+Francisci Baconii, magni nupertotius
+Angliae Cancellarii. &amp;c.
+            
+               AVdax exemplum quò Mens humana feratur,
+               Et Saecli vindex ingeniose tui,
+               Dum senio macras recoquis foeliciter artes,
+               Subtrahis &amp; prisco libera colla jugo,
+               Quo deflenda modo veniunt tua funera? quales
+               Exposcunt lacrymas, quid sibi fata volunt?
+               An timuit Natura parens ne nuda jaceret,
+               Detraxit vestem dum tua dextra sacram?
+               Ignoti
+                     
+                        
+                     
+                     que
+                   oculis rerum patuere Recessus,
+               Fugit &amp; aspectum Rimula nulla tuum?
+               An verò, Antiquis olim data Sponsa Maritis,
+               Conjugis amplexum respuit illa novi?
+               An tandèm, damnosa piis at
+                     
+                        
+                     
+                     que
+                   invida caeptis,
+               Corripuit vitae fila (trahenda) tuae?
+               Sic ultra vitreum Siculus ne pergeret orbem
+               Privati cecidit militis ense Senex.
+               
+               Tù
+                     
+                        
+                     
+                     que
+                   tuos manes ideò (Francisce) tulisti,
+               Ne non tentandum perficeretur opus.
+            
+         
+         
+            
+            In eundem.
+            SVunt qui defuncti vivant in marmore, &amp; aevum
+            Annosis credant postibus omne suum:
+            AEre micant alii, aut fulvo spectantur in auro,
+            Et, dum se ludunt, ludere fata putant.
+            Altera pars hominum, numerosâ prole superstes,
+            Cum Niobe magnos temnit iniqua Deos:
+            
+            At tua caelatis haeret nec Fama Columnis,
+            Nec tumulo legitur, Siste viator iter:
+            Siqua Patrem proles referat, non corporis illa est,
+            Sed quasi de cerebro nata Minerva Iovis:
+            
+            Primatibi virtus monumenta perennia praestat,
+            Altera, nec citiùs corruitura, Libri:
+            Tertia Nobilitas; ducant jam fata triumphos,
+            Quae (Francisce) tui nil nisi corpus habent.
+            Vtra
+                  
+                     
+                  
+                  que
+                pars melior, Mens &amp; bona Fama supersunt,
+            Non tanti ut redimas vile cadaver habes.
+            T. Vincent. T. C.
+         
+         
+            
+            In Obitum nobilissimi Domini Francisci
+Baronis Verulamii. &amp;c.
+            
+               VIsa mihi pridem nec in uno vivere posse
+               Tot bona sunt, unquam nec potuisse mori;
+            
+            
+               Queis, quasi syderibus coelum, tua vita refulsit,
+               Et quae sunt fatum cuncta secuta tuum;
+            
+            
+               Ingenium, &amp; largo procurrens flumine Lingua,
+               Philosophi pariter, Iuridicí
+                     
+                        
+                     
+                     que
+                   decus.
+            
+            
+               Nunc video potuisse quidem; sed parcite amici,
+               Hic si non redeat, non reditura puto.
+            
+            I. Vincent. T. C.
+         
+         
+            In obitum Illustrissimi Clarissimí
+                  
+                     
+                  
+                  que
+                Herois, Domini
+Francisci Baconi, Baronis de Verulamio, 
+                  〈 in non-Latin alphabet 〉
+               .
+            
+               MVsae fundite nunc aquas perennes
+            In Threnos, Lacrymásque; Apollo fundat
+            Quas vel Castalium tenet Fluentum:
+            Nam Letho ne
+                  
+                     
+                  
+                  que
+                convenire tanto
+            
+               Possint naenia parva, nec coronent
+            Immensa haec modicae sepulchra guttae;
+            Nervus ingenti, Medulla suadae
+            
+            Dicendí
+                  
+                     
+                  
+                  que
+                
+               Tagus, reconditarum
+            Et gemma pretiosa Literarum,
+            Fatis concidit, (heu trium Sororum
+            Dura stamina) Nobilis Baconus.
+            
+            O quam te memorem Bacone summe
+            Nostro carmine! &amp; illa gloriosa
+            Cunctorum monumenta seculorum,
+            Excusa ingenio tuo, &amp; Minervâ!
+            
+            Quam doctis, elegantibus, profundis,
+            
+               Instauratio magna, plena rebus!
+            Quanto lumine tineas Sophorum
+            Dispellit veterum tenebricosas
+            Ex chao procreans novam 
+                  〈 in non-Latin alphabet 〉
+               :
+            Sic ipse Deus inditum sepulchro
+            Corpus restituet manu potenti:
+            Ergo non moreris (Bacone) nam te
+            A morte, &amp; tenebris, &amp; à sepulchro,
+            
+               Instauratio magna vindicabit.
+            R. C. T. C.
+         
+         
+            
+            In Obitum Honoratissimi Baronis
+Verulamiensis, &amp;c.
+            ENiterùm auditur (certè Instauratio magna est!)
+            
+               Stellatâ Camerâ fulgidus ore Bacon:
+            
+            Nunc verè albatus, Iudex purissimus audit;
+            (Cuistola (Christe) tuo sanguine tincta datur.
+            Integer ut fiat, priùs exuit Ipse Seipsum:
+            Terra, habeas corpus; (dixit,) &amp; Astra petit.
+            Sic, sic Astraeam sequitur praenobilis umbra,
+            Et Verulam verum nunc sine Nube videt.
+         
+         
+            De Connubio Rosarum.
+            
+               SEptimus Henricus non aere &amp; Marmore vivit.
+            Vivit at in chartis (Magne Bacone) tuis.
+            Iunge duas (Henrice) Rosas; dat mille Baconus;
+            
+            Quot verba in Libro, tot reor esse Rosas.
+            T. P.
+         
+         
+            
+            In obitum nobilissimi doctissimi
+                  
+                     
+                  
+                  que
+                viri Dom. Fran:
+Bacon, Baronis Verulamiensis, &amp;c.
+            SIc cadit Aonii rarissima Gloria coetûs?
+            Et placet Aoniis credere semen agris?
+            Frangantur Calami, disrumpantúrque libelli,
+            Hoc possint tetricae si modo jure Deae.
+            
+            Heu quae lingua silet, quae jam facundia cessat,
+            Quò fugit ingenii Nectar &amp; Esca tui?
+            Quomodo Musarum nobis contingit Alumnis
+            Vt caderet nostri praeses Apollo chori?
+            Si nil cura, fides, labor, aut vigilantia possint,
+            Síque feret rapidas, de tribus una, manus;
+            Cur nos multa brevi nobis proponimus aevo?
+            Cur putri excutimus scripta sepulta situ?
+            Scilicet ut dignos aliorum à Morte labores
+            Dum rapimus, nos Mors in sua jura trahat.
+            Quid tamen incassum nil proficientia fundo
+            Verba? quis optabit tereticente, loqui?
+            Nemo tuam spargat violis fragrantibus urnam,
+            Nec tibi Pyramidum mole sepulchra locet;
+            Nam tua conservant operosa volumina famam,
+            Hoc satis, haec prohibent te monumenta mori.
+            Williams.
+         
+         
+            
+            In obitum Honoratissimi Domini, D.
+Francisci Vicecomitis Sancti Albani, Baronis
+Verulamij, viri Incomparabilis.
+            PArcite: Noster amat facunda silentia luctus,
+            Postquam obijt solus dicere qui potuit:
+            Dicere, quae stupeat Procerum generosa corona,
+            Nexaque sollicitis soluere Iurareis.
+            Vastum opus. At nostras etiam Verulamius artes
+            
+               INSTAVRAT veteres, condit &amp; illenouas.
+            Non qua maiores: Penitos verum ille recessus
+            
+               NATVRAE, audaci prouocat ingenio.
+            
+               Ast Ea, siste gradum, serisque nepotibus, (inquit,)
+            
+            Linque quod inuentum saecla minora iuuet.
+            Sit satis, his sese quod nobilitata Inuentis,
+            Iactent ingenio tempora nostra tuo.
+            Est aliquid, quo mox ventura superbiet aetas;
+            Est, soli notum quod decet esse mihi:
+            Sit tua laus, pulchros Corpus duxisse per artus,
+            Integra cui nemo reddere membra queat:
+            Sic opus artificem infectum commendat Apellem,
+            Cum pingit reliquam nulla manus Venerem.
+            Dixit, &amp; indulgens caeco Natura furori,
+            Praesecuit vitae Filum Operisque simul.
+            
+               At Tu, qui pendentem audes detexere telam,
+            Solus quem condant haec monumenta scies.
+            H. T. Coll. Trin. Socius.
+         
+         
+            In obitum Nobilissimi-viri, Francisci
+Domini Verulam, Vicecomitis
+Sancti Albani.
+            TEtandem extincto secum Mors laeta triumphat,
+            Atque ait; Hoc maius sternere nil potui;
+            
+               Hectora magnanimum solus lacerauit Achilles,
+            
+            Obrutus ac vno vulnere Caesar obit:
+            Mille tibi morbos dederat mors, spicula mille,
+            Credibile est aliter te potuisse mori?
+            Tho. Rhodes Col. Regal.
+         
+         
+            In Clarissimi viri Francisci Bacon, Baronis
+de Verulamio, Vicecomitis Sancti
+Albani, memoriam.
+            NAturae vires pandens, Artisque labores,
+            Arte potens quondam studio indagauit anhelo
+            Anglus, Rogerius Bacon, celeberrimus olim:
+            Optica qui chymicis, physicisque mathemata iungens,
+            Perspectiua, suae prae clara molimina mentis,
+            
+               Viuit in aeternûm praeclarae munere famae.
+            Anglus &amp; alter erat clarus Bacon Iöannes,
+            
+            Abdita Scripturae reserans Oracula Sacrae.
+            Stirps BACONIADVM quamuis generosa Britannis
+            Pignora plura dedit, longè celebrata per orbem;
+            
+               FRANCISCVM tandem tulit hunc: generosior alter
+            Ingenio quisquamne fuit? maiora capessens?
+            Ditior Eloquio? compluraque mente reuoluens?
+            Scripta docent; Veterum queis hic monumēta Sophorū
+               
+            
+            Censurâ castigat acri; exiguoque libello
+            Stupendos ausus docet INSTAVRATIO MAGNA;
+            
+            Ventorum Historiae; Vitaeque &amp; Mortis imago.
+            Quis mage Magnanimus Naturam Artes
+                     
+                        
+                     
+                     que
+                  
+                retexens?
+            Singula quid memorem, quae multa &amp; clara supersunt?
+            Pars sepulta iacet; parti quoque visere Lucem
+            
+               Rawleyus praestat Francisco fidus Achates.
+            
+            Robertus Ashleyus Medio-Templarius.
+         
+         
+            In Domini Francisci Baconi iam
+mortui Historiam vitae &amp; Mortis.
+            
+               HIstoriae scriptor Vitae Mortisque Bacone,
+               
+               Sera mori, ac semper viuere digne magis;
+               Cur adeo aeternas praefers extincte tenebras,
+               Nosque haud victuros post te ita tecum aboles?
+            
+            
+               
+               
+                  Nostrûm omniū
+                   Historiam Vitae mortis
+                     
+                        
+                     
+                     que
+                   (Bacone)
+               Scripsti; quaeso tuam quis satis historiam
+               Vel Vitae, vel Mortis, ïo? quin cedite Graij,
+               
+               Cede Maro Latiâ primus in historiâ.
+            
+            
+               Optimus &amp; fandi, &amp; scribendi, &amp; nomine quo non
+               Inclytus, eximius consilio atque scholâ;
+               
+                  Marte idem, si Mars artem pateretur, &amp; omni
+               Excellens titulo semihomoque ac studio;
+               Temptor opum, atque aurum tenui dum posthabet aurae,
+               Terrea regna polo mutat, &amp; astra solo.
+            
+         
+         
+            In eundem virum eloquentissimum.
+            Viderit vtilitas, Moniti meliora, sed adde
+            
+            
+               Ex Ithacâ, Fandi fictor, &amp; omne tenes.
+            
+            E. F. Regal.
+         
+         
+            In obitum literatissimi iuxta ac nobilissimi viri Francisci Domini Verulam Vicecomitis Sancti Albani.
+            
+               OCcidit ante diem Musarum Phosphorus! ipsa
+               Occidit ah Clarij cura, dolorque Dei.
+               
+            
+            
+               
+               Deliciae (Natura) tuae; Mundique Baconus:
+               
+               Mortis (quod mirum est) ipsius ipse dolor.
+            
+            
+               Quid non crudelis voluit sibi Parcalicere?
+               Parcere Mors vellet, noluit illa tamen.
+            
+            
+               
+                  Melpomene obiurgans hoc nollet ferre; deditque
+               Insuper ad tetricas talia dicta Deas.
+            
+            
+               Crudelis nunquam verè priùs Atropos; Orbem
+               Totum habeas, Phoebum tu modo redde meum.
+            
+            
+               Heimihi! nec caelum, nec mors, nec Musa (Bacone)
+               Obstabant Fatis, nec mea votatuis.
+            
+         
+         
+            In obitum eiusdem.
+            SIrepetes quantum Mundo Musisque (Bacone)
+            Donasti, vel si Creditor esse velis;
+            Conturbabit Amor, Mundus, Musaeque, Iouisque
+            
+            Arca, Preces, Caelum, Carmina, Thura, Dolor;
+            Quid possunt Artes, quidue inuidiosa Vetustas?
+            Inuidiam tandem desinat esse licet.
+            Sustineas faelix, maneasque (Bacone) necesse est,
+            Ah Natura nihil, quod Tibi soluat, habet.
+         
+         
+            
+            In obitum eiusdem, &amp;c.
+            
+               SI nisi qui dignus, nemo tua fata (Bacone)
+               Fleret, erit nullus, credito nullus erit.
+            
+            
+               Plangite iam verè Clio, Cliûsque Sorores,
+               Ah decima occubuit Musa, decusque chori.
+            
+            
+               Ah nunquam verè infaelix priùs ipsus Apollo!
+               
+               Vnde illi qui sic illum amet Alter erit?
+            
+            
+               Ah numerum non est habiturus; iamque necesse est,
+               Contentus Musis vt sit Apollo nouem.
+            
+         
+         
+            Ad vtrasque Academias carmen
+
+                  〈 in non-Latin alphabet 〉
+               .
+            SImea cum vestris valuissent vota Sorores,
+            (Ah venit ante suum nostra querela diem!)
+            Non foret ambiguum nostri certamen Amoris,
+            (Et pia nonnunquam lis in Amore latet:)
+            Nos nostrum lacrymis, &amp; Te potiremur Apollo
+            
+            Delicium patriae (docte Bacone) tuae.
+            Quid potuit Natura magis, virtusue? dedisti
+            Perpetui fructum nominis inde tui.
+            
+               Cum legerent nostri pars te prudentior aeui,
+            Vnum iurabant vsque decere loqui.
+            Hunc nimiùm tetricae nobis, Vobisque negarunt
+            (Ah sibi quid nolunt saepe licere) Deae.
+            
+            Dignuserat caelo, sed adhuc tellure morari,
+            Protali quae sunt improba vota viro?
+            O faelix Fatum! cum non sit culpa (Bacone)
+            Mortem, sed faelix gloria, flere tuam.
+            Sistite iam meritos fletus, gemitusque Sorores,
+            Non potis est maestos totus inire rogos.
+            Et noster, vesterque fuit: lis inde sequuta est,
+            Atque vter maior sit dubitatur Amor.
+            Communis dolor est, noster, vesterque: iacere
+            Vno non potuit tanta Ruina loco.
+            Guiliel. Loe. Coll. Trinit.
+         
+         
+            In obitum Illustrissimi Domini Verulamij,
+Vicecomitis Sancti Albani.
+            DVm scripturiuit multùm Verulamius Heros,
+            
+            Imbuit &amp; crebris saecla voluminibus:
+            Viderat excultos Mors dudum exosalibellos,
+            Scriptanec infaelix tam numerosa tulit.
+            
+               Odit enim ingenij monumenta perennia, quaeque
+            Funereos spernunt aemula scriptarogos.
+            Ergo dum calamum librauit dextera, dum
+                  
+                     
+                  
+                  que
+               
+            
+            Lassauit teneras penna diserta manus;
+            Nec dum finitam signârat pagina chartam
+            Vltima, cùm nigrum Theta coronis erat:
+            Attamen &amp; viuent seros aditura nepotes,
+            Morte velinuitâ, scripta (Bacone) tua.
+            Iacobus Duport. T. C.
+         
+         
+            Ad Viatorem, Honoratissimi Domini,
+FRANCISCI Domini VERVLAM,
+Monumentum inspicientem.
+            MArmore Pieridum gelido Phoebique Choragum
+            Inclusúmne putes, stulte Viator? abi:
+            Fallere: jam rutilo Verulamia fulget Olympo:
+            Sydere splendet Aper magne Iacobe tuo.
+         
+         
+            In obitum illustrissimi &amp; spectatissimi tum à literis
+tum à prudentiâ &amp; natiuâ nobilitate viri, Dni Francisci
+Bacon, Vicecomitis Sti Albani, &amp;c.
+            
+               NOn ego, non Naso si viueret ipse litaret
+               Exequijs versumagne Bacone tuis.
+            
+            
+               
+               Deducti veniunt versus à mente serenâ,
+               Nubila sunt fato pectora nostra tuo.
+            
+            
+               Replesti mundum scriptis, &amp; saecula famâ,
+               Ingredere in requiem, quando ita dulce, tuam.
+            
+            
+               Et tibi Doctrinae Exaltatio scripta (Bacone)
+               Exaltat toto iam caput orbe tuum.
+            
+            
+               Curta cano, quin nulla magis; sin carmina vitae
+               Te reparare tuae, quanta (Bacone) darem?
+            
+            C. D. Regal.
+         
+         
+            In obitum Honoratissimi Domini,
+Dni. Francisci Baronis de Verulamio,
+Vicecomitis S. Albani.
+            QVi fuit Legis Moderator, illâ
+            Lege solutus, reus ipse mortis
+            Sistitur, nostram politeia turbat
+            
+               Sic Radamanthi.
+            Qui Nouo summum Sophiae Magistrum
+            
+               Organo tandem docuisset vti,
+            Mortis Antiquâ methodo coactus
+            Membra resoluit.
+            
+               Quippe praemissis validè nociuis
+            
+               Parca conclusum voluit supremum
+            Huic diem, sensus ratioue fatis
+            Insit iniquis.
+            Multa qui haud vno reuelanda sêclo
+            
+               
+                  〈 in non-Latin alphabet 〉
+                Naturae patefecit, ipse
+            Iusta Naturae facili Nouercae
+            Debita soluit.
+            Artium tandem meliore venâ
+            Occidit plenus, moriens
+                  
+                     
+                  
+                  que
+                monstrat
+            Quam siet longa Ars, breuis atque vita,
+            Fama perennis;
+            Qui fuit nostro rutilans in orbe
+            Lucifer, magnos &amp; honoris egit
+            Circulos, transit, proprio
+                  
+                     
+                  
+                  que
+                sulget
+            Fixus in orbe.
+         
+         
+            Carmen sepulchrale.
+            SVb tumulo est corpus, (non debita praeda sepulchri)
+            Virtutum exterius nomina marmor habet;
+            Sic pia saxa loqui docuit Vestigia figens
+            Marmore in hoc Virtus, ipsa datura fugam:
+            
+               Nostra dabunt tumulum
+                  
+                     
+                  
+                  que
+                aeternum Corda, loquantur
+            Vt famam illius saxa homines
+                  
+                     
+                  
+                  que
+                simul.
+            Henr. Ferne Trin. Coll. So.
+         
+         
+            Ad Statuam literatissimi veréque nobilissimi
+viri Dni Francisci Bacon.
+            OCtoginta negat qui te numerasse Decembres,
+            
+            Frontem, non libros inspicit ille tuos:
+            Nam virtus si cana senem, si serta Mineruae,
+            Reddant; vel natu Nestore maior eras.
+            Quod si Forma neget, Veterum Sapientia monstret;
+            Longaeuae aetatis tessera certa tuae.
+            Viuere namque diu Cornicum condere lustra
+            Non est, sed vitâ posse priore frui.
+            
+            G. Nash Aul. Pem.
+         
+         
+            De Inundatione nuperâ Aquarum.
+            SOluerat Eridanus tumidarum flumina aquarum:
+            Soluerat; &amp; Populis non leuis horror erat:
+            Quippe grauis Pirrhae metuentes tempora cladis
+            Credebant simili crescere flumen aquâ.
+            
+               Ille dolor fuerat saeuus, lachryme
+                  
+                     
+                  
+                  que
+                futuri
+            Funeris, &amp; Iustis dona paranda nouis.
+            Scilicet &amp; Fluuios tua (vir celeberrime) tangunt
+            Funera, nedum Homines, moesta
+                  
+                     
+                  
+                  que
+                corda virûm.
+            Iames.
+         
+         
+            In obitum Honoratissimi Viri Francisci
+Bacon, Vice-comitis SANCTI ALBANI,
+Baronis de VERVLAM, &amp;c.
+            ERgo Te quoque flemus? &amp; aeternare Camenas
+            Qui poteras, poteras ipse (Bacone) mori?
+            Ergo nec aethereâ fruerêre diutiùs aurâ?
+            (Indigni scriptis Ventus &amp; Aura tuis;)
+            Scilicet indomiti tandem vesania Fati
+            Placari voluit nobiliore rogo:
+            Saeua
+                  
+                     
+                  
+                  que
+                vulgares iam dedignata triumphos
+            Ostendit nimio plus licuisse sibi:
+            Vna
+                  
+                     
+                  
+                  que
+                lux tanti nunc luctûs conscia, peste
+            Insclitâ quanti nec prior annus erat.
+            R. L.
+         
+         
+            
+            In obitum Nobilissimi viri, Francisci
+Baconis, olim magni Sigilli
+ANGLIAE Custodis.
+            QVid? an apud Deos coorta lis fuit?
+            An aemulum senex Saturous filium
+            
+               Iouem vocauit in ius, rur sùs expetens
+            Regnum? sed illic Aduocatum non habens
+            Relinquit astra, pergens in terras iter,
+            Vbi citò inuenit parem sibi virum,
+            
+               Baconem scilicet, quem Falce demetens
+            Ius exequi coëgit inter Angelos,
+            
+            Et ipsum se Iouémque filium suum.
+            Quid? an prudentiâ Baconis indigent
+            
+               Dei? vel liquerit Deos Astraea?
+            
+            Ita est: abiuit: ipsa
+                  
+                     
+                  
+                  que
+                astra deserens,
+            Ministrabatur huic Baconi sedulè.
+            
+               Saturnus ipse non faelicioribus
+            Degebat aeuum saeculis, quibus nomen
+            Vel aureum fuit, (sunt haec poetica)
+            Quàm judicante nos Bacone degimus:
+            Beatis ergo nobis numina inuidentia,
+            Volebant gaudium hoc commune demere:
+            Abijt, abijt: sat hoc doloribus meis
+            
+               Est protulisse: non dixi est mortuus:
+            Quid est opus iam vestimentis atris? en en
+            Arundo nostra tincturâ fluit nigrâ;
+            
+               Camaenarumque fons siccum se fecerit,
+            In lacrymas minutas se dispertiens:
+            Frequentibus
+                  
+                     
+                  
+                  que
+                nimbis Aprilis madet
+            Dolores innuens: quippè insolentiùs
+            Furit fraterna ventorum discordia:
+            Vterque scilicet gemens non desinit
+            Ab intùs altius suspirium trahens.
+            O omnibus Bone, vt videntur omnia
+            Amâsse te viuum, &amp; dolere mortuum!
+            Henr. Ockley C. Tr.
+         
+         
+            In Languorem diuturnum, sed mortem
+Inopinatam, Nobilissimi Domini sui,
+Vice-Comitis Sti Albani.
+            
+               MOrs priùs aggressa est, fuit inde repulsa; putabam
+               Incepti &amp; sceleris poenituisse sui.
+            
+            
+               Callidus obsessas vt Miles deserit vrbes
+               Incautis posito quò ferat Arma metu;
+               Mors pariter multùm hunc vulnus defendere doctum,
+               Auerso à Musis Lumine saeua ferit.
+            
+            
+               
+               Quam cupiam Lacrymis oculos absumere totos;
+               Nostra sed heu Libris Lumina seruo suis.
+            
+            
+               Sic Maculis chartam lugentem emittere cordi est;
+               Nil salis hic nisi quod Lacryma salsa dedit.
+            
+            
+               Guil. Atkins Dominationis suae Seruus
+Domesticus.
+         
+         
+            In obitum Domini Francisci Baconi,
+Baronis de Verulamio, &amp; totius Angliae
+nuperi CANCELLARII.
+            
+               DVm moriens tantam nostris Verulamius Heros
+               
+               Tristitiam Musis, luminaque vda facit:
+               Credimus heu nullum fieri post fata beatum,
+               Credimus &amp; Samium desipuisse senem.
+               Scilicethic miseris, foelix nequit esse, Camaenis,
+               
+               Nec se quam Musas plus amat iste suas.
+               At luctantem animam Clotho imperiosa coëgit
+               Ad coelum inuitos traxit in astra pedes.
+               Ergone Phoebeias iacuisse putabimus artes?
+               Atque herbas Clarij nil valuisse Dei?
+               
+                  Phoebus idem potuit, nec virtus abfuit herbis,
+               Hunc artem atque illas vim retinere putes:
+               
+                  At Phoebum (Vtmetuit ne Rex foretiste Camaenis)
+               Riuali medicam crede negasse manum.
+               Hinc dolor est; quod cum Phoebo Verulamius Heros
+               
+               Maior erat reliquis, hac foret arte minor.
+               Vos tamen ô, tantùm Manes atque Vmbra, Camaenae,
+               
+               Et poenè inferni pallida turba Iouis,
+               
+               Si spiratis adhuc, &amp; non lusistis ocellos,
+               Sed neque post illum vos superesse putem:
+               Si vos ergo aliquis de morte reduxerit Orpheus,
+               Istaque non aciem fallit imago meam:
+               Discite nunc gemitus, &amp; lamentabile carmen,
+               Ex oculis vestris lacryma multa fluat.
+               En quam multa fluit? veras agnosco Camaenas
+               
+               Et lacrymas, Helicon vix satis vnus erit;
+               
+                  Deucalionaeis &amp; qui non mersus in vndis
+               
+                  Pernassus (mirum est) hisce latebit aquis.
+               Scilicet hic perijt, per quem vos viuitis, &amp; qui
+               Multâ Pierias nutrijt arte Deas.
+               
+               Vidit vt hic artes nullâradice retentas,
+               Languere vt summo semina sparsa solo;
+               Crescere Pegaseas docuit, velut Hasta Quirini
+               
+               Creuit, &amp; exiguo tempore Laurus erat.
+               Ergo Heliconiadas docuit cum crescere diuas,
+               
+               Diminuent huius secula nulla decus.
+               
+                  Nec ferre vlterius generosi pectoris aestus
+               Contemptum potuit, Diua Minerua, tuum.
+               Restituit calamus solitum diuinus honorem,
+               Dispulit et nubes alter Apollo tuas.
+            
+            
+               Dispulit et tenebras sed quas obfusca vetustas,
+               Temporis et prisci lippa senecta tulit;
+               Atque alias methodos sacrum instaurauit acumen,
+               
+                  Gnossiaque eripuit, sed sua fila dedit.
+               Scilicet antiquo sapientum vulgus in aeuo
+               Tam claros oculos non habuisse liquet;
+               Hi velut Eoo surgens de littore Phoebus,
+               
+               Hic velut in mediâ fulget Apollo die:
+               Hi veluti Typhis tentârunt aequora primùm,
+               At vix deseruit littora primaratis,
+               
+                  Pleiadas hic Hyadas
+                        
+                           
+                        
+                        que
+                     
+                   atque omnia sydera noscens,
+               
+                  Syrtes, atque tuos, improba Sylla, canes;
+               Scit quod vitandum est, quo dirigat aequore nauem,
+               Certiùs et cursum nautica monstrat acus:
+               Infantes illi Musas, hic gignit adultas;
+               Mortales illi, gignit at iste Deas.
+               
+               Palmam ideo reliquis Magna Instauratio libris
+               Abstulit, &amp; cedunt squalida turba sophi.
+               Et vestita nouo Pallas modò prodit amictu,
+               Anguis depositis vt nitet exuuijs.
+               
+                  Sic Phoenix cineres spectat modò nata paternos,
+               AEsonis &amp; redijt prima iuuenta senis.
+               Instaurata suos &amp; sic Verulamia muros
+               Iactat, &amp; antiquum sperat ab inde decus.
+            
+            
+               Sed quanta effulgent plus quam mortalis ocelli
+               Lumina, dum regni mystica sacra canat?
+               Dum sic naturae leges, arcana
+                     
+                        
+                     
+                     que
+                   Regum,
+               Tanquam à secretis esset vtrisque, canat:
+               Dum canat Henricum, qui Rex, idem
+                     
+                        
+                     
+                     que
+                   Sacerdos,
+               Connubio stabili iunxit vtramque Rosam.
+            
+            
+               Atqui haec sunt nostris longè maiora Camaenis,
+               
+               Non haec infoelix Granta, sed Aula sciat:
+               Sed cum Granta labris admouerit vbera tantis
+               Ius habet in laudes (maxime Alumne) tuas.
+               Ius habet, vtmoestos lacrymis extingueret ignes,
+               Posset vt è medio diripuisse rogo.
+               At nostrae tibi nulla ferant encomia Musae,
+               
+               Ipse canis, laudes &amp; canis inde tuas.
+               Nos tamen &amp; laudes, quâ possumus arte, canemus,
+               Si tamen ars desit, laus erit iste dolor.
+            
+            Tho. Randolph. T. C.
+            FINIS.
+         
+      
+   
+

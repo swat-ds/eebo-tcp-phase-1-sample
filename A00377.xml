@@ -1,0 +1,435 @@
+
+   
+      
+         
+            A ryght frutefull epystle, deuysed by the moste excellent clerke Erasmns [sic], in laude and prayse of matrymony, translated in to Englyshe, by Rychard Tauernour, which translation he hathe dedicate to the ryght honorable Mayster Thomas Cromwel most worthy counseloure to our souerayne lorde kyng Henry the eyght. Cum priuilegio regali
+            Matrimonii encomium. English
+            Erasmus, Desiderius, d. 1536.
+         
+         
+            
+               1536
+            
+         
+         Approx. 50 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2003-01 (EEBO-TCP Phase 1).
+            A00377
+            STC 10492
+            ESTC S105531
+            99841259
+            99841259
+            5828
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A00377)
+            Transcribed from: (Early English Books Online ; image set 5828)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 39:04)
+         
+         
+            
+               
+                  A ryght frutefull epystle, deuysed by the moste excellent clerke Erasmns [sic], in laude and prayse of matrymony, translated in to Englyshe, by Rychard Tauernour, which translation he hathe dedicate to the ryght honorable Mayster Thomas Cromwel most worthy counseloure to our souerayne lorde kyng Henry the eyght. Cum priuilegio regali
+                  Matrimonii encomium. English
+                  Erasmus, Desiderius, d. 1536.
+                  Taverner, Richard, 1505?-1575.
+               
+               [68] p.   
+               
+                  In Flestrete [sic] at the sygne of the George by me Robert Redman,
+                  [Imprynted at London :
+                  [1536?]
+               
+               
+                  Translation of: Matrimonii encomium.
+                  Place of publication and printer's name from colophon; publication date conjectured by STC.
+                  Signatures: A-D [E]² .
+                  Running title reads: The prayse of matrimony.
+                  Reproduction of the original in the British Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Marriage --  Early works to 1800.
+            
+         
+      
+      
+         
+            2002-02
+            TCPAssigned for keying and markup
+         
+            2002-02
+            Apex CoVantageKeyed and coded from ProQuest page images
+         
+            2002-03
+            TCP Staff (Michigan)Sampled and proofread
+         
+            2002-03
+            Olivia BottumText and markup reviewed and edited
+         
+            2002-04
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            A ryght frutefull Epystle / deuysed by the moste excellent clerke Erasmus / in laude and prayse of matrymony / translated in to Englyshe / by Rychard Tauernour / which translation he hathe dedicate to the ryght honorable Mayster Thomas Cromwel most wor thy Counseloure to our souerayne lorde kyng Henry the eyght.
+            CVM PRIVILEGIO REGALI.
+         
+         
+            
+            To the ryght honorable Mayster Cromwell one of the kynges moste honorable counsell, his humble seruaūt Rycharde Cauernour sendeth greating.
+            
+               YOur dayly oratoure (moste honorable syr) ponderyng with hym selfe youre gratuyte boūty towardes hym, began besily to reuolue in mynd, howe he, agayne on hys parte myght somwhat declare his feruent zele of herte towardes you. Whiche he thus reuoluynge / loo sodenly (as god wolde) a certeyne
+
+
+
+Epystle of Doctour Erasmus, de uysed in commendacion of wedlocke, offered it selfe vnto his syght. Which so sone as he began to reade, he thought it a thynge full necessarye and expedyent, to trāslate it in to our vulgure tōg / &amp; so vnder your noble protection to cōmunicate it to the people, na mely when he cōsidered the blynd superstition of men and women / which cease nat day by day to pro fesse &amp; vowe perpetuall chastyte before or they suffyciently knowe themselues &amp; thinfirmite of theyr nature. Which thyng (in my opinion) hathe bene and is yet vnto this day the rote and very cause original of innumerable myscheues. I pray our lorde Iesu of his infinite goodnes to prouyde som spedy reformatiō, whan it shalbe
+
+
+
+his pleasure. In the meane seasō, please it your goodnes (ryght honorable syr) to accepte this rude and symple translacion of your seruaunt / and ye so doynge shall nat a litle encourage him to grea ter thynges in tyme cōmyng. And thus Christ haue you alwayse in his keapynge.
+            Amen.
+         
+      
+      
+         
+            
+            ¶ An Epistle in prayse of matrymony.
+            
+               ALthough swete cosyn ye be wyse ynoughe of your selfe, nor nede not other mens counsel, yet for ye old frendeshyp contynued from our chylhode betwyxte vs &amp; also for your kyndnes towardes me / &amp; fynally because of the streyght alyaunce betwyxt vs: I thought it my duty (if I wolde be the man whom ye always haue take me for / that is to say your frend and louer) of such thynges as I iudged to belonge moste to the preseruation and dygnyte of you and yours / gladly and frely to auertyse you. Other mens profyght sometyme we espye better then our owen. I haue ofte folowed your counsell,
+
+
+
+whych I haue found no lesse profytable than frendly. Nowe if ye agayne wyll folowe myne I trust it shall repent neyther me of my counsellynge / nor you of The narration. your folowyng. Our frende Antony Bald supped with me ye last nyght, one that is (as ye knowe well ynough) your great frende and nere kynsman. An heuy feste and full of tearys. He shewed me (which was a great sorow to vs bothe) that the good gentyll woman your mother is departed, yt your syster for sorowe and desyre is entred in to a house of barren nunnys / that the hope of your stocke is turned onely vnto you / that your frendes with hole assent haue offered you a wyfe of great substaunce, of noble blode, of excellent beautye, of gentyl ma
+
+
+
+ners, and fynally whiche berethe great loue towards you. That ye yet, this notwithstandyng, for some immoderate sorowe, or els some superstitious holynes haue so determyned to lyue a chast lyf, and neuer to marye, that nouther for the care of your stocke, nor loue of yssue, nor for any requestes, prayers, or tearys of your frendes ye canbe plucked awaye from your purpose. But ye by myne aduyse shall chaunge thys mynde, and leuyng bachelershyp, a forme of lyuynge bothe barren and vnnaturall, shall gyue your selfe to moste holy wedlocke. In whiche mater I couet that neyther ye loue of your frēdes which els ought to ouercō your mynde, nor myne authoryte any thynge shulde ayde my cause / if I shewe
+
+
+
+nat by clere reasons that this shal be for you bothe moste honeste, most profytable and moste pleasaunt, yea what wyll ye say if (as this tyme requyre) also moste necessary?
+            FOr fyrst of al / if thē regard of honestye moueth you / which with good men is hyghly consydered, what thyng is more honeste then matrimony, wherunto Christ hymselfe dyd greate honoure and worshype, whiche vouche saued nat onely to be present with his mother at the mariages, but also consecrated ye ma riage feste with the fyrst fruetz of his myracles? What is more holy then that which ye creatour of all thynges hath ordeyned, copeled, sanctifyed? whiche dame nature her selfe hathe enacted? What is
+
+
+
+more laudable than hit, whyche who reprehendeth / is condemnable of heresy? So honorable is matrimony, as is the name of heretyke slaunderous. What is a thyng of more equite, then to ren dre that to the posterite / whiche we our selfes receyued of oure auncestrye? What acte on the con trarye syde is done with les consideration, than vnder the zele of holynes to flee yt, as vnholy &amp; vn godly, which god the well and fa ther of all holynes wolde haue counted most holy? What thynge is farder from all humanite / than man to abhorre from the lawes of mānes estate? What is a more vn kynde acte than to denye that to your yongers, whiche if ye toke nat of your elders, ye could nat be he that myght denye? Now if we
+
+
+
+requyre ye Authour of matrymony, The Author of matrimonie. it was founded and ordeyned nat of Lycurgus, nat of Moses, nat of Solon, but of the hyghe &amp; myghty worker of all thinges, of hym it was also praysed / enhonested and consecrate. For at the be 
+                  
+                     〈…〉
+                   Man fyrste created / forthe with was copuled with a wyfe. gynnyng when he had made man of ye slyme of ye erthe he thought yt his lyfe shulde be vtterly myserable and vnplesaunt, if he ioyned nat Eue a cōpagnion vnto hym. Wherfore he brought forthe the wyfe nat of the erthe, as he dyd mā, but out of the rybbes of Adā, wherby it is to be vnderstād that nothynge ought, to be more dere to vs then ye wyfe, nothyng more conioyned / nothynge more faste glued vnto vs. The selfe same After ye flode of Noye. god after the flode / when he was at one agayne with mankynde
+
+
+
+enacted (as we rede in scripture) the law of matrimony renu ed. this lawe fyrst, nat that we shuld loue bachelarshyp / but to crease / to multiply / to replenyshe ye erth. But howe coulde that be, onles men wolde gyue theyr labour to wedlocke? And leste we shulde here fynd cauellations / allegyng the liberte of the old law of Moses, or the necessite of that season / I pray you what meaneth yt sentense repeted also in the new law of Christ / ratifyed and confirmed by Chrystes owne mouthe? For this cause (sayth he) shall man leue 
+               Math. xix. 
+               father and mother and styck to his wyfe. What thynge is more holy than the natural loue of the chyld to his father? And yet the feythe of wedlocke is preferred aboue it By whose authorite? by goddes. At what tyme? when nat only the
+
+
+
+olde law floryshed / but also when the newe lawe of Christ began to sprynge. The father is forsaken / the mother is forsaken / and the wyfe is stycked to. The son (in ye Ciuile lawe) emancipate / that is to saye enfranchysed &amp; out of his fathers bondes / begynneth to be his owne man &amp; at lybertye. The son, in the same lawe, abdicate / that is to saye forsaken and dysherited of his father / ceaseth to be his son. But only deth vndo wed locke, if yet yt deth vndo it. Now syr if ye other sacramētes of Christes chyrch be had in greate vene ratiō, who seeth nat yt moch worshype ought to be gyuen to this, which was both ordeyned of god, &amp; fyrst of all other? And the other in erth, this in paradise / the other for remedy / this for solas / ye other
+
+
+
+were put to in helpe of nature, which was fallen, only this was gyuen to nature at the fyrst creation. If we count the lawes holy which be institute of men, shall nat the lawe of wedlocke be most holy whiche we haue receyued of hym, of whom we haue receyued lyfe? and which began in maner euen at one tyme with mankind? To be short / because he wold con ferme this lawe by sum example / when he was a yonge man / and bydden (as sayd is) to the brydale, he cam thyther gladly with his mother, and nat contended with so doyng, dyd also greate honour to the feste with hys wonderfull worke / makyng none other wher the prosperous cōmencemēt and beginning of his myracles? Why A confutatiō. than (ye wyll say) dyd Christ him
+
+
+
+selfe absteyne from wedlocke? As thoughe ther be nat very many thynges in Christe / whyche we ought rather to maruayle at, thā folowe. He was borne without carnal father / he ꝓceded without payne of his mother, he arose frō dethe to lyue when the sepulcre was closed, what is nat in hym aboue nature? Let such thynges be appropriate to hym. Let vs (lyuynge within the lawe of nature) wonder &amp; prayse ye thynges that be aboue nature / but folowe those workes yt be for our capacite. But he wolde be borne of a virgyn. Truth it is, of a virgyn / but yet wedded. A virgyn to his mother becam hym yt was god, but yt she was wedded, she signyfied vnto vs what we ought to do Uirginite be cam her whiche (by
+
+
+
+the dyuyne inspiratiō of the holy ghost) beyng pure &amp; immaculate brought forthe hym whiche was most pure &amp; vnspotted / but yet Ioseph was her husbande, whiche thyng setteth forth vnto vs the cō mendation of the lawes of wedlocke. How coulde he more commend wedlocke, then whā he wyllyng to declare ye preuy &amp; wonderfull coniunction of the diuyne nature with the humane body and soule, and wyllyng to declare his ineffable &amp; eternall loue towarde his chyrch (that is to say, the company of Christian people) calleth hymselfe the brydegrome and the chyrch his spouse? Greate (sayth Paule) is the mystery of matrymony: 
+               To the Ephesians the v. Cha. 
+               in Christe and in the chyche. If ther had ben any cople in erth more holy, if there had be any
+
+
+
+bonde of loue and concorde more religiously to be kept, than wedlocke / vndoutedly he had fetched his similytude from thens. What lyke thyng do ye euer reade, in all scripture of bachelershyp? Honorable wedlocke and the immaculat bryde bed is spoken of. Bachelershype is nat ones named. Nowe The law of the Iwes syr, Moses law abhorreth baren wedlocke, and therfore we reade that some were put out of the comynalte for the same cause. And why so? suerly because they lyuyng vnprofytably to the comon wele, &amp; for there owne syngular auayle, dyd nat multyply the peo ple with any issue. If thā the law dāneth baren matrymony muche more it dāneth bachelers. If the infirmyte of nature escapeth nat punyshment, certes the frowarde
+
+
+
+wyll shall nat eschape. If they were punished whose nature say led to ther wyll / what haue they deserued / whych wyl nat so moch as put to theyr good wyll, that they be nat barren? The lawes of the Hebrues gaue this honoure to matrymonye / that he that maryed a new wyfe, shuld nat be compelled that yere to goo forthe to the batel. The cite is in greate ieopardy if ther be not men of armes to defende it, but nedes it must decay if there be nat wedded men, by whom the youth cōtynually faylynge may be supplyed. Also the lawes of ye Romans punyshed The law of ti
+                     •••
+                   mar
+                     •••
+                  
+                them that were bachelars in remouyng them from all promotions of the cyte. But such as had encreased with chyldren the commune weale / to them they ordeyned
+
+
+
+a reward openly to be gyuen, as it were for theyr wel deset uynge. The lawe of the. iii. chylderne is a sufficyēt proue for this mater. for I wyll nat here reherse all ye reste. Lycurgus made The law of the La cedemonians. a lawe that they whyche maryed nat wyues, shuld in somer season be dryuen from the enterludes &amp; other syghtes, and in wynter go about the market place all naked and curse them selues, sayng they suffred iuste punyshmēt, because they wolde nat obey the lawes. Nowe wyll ye know how much matrymonye was set by in olde tyme? Consyder the punyshment for ye defoyling of it. The Grekes The batel of Troy. ones thought it expedyent to reuenge the breche of matrymonye by contynuall warres enduryng the space of. x. yeres. Furthermore
+
+
+
+by the lawes nat onely of the Romaynes / but also of the Hebrues and other nacyons / aduowterers sholde lose ther lyues. The thefe was delyuered by paynge. iiii. tymes so muche as he The law of the ro mans had stolen / the syn of aduowtrye was punyshed with the axe. Also amonge the Hebrues he was stoned to deth with the peoples han The law of the Iwes. des whych desyled that, without whyche the people shulde nat be. And the rigor of theyr lawes nat contented therwith / suffered also that he whyche was found in aduowtre shuld be put to deth with out iudgement / with out lawes / gyuyng that libertye to the grefe of ye wedded men, whiche vnneth is graūted to hym yt in ieoperdye of lyfe defendeth hymselfe. Doutles wedlocke muste nedes seme a
+
+
+
+ryght holy thyng whych defyled can nat be repurged without mā nes blode / &amp; the reuengyng wher of / is neyther cōpelled to abyde ye lawes nor the iudge / ye whiche seuerite &amp; rigour of law is neyther in murdre nor i treson. But what stand we alday in wryttē lawes? This is the lawe of nature / nat grauen in tables of bras, but inwardly fyxed i our hartes, which who wyll nat obey, he is nat so much as to be estemed a mā much les a good cytizen. For if (as the Stoikes, men of sharpe iudgementes The Stoikes do dyspute) to lyue wel is nothynge els, but to folowe the guyde of nature / what thing is so agreable to nature as matrymony? For nothynge is so naturally gyuē nouther to man, nor yet to any other kynd of brute bestes as
+
+
+
+that euery one shuld preserue his kynd frō destructiō &amp; by propaga tion of posterytye to make it as it were immortall, whych without carnall copulatiō (as euery man knoweth) can nat be brought to pas. And it semeth a foule shame dum bestes to obey ye lawes of na ture, &amp; men (after the maner of gy auntes) to byd batell agaynst nature, whose worke if we wyll be hold with yees nat dasselling, we shall perceyue yt her wyll is that ther be in euery kynde of thynges a certeyn spyce of wedlocke. For I omytte to speake of trees, in A certier Kynde of wedlocke i trees whom yet by ye authoryte of Plinie wedlocke is founde with so manyfeste diuersyte of the male &amp; female, that if the male tree shulde nat with hys boughes lye vpō ye female trees that stande aboute
+
+
+
+hym couetyng as it were a medlyng to gether, they shulde abyde baren and fruteles. I holde my In precy ous stones. peace of pretious stones, i whych the same author wryteth (but nat he alone) that ther is founde both male &amp; female. I pray you hath nat god so knyte all thynges to gether with certeyn bondes, that one thynge doth neade an others help? What thynk ye to the heuen whych turneth about with cōtynual mouyng? I pray you whyle it maketh the erthe leynge vnder neth, whych is mother of al / with sundry kynd of thynges fruteful, pouring seed (as it were) vpon it / doth it nat thoffice of an husbād? But to renne through eche thing were ouer longe. Nowe, to what purpose haue we spoken thys? Suerly, that ye may vnderstand,
+
+
+
+by suche naturall commyxtions, euery thynge to haue his beynge and continuance, without which althynges to be dyssolued / to peryshe / &amp; to fall away. It is feyned A fabule &amp; the exposition therof. by the olde &amp; wyse poetes (whose study was to couer the preceptes of philosophye vnder mystycall fabuls) that gyauntes the sonnes of the erthe, hauynge feete lyke serpentes, dyd caste mountaynes vpon montaynes that reached vp to heuen, and so standynge vpon them warred agaynst the goddes. What sygnifieth this fable? Suerly that certeyne vngodly persones / wylde / and of an vngentle nature dyd greatly abhorre from matrimonyall concord / and therfore they were caste downe hedelonge with Iuppiters thunder bolt / that is to saye / they vtterly
+
+
+
+decayed and cam to nought, sythe they eschued the thynge, wherby mankynd is only preserued. But the selfe same poetes haue feyned that Drpheus beyng a poete and a mynstrell dyd moue with the swete note of his musycall instru mēt ye hard rockes of stone. What meaned they hereby? Nothynge els, but that a wyse &amp; an eloquent man dyd fyrst prohybet the stony men / and whyche lyued after the maner of wylde beastes / frome leyng at large / &amp; brought them to the holy lawes of matrymonye. Wherfore it appereth euydently that who so euer is nat touched with desyer of wedlocke semeth to be no man, but a stone / an ennemy to nature / a rebelle to god / by his owne foly sekynge hys decay and vndoynge. But goo to,
+
+
+
+sythe we be fallen into fabuls no thynge fabulous nor veyne / the same Drpheus whē he descended downe to hellys and ther moued Pluto lord of hell and the soules ther abydyng on suche wyse that he myght easely leade away with hym Euridice his wyfe / what other thynge suppose we that the poetes thought, than that they wold commend vnto vs the loue of wedlocke, whyche also in helle is counted holy and relygyous? Hereunto also belongethe, that the antyquite made Jupiter lord of wedlocke, and named hym for the same purpose Gamelium / &amp; made Juno the lady of women in chyldbed, callyng her pronubam and Lucinam, Superstityously errynge (I graunt well) in the names of the goddes, but nat errynge
+
+
+
+in this that they iudged matrimony a thyng holy &amp; worthy to be regarded of the goddes. Surely there haue bene dyuerse lawes / cerymonyes / and vsages among dyuerse peoples and nacions. But ther was neuer nacion so barbarous / so farre from al humanite / with whom the name of wedlocke hathe nat be recounted holy / hathe nat be recounted worshypfull. This the Thrasian this the Sarmate / this the man of Inde, this the Greke / this the Italion / this the Brytan furdest of all the worlde, or if ther be any further then they, haue had in hyghe reuerence. And why so? For of necessyte that thynge must nedes be cōmen, whyche the commen parent of all / hathe emprynted, and so inwardly emprynted,
+
+
+
+that the sense and feelynge of it, hath nat onely perced ye turtyls / and the doues / but also the moste cruell wyld bestes. For the lyons be gentil and meke to theyr lyonnesses. The tygrees fyght for theyr whelpes. The asses stycke nat to renne thrugh fyers leynge in theyr waye for the sauegarde &amp; defence of theyr fooles. And thys they call the law of nature which as it is most stronge, so it is most large. Wherfore lyke as he is no A similitude. dilygent husband, which contented with the thynges present, tendethe ful curiously the trees redy growen / but hathe lytle regarde outher of settyng or of graffyng / because yt of necessite within few yeres those orcheyardes (be they neuer so well kepte) must decaye and become desolate. So in lyke
+
+
+
+wyse he is to be iudged an vndyligent cytizē in ye publyke weale, which cōtented with the cōpany present, hath no respecte nor consideraciō to supply newe in place of the olde. Noman therfore haue ben counted a noble and worthy citizen, which hath nat bestowed his dilygence in begettyng chylderne and bryngynge them vertuously vp. Among the Hebrues &amp; Persyans he was most hyghely commended, yt had moste plenty of wyues, as thoughe the contre were most bound to hym, that with most chyldern had enryched it. Do ye studye to be more holy then was Abraham? He shuld neuer haue ben called Pater multarum gentium that is to say / the Father of many peoples / and that of goddes owne mouthe, if he had
+
+
+
+fledde the company of hys wyfe. Do ye labour to be reputed more religious thā Iacob? He stycked nat to bye his wyfe Rachel with so longe apprentyshode and bondage. Be ye wyser than Solomon? But what a flocke of wyues keapte he at home? Be ye chaster then Socrates? Whyche suffered at home in hys house Xantippe that wayward woman nat only (as he was wont to geste hym selfe) because he myght lerne pacyence at home, but because he wolde seme nat to halt in thoffyce of nature. For he a man (whome the dyuine answere of Apollo only iudged wyse) vnderstode full wel, that vnder thys lawe &amp; condition he was begotten, to thys he was borne / this he dyd owe to nature. For if it haue bene well
+
+
+
+sayde of the olde phylosophers / if it haue bene nat without cause cō fermed of oure dyuines, if it haue bene ryghtly euery where pronounced as a prouerbe, that god 
+               A proverbe. 
+               nor nature haue made no thynge frustrate nor in vayne / why (I pray you) hath god geuē vs these membres? why these pryckes and prouocatiōs? why hath he added the power of begettynge, if bachelarshyp be taken for a prayse? yf one wold gyue you a pretious gyfte, as a bowe / a garment / or aswerde, ye shuld seme vnworthy the thyng that ye haue receyued, if outher ye wolde nat, or ye could nat vse it. Where as all other thynges be ordeyned by nature with moste hygh reason, it is nat lykely that she slumbered &amp; slepte in makyng only this pryue mem
+
+
+
+bre. Nor I here nat hym whiche A confutation. wyll saye vnto me that / that foule ychynge and pryckes of carnall lust haue come nat of nature, but of syn. What is more onlyke the trowth? As though matrymony (whose offyce can nat be executed without these pryckes) was nat before syn. Moreouer in other bestes I praye you from whens commeth those pryckes and prouocations? of nature, or of synne? wonder it is if nat of nature. And as touchyng the fowlnes / surely we make that by our imaginaciō to be fowle, which of the selfe nature is fayre and holy. Els, if we wolde weygh the thynge, nat by the opynyon of the people, but by the very nature, howe is it les fowle (after ye maner of wylde bestes) to eate / to chaw / to dygest,
+
+
+
+empte the bely, thā to vse the law full &amp; permytted plesure of the bo dy? But vertue (ye say) is to be obeyed rather than nature. As thoughe / that is to be called vertue whyche repugneth with nature, from whens if vertue haue nat his fyrste begynnynge, certes it can nat be it, whyche may with excercyse and lernynge be made perfecte. But the apostles lyfe delyteth you, for they also folowed bachelarshyp, and exhorted other to the same. Lette thapostolycall men folowe thapostles, whyche (because there offyce is to teche &amp; instructe the people) can nat both satisfye theyr flock &amp; theyr wyfes, if they shuld haue any. How be it that thappostles also had wyues, it is euidently clere. Let vs graūt bachelarshyp to ye bishops. What
+
+
+
+do ye folowe the appostes forme of lyuynge, beynge so farre from the offyce of an apostle, syth ye be a man bothe temporall and also without offyce? It is lycenced them to be without wyues, to the entent they may the better attend to begette the more chylderne to Christ. Let this be ye pryuilege of prestes &amp; relygyous men, whych (as it appere) haue succeded the Essenes forme of lyuyng whych damned holy matrymony. Your estate requireth otherwyse. But Chryst hymselfe (ye wyl say) haue pronounced them blessed whyche 
+               Mat. 19. 
+               haue gelded thē selfes for the kyng dom of god. I reiecte nat the authoryte, but I wyl expound Chri stes meanynge. Fyrste of all, I thynk this sayng of Chryst to apperteine especially to those times
+
+
+
+when it was expediēt to be moste redy &amp; lose frō all wordly bussynesses. Then was the tyme that they shulde fle &amp; ren hyther &amp; thyther through all landes, the perse cutoure was at hande on euerye syde. But now such is the state of thynges &amp; tymes, that no where ye may fynd the purenes and per fection of maners les spotted and contaminate, than amonge wedded persons. Let the swarmes of monkes, fryers, chanons, &amp; nunnys auaunce theyr professyon as moch as them lust. Let them bost as moch as they wyll, theyr cerymonyes &amp; dysguysed cotes (wher by they be chefely knowen from the tēporall) suerly the most holy kynd of lyfe is wedlocke puerly &amp; chastly kept. Forthermore nat he onely geldeth hymselfe which lyueth
+
+
+
+without a wyfe, but he why che chastly &amp; holyly doth thoffyce of wedlocke. And wold god they were trewly chaste, so many as cloke theyr vyces vnder the gloryous tytle of chastite and castra tyon, whyche vnder the shadowe of chastyte doo more fowly rage in fylthy and bestely abhomynation. For I am ashamed, so helpe me god, here to reken vp, in to what shamefull abhominatyons they ofte tymes falle, whyche doo thus repugne agaynste nature. To be shorte, Christ neuer commaunded bachelarshyp to none erthly persone, but he openly forbyddethe deuorcement. Suerly He thynkethe yt expedyēt for prestes to haue wy ues. me thynke, he shulde be nat the worste counsellour for ye cōmune weale (cōsyderyng the fashyons &amp; manners of men) whyche wolde
+
+
+
+graunt also the prestes &amp; relygyous persons lycence to mary, namely sythe ther is euery where so greate a multytude of prestes, of which (alas) how few lyue a chast lyfe? How moch better were it to tourne theyr cōcubyns into wyues, so that those whome they haue nowe with greate infamye, and with an vnquyet conscyence, they myght then haue openlye with an honeste fame, and beget chylderne whom they may loue as trewly legytymate, and bryng them godly vp, so that nother the father shall be ashamed of them, nor they of ther father. And this (I trow) the officyals of byshops shulde haue procured long a go, but that greater gaynes aryse by the concubyns, then shuld by the wyues. But virgynyte (ye wyll A confutaryon.
+
+
+               
+say) is a dyuyne thynge, an angelycall thyng. Trewthe it is, but, on the contrarye syde, wedlocke is an humane thynge. I nowe speke to a man beynge my selfe a man. A cōmēdable thyng, certes, is virgynite, but yet so that this prayse be nat transferred to ouer many, whyche commendation if euery man commenly wyl begyn to vsurpe, what can be sayde or thought more hurtfull and more ꝑnycious than virginyte? More ouer thoughe in other men virgynyte shuld moste of all deserue prayse, yet suerly i you it can nat lacke blame, in whome it nowe standeth to preserue youre noble stocke, worthy of an immortal contynuāce. Fynally he is but a very lytle of, from the prayse of virgynite, whyche kepeth purely
+
+
+
+the law of wedlocke, and whyche hath a wyfe to the cntent to beget chylderne, and nat to satysfy hys wanton luste. Yf the brother, in the law of Moses, be commaunded The sues lawe. to rayse the seade of his brother, whych dyed without yssue, wyll ye suffre the hope of your whole lygnage to be vtterly extynte, namely syth it is returned to you only? Nor I am nat so ignorāt but yt I know welynoygh that the praises of virginite haue ben rehersed, and celebrate with great volumes of sum of our olde fathers. Among whom Hierome Hierome so auaūceth it, yt in maner he despiseth wedlocke &amp; was prouoked of the byshoppes that were of the trew opinyō to rechaūt &amp; synge a newe song. But let this heate be graunted to those tymes. Howe
+
+
+
+I wolde wysh those yt thus euery where without dyscretion do exhorte the youthe (nat yet knowen to them selfes) to bachelarshyp and vyrgynyte, to bestowe theyr labour in descryuynge the forme of chaste &amp; pure matrimony. But yet they whyche ar so well pleased with virginite be nat dysplea sed with the warres agaynste the Turkes whyche passe vs so farre in numbre, whose iudgement if it be ryght, it shall folowe that it be chefcly thought ryght &amp; holy, busyly to beget chylderne &amp; supplye youthe suffycyent for the vse of the warres. Except perchaūce they thynke to prepare gonnes, weapōnys, shyppes to ye warrrs, &amp; thynke lytle neade of men. The same do alow to slee wt the swerd the parentes of infideles, to the in
+
+
+
+tent that theyr chylderne myght be baptysed, yea vnknowyng also. If this be trewe, howe gentyl ler a dede were it to brynge the same to effecte with the offyce of intermaryinge, eche with other. No nation is so cruel that abhor reth nat the murdre of infauntes. Lawes of princes in maner with lyke rigoure punyshe them that cause that, which is conceyued in the womā to com forth deed, and them that make them baren with medycynes. Why so? Forther is smal diuersyte betwyxt hym that murdereth that whyche begynne to be borne, and hym whych procureth that nothyng can be borne Thys that in your body eyther dryeth vp, or with ye great daunger of your helth putryfyeth and corrupteth, whyche in your slepe
+
+
+
+falleth away, had ben a man if ye were a man your selfe. The olde lawe of the Iewes curseth hym whych when he is commaunded to lye with his brothers wyfe yt is deade, casteth his seade on the erth that nothyng shuld be engengred, and is iudged vnworthy lyfe, whyche enuyeth lyfe to the frute yt is to be borne. But howe lytle from hym differ they, which haue enioyned themselfes perpetuall barrennesse? Do they nat seme to kyl so many mē, as shuld haue ben borne, if they had gyuē theyr labour to the begettynge of chylderne? I pray you if a manne haue a pece of groūd rancke of na ture, whyche vntylled, he suffreth to be contynually barren, is nat this man punyshable by ye Ciuile lawe, bycause it is for the profete
+
+
+
+of the commuue wele that euery man tendeth well his owne? Yf he be punyshed whych neglecteth his grounde whych (be hit neuer so well tyld) bryng forth nothyng els than wheate / or beanes / or pese, what punyshment is he wor thy whyche refuseth to tylle that groūd which tylled beareth men? And in tyllage of the erthe is requyred a longe and paynefull labour, here the short tyllage is also entysed with a pleasure / as it wer a reward prepared therfore. Wherfore if the sense of nature, if Aepiloge honestye / if naturall affectyon / if deuotion / if gentelnes / if vertue any thynge moue you, why abhorre ye from that whych god ordeyneth, nature enacteth, reason entyseth / the scryptures bothe of god and man prayse / the lawes
+
+
+
+commaūde, the whole cōsent of al natyons approue / to whyche the ensample of euery good man pro uoketh? That if the most parte of thynges (yea whyche be also bytter) ar of a good mā to be desyred for none other purpose, but bycause they be honeste, matrimony doutles is chefely to be desyred wherof a man may dout whether it hath more honesty thā pleasure For what thynge is sweter, then with her to lyue, with whome ye may be most streyghtly copuled, nat onely in ye beneuolence of the mynd, but also in the cōiunction of ye body. Yf a greate delectation of mynde be taken of the beneuolence of our other kynsmen, sythe it is an especyall swetnes to haue one with whom ye may communycate the secrete affectyons of
+
+
+
+your mynde, with whom ye may speake euen as it were with your owne selfe, whom ye may sauely truste, whyche supposethe your chaunces to be his, what felycyte (thynke ye) haue the coniunction of man and wyfe, than whych no thynge in the vnyuersall worlde may be founde outher greater or fermer? For with our other frendes we be conioyned onely with the beneuolence of myndes, with our wyf we be copuled with most hyghe loue, with permyxtyon of bodyes, with the confederate bād of the sacramēt, and fynally with the felaweshyp of all chaunces. Furthermore in other frēdshyps, howe greate symulation is ther? howe greate falsyte? Yea they, whome we iudge ouer best frendes, lyke as the swalous flee
+
+
+
+awaye, when somer is gone, so they forsake vs, when fortune tur neth her whele. And somtyme the frescher frende caste out the olde. We here of fewe, whose fydelyte endure tyll theyr lyues end. The wyues loue is with no falsite cor rupted, with no symulation obscured, with no chauuce of thynges mynyshed, fynally with deth only (nay nat with deth neyther) with drawen. She, the loue of her parentes / she, the loue of her systers / she, the loue of her bretherne despyseth for the loue of you, her onely respecte is to you, of you she hangeth / with you she coueteth to dye. Haue ye ryches? ther is one yt shall saue it / ther is one yt shall encrease it. Haue ye none? ther is one that may seke it yf ye haue wealth / your felycyte
+
+
+
+is doubled / if aduersyte, ther shal be one whych may conforte you, whych may syt by your syde, whiche may serue you / which may co uet your greffe to be hers. Do ye iudge any pleasure to be cōpared with this so great a coniunctiō? Yf ye tary at home ther is at hand whyche shall dryue away ye tedyousnes of solytary beyng. Yf frō home / ye haue one that shall kysse you whē ye departe / long for you whē ye be absent, receyue you ioy ously whē ye returne. A swete cō
+               paygnyon of youth / a kynd solas of age. By nature yea any felawshyp is delectable to mā, as whō nature hath created to beneuolēce and frendshyp. Thys felawshyp then howe shall it nat be moste swete, in whyche euery thynge is comune to them bothe? And contrarily,
+
+
+
+if we se the sauage bestes also abhorre solytarye lyuynge &amp; delyted in felawshyp, in my mynd he is nat onys to be supposed a man, whych abhorreth frō this fe lawshyp most honest &amp; plesaūt of all. For what is more hatefull thē yt man which (as though he were borne onely to hymself) lyueth for hymselfe, seketh for hym selfe / spa reth for hymself / doth cost to hym selfe, loueth no persone, is loued of no persone? Shall nat suche monstre be adiudged worthy to be caste out of all mens companye into the mydde see with Cymon the Athenyense, whyche because he fledde all mens compaygny, was called Misanthropus that is to say hateman? Ney ther dare I here propound vnto pou those plesures whyche (wher
+
+
+
+as they be naturally moste swete to man) yet (I can nat tell how (of the greate wyttes they be dyssem bled, rather than despysed. Albe it, who can be borne with so rigo rous a dysposytion (I wyll nat saye dumppyshe and dastardly) whyche maye nat be taken with suche kynde of pleasurs, namely if he maye attayne them without the offense of god &amp; mā / without the losse of his good name? Certes I wold cal hym no man but a playne stone. Albeit, that plesure of bodyes is the leste parte of the goddes that wedlock hathe. But ymagyn that ye can contempne this, as vnworthy tor a mā (how be it without these we deserue nat onys the name of a man) let it be put (if ye wyll) a monge the most base commodytes of wedlocke / 
+
+
+
+nowe syr what can be more amia ble then chaste loue / nay what more holy &amp; honest? There accres seth by the meanes a swete flocke of alyesses / ther is dubled the nū
+               bre of parentes / of bretherne / of systerne / of neuewes. For nature can gyue one only mother / one only father. By wedlocke, an other father / an other mother is goten, whiche (because they haue cōmitted theyr owne fleshe vnto you) can nat but loue you moste tenderly. Nowe syr, how hyghly wyl ye esteame this thyng, when your fayer wyfe shall make you a father with a fayer chyld? When sum litle yong babe shall play in your halle whiche shall resemble you &amp; your wyfe? Which with a myld lyspyng, or amyable stam-(merynge
+
+
+
+shal cal you dade. Now adde, vn to your wyfes loue, ye bond more strong then any adamāte, which nat dethe hym selfe can braste a sundre.
+            Oh how blessed (sayth Flaccus) be they Horace. whom ye fast knot of wedlocke doth tey whose stedfast loue by no pleit cā starte Tyll only dethe them tweyne do parte. Ye haue them that may delyght your age / yt may close your eyes / yt may do thoffyce of the buryals / in whōe ye may seme regenerate / whome beynge a lyue, ye shalbe thought nat to haue dyed. Your gooddes which ye haue goten go nat to straūg heyres. Thus, whē ye ar passyng out of the worlde, &amp; haue fully executed all to gether, yet nat dethe hym selfe can seme sharpe nor bytter vnto you. Age must crepe vpon vs all / whether
+
+
+
+we wyll or nat. By thys polecye nature hath prouided that in out chylderne &amp; neuewes we may be renewed &amp; florysh fresh agayne. For who cā bere age heuyly whē in hys sonne he beholdethe his owne vysage that he hymselfe bare whā he was yong? Deth is p̄pared for all. But by this only waye the prouydence of nature assayethe (as it were) a certayne immortalite, whyll she thus maketh one thynge to yssue out of an other (lyke as a yong plante whiche is cut of, from ye tree sprigeth freshly vp) nor he semethe nat to be vtterly quēched, which dyeth, leuynge issue behynd.
+            BUt I know well ynoughe The refutation of the incō
+                  modities of marya ge. what among these, ye mur mure against me. A blessed thing is wedlocke, if al proue acording
+
+
+
+to the desire. But what if a wayward wyfe chaūceth? What if an vnchaste / what if vnnatural chylderne? There wyll renne in your mynd thexamples of those whom wedlocke haue brought to vtter destruction. Heape vp as muche as ye can, but yet these be ye vices of men &amp; nat of wedlocke. Beleue me, an euyll wyfe is nat wont to chaunce, but to euyll husbondes. Put thys vnto it / that it lyeth in you to chuse out a good one. But what if after the mariages she be mard? Of an euyll husbande (I wyll well) a good wyfe may be mard. but of a good / the euyll is wont to be refourmed &amp; mended. We blame wyues falsly. No man (if ye gyue any credence to me) had euer a shrewe to his wyfe, but thrughe hys owne defaute. And
+
+
+
+of good parētes comūly be borne lyke chylderne. Howbeit the chyl derne also (howe so euer they be borne) communly do proue suche, as they be formed and fashoned in ther bryngyng vp. Nowe syr / I see no cause why ye shuld feare ielowsye. Thys is the syknes of folyshe louers. The chaste &amp; lawfull loue knoweth no ielowsye. What do ye tragedes cum to your mynde? This aduouterous woman stroke in sūder her husbond with an axe. This poysoned him. That woman with her hatefull maners did dryue her husbond to deth. Why rather do nat Cornelia wyfe to Ciberius Graccus cum to your remembraunce? Why do nat Alcestis so good a wyfe of nat so good an husbond? Why do stat outher Iulia wyfe of Pompeiꝰ
+
+
+
+or Portia the wyfe of Cato renne in your mynd? Why do nat Artemisea worthy eternall memorie? Why do nat Hypsicratea wyfe to Mithridates kynge of Pontus? Why com nat into your mynde yt most gentle behauiour of Tertia Aemilia ye wyfe of Scipio Africanus? Why do nat ye faythfulnes of Turia? Why do nat Lucretia and Lentula cum in mynd? Why do nat Arria so hyghly commended of Plinie? Why do nat other innumerable, whose honest and chaste lyuynge / and faythfulnes towarde theyr husbandes coulde nat be altered nor corrupted nat by dethe? A rare byrd in erthe (ye say) is an honest woman. And ymagine ye agayne youre selfe worthy to haue a rare wyfe.
+            A good woman (sayth ye wyse mā)
+
+
+
+is a great felicite. Be bold to hope oon worthy for yor maners. And very muche (as touchynge thys mater) lyeth in the fashonynge of her &amp; in ye behauyng of your selfe towardes her whome ye chose. But sweter (ye wyll say) is liberte. Who so euer taketh a wyfe, taketh a payre of fetters whiche nothyng saue only deth can shake of. What can be swete to a man a lone? If libertie be swete, it were best (by myne aduyse) to take a cōpaygnion with whom ye may part this so plesaūt a thing. How beit, what is more free than this bondage, wher eyther is so bond to other that neyther wolde be enfraūchysed? Is nat euery man bound to his frende? Yet no man complayneth that hys liberty is take away. But ye feare leste if Orbitas
+
+
+               
+dethe shuld take away your chylderne ye shulde fall in to sorowe. Yf ye fere to be chylderneles, for this very cause ye ought to mary a wyfe whiche only may be the cause that ye be nat chyldernles. But what serche ye out so dilygently (nay so narouly and curiously) al the incomodities of matrimony, as who shulde say the sengyll lyfe had no incommodie at all? As who shulde saye, ther were any lyfe of man that is nat subiecte to al the chaunces of fortune. He must get hym out of the world which wyl bere no incommodite. That if ye wyll haue respecte to the lyfe in heuen, thys lyfe of man is to be sayd a dethe / &amp; no lyfe. But if ye kepe your mind within ye boūdes of mans estate / nothyng is neyther sauffer, neyther
+
+
+
+quieter, neyther pleasaūter, neyther amiablear, neyther happyer, than ye wedded lyfe. Marke the thyng by ye ende. Howe many se ye, whiche haue onys assayed wedlocke, that go nat gredely to it agayne. Dyd nat my frende Mauricius (whose excellent pru dēce is nat vnknowne vnto you) after the deth of hys wyfe whom he so singularly loued, marye the next monethe after a newe wyfe? Nat so greatly for thimpaciencie of hys luste, but he thought hys lyfe no lyfe without a wyfe, a swete company on of al thynges. Dothe nat Iouius our frende nowe wooe his fourth wyfe? So he loued them when they lyued yt he semed comfortles. So, when one dyed he hated to be a wydower, as thoughe he fayntly had
+
+
+
+loued them. But what reason we of honestie &amp; plesauntnes, when nat only profete entysethe but also necessite constrayneth to wedlocke? Take matrimony awaye, and within fewe yeres mankynd shalbe vtterly gone. Xerxes kyng of Persea when he beheld out of an hyghe tower the great multitude of men he could nat refrayne weapynge, bycause yt of so many thousandes of men, within thre score yeres none shulde be lefte a lyue. Why the thynge that he vnderstode of hys armye, do nat we cōsidre of al mankind? Wedlocke taken away, who one, of so many regions, prouinces, realmes, cities, townes, within an hūdreth yeres shalbe lefte alyue? Go we nowe and auaūce bachelarshyp, whiche bryngeth mankynd to destruction.
+
+
+
+What pestilence, what plage, can be sent on man eyther frome heuen or frome helle more hurtful? What of any flode can be feared more daungerous? What can be loked for, more heuy and greuous, though yt fyer of Phaeton shulde cum agayne whan all the worlde was destroyed with fyar, And yet (for al that) in suche trobelous sesons many are wont to be lefte alyue, but by bachelarshyp, suerly, nothing can be lefte. We se what a route of diseases, how many casualtyes, dayly and nyghtly lye in wayght vpon the fewenes of men. Howe many do the pestylence take away? Howe many do ye see swalo we vp? How many do batell consume. For I wyll nat speke of these quotydiane dethes. Dethe flyeth aboute
+
+
+
+euery Where, he ronneth, he caryeth, he hasteth toquenche mankynd, and do we yet auaunce bachelarshyp &amp; flee wedlocke? Onles perchaunce the lyfe of the Essens and Dupolitans (whiche do dampne wedlocke) do please vs, whose pestilente sectes be multyplyed and encreased with vngracious people neuer faylyng. Do we loke that god wyll geue vs ye same vertue that he hath geuen (as they saye) to the bees, so that without the cōpaynie of woman we myght be greate with chyld, &amp; gather with our mouthes sedes of posterite out of the flowers? Do we requyre that lyke as the poetes fayne yt Minerua yssued out of Jupiters braynes, so in lyke maner chylderne shuld leape out of our hedys? Or (to be short)
+
+
+
+that accordyng to the olde fabuls, men shuld sprynge out of ye erthe, out of stones throwen forth, out of hard trunkes of trees? Out of the lappe of ye erth many thynges do sprynge without our laboure. Lytle plantes sprynge vp oftentymes vnder the shadowe of theyr mother. But vnto man nature hathe gyuen one only way of deryuyng yssue, whiche is, that by the mutuall laboure of man and woman mankynd shulde be preserued, whiche if men wolde flee as ye do, truly these thynges which ye so hyghly auaūce shuld nat be. Ye auaunce bachelarshyp, ye magnifie virginite. But neyther bachelars neyther virgyns shulde be if ye take away the vse of wedlocke. Why then is virginite preferred? Why is it in so
+
+
+
+hyghe reputacion, if it be the destruction of man? It was commended / but for a time, and but in fewe, for it pleased god to she we to men a certayne token, and as it were a representacion of the heuenly lyfe where they neyther marye nor be geuen in mariage. 
+               Mat. 22. But for an example a fewe be sufficient, a multitude is nat profytable. For lyke as nat al groūdes A symyly tude. (be they neuer so ranke) be sowen to the sustenaūce of man / but part is let a lone / part dyght to ye pleasure and feedyng of the eyes. For the very copie and plentie of the thyng in so muche arable ground suffreth sum parte to be lefte barren and fruteles. But if none at al were sowen, who seeth nat but that we muste returne to ye frute of trees wherwith they lyued in
+
+
+
+olde tyme before the inuencion of tyllage. So bachelarshyp in so greate a multitude of men / in a fewe (I graunt) is commēdable, in all, a thynge greatly to be dispraysed. But admyte yt in other men virginite had ye name of an hyghe vertue, yet in you suerly it shuld be vitious. For other men shal seme, to haue entēded a purenes of lyuyng / ye shalbe iudged a trayterous murderoure of your lygnage, whiche, when ye myght haue maynteined by honest wedlocke, ye haue suffred to peryshe by foule bachelarshyp. Admyt it lawfull, out of a greate numbre of chylderne to offer one virgyne to god. The vplandyshe men whiche dwell in the coūtree offer to god the fyrst of theyr frute / nat theyr whole croppe. But ye, must
+
+
+
+remembre that ye only be lefte the laste / and the leuynges of your stocke. And I pray you what diuersite is there whether ye slee or refuse to saue hym which may by you only be saued &amp; easly saued? But the example of your syster A violation prouoketh you to chastite. Nay, for this very cause only, ye ought moste chefely to eschue bachelarshyp. For now ye vnderstand that the hope (which before was commune to you bothe) of preseruing your stocke is reuolued and caste whole vpon your backe. Let us pardone the frayle kynde of the woman / let vs pardon the vndescrete age. The mayde ouercomen with sorow did a mys. Thrughe the entysmētes of folyshe women and folyshe fryars she hathe caste her selfe hedlong. Ye beyng elder
+
+
+
+muste nedes remembre that ye be a man. She wold nedes dye with her auncestres, but your laboure must be that they dye nat. Your syster hath withdrawen her selfe of her dutye, remembre now that ye ought to fulfyll the partes of two. The doughtars of Loth stycked nat to lye wt theyr father, iudgyng it better to mayntayne they? lygnage by vnlawfull and abhominable inceste than to suffre it clene to fal awaye. And wyl nat ye then by matrimony which is, honest, holy, chaste, without offence, with hygh plesure mayn tayne your stocke, which shal els be vtterly extyncte?
+            UUherfore let vs suffre them to folowe the lyfe of Hippolytus, The cō clusiou. let them (I say) embrace bachelarshyp, whiche eyther can
+
+
+
+be husbandes but fathers can be none, or whose bare lyuynge is nat able to brynge vp chylderne / or whose stocke may be mainteyned by other, or suerly is suche, that better it were for the cōmune weale to be quenshed, than mayn teyned. But ye whā (wytnessyng the physician a man neyther vnlerned nor no lyar) ye seme by your nature very apte to engendre muche posterite, whē ye haue greate enheritaūce, commynge also of a stocke, so good, so noble, that without greate synne and ye great hurte of the cōmune weale it can nat be quenched, furthermore sythe your age is iusty and floryshynge, nor ye lacke nat the beautie of ye body, and when ther is offered you a wyfe, so lusty a mayde, so well borne as may be,
+
+
+
+thaste, sobre, demure, godly, hauyng an aungels face / with fayre landes, when your frendes beseche you, your kynred weape, your affinite cal on / your natyue coūtree requireth / the very deade corses of your auncestres rysyng out of theyr graues obteste the same of you, do ye yet tary, do ye yet thynke vpon bachelarshyp? Yf a thyng scase honest shulde be required of you / yf an hard thing, yet eyther the requestes of your frendes, eyther the loue of your stocke ought to ouercum your mynd. Howe muche then, more ryght and conuenicnt is it, that the teares of your frendes / the affection of your coūtree / the naturall loue of youre auncestres ought to obteyne yt of you, wherunto goddes lawes and mannys 
+            
+
+               
+exhorte / nature pricketh / reason leadethe / honestie allurethe / so many cōmodities ꝓuoke / necessite also cōstreyneth? But nowe we haue brought forthe argumentes abundantly ynoughe. I truste longe ago (throughe myne aduertysmēt) ye haue chaunged your purpose / and applyed your mynd to holsommer counselles. Fare ye well.
+            TELOS.
+         
+      
+      
+         
+            Imprynted at London in Flestrete at the sygne of the George by me Robert Redman. CVM PRIVILEGIO REGALI.
+            
+         
+      
+   
+

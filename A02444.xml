@@ -1,0 +1,456 @@
+
+   
+      
+         
+            A nevv treatise of the pestilence, containing the causes, signes, preseruatiues and cure thereof The like not before this time pubished [sic]. And therefore necessarie for all manner of persons, in this time of contagion. S. H. Studious in phisicke.
+            Hobbes, Stephen.
+         
+         
+            
+               1603
+            
+         
+         Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2008-09 (EEBO-TCP Phase 1).
+            A02444
+            STC 12577
+            ESTC S117905
+            99853114
+            99853114
+            18482
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A02444)
+            Transcribed from: (Early English Books Online ; image set 18482)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 1239:14)
+         
+         
+            
+               
+                  A nevv treatise of the pestilence, containing the causes, signes, preseruatiues and cure thereof The like not before this time pubished [sic]. And therefore necessarie for all manner of persons, in this time of contagion. S. H. Studious in phisicke.
+                  Hobbes, Stephen.
+               
+               [16] p.   
+               
+                  Printed by Iohn Windet, for Mathew Law, and are to be sold at his shop at the signe of the Fox in Paules Church-yarde,
+                  London :
+                  1603.
+               
+               
+                  S. H. = Stephen Hobbes (Halkett &amp; Laing).
+                  Signatures: A-B⁴.
+                  Reproduction of the original in the British Library.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Plague --  Early works to 1800.
+            
+         
+      
+      
+         
+            2006-03
+            TCPAssigned for keying and markup
+         
+            2006-05
+            SPi GlobalKeyed and coded from ProQuest page images
+         
+            2007-05
+            Ali JakobsonSampled and proofread
+         
+            2007-05
+            Ali JakobsonText and markup reviewed and edited
+         
+            2008-02
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            A NEVV TREATISE OF THE PESTILENCE, containing the Cauſes, Signes, Preſeruatiues and Cure thereof. The like not before this time pubiſhed. And therefore neceſſarie for all manner of perſons, in this time of contagion. S. H. Studious in Phiſicke.
+            LONDON, Printed by Iohn Windet, for Mathew Law, and are to be ſold at his Shop at the ſigne of the Fox in Paules Church-yarde. 1603.
+         
+      
+      
+         
+            
+            
+            A TREATISE OF the Peſtilence.
+            
+               HAuing an intent to write certaine Precautions and preſeruatiues againſt the peſtilence, I thinke not neceſſarie to be ouer tedious or ſo preciſe as thoſe that write exquiſitly and perfectly of the ſame diſeaſe: onely I am determined to ſet downe ſuch things as ſhall be neceſſary for to be knowne by thoſe which in this caſe ſhall haue neede.
+            And firſt, I will make a true deſcription of the peſtilence, what it is. Secondly, the cauſes, thou the Signes, and laſtly precautions and remedies againſt the ſame.
+            The peſtilence is nothing elſe then a rotten or peſtilent feuer,Definition. which being ingendred by a rotten and corruptayre by a hidden and ſecret propertie which it hath, doth kill and deſtroy mortal creatures. The cauſes are ſaid to be foure fold, as the firſt &amp; chiefeſt cauſe is ſupernaturall, as being immediately ſent from God for the puniſhment of ſinne and diſobedience of mankind, as doth appeare in Deut. 2
+                     •
+                  .15. If thou wilt not obey the voice of the Lord thy God to
+
+keepe and to doe all his commandements and his ordinances which I command thee this day: then all theſe curſes ſhall come vpon thee, and ouertake thee. Curſed ſhalt thou be in the towne, and curſed in the field, &amp;c. The Lord ſhal make the peſtilence cleaue vnto thee vntill he haue conſumed thee from the Land which thou goeſt to poſſeſſe, &amp;c. Moreouer we reade that the ſinne of Dauid was the cauſe that the Lord ſent his Angell which did kill the peſtilence in a ſmall time threeſcore and ten thouſand ſoules.
+            Now this may be proofe ſufficient that ſinne is the originall and chiefe cauſe of this moſt cruell diſeaſe of the peſtilence.
+            
+                The ſecond cauſe is attributed to an euill conſtellation which Aſtronomers affirme to proceede by the placing of the Sunne, Moone, and Stars, being in the firmament or circles of the heauens by their coniunctions, oppoſitions, and other Aſpects the one to the other.
+            
+                The third cauſe is attributed to the corruption of the ayre, which being corrupted is apt for infection of mans body, for all liuing creatures drawe their breath from the ayre that is round about thē, which if it be ſtinking, wenomous, and corrupt, the bodie of man liuing therein is in danger to be corrupted: whereby often times the peſtilence is ingendred.
+            
+                The fourth cauſe is the aptneſſe of the body of man, through corrupt and rotten humours fitte to receiue the effects of a venomous ayre, putrifying and corrupting the body whereby the peſtilence is ingendred. And this aptnſſe to infection proceedeth by the abuſe of the ſix things which are called by
+
+the Phiſitions not naturall, which are
+
+                  
+                     1. Ayre.
+                  
+                  
+                     2. Meate and drinke.
+                  
+                  
+                     3. Sleepe, and watch.
+                  
+                  
+                     4. Exerciſe, and reſt.
+                  
+                  
+                     5. Emptineſſe, and repletion.
+                  
+                  
+                     6. The perturbations and affections of the minde.
+                  
+               
+            
+            Now as the true vſe of theſe things that are called not naturall doth maintaine and cheriſh health, ſo the abuſe thereof is the occaſion of diſeaſe &amp; ſickeneſſe. For which cauſe I counſell all manner of perſons in this time of contagion to flie ſurfeting, gurmandizing, and other vnſeaſonable banketings, whereby the health of the body is at all times impayred, for who knoweth not that great and often feeding breedeth cruditie, and rawe watriſh humours in the body (which cruditie is a fitte ſediment or ſubiect for the venomous and corrupt ayre to worke on. For which cauſe the learned Phiſitions as well Auncient as moderne giue counſell that in the time of peſtilence and contagion, thoſe bodies that are humid and moyſt, muſt bee by all manner of meanes made drie, and thoſe that are dry to be kept and preſerued in their drineſſe: for by obſeruation it is very well knowne that the Phiegmaticke and ſanguine body is ſooner ſubiect to infection then the Choloricke or Melancholike, and experience doth dayly teach vs when for the moſt part women, children, and men of yoong yeares are thoſe that die in this diſeaſe of the peſtilence as
+
+thoſe bodies that are hot and moyſt and thereby fitteſt to receiue putrif
+                  •
+               c
+                  •
+               ion.
+            But for as much as I promiſed in the beginning not to be ouer-tedious as thoſe that make a long diſcourſe, I purpoſe to proceede briefly vnto the ſignes whereby a man may know and perceiue when the contagion hath taken hold of him, and thereby run ſpeedily vnto ſuch meanes &amp; helps, as by the rules of Phiſicke ſhall be to him diſcribed.
+            
+               Signes.The ſignes to know when the body is infected, are for the moſt part an Apoſtum or tumor about the eare, necke, vnder the arme holes, or flancke, with a feuer, and ſometimes there ariſeth in ſome other parts of the body, a darke greene or euill coloured ſore. Theſe ſignes for the moſt port doth appeare but not alwaies. But for the more certainty, we muſt conſider theſe ſymtomes or ſignes that follow, there hapneth after infection a great pricking, and ſhooting in the body and eſpecially in the necke armeholes and flanckes, alſo extreame heate within the body, and in the hands, knees, and feete very co
+                  •
+               d ſo that there is ioyned with the ſame a ſhiuering as in a feuer: alſo their is heauines of the head, dryneſſe of the mouth, with extreame thirſt; alſo a drowſineſſe and great deſire to ſleepe: ſome againe are ſo watchfull that they cannot ſleepe, ſo that they ra
+                  •
+               e as thought they were in a phrenſ
+                  •
+               e: there happeneth alſo great paine in the head faintneſſe ſluggiſhneſſe, weakeneſſe of the l
+                  •
+               mmee, penſiueneſſe, no deſire of meat with oftē vomiting, the matter being bitter &amp; of diuers colours, the vrine troubled, thicke and ſtinking &amp; for the moſt part without reſidence.
+            
+               Theſe are the principall ſignes of infection &amp; yet not certaine, for ſometimes a man may be infected and yet none of theſe ſignes apparant. And in like maner a man may haue theſe ſignes, and yet free from infection. Some Phiſitions are of opinion that there is ſcarſely any diſeaſe where the Peſtilence raigneth, but that it is either of the nature of the peſtilence or apt to be turned into the ſame.
+            And thus much ſhall ſuffice as concerning ſignes of the infection with the peſtilence: we will now proceed to the preſeruatiues and cure.
+            
+               Of the cure of the Peſtilence.
+               AS I haue already declared that there is a fourefolde cauſe of this cruell diſeaſe of the peſtilence:Cure. ſo alſo there is a fourefold meanes to cure the ſame.
+               The firſt conſiſteth in euacuation and mundification  of the body.
+               The ſecond, in a due obſeruation of diet.
+               The third, in comforting and ſtrengthning of  the principall members; which are the hart, the liuer, and the braine, with aſſeueration of the potentiall and operati
+                     •
+                  e powers.
+               The fourth, in giuing and adminiſtring of Antidots, Alexipharmacon, and other preſeruatiues againſt  venomous and contagious ayres, with the office of the Chirurgian, for Phlebotomy, bloud letring, maturation, extraction, and healing of Carbuncles.
+               For preſeruatiue againſt the Peſtilence they muſt
+
+be ſuch as haue faculty of reſiſting putrifaction, and euen preſently from the beginning thoſe bodies (as I haue before ſaid) which are humid &amp; moyſt, muſt be by all poſſible meanes that may be made dry, and thoſe that are dry muſt be kept &amp; preſerued. But in thoſe bodies that doe abound with corrupt, rotten, &amp; hurtfull humours: it ſhall be needefull for them before infection, to vſe purgation and bloud letting by aduice of the ſkilfull and learned Phiſition.
+               And whereas the Phiſition in other feuers are accuſtomed to vſe a longer proceſſe: that is to ſay, by preparing the body, by digeſting of humours offending, and laſt of all by euacuation and purging out of the ſame: in this cruell diſeaſe which will not ad pacis conditiones deſcendere
+                  ▪ that is, indure no daliance or delay, we muſt flie foorthwith vnto the cure and remedies for the ſame.
+               And for becauſe it ſeldome hapneth that perſons which are infected with the peſtilence, are viſited with the Phiſitiō, or Chirurgiō wherby many wāt cure &amp; remedie which liue &amp; recouer, I am therefore determined by Gods aſſiſtance to ſet downe ſuch meanes and remedies as ſhall be profitable to all thoſe that ſhall haue neede to vſe the ſame.
+               And firſt of all for preſeruatiue before the body be infected may be vſed this following.
+               
+                  
+                     Take
+                     
+                        
+                           Oxyſaccharum.
+                        
+                        
+                           Syrupe of Sorrell.
+                        
+                        
+                           Oxymel Symplex, of either of them halfe an ounce.
+                        
+                        
+                           Waters of Endiue, Scabios, Carduus benedictus, of either one ounce.
+                        
+                     
+                  
+               
+               
+                  Let all theſe be mixt togither and taken in the morning faſting, and ſo continue it euery other day day during the time of the Peſtilence.
+            
+            
+               Pils for the reſiſting of the Peſtilence.
+               
+                  
+                     Take
+                     
+                        
+                           Aloes elect one ounce.
+                        
+                        
+                           Myrrhe.
+                        
+                        
+                           Safferne of either ii. Dragons.
+                        
+                        
+                           Agarick prepared.
+                        
+                        
+                           Rhubarbe, elect of either ſo much.
+                        
+                        
+                           Camphere, 1. Dragme, and 2. Scruples.
+                        
+                        
+                           Red and yellow Saunders.
+                        
+                        
+                           Red Roſes.
+                        
+                        
+                           Red Corrall of either 1. Dragme.
+                        
+                        
+                           Dictamni.
+                        
+                        
+                           Gentian roote.
+                        
+                        
+                           Z
+                                 •
+                              doarie.
+                        
+                        
+                           Tormentil of either 4. Scruples.
+                        
+                     
+                  
+               
+               Let all thoſe be made into a maſſe with the Syr
+                     ••
+                   
+                  
+                     ••
+                  l
+                     •
+                  ed Aeotoſi
+                        •
+                     atis ci
+                        ••
+                     i, as much as ſhall be ſufficient, and when any will vſe thereof, let him take the weight of one ſcruple made into a 
+                     •
+                  il in the euening when he entreth into his bed, &amp; ſo let him continue euery day during the time of the Peſtilence, if you giue thereof to children halfe a ſcruple ſhall ſuffice, theſe pils haue a wonderfull propertie in reſiſting venome, and in euacuating of rotten and corrupt humours with ſtrengthning and confirming of the principall members.
+            
+            
+               
+               An other preſeruatiue againſt the Peſtilence.
+               
+               
+                  
+                     Take
+                     
+                        
+                           Of Andromachas treacle of either 1. dram.
+                        
+                        
+                           Of the beſt Mithradate, of either 1. dram.
+                        
+                        
+                           Suger roſet.
+                        
+                        
+                           Saccharie boraginati,
+                        
+                        
+                           Sacchari bugloſſati,
+                        
+                        
+                           Of the citren rinde condite.
+                        
+                        
+                           Of either of them one ounce and a halfe.
+                        
+                        
+                           Electuari de gemmis 10. drams.
+                        
+                        
+                           Diarhodon Abbatis.
+                        
+                        
+                           Diatrion ſantuli of either 1. ounce.
+                        
+                     
+                  
+               
+               M
+                     •
+                  xe altogether with the Sirup of the rinde of Citrens as much as ſhall ſuffice, and take of the ſame Electuarie eueryday, or euery other day the quantitie of a Cheſt nutte in the morning foure houres before dinner. And for as much as euery man cannot be at ſo great a charge as to attaine theſe former things preſcribed, they may vſe euery morning faſting one ſcruple of the pils called Pilulae Ruffi which doth excellently reſiſt putrifaction, or they may vſe euery morning vpon the point of a knife The
+                        •
+                     iac
+                        •
+                      Diateſ
+                        •
+                     aron which alſo is a preſeruatiue againſt the Peſtilence.
+               They may alſo take one ounce of London treacle, with the powder of Carduus Benedictus, and the roote of Angelica of either of them halfe a dramme, and mixe them together, and thereof take
+
+euery morning faſting vppon the point of a knife often times in the day. I omit to ſpeake of the Vnicornes Horne, and Bezars ſtone, becauſe their value is ſo great, and the graine held at ſo deare a rate: onely I aduiſe euery man that will ſeeke the preſeruation of his owne health, to keepe their houſes ſweete, and cleane, vſing in their common roomes not onely fiers in the chimneyes, but alſo in earthen pans, with perfumes and ſweete vapours, which be not onely pleaſant to the ſences, but alſo haue propertie to cleanſe and purifie the ayre, ſuch as is Roſe vineger, red Roſe water, lignum Aloes, Olibanum, Bengimin, Storax Calamint, Juniper Buris; with the wood and ſuch like Beſides, to be carefull not to be much out of their owne doores before the Sumre haue beene vp for two houres ſpace, or after it is ſet and gone downe. And thus much briefely by way of precaution and preſeruatiue before infection. Now it reſteth to deſcribe the cure of the Peſtilence after infection according to the practiſe and cures of Phiſicke.
+            
+            
+               Of the cure of the Peſtilence.
+               VVE haue already ſet downe in briefe manner precautions and preſeruatiues againſt the Peſtilence. Now if it happen any man to be infected, let him preſently with all the ſpeed that poſſible may be, take two drams of this powder following in halfe a draught of good white wine.
+               
+                  
+                  
+                     Take
+                     
+                        
+                           Tormentil. of either 1. dram.
+                        
+                        
+                           Dictamni. of either 1. dram.
+                        
+                        
+                           Zedoari. of either 1. dram.
+                        
+                        
+                           The roote of Gentian,
+                        
+                        
+                           Of the roote Carlinae,
+                        
+                        
+                           Of the roote Verbaſcus, dried in the ſhade and powdered of either 1. dragme.
+                        
+                     
+                  
+               
+               Make all theſe into fine powder and as ſoone as it may be, let the patient that is infected take 2. dragmes in halfe a draught of good white wine, then let him goe into his bed &amp; be couered warme with cloathes that he may ſweate throughly. And to the entent he may ſweate the ſooner, you may put into the bed earthen bottles filled with hot water, and ſo let him ſweate for the ſpace of two or three houres keeping him from ſleepe and drinke, all that while. In like manner this powder may be vſed.
+               
+                  
+                     Take
+                     
+                        
+                           the rootes of Pimpinella.
+                        
+                        
+                           Of Tormentil,
+                        
+                        
+                           Of Cinamon, of either 1. ounce.
+                        
+                        
+                           Lignum aloes,
+                        
+                        
+                           Greeke mynts, of either 2. ounces.
+                        
+                        
+                           Iuniper berries,
+                        
+                        
+                           Narde ſeede, of either ſo much.
+                        
+                     
+                  
+               
+               Make all into fine powder and mixe 2. drams thereof with Andromachus treacle, and of choyſe Mithradat of either halfe an ounce, with halfe an ounce of Sirup de ribes: and giue thereof at one time a dragme or better &amp; ſo prouoke him to ſweat
+
+as aforeſaid, if you adde to euery dragme or doſ. 6. graynes of Bezars ſtone, you ſhal ſee a maruailous effect for it reſiſteth the Peſtilence and all maner of venome.
+            
+            
+               An other electuarie to be taken after infection.
+               
+                  
+                     Take
+                     
+                        
+                           Bolearmonick waſhed in red roſewater.
+                        
+                        
+                           Two Dragmes.
+                        
+                        
+                           Terrae Sigillatae.
+                        
+                        
+                           Red Coral, of either 1. dragme.
+                        
+                        
+                           Of the Citren rinde,
+                        
+                        
+                           Zedoarie.
+                        
+                        
+                           Safferne, of either halfe a dragme.
+                        
+                        
+                           Suger roſat, of red roſes, 6. ounces.
+                        
+                        
+                           Syrupus acetoſitatis citri, 10. ounces.
+                        
+                     
+                  
+               
+               Let all be made into fine powder, and make an electuarie of this electuarie, the patient ſhall take one dram, and of Andromachas treacle ſo much, and mixe them together and receiue all preſently at one Doſe, and drinke preſently after a draught of Scabios water or ſorrell water with a little of vineger of roſes, or take the foreſaid treacle and electuarie and mixe it with the water and ſo drinke it, preſently prouoking ſweate as aforeſaid.
+               And thus much I thinke to be ſufficient at this time, as concerning this cruell diſeaſe of the Peſtilence, I know much more may be written, but for as much as I promiſed to auoyde prolixitie, I will end onely with aduice vnto ſuch Chirurgious as ſhall be called, or ſhall aduenture themſelues to
+
+the cure of this ſo daungerous a ſickneſſe.
+               The chiefe matter belonging to the Chirurgian is blood letting, extraction, and maturation of Carbuncles and Apoſtumes, as for blood-letting, let not the Chirurgian draw ſo much foorth as may be an occaſion of fainting, or ſowning to the patient, but let him draw foorth blood by degrees, and iterate the ſame, as if the patient bleed in the morning 5. ounces, he may bleed at three of the clocke in the after noone, 3. ounces more, and ſo againe the next morning if neede ſhall require.
+               And this is to be noted, that this blood letting is to be vſed at the beginning of infection and not otherwiſe; prouided alwaies that there with ſome one or other of this Antidots or electuaries before declared be vſed.
+               And whereas I haue obſerued that the patient infected with this diſeaſe hauing abſeſſus tumor or Carbuncle ariſing either in the groyne, Armeholes or vnder the eares, or in ſome emunctuarie or clenſing place of the body weyting the ſuppuration and ripening of the ſame either by nature, or medicine, they haue dyed, which if the Chirurgian would either by extirpation, or inciſion, with preſent application of ſome ripening and attractiue plaſter, nature would thereby be eaſed &amp; the venomous and corrupt vapours by nature expelled, for nature being weake, and not able to expell the venome faſt enough, if by inſenſible tranſpiration, the venome returneth backe to the hart, and ſo preſently deſtroyeth nature. But if the Chirurgian or the patient himſelfe doe follow my aduiſe, he ſhall preſently
+
+either with inciſion, knife, or other inſtrument remooue that turnor where nature may haue way made to expell that venomous and corrupt matter which is noyſome vnto it.
+               And thus by the grace of God and his bleſſing, whoſoeuer ſhall follow the foreſaid precepts, and rules, ſhall preſerue both himſelfe and his familie from the Peſtilence. And I beſeech the Almightie to hold his holy hand ouer this Realme of England which by ſinne hath deſerued farre greater puniſhments.
+               FINIS.
+            
+         
+      
+   
+

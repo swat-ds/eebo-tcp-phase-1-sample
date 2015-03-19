@@ -1,0 +1,918 @@
+
+   
+      
+         
+            The gospelles of dystaues
+            Evangiles des quenouilles. English.
+         
+         
+            
+               1510
+            
+         
+         Approx. 93 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.
+         
+            Text Creation Partnership,
+            Ann Arbor, MI ; Oxford (UK) :
+            2005-10 (EEBO-TCP Phase 1).
+            A01945
+            STC 12091
+            ESTC S105756
+            99841482
+            99841482
+            6068
+            
+               This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+            
+         
+         
+            Early English books online.
+         
+         
+            (EEBO-TCP ; phase 1, no. A01945)
+            Transcribed from: (Early English Books Online ; image set 6068)
+            Images scanned from microfilm: (Early English books, 1475-1640 ; 1204:10)
+         
+         
+            
+               
+                  The gospelles of dystaues
+                  Evangiles des quenouilles. English.
+                  Watson, Henry, fl. 1500-1518.
+                  Fouquart, de Cambray, maistre, attributed name.
+                  Duval, Antoine, attributed name.
+                  Jean, d'Arras, 14th cent, attributed name.
+               
+               [60] p. : woodcut ill.  
+               
+                  Enprynted at London in Flete strete at the sygne of the sonne by Wynkyn de Worde,
+                  [[London] :
+                  [ca. 1510]]
+               
+               
+                  A translation of "Les evangiles des quenouilles", which is sometimes attributed jointly to Fouquart de Cambray, Antoine Duval, and Jean d'Arras.
+                  Translated by Henry Watson, whose initials appear on A2r.
+                  Printer's name and address from colophon; publication date estimated by STC.
+                  Signatures: A-D·⁴ E⁶.
+                  Reproduction of the original in the Henry E. Huntington Library and Art Gallery.
+               
+            
+         
+      
+      
+         
+            Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      
+         
+         
+            EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.
+            EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).
+            The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.
+            Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.
+            Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.
+            Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.
+            The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.
+            Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).
+            Keying and markup guidelines are available at the Text Creation Partnership web site.
+         
+         
+            
+            
+         
+      
+      
+         
+            eng
+         
+         
+            
+               Women --  Humor.
+            
+         
+      
+      
+         
+            2004-11
+            TCPAssigned for keying and markup
+         
+            2005-01
+            SPi GlobalKeyed and coded from ProQuest page images
+         
+            2005-03
+            Emma (Leeson) HuberSampled and proofread
+         
+            2005-03
+            Emma (Leeson) HuberText and markup reviewed and edited
+         
+            2005-04
+            pfsBatch review (QC) and XML conversion
+      
+   
+   
+      
+         
+            
+            
+            
+            The gospelles of dystaues.
+            
+               
+                  Isengryne.
+                   dame Abūde
+               
+            
+         
+         
+            
+            
+               
+                  Isengryne.
+                   dame Abūde
+               
+            
+         
+         
+            
+            
+               THere ben many men at this daye the whiche alleggeth and groūdeth theyr wordes / &amp; reasons on the gospelles of the dystaues / &amp; knoweth full lytell of what importaunce &amp; auctoryte they ben of / nor who was ye wyse doctouresses and the fyrst inuentouresses / and yet that worse is they allegge theym more by derysyon and mockery than they do for affeccyon yt they haue to the grete substaunce the whiche they conteyne. And this they haue alwaye in demynysshynge and reprochynge of ladyes / wherfore it is grete synne and grete shame to them that so doo. For they adnychyll the grete noblesse of ladyes / and the grete goodnes that from them procedeth / for bycause that the fyrst woman was made and create in a place hyghe and noble full of clennesse and fragrant aer / therfore ben all women naturally noble / honest / swete / fayre / &amp; curteyse and full of sapyence / lyght and gentyll &amp; so ryght so tell that it lacketh but lytell that they knowe thynges for to come. For they knowe by theyr propre nature after the comectures &amp; dysposycyons of the weder / of persones / of argumentes / of byrdes / &amp; of beestes &amp; shortly of all other creatures / as it appereth by this present boke. Now it is so that for to contrary suche iniuryes &amp; set theyr mockynges at nought / and exalte the ladyes &amp; veryfye theyr gospelles I haue studyed &amp; ben theyr humble seruaunt from my youthe / and for the goodnes that they haue done to me I can not prayse them ynough / at the request of some my welbeloued I. H. W. haue translated this treatyse yt conteyneth the texte of the gospelles of dystaues / with dyuers gloses and postylles added therto by some wyse and dyscrete ladyes of whome I shall speke here after ensewynge in this treatyse.
+         
+      
+      
+         
+            
+            ¶The names of the ladyes that made the texte of the gospelles of the dystaues.
+            
+               FOr to begyn than this werke it is clerely knowen to all good and true catholyke crysten men to the ende that there sholde be perpetuall memory of the holy wordes and vertuous operacyons of our redemptoure Ihesu cryst / and of his holy apostles and sayntes that there were foure ryghtwysmen electe amonge them that were replete with vertue &amp; verite for to make the holy mysteryes the whiche ben named by the scriptures the gospelles / by whiche the true and holy fayth catholyke is enlumyned and shall be vnto the ende of the worlde. Assemble than for to verefye &amp; put forth the wordes and auctorytees of the aūcyent women. To the ende also that they shold not be lost / nor in suche wyse vanysshed but that the memory sholde remayne fresshe amonge ye women of this present tyme / so there hath ben foūde syxe matrones wyse &amp; prudent for to recyte &amp; rede the sayd gospels of the dystaues in the maner the whiche hereafter shall be declared / &amp; by cause that in euery wytnesse of vyce there must be .iii. women for two men / for to make and accomplisshe than the nombre of the sayd .iiii. euāgelystes / it is of necessyte that there hath ben syxe women besy for to make this werke / bycause of the more approbacyon of trouth / of whome ye names enseweth The fyrst was named dame Isengryne of glay. The second was called dame Transelyne of ye croke. The thyrde was named dame Abūde of the ouen / The fourth was called dame Sebylle of ye mareys. The fyfth was named dame Gamberde the fayee. The syxth was called dame Berthe horned. These syxe ladyes were
+
+so ryght wyse in theyr tyme that they myght haue coniured a blacke deuyll or bounde hym vpon a quysshen they were so experte and nymble.
+         
+         
+            ¶Who was the fyrste woman that put forth the gospelles. And how the composer of this boke was constrayned to make this werke.
+            
+               AFter as I fynde in auncyent regystres these gospels were begon in the seconde aege of the worlde / in the tyme that the puyssaunt kynge zoroates dyd reigne that was the fyrst fynder of the arte of nygromancy / of the whiche arte he shewed &amp; taughte a lytell to the quene his wyfe called Hermofrodita / the whiche syth made fayre prȳcyples for the begynnynge of these gospelles / but they were not ended in her tyme / but from aege to aege / and from sede to sede they haue ben multeplyed / &amp; correcte of the prudent women echone in theyr tyme after the argumentes and sygnes that they myght apperceyue &amp; se as well in ye erth as in the ayre. And syth that tyme hath not ben yet ony / ye that I haue knowen and comen to my memory that wolde take ye payne vpon them to put them in wrytynge or in ordre / and this lytell that hath ben made hath ben tossed aboute from one to an other. And yet that whiche hath ben made was more made by derysyon &amp; mockerye than otherwyse / &amp; for all that they fayle not to be of grete mystery / &amp; for to gyue you to vnderstāde how I am comē to this obtuous &amp; presumptuous hardynesse &amp; wanhope to wyll wryte &amp; put in ordre this werke / it is trouth that vpon a nyght after souper for to take my disporte &amp; passe the tyme Ioyously in the longe wynter nyghtes bytwene
+
+Crystmas and Candelmas laste past I transported me in to the hous of a well aeged damoysell my neyghbour nere / where as I was accustomed for to resorte &amp; deuyse with her / for dyuers of her neyghbours came theder for to spynne and deuyse of dyuers small and Ioyous purposes / wherat I toke grete pleasure and solace. But at that tyme was there the syxe ladyes assembled yt were strongly besy for dyuers reasons / &amp; often for the grete haste that they had to declare theyr purpose they argued the one wt the other and spake all at ones. I whiche was a lytell shame fast of that I had entred in amonge them so sodeynly. wolde haue wtdrawen me abacke in takynge my leue of them for to departe thens / but sodeynly I was called of them agayne / &amp; in effecte reteyned by my gowne by one of them / at whose request and prayer I retourned &amp; sate me downe amonge them &amp; prayed them humbly yt they wolde pardon me of that I had entred in amonge them so famylyerly and so sodeynly. One toke the wordes for them all and sayd that truly I was welcome vnto them euerychone the whiche was in that place assembled there and welcomer than ony man of the worlde / &amp; that them semed that god had sent me theder for to be in theyr ayde to vnderstande the mater in whiche they were so besely occupyed at that tyme / and that I sholde do theyr werke well seynge that other tymes I had wryten of ladyes vnto theyr laude &amp; praysynge. And yet they prayed me that in lykewyse I wolde do at that theyr ryght grete werke &amp; they in tyme to come or theyr successours sholde make me suche remuneracyon that it sholde suffyse me  in prayenge me ferthermore that I wolde vndertake to put in scrypture a lytel volume yt for the name of it sholde be called ye gospelles of dystaues / in memory &amp; mynde of them
+
+perpetually / and the vpholdynge of all them to come I somwhat ashamed of the praysynge that they gaue me wende for to haue excused me / but anone I was caducke and so oppressed with theyr wordes and reasons that all confused I was cōstrayned to vndertake the charge. In the whiche yf there be ony faute or euyll endytynge I supply you for to pardon me / &amp; repute the sayd faute to them that by so grete haste declared it to me that I had no leyser nor space somtyme for to vnderstande them well / nor my hande that was by aege made heuy / nor myne eyen that were obscure myght not comprehende it soo fast as they had well wolde. This charge than by me vndertaken the ladyes thanked me gretely / &amp; set daye amongest them and houre for to retourne vpon the morowe after souper. And charged me that I sholde brynge paper and ynke ynough with me and also pennes for they wolde determyne hyghe and notable thynges.
+         
+         
+            ¶The ordynaunce of this boke put in termes by dame Isengryne.
+            
+               ON the morowe at the houre assygned I furnysshed of ynke / paper &amp; pennes retourned to ye place assigned / in the whiche was assembled all redy the syxe ladyes yt after me dyde abyde. And they of my comynge were ryght Ioyous as it semed by theyr semblauntes. After that they had prepayred for me my place there I as myght here them best one of them &amp; the moost aūcient named dame ysengryn of glay began for to speke after that scylence was mad of her felowes the wordes that enseweth. My ryght der neyghbours in this vagacion ye se / &amp; in lykewyse know
+
+clerely how the men of this present tyme ceaseth not for to wryte &amp; make balades dyffamous and bokes contagyous in dispraysynge the honour of our sexe. And seynge yt they &amp; we were made of one werkeman descendynge the one from the other. And yet syth that I must nedes say it we ben descended of a more hygh &amp; noble place than they be / and made of a mater more purer and clener than they be. It is myn aduyse vnder the correccyon of you all that it sholde be good with ye helpe of this our secretary &amp; frende that we made a lytell treatyse of chapytres yt we wyll kepe &amp; put by ordre. The whiche of longe tyme hath ben founde by our auncyent moders / to the ende that they be not put in forgetynge and that it may come in to the handes of them yt bē yet to come. The whiche chapytres shall conteyne the gospelles of dystaues with the gloses yt some wyse and dyscrete matrones haue added and yet shal in multeplyenge ye texte. And for to entre in to the mater and put ordre in our begȳnynge ye knowe that there ben syxe werke dayes in the weke / &amp; we be syxe that haue vndertaken this werke / and that haue sene and herde recorded by our predecessours dyuers thinges of the olde testament &amp; the newe / &amp; other thynges true &amp; of good auctoryte. Wherfore it is myn aduyse in cōclusyon that it sholde be good that on mondaye nexte we assemble vs in the hous of Maroye ployarde where as we haue ben accustomed to holde our dysporte at .vii. of the clocke at nyght / And there yf ye wyll one of vs shall begyn her lecture / and shall recyte her chapytres in ye presence of all them yt shall come theder for to kepe and put them in perpetuall memorye. The assistentes anone and without ony other delyberacyon sayd that dame Isengryne had well spoken. And in cōclusyon they prayed her that she wolde take
+
+vpon her to rede the fyrst monday where as was assigned / &amp; sayd that withouten faute they wolde be there / &amp; prayed some of theyr neyghbours as well yonge as olde yt they wolde be there to auctoryse better theyr chapytres This charge toke ryght gladly dame Isengryne &amp; sayd that she wold do her best / in saynge this she torned her towarde me and requyred me right louyngly that I wolde be her secretary / &amp; in lyke wyse dyde all the other / &amp; that they wolde make me be rewarded by some of them the whiche were the yongest at my chesynge / for the whiche rewarde I thanked them and helde me for content.
+         
+         
+            ¶The ordynaunce of the fyrst daye / &amp; of the descrypcyon of dame Isengryne of Glaye &amp; what she was.
+            
+               
+                  Isengryne. dame Abūde Gamberde
+               
+            
+            
+               
+               THe mondaye at night bytwene seuen &amp; eyght of the clocke after souper assembled ye forsayd syxe ladyes togyder and all the neyghbours that were accustomed to come theder / &amp; dyuers other that were somoned theder for to here the mystery that sholde be done there. Dame Isengryne of glay came theder accompanyed with dyuers of her knowlege the whiche brought with them theyr dystaues and standardes / with theyr spyndels and wherles &amp; all that apperteyned to theyr arte. And to make it shorte it semed a ryght market where as is but solde wordes &amp; reasons and dyuers purposes of small effecte and lytell valour. The syege of dame Isengryne was prepared at one syde / a lytell hyer than the other / and myn was euen besyde her / and afore me was a lampe full of oyle for to caste lyght vpon my werke / and all the assystentes had tourned theyr vysages towarde dame Isengryne / the whiche after scylence obteyned spake in this maner. But or that I begynne for to wryte her chapytres I wyll reherse to you the estate &amp; genealogye of her. Dame Isengryne was of the aege of .lxv. yere or there aboute / she had ben a fayre wyfe in her tyme / but she was becomen gretely wydred / her eyen were holowe / &amp; her eye lyddes somwhat reuersed &amp; reed alwaye watrynge she had had fyue husbandes besyde her acquayntaunce aparte. She medled in her olde aege to receyue yonge chyldren / but in her yonge aege she receyued grete chyldren / she was moche experte in dyues artes. Her husbande was yonge of whome she was ryght Ialous / and made many complayntes of hym to her neyghbours / neuerthelesse scylence obteyned she began her gospell and toke her substaunce of her husbande and sayd.
+            
+               
+               ¶Here begynneth the fyrst chapytre of the gospell of dame Isengryne of Glay for the mondaye.
+               
+                  MI good neyghbours there is none of you but ye knowe that I toke my husbande Iosselyn more for his beaute than for his rychesse / for a poore felowe he was / &amp; loo I sawe hym not to daye nor yesterdaye / wherfore I haue grete sorowe at my herte. And certaynly he hath grete chepe of the goodes that my husbandes his predecessours had assembled togyder with grete labour &amp; payne / wherfore I thynke it wyll be my deth. Now to this purpose and for the fyrst chapytre I tell you for as true as the gospell that the man that spendeth the goodes vnduely that cometh to hym by his wyfe wtouten leue shall gyue accountes before god as of thynges stolen. Glose. Upon this chapytre sayth an auncyent matrone named Grayll Iohan bybebecked wyfe. Truly that husband that dooth ayenst this chapytre is put after his deth in a caudron in purgatory full of brymstone / yf he haue not done his penaunce in this worlde vpon the hospytalles.
+            
+            
+               ¶The seconde chapytre.
+               ¶There is no thȳge more certayne than the husbande yt dooth cōtrary to ye whiche his wyfe coūseyleth hȳ to do / &amp; who yt gaynsayeth ony thynge that she sayth he is false &amp; dysloyall forsworne. Glose. Certaynly sayd Gonbande of the dytche I haue sene dyuers myracles of them yt haue trāsgressed this chapytre / for my stepfad broke his legge bycause he wolde not byleue the counseyle of my moder.
+            
+            
+               ¶The thyrde chapytre.
+               ¶He yt beteth his wyfe shall neuer haue grace of our lady tyl he haue pardon of his wyfe. glo. Maroye sayth it is as
+
+grete synne as yf he wolde dyspayre hymselfe / for after that whiche I houe herde our vycare saye it is but one body man and woman coupled by maryage.
+            
+            
+               ¶The .iiii. chapytre.
+               ¶The man that dooth ony thynge without that he doo his wyfe to vnderstande it. I saye to you as the gospell that he is worse in cōscyence than a thefe / who durst well saye it. Glose. The auncyent matrones hathe mayntayned for a trouth that the chyldren that come of suche maryage shall neuer be ryche in this worlde / and yet they shall be lyghtly grete lyers
+            
+            
+               ¶The .v. chapytre.
+               ¶My frendes I saye to you for a trouth that there is no dolour nor anguysshe lyke to ye whiche a woman bereth / whan her husbande bereth elles where his substaūce and in especyall whan ye goodes cometh by her. Glose. For certayne sayd a matrone that was named florette the blacke He that breketh his maryage by aduoutrye is lesse to be praysed than a Iewe or a sarasyn / for he is forsworne.
+            
+            
+               ¶The .vi. chapytre.
+               ¶A mayden that wyll knowe ye name of her to comynge husbande / ought to hange before her dore the fyrst threde that she spynneth that daye / and the fyrst man that passeth therby aske his name / and knowe for certayne that the same name shall her husbande haue. Glose. At the same wordes rose vp one of the assystētes named Geffryne Iohan blewes wyfe / and sayd that she had proued that thynge and that it had happened so to her / wherfore she cursed the houre that she had mette wt suche a man that had lost all colour and beaute / and yet he was so euyll a werke man that he dyde no thynge but slepe.
+            
+            
+               
+               ¶The .vii. chapytre.
+               Whan a womā bereth a chylde &amp; yf they wyl knowe yf it be a sone or a doughter ye must lye salte vpon her heed so softely that she knowe not of it and after in deuysynge wt her yf that she name a man knowe that it shal be a sone / &amp; yf that she name a woman it shall be a doughter. Glose. That same thynge happened vnto me whan I bare my doughter. Lyle tempremeur sayd Grelle of the shoo / and myn aunte dyde it to me &amp; lerned me it the whiche was ryght auncyent and gretely renomed in dyuers artes.
+            
+            
+               ¶The .viii. chapytre.
+               Ye sholde not gyue to yonge maydens to ete the heed of a hare to the ende that they sholde mary / and in especyall to them that be with chylde / for certaynly theyr chyldren might haue clouen lyppes. Glose. Then sayd anone Mar get of the whete / euen so it happened to one of my cosyns for bycause yt she had eten of the heed of a hare her doughter that was in her wombe brought forth foure lyppes.
+            
+            
+               ¶The .ix. chapytre.
+               Ye ought not to let yonge maydens ete no shepes hedes nor cockescomes / nor eles / to ye ende that they haue not ye fallynge of saynt lupe behȳde. Glose. Certaynly sayd Be lette the shorte nose / it is a ryght grete daūger / for bycause that my moder ete of them I haue thre taches the whiche I thynke wyll neuer fayle me. The one is that oftentymes I let myselfe fall backewarde / the seconde that I can not ryse agayne lyghtly / and the thyrde is that my husbande sayth that I crye to hye whan he blameth me wherof I haue grete shame.
+            
+            
+               ¶The .x. chapytre.
+               I swere to you as the gospell that whan a yonge mayde eteth customably boyled mylke in ye panne / or in a pot of
+
+erth / that it raynes comynly at theyr weddynge / &amp; also they haue comynly husbādes melancolyous &amp; grutchers And also she shall not fayle oftentymes to haue a dyrtye tayle and to be euylly cladde. Glose. Sayd dame Abūde to this texte nedeth none exposycyon / for the rule is all comyn &amp; there is neuer faute / as it appered at my weddȳge where dyuers of you was.
+            
+            
+               ¶The .xi. chapytre.
+               ¶For certayne &amp; for also true as the gospell whan a man lyeth with his wyfe / or wt his loue hauynge his fete foule and stynkynge / &amp; it happen that he engendre a sone / he shall haue an euyll &amp; a stynkynge brethe / &amp; yf it be a doughter she shall haue it stynkynge behynde. Glose. Marroye ployarde sayth vpon this chapytre that of her cosyn germayne happened euen soo / for all aboute where she wente she rendred suche a stynkynge odour behȳde that all the assystentes were fayne to stoppe theyr noses / but she knewe not what was the cause therof.
+            
+            
+               ¶The .xii. chapytre.
+               For also true as the gospell I tell you that whan a yonge man mayden weddeth a yonge woman virgyn the fyrst chylde comynly that they gete is a fole. Glose. Berte the strayte vpon this chapytre sayth that it was not longe a gone syth it happened so to one of her doughters that she had maryed to the swyneherde of her hous / for the fyrst nyght she dyde teche them / &amp; theyr fyrst sone was a fole.
+            
+            
+               ¶The .xiii. chapytre.
+               I saye to you as the gospell yt whan a chylde is newly borne yf ye gyue hȳ a rosted apple to ete or he souke yt he shall be no gloton but serue ladyes demurely. Glose. Marroye morel sayth vpon this texte yt whan a childe is borne who that bereth the lytell bowell to his heed he shal haue longe lyfe / swete brethe / good voyce / &amp; gracyous eloquence.
+            
+            
+               
+               ¶The .xiiii. chapytre.
+               I waraūt you for also true as the gospell yf that ye wyll make yonge chyldrens heedes curled / also soone as they ben borne wasshe theyr hedes with whyte wyne / &amp; put in theyr bayne the rote of a whyte vyne. Glose. Dame Hermofrode sayth on this passage in corrumpȳge the texte yt who wolde make to drye by two chyldren yonge &amp; fayre the aubete of a lytell chylde vpon the poynt of a sharpe &amp; a bryght swerde sholde make the chylde all his lyfe fayre hardy / and welcome amonge the noble men.
+            
+            
+               ¶The .xv. chapytre
+               Now vnderstande you all the whiche ben here present I aduertyse you yt ye neuer drawe swerde afore a woman with chylde but yf that ye lye your swerde fyrst vpon her heed all softely to the ende that she abyde stedfast / &amp; her fruyte shall be the hardyer all his lyf. Glose. Peronne Beuette sayd yt bycause they dyde not so to her moder whan she dyde bere her she was and is so ferde that she dare not go to bedde without the company of men.
+            
+            
+               ¶The .xvi. chapytre.
+               I tell you for as true as the gospell that yonge maydens sholde neuer ete cheryes with theyr louer who shold haue the last / for oftentymes it happeneth so that they whiche haue the last chery is the last maryed of all. Glose Dame Sebyll of mates sayth vpon this passage that yonge women shold not ete potage with theyr louer for by custome it happeneth often that theyr husbandes haue acqueyntaunce aparte and not the women.
+            
+            
+               ¶The .xvii. chapytre.
+               Systers and neyghbours yet I tell you that god and reason defendeth euery man &amp; woman that they sholde not speke afore a woman maryed or able to bere chyldren / or
+
+afore a woman grete with chylde of ony maner of mete / that for the present and at a nede may not be founde / to the ende that the fruyte that she bereth haue not a marke vpon his body. Glose. Dame Abunde of the ouen sayth that by castynge on a womans vysage that is with chylde cheryes or rede wyne that the chylde shall bere a marke or some token vpon hym.
+            
+            
+               ¶ The .xviii. chapytre.
+               Knowe that the man yt doubleth in maryage is vnable to come to ony dignyte &amp; yf his wyfe do to hym the same wt outen faute he shall be cause of ye one euyll &amp; of the other / and she ought to be Iuged quyte wtout punycyon. Glose. Dame Ysoree the shorte sayth vpon this pase that the woman that wyll not haue her husbande medle with other wyues that she make to synge masse of saynt Auoye thre mondayes togyder / &amp; I saye to you for certayne that the women beyonde the see do so to theyr husbandes.
+            
+            
+               ¶The .xix. chapytre.
+               Whan ony childe is baptysed be it a sone or a doughter yf the doughter haue two godfaders / she shal haue two husbandes or moo / &amp; also yf the sone haue two godmoders he shall haue two wyues. Glose. Certaȳly sayd Ampelune huket I ought well to curse ye houre that Wyllymyne my husbande had euer so many / for he hath thre wyues besyde his acqueyntaunce that I knowe not.
+            
+            
+               ¶The .xx. chapytre.
+               Whan ye se lytell children renne thrugh the stretes rydynge vpō horses of wood with speres &amp; dysguysed in maner of men of warre / it is a true signe of warre nere hande or dyscencyon in ye coūtree. Glose. Perrine Hulortore sayth vpon this paas that whan lytell chyldren go in ye stretes with baners syngynge it is a sygne of mortalyte.
+            
+            
+               
+               ¶The .xxi. chapytre.
+               ¶Yf a woman wyll knowe certaynly yf her husbande do double / let her take heede yf that he touche her not in ye ful of the mone / and yf he haue not ado with her there is noo suspeccyon wtout a cause. Glose. This gospell is very true sayd maroye ployarde: for it is more than thre mones syth Iohan ployarde my husbande smote stroke nor halfe stroke / and yet I am a woman for to endure it well.
+            
+            
+               ¶The .xxii· chapytre.
+               ¶One ought not to gyue to a woman with chylde no heedes of fysshe to ete / to the ende that by theyr ymagynacyō theyr fruyte brynge not forth theyr mouthes more greter &amp; more sharper than it is of custome. Glose. Paret fatoys mydwyf sayd that she had receyued dyuers chyldren that had theyr mouthes more greter out of mesure than other had.
+            
+            
+               ¶The .xxiii. chapytre.
+               ¶If by aduenture a man bete his wyf / or defyle her with his fete / she shall be delyuered with grete payne / &amp; oftentymes they deye in the payne. Glose. Dame Hermofrode sayth that there is no remedye in this / saue that she muste drynke in the shoo that dyde defyle her / and knowe yf she do so she shall be delyuered quyckely.
+            
+            
+               ¶The .xxiiii. chapytre.
+               ¶If it happen that some body stryde ouer a lytell chylde / knowe ye for certayne that he shall neuer growe more but yf they stryde backewarde ouer it agayne. Glose. Certaynly sayd Sebylle of suche thynge cometh dwerfes and lytel women.
+            
+            
+               ¶The .xxv. chapytre.
+               ¶Knowe ye for as true as the gospell that yf the hose of a woman or of a mayden vnbyndeth in the strete &amp; that she
+
+leſe it / it is ſygne &amp; fayleth neuer that her huſbande or her loue gothe elles where. Gloſe. At theſe wordes lefte ſpynnynge one named Tranſye of loue yonge of the aege of .lx and ſeuen yere / and ſayd that there was nothynge more truer than yt goſpell / for ſyth wedneſday laſt paſte I ſawe not my loue Iolyet / bycauſe that the ſame daye I loſt my garter.
+            
+            
+               ¶ The .xxvi. chapytre.
+               ¶ And for concluſyon my frendes and neyghboures / and for to make an ende of my chapytres I tell you that whan there cometh to a wyfe the ſekenes in her pappes / ſhe nedethe none other thynge but that her huſbande make her with his inſtrument naturall thre ſercles aboute the ſore / &amp; without ony doubte ſhe ſhall be hole. Gloſe. Sayntefoute ne tempremure ſayth that it ought to be vnderſtande that thoſe thre ſercles ſholde be made at the ende of the bely / a lytell vnder the gyrdell. ¶ All the aſſyſtentes began for to laughe a paſe of that Ioyous concluſyon / and dyde prayſe ryght ſtrongely the wyſdome of dame Yſengryne that ſoo hyghely had conteyned her goſpell and departed it in .xxvi artycles that were all of grete auctoryte and importaunce / and promyſed that they wolde take payne for to lerne them by rote / for to publyſſhe them to them that had not ben at that lecture. ¶ Full gladde was I whan dame Iſē
+                  gryne made an ende of her ſpeche / for bothe paper and candell dyde fayle me / with ſlombre that dyd ſtrongly aſſayle me / for it was almooſt mydnyght / wherfore I wolde haue taken leue of them: but they made me abyde tyl another was electe to rede on the morowe. So they toke counſayll and of a comyn accorde dyde cheſe Tranſelyne of the croke which was an auncyent damoyſell the whiche toke on her the charge ryght gladly / and requyred me inſtauntlye
+
+before them all that at her nede I wolde ſerue her / and I promyſed her to do it / but of one thynge I requyred her / yt was that ſhe ſholde come a lytell ſooner than they had done vpon mondaye / to the ende to eſchewe the trauaylle of the nyght.
+            
+         
+         
+            ¶ Here foloweth the contynuacyon of the goſpelles made &amp; redde by dame Tranſelin of the croke for the teweſdaye in the houſe and at the houre accuſtomed.
+            
+               WHan it came vpon the teweſdaye aboute fyue of the clocke at nyght there began for to come wyues as well olde as yonge from all ſydes / for they had alredy publyſſhed yt whiche had ben done vpon the mondaye: and that whiche ſholde be done vpon teweſdaye by dame Tranſelyn of ye croke a good renommed wyfe / for ſhe was a gentylwomā of the aege of .lx. and ſeuen yere / ſhe was longe and ſmall / in her yonge dayes ſhe had dwelled with a lady that coude ſomwhat of the arte of nygromancy and rendred reaſons of dyuers thynges to come / with whome ſhe lerned madagury for whiche afterwarde ſhe was moche renōmed and honoured / but bycauſe that ſhe hadde eten her potage one daye with Venus made in the caudron of loue / neuer ſyth ſhe ceſſed not to excerſyſe her ſeruyſe to the ſubgectes of ye ſame / and in her olde aege ſhe was withdrawen and alied with the curate of the towne that nyght and day herde her confeſſyon / wherfore all her neyghboures aboute her had her in grete reuerence. Dame Tranſelyne than comen amongeſt them ſalued all the companye. And after that ſhe had demaunded me yf I were redy ſhe ſayd thus.
+            
+               ¶ The fyrſt chapytre.
+               
+                  ¶Now quod she my good neighboures and frendes in cō
+                  tynewynge our purpose of the last nyght I pray you that scylence be made / and I shall tell you for also true as the gospell that yf a woman or a mayden wyll be welbeloued of her louer / let her make hym to ete the herbe of a catte / &amp; he shall loue her so feruently that he shall neuer haue reste but yf he be with her. Glose. This thynge is true sayd Burge fauuele / for I dyde euen so to my husbande &amp; made hȳ a salade / but that loue endured but syxe wekes / wherfore I thynke that it must be renewed.
+            
+            
+               ¶The seconde chapytre.
+               ¶And also I tell you that who may fynde a true mandrake and ly hym bytwene a payre of whyte shetes &amp; presente hym mete and drynke twyes a daye / notwithstandynge yt he neyther eteth nor drynketh / he that dothe it shal become ryche within shorte space and shall not knowe how. Glose. Certes sayd Ione baker it is sayd but it is in rapmage / yt Alexus of the corner is becomen ryche with the same.
+            
+            
+               ¶The thyrde chapytre.
+               ¶I saye to you as a gospell that whan one goothe on his waye and yf he encountre a haare it is an euyll sygne. And for to eschewe all daungers he ought for to retorne thryes from whens he was departed / and after goo on his waye withouten peryll. Glose. With this worde rose vp maroye the fa
+                     •
+                  e and sayd all on hyghe that yt chapytre was ryghte verytable / for her cosyn had broken his legge with the fall of a horse after that he had encountred a haare / but who yt meteth a wulfe or a harte / or a beere is a ryght good sygne and token.
+            
+            
+               ¶The fourth chapytre.
+               ¶Neuer wyse man mounted vpon an axe for the loue of our lorde that rode vpon one but ryght well vpon a horse / 
+
+for who that falleth of an axe he sayth bryst / and who that falleth of a horse he sayeth ryse. Glose. Uppon this artycle may be made an argument for whan Ioseph ledde the virgyn Mary in to Egypte she mounted vpon an asse / &amp; for all that she had no greuaunce. Then answered Sebylle of the dytche that our lorde had not yet moūted vpon an asse as he dyde afterwarde. Then answered an auncyent woman named Parette of the stynkynge hole that he hadde / and that our lady bare hym with her mounted vppon the asse. For this argument arose grete noyse amonge the assistentes / in suche wyse yt the one susteyned the texte of this gospell / and the other susteyned the glose / and there arose so grete a clamoure &amp; crye amonge them that one knewe not to whiche entende. Neuerthelesse dame Isengryne as presydent for that night made scylence to the ende that she myght peasybly make an ende of her lecture / the whiche thynge she obteyned with ryght grete payne.
+            
+            
+               ¶The .v. chapytre.
+               ¶My neyghbours for to meue purpose and to abate your stryfe I saye to you for a gospell that yf a woman leue the tryuet / or the gyrdyron vpon the fyre without lyenge on a stycke or a fyre bronde that she shall waxe moche olde and wryncled in the face. Glose. Sayd one of the spynners named Pyate frelysshe who that gothe to bedde without remeuynge of the sete that they put of theyr hose on they be in daunger that the mare ryde on them that nyght.
+            
+            
+               ¶The .vi. chapytre.
+               ¶Who that leueth by nyght a stole or a treuet the fete vpwarde / also longe as they ben so the deuyll is on horsbacke vpon ye house. Glose. Certes sayd Isore ye whyte my grandame sayd that there is as many deuylles syttynge vpon them as there be fete vpwarde yf they abyde so.
+            
+            
+               
+               ¶The .vii. chapytre.
+               ¶I assure you and saye to you for a gospell yt whan pyes chatter vpon a house it is sygne of ryghte euyll tydynges / but and swalowes chatter or make their nestes it is sygne of good ayre and good fortune. Glose. Gertrude of whete sayth that whan a storke buyldeth his neste vpon a chymney / it is sygne that the lorde of the house shall be ryche and lyue longe.
+            
+            
+               ¶The .viii. chapytre.
+               ¶Whan the eres of one dothe brenne or ytche / knowe and it be the ryght ere it is a good token / and yf it be the lefte ere it is an euyll sygne. Glose. Isabell of the reed crest sayth vpon this purpose that whan the nose of one dothe droppe it is sygne to drynke rede wyne.
+            
+            
+               ¶The .ix. chapytre.
+               ¶Whan pesen dothe boyle in a pot after it is taken of ye fyre / knowe for a trouthe that in that same house is no wytches. Glose. Parette sone clothed sayd that the cat hatethe and fereth moost the pot that boylleth.
+            
+            
+               ¶The .x. chapytre.
+               ¶Now vnderstonde well this chapytre / for I tell you yt who that fereth that the nyghte wytche ryde not on hym / he must sette a stole of wtodde before a grete fyre / &amp; whan she is comen yf she syt downe vpon it / she maye neuer ryse thens tyll it be lyght daye / it is a thynge proued. Glose. Iohannet brownemayre sayth that she forgate ones to doo yt thynge / but after that she had ben ryden she tasted what it myght be / and founde that it was a roughe thynge / and hadde heer softe ynoughe.
+            
+            
+               ¶The .xi. chapytre.
+               ¶Who that leueth on the saterdaye to make an ende of ye
+                  
+flackes on her rocke all that she spynneth on mondaye after shall neuer do good  and yf clothe be made of it / it shall neu
+                     •
+                  r be whyte Glose. Sayth Maryon the blewe bycause that women of hollande ben accustomed to leue it on their rockes vpon the saterdaye they haue neuer whyte clothe / And it is trouthe for it appereth well by theyr shyrtes that they brynge ouer the see with them.
+            
+            
+               ¶The .xii. chapytre.
+               ¶Who that absteyneth hym from wypynge of his ars wt leues or other grene thynge that hathe growen vppon the erthe: he shal not haue no euyl in his backe nor in his rains Glose. Pyattyne the grene sayth to this purpose that who that dothe this shall neuer haue the tronchons on his heed but in that place he shall haue his sherte gylte.
+            
+            
+               ¶The .xiii. chapytre.
+               ¶He that dothe not caste / or suffreth not to caste bones in the fyre shall not haue the tothe ache for ye honour of saynt Laurens. But Maude the browne affermeth that in that place dogges fyght gladly.
+            
+            
+               ¶The .xiiii. chapytre.
+               ¶He that hathe no moneye in his purse ought to absteyne hym from lokynge on the newe mone / or elles he shall haue but lytell all alonge that mone. Glose. Margot blacke tache sayth vpon this chapytre that he that apperceyueth the cr
+                     •
+                  ssant with a full purse he ought to salewe it and enclyne deuoutlye to it / and for certayne it shall multeply all that mone.
+            
+            
+               ¶The .xv. chapytre.
+               ¶He that fyndeth the trayfle with foure leues / and kepe it in reuerence knowe for also true as the gospell yt he shall be ryche all his lyfe. Glose. Upon this artycle sayth Dame
+
+Sebylle the rede yt yf a man trede barefote vpon a trayfle with foure leues he may not escape without the whyte axes / and yf it be a woman she shall be cukquene.
+            
+            
+               ¶The .xvi. chapytre.
+               ¶Whan a man fyndeth a spyder vpon his gowne it is a sygne to be that daye ryght happye / and in lyke wyse he yt fyndeth a horse shoo or a pece of one / he shall haue good fortune. Glose. Then rose vp Francyne softe pappes and said that whan one fyndeth syluer in the mornyng it is a right euyll sygne yf there be no golde amonge it.
+            
+            
+               ¶The .xvii. chapytre.
+               ¶Who someuer rubbeth a warte vpon saȳt Iohans euē with an eldren lefe / and after put the lefe depe in the erthe where as it may rotte / ye warte shall drye vpanone. Glose Isbell of the wodde sayd that she had assayed it but who yt wolde rubbe theym with the mylke of the lefe of a thystell that dryeth sooner / Lalle had proued it.
+            
+            
+               ¶The .xviii. chapytre.
+               ¶Whan a man fyndeth in his garden a vessell of bees fastened in a tree yf that he gyue them not a pyece of syluer to theyr newe yeres gyfte it is an euyll sygne. Glose. Baudinon gorgette saith that he that appropryeth the bees to hȳ without he gyue to them as sayd is in ye texte they shall do but pycke hym and shall neuer loue hym nor do hym profyte.
+            
+            
+               ¶The .xx. chapytre.
+               ¶He that gyueth a payre of knyues to his lady paramour on newe yeres daye knowe that theyr loue shall waxe colde. Glose. Then sayd Colette the holowe to this artycle. I assure you yt he that gyueth his loue a pyncell with a grete heed to her newe yeres gyfte that the loue wyl be more ardaunt and more durable.
+            
+            
+               
+               ¶The .xxi. chapytre.
+               ¶He that may ryde vpon a bere frely .ix. paas: he is affraū
+                  chysed from .ix. payre of sykenesse. Glose. Then sayd an olde matrone that was behynde the other I thynke wel it is true of the guaryson of the .ix. sekenesses / but not of them that we fall backewarde of.
+            
+            
+               ¶The .xxii. chapytre.
+               ¶Whan ye se a cat syt in a wyndowe in the sonne / &amp; that she lycke her ars / and that one of her fete be aboue her ere ye nede not to doubte but yt it shall rayne that daye. Glose. Then rose vp dame mehalte and sayd that it was no lesynge / for she sayd her bucke of clothes stode at the ryuer and bycause that her cat cessed not to lycke her ars she durste not go to wasshe it.
+            
+            
+               ¶The .xxiii. chapytre.
+               ¶Who that sytteth by the fyre and wryteth in the asshes with his fynger or with a staffe / is sygne that he hathe pysled in bedde or shall pysse in bedde. Glose. Peronne the smokye sayth in affermynge ye texte that he that beholdeth his wyfe couerynge the fyre before hym withoute takinge her vp knowe that of all that nyght he shall not leue slepynge and routynge / and yf it be a mayden she shall not be wedded of all that yere.
+            
+            
+               ¶The .xxiiii. chapytre.
+               ¶Whan one fereth that his dogge be bytten of a woode dogge / make hym ete and drynke thrughe a treuet / and he shall be preserued that daye from bytynge. Glose. To this purpose sayd Guyllemette the haltynge that who wyll haue his cat or his henne to kepe the house for lesynge / take ye cat or the henne and torne hym thryes aboute the croke of the chymney / and then rubbe theyr fete agaynst the walle of the chymney. And without ony faute they shal neuer departe
+
+parte from that house.
+            
+            
+               ¶The conclusyon of this Iourney.
+               
+                  FOr this gospell all the assystentes beganne to laughe myghtely / &amp; in effecte they lefte theyr spynnynge and praysed ryghte moche Dame Transelyne of the croke for the grete actoryte of her gospell / and semblably all the doctouresses and the wyse and prudent wyues whiche hadde glosed vpon the chapytres so honourably after the postylles that none myght not expose them better. ¶I rose vp from my place halfe wery and alredy somoned of the messangere of god Morpleus for to go and take my reste / but before my departynge I wolde se &amp; beholde whome they wolde chese amongest them for to rede the gospel vpon the morowe as the other hadde done. The wyues then hauynge lefte al theyr laughynge sayd that it was tyme for to chese the lady that sholde succede vpon the morowe. So they dyd chese with a comon accorde dame Abunde of the ouen / that dide accepte it benygnely / and promysed that she wolde do all that were possyble. After this eleccyon of dame Abunde of the ouen. I departed the moost secretely yt I myght for they beganne to babyll so myghtely that they toke noo kepe of my departynge.
+            
+         
+         
+            ¶Here foloweth the contynuacyon of the gospelles of dystaues / made the wednesday at nyght by dame Abū
+               de of the ouen.
+            
+               
+               
+            
+            
+               UPon the wednesday at the houre accustomed came and assembled all the wyues the whiche were accustomed for to come theder to here ye lecture and redynge / and there came with thē dyuers other as wel yonge as olde that hadde not ben there before / by the Instruccyon of theyr neyghboures. And they thus assembled came dame Abunde of ye ouen that for that nyght had ben establysshed for to rede her gospel so as she dyde. But before that I procede to the chapytres of the same I wyll wryte of her estate and maner. It is trouthe that in her yonge aege she was a chappe woman of lecherye all by tayle / and thenne afterwarde she helde a fayre shoppe at bruges amonge ye marchaūtes
+
+she had ben a fayre wyfe in her yonge aege / but the wyne and the good morselles that she had eten had made her so fatte that she was also brode as longe / she had studyed at Parys by the space of seuen yere in the college of Gletygne / from whens she broughte many a perfounde scyence / She then comen wente and sat her downe in the syege determyned / and after scylence made she began for to speke in this maner.
+            
+               ¶The fyrst chapytre.
+               ¶For the fyrste chapytre of my gospell I assure you that he that pysseth bytwene two houses or agaynst the sonne / knowe that he shall haue sore eyen. Glose. Sayth Beautrise Bousette I thynke better that ye sykenes cometh of to moche drynkynge at the fountayne of loue.
+            
+            
+               ¶The seconde chapytre.
+               ¶For to kepe them that they fall not in to the palsye / they must absteyne them from etynge the hedes of cattes or the flesshe of beres. Glose. Sayth dame Berte with the shorte hele I thynke and byleue that for the palsye of the raynes one must kepe hȳ from lyenge on his backe / ye the wyues and the men the contrary.
+            
+            
+               ¶The thyrde chapytre.
+               ¶Who that pysseth agaynste a ch
+                     •
+                  rche / or there as fyre is made it is grete meruayll but that before his dethe he fall in popelysye / for at the leste he shall haue the grauel. Glose Certaynly sayd Iaquemyne Galoys that had serued the curate longe tyme I assure you that he that pysseth thus / or dothe his necessyte agaynst the churche that the holywater that he receyueth on sonday can not helpe hym against the thondre for that weke.
+            
+            
+               
+               ¶The fourth chapytre.
+               ¶Yf a woman apperceyue a wulfe folowynge her / she oughte to trayle her gyrdell after her in saynge / kepe the wulfe that the moder of god smyte the not / and anone all confused he shal retorne agayne. Glose. Ione the sauage saith that yf ony se a wulfe before that the wulfe se hym / he hathe no power to do hym ony hurte / and in lyke wyse ye persone of the wulfe.
+            
+            
+               ¶The .v. chapytre.
+               ¶Whan the lorde or the lady of a house is seke / and that a rauen cometh and cryeth vpon the chambre where as the pacyent lyeth it is sygne that he shall deye of that sykenes Glose. Mehalte soone redy sayth to this purpose that whā a pye cometh and chattreth vpon the chambre it is a good sygne that the pacyent shall haue his helthe.
+            
+            
+               ¶The syxte chapytre.
+               ¶Whan the chyppynge wynde bloweth / the wyse wyues and good houswyues ought to cutte the ende of the ryght ere of her yonge calfe and caste the same pece agaynste the wynde / to the ende that he growe and amende as he shall do. Glose. Certaynly sayd Maroye the brente cheke I bylyue that who wolde promyse to saynt Bartylmewe the ryght horne it sholde suffyse.
+            
+            
+               ¶The .vii. chapytre.
+               ¶My good neyghbou
+                     ••
+                  s I wyll tell you in this chapytre one of the gretest secrete 
+                     ••
+                  at euer I lerned in Sauoye / That is for also true as the gospell that whan some tempest dothe aryse in the ayer we oughte anone to make a fyre of foure staues of an asshe tree in crosse wyse aboue the wynde and thenne afterwarde make a crosse vpon it / and anone the tempeste shal torne a syde and come not at your
+
+goodes. Glose Baudyne camuse sayth well that in the coū
+                  tree of Sauoye ben dyuers wyse women / for to make fayre or foule weder they ben maystresses.
+            
+            
+               ¶The .viii. chapytre.
+               ¶Whan the semawes feleth the tempest moue in the ayre and that they flee and crye vpon the water all softely / it is sygne that it shall be rayne withouten ony tempeste / but whan they be styll withouten ony noyse they doubte right strongly the thondre and the tempest. Glose. To this purpose sayth Mabylle Iolyette that whan the swannes or ye gese bayneth or plongeth them in the water / knowe for certayne and without ony doubte that the weder shall chaunge and rayne that daye
+            
+            
+               ¶The .ix. chapytre.
+               ¶Whan one hereth dogges houle and crye he ought for to stoppe his eres / for they brynge euyll tydynges / and to the contrary one ought for to herken and here a hors nye and crye. Glose. Magnon broquette sayth in approuynge thys artycle that whan one hereth the wulues houle and crye / euery body ought put them in good estate and holde it / for it is sygne of grete pestylence and mortalyte to come by famyne and warre.
+            
+            
+               ¶The .x. chapytre.
+               ¶Whan ye se the wulues come and seke theyr praye nere the vyllages or within the vyllages it is sygne of a dere seson. Glose. Isabell basket sayth vpon this texte that whā hertes and hyndes or buckes or does cometh &amp; pastureth besyde the vyllages and nere the houses it is a ryght good sygne of multytude and haboundaunce of all goodes.
+            
+            
+               
+               ¶The .xi. chapytre.
+               ¶I saye to you for a gospell that none that wyl wynne at the dyse or cardes sholde sytte hym downe &amp; torne his backe towarde the mone / in what place someuer it be at that tyme / but ought for to torne his vysage / and yf he doo the contrary he shall neuer ryse withouten lesynge. Glose. Michelette hochue sayth to this purpose that who wyll wyne at the cardes by daye he must do the contrary for he must torne his backe to the sonne.
+            
+            
+               ¶The .xii. chapytre.
+               ¶I tell to you for a trouthe my neyghboures that whan one putteth clene shetes vppon a bedde the aungell of god reposeth hym therin tyll the tyme that one haue farted / or fysted therin. Glose. Maryon foule hole sayth that as sone as the aungell is departed out of the bedde the deuylle entreth stynkynge and vnhoneste wherof oftentymes sourdethe grete noyse bytwene the man and the wyfe.
+            
+            
+               ¶The .xiii. chapytre.
+               ¶He or she that receyueth holywater on sondaye at ye chirche at the hye masse the deuyll cursed and desloyall in all ye weke may not tempe hym or her / nor approche nere them by seuen fote lengthe. Glose. Berte the gentyll sayeth that who that receyueth not holywater euery sondaye ye deuyll maye be inuysybly vpon his sholder nyght and daye / and who that receyueth it not of ye hande of a preest knowe for certayne that it hathe no strengthe nor vertue.
+            
+            
+               ¶The .xiiii. chapytre.
+               ¶He that dothe of ten blysse the sone and the mone / ye sterres his goodes shall multeplye double. Glose. Iossyne sone redy sayth that who that at his goynge to bedde salueth ye sterre poucynyere / it shall not be possyble for to lese ony of theyr chekyns or hennes / and also they shall multeplye ye
+
+                     〈1… pages missing〉
+                  
+               
+            
+         
+         
+            
+               
+               ¶The thyrde chapytre.
+               ¶He that knoweth carnally his gossep at his request may neuer entre in to paradyse yf his godsone doo not with his good wyll the penaunce / fyrste for his godfader / and after for his moder. Glose. Crystyne the sauage sayth that who that weddeth his gossep neuerthelesse that they be Ioyned togyder carnally yet it thondreth / or maketh some orage / eyther by londe or by water.
+            
+            
+               ¶The fourth chapytre.
+               ¶Who someuer knoweth a nonne carnally / or a woman vyoled / and deflored by copulacyon of a man of relygyon / or seculer preest / knowe for certayne that they shall all dye an euyll dethe / and with gretter payne and doloure than ye other folke. Glose. Fyllette ye strayte sayth that yf of suche accomplysshynge come ony chyldren they be enclyned vnto many euylles and fortunes.
+            
+            
+               ¶The .v. chapytre.
+               ¶A preestes hoore the whiche perseuereth alwaye in her synne vnto the dethe / knowe for also true as the gospell yt she is the deuylles hors / and it behoueth not to pray for her in ony maner. Glose. One amongest them sayd the whiche knewe that artycle that the synne myght be forgyuen by ye prayers of the preest and by the chyldren that they haue togyder / notwithstandynge that comunely they make an euyll ende.
+            
+            
+               ¶The .vi. chapytre.
+               ¶Yf a seculer preest / or another man of relygyon knowe carnally a wedded woman / he shall neuer haue pardon of the synne / tyl that he haue impetred pardon of her husbande agaynst the whiche he dyde offende so greuously. Glose Certaynly answered an olde matrone of fyue score yere / 
+
+                     〈1… pages missing〉
+                  
+               
+               
+                  ¶Yf that a close haue plente of sheepe that hathe dyuerse lambes / after that the dysme is all payed / there is one presented euery yere to the wulfe / for certaynlye he wyll take one but yf they be well watched. Glose. Emmelote of glay sayth to this purpose that who dothe not presente a lambe to the wulfe in the honoure of the lambe of god / knowe for certayne that there shall be many dyrty arse in the yere.
+            
+            
+               ¶The .xix. chapytre.
+               ¶Who that gadreth herbes for the pot on the saterdaye after none for to sethe on the sonday to ete / there happeneth lyghtly to them that doo it the euyll that is called the ioian of our lady. Glose. Iennet shorte heles sayd that it happened euen so to her in her yonge aege / but a yonge physycyā dyde hele her softely ynoughe within a shorte space.
+            
+            
+               ¶The .xx. chapytre.
+               ¶Whan a man is all redy for to mounte on horsbacke he oughte not to take his swerde in no wyse of ye hande of his wyfe / nor no pece of harneys / for at his nede he maye not in no wyse defende hymselfe. Glose. Sayd one of the assystentes named Angelyne grene gowne that it happened euen so to her fyrste husbande / for as he rode by nyghte / he sawe by the lyght of the mone besyde hym a gobelyn that was on one syde of ye waye / but he coude neuer drawe out his swerde that I had gyuen hym for the hast that he had to flee.
+            
+            
+               ¶The .xxi. chapytre.
+               ¶He that pysseth agaynst the sonne he becometh in his ful aege grauellous / and it engendreth the stone. Glose. I byleue sayd Ienyken that the grauell cometh soner of drynkynge of troubled wyne / or other troubled drynke / and especyally for to ryde without a sadle.
+            
+            
+               
+               ¶The conclusyon of this Iourneye.
+               
+                  AFter this gospel dame Abunde of the ouen helde her pease / for it was not possyble to her for to procede forth in her lecture for the murmure of the assystentes and spynners togyder. neuerthelesse whan that scylence was obteyned they thanked ryght gracyously dame Abunde of the ouen for her good and true gospelles promysynge that they wolde not put them in a calues ere / but wolde put them in fayre rethoryke termes / and publysshe them all aboute theyr progenye / to the ende that from generacyon to generacyō they were contynued and augmented. Upon this they began for to ryse vp euerychone and take theyr distaues and spyndelles / with whorles aprons and flaxe and al theyr instrumentes that apperteyned to theyr arte of spynnynge for to retorne vnto theyr houses. And then I trussed vp al my gobbettes for to go and take my rest / for mydnyght approched. They after dyuerse reasons dyde chese dame Sebylle of the marreys for too rede vppon the morowe at the houre accustomed / wherof they were ryght gladde / and in the meand whyle I pycked me to bedde.
+            
+         
+         
+            ¶Here after enseweth the conteynyng of the gospelles redde by dame Sebylle of the marreys the thursday at nyght.
+            
+               THe thursday bytwene .vi. &amp; .vii. at nyght assembled a grete sorte of matrones that were accustomed for to be there / with dyuers other that had not ben accustomed for to be there / and all for to here the gospell of dame Sebylle of the
+
+marreys. ¶Dame Sebille the whiche was of grete polle came in the company of dyuers of her knowledge and sat her downe for to procede forth ye night as she yt was ordeyned to do the offyce / but or that I reherse ony thynge more I wyll tell you of her estate and conuersacyon. ¶This Sebylle was by her grandame comen out of Sauoye of a countree that is named vaulx / where out came fyrste the vaudoys / of the whiche scyence she hadde reteyned a grete parte / she was of the aege of .lvii. yere / small and longe / &amp; also she named herselfe a gentylwoman bycause of vaulx / And in what place or assemble that she was in she had alwaye the last worde for to make conclusyon / and so she toke alwaye auauntage / for the whiche cause there came dyuers wyues whiche had not ben there before. Dame Sebylle then sette in her syege after scylence obteyned she began her gospell thus.
+            
+               ¶The fyrste chapytre.
+               ¶Who wyll that his chyldren be no cowardes / it is expedient that as soone as the chylde is baptysed that the fader make hym to handle his swerde or his glayue with his ryghte hande and he shall be all his lyfe more hardyer. Glose Dame Alyx of the marreys her syster sayd that whoo maketh a preest to rede vpon the chylde the gospell of the thre kynges / or the orayson of saynt Charlemayne / he shall be hardy and vyctoryous.
+            
+            
+               ¶The seconde chapytre.
+               ¶Whan two yonge folke sone or doughter be to take vp a chylde / the preest ought to put hym bytwene them / for yf it happened that the one toke the other by maryage / there sholde neuer be pease bytwene theym. Glose. A matrone yt was there sayd that it was true / and more ouer sayd and they had ony chyldren they sholde make a noughty ende.
+
+                     〈1… pages missing〉
+                  
+                  
+                  
+                     •
+                  wyes the double.
+            
+            
+               ¶The .xv. chapytre.
+               ¶He or she that in the mornynge at theyr vprysynge maketh the sygne of the crosse / and wassheth his handes or he departe out of the house / the deuyll shall haue no power to greue hym that daye / and yf he do it not what someuer laboure yt he dothe it shall not multeplye. Glose. To this purpose sayd Katheryn fendu that who someuer maketh not the benedycyte to be sayd at his dyner / ye deuyll inuysybly sytteth at the table and eteth and drynketh.
+            
+            
+               ¶The .xvi. chapytre.
+               ¶Whan ony woman bereth her capons to the good towne for to sell or some other thynge / yf by aduenture she do the on her ryght sho fyrste in the mornynge it is good hap for to sell well. Glose. This thynge hathe happened me ofte sayd Ione / and more ouer I haue often hadde my farynge by the way / of whiche and my husbande had knowledge of it he wolde not be contente.
+            
+            
+               ¶The .xvii. chapytre.
+               ¶Whan a woman entreth in the mornynge in to her stable for to mylke her kyen or gotes / yf she saye not god saue you and saynt Bryde lyghtely the kyen dothe stryke with theyr hynder fete and casteth downe the potte / or the pale with mylke. Glose. At these wordes rose vp an olde wyfe yt whiche had but one tothe in her heed / and sayd on hyghe in the audyence of theym all / that whan the calues wyll not drynke at the ponde / nor els where it is sygne that the bull that engendred them had but lytell loue to the moder.
+            
+            
+               ¶The .xviii. chapytre.
+               
+                  
+                     〈1… pages missing〉
+                  
+               
+            
+         
+         
+            
+               
+               this artycle I byleue well / for god may neuer vpon the ryghte of another / and after he pardonneth the ryght of the partye safe.
+            
+            
+               ¶The .vii. chapytre
+               ¶Yf a man maryed enhabyte with the wyfe of his neyghboure he closeth the gate of paradyse hym selfe / and shal neuer entre knocke he neuer so harde. Glose. Margot clap
+                     •
+                  te sayth that it shall neuer be opened to hym tyll he haue obteyned pardon of hym that he dyde the offence to.
+            
+            
+               ¶The .viii. chapytre.
+               ¶Whan the preest hathe songen masse and that some folke go and kysse the auter / they ough
+                     •
+                  e not of all that weke kysse no woman yf they be maryed. Glose. Certaynly and for a trouthe quod an olde spynner they that doo agaynste this artycle shall not fayle to haue the tothe ache or the hede ache.
+            
+            
+               ¶The .ix. chapytre.
+               ¶Whan a woman with chylde bereth her childe moost on the ryght syde / and that she ete gladly venyson and wylde foule / and that she here gladly speke of torneymentes and Iustynge / knowe ye that she bereth a sone. Glose. Mabylle fayre face sayth that whan a woman bereth vppon her lefte syde and that she appetyteth daunses &amp; sowne of Instrumentes / it is a doughter.
+            
+            
+               ¶The .x. chapytre.
+               ¶Yf a woman with chylde desyre to knowe what she bere the here her speke &amp; by herselfe ye shall knowe it / for whan she demaundeth what fruyte she bereth / yf ye saye a fayre sone &amp; that she blusshe not rede knowe for a trouthe that it is a doughter. Glose. Sayth Laurette the serye that yf a woman with chylde trede soner vpon the ryght fote than vpon the lefte fote / she bereth a sone withouten fayle / and
+
+yf she do the contrary it is a doughter.
+            
+            
+               ¶The .vi. chapytre.
+               ¶Whan a man engendreth naturelly a chylde / yf he myghte thynke than on the tyme to come / &amp; that he thoughte how after the dede he fyndeth hym dysposed / other Iuge than hymselfe there neded not / for whan the man engendreth a sone he chaungeth but a lytell / bycause that he engendreth his semblable / but for to engendre a doughter yt is oute of his compleccyon he fyndeth hymselfe strongly altred for two or thre dayes.. Glose. Parette Galoys sayeth yt incontynent as a woman hathe conceyued a chylde male the fyrste thre monethes she is metely wel ynoughe at ese / but the other syxe monethes she hathe moche grete doloure more than with a doughter / neuerthelesse the fyrste thre monethes the doughter gyueth her moche to suffre.
+            
+            
+               ¶The .xii. chapytre.
+               ¶Whan ye se the hennes gader vnder a pentous knowe that the weder shall chaunge and torne to rayne shortelye Glose. Syth that we be entred to speke of hennes sayd emmelyne trumely
+                     •
+                  re I shall tell you grete meruaylles / for whan ye wyll haue your hennes copped vpon theyr hedes for also true as we be here ye must take a copped sacke and set the henne therin with her egges and let her syt on brode in the sacke and her chekyns shall be all copped on theyr hedes.
+            
+            
+               ¶The .xiii. chapytre.
+               ¶And whan ye se the fyre brenne in your chymney make a mowe at it and for also true as the gospell it shall quenche and go out.
+            
+            
+               ¶The .xiiii. chapytre.
+               
+                  ¶My frendes and neyghboures whan ye goo to the wedraght beware that ye wype not your ars with leues / and for also true as the gospell ye shall neuer haue the sekenesse of saynt wulfe of feuylloye. Glose. Callette shorte hele said that she dyde it ones / but she myght not endure no where for ytchynge of the ynne syde of her thyes / wherfore I byleue that the deuyll is is the herbes.
+            
+            
+               ¶The .xv. chapytre.
+               ¶Whan a chylde is borne before that he be baptysed beware that ye bere hym not vpon your lefte arme / for than shall he be lefte handed all his lyfe. Glose. Martyne soone redy sayth to this purpose that yf ye make your husbande torne his face towarde the oryent whyles that he dothe the dede of loue and yf there be ony generacyon it is a sone.
+            
+            
+               ¶The .xvi. chapytre.
+               ¶Who that loketh in a glasse vpon the nyght for also true as the gospell they shall se the cursed thefe / and yet ye shal not waxe more fayrer but more fouler. Glose. Belette Camuse sayeth that there ben glasses at Bruges the whiche ben naturall / and rendreth the folke that loketh therin all browne / but they haue an euyll brethe.
+            
+            
+               ¶The .xvii. chapytre.
+               ¶Who that wyll be vyctoryous in warre and batayll / or happy and fortunate in marchaundyse / let hym put on his sherte in the mornynge the contrary wyse / and for certayne and for a trouthe he shall be ryght happy and fortunate Glose. Quod dame wrynchefyste this rule is true withouten ony faute / so that the warre be not agaynste his wyfe or his loue / for there he may no whyle resyste / but lese all incontynente.
+            
+            
+               
+               ¶The .xviii. chapytre.
+               ¶Whan a woman hathe her cocke feble &amp; nyce / she muste gyue hym garlyke to ete / and anoynt his crest to the ende that he become more stronger and more vygorous / and also he shall kepe the better his ryghtes towarde the hennes Glose. Who that may fynde sayd Marote wydred ye herbe that awakeneth the nyce husbandes I wolde gyue al that I haue to my smocke / and yf I sholde goo and begge my brede.
+            
+            
+               ¶The .xix. chapytre.
+               ¶Who that wyll nourysshe and brynge vp lytell dogges without grete growynge / he ought to wasshe his handes in the mornynge in a grete quantyte of water / and in that same wete the brede that is gyuen to the dogges / and gyue them the water to drynke / and for a trouthe they shall neuer waxe more. Glose. I byleue well that it is so / but ales gracyous dyde nourysshe them in a pot / and they myghte not growe greter than the pot was.
+            
+            
+               ¶The .xx. chapytre.
+               ¶Whan a wyfe dothe ryse on the nyght for to pysse / and that she stryde ouer her husbande knowe that and he haue ony of his membres styffe that it shall waxe softe yf she retorne not theder as she had striden. Glose. Maroye ployar de sayth that and it be after the fyrst cocke crowe she maye retorne where someuer it shall please her without ony preiudyse.
+            
+            
+               ¶The .xxi. chapytre.
+               ¶For certayne my neyghboures and frendes whan ye here the wynde blowe strongly / knowe for trouthe that it is sygne of treason / or at the leest of euyl tydynges. Glose. It is a thynge that is oftentymes proued / wherfore all the examples were to longe to reherse.
+            
+            
+               
+               ¶The .xxii. chapytre.
+               ¶Whan a man rydeth vpon his Iourney and yf he mete a woman spynnynge it is a ryght euyll sygne / wherfore he ought to retorne and ryde by another waye. Glose. Iaket Iokesus sayth that and yf the wyfe wyll hyde her rocke in her lappe or behynde her / it can not empesshe hym / but yf by aduenture he fall of his hors he may hurte some of hys membres.
+            
+            
+               ¶The .xxiii. chapytre.
+               ¶I saye to you for conclusyon / and for also true as we be here that yf ony woman wyll that her husbande / or her paramoure loue her well / she ought to put in his shoo a lefe of brekens that had ben gadred on saynt Iohās euen whyles that they rynge none / so that it be in the lefte shoo / and without faute he shall loue her meruaylously.
+            
+            
+               ¶The conclusyon of the thursday.
+               
+                  AT that conclusyon began all the olde wyues &amp; the yonge that were there present to deuyse togyder and make a grete murmure as all abasshed of the noble actorytees and true gospelles that dame Sebylle had exposed to them &amp; promysed well amonge them that they sholde reteyne theym and imprynte them in theyr memoryes / for they dyde holde them for good and holy. It dyspleased me moche that I myght not haue the company of ony man for to laughe &amp; passe the tyme / for certaynly the countenaūce and manere of them was ryght sauage and straunge / and to my thynkynge it semed them that all the worlde sholde be gouerned by theyr constytycyons and wordes. Nowe herken to me sayd one of the croked matrones that was named mabylle of ye chyfte / my frendes &amp; neyghbours it is thursdaye to daye / and the grettest daye of rost in the weke: wherfore
+
+it semeth me that it sholde be good that we made amonge vs all togyder a lytel Ioyous banquet for to refresshe our vnderstandynges with and our spyrytes. And especyally for to feest &amp; reioyse our wyse doctouresses that vnto this tyme hathe instructed and admonested vs of the noble doctryne the whiche here after withouten ony doubte shall be perpetually praysed and honoured / and parauenture we shal come to haue domynacyon ouer the men / what say ye Certes sayd one of her neyghboures that was a ryght gode gossep / and knewe well for to flee by nyght named Mehalte ployarde I shall tell you / there was neuer woman that sayd better to my thynkynge. I wyll goo to my house secretely whyles that my husbande ployarde slepeth / and shall brynge a dosen egges with me. Another sayd and I shal go and fetche floure and butter for to make pancakes with / and I take vpon my conscyence that ye vyllayne Iokesus my husbande shall not ete one morsell. Then answered an olde matrone named florette of ye felde. And I shal go and fetche a grete quarte of swete wyne / for yet haue I spared foure or fyue pence wherof my husbande euyl redy knoweth nothynge. Now vp let euery body do theyr dylygence and put payne to do theyr deuoyre / then there was one the whiche sayd that she wolde dresse the mete. The whyles that they were thus empesshed &amp; besy / &amp; thoughte vpon none other thynge but for to accomplysshe theyr desyre I departed the moost secretely that I myght / and wt out ony leue I wente vnto my reste. Of the good chere yt they made for to tell you trouthe wtout ony lesynge I can not tel you / saue that whiche was tolde me / but there is no thynge worthy to be put in memorye / form in that banquet was soo many reasons without effecte that it is not possyble to wryte them.
+            
+         
+         
+            
+            ¶The contynuacyon of the Iourney of frydaye made by dame Gonbarde the face.
+            
+               
+            
+            
+               WHan it came vpon the frydaye at the houre accustomed / and that ye olde matrones &amp; neyghboures of all sortes were there arryued and comen / before that dame Gonbarde ye face was comen for to procede in her syege / they began for to deuyse amongest them of the good chere yt they made ye nyght before after my departynge / wherby I knewe somwhat how they hadde done / thenne sayd Mabylle of
+
+the clyfte to florette of the grene / Ihesu neyghboure how ye dronke yester nyght / I byleue that ye dyde it bycause yt ye wolde slepe the better ye touched well the thyrde pynte I thynke wel sayd Florette / for it was longe ago syth that I had so good a nyght for the dremer Iokesus my husbā
+               de dothe me no good but slepeth alwaye / for it is .ix. dayes syth that he touched me / wherfore I byleue that he hathe made some vowe to some saynt / euyll myght he thryue for his sparynge of me but syth that we haue tyme for to deuyse how dyde Mehaulte ployarde make herselfe dronke it semed that all was hers and for to make it shorte there was but for her aloone / it were good for to knowe yf yt she dyde not waken her husbande ployarde whan she wente to bedde. Aha answered mehaulte for the loue of god lette hym slepe in peas / for he is nought from hens forthe that colde Ioye maye ye haue of hym. And howe sayd a yonge mayden that was there. Dame mehaulte you that is soo olde and so aūcyent wolde ye yet wynche / and is there ony styffe vayne in you yet. At those wordes dame Mehaulte set her handes in her syde and in grete anger and felonye answered her that it was true that she hadde yet a grene vayne / and that she was not soo olde but that she myghte lye vpon her backe / and that one ought for to take hede to the good wyll of a body / and yet thanked be god the butter melteth in my mouthe / notwithstandynge that I maye cracke no nuttes / for she had but one tothe. Then came dame Gonbarde the face for to begynne her gospell / at whose comynge was made scylence / but that was with grete payne / for dame mehaulte was so euyll contente bycause yt she hadde ben called olde / and yet she had but .lxxvii. yeres that she coude not be appesyd in no maner. Neuerthelesse they prayed her so moche that she helde her pease thanked
+
+be god. Soo I toke my penne and paper for to wryte that whiche she sayd / but or that I prosede to her chapytres I wyll tell you what was this doctouresse dame Gonbarde. She was by her moder syde of Querne / and by her fader syde of Pymont / she was of a symple countenaunce before the people / for she named her a gentylwoman / but and ony body hadde loste ony thynge she medled her for to ensygne them to it / and yf some had had ony nede of a wenche / she wolde haue done hym pleasure for gracyous wyne and this was the pratyke that she deled moost with. Whan she was sytten downe and that scylence was made she began her gospell in this maner.
+            
+               ¶The fyrst chapytre.
+               ¶Now sayd dame Gonbarde let be all ryot and debate / &amp; let vs begynne for the honoure of the fryday that is to day for to speke of the holy sacrament of maryage / for I haue ben seuen tymes wedded / but this notwithstandynge yf ye eyght came to me and that he be to my paye / yet he sholde be receyued gladly / and for to be welbeloued of him I wolde make hym ete a salade of herbes that sholde be gadered on saynt Iohans euen at none / and for trouthe it shal not be possyble to hym for to leue me for another that is more yonger than I am. Glose. Said Belotte the browne vnto this purpose that yf a wyfe put in her husbandes ere the feders of a capon that had brought vp yonge chekyns / and of the heere of the ryght fote of her dogge / and of the heer of her cattes tayle / he may neuer forgete the loue of her.
+            
+            
+               ¶The seconde chapytre.
+               ¶Yf that a woman wyll be mayster ouer her husbande / and that he shall not bete her / she must take all his shertes and whan the parysshe preest redeth the passyon on good frydaye put them vnder the auter / and make hym put one
+
+on the sondaye ensewynge / knowe that also longe as it is on his backe he shall be gracyous and meke to his wyfe.
+            
+            
+               ¶The thyrde chapytre.
+               ¶yf a woman wyll haue her husbande to loue one of her chyldren better than another / let her make hym ete a pece of the eres of her dogge: and the chylde the other halfe: and they shall loue soo feruently togyder that with payne they maye be one from another.
+            
+            
+               ¶The fourth chapytre.
+               ¶yf a woman wyll that her husbande loue all her chyldrē out of mesure / let her take of the bryne of all her chyldren / with fayre and clere water / &amp; make hym wasshe his handes and his face therin or euer he yssue oute of the house / &amp; withouten faute he shall loue them out of mesure.
+            
+            
+               ¶The .v. chapytre.
+               ¶Who that wyll preserue his dogge from beynge wo
+                     •
+                  de. gyue hym to ete euery daye in the mornynge a morsell / or twayne of the propre brede that ye take at the chirche vpō sondaye / and yf that he refuse it for trouth he is euyl dysposed. Glose. Marotte pylle sayth that who wyll not that the dogges barke at hym nyght nor daye / let him haue alway a good pece of rosted chese with hym and gyue them to ete of it in saynge vnto them. In chamo et freno all a longe / &amp; for certaynte they shall lette you alone / ye and yf they were sterke madde.
+            
+            
+               ¶The .vi. chapytre.
+               ¶The woman that desyreth that her kyen maye gyue as moche mylke as them of her neyghbours / she ought for to rubbe her vessell well in the whiche she receyueth the mylke with good herbes that hathe ben gadered vppon saynt Iohannes euen whyles that they rynge none. Glose. I by leue sayd Ienettte with the grete lyppes that who wolde
+
+put the forsayd herbes that had ben gadered vppon saynt Iohannes euen vnderneth the dore of the stable where as the kyen dothe lye / in saynge vnto them god saue you and saynt bryde that they sholde gyue alwaye from well vnto better.
+            
+            
+               ¶The .vii. chapytre.
+               ¶Who th
+                     •
+                  t wyll haue bothe wynter &amp; somer fresshe butter of theyr kyen / they ought whan that they be in shalour to lede them before the bulle / and let hym smell at them wt out ony touchynge / and then lede the cowe thryes aboute the bulle / and after let hym lepe her / and ye shal haue fresshe butter all the yere longe.
+            
+            
+               ¶The .viii. chapytre.
+               ¶Whan that a woman grete with chylde strydeth ouer a snale / yf that it be a sone he shall haue grete membres and harde / and yf it be a doughter she shall haue grete lyppes / and rede / as well beneth as aboue.
+            
+            
+               ¶The .ix. chapytre.
+               ¶The woman that wyll not lese her good catte ought for to anoynt her foure fete with butter by thre nyghtes / and she shall neuer departe from that hous for a trouthe and a certaynte.
+            
+            
+               ¶The .x. chapytre.
+               ¶I tell to you for also true as the gospel that yf a persone ete of the beest that the wulfe hathe strangled / and of the whiche parauenture he hathe eten / with grete payne may that same persone gyue vp the ghoost but yf that the wulfe were fyrste deed. Glose. At the leest he maye not speke of a longe tyme sayd Belette the horned yf that he make not his offrynge to saynt wulfe.
+            
+            
+               ¶The .xi. chapytre.
+               
+                  ¶Whan one seeth a whyte relygyous goo or ryde by the waye none ought for to go that waye bycause of the foule weder that happeneth often to them. Glose. Some wyse women sayeth that it is an euyll sygne for to encountre a whyte monke in a mornynge / but for to encountre a black monke it is a good sygne so that he haue no whyte.
+            
+            
+               ¶The .xii. chapytre.
+               ¶Whan that a bryde gothe from her house to the chirche for to be wedded / the best prayer that is gyuen to her abydeth to her profyte / so that she thanke incontynente the gyuer therof / or elles the prayer auaylleth nothynge. Glose. Then sayd Perrette blewe that whan she wente to ye chirche for to be wedded to Ianot blewe myne aunt salued me and prayed god for to sende me good and harde encountre wherfore I thanked her / but it happened to me all otherwyse / for I founde it so softe that one haue bounde myght it at ye ryght knotte / that colde Ioye haue it.
+            
+            
+               ¶The .xiii. chapytre.
+               ¶One ought neuer to sette the hennes on broude vpon a fryday / for lyghtly the chekens that cometh of them is deuoured by wylde beestes and foules. Glose. Certaynly said marroye of the clyfte I haue often herde saye yt one must kepe hym that he set not the henne on broude whan ye mone chaungeth nor a daye after / for ye chekyns that cometh of them hathe neuer good ende.
+            
+            
+               ¶The .xiiii. chapytre.
+               ¶Whan that a womans throte dothe ytche it is sygne of good tydynges yt she shall go to some weddynge / or some chirchynge to make grete che
+                     •
+                  e but whan her heed dothe ytche it is all the contrary / for she maye happen to be bette of her husbande. Glose. Perrette longe hede sayth yt whan a mannes throte dothe ytche that he hathe asore tymes be
+
+ten his wyfe it is sygne to hange.
+            
+            
+               ¶The .xv. chapytre.
+               ¶Whan one seeth plente of backes flee aboute a house it is good for to dyslodge be tymes. for it is a grete sygne that fyre shall be put in it shortly.
+            
+            
+               ¶The .xvi. chapytre.
+               ¶Who th
+                     •
+                  t leueth theyr table clothe spredde all the night on the table / and that the myse come and ete the crommes of brede by nyght / who someuer eteth on that on ye morow his tethe shall become blacke and soone after rotte. Glose. Marroye with the gylted mouthe sayth to this purpose yt who someuereteth hote potage and especyally fourmente shall haue theyr tethe blacke.
+            
+            
+               ¶The .xvii. chapytre.
+               ¶Whan a chylde is newely borne yf it be a sone / he muste be borne in to the felde / and put his fete agaynste his brest and for a trouthe he shall neuer make an euyll ende. Glose. Then Emenye fauuele sayd to this purpose that whan a woman is delyuered of a doughter / she must be set vppon her moders brest in saynge / god make the a good woman and she shall neuer haue shame of her body.
+            
+            
+               ¶The .xviii. chapytre.
+               ¶Whan a woman lyeth with her husbande and that she wolde sooner haue a sone than a doughter / it behoueth her for to holde her handes close whyle yt her husbande dothe the werke of nature / &amp; for a trouthe she shall haue a sone Glose. Some auncient matrones maynteyneth that who that wyll make a sone it behoueth to make hym in the mornynge by daye / and a doughter at euen by nyght.
+            
+            
+               ¶The .xix. chapytre.
+               
+                  ¶A woman that wyll haue small chyldren / whyles yt she bereth hym she ought to breke her fast in the mornynge wt a tost of whyte brede in wyne / and withoute ony faute the chylde that she bereth shall be lytell. Glose. Sayd a matrone that was there I byleue better that the lytell chyldren ben sooner engendred in the defaute of ye mone than other wyse / for customably the men ben than in defante.
+            
+            
+               ¶The .xx. chapytre.
+               ¶My good frendes &amp; neyghbours yf that ye wyll knowe yf a woman be with chylde / cause her to make water in a basyn / and then lette her put a locke or a keye in to it / but a locke is better / and let the locke abyde therin thre or foure houres / and then empte ye basyn and take out the locke / &amp; yf that ye se that the prynte of the locke abyde in the basyn knowe for a certaynte that the sayd woman is with chylde ryght grete.
+            
+            
+               ¶The conclusyon of the Iourneye of Frydaye.
+               
+                  FOr this last glose sourded grete tumulte amō
+                  ge the wyues that were there assembled / also well of laughynge as of spekynge all togyder and it semed none other thynge but a market where as is but he ha without ony ordenaunce / and without ony herkenynge the one of the other / nor abydynge the ende of theyr reasons. Wherfore whan I sawe that murmuracyon I rolled vp my paper / &amp; stopped myn ynkehorne and put vp my penne / and arose vp thyn kynge for to stele awaye secretely from them / but anone I
+
+was apperceyued of some of them the whiche retayned me and made me abyde by force / for the whiche cause they made a lytell scylence / that endured but a whyle. In the whiche they prayed me all togyder that I wolde retorne vpon the morowe with them at the houre accustomed / to the ende for to encheue and make an ende of theyr entencyon / &amp; the thynge the whiche was so wel begonne / and for to put in wrytynge the resydue of theyr gospelles ye dame Berthe the horned that was the last assembled sholde make / where as they ought for to conclude and make an ende of theyr artycles. I consyderynge the comon prouerbe that sayth / Who serueth and maketh not an ende leseth his mede / dyde vttre vnto them theyr request lyberally. And after that I had taken my leue gracyously of them I went vnto my chambre for to take my rest. For my heed was gretely emty bycause of the folysshe reasons that they babeled vnto me in suche wyse that myn vnderstandyng coude not comprehende them. So I lefte them there trussynge theyr bagages and wente me to my bedde.
+            
+         
+         
+            ¶The contynuacyon of the Iourneye of Saterdaye.
+            
+               THe Saterdaye at nyght aboute syxe of the clocke after the salue of our lady / and that I hadde taken a lytell shorte refeccyon / as wel for the honoure of the daye as for ye affeccyon that I had to se and here to what ende they wolde take conclusyon
+
+               
+of theyr gospelles / and after whan I hadde taken my gobettes / bothe paper / pēne / and ynke I transported me to the place accustomed. And I comen theder sat me downe in my syege accustomed. Dyuers of ye scolers was comen theder alredy that began for to voyde theyr dystaues. For they myght not spynne for the honoure of the saterdaye and of the vyrgyn Mary. I had not soiourned there but a whyle whan dame Berthe ye horned came accompanyed with dyuers of her frendes and neyghboures / for to rede her gospell and contynue as to doo that whiche she
+
+was chosen to do. But or that I procede to her chapytres. I wyll wryte somwhat of her genealogy and yssue. Dame Berthe the horned was of the countree of Leage / &amp; was aboute the aege of foure score yere or more / she was doughter vnto Reynarde the horned a meruayllous wyse man / In his tyme he had studyed at tollette in the arte of grammer and geomatrye / and after that he had ben at monpellyer where as he had studyed in physyke / and of that arte he lyued all his lyfe / and dyde enduse dame Berthe therin in the whiche she profyted moche / and lyued therwith afterwarde in Tapynage dyshonestly ynoughe / she then set downe in her syege &amp; scylence obteyned began her gospell in this maner. My good frendes &amp; neyghbours sythe that my torne is comen that I must make an ende and conclusyon of the werke that by my good ladyes was begonne / I shall treate to my power of the scyence that I haue lerned as touchynge physyke / and shall acquyte me the beste wyse that I maye. Wherfore make ye dylygence for to reteyne them / for they ben dygne to be put in the profoundenes of your memory.
+            
+               ¶The fyrst chapytre.
+               ¶For the fyrste chapytre I tell you that who that hathe ye axes and he fast the fyrste sondaye after that they haue taken hym / knowe for a trouthe that they shall leue hym.
+            
+            
+               ¶The seconde chapytre.
+               ¶He that hathe the feuers tyerces and he bere aboute hys necke with a lytell sylke the hye names bounde / withoute ony doubte he shall guarysshe.
+            
+            
+               ¶The thyrde chapytre.
+               ¶Yf ye haue a husbande rebell the whiche wyll gyue you no moneye at your nede / take the fyrste knotte of a whete strawe / but it must be gadered nere the erthe vpon saynt
+
+Iohannes euen whyles that they rynge none / and put yt in the keye hole of the coffre / and withouten faute it shal ones open.
+            
+            
+               ¶The fourth chapytre.
+               ¶He that hathe the feuer quarteyns / let hym do so moche that he fynde a trayfle with foure leues / and breke his fast foure tymes with them / and they shall leue hym.
+            
+            
+               ¶The .v. chapytre.
+               ¶The woman that is syke of the rogereule let her take holy water and make a candell therof / and after suppe it of / and for certayne she shall be hole.
+            
+            
+               ¶The .vi. chapytre.
+               ¶Dyuers folke speketh of the maladye of the whyte axes the whiche knoweth full lytell what it meneth / for they be twyes as yl as ye feuer quartayns / neuerthelesse they may be heled with ones drynkynge in saynt Georges vessell.
+            
+            
+               ¶The .vii. chapytre.
+               ¶For to hele feuers contynuelles / one muste wryte ye thre fyrste wordes of the pater noster vpon a sage lefe / and ete it thre mornynges togyder / and they shall guarysshe.
+            
+            
+               ¶The .viii. chapytre.
+               ¶yf a woman doo wreste her fote in suche wyse that it be out of ioynt. It behoueth that her husbande go on pylgrymage to saynt Martyn for her helthe / and brynge with hȳ of the wasshynge of saynt Martyns horse fote / and wyth the same wasshe her fote and she shall be hole.
+            
+            
+               ¶The .ix. chapytre.
+               ¶yf a woman haue the smal pockes / it behoueth that her husbande bye her a blacke lambe of the same yere / and after bynde her in the skynne / and then let hym make hys pylgrymage and offrynge to saynt Arragonde / and for a trouthe she shall hele.
+            
+            
+               
+               ¶The .x. chapytre.
+               ¶yf that a hors haue wrythen his legge or his fote / it behoueth that he ryde hym towarde the preestes house / and cal hym without / and without spekynge to hym retorne agayne / and for a trouthe he shall go as euen as euer he dyde / &amp; without doloure.
+            
+            
+               ¶The .xi. chapytre.
+               ¶I wolde tell you meruaylles of horses and of theyr medecyns / but bycause that the men sholde not take them to theyr profyte I wyll holde my pease &amp; speke of other thynges. But neuertheles yet I wyll tell to you that whan ye se a terryble horse that wyll not suffre that they mount vppon hym / or wyl not entre in to a shyppe / or passe a brydge saye to hym in his ere these wordes. Horse also true as the lemman of a preest is the deuylles horse suffre me to moū
+                  te vpon the / and incontynent he shall be peasyble and doo all yo ir wyll.
+            
+            
+               ¶The .xii. chapytre.
+               ¶My good neyghbours and frendes yet I tell you for a trouthe that yf ony man bere vpon hym in some batayll ye lytell skynne that he bryngeth out of his moders wombe / knowe that he may not be hurte nor wounded in his body. Glose. Then rose vp an olde matrone amonge them called Ione soone clothed / &amp; sayd herynge them all that yf a man bare vpon hym whan he wente into batayl the hye names whiche ben suche. Late thou go / ferre the holde tho / yf they fyght / come awaye ryght / and thou shalte neuer be hurte in batayll.
+            
+            
+               ¶The .xiii. chapytre.
+               ¶I can not witholde me from spekynge alwaye of ye thȳ
+                  ges to the auauntage of the men / and yet I knowe well ynoughe that they set but lytell by vs / for they holde theyr
+
+parlayment and Ianglynge of vs in the reproche of oure sexe / but knowe that I wyll well yet tell you / that whan a woman hathe newely the axes / yf that she oynte all her conduytes with hony the fyrste thursdaye after that she hathe had them and trembled / knowe for certaynte that she shall be quyte of them.
+            
+            
+               ¶The .xiiii. chapytre.
+               ¶Whan ye se ye swalowes bylde theyr nestes in some house / knowe that it is sygne of pouerte. And yf the sparowes buylde theyr nestes it is sygne of prosperyte and of al gode fortune.
+            
+            
+               ¶The .xv. chapytre.
+               ¶Also euery tyme and as often as ye make your bucke / &amp; that the caudron is vpon the fyre full of lee / and that the fyre is vnder / the whiche maketh it to boyle and sethe / ye oughte not for to saye a my gossep the lee boylleth / but ye oughte to saye that it laugheth / otherwyse al the clothes wyl go in to smoke. Glose. Then answered a wyfe the whiche was not very olde that was all enlumyned with rubyes / It is trouthe and certayne for I knowe it well ynoughe / For vpon a tyme I made my bucke of threde / and my husbande was there / and I forbade hym that he sholde not saye the lee boyled / and tolde hym yf he sayd it that all our threde wolde become strawes / for all that my husbande coude not kepe hym frome saynge of it whan he sawe that it laughed / &amp; so my threde became strawe. And I the consumer durst not saye that it / I had dronke it.
+            
+            
+               ¶The .xvi. chapytre.
+               ¶My frendes for conclusyon fynall of my gospell / &amp; for the sondaye yt approcheth I wyll tell you a thynge yt fewe
+
+men knoweth. I tell to you for a trouthe that the storkes yt kepeth them in these countrees in somer / and in wynter retorneth agayne in to theyr countree whiche is aboute the mount of Synay ben creatures there as we be. For it appereth that they haue grete reason for whan they haue lytell ones they paye theyr dysmes to god. Glose. For to conferme that conclusyon rose vp dame Abreyge the swolen / the whiche was so olde that it was grete meruayll &amp; sayd that it was true whiche dame Berthe the horned had sayd for she had often herde it sayd and tolde of her vncle / that whan he had ben at saynt Katheryns mount of Synay / &amp; that in the deserte whan all his felyshyp was deed he sawe from ferre a creature to the whiche he spake / and beganne for to aske hym the waye in flemysshe. That creature anone beganne for to answere hym and shewed and taughte hym his waye: and in dede he wente a grete whyle with hȳ and deuysed with hym of his countree and tolde hym that he was a storke here and made his nest in Flaundres vpon the house of his neyghbour. Clays whiche wolde not byleue that thynge prayed hym that he wolde gyue hym a certayne token to the ende that yf he retorned in to the coūtre that he myght thanke hym of his curteysye. Then the storke drewe out a rynge of golde that he hadde taken vp in a place besyde his house and shewed it to hym / and also sone as Clays sawe it he knewe it well / for it was the proprerȳ
+                  ge wherwith he had wedded his wyfe. Then the storke gaue hym his rynge agayne vpon a condycyon that he defended ye swyncherde and ye cowherde of his house that they sholde doo hym no more outrage as they had ben accustomed for to do. And after these promesses myne vncle toke his leue of hym and retorne agayne to Bruges where euer syth he lyued so well and so longe that he was grete ye wel
+
+fourtene palmes aboute whan he deyed.
+               
+                  GRete was the laughynge amonge the assystentes that had alredy wasshed and combed theyr hedes: and wounde vp theyr yarne / and was alredy for to trusse vp theyr gete wherof I was ryght Ioyous / for certaynly I began for to be moche wery of theym / bycause that to my semynge all the wordes that they had spoken was without reason / &amp; with out ony good sentente as I thought well it sholde be at ye fyrste begynnynge. But for to shewe myselfe not percyall nor also a dyspreyser of theyr wylles I with halfe a ioyous chere abode amonge them to se what ende they wolde make of theyr gospelles and actorytees / &amp; how that I myght take my leue honestly of them for to saue myn honour. It was yet nothynge apperceyued that there was ony 
+                     ••
+                  ylence amongest them / wherfore I put me in theyr syght to ye ende that by my beholdynge of them they myght haue some shame of theyr affayre the whiche was withouten rule or ordenaunce lyke a bataylle that had ben fynysshed. At the last the syxe ladyes that had ben the begynners &amp; presedentes all the weke came towarde me / &amp; thanked me gracyously for the grete payne that I had taken for theym / &amp; for my hyre and rewarde they promysed me yf I requyred them for to auaunce me towarde some damoysell / for the whiche I thanked them in excusynge me by myn aege the whiche was sore ronne on / for I abode nothynge but the messanger of god for to call me vnto the Ioye eternell / vnto the whiche he brynge you and me. Amen.
+            
+         
+         
+            
+               
+               ¶The conclusyon and excusynge of the auctour.
+               
+                  YOu my lordes and also my ladyes that this lytell treatyse dothe rede / or hereth redde / take it in passe tyme / prayng you yt ye take no regarde vnto the chapytres / as to the apparaunce of ony trouthe / or of ony good introduccyon / But take it all for to be sayd and wryten for to shewe and declare the fragylyte of theym that soo deuyse ryght often whan they be togyder. And yet I haue herde more of thē dyuers tymes / but it ought to suffyse at this present tyme for my parte. for another may come ye whiche may augmente them.
+            
+            ¶Thus endeth the gospelles of dystaues.
+         
+      
+      
+         
+            Enprynted at London in Flete strete at the sygne of the sonne by Wynkynde Worde.
+            
+            
+               
+                  wynkyn .de. worde.
+               
+            
+            
+         
+      
+   
+
